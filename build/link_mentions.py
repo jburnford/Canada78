@@ -34,7 +34,7 @@ DIA_MD = Path.home() / "DeptIndianAffairs/markdown"
 OUT = ROOT / "registries/annotations"
 
 CUE_RE = re.compile(
-    r"\b(agency|agencies|reserve|reserves|band|bands|indians|tribe|I\.? ?R\.?|"
+    r"\b(agency|agencies|reserve|reserves|band|bands|indians|tribes?|I\.? ?R\.?|"
     r"No\.|superintendency|inspectorate)\b", re.I)
 SIG_RE = re.compile(
     r"^\s*([A-Z][A-Z.'’\- ]{3,40}),?\s*\n\s*(?:Indian\s+)?(Agent|Acting Agent|"
