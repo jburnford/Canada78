@@ -1,0 +1,6 @@
+event_type,from_chain,to_chain,year_approx,confidence,evidence
+MERGED_INTO,AG-kamloops-agency,AG-kamloops-okanagan-agency,1889,high,"merged unit attested 1889-1910 under 7 name variants; separate Kamloops Agency attested 1881-88 and again 1907+"
+MERGED_INTO,AG-okanagan-agency,AG-kamloops-okanagan-agency,1889,high,"merged unit attested 1889-1910; separate Okanagan Agency attested 1881-85 and again 1907+"
+SPLIT_INTO,AG-kamloops-okanagan-agency,AG-kamloops-agency,1907,medium,"merged attestations end 1910 while separate Kamloops Agency letters resume 1907; overlap 1907-10 suggests staged separation — verify against report text"
+SPLIT_INTO,AG-kamloops-okanagan-agency,AG-okanagan-agency,1907,medium,"separate Okanagan Agency letters resume 1907 (attested to 1915)"
+RENAMED,AG-indian-head-agency,AG-file-hills-agency,1891,high,"Indian Head Agency attested 1890, File Hills from 1894; 1885 AR narrates File Hills farm instructor appointed acting agent for the Indian Head Agency's bands; ASSINIBOIA - FILE HILLS district-prefixed variants 1896-1900 collapse to the same chain"

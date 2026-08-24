@@ -1,0 +1,585 @@
+chain_a,span_a,chain_b,span_b,shared,suggested
+AG-manitoba-superintendency,1880-1910,AG-lake-manitoba-inspectorate,1898-1913,MANITOBA,review
+AG-manitoba-superintendency,1880-1910,AG-manitoba-superintendency,1905-1905,MANITOBA,review
+AG-manitoba-superintendency,1880-1910,AG-manitoba-village-agency,1882-1882,MANITOBA,review
+AG-manitoba-superintendency,1880-1910,AG-manitoba-house-agency,1883-1883,MANITOBA,review
+AG-manitoba-superintendency,1880-1910,AG-manitoba-house-agency,1880-1880,MANITOBA,review
+AG-west-coast-agency,1882-1915,AG-north-west-coast-agency,1888-1899,COAST WEST,review
+AG-west-coast-agency,1882-1915,AG-northwest-coast-agency,1901-1909,COAST,review
+AG-west-coast-agency,1882-1915,AG-north-west-superintendency,1896-1900,WEST,review
+AG-blackfoot-agency,1885-1923,AG-albert-blackfoot-agency,1896-1896,BLACKFOOT,review
+AG-walpole-island-agency,1884-1914,AG-christian-island-agency,1914-1915,ISLAND,review
+AG-walpole-island-agency,1884-1914,AG-prince-edward-island-agency,1914-1915,ISLAND,review
+AG-walpole-island-agency,1884-1914,AG-georgina-island-agency,1914-1914,ISLAND,review
+AG-blood-agency,1886-1915,AG-indian-agent-s-office-blood-agency,1888-1888,BLOOD,review
+AG-kamloops-okanagan-agency,1889-1910,AG-okanagan-agency,1881-1915,OKANAGAN,review
+AG-kamloops-okanagan-agency,1889-1910,AG-kamloops-agency,1881-1915,KAMLOOPS,review
+AG-sarcee-agency,1891-1915,AG-indian-agent-s-office-sarcee-agency,1887-1890,SARCEE,review
+AG-williams-lake-agency,1886-1915,AG-duck-lake-agency,1888-1915,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-onion-lake-agency,1889-1915,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-crooked-lake-agency,1891-1915,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-saddle-lake-agency,1890-1914,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-manitoba-inspectorate,1898-1913,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-golden-lake-agency,1899-1915,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-winnipeg-inspectorate,1899-1913,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-county-of-renfrew-golden-lake-agency,1884-1895,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-mud-rice-lake-agency,1884-1887,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-williams-lake-agency,1885-1889,LAKE WILLIAMS,review
+AG-williams-lake-agency,1886-1915,AG-lake-st-john-agency,1881-1884,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-williams-lake-agency,1891-1895,LAKE WILLIAMS,review
+AG-williams-lake-agency,1886-1915,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-william-lake-agency,1911-1911,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-williams-lake-agency,1886-1915,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-carlton-agency,1884-1915,AG-indian-office-carlton-agency,1894-1894,CARLTON,review
+AG-battleford-agency,1884-1915,AG-battleford-inspectorate,1898-1905,BATTLEFORD,review
+AG-duck-lake-agency,1888-1915,AG-onion-lake-agency,1889-1915,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-crooked-lake-agency,1891-1915,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-saddle-lake-agency,1890-1914,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-manitoba-inspectorate,1898-1913,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-golden-lake-agency,1899-1915,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-winnipeg-inspectorate,1899-1913,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-county-of-renfrew-golden-lake-agency,1884-1895,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-mud-rice-lake-agency,1884-1887,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-william-lake-agency,1911-1911,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-saskatchewan-duck-lake-agency,1903-1903,DUCK LAKE,review
+AG-duck-lake-agency,1888-1915,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-duck-lake-agency,1888-1915,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-hobbema-agency,1894-1915,AG-district-of-alberta-hobbema-agency,1893-1893,HOBBEMA,review
+AG-hobbema-agency,1894-1915,AG-first-house-of-chief-samson-hobbema-agency,1901-1901,HOBBEMA,review
+AG-savanne-agency,1881-1915,AG-kenora-savanne-agency,1915-1915,SAVANNE,review
+AG-savanne-agency,1881-1915,AG-savanne-agency,1893-1893,SAVANNE,review
+AG-onion-lake-agency,1889-1915,AG-crooked-lake-agency,1891-1915,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-saddle-lake-agency,1890-1914,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-manitoba-inspectorate,1898-1913,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-golden-lake-agency,1899-1915,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-winnipeg-inspectorate,1899-1913,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-county-of-renfrew-golden-lake-agency,1884-1895,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-mud-rice-lake-agency,1884-1887,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-william-lake-agency,1911-1911,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE ONION,review
+AG-onion-lake-agency,1889-1915,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-onion-lake-agency,1889-1915,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-moose-mountain-agency,1887-1915,AG-east-assiniboia-moose-mountain-agency,1896-1901,MOOSE MOUNTAIN,review
+AG-moose-mountain-agency,1887-1915,AG-eastern-assiniboia-moose-mountain-agency,1904-1904,MOOSE MOUNTAIN,review
+AG-moose-mountain-agency,1887-1915,AG-eastern-assiniboia-moose-mountain-agency,1905-1905,MOOSE MOUNTAIN,review
+AG-crooked-lake-agency,1891-1915,AG-saddle-lake-agency,1890-1914,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-manitoba-inspectorate,1898-1913,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-golden-lake-agency,1899-1915,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-winnipeg-inspectorate,1899-1913,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-county-of-renfrew-golden-lake-agency,1884-1895,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,CROOKED LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-crooked-lakes-agency,1889-1890,CROOKED,review
+AG-crooked-lake-agency,1891-1915,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-william-lake-agency,1911-1911,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,CROOKED LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-crooked-lake-agency,1891-1915,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-touchwood-hills-agency,1887-1915,AG-touchwood-agency,1901-1915,TOUCHWOOD,review
+AG-touchwood-hills-agency,1887-1915,AG-file-hills-agency,1894-1910,HILLS,review
+AG-touchwood-hills-agency,1887-1915,AG-peace-hills-agency,1885-1888,HILLS,review
+AG-touchwood-hills-agency,1887-1915,AG-touchwoods-hills-agency,1898-1898,HILLS,review
+AG-touchwood-hills-agency,1887-1915,AG-yellow-quill-s-band-touchwood-hills-agency,1905-1905,HILLS TOUCHWOOD,review
+AG-peigan-agency,1889-1914,AG-peigan-agency,1904-1904,PEIGAN,review
+AG-northern-superintendency-1st-division,1880-1895,AG-northern-superintendency-4th-division,1880-1895,NORTHERN,review
+AG-northern-superintendency-1st-division,1880-1895,AG-northern-superintendency-3rd-division,1880-1892,NORTHERN,review
+AG-northern-superintendency-1st-division,1880-1895,AG-northern-superintendency-2nd-division,1883-1890,NORTHERN,review
+AG-saddle-lake-agency,1890-1914,AG-lake-manitoba-inspectorate,1898-1913,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-golden-lake-agency,1899-1915,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-winnipeg-inspectorate,1899-1913,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-county-of-renfrew-golden-lake-agency,1884-1895,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-mud-rice-lake-agency,1884-1887,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-william-lake-agency,1911-1911,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-alberta-saddle-lake-agency,1898-1898,LAKE SADDLE,review
+AG-saddle-lake-agency,1890-1914,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-saddle-lake-agency,1890-1914,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-northern-superintendency-4th-division,1880-1895,AG-northern-superintendency-3rd-division,1880-1892,NORTHERN,review
+AG-northern-superintendency-4th-division,1880-1895,AG-northern-superintendency-2nd-division,1883-1890,NORTHERN,review
+AG-manitowaning-agency,1899-1915,AG-district-of-manitoulin-manitowaning-agency,1910-1910,MANITOWANING,review
+AG-fraser-river-agency,1896-1910,AG-babine-upper-skeena-river-agency,1897-1913,RIVER,review
+AG-fraser-river-agency,1896-1910,AG-river-desert-agency,1884-1895,RIVER,review
+AG-fraser-river-agency,1896-1910,AG-beren-s-river-agency,1884-1894,RIVER,review
+AG-fraser-river-agency,1896-1910,AG-swan-river-agency,1895-1900,RIVER,review
+AG-fraser-river-agency,1896-1910,AG-fisher-river-agency,1913-1915,RIVER,review
+AG-fraser-river-agency,1896-1910,AG-berens-river-agency,1885-1900,RIVER,review
+AG-fraser-river-agency,1896-1910,AG-babine-uppfr-skeena-river-agency,1906-1906,RIVER,review
+AG-fraser-river-agency,1896-1910,AG-indian-office-fraser-river-agency,1895-1895,FRASER RIVER,review
+AG-fraser-river-agency,1896-1910,AG-oak-river-sioux-agency,1907-1907,RIVER,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-babine-agency,1890-1915,BABINE,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-river-desert-agency,1884-1895,RIVER,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-beren-s-river-agency,1884-1894,RIVER,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-swan-river-agency,1895-1900,RIVER,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-fisher-river-agency,1913-1915,RIVER,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-berens-river-agency,1885-1900,RIVER,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-british-columbia-babine-agency,1894-1895,BABINE,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-babine-uppfr-skeena-river-agency,1906-1906,BABINE RIVER SKEENA,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-indian-office-fraser-river-agency,1895-1895,RIVER,review
+AG-babine-upper-skeena-river-agency,1897-1913,AG-oak-river-sioux-agency,1907-1907,RIVER,review
+AG-western-superintendency-2nd-division,1880-1895,AG-western-superintendency-3rd-division,1883-1895,WESTERN,review
+AG-western-superintendency-2nd-division,1880-1895,AG-western-superintendency-1st-division,1883-1895,WESTERN,review
+AG-western-superintendency-2nd-division,1880-1895,AG-western-superintendency,1880-1883,WESTERN,review
+AG-western-superintendency-2nd-division,1880-1895,AG-south-western-superintendency-2nd-division,1885-1886,WESTERN,review
+AG-western-superintendency-2nd-division,1880-1895,AG-western-superintendency-agency,1881-1881,WESTERN,review
+AG-western-superintendency-2nd-division,1880-1895,AG-south-western-superintendency-1st-division,1885-1885,WESTERN,review
+AG-western-superintendency-3rd-division,1883-1895,AG-western-superintendency-1st-division,1883-1895,WESTERN,review
+AG-western-superintendency-3rd-division,1883-1895,AG-western-superintendency,1880-1883,WESTERN,review
+AG-western-superintendency-3rd-division,1883-1895,AG-south-western-superintendency-2nd-division,1885-1886,WESTERN,review
+AG-western-superintendency-3rd-division,1883-1895,AG-western-superintendency-agency,1881-1881,WESTERN,review
+AG-western-superintendency-3rd-division,1883-1895,AG-south-western-superintendency-1st-division,1885-1885,WESTERN,review
+AG-western-superintendency-1st-division,1883-1895,AG-western-superintendency,1880-1883,WESTERN,review
+AG-western-superintendency-1st-division,1883-1895,AG-south-western-superintendency-2nd-division,1885-1886,WESTERN,review
+AG-western-superintendency-1st-division,1883-1895,AG-western-superintendency-agency,1881-1881,WESTERN,review
+AG-western-superintendency-1st-division,1883-1895,AG-south-western-superintendency-1st-division,1885-1885,WESTERN,review
+AG-portage-la-prairie-agency,1880-1915,AG-rat-portage-agency,1889-1895,PORTAGE,review
+AG-portage-la-prairie-agency,1880-1915,AG-rat-portage-inspectorate,1900-1901,PORTAGE,review
+AG-portage-la-prairie-agency,1880-1915,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,PORTAGE,review
+AG-portage-la-prairie-agency,1880-1915,AG-portage-la-prairie-manitowapah-agency,1900-1900,PORTAGE PRAIRIE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-golden-lake-agency,1899-1915,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-lake-winnipeg-inspectorate,1899-1913,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-county-of-renfrew-golden-lake-agency,1884-1895,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-william-lake-agency,1911-1911,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-manitoba-superintendency,1905-1905,MANITOBA,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-lake-manitoba-inspectorate,1898-1913,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-north-west-coast-agency,1888-1899,AG-north-eastern-superintendency,1885-1895,NORTH,review
+AG-north-west-coast-agency,1888-1899,AG-northwest-coast-agency,1901-1909,COAST,review
+AG-north-west-coast-agency,1888-1899,AG-north-west-superintendency,1896-1900,NORTH WEST,review
+AG-north-west-coast-agency,1888-1899,AG-north-eastern-superintendency,1887-1887,NORTH,review
+AG-cape-croker-agency,1883-1915,AG-micmacs-of-cape-breton-county-sydney-agency,1903-1909,CAPE,review
+AG-cape-croker-agency,1883-1915,AG-micmacs-of-cape-breton-county-eskasoni-agency,1903-1909,CAPE,review
+AG-cape-croker-agency,1883-1915,AG-micmacs-of-cape-breton-eskasoni-agency,1904-1904,CAPE,review
+AG-cape-croker-agency,1883-1915,AG-micmacs-of-cape-breton-county-eskasoni-agency,1910-1910,CAPE,review
+AG-cape-croker-agency,1883-1915,AG-micmacs-of-cape-breton-county-sydney-agency,1905-1905,CAPE,review
+AG-golden-lake-agency,1899-1915,AG-lake-winnipeg-inspectorate,1899-1913,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-william-lake-agency,1911-1911,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-golden-lane-agency,1914-1914,GOLDEN,review
+AG-golden-lake-agency,1899-1915,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-golden-lake-agency,1899-1915,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-northern-superintendency-3rd-division,1880-1892,AG-northern-superintendency-2nd-division,1883-1890,NORTHERN,review
+AG-babine-agency,1890-1915,AG-british-columbia-babine-agency,1894-1895,BABINE,review
+AG-babine-agency,1890-1915,AG-babine-uppfr-skeena-river-agency,1906-1906,BABINE,review
+AG-qu-appelle-agency,1901-1915,AG-qu-appelle-inspectorate,1898-1905,APPELLE,review
+AG-river-desert-agency,1884-1895,AG-beren-s-river-agency,1884-1894,RIVER,review
+AG-river-desert-agency,1884-1895,AG-swan-river-agency,1895-1900,RIVER,review
+AG-river-desert-agency,1884-1895,AG-grand-river-superintendency,1880-1886,RIVER,review
+AG-river-desert-agency,1884-1895,AG-berens-river-agency,1885-1900,RIVER,review
+AG-river-desert-agency,1884-1895,AG-st-peter-s-broken-head-river-agency,1881-1882,RIVER,review
+AG-river-desert-agency,1884-1895,AG-salmon-river-agency,1887-1888,RIVER,review
+AG-river-desert-agency,1884-1895,AG-desert-agency,1883-1883,DESERT,review
+AG-river-desert-agency,1884-1895,AG-indian-office-fraser-river-agency,1895-1895,RIVER,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-lake-of-two-mountains-agency,1880-1913,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE WINNIPEG,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-william-lake-agency,1911-1911,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE WINNIPEG,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-lake-winnipeg-inspectorate,1899-1913,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE WINNIPEG,review
+AG-western-superintendency,1880-1883,AG-south-western-superintendency-2nd-division,1885-1886,WESTERN,review
+AG-western-superintendency,1880-1883,AG-western-superintendency-agency,1881-1881,WESTERN,review
+AG-western-superintendency,1880-1883,AG-south-western-superintendency-1st-division,1885-1885,WESTERN,review
+AG-beren-s-river-agency,1884-1894,AG-swan-river-agency,1895-1900,RIVER,review
+AG-beren-s-river-agency,1884-1894,AG-grand-river-superintendency,1880-1886,RIVER,review
+AG-beren-s-river-agency,1884-1894,AG-berens-river-agency,1885-1900,RIVER,review
+AG-beren-s-river-agency,1884-1894,AG-st-peter-s-broken-head-river-agency,1881-1882,RIVER,review
+AG-beren-s-river-agency,1884-1894,AG-salmon-river-agency,1887-1888,RIVER,review
+AG-beren-s-river-agency,1884-1894,AG-indian-office-fraser-river-agency,1895-1895,RIVER,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-county-of-renfrew-golden-lake-agency,1884-1895,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lesser-slave-lake-agency,1909-1915,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-mud-rice-lake-agency,1884-1887,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lake-st-john-agency,1881-1884,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-william-lake-agency,1911-1911,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-lake-of-two-mountains-agency,1880-1913,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-north-saskatchewan-inspectorate,1906-1913,AG-south-saskatchewan-inspectorate,1906-1913,SASKATCHEWAN,review
+AG-north-saskatchewan-inspectorate,1906-1913,AG-saskatchewan-duck-lake-agency,1903-1903,SASKATCHEWAN,review
+AG-north-saskatchewan-inspectorate,1906-1913,AG-saskatchewan-inspectorate,1911-1911,SASKATCHEWAN,review
+AG-south-saskatchewan-inspectorate,1906-1913,AG-saskatchewan-duck-lake-agency,1903-1903,SASKATCHEWAN,review
+AG-south-saskatchewan-inspectorate,1906-1913,AG-saskatchewan-inspectorate,1911-1911,SASKATCHEWAN,review
+AG-south-saskatchewan-inspectorate,1906-1913,AG-south-lake-winnipeg-inspectorate,1909-1909,SOUTH,review
+AG-north-eastern-superintendency,1885-1895,AG-north-west-superintendency,1896-1900,NORTH,review
+AG-north-eastern-superintendency,1885-1895,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,EASTERN,review
+AG-north-eastern-superintendency,1885-1895,AG-north-eastern-superintendency,1887-1887,EASTERN NORTH,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-county-of-hastings-tyendinaga-agency,1883-1892,COUNTY,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-mud-rice-lake-agency,1884-1887,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-lake-st-john-agency,1881-1884,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-county-of-renfrew-golden-lake-agency,1893-1893,COUNTY GOLDEN LAKE RENFREW,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-algonquin-band-golden-lake-agency,1883-1883,GOLDEN LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-county-of-hastings-tyendiuaga-agency,1888-1888,COUNTY,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-county-of-renfrew-golden-lake-agency,1889-1889,COUNTY GOLDEN LAKE RENFREW,review
+AG-county-of-renfrew-golden-lake-agency,1884-1895,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-indian-reserve-commissioner,1886-1886,AG-indian-commissioner,1881-1889,COMMISSIONER,review
+AG-indian-reserve-commissioner,1886-1886,AG-indian-reserve-agency,1883-1883,RESERVE,review
+AG-calgary-inspectorate,1898-1903,AG-northwest-territories-calgary-inspectorate,1901-1901,CALGARY,review
+AG-manitowapah-agency,1896-1915,AG-portage-la-prairie-manitowapah-agency,1900-1900,MANITOWAPAH,review
+AG-lower-fraser-agency,1883-1892,AG-fraser-agency,1881-1888,FRASER,review
+AG-lower-fraser-agency,1883-1892,AG-indian-office-fraser-river-agency,1895-1895,FRASER,review
+AG-county-of-hastings-tyendinaga-agency,1883-1892,AG-county-of-renfrew-golden-lake-agency,1893-1893,COUNTY,review
+AG-county-of-hastings-tyendinaga-agency,1883-1892,AG-county-of-hastings-tyendiuaga-agency,1888-1888,COUNTY HASTINGS,review
+AG-county-of-hastings-tyendinaga-agency,1883-1892,AG-county-of-renfrew-golden-lake-agency,1889-1889,COUNTY,review
+AG-northwest-coast-agency,1901-1909,AG-northwest-superintendency,1901-1905,NORTHWEST,review
+AG-northwest-coast-agency,1901-1909,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,NORTHWEST,review
+AG-northwest-coast-agency,1901-1909,AG-northwest-territories-calgary-inspectorate,1901-1901,NORTHWEST,review
+AG-piegan-agency,1888-1898,AG-district-of-alberta-treaty-no-7-piegan-agency,1895-1895,PIEGAN,review
+AG-lesser-slave-lake-agency,1909-1915,AG-rice-mud-lake-agency,1883-1914,LAKE,review
+AG-lesser-slave-lake-agency,1909-1915,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-lesser-slave-lake-agency,1909-1915,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-lesser-slave-lake-agency,1909-1915,AG-william-lake-agency,1911-1911,LAKE,review
+AG-lesser-slave-lake-agency,1909-1915,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-lesser-slave-lake-agency,1909-1915,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-lesser-slave-lake-agency,1909-1915,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-penetanguishene-agency,1885-1895,AG-penetanguishene-agency,1884-1884,PENETANGUISHENE,review
+AG-rice-mud-lake-agency,1883-1914,AG-lake-simcoe-agency,1885-1890,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-stuart-lake-agency,1912-1915,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-mud-rice-lake-agency,1884-1887,LAKE RICE,review
+AG-rice-mud-lake-agency,1883-1914,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-lake-st-john-agency,1881-1884,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-william-lake-agency,1911-1911,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-rice-lake-agency,1915-1915,LAKE RICE,review
+AG-rice-mud-lake-agency,1883-1914,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-rice-mud-lake-agency,1883-1914,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-east-assiniboia-moose-mountain-agency,1896-1901,AG-eastern-assiniboia-crooked-lake-agency,1898-1905,ASSINIBOIA,review
+AG-east-assiniboia-moose-mountain-agency,1896-1901,AG-eastern-assiniboia-moose-mountain-agency,1904-1904,ASSINIBOIA MOOSE MOUNTAIN,review
+AG-east-assiniboia-moose-mountain-agency,1896-1901,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,ASSINIBOIA,review
+AG-touchwood-agency,1901-1915,AG-yellow-quill-s-band-touchwood-hills-agency,1905-1905,TOUCHWOOD,review
+AG-manito-wa-paw-agency,1888-1894,AG-manito-wah-pah-agency,1885-1887,MANITO,review
+AG-manito-wa-paw-agency,1888-1894,AG-manito-wa-pah-agency,1887-1887,MANITO,review
+AG-alnwick-agency,1884-1915,AG-alnwick-agency,1883-1883,ALNWICK,review
+AG-file-hills-agency,1894-1910,AG-touchwoods-hills-agency,1898-1898,HILLS,review
+AG-file-hills-agency,1894-1910,AG-yellow-quill-s-band-touchwood-hills-agency,1905-1905,HILLS,review
+AG-northwest-superintendency,1901-1905,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,NORTHWEST,review
+AG-northwest-superintendency,1901-1905,AG-northwest-territories-calgary-inspectorate,1901-1901,NORTHWEST,review
+AG-swan-river-agency,1895-1900,AG-berens-river-agency,1885-1900,RIVER,review
+AG-swan-river-agency,1895-1900,AG-indian-office-fraser-river-agency,1895-1895,RIVER,review
+AG-sydney-agency,1910-1915,AG-micmacs-of-cape-breton-county-sydney-agency,1903-1909,SYDNEY,review
+AG-montagnais-of-lower-st-lawrence-bersimis-agency,1904-1909,AG-montagnais-of-the-lower-st-lawrence-mingan-agency,1904-1906,LAWRENCE LOWER MONTAGNAIS,review
+AG-montagnais-of-lower-st-lawrence-bersimis-agency,1904-1909,AG-montagnais-of-lower-st-lawrence-mingan-agency,1903-1909,LAWRENCE LOWER MONTAGNAIS,review
+AG-montagnais-of-lower-st-lawrence-bersimis-agency,1904-1909,AG-montagnais-of-lower-st-lawrence-mingan-agency,1910-1910,LAWRENCE LOWER MONTAGNAIS,review
+AG-montagnais-of-lower-st-lawrence-bersimis-agency,1904-1909,AG-montagnais-of-lower-st-lawrence-bersimis-agency,1910-1910,BERSIMIS LAWRENCE LOWER MONTAGNAIS,review
+AG-montagnais-of-lower-st-lawrence-bersimis-agency,1904-1909,AG-montagnais-or-lower-st-lawrence-bersimis-agency,1903-1903,BERSIMIS LAWRENCE LOWER MONTAGNAIS,review
+AG-lake-simcoe-agency,1885-1890,AG-mud-rice-lake-agency,1884-1887,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-lake-st-john-agency,1881-1884,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-simcoe-agency,1883-1884,SIMCOE,review
+AG-lake-simcoe-agency,1885-1890,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-lake-simcoe-agency,1885-1890,AG-simcoe-agency,1889-1889,SIMCOE,review
+AG-lake-simcoe-agency,1885-1890,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-grand-river-superintendency,1880-1886,AG-berens-river-agency,1885-1900,RIVER,review
+AG-grand-river-superintendency,1880-1886,AG-st-peter-s-broken-head-river-agency,1881-1882,RIVER,review
+AG-grand-river-superintendency,1880-1886,AG-salmon-river-agency,1887-1888,RIVER,review
+AG-grand-river-superintendency,1880-1886,AG-grand-rapids-agency,1883-1883,GRAND,review
+AG-grand-river-superintendency,1880-1886,AG-rosseau-river-agency,1880-1880,RIVER,review
+AG-micmacs-of-cape-breton-county-sydney-agency,1903-1909,AG-micmacs-of-cape-breton-county-eskasoni-agency,1903-1909,BRETON CAPE COUNTY MICMACS,review
+AG-micmacs-of-cape-breton-county-sydney-agency,1903-1909,AG-micmacs-of-cape-breton-eskasoni-agency,1904-1904,BRETON CAPE MICMACS,review
+AG-micmacs-of-cape-breton-county-sydney-agency,1903-1909,AG-micmacs-of-cape-breton-county-eskasoni-agency,1910-1910,BRETON CAPE COUNTY MICMACS,review
+AG-micmacs-of-cape-breton-county-sydney-agency,1903-1909,AG-micmacs-of-cape-breton-county-sydney-agency,1905-1905,BRETON CAPE COUNTY MICMACS SYDNEY,review
+AG-british-columbia-inspectorate,1906-1909,AG-british-columbia-school-inspectorate,1907-1907,BRITISH COLUMBIA,review
+AG-british-columbia-inspectorate,1906-1909,AG-british-columbia-inspectorate,1905-1905,BRITISH COLUMBIA,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-williams-lake-agency,1891-1895,LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-eastern-assiniboia-moose-mountain-agency,1904-1904,ASSINIBOIA EASTERN,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,ASSINIBOIA CROOKED EASTERN LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-eastern-assiniboia-moose-mountain-agency,1905-1905,ASSINIBOIA EASTERN,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1898-1905,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-micmacs-of-cape-breton-county-eskasoni-agency,1903-1909,AG-micmacs-of-cape-breton-eskasoni-agency,1904-1904,BRETON CAPE ESKASONI MICMACS,review
+AG-micmacs-of-cape-breton-county-eskasoni-agency,1903-1909,AG-micmacs-of-cape-breton-county-eskasoni-agency,1910-1910,BRETON CAPE COUNTY ESKASONI MICMACS,review
+AG-micmacs-of-cape-breton-county-eskasoni-agency,1903-1909,AG-micmacs-of-cape-breton-county-sydney-agency,1905-1905,BRETON CAPE COUNTY MICMACS,review
+AG-stuart-lake-agency,1912-1915,AG-lake-winnipeg-kenora-inspectorate,1908-1909,LAKE,review
+AG-stuart-lake-agency,1912-1915,AG-william-lake-agency,1911-1911,LAKE,review
+AG-stuart-lake-agency,1912-1915,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-stuart-lake-agency,1912-1915,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-stuart-lake-agency,1912-1915,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-berens-river-agency,1885-1900,AG-st-peter-s-broken-head-river-agency,1881-1882,RIVER,review
+AG-berens-river-agency,1885-1900,AG-salmon-river-agency,1887-1888,RIVER,review
+AG-berens-river-agency,1885-1900,AG-indian-office-fraser-river-agency,1895-1895,RIVER,review
+AG-chapleau-agency,1911-1915,AG-district-of-algoma-chapleau-agency,1909-1910,CHAPLEAU,review
+AG-chapleau-agency,1911-1915,AG-chapleau-agency,1912-1912,CHAPLEAU,review
+AG-fort-frances-agency,1914-1915,AG-fort-simpson-agency,1914-1915,FORT,review
+AG-fort-frances-agency,1914-1915,AG-fort-smith-agency,1914-1915,FORT,review
+AG-fort-frances-agency,1914-1915,AG-fort-william-agency,1915-1915,FORT,review
+AG-kenora-agency,1914-1915,AG-kenora-savanne-agency,1915-1915,KENORA,review
+AG-manito-wah-pah-agency,1885-1887,AG-manito-wa-pah-agency,1887-1887,MANITO,review
+AG-restigouche-agency,1884-1915,AG-ste-anne-de-restigouche-agency,1885-1887,RESTIGOUCHE,review
+AG-mud-rice-lake-agency,1884-1887,AG-williams-lake-agency,1885-1889,LAKE,review
+AG-mud-rice-lake-agency,1884-1887,AG-lake-st-john-agency,1881-1884,LAKE,review
+AG-mud-rice-lake-agency,1884-1887,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-mud-rice-lake-agency,1884-1887,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-mud-rice-lake-agency,1884-1887,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-mud-rice-lake-agency,1884-1887,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-mud-rice-lake-agency,1884-1887,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-montagnais-of-the-lower-st-lawrence-mingan-agency,1904-1906,AG-montagnais-of-lower-st-lawrence-mingan-agency,1903-1909,LAWRENCE LOWER MINGAN MONTAGNAIS,review
+AG-montagnais-of-the-lower-st-lawrence-mingan-agency,1904-1906,AG-montagnais-or-lower-st-lawrence-bersimis-agency,1903-1903,LAWRENCE LOWER MONTAGNAIS,review
+AG-montagnais-of-lower-st-lawrence-mingan-agency,1903-1909,AG-mingan-agency,1912-1913,MINGAN,review
+AG-montagnais-of-lower-st-lawrence-mingan-agency,1903-1909,AG-montagnais-of-lower-st-lawrence-mingan-agency,1910-1910,LAWRENCE LOWER MINGAN MONTAGNAIS,review
+AG-montagnais-of-lower-st-lawrence-mingan-agency,1903-1909,AG-montagnais-of-lower-st-lawrence-bersimis-agency,1910-1910,LAWRENCE LOWER MONTAGNAIS,review
+AG-montagnais-of-lower-st-lawrence-mingan-agency,1903-1909,AG-montagnais-or-lower-st-lawrence-bersimis-agency,1903-1903,LAWRENCE LOWER MONTAGNAIS,review
+AG-williams-lake-agency,1885-1889,AG-lake-st-john-agency,1881-1884,LAKE,review
+AG-williams-lake-agency,1885-1889,AG-williams-lake-agency,1891-1895,LAKE WILLIAMS,review
+AG-williams-lake-agency,1885-1889,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-williams-lake-agency,1885-1889,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-williams-lake-agency,1885-1889,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-williams-lake-agency,1885-1889,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-williams-lake-agency,1885-1889,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-lake-st-john-agency,1881-1884,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-lake-st-john-agency,1881-1884,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-indian-agent-s-office-sarcee-agency,1887-1890,AG-indian-agent-s-office-blood-agency,1888-1888,AGENT OFFICE,review
+AG-fort-simpson-agency,1914-1915,AG-fort-smith-agency,1914-1915,FORT,review
+AG-fort-simpson-agency,1914-1915,AG-fort-william-agency,1915-1915,FORT,review
+AG-fort-smith-agency,1914-1915,AG-fort-william-agency,1915-1915,FORT,review
+AG-district-of-algoma-chapleau-agency,1909-1910,AG-district-of-saguenay-seven-islands-agency,1913-1913,DISTRICT,review
+AG-district-of-algoma-chapleau-agency,1909-1910,AG-district-of-manitoulin-manitowaning-agency,1910-1910,DISTRICT,review
+AG-district-of-algoma-chapleau-agency,1909-1910,AG-chapleau-agency,1912-1912,CHAPLEAU,review
+AG-district-of-algoma-chapleau-agency,1909-1910,AG-saguenay-district-seven-islands-agency,1912-1912,DISTRICT,review
+AG-lake-winnipeg-kenora-inspectorate,1908-1909,AG-william-lake-agency,1911-1911,LAKE,review
+AG-lake-winnipeg-kenora-inspectorate,1908-1909,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE WINNIPEG,review
+AG-williams-lake-agency,1891-1895,AG-william-s-lake-agency,1884-1890,LAKE,review
+AG-williams-lake-agency,1891-1895,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-williams-lake-agency,1891-1895,AG-alberta-saddle-lake-agency,1898-1898,LAKE,review
+AG-williams-lake-agency,1891-1895,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-williams-lake-agency,1891-1895,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-williams-lake-agency,1891-1895,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-williams-lake-agency,1891-1895,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-william-s-lake-agency,1884-1890,AG-county-of-renfrew-golden-lake-agency,1893-1893,LAKE,review
+AG-william-s-lake-agency,1884-1890,AG-algonquin-band-golden-lake-agency,1883-1883,LAKE,review
+AG-william-s-lake-agency,1884-1890,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-william-s-lake-agency,1884-1890,AG-lake-st-john-chicoutmi-agency,1888-1888,LAKE,review
+AG-william-s-lake-agency,1884-1890,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-william-s-lake-agency,1884-1890,AG-william-s-lake-agency,1893-1893,LAKE WILLIAM,review
+AG-south-western-superintendency-2nd-division,1885-1886,AG-south-western-superintendency-1st-division,1885-1885,SOUTH WESTERN,review
+AG-st-peter-s-broken-head-river-agency,1881-1882,AG-rosseau-river-agency,1880-1880,RIVER,review
+AG-st-peter-s-broken-head-river-agency,1881-1882,AG-st-peter-s-broken-head-fort-alexander-agency,1885-1885,BROKEN HEAD PETER,review
+AG-st-peter-s-broken-head-river-agency,1881-1882,AG-st-peter-s-broken-head-fort-alexandria-agency,1884-1884,BROKEN HEAD PETER,review
+AG-st-peter-s-broken-head-river-agency,1881-1882,AG-st-peter-s-agency,1880-1880,PETER,review
+AG-sioux-agency,1909-1910,AG-oak-river-sioux-agency,1907-1907,SIOUX,review
+AG-bersimis-agency,1913-1915,AG-montagnais-of-lower-st-lawrence-bersimis-agency,1910-1910,BERSIMIS,review
+AG-rat-portage-inspectorate,1900-1901,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,PORTAGE,review
+AG-rat-portage-inspectorate,1900-1901,AG-portage-la-prairie-manitowapah-agency,1900-1900,PORTAGE,review
+AG-mingan-agency,1912-1913,AG-montagnais-of-lower-st-lawrence-mingan-agency,1910-1910,MINGAN,review
+AG-christian-island-agency,1914-1915,AG-prince-edward-island-agency,1914-1915,ISLAND,review
+AG-christian-island-agency,1914-1915,AG-georgina-island-agency,1914-1914,ISLAND,review
+AG-prince-edward-island-agency,1914-1915,AG-georgina-island-agency,1914-1914,ISLAND,review
+AG-indian-office-carlton-agency,1894-1894,AG-indian-office-fraser-river-agency,1895-1895,OFFICE,review
+AG-fort-qu-appelle-agency,1883-1883,AG-and-fort-alexander-agency,1883-1883,FORT,review
+AG-fort-qu-appelle-agency,1883-1883,AG-st-peter-s-broken-head-fort-alexander-agency,1885-1885,FORT,review
+AG-fort-qu-appelle-agency,1883-1883,AG-st-peter-s-broken-head-fort-alexandria-agency,1884-1884,FORT,review
+AG-hudson-s-bay-agency,1915-1915,AG-hudson-bay-agency,1914-1914,HUDSON,review
+AG-william-lake-agency,1911-1911,AG-lake-of-the-woods-inspectorate,1913-1913,LAKE,review
+AG-william-lake-agency,1911-1911,AG-south-lake-winnipeg-inspectorate,1909-1909,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1893-1893,AG-lake-st-john-chicoutimi-agency,1890-1890,LAKE,review
+AG-county-of-renfrew-golden-lake-agency,1893-1893,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-alberta-saddle-lake-agency,1898-1898,AG-district-of-alberta-treaty-no-7-piegan-agency,1895-1895,ALBERTA,review
+AG-alberta-saddle-lake-agency,1898-1898,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-babine-uppfr-skeena-river-agency,1906-1906,AG-oak-river-sioux-agency,1907-1907,RIVER,review
+AG-and-fort-alexander-agency,1883-1883,AG-st-peter-s-broken-head-fort-alexander-agency,1885-1885,ALEXANDER FORT,review
+AG-and-fort-alexander-agency,1883-1883,AG-st-peter-s-broken-head-fort-alexandria-agency,1884-1884,FORT,review
+AG-district-of-saguenay-seven-islands-agency,1913-1913,AG-district-of-manitoulin-manitowaning-agency,1910-1910,DISTRICT,review
+AG-district-of-saguenay-seven-islands-agency,1913-1913,AG-saguenay-district-seven-islands-agency,1912-1912,DISTRICT ISLANDS SAGUENAY SEVEN,review
+AG-district-of-manitoulin-manitowaning-agency,1910-1910,AG-saguenay-district-seven-islands-agency,1912-1912,DISTRICT,review
+AG-district-of-alberta-hobbema-agency,1893-1893,AG-district-of-alberta-treaty-no-7-piegan-agency,1895-1895,ALBERTA DISTRICT,review
+AG-eastern-assiniboia-moose-mountain-agency,1904-1904,AG-eastern-assiniboia-crooked-lake-agency,1903-1903,ASSINIBOIA EASTERN,review
+AG-eastern-assiniboia-moose-mountain-agency,1904-1904,AG-eastern-assiniboia-moose-mountain-agency,1905-1905,ASSINIBOIA EASTERN MOOSE MOUNTAIN,review
+AG-eastern-assiniboia-crooked-lake-agency,1903-1903,AG-eastern-assiniboia-moose-mountain-agency,1905-1905,ASSINIBOIA EASTERN,review
+AG-eastern-assiniboia-crooked-lake-agency,1903-1903,AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1903-1903,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-eastern-assiniboia-crooked-lake-agency,1903-1903,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-micmacs-of-cape-breton-eskasoni-agency,1904-1904,AG-micmacs-of-cape-breton-county-sydney-agency,1905-1905,BRETON CAPE MICMACS,review
+AG-manitoba-village-agency,1882-1882,AG-manitoba-house-agency,1883-1883,MANITOBA,review
+AG-manitoba-village-agency,1882-1882,AG-manitoba-house-agency,1880-1880,MANITOBA,review
+AG-manitoba-house-agency,1883-1883,AG-manitoba-house-agency,1880-1880,HOUSE MANITOBA,review
+AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,LAKE,review
+AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,AG-portage-la-prairie-manitowapah-agency,1900-1900,PORTAGE,review
+AG-lake-winnipeg-rat-portage-inspectorate,1903-1903,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE,review
+AG-lake-of-the-woods-inspectorate,1913-1913,AG-rice-lake-agency,1915-1915,LAKE,review
+AG-lake-st-john-chicoutimi-agency,1890-1890,AG-lake-st-john-chicoutmi-agency,1888-1888,JOHN LAKE,review
+AG-lake-st-john-chicoutimi-agency,1890-1890,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-lake-st-john-chicoutimi-agency,1890-1890,AG-william-s-lake-agency,1893-1893,LAKE,review
+AG-lake-st-john-chicoutmi-agency,1888-1888,AG-county-of-renfrew-golden-lake-agency,1889-1889,LAKE,review
+AG-mississaugas-of-the-credit-agency,1915-1915,AG-mississaguas-of-the-credit-agency,1914-1914,CREDIT,review
+AG-montagnais-of-lower-st-lawrence-mingan-agency,1910-1910,AG-montagnais-of-lower-st-lawrence-bersimis-agency,1910-1910,LAWRENCE LOWER MONTAGNAIS,review
+AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,AG-northwest-territories-calgary-inspectorate,1901-1901,NORTHWEST TERRITORIES,review
+AG-northwest-territories-saskatchewan-onion-lake-agency,1901-1901,AG-saskatchewan-duck-lake-agency,1903-1903,LAKE SASKATCHEWAN,review
+AG-county-of-hastings-tyendiuaga-agency,1888-1888,AG-county-of-renfrew-golden-lake-agency,1889-1889,COUNTY,review
+AG-british-columbia-school-inspectorate,1907-1907,AG-british-columbia-inspectorate,1905-1905,BRITISH COLUMBIA,review
+AG-st-peter-s-broken-head-fort-alexander-agency,1885-1885,AG-st-peter-s-broken-head-fort-alexandria-agency,1884-1884,BROKEN FORT HEAD PETER,review
