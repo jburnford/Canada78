@@ -1,0 +1,872 @@
+[
+ {
+  "name": "Kamloops",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 5
+ },
+ {
+  "name": "Kanaka Bar",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Katzie",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 5
+ },
+ {
+  "name": "Kemsquit",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 2
+ },
+ {
+  "name": "Kisgegas",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 1
+ },
+ {
+  "name": "Kispaiax",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 3
+ },
+ {
+  "name": "Kitasoo",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 2
+ },
+ {
+  "name": "Kitimat",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 4
+ },
+ {
+  "name": "Kitkahta",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 4
+ },
+ {
+  "name": "Kitlathla",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 19
+ },
+ {
+  "name": "Kitlope",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 3
+ },
+ {
+  "name": "Kitseguecla",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Kitseguelca",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Kitselas",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 9
+ },
+ {
+  "name": "Kitselas, Kitsumkelum and others Indians",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Kitsumkelum",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Kitwangar",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 8
+ },
+ {
+  "name": "Klahoose",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 10
+ },
+ {
+  "name": "Klaskino",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Kluskus",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Kokyet",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 5
+ },
+ {
+  "name": "Kootenay",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KOOTENAY AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "Kuldoe",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 1
+ },
+ {
+  "name": "Kwaw-waw-i-nuck",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 9
+ },
+ {
+  "name": "Kyuquot",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": "West Coast",
+  "n_reserves": 16
+ },
+ {
+  "name": "Laichkwiltach, Kahkah-matsis band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Lakelse",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 2
+ },
+ {
+  "name": "Langley",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 8
+ },
+ {
+  "name": "Lillooet",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 5
+ },
+ {
+  "name": "Little Shuswap Lake (Knaut)",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 5
+ },
+ {
+  "name": "Lower Kootenay",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KOOTENAY AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Lower Nicola, Spuzzum, Boston Bar, Boothroyd, Siska, Upper Similkameen, in common",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Lyacksun band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Lytton",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 27
+ },
+ {
+  "name": "Mahteelthpe",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": "Kwawkewlth",
+  "n_reserves": 4
+ },
+ {
+  "name": "Massett",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 16
+ },
+ {
+  "name": "Matsqui",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 4
+ },
+ {
+  "name": "McLeod Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Micmac",
+  "provinces": [
+   "NEW BRUNSWICK",
+   "NOVA SCOTIA",
+   "PRINCE EDWARD ISLAND",
+   "QUEBEC"
+  ],
+  "agencies": [
+   "ANNAPOLIS",
+   "ANTIGONISH",
+   "CAPE BRETON",
+   "COLCHESTER",
+   "CUMBERLAND",
+   "DIGBY",
+   "GLOUCESTER",
+   "HALIFAX",
+   "HANTS",
+   "INVERNESS",
+   "KENT",
+   "KING'S",
+   "LUNENBURG",
+   "NORTHUMBERLAND",
+   "PICTOU",
+   "QUEEN'S",
+   "RESTIGOUCHE",
+   "RICHMOND",
+   "VICTORIA",
+   "WESTMORELAND",
+   "YARMOUTH",
+   "YORK"
+  ],
+  "index_agency": null,
+  "n_reserves": 50
+ },
+ {
+  "name": "Micmac, Eel Ground band",
+  "provinces": [
+   "NEW BRUNSWICK"
+  ],
+  "agencies": [
+   "NORTHUMBERLAND"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Micmac, Red Bank band",
+  "provinces": [
+   "NEW BRUNSWICK"
+  ],
+  "agencies": [
+   "NORTHUMBERLAND"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Micmac. The north half belongs to the Red Bank band; half to the Eel Ground band",
+  "provinces": [
+   "NEW BRUNSWICK"
+  ],
+  "agencies": [
+   "NORTHUMBERLAND"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Micmacs",
+  "provinces": [
+   "NEW BRUNSWICK",
+   "QUEBEC"
+  ],
+  "agencies": [
+   "KING'S"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Micmacs of Bathurst",
+  "provinces": [
+   "NEW BRUNSWICK"
+  ],
+  "agencies": [
+   "GLOUCESTER"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Micmacs, Big Cove band",
+  "provinces": [
+   "NEW BRUNSWICK"
+  ],
+  "agencies": [
+   "KENT"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Mississaguas of Alnwick",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Mississaguas of Mud Lake",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Mississaguas of Rice Lake",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Mississaguas of Rice, Mud and Scugog Lakes",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Mississaguas of Scugog",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Mohawks of the bay of Quinte",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Montagnais",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Montagnais of Lake St. John and Tadousac",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Montagnais, Tadousacs, Papinachois, Nauthapis and other nomadic tribes",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Moravians of the Thames",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Musqueam",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 3
+ },
+ {
+  "name": "Nahkwockto",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": "Kwawkewlth",
+  "n_reserves": 17
+ },
+ {
+  "name": "Nahwitti",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": "Kwawkewlth",
+  "n_reserves": 5
+ },
+ {
+  "name": "Namaiah Valley",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Nanaimo",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": "Cowichan",
+  "n_reserves": 4
+ },
+ {
+  "name": "Nanoose",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": "Cowichan",
+  "n_reserves": 1
+ },
+ {
+  "name": "Nass River",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 33
+ },
+ {
+  "name": "Necoslie",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 7
+ },
+ {
+  "name": "Nemaiah Valley",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 2
+ },
+ {
+  "name": "Neskainlith Halaut",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "New Westminster",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 2
+ },
+ {
+  "name": "Nicola (Lower)",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 13
+ },
+ {
+  "name": "Nicola (Upper)",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 8
+ },
+ {
+  "name": "Nicomen",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 16
+ },
+ {
+  "name": "Nimkeesh",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": "Kwawkewlth",
+  "n_reserves": 5
+ },
+ {
+  "name": "Nitinat",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": "West Coast",
+  "n_reserves": 17
+ },
+ {
+  "name": "Nootka",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": "West Coast",
+  "n_reserves": 11
+ },
+ {
+  "name": "Nootka, Matchitlacht band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "North Thompson and Canoe Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Ohamil",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 3
+ },
+ {
+  "name": "Ohiet",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": "West Coast",
+  "n_reserves": 13
+ },
+ {
+  "name": "Ojibbewas of Lake Huron",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 18
+ },
+ {
+  "name": "Ojibbewas of Lake Superior",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 11
+ },
+ {
+  "name": "Okanagan",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 10
+ }
+]

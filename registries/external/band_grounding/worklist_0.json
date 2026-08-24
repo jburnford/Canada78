@@ -1,0 +1,841 @@
+[
+ {
+  "name": "A band of Ojibbewas of Lake Huron who had not been provided with a reserve under the provisions of the Robinson Huron Treaty",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Abenakis",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Abenakis of Becancour",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Abenakis of St. Francis",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Adams Lake, Sabhaltkum band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Adams Lake, Sahhaltkum band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "Ahtsalitz band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Alexandria",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 3
+ },
+ {
+  "name": "Algonquins and T\u00e9te de Boule",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Algonquins of Golden lake",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Algonquins of the Lake of Two Mountains",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Alkali Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 16
+ },
+ {
+  "name": "Amalecite",
+  "provinces": [
+   "NEW BRUNSWICK"
+  ],
+  "agencies": [
+   "CARLETON",
+   "CHARLOTTE",
+   "MADAWASKA",
+   "SUNBURY",
+   "VICTORIA",
+   "YORK"
+  ],
+  "index_agency": null,
+  "n_reserves": 7
+ },
+ {
+  "name": "Amalecites of Isle Verte and Viger",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Anaham",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 2
+ },
+ {
+  "name": "Anderson Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 2
+ },
+ {
+  "name": "Ashcroft",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 4
+ },
+ {
+  "name": "Beecher Bay",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": "Cowichan",
+  "n_reserves": 11
+ },
+ {
+  "name": "Bella Bella",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 13
+ },
+ {
+  "name": "Bella Coola",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 4
+ },
+ {
+  "name": "Blackwater",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 4
+ },
+ {
+  "name": "Bonaparte",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 6
+ },
+ {
+  "name": "Boothroyd",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 4
+ },
+ {
+  "name": "Boothroyd, Chomok Band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Boothroyd, Chomok band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 5
+ },
+ {
+  "name": "Boston Bar",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 7
+ },
+ {
+  "name": "Bridge River",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 2
+ },
+ {
+  "name": "Canim Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 2
+ },
+ {
+  "name": "Canoe Creek",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 7
+ },
+ {
+  "name": "Cayoosh Creek",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 2
+ },
+ {
+  "name": "Cheam",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 2
+ },
+ {
+  "name": "Checkleset",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 7
+ },
+ {
+  "name": "Chemainus Halalt band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Chemainus and Sickameen bands",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Chilliwack Indians in common",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Chilliwack, Kwaw-kwaw-a-pilt band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Chilliwack, Skul-kayn and Ya-kwe-a-kwi-oose bands",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Chilliwack, Skwah band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Chippewas and Pottawattamies of Walpole island",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Chippewas of Chenail Ecart\u00e9 and St. Clair",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Chippewas of Lakes Couchiching, Simcoe and Huron",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Chippewas of Saugeen and Cape Croker",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Chippewas of the Thames and Munsees",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Clayoquot",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": "West Coast",
+  "n_reserves": 9
+ },
+ {
+  "name": "Clayoquot, Ahousaht band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 12
+ },
+ {
+  "name": "Clayoquot, Kelsemart b'd",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Clayoquot, Klesemart b'd",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Clayoquot, Manhauset band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Clinton",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 2
+ },
+ {
+  "name": "Comox",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": "Cowichan",
+  "n_reserves": 3
+ },
+ {
+  "name": "Cook's Ferry",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 18
+ },
+ {
+  "name": "Coquitlam",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 2
+ },
+ {
+  "name": "Cowichan",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": "Cowichan",
+  "n_reserves": 1
+ },
+ {
+  "name": "Cowichan Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Cowichan; on one parcel (rge. 4) also listed as held by Quamichan, Comiaken, Clem-clem-a-lits, Hamutzen, Somenos, Koksailah, Kilpahlas and Kanipsin bands",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Deadman's Cree",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Dog Creek",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 4
+ },
+ {
+  "name": "Douglas",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 13
+ },
+ {
+  "name": "Esperanza Inlet, Ehatisaht band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 5
+ },
+ {
+  "name": "Esperanza Inlet, Nuchatl-itz",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 9
+ },
+ {
+  "name": "Esquimalt",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": "Cowichan",
+  "n_reserves": 1
+ },
+ {
+  "name": "Fort George",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 4
+ },
+ {
+  "name": "Fort Rupert, Kwawkewlth",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 7
+ },
+ {
+  "name": "Fountain",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 6
+ },
+ {
+  "name": "Fraser Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 5
+ },
+ {
+  "name": "Gilford Island; Tsah-waw-ti-neuch",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Hagwiglet",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Hagwilget",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 10
+ },
+ {
+  "name": "Harrison River",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 7
+ },
+ {
+  "name": "Hazelton",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": "Babine",
+  "n_reserves": 4
+ },
+ {
+  "name": "Hesquiat",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": "West Coast",
+  "n_reserves": 5
+ },
+ {
+  "name": "High Bar",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 1
+ },
+ {
+  "name": "Homalco",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 6
+ },
+ {
+  "name": "Hope",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 5
+ },
+ {
+  "name": "Hurons of Lake Huron",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Hurons of Lorette",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Iroquois of Sault St. Louis, and Iroquois of Lake of Two Mountains",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Iroquois of St. Louis",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Iroquois of St. Regis",
+  "provinces": [
+   "ONTARIO",
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 2
+ }
+]

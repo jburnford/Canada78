@@ -1,0 +1,844 @@
+[
+ {
+  "name": "Oneidas of the Thames",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Opetchisaht",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Oregon Jack Creek",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 7
+ },
+ {
+  "name": "Osoyoos",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 2
+ },
+ {
+  "name": "Ottawas and Chippewas of Lake Huron",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 11
+ },
+ {
+  "name": "Owekano",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": "Northwest Coast",
+  "n_reserves": 3
+ },
+ {
+  "name": "Pacheena",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Pavilion",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": "Williams Lake",
+  "n_reserves": 3
+ },
+ {
+  "name": "Pemberton",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 5
+ },
+ {
+  "name": "Penelakut Band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Penelakut band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Penticton",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": "Kamloops",
+  "n_reserves": 4
+ },
+ {
+  "name": "Popkum",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": "Fraser",
+  "n_reserves": 2
+ },
+ {
+  "name": "Qualicum",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": "Cowichan",
+  "n_reserves": 1
+ },
+ {
+  "name": "Quatsino",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 16
+ },
+ {
+  "name": "Quawshelah",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Quesnel",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Saanich",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 13
+ },
+ {
+  "name": "Saugeen and Cape Croker bands",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Semiahmoo",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Seshart",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 10
+ },
+ {
+  "name": "Seshelt",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 25
+ },
+ {
+  "name": "Seton Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "Shawanaga band of Ojibbewas of Lake Huron",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Shuswap, Kinbasket's band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KOOTENAY AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Similkameen (Lower)",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 14
+ },
+ {
+  "name": "Similkameen (Upper)",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 9
+ },
+ {
+  "name": "Siska Flat",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 7
+ },
+ {
+  "name": "Skawahlook",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Skidegate",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 8
+ },
+ {
+  "name": "Skidgate",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Skul-kayn band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Skuppah",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Skwah, Skwahla, Kwaw-kwaw-a-pilt, Squiala, Skway and Aht-salitz bands in common",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Skway band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Sliammon",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "Soda Creek",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Songhees",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Sooke",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "COWICHAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Soowali band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Spallumcheen",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Spuzzum",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KAMLOOPS - OKANAGAN AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "Squamish",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 28
+ },
+ {
+  "name": "Squawtits",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Squiala band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Stone",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Stony Creek",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "Sumass",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 7
+ },
+ {
+  "name": "Sumass (Lakahahmen band)",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Tach\u00e9",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 5
+ },
+ {
+  "name": "Tanock-teuch and Ahwaheet-tlala bands",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Temiscaming band, Ottawas and Algonquins",
+  "provinces": [
+   "QUEBEC"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "The Indians of the locallity",
+  "provinces": [
+   "YUKON DISTRICT"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "The Six Nations, consisting of the Mohawks, Oneidas, Onodagas, Tuscaroras, Cayugas, Senecas and Delawares",
+  "provinces": [
+   "ONTARIO"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "The, Indians of the locallity",
+  "provinces": [
+   "YUKON DISTRICT"
+  ],
+  "agencies": [],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Toosey",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Toquart",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Trembleur Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "BABINE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 5
+ },
+ {
+  "name": "Tsawwassen",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Tsimpsean, Metlakatla",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 4
+ },
+ {
+  "name": "Tsimpsean, N. 1/2 Pt. Simpson, Tsimpsean, S. 1/2 Metlakatla",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Tsimpsean, Pt. Simpson",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 10
+ },
+ {
+  "name": "Tsimpsean, Pt. Simpson and Metlakatla",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "Tsimpsean, Pt. Simpson and Metlakatla in com",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "NORTHWEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "Turnour Island",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Uchucklesit",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 2
+ },
+ {
+  "name": "Ucluelet",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WEST COAST AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 9
+ },
+ {
+  "name": "Ulkatcho",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Village Island",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 5
+ },
+ {
+  "name": "We-way-akay band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 6
+ },
+ {
+  "name": "We-way-akum and Kew-ahkah bands",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "We-way-akum and Kwe-ahkah bands",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ },
+ {
+  "name": "We-way-akum and kwe-ahkah bands",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "KWAWKEWLTH AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Williams Lake",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "WILLIAMS LAKE AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 15
+ },
+ {
+  "name": "Ya-kwe-a-kwi-oose",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 1
+ },
+ {
+  "name": "Yale",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 9
+ },
+ {
+  "name": "Yale Union Bar Band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 5
+ },
+ {
+  "name": "Yale Union Bar band",
+  "provinces": [
+   "BRITISH COLUMBIA"
+  ],
+  "agencies": [
+   "FRASER AGENCY"
+  ],
+  "index_agency": null,
+  "n_reserves": 3
+ }
+]
