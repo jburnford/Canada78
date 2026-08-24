@@ -70,7 +70,20 @@ western sections list by agency with numbered reserves tied to bands
 (e.g. Pasquah No. 79). One band ↔ many reserves and one reserve ↔ many
 bands both occur. OCCUPIES must be n:m or the West won't fit.
 
-## Decisions needed (historian's call)
+## Decisions — RESOLVED 2026-08-24 (user-confirmed)
+
+1. **Bands**: mint historical band entities as attested; chain to modern
+   First Nation QIDs via succession/sameAs edges.
+2. **Agency merges**: a merged period is its own chain — MERGED_INTO from
+   predecessors, SPLIT_INTO to successors (hgiscanada CD lineage semantics).
+3. **Unit types**: one agency facet, `unit_type` distinguishes
+   agency/superintendency/inspectorate (proposal accepted implicitly).
+4. **Reserves**: mint-first from the 1902 Schedule as authority list;
+   Wikidata sameAs overlay via MCP search.
+5. **1902 Schedule**: LLM extraction pass (first structured-extraction job),
+   validated against acreage/count totals.
+
+## Decision questions as originally posed
 
 1. **Band identity across time**: modern First Nations QIDs are
    descendants of 1880s bands after amalgamations/splits. Ground historical
