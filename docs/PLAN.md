@@ -98,11 +98,15 @@ honor…"), plus tabular schedules of reserves/bands.
    report-issue, treaty; infoboxes from LOD (HGIS measurements, LINCS/COL
    careers), cited passages with paper_id + Canadiana URL; dense links.
    Reuse the `generate_rag_pages.py` machinery/pattern from hgiscanada.
-7. **Publish**: DIA full text as the first slice of the edition site
-   (116 MB — fits one repo comfortably); wiki site alongside; Pagefind on
-   both.
+7. **Release (GitHub only — revised 2026-08-24)**: registries, annotations,
+   and scripts committed to the repo for researchers. **No Pages deployment
+   of DIA/reserve/band pages or a DIA edition slice** until consultation
+   with Indigenous colleagues (see DESIGN.md, Publication constraint). Wiki
+   generation is still built and tested locally so the retrieval thesis can
+   be evaluated (Phase 2) without a public site.
 
-Deliverable: jimclifford.ca/canada50 (wiki) + edition slice, fully cited.
+Deliverable: a research-ready GitHub release; local wiki build for
+evaluation.
 
 ## Phase 2 — Retrieval/access layer (ungated, overlaps Phase 1 late stage)
 

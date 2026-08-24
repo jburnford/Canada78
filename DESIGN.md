@@ -32,6 +32,17 @@ deploy is strictly one-directional: the whole site is rebuildable from the
 source repos' exports at any time. Human curation enters as git-committed
 adjudication files that the build consumes, never as hand edits to output.
 
+## Publication constraint — Indigenous-history material (2026-08-24)
+
+The DIA annual reports, reserve and band registries, and everything derived
+from them are **not published as a public HTML site** at this stage: no
+GitHub Pages wiki pages, no edition slice for DIA volumes. The data and code
+live in the GitHub repository for researchers, but a rendered site that the
+general public could stumble on waits on **consultation with Indigenous
+colleagues**. Site generation for the other corpora is unaffected; any page
+that would render DIA/reserve/band content is gated on that consultation.
+Phase 1's "publish" step is therefore a GitHub data release only.
+
 ## Corpus inventory
 
 | corpus | repo | status | what it contributes |
