@@ -1,8 +1,8 @@
 tag,report_year,session_seq,session_year,paper_num,paper_id,link_status,fm_paper_number,fm_session
 dia_ar_1880,1880,14.0,1880-81,14,1880-81_14,linked_extracted,14,1881
-dia_ar_1881,1881,15.0,1882,6,1882_6,curated_extracted,,
-dia_ar_1882,1882,16.0,1883,5,1883_5,curated_extracted,,
-dia_ar_1883,1883,17.0,1884,4,1884_4,curated_indexed,,
+dia_ar_1881,1881,15.0,1882,6,1882_6,linked_extracted,6,1882
+dia_ar_1882,1882,16.0,1883,5,1883_5,linked_extracted,5,1883
+dia_ar_1883,1883,17.0,1884,4,1884_4,linked_indexed,4,1884
 dia_ar_1884,1884,18.0,1885,3,1885_3,linked_indexed,3,1885
 dia_ar_1885,1885,19.0,1886,4,1886_4,linked_indexed,4,1886
 dia_ar_1886,1886,20.0,1887,6,1887_6,linked_extracted,6,1887
@@ -21,7 +21,7 @@ dia_ar_1898,1898,33.0,1899,14,1899_14,linked_indexed,14,1899
 dia_ar_1899,1899,34.0,1900,14,1900_14,linked_extracted,14,1900
 dia_ar_1900,1900,,,,,pending_catalog_post1900,27,1901
 dia_ar_1901,1901,,,,,pending_catalog_post1900,27,1902
-dia_ar_1902,1902,,,,,pending_catalog_post1900,,
+dia_ar_1902,1902,,,,,pending_catalog_post1900,27,1903
 dia_ar_1903,1903,,,,,pending_catalog_post1900,27,1904
 dia_ar_1904,1904,,,,,pending_catalog_post1900,27,1905
 dia_ar_1905,1905,,,,,pending_catalog_post1900,,
@@ -41,7 +41,7 @@ dia_ar_1918,1918,,,,,pending_catalog_post1900,27,1919
 dia_ar_1919,1919,,,,,pending_catalog_post1900,27,1920
 dia_ar_1920,1920,,,,,pending_catalog_post1900,27,1921
 dia_ar_1921,1921,,,,,pending_catalog_post1900,,
-dia_ar_1922,1922,,,,,pending_catalog_post1900,1,1923
+dia_ar_1922,1922,,,,,pending_catalog_post1900,14,1923
 dia_ar_1923,1923,,,,,pending_catalog_post1900,14,1924
 dia_ar_1924,1924,,,,,pending_catalog_post1900,14,1925
 dia_ar_1925,1925,,,,,pending_catalog_post1900,,

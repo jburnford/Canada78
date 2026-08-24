@@ -17,17 +17,31 @@ body after frontmatter; text stays in `~/DeptIndianAffairs`._
   province sub-headers with a 60-page hard cap (the 1898–1913 school
   statements ran 600+ pages).
 
-## Corpus impostors (frontmatter `document_type`)
+## Corpus composition (updated after the 2026-08-24 corpus regeneration)
 
-- `dia_ar_1902` is the **Schedule of Indian Reserves**, not an annual
-  report — segmented in thematic mode. It is the best single gazetteer
-  source for the reserve entity registry (Phase 1 step 2): every reserve
-  with agency, location, acreage.
-- `dia_ar_1922` is the **Auditor General's report** on Indian Affairs
-  expenditure, not the departmental AR. Its 23 "letters" are audit
-  correspondence.
-- Consequence: the annual-report series has gaps at report years 1902 and
-  1922 — worth sourcing the true ARs for those years eventually.
+The DeptIndianAffairs extraction was re-run overnight (all 53 files
+re-extracted 2026-08-24T02:14–02:17Z):
+
+- The **true 1902 Annual Report was recovered** (`_recovered/` source, 665
+  pp) and now occupies `dia_ar_1902`; the **Schedule of Indian Reserves**
+  moved to its own file `dia_reserves_1902.md` (195 pp,
+  `document_type: reserve_schedule`). The Schedule is the gazetteer source
+  for the reserve registry and gets the LLM extraction pass.
+- The recovered 1902 AR has noticeably rougher OCR ("AG EXCY" for AGENCY,
+  "Sm," for "SIR,") — the SIR-detector misses its letters, so it segments
+  in thematic mode (263 usable sections). Improving letters detection for
+  this volume is a known follow-up.
+- `dia_ar_1922` remains the **Auditor General's report**, not the
+  departmental AR — that series gap still stands.
+- Regeneration also fixed the 1881–1883 sessional links upstream: the
+  auto-linker now produces exactly the paper_ids our curation overrides
+  had assigned (1882_6, 1883_5, 1884_4) — independent confirmation,
+  including the medium-confidence 1884_4. The overrides in
+  `curation/dia_sessional_overrides.csv` are now redundant but kept as the
+  documented evidence trail.
+- Segment-ID stability under regeneration: 6,518/6,588 ids survived with
+  only 1 text_version change among survivors; 6,807 segments after re-run
+  (the new 1902 AR contributes 266).
 
 ## Known issues for the validation gate (Phase 1 step 4)
 
