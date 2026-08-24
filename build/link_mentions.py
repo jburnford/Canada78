@@ -106,13 +106,23 @@ def initials(name):
     return "".join(p[0] for p in re.findall(r"[A-Za-z]+", given)).upper()
 
 
-def build_gazetteer():
+def build_gazetteer(chain_region=None):
+    chain_region = chain_region or {}
     entries = []  # (surface_upper, entity_type, entity_id, agency_ctx, region)
     chains = pd.read_parquet(ROOT / "registries/entities/agency_chain_members.parquet")
     for r in chains.drop_duplicates(["name", "chain_id"]).itertuples():
+        reg = chain_region.get(r.chain_id)
         for surf in {r.name, r.canonical}:
             s = norm_surface(surf)
-            entries.append((s, "agency", r.chain_id, None, None))
+            entries.append((s, "agency", r.chain_id, None, reg))
+        # bare toponym ("DUCK LAKE") so agency places compete with same-named
+        # reserves elsewhere instead of the reserve winning by default
+        topo = re.sub(r"\b(AGENCY|SUPERINTENDENCY|INSPECTORATE|COMMISSIONER|"
+                      r"SUPERINTENDENT)\b", "", r.canonical)
+        topo = re.sub(r"\s*-\s*\d\w\w DIVISION", "", topo)
+        topo = re.sub(r"\s+", " ", topo).strip(" -")
+        if len(topo) >= 5 and topo not in STOP:
+            entries.append((topo, "agency", r.chain_id, None, reg))
     reserves = pd.read_parquet(ROOT / "registries/entities/reserves.parquet")
     for r in reserves.itertuples():
         if isinstance(r.name, str) and len(r.name) >= 4:
@@ -286,10 +296,6 @@ def main():
     args = ap.parse_args()
     OUT.mkdir(parents=True, exist_ok=True)
 
-    gaz = build_gazetteer()
-    surfaces = sorted(gaz, key=len, reverse=True)
-    gaz_re = re.compile(r"\b(" + "|".join(re.escape(s) for s in surfaces) + r")\b",
-                        re.I)
     agents = build_agents()
     members = pd.read_parquet(ROOT / "registries/entities/agency_chain_members.parquet")
     h2c = heading_to_chain(members)
@@ -322,6 +328,10 @@ def main():
         chain_region.setdefault(ch, region(prov))
     print(f"chain regions resolved: {len(chain_region)} "
           f"(dateline votes: {len(chain_votes)})")
+    gaz = build_gazetteer(chain_region)
+    surfaces = sorted(gaz, key=len, reverse=True)
+    gaz_re = re.compile(r"\b(" + "|".join(re.escape(s) for s in surfaces) + r")\b",
+                        re.I)
 
     all_anns, all_res, minted = [], [], {}
     for tag, grp in segs.groupby("tag"):
