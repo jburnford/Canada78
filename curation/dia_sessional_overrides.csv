@@ -1,0 +1,4 @@
+tag,session_seq,session_year,paper_num,confidence,evidence
+dia_ar_1881,15,1882,6,high,"catalog attributes 1882_6 to series annual_report:indian_affairs; index title 'Annual Report of the Department of, for the calendar year ended 31st December 1881' lost the department name, which is why the auto-linker missed it"
+dia_ar_1882,16,1883,5,high,"catalog attributes 1883_5 to series annual_report:indian_affairs; same mangled-index-title pattern as 1882_6"
+dia_ar_1883,17,1884,4,medium,"session_index 1884 paper 4 reads 'Annual Report of the Department of, for the year ended 31st December, 1883' — DIA's distinctive calendar-year-end phrasing (cf. 1885 paper 3, 1886 paper 4); department name lost in index; verify against the sessional-papers printing when volume text is available"
