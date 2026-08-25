@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "canada50-mcp"
+version = "0.1.0"
+description = "Retrieval tools (MCP server + CLI) over the Canada50 wiki and registries: Department of Indian Affairs annual reports 1880-1930"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = []
+
+[project.optional-dependencies]
+mcp = ["mcp>=1.2"]
+build = ["pandas>=2", "pyarrow>=14"]
+eval = ["anthropic>=0.40"]
+
+[project.scripts]
+canada50 = "canada50_mcp.cli:main"
+canada50-mcp = "canada50_mcp.server:main"
+
+[tool.setuptools]
+packages = ["canada50_mcp"]

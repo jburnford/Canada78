@@ -1,0 +1,8 @@
+division_norm,unit,confidence,evidence
+TREATY NO. 7,square_miles,high,"1902 Schedule p. 39 column header reads 'Area. Acres.' but Blood No. 148 = 546.76 and Blackfoot No. 146 = 470.00 are the reserves' areas in square miles (Blood ≈ 547 sq mi ≈ 350,000 acres); Sarcee 108, Peigan 181.40 likewise. Registry reserves.parquet stores these as acres — treat as sq. miles (×640) until the extraction is redone."
+TREATY NO. 1,square_miles,medium,"section median area 19 (registry 'acres'); prairie treaty reserves were surveyed at 160 acres per family of five, so whole-band reserves of 19 'acres' are implausible; figures are square miles as in the Treaty 7 section. Verify against the printed page."
+TREATY NO. 2,square_miles,medium,"section median area 13.35; same reasoning as Treaty No. 1."
+TREATY NO. 4,square_miles,medium,"section median area 23.18; same reasoning as Treaty No. 1."
+TREATY NO. 5,square_miles,medium,"section median area 4.40; same reasoning as Treaty No. 1."
+TREATY NO. 6,square_miles,medium,"section median area 31.50; same reasoning as Treaty No. 1."
+TREATY NO. 3,acres,high,"section header 'Area. Acres.' and figures (Buffalo Point 5,763.00; Long Sault 5,046.75) are consistent with acres."
