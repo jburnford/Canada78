@@ -43,6 +43,15 @@ SIG_RE = re.compile(
 STOP = {"HOPE", "YORK", "KENT", "VICTORIA", "DOUGLAS", "GRAVE-YARD",
         "GRAVEYARD", "FISHERY", "TIMBER", "ISLAND", "CREEK", "LAKE", "RIVER",
         "BAY", "POINT", "TOWN", "MISSION", "SCHOOL", "CHURCH", "MOUNTAIN"}
+# Province/territory/country names never stand for the agency that carries
+# them ("BRITISH COLUMBIA" ≠ British Columbia Inspectorate): 5,185 false
+# positives in the first corpus-wide run.
+NO_BARE_TOPONYM = {
+    "BRITISH COLUMBIA", "MANITOBA", "ONTARIO", "QUEBEC", "ALBERTA",
+    "SASKATCHEWAN", "NOVA SCOTIA", "NEW BRUNSWICK", "PRINCE EDWARD ISLAND",
+    "NORTH-WEST TERRITORIES", "NORTHWEST TERRITORIES", "NORTH WEST TERRITORIES",
+    "N.W.T.", "N.W.T", "YUKON", "YUKON TERRITORY", "CANADA", "DOMINION",
+    "OTTAWA", "INDIAN"}
 
 
 def norm_surface(s):
@@ -121,7 +130,7 @@ def build_gazetteer(chain_region=None):
                       r"SUPERINTENDENT)\b", "", r.canonical)
         topo = re.sub(r"\s*-\s*\d\w\w DIVISION", "", topo)
         topo = re.sub(r"\s+", " ", topo).strip(" -")
-        if len(topo) >= 5 and topo not in STOP:
+        if len(topo) >= 5 and topo not in STOP and topo not in NO_BARE_TOPONYM:
             entries.append((topo, "agency", r.chain_id, None, reg))
     reserves = pd.read_parquet(ROOT / "registries/entities/reserves.parquet")
     for r in reserves.itertuples():
