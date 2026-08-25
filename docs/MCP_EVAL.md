@@ -29,9 +29,19 @@ different location (e.g. published parquet/sqlite in Phase 5).
 | `get_segment(doc_id, segment_id)` | full text with `[p. N]` markers + linked entities (unverified flagged) | `segments`, `mentions` |
 
 References accepted everywhere: canonical URI, page URL, or `type:id`.
-Same functions serve the MCP server (`canada50-mcp`, stdio, FastMCP), the
-CLI (`canada50 lookup|page|search|neighbors|doc|segment`), and the eval
-harness (in-process — no transport).
+Same functions serve the MCP server (`canada50-mcp`, stdio; `MCPServer` on
+`mcp` ≥ 2.0, `FastMCP` on 1.x — verified 2026-08-25 with an `mcp` 2.1.0
+stdio client round-trip), the CLI (`canada50 lookup|page|search|neighbors|doc|segment`),
+and the eval harness (in-process — no transport).
+
+Claude Code / Claude Desktop registration (from the repo directory, before
+`pip install -e .`):
+
+```json
+{"mcpServers": {"canada50": {"command": "python3",
+                             "args": ["-m", "canada50_mcp.server"],
+                             "cwd": "/home/jic823/Canada50"}}}
+```
 
 ## Evaluation harness
 

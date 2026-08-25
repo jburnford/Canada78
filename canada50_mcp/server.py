@@ -33,7 +33,10 @@ def _dump(x):
 
 
 def build_server():
-    from mcp.server.fastmcp import FastMCP  # imported lazily: optional dependency
+    try:                                   # mcp >= 2.0
+        from mcp.server.mcpserver import MCPServer as FastMCP
+    except ImportError:                    # mcp 1.x
+        from mcp.server.fastmcp import FastMCP
 
     mcp = FastMCP("canada50", instructions=INSTRUCTIONS)
     store = Store()
