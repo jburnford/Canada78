@@ -260,7 +260,6 @@ names.
    `paper_id` — those volumes are the standing `pending_catalog_post1900`
    cases, not a gap introduced here.
 7. **Return B parser** — column-split at the CR boundary, Dr/Cr entries,
-7. **Return B parser** — column-split at the CR boundary, Dr/Cr entries,
    balance check (Dr total = Cr total per account); failures → Qwen on the
    halves → still checked; emit trust-fund balance series per band.
 8. **Wiki + MCP regeneration** — **first pass DONE 2026-08-30**: the wiki now
