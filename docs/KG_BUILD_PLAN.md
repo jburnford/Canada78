@@ -259,9 +259,38 @@ names.
    `officers_lincs_review.csv` queue. Note 1904 and 1910 rows carry no
    `paper_id` — those volumes are the standing `pending_catalog_post1900`
    cases, not a gap introduced here.
-7. **Return B parser** — column-split at the CR boundary, Dr/Cr entries,
-   balance check (Dr total = Cr total per account); failures → Qwen on the
-   halves → still checked; emit trust-fund balance series per band.
+7. **Return B parser** — **parser + validation DONE 2026-08-31**, band
+   linking still to do. `build/parse_return_b.py`: **23,283 entries across
+   2,703 accounts, 13 volumes 1882–1897**. Of the 1,825 two-sided accounts
+   **1,118 (61.3%) balance Dr == Cr**, and **1,020 of 1,723 (59.2%) match the
+   total the return prints for itself** — an independent check that catches a
+   dropped or doubled line leaving both sides equally wrong. Department-wide
+   closing balances reproduce the printed figures exactly (3,594,206.20 in
+   1895 → 3,692,516.01 in 1897).
+
+   Three structural findings, each surfaced by an imbalance, not by reading:
+   (a) **the `tabstmt` dirs are not one table** — they hold land sales, "TO
+   WHOM PAID" lists and census returns, so rows need the same governing-headers
+   gate the column maps use, else county acreages parse as money into the fund
+   totals; (b) **an account is bounded by its own printed `total` row, not by
+   `section`** — the extractor leaves `section` null on continuation rows so a
+   stale name runs on (p.717 rows were joining Batchewana's p.683 account,
+   which balances exactly alone); adding a stated-section change as a boundary
+   took the balance rate 34.9% → 61.3%; (c) **the header can misstate the
+   column count** — under one "Debit | Credit" header on p.802 of 1893, Gibson
+   prints four columns and Texas Lake two, so effective shape comes from the
+   widest row in the account.
+
+   Only 28 of the remaining failures are cent-level OCR slips; the rest are
+   structural. `trustfund_reextract.csv` lists **23 (year, shape) page-range
+   blocks covering 707 accounts** for the "failures → Qwen on the halves"
+   branch — narrow page ranges, so the re-run is cheap, and Narval is idle.
+
+   The balance series carries its account's verdict rather than publishing
+   silently: **4,037 balance lines, 2,027 of them (796 accounts) from accounts
+   that balance**; 742 of those carry band-style names ("Gibson Indians
+   (No. 123)"), which is the input to the **band-linking pass step 7 still
+   needs** — reuse the census band registry, and expect a review CSV.
 8. **Wiki + MCP regeneration** — **first pass DONE 2026-08-30**: the wiki now
    builds **10,379 pages** (was 9,263) and `index.json` carries 3,493 entities
    (was 2,378). `build/series_render.py` renders `observations.parquet` as
