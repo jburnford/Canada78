@@ -1,0 +1,288 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+Agency      LAND                   PUBLIC BUILDINGS, PROPERTY OF BAND.              PRIVATE FENCING AND BUILDINGS
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log.
+                pasturage pasturage.
+ONTARIO.        Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+Grand River
+Superintendency 23,974   10,722    14        1      11      7      1         ...    41,696 1          15         201       365
+- Six Nations
+Parry Sound
+                1,476    ...       7         ...    6       1      5         ...    1,456   ...       ...        23        119
+Superintendency
+New Credit
+(Mississaguas) 1,010     2,950     2         1      1       3      3         ...    5,100   ...       3          45        20
+Agency
+Walpole Island
+               8,200     2,991     2         1      3       2      2         4      2,991   ...       ...        101       131
+Agency
+Sarnia Agency 3,612      680       4         2      3       1      1         ...    5,472 ...         2          111       8
+Caradoc Agency 7,669     6,434     ...       3      6       1      13        ...    15,420 ...        6          107       138
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        57
+Agency
+Manitowaning
+                1,517    3,864     7        3       9       2      ...       ...    2,216   ...       ...        27        280
+Agency
+Gore Bay        3,859    1,390     3        ...     2       ...    2         ...    1,329   ...       ...        7         99
+Thessalon
+                350      260       2        ...     4       ...    ...       ...    260     ...       ...        28        57
+Agency
+Sault Ste. Marie ...     ...       ...      ...     ...     ...    ...       ...    ...     ...       ...        ...       ...
+Port Arthur      786     543       3        2       6       1      2         ...    325     ...       ...        20        186
+Golden Lake
+                 185     25        1        ...     1       ...    1         ...    82      ...      
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                                               00                 00
+Blackfoot
+                                         41,978                                                 1,578              971,158
+Agency, Treaty ...   ...   ...   ...            ...   8     ...   65    35    30    12    125         2,000 00
+                                         00                                                     00                 75
+No. 7
+Peigan Agency,                           37,735                                                                    536,883
+               ...   ...   ...   ...            ...   ...   ...   20    40    ...   ...   95    890 00 2,700 00
+Treaty No. 7                             00                                                                        00
+Stony Agency,                            27,295                                                 3,401              194,002
+              ...    ...   ...   ...            ...   ...   ...   125   30    5     200   125         10,000 00
+Treaty No. 7                             00                                                     00                 00
+                                         608,733                                                37,726             7,607,699
+Total           24   21    17    2,201           6    60    262   621   1,293 710 7,202 2,183          76,019 00
+                                         95                                                     75                 10
+
+
+
+=== EXTRACT FROM HERE (pages 1047-1051) ===
+<!-- page 1047 -->
+AGRICULTURE, SEASON 1900
+Agency    GRAIN, ROOTS AND FODDER
+...       Wheat         Oats      Barley                    Corn           Peas           Rye            Buckwheat      Beans
+                Acres Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels
+...
+                Sown Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested
+NORTHWEST
+            ...       ...     ...   ...      ...   ...      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+TERRITORIES
+Touchwood
+Hills Agency, 12     152      95    3,553    1/4   12       ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+Treaty No. 4
+Birtle Agency,                460
+               1,449 5,193          2,049    17    158      26     82      1/4    ...     ...   ...      ...   ...      ...     ...
+Treaty No. 4                  1/2
+Pelly Agency,
+                ...   ...     96    587      64    431      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+Treaty No. 4
+Qu'Appelle
+Agency, Treaty 560    2,610   387   6,541    ...   ...      3      35      ...    ...     ...   ...      ...   ...      ...     ...
+No. 4
+Assiniboine
+Agency, Treaty 200    150     15    ...      12    45       1      ...     1/8    ...     ...   ...      ...   ...      ...     ...
+No. 4
+Crooked Lakes
+Agency, Treaty 525    1,060   115   32       ...   ...      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+No. 4
+Moose
+Mountain
+               320    485     64    30       14    ...      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+Agency, Treaty
+No. 4
+Pine Creek
+Agency, Treaty ...    ...     ...   ...      ...   ...      1/8    10      ...    ...     ...   ...      ...   ...      ...     ...
+No. 4
+Saddle Lake
+               164
+Agency, Treaty        938     89    1,193    1     ...      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+               1/2
+No. 6
+Hobbema
+Agency, Treaty 389    3,695   81    1,504    23    206      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+No. 6
+Battleford
+               357
+Agency, Treaty        9,597   188   7,564    18    381      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+               1/4
+No. 6
+Onion Lake
+Agency, Treaty ...    ...     25    769      50    1,610    ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+No. 6
+Duck Lake
+Agency, Treaty 515    3,913   247   2,459    24    193      ...    ...     ...    ...     ...   ...      ...   ...      ...     ...
+No. 6
+Edmonton
+
+<!-- page 1048 -->
+Agency, Treaty 95    536       209   2,734    28    720     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+No. 6
+Carlton
+                               110            30
+Agency, Treaty 304   3,601           2,189          603     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                               3/4            1/2
+No. 6
+Sarcee Agency,
+               ...   ...       151   3,028    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Treaty No. 7
+Blood Agency,
+              ...    ...       ...   ...      ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Treaty No. 7
+Blackfoot
+Agency, Treaty ...   ...       91    2,101    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+No. 7
+Peigan Agency,
+               ...   ...       ...   ...      ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Treaty No. 7
+Stony Agency,
+              ...    ...       130   *        ...   ...     ...   ...   ...   ...   15    *     ...   ...   ...   ...
+Treaty No. 7
+                4,890          2,554          281           30
+Total                 31,930         36,333         4,359         127   3/8   ...   15    ...   ...   ...   ...   ...
+                3/4            1/4            3/4           1/8
+[*Used for Fodder]
+
+<!-- page 1049 -->
+Agency          GRAIN, ROOTS AND FODDER - Concluded.                                             ...    NEW LAND IMPROVEMENTS
+...             Potatoes      Carrots      Turnips              Other Roots     Hay              ...    ...  ...   ...   ...
+                                                                                                                       Land
+                Acres Bushels Acres Bushels Acres Bushels Acres Bushels                          Other Land Land Cropped Land
+...                                                                            Cultivated Wild
+                Planted Harvested Sown Harvested Sown Harvested Sown Harvested                   Fodder Cleared Broken for First Fenced
+                                                                                                                       Time
+NORTHWEST
+            ...         ...     ...   ...       ...   ...       ...    ...      Tons     Tons    Tons   Acres   Acres   Acres   Acres
+TERRITORIES
+Touchwood
+Hills Agency, 15      1,488     2 1/4 141       5 3/4 426       1 1/4 102       3        3,149 180      ...     5       5       135
+Treaty No. 4
+Birtle Agency,                                  11                                               242
+               46 3/4 2,237     6 1/4 7               273       2 1/4 ...       3        1,432          ...     28      54      443
+Treaty No. 4                                    1/8                                              1/2
+Pelly Agency,
+                25      325     3     *         4     *         ...    ...      ...      2,266 75       ...     ...     ...     ...
+Treaty No. 4
+Qu'Appelle
+                                                14
+Agency, Treaty 23       3,686   1 1/4 77              1,915     4 1/4 410       ...      4,094 536      ...     476     314     209
+                                                1/2
+No. 4
+Assiniboine
+Agency, Treaty 15       300     3     *         12    350       3 1/2 *         ...      600     ...    ...     25      20      35
+No. 4
+Crooked Lakes
+Agency, Treaty 9        1.025   4     *         3     *         ...    ...      ...      1,800 ...      ...     70      ...     220
+No. 4
+Moose
+Mountain
+               3 1/2    95      ...   ...       ...   ...       6 1/2 75        ...      1,020 55       ...     ...     ...     ...
+Agency, Treaty
+No. 4
+Pine Creek
+Agency, Treaty 3        300     1/4   15        1/2   40        1/2    10       ...      130     ...    ...     3       ...     3
+No. 4
+Saddle Lake
+Agency, Treaty 23       2,294   3 1/2 27        7 1/2 520       2 1/2 12        ...      2,693 ...      ...     14      ...     ...
+No. 6
+Hobbema
+Agency, Treaty 13 1/2   1,935   5 1/4 42        18    636       5 1/4 18        ...      3,240 650      ...     37      ...     ...
+No. 6
+Battleford
+                                                18
+Agency, Treaty 32 1/2   4,925   6 1/8 400             1,605     7 1/8 (tt)220   10       4,000 380      ...     321     141     216
+                                                1/2
+No. 6
+Onion Lake
+Agency, Treaty 11 1/2 2,100     (t)   35        (t)   550       8     60        ...      2,300 175      ...     15      ...     ...
+No. 6
+Duck Lake
+Agency, Treaty 29     1,767     2 1/8 61        8 1/4 207       1 1/2 107       ...      3,023 290      ...     58      46      52
+No. 6
+Edmonton
+
+<!-- page 1050 -->
+Agency, Treaty 13 1/4 2,601         3      69       6     255     2 1/2 35      ...   1,840 250        ...   77      77      77
+No. 6
+Carlton
+Agency, Treaty 23 3/4 3,036         2 1/4 166       4 1/4 499     2 1/4 159     ...   1,897 373        ...   99      82      158
+No. 6
+Sarcee Agency,
+               4 1/4 419            1 1/8 29        3 3/4 405     5     100     23    470      75      ...   15      4 1/2   25
+Treaty No. 7
+Blood Agency,
+              ...        ...        ...    ...      ...   ...     ...   ...     ...   2,611 ...        ...   ...     ...     ...
+Treaty No. 7
+Blackfoot
+Agency, Treaty 12 1/4 453           1 1/4 25        2 1/2 60      ...   ...     ...   1,227 ...        ...   42      44      ...
+No. 7
+Peigan Agency,
+               14     1,800         1 1/2 200       2     300     1/2   50      ...   450      ...     ...   ...     ...     ...
+Treaty No. 7
+Stony Agency,
+              15         500        1      *        ...   ...     ...   ...     ...   200      60      ...   35      25      50
+Treaty No. 7
+                  332                47             121           47                           3,141
+Total                    31,286             1,294         8,041         1,358   39    38,442           ...   1,320   812 1/2 1,623
+                  1/4                1/8            1/2           7/8                          1/2
+[*Not given.] [(t)Grown in gardens.] [(tt)Onions]
+
+<!-- page 1051 -->
+PROGRESS DURING THE YEAR ENDED JUNE 30, 1901
+ Agency    BUILDINGS ERECTED                                                                                                      INCREASE IN VALUE
+                                                                                                                                                        Increased
+                                                                                                                                  Value of
+                                                                                                                                                        Value of
+                                                                                                                                  Clearing,
+                Dwellings, Dwellings, Dwellings, Dwellings,                Horse Driving Cattle Pig Store Root Milk Corn                      Value of Agricultural
+...                                                         Shanties Barns                                                        Cultivating
+                Stone      Brick      Frame      Log                       Stables Sheds Stables Sties Houses Houses Houses Cribs             Buildings Products
+                                                                                                                                  and
+                                                                                                                                                        and
+                                                                                                                                  Fencing
+                                                                                                                                                        Industries
+NORTHWEST
+            ...           ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   $ cts.     $ cts.   $ cts.
+TERRITORIES
+Touchwood
+Hills Agency,   ...       ...        ...        24         ...     ...   1       ...     17     ...   ...    ...     ...     ...   665 00     1,475 00 2,140 00
+Treaty No. 4
+Birtle Agency,
+               ...        ...        1          18         1       1     11      ...     20     3     13     3       1       ...   580 00     2,375 00 2,955 00
+Treaty No. 4
+Pelly Agency,
+                ...       ...        ...        2          3       ...   3       ...     6      ...   ...    ...     ...     ...   ...        370 00   370 00
+Treaty No. 4
+Qu'Appelle
+Agency, Treaty ...        ...        ...        6          ...     ...   1       ...     8      ...   ...    ...     ...     ...   3,335 00   600 00   3,935 00
+No. 4
+Assiniboine
+Agency, Treaty ...        ...        ...        ...        ...     ...   2       ...     ...    ...   ...    ...     ...     ...   100 00     125 00   225 00
+No. 4
+Crooked Lakes
+Agency, Treaty ...        ...        ...        1          ...     ...   2       ...     ...    ...   ...    ...     ...     ...   395 00     100 00   495 00
+No. 4
+Moose
+Mountain
+               ...        ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...        ...      ...
+Agency, Treaty
+No. 4
+Pine Creek
+Agency, Treaty ...        ...        ...        ...        ...     ...   ...     ...     2      ...   ...    ...     ...     ...   15 00      40 00    55 00
+No. 4
+Saddle Lake
+Agency, Treaty ...        ...        ...        3          ...     ...   ...     ...     17     ...   ...    ...     ...     ...   57 00      380 00   437 00
+No. 6
+Hobbema
+Agency, Treaty ...        ...        ...        7          ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   150 00     200 00   350 00
+No. 6
+Battleford
+Agency, Treaty ...        ...        ...        10         ...     ...   2       ...     11     31    5      14      ...     ...   1,526 00   1,235 00 2,761 00
+No. 6
+Onion Lake
+Agency, Treaty ...        ...        ...        1          ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   30 00      50 00    80 00
+No. 6
+Duck Lake
+Agency, Treaty ...        ...        ...        14         ...     ...   ...     ...     6      ...   ...    ...     ...     ...   282 00     2,230 00 2,512 00
+

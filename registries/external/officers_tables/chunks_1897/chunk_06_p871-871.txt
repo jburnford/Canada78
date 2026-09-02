@@ -1,0 +1,109 @@
+=== TABLE HEADER (the column definitions of this staff-list table, printed once at the start of the section; use to name the columns) ===
+<!-- page 847 -->
+RETURN A (1)
+
+OF Officers and Employees of the Department of Indian Affairs on the 31st December, 1897.
+
+HEADQUARTERS
+             ...                       ...                 ...      ...                            ...
+- INSIDE
+SERVICE
+                                                                                                   Date of First
+                                                           Annual
+Name.                  Rank.           Branch or Duties.           Date of Present Rank.           Appointment to
+                                                           Salary.
+                                                                                                   Civil Service.
+...                    ...             ...                 $        ...                            ...
+                                                                    Holds this office combined
+                       Superintendent
+Hon. Clifford Sifton                  ...                  ...      with that of Minister of the   ...
+                       General
+                                                                    Interior.
+                                                                    Holds this office combined
+                       Dep'ty Supt.
+James A. Smart                         ...                 ...      with that of Deputy Minister   ...
+                       General
+                                                                    of the Interior.
+John D. McLean         Chief Clerk     Secretary           2,000    July 1, 1897                   Oct. 1, 1876
+Duncan C. Scott        Chief Clerk     Accountant          1,950    July, 6, 1893                  Oct. 8, 1880
+Allan N. McNeill       Chief Clerk     Assistant Secretary 1,800    Dec. 24, 1897                  July 1, 1874
+                       1st Class
+Frederick W. Smith.                    Accountant's        1,650    Nov. 4, 1889                   Oct. - , 1870
+                       Clerk
+                       1st Class       Statistics and
+John McGirr                                                1,650    Oct. 14, 1891                  Aug. 1, 1877
+                       Clerk           Supplies
+                       1st Class       Registrar of
+Samuel Stewart                                             1,650    Mar. 25, 1892                  July 1, 1879
+                       Clerk           Correspondence
+                       1st Cl
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+        School.                                                           M.D.
+Medical
+          480 00         Brandon Industrial School.                                        Girard, F.X., M.D.
+Officer
+Medical                                                                                    Goodwin, R.,
+          1,800 00       Blood and Piegan Agencies.
+Officer                                                                                    M.D.
+Medical                                                                                    Lafferty, J.D.,
+          200 00         Elkhorn Industrial School.
+Officer                                                                                    M.D.
+Medical                  Blackfoot, Sarcee and Stony Agencies, and High River and Calgary Macadam, S.T.,
+          1,800 00
+Officer                  Industrial Schools.                                              M.D.
+Medical                                                                                    Seymour, M.M.,
+          750 00         Battleford Agency and Industrial School.
+Officer                                                                                    M.D.
+Medical                  File Hills and touchwood Hills Agencies and Qu'Appelle Industrial Stewart, A.B.,
+          1,200 00
+Officer                  School.                                                           M.D.
+Medical
+          500 00         Duck Lake Agency and Boarding School.
+Officer
+
+
+
+=== EXTRACT FROM HERE (pages 871-871) ===
+<!-- page 871 -->
+RETURN B (1) - INDIANS OF NOVA SCOTIA
+...                                     Grant.     Expenditure Grant not used. Grant exceeded.
+...                                     $ cts.     $ cts.      $ cts.          $ cts.
+Salaries                                1,250 00   1,168 13    81 87           ...
+Relief and seed                         2,500 00   1,862 33    637 67          ...
+Medical attendance and medicines        3,000 00   2,977 81    22 19           ...
+Miscellaneous                           100 00     36 75       63 25           ...
+To rebuild Micmac Church, Indian Island 2,000 00   2,000 00    ...             ...
+...                                     8,850 00   8,045 02    804 98          ...
+
+RETURN B (2) - INDIANS OF NEW BRUNSWICK
+Salaries                         1,730 00 1,700 83             29 17          ...
+Relief and seed                  2,300 00 1,918 21             381 79         ...
+Medical attendance and medicines 1,351 25 1,249 58             101 67         ...
+Miscellaneous                    300 00   300 35               ...            0 35
+...                              5,681 25 5,168 97             512 63         0 35
+
+RETURN B (3) - INDIANS OF PRINCE EDWARD ISLAND.
+Salaries and travelling expenses  300 00   300 00              ...            ...
+Relief and seed                   925 00   859 58              65 42          ...
+Medical attendance and medicines  350 00   348 97              1 03           ...
+Office and miscellaneous          75 00    28 63               46 37          ...
+To provide instruction in farming 200 00   ...                 200 00         ...
+...                               1,850 00 1,537 18            312 82         ...
+
+RETURN B (4) - INDIANS OF MANITOBA AND THE NORTH WEST TERRITORIES.
+Annuities and commutations     124,905 00 122,730 00 2,175 00  ...
+Implements                     5,200 00 5,89 80      10 20     ...
+Seed                           1,103 17 1,101 01     2 16      ...
+Live stock                     3,835 00 3,827 18     7 82      ...
+Supplies to destitute          178,393 00 178,103 09 289 91    ...
+Triennial clothing             2,634 00 2,203 04     430 96    ...
+Schools                        297,876 00 229,599 77 68,276 23 ...
+Surveys                        4,075 00 4,073 14     1 86      ...
+Farm wages                     24,955 00 24,489 83 465 17      ...
+Supplies for farmers           10,092 00 9,980 17    111 83    ...
+Sioux                          4,489 00 4,279 66     209 34    ...
+Buildings                      4,000 00 3,997 66     2 34      ...
+General expenses               110,611 00 109,305 46 1,305 54  ...
+Grist and saw mills, & c.      4,398 35 2,624 02     1,774 33  ...
+

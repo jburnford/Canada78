@@ -1,0 +1,279 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 715 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province,  Name of        Resident
+                                                     From 6 to 15   From 16 to 20 From 21 to 65 From 65 years
+ Agency or  Superintendent Indian      Under 6 years                                                          Remarks.
+                                                     inclusive.     inclusive.    inclusive.    upwards.
+ Band.      or Agent.      Population.
+...              ...           ...      Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...           ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+ONTARIO.
+Grand River
+Superintendency ...            ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,929    213   286     401   394     195   176     1,084 1,004    85    91      ...
+                 Supt.
+New Credit
+                 Hugh Stewart,
+(Mississaguas)                 246      14    9       38    18      8     7       65    70       9     8       ...
+                 Agent
+Agency
+               Alex.
+Walpole Island
+               McKelvey        805      52    64      85    103     39    43      203   183      16    17      ...
+Agency
+               Agent
+                                                                                                               No
+                                                                                                               details
+                 Adam English
+Sarnia Agency                 468       28    30      30    36      27    23      115   137      10    10      given for
+                 Agent
+                                                                                                               22
+                                                                                                               members.
+                 A. Sinclair
+Caradoc Agency                 1,375    84    91      171   111     62    61      400   338      32    25      ...
+                 Agent
+                A.R.
+Moravian
+                McDonald       354      28    34      46    35      17    19      86    86       2     1       ...
+Agency
+                Agent
+Manitowaning B.W. Ross,
+                               3,643    340   370     427   425     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ Agent                                   00                                               51
+Becancour       H. Desilets,                                                                             1,470
+                                370 00    185 07        400 00 ...        15 00    100 00    400 00
+Agency          M.D., Agent                                                                              07
+Temiscamingue A. McBride,                               1,500                                            7,243
+                                2,256 00 105 00,                 182 00   200 00   1,400 00 1,600 00
+Agency        Agent                                     00                                               00
+                                                        72,341                   27,351                  229,853
+...             Totals          45,952 82 1,065 23             4,953 89 1,914 50             76,275 25
+                                                        00                       00                      69
+
+NEW             ...             ...       ...           ...      ...      ...      ...       ...         ...
+BRUNSWICK.
+Richibucto      Wm. D.                                  9,350                                            29,125
+                                6,395 00, 1,300 07               30 00    7,000 00 550 00    4,500 00
+Superintendency Carter, Supt.                           00                                               07
+
+
+
+=== EXTRACT FROM HERE (pages 789-793) ===
+<!-- page 789 -->
+Fredericton     James Farrell,                     15,700                                        30,418
+                               2,890 00 1,203 26          250 00   225 00   2,350 00 7,800 00
+Superintendency Supt.                              00                                            26
+                                                   25,050                                        59,543
+...            Totals         9,285 00 2,503 33           280 00   7,225 00 2,900 00 12,300 00
+                                                   00                                            33
+
+NOVA           ...            ...       ...        ...     ...     ...      ...      ...         ...
+SCOTIA.
+Annapolis      George Wells,
+                             36 00      20 00      520 00 ...      30 00    200 00   150 00      956 00
+County         Agent
+Shelburne      J.J. de                                                                           2,074
+                              219 40    50 09      900 00 ...      ...      825 00   80 00
+County         Molitor, Agent                                                                    49
+
+<!-- page 790 -->
+                                          Government
+                                Value of                                  The Estimated
+                                          Distribution           Received                              Total
+Province,        Name of        Farm                                      Value of Fish and Earned by
+                                          to Destitute   Wages from                                    Income
+Agency or        Superintendent Products,                                 Meat used for     other
+                                          of Food,       Earned. Land                                  of
+Band.            or Agent.      including                                 Food is included Industries.
+                                          Clothing, &            Rentals.                              Indians.
+                                Hay.                                      in these columns.
+                                          c.
+                                                                          Earned Earned
+...              ...            ...       ...            ...     ...      by       by       ...         ...
+                                                                          Fishing. Hunting.
+                 Rev. J.J.
+                                                                                                        4,150
+Digby County     Sullivan,      ...       150 00         300 00 ...       600 00   500 00    2,600 00
+                                                                                                        00
+                 Agent
+(t)Yarmouth      W.H. Whalen,
+                              ...         ...            ...     ...      ...      ...       ...        ...
+County           Agent
+                 Chas. E.
+King's County    Beckwith,      ...       160 00         200 00 ...       ...      100 00    100 00     560 00
+                 Agent
+Queen's and
+                 Charles                                                                                1,203
+Lunenburg                       870 00    23 00          205 00 ...       40 00    35 00     30 00
+                 Harlow                                                                                 00
+Counties
+                 Rev. C.E.
+(t)Halifax                                                                                              1,650
+                 McManus,       ...       ...            ...     ...      ...      ...       ...
+County                                                                                                  00
+                 Agent
+                 A. Wallace,                                                                            4,046
+Hants County                    1,363 00 63 84           200 00 ...       20 00    900 00    1,500 00
+                 Agent                                                                                  84
+Colchester       Thos. B.                                1,500                                          3,004
+                                54 00     150 78                 ...      50.00    250 00    1,000 00
+County           Smith, Agent                            00                                             78
+Cumberland       F.A. Rand,                              1,500                                          2,685
+                                175 00    160 00                 ...      ...      250 00    600 00
+County           M.D., Agent                             00                                             00
+                 Rev. R.
+                                                         3,000                                          7,125
+Pictou County    McDonald,      300 00    50 10                  ...      750.00   25 00     3,000 00
+                                                         00                                             10
+                 Agent
+Antigonish and   J.R.
+Guysboro'        McDonald,       ...      ...            ...     ...      ...      ...       ...        ...
+Counties         Agent
+Richmond         Rev. J. Fraser,                                                                        2,636
+                                 725 00   43 00          50 00   ...      265 00   128 00    1,425 00
+County           Agent                                                                                  00
+                 Rev. D.
+Inverness                                                                                               3,105
+                 McIsaac,       1,100 00 55 00           ...     75 00    675 00   100 00    1,100 00
+County                                                                                                  00
+                 Agent
+                A.J.
+                                                                                                        6,330
+Victoria County Macdonald,      1,775 00 30 00           450 00 ...       300 00   250 00    3,525 00
+                                                                                                        00
+                Agent
+                 Rev. A.
+Cape Breton                                                                                             7,025
+                 Cameron,       780 00    195,00         ...     ...      1,000 00 50 00     5,000 00
+County                                                                                                  00
+                 D.D., Agent
+                                                         8,825                                          46,551
+...              Totals         7,397 40 1,150 81                75 00    3,730 00 3,613 00 20,110 00
+                                                         00                                             21
+
+<!-- page 791 -->
+PRINCE
+                 ...             ...       ...       ...     ...   ...      ...     ...        ...
+EDWARD
+ISLAND.
+                   John O.
+ P.E.I.                                                                                        11,407
+                   Arsenault,      1,185 00 762 15   300 00 ...    330 00   30 00   8,800 00
+ Superintendency                                                                               85
+                   Supt.
+[*No returns.] [(t)No details given.]
+
+<!-- page 792 -->
+POPULATION.
+                 Name of        Resident                   From 6 to 15                 From 21 to 65 From 65
+Province, Agency                                                        From 16 to 20
+                 Superintendent Indian      Under 6 Yrs.   Yrs.,                        Yrs.,         Years
+or Band.                                                                Yrs., inclusive
+                 or Agent.      Population.                inclusive.                   inclusive.    upwards.
+...              ...            ...         Male. Female. Male. Female. Male. Female. Male. Female. Male. Female.
+
+BRITISH          ...            ...         ...   ...      ...   ...      ...   ...   ...   ...     ...   ...
+COLUMBIA.
+Cowichan         W.H. Lomas,
+                                1,913       136   140      188   188      43    40    552   605     9     12
+Agency           Agent
+West Coast       Harry Guillod,
+                                2,635       171   183      202   182      87    105   769   782     73    81
+Agency           Agent
+Kwawkewlth       R.H. Pidcock,
+                               1,597        100   97       98    86       76    64    533   513     18    12
+Agency           Agent
+Lower Fraser     Frank Devlin,
+                               3,165        240   246      278   262      147   138   890   879     45    40
+Agency           Agent
+Williams Lake
+                 E. Bell, Agent 1,920       182   180      74    81       157   167   467   487     63    62
+Agency
+Kamloops-
+                 A. Irwin,
+Okanagan                        3,778       344   314      272   240      147   131   1,026 1,031   121   152
+                 Agent
+Agency
+                                R.L.T.
+Kootenay
+                 ...            Galbraith, 543    39       40    33       33    43    43    138     132   15
+Agency
+                                Agent
+North-west Coast C. Todd,
+                                4,082       339   340      346   312      182   169   1,116 1,082   73    123
+Agency           Agent
+Babine and
+                 R.E. Loring,
+Upper Skeena                    2,840       148   135      267   269      103   92    839   819     83    85
+                 Agent
+River Agency
+...              Totals         22,473      1,699, 1,675   1,758 1,653    985   949   6,330 6,330   500   504
+
+                 ...            ...         ...   ...      ...   ...      ...   ...   ...   ...     ...   ...
+MANITOBA.
+Clandeboye       E. McColl,
+                                1,792       180   176      205   190      67    66    417   405     39    47
+Agency           Inspector
+Portage la Prairie H. Martineau,
+                                 525        55    51       57    49       23    16    108   124     16    26
+Agency             Agent
+Manitowapah      H. Martineau,
+                               1,007        45    117      97    83       64    49    201   219     15    17
+Agency           Agent
+                 L.J.A.
+Rat Portage
+                 Levêque,       49          3     2        1     10       6     4     9     9       2     3
+Agency
+                 Inspector
+Berens River     *J.W. Short,
+                                2,214       ...   ...      ...   ...      ...   ...   ...   ...     ...   ...
+Agency           Agent
+                 Joseph
+The Pas Agency   Courtney,      1,129       122   88       148   145      57,   44    208   241     29    47
+                 Agent
+
+<!-- page 793 -->
+...              Total          6,716   405   434   508   477   197   179   943   1,898   101   140
+
+NORTH-WEST ...                  ...     ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+TERRITORIES.
+Touchwood Hills
+                S. Swinford,
+Agency, Treaty                  859     101   79    79    85    62    49    146   180     35    43
+                Agent
+No. 4
+Muscowpetung's
+               J.B. Lash,
+Agency, Treaty                  694     40    40    61,   63    26    28    171   223     9     33
+               Agent
+No. 4
+Birtle Agency,   J.A. Markle,
+                                945     104   119   77    79    40    36    205   238     18    29
+Treaty No. 4     Agent
+Swan River
+                 W.E. Jones,
+Agency, Treaty                  643     60    78    80    72    26    18    134   160     6     9
+                 Agent
+No. 4
+File Hills       W.M.
+Agency, Treaty   Graham,      281       24    29    19    23    7     15    66    89      2     7
+No. 4            Agent
+Assiniboine      T.W. Aspdin,
+Agency, Treaty   Farmer in    216       14    15    15    10    17    18    47    57      11    12
+No. 4            charge.
+

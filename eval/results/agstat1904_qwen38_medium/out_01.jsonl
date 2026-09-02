@@ -1,0 +1,86 @@
+{"row_type": "headers", "title": "AGRICULTURAL AND INDUSTRIAL STATISTICS.", "columns": ["Horse Stables", "Driving Shanties", "Cattle Barns", "Pig Sties", "Store Houses", "Root Houses", "Milk Houses", "Corn Cribs"]}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Lake of Two Mountains Agency", "values": ["2", "33", "33", "26", "13", "24", "14", "3", "21", "7"], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Caughnawaga Agency", "values": ["6", "119", "316", null, null, "112", "12", "2", "10", "140"], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "St. Regis Agency", "values": [null, "106", "52", null, "45", "46", "2", "2", null, "58"], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Viger Agency", "values": [null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "St. Francis Agency", "values": [null, "12", "9", "6", "14", "6", "24", "1", "12", "1"], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Lake St. John Agency", "values": ["2", "13", "14", "3", null, "12", "1", "7", "16", null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Maria Agency", "values": [null, "16", "8", "8", "19", "16", "6", "6", "6", null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Restigouche Agency", "values": ["5", "62", "24", null, "63", "44", "8", null, "13", null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "River Desert Agency", "values": ["30", "15", "18", "2", "11", "4", "3", "7", "5", null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Jeune Lorette Agency", "values": [null, "8", "7", null, "5", "10", null, null, null, null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Becancour Agency", "values": [null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Timiskaming Agency", "values": ["13", "8", "8", null, "8", "3", "4", "14", "14", "1"], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Bersimis Agency", "values": ["5", null, "2", null, "4", null, null, "1", null, null], "confidence": "medium"}
+{"page": 886, "row_type": "row", "section": "QUEBEC.", "label": "Mingan Agency", "values": [null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 886, "row_type": "total", "section": "QUEBEC.", "label": "Total", "values": ["63", "392", "491", "45", "182", "277", "84", "43", "84", "80"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Grand River Superintendency - Six Nations", "values": ["340", "269", "69", "210", "82", "149", "106", "129", "182", "5", "47"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Parry Sound Superintendency", "values": ["29", "25", null, null, null, "3", "1", null, "5", null, null], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "New Credit (Mississaguas) Agency", "values": ["36", "23", "7", "18", "6", "15", "9", "10", "15", "1", "2"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Walpole Island Agency", "values": ["78", "57", "6", "69", "6", "35", "9", "30", "34", "1", "1"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Sarnia Agency", "values": ["82", "76", "17", "46", "5", "38", "20", "33", "49", "1", "15"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Caradoc Agency", "values": ["144", "137", "28", "115", "21", "54", "44", "44", "58", "2", "77"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Moravian Agency", "values": ["69", "63", "9", "64", "3", "17", "6", "16", "11", null, "3"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Manitowaning Agency", "values": ["180", "103", null, "5", null, "27", "8", "24", "12", "3", "51"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Gore Bay Agency", "values": [null, null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Thessalon Agency", "values": ["14", "13", null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Sault Ste. Marie Agency", "values": ["51", "48", null, "3", null, "7", null, "11", "13", "1", "6"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Port Arthur Agency", "values": [null, null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Golden Lake Agency", "values": ["6", "5", null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Tyendinaga Agency", "values": ["127", "130", "40", "95", "37", "40", "32", "70", "54", "2", "42"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Lake Simcoe Agency", "values": ["15", "11", "1", "3", null, "3", "1", "2", "4", "1", "8"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Cape Croker Agency", "values": ["48", "35", "2", "6", "3", "8", "1", "22", "21", "1", "4"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Saugeen Agency", "values": ["65", "40", null, "6", null, "9", "2", "16", "5", null, "50"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Alnwick Agency", "values": ["25", "15", "5", "9", "4", "4", "5", "4", "8", null, "1"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Mud Lake Agency", "values": ["13", "10", "3", "3", "2", "1", "2", "1", "5", "1", "1"], "confidence": "medium"}
+{"page": 887, "row_type": "row", "section": "ONTARIO.", "label": "Rice Lake Agency", "values": ["10", "7", "2", "1", "1", "2", "2", "2", "5", null, "1"], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Rama Agency", "values": ["21", "18", "1", "1", "1", "1", "1", "2", "2", null, "4"], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Christian Island Agency", "values": ["60", "45", "5", "6", "7", "3", "1", "5", "4", "1", "6"], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Scugog Agency", "values": ["8", "3", "2", "1", null, "1", "2", null, "5", null, "1"], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Indians of Christian Island band residing on Manitoulin Island", "values": ["4", "3", null, null, null, null, null, "1", null, null, "2"], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Rat Portage Agency", "values": ["10", "8", null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Fort Frances Agency", "values": ["27", "15", null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Savanne Agency", "values": ["4", "4", null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 888, "row_type": "row", "section": "ONTARIO.", "label": "Sturgeon Falls Agency", "values": ["10", "4", null, null, null, null, null, null, "1", null, "10"], "confidence": "medium"}
+{"page": 888, "row_type": "total", "section": "ONTARIO.", "label": "Total", "values": ["1,476", "1,167", "197", "661", "178", "417", "252", "421", "494", "20", "332"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Lake of Two Mountains Agency", "values": ["44", "50", "2", "13", "2", "11", "5", "14", "9", "6", "7"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Caughnawaga Agency", "values": ["262", "202", "17", "30", "10", "32", "8", "38", "20", "14", "25"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "St. Regis Agency", "values": ["112", "90", "6", "85", "4", "52", "16", "50", "8", "6", "60"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Viger Agency", "values": [null, null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "St. Francis Agency", "values": ["6", "7", null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Lake St. John Agency", "values": ["21", "30", null, null, "2", "4", "1", "7", "9", "5", "1"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Maria Agency", "values": ["4", "5", null, "2", "2", null, null, "2", null, "1", "3"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Restigouche Agency", "values": ["36", "29", null, "8", "4", "6", "2", "16", "4", "2", "8"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "River Desert Agency", "values": ["25", "25", "1", null, "3", "5", "1", "5", "4", "1", "0"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Jeune Lorette Agency", "values": ["4", "5", null, "1", null, null, null, "1", null, null, null], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Becancourt Agency", "values": [null, null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Timiskaming Agency", "values": ["10", "12", null, null, "1", "2", null, "2", "1", "1", "3"], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Bersimis Agency", "values": ["1", null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 889, "row_type": "row", "section": "QUEBEC.", "label": "Mingan Agency", "values": [null, null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 889, "row_type": "total", "section": "QUEBEC.", "label": "Total", "values": ["525", "455", "26", "139", "28", "112", "33", "135", "55", "36", "107"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Grand River Superintendency - Six Nations", "values": ["2,222", "261", "65", "179", "106", "112", "202", "122,054 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Parry Sound Superintendency", "values": ["400", "12", "1", "16", "12", "1", "1", "2,165 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "New Credit (Mississaguas) Agency", "values": ["160", "23", "2", "19", "13", "11", "26", "4,200 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Walpole Island Agency", "values": ["475", "56", "4", "44", "4", "44", "76", "8,070 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Sarnia Agency", "values": ["799", "86", null, "65", "14", "10", "82", "13,244 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Caradoc Agency", "values": ["2,728", "106", null, "84", "51", "45", "143", "17,038 70"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Moravian Agency", "values": ["486", "40", null, "28", "10", "9", "43", "8,000 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Manitowaning Agency", "values": ["1,620", "127", "10", "152", "143", "13", "24", "4,045 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Gore Bay Agency", "values": [null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Thessalon Agency", "values": ["522", null, null, "10", "36", null, null, "927 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Sault Ste. Marie Agency", "values": ["1,723", "20", "6", "75", "12", "3", "4", "4,760 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Port Arthur Agency", "values": [null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Golden Lake Agency", "values": [null, "2", null, "5", "3", "2", "4", "500 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Tyendinaga Agency", "values": ["5,000", "117", "4", "107", "40", "70", "54", "26,500 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Lake Simcoe Agency", "values": ["110", "5", null, "8", "8", "2", "2", "1,000 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Cape Croker Agency", "values": ["550", "40", "2", "24", "20", "18", "16", "9,301 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Saugeen Agency", "values": ["1,500", "34", null, "50", "40", "26", "63", "5,600 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Alnwick Agency", "values": ["378", "15", "2", "14", "16", "10", "16", "3,530 65"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Mud Lake Agency", "values": ["150", "6", "1", "8", "5", "5", "4", "1,425 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Rice Lake Agency", "values": ["70", "5", "1", "5", "2", null, "5", "1,300 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Rama Agency", "values": ["130", "5", null, "6", "7", "1", "9", "900 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Christian Island Agency", "values": ["150", "25", "2", "25", "6", "4", "5", "3,000 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Scugog Agency", "values": ["69", "3", null, "3", "3", "3", "4", "665 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Indians of Christian Island band residing on Manitoulin Island", "values": ["52", "1", "1", "3", "3", null, null, "250 00"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Rat Portage Agency", "values": ["338", null, null, null, null, null, null, "321 25"], "confidence": "medium"}
+{"page": 890, "row_type": "row", "section": "ONTARIO.", "label": "Fort Frances", "values": ["475", null, null, "6", "6", null, null, "1,075 00"], "confidence": "medium"}

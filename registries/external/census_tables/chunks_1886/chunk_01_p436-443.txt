@@ -1,0 +1,301 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+
+CENSUS RETURN OF RESIDENT AND NOMADIC INDIANS IN THE DOMINION OF CANADA, BY
+PROVINCES.
+PROVINCE OF ONTARIO.
+
+Algonquins of Carleton                                                   26
+Algonquins of Golden Lake                                                83
+Algonquins of Renfrew                                                    673
+Chippewas and Mansees of the Thames                                      572
+Chippewas, Ottawas and Pottawattamies of Walpole Island.                 821
+Chippewas, Ottawas and Pottawattamies of Sarnia, Kettle Point and Sauble 511
+Chippewas of Snake Island                                                132
+Chippewas of Rama                                                        240
+Chippewas of Saugeen                                                     352
+Chippewas of Nawash                                                      390
+Chippewas of Beausoleil                                                  326
+Iroquois and Algonquins of Gibson (Muskoka District)                     111
+Moravians of the Thames                                                  283
+Missisaguas of Mud Lake                                                  154
+Missisaguas of Rice Lake                                                 90
+Missisaguas of Scugog                                                    45
+Missisaguas of Alnwick                                                   229
+Missisaguas of New Credit                                               239
+Mohawks of the Bay of Quinté                                            1,010
+Oneidas of the Thames                                                   770
+Ojibbewas and Ottawas of Manitoulin and Cockburn Islands, at -          ...
+Cockburn Island                                                         40
+Sheshegwaning                                                           152
+West Bay                                                                251
+Sucker Creek                                                            104
+Sheguiandah                                                             129
+Sucker Lake                                                             37
+South Bay                                                               64
+Wikwemikong                                                             820
+Wikwemikongsing                                                         151
+Obidgewong                                                              19
+Ojibbewas of Lake Supe
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ippewas and Crees of Treaty No. 2                    733
+Chippewas and Sauteux of Treaty No. 3                  2,615
+Chippewas and Sauteux and Crees of Treaty No. 4        5,913
+Chippewas and Sauteux and Crees of Treaty No. 5        2,866
+Plain and Wood Crees of Treaty No. 6                   7,539
+Blackfeet of Treaty No. 7                              6,495
+Resident Sioux                                         2,000
+Total                                                  30,578
+Peace River District                                   2,038
+Athabasca District                                     8,000
+McKenzie District                                      7,000
+Eastern Rupert's Land                                  4,016
+Labrador (Canadian Interior)                           1,000
+Arctic Coast                                           4,000
+PROVINCE OF BRITISH COLUMBIA.                          ...
+West Coast Agency.                                     ...
+Ahhousaht                                              286
+Clao-qu-aht                                            302
+Chaic-cles-aht                                         154
+Ehatt-is-aht                                           152
+Emlh-wilh-laht                                         210
+Hosh-que-aht                                           225
+Howchuk-list-aht                                       57
+
+<!-- page 435 -->
+Kel-seem-aht    164
+Ky-wk-aht       560
+Match-itl-aht   80
+Mooach-aht      279
+Nitten-aht      243
+
+
+
+=== EXTRACT FROM HERE (pages 436-443) ===
+<!-- page 436 -->
+Nooch-alh-laht               136
+Oi-aht                       232
+Opitches-aht                 57
+Pacheen-aht                  73
+Too-qu-aht                   32
+Tsesh-aht                    173
+Total                        3,415
+Fraser River Agency.         ...
+Assylitch                    25
+Burrard Inlet, Reserve No. 3 47
+Capitano Creek               51
+Cheam                        167
+Chehales                     127
+Co-quit-lum                  43
+Co-qua-piet                  51
+Cla-hoose                    108
+Douglas                      95
+Ewa-hoos                     98
+Em-alcom                     68
+False Creek                  94
+Harrison Mouth               57
+Hastings Saw Mills           82
+Hope                         129
+Katsey                       100
+Klatanars                    36
+Langley                      136
+Matsqui                      71
+Mission - Burrard Inlet      223
+Misqueam                     145
+Moonyville Saw Mills         57
+New Westminster              220
+Nicoamen                     27
+Ohamille                     80
+Pemberton Meadows            162
+Popkum                       31
+Samamhoo                     98
+Schurye                      26
+Sechelt                      281
+Skokale                      46
+Skowall                      67
+
+<!-- page 437 -->
+Skukem Chuck           89
+Skulteen               51
+Semaccom               51
+Seymour Creek          27
+Squah                  115
+Squatils               103
+Squamish - Hon Sound   289
+Sliammon               298
+Slumagh                52
+Squehala               29
+Squeam                 58
+Sumas, No. 1           26
+Sumas, No. 2           63
+Sumas, No. 3           40
+Syuay                  46
+
+<!-- page 438 -->
+Texes Lake          69
+To-ylee             50
+Tsonassan           89
+Wadington Harbor 69
+Whonook             37
+Yak-y-you           56
+Yale                262
+Total               5,020
+Kamloops Agency. ...
+Chataway            13
+Chomok              23
+Chukchuqualk        130
+Halaha              12
+Halaut              139
+Haltkum             141
+Hlukhlukatan        82
+Kamloops            243
+Kamus               58
+Kapatsitsan         44
+Kekalus             23
+Kittsawat           20
+Kuaut               77
+Mpaktam             17
+Nepa                17
+Nesikeep            38
+Nhumeen             29
+Nikaomin            39
+Nkaih               2
+Nkatsam             104
+Nkhumcheen          92
+Nkya                52
+Nquakin             55
+Paska               15
+Piminos and Pakeist 53
+Sh hahanih          90
+Siska               43
+Skaap               15
+Skappa              22
+Skichistan          81
+Skuwah              18
+
+<!-- page 439 -->
+Skuzzy      70
+Snahaim     22
+Spapium     27
+Spaptsin    27
+Speyam      25
+Spuzzum     120
+Stahl-lch   61
+Strynne     49
+Suuk        20
+Tlukcheen   173
+Tluhtaus    142
+Tquayaum    139
+Yout        9
+Total       2,681
+
+<!-- page 440 -->
+Cowichan Agency.               ...
+Che-erno                       75
+Comea kin                      95
+Clem-clemalats                 160
+Comox                          51
+Discovery Island               9
+Esquimalt                      30
+Galiano Island                 13
+Hel-lalt                       27
+Hatch Point                    6
+Kil-pan-hus                    5
+Kee-nip-sim                    63
+Kok-si-lah                     26
+Kul-leets                      86
+Ll-mal-ches                    25
+Lyach-sun                      82
+Mal-a-hut                      17
+Mayne Island                   11
+Nanaimo                        176
+Pan-que-chin                   69
+Penel-a-kut                    219
+Punt-ledge                     31
+Qua-michan                     251
+Qual-i-cum                     23
+Sick-a-meen                    31
+Sno-no-wus                     14
+Somenos                        92
+Songhees                       134
+Sooke                          30
+Tsar-out                       47
+Tsart-ilp                      88
+Tse-kum                        34
+Tsussie                        40
+Total                          2,060
+Kwawkewlth Agency.             ...
+Ah-knaw-ah-mish                69
+Ah-mah-oo, Saieh-kioil-tache   32
+Ah-wah-eet-tla-la,             51
+Keopé-e-no                     20
+Kose-kemoe                     145
+
+<!-- page 441 -->
+Klah-wit-sis                  107
+Klass-ki-no                   14
+Kwawt-se-no                   34
+Kwaw-she-lah                  47
+Kwaw-waw-i-nuck               46
+Kwaw-kewlch                   65
+Kwe-ah-kah                    59
+Kwe-ah-kah, Saich-kioie-tachs 39
+Kwick-so-te-no                50
+Mah-tee-cetp                  63
+Mah-ma-lil-le-kullah          165
+Na-knock-to                   124
+Nim-keesh                     162
+
+<!-- page 442 -->
+Noo-we-tee                       101
+Ta-nock-teuch                    120
+Tsah-waw-ti-neuch                148
+Waw-lis-knahkewlth               48
+Waw-lit-sum, Saich-kioie-tachs   83
+We-wai-ai-kum, Saich-kioie-tachs 52
+We-wai-si-kai, Saich-kioie-tachs 125
+Total                            1,969
+Okanagon Agency.                 ...
+Chu-chu-way-ha                   75
+Ker-e-meus                       71
+Na-aik                           124
+Nkam-ip                          45
+Nkam-a-plix                      187
+Nzis-kat                         24
+Pen-tic-ton                      128
+Quin-sha-a-tin                   30
+Quis-kan-aht                     29
+Shen-nos-quan-kin                48
+Spa-ha-min                       164
+Spal-lam-cheen                   63
+Zoht                             16
+Total                            1,004
+William's Lake Agency.           ...
+Alexandria                       63
+Alkali Lake                      173
+Anahim's Tribe                   193
+Anderson Lake                    113
+Bridge River                     91
+Canoe Creek                      148
+Cayoosh Creek                    39
+Cheewack                         11
+Clinton                          50
+Colchopa                         38
+Dog Creek                        13
+Fountain                         217
+High Bar                         42
+Kaninis' Tribe                   98
+Kioch's Tribe                    45
+Lillooet                         100
+
+<!-- page 443 -->
+Pavilion         52
+Pashilquai       45
+Quesnelle        64
+Seton Lake       99
+Soda Creek       65
+Toosey's Tribe   96
+William's Lake   113
+Total            1,968
+

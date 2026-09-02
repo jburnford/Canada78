@@ -1,0 +1,147 @@
+{
+ "00": {
+  "seconds": 733.2,
+  "pages": "79\u201384",
+  "windows": [
+   {
+    "window": [
+     79,
+     84
+    ],
+    "rows": 105,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 733.2,
+    "finish_reason": "stop",
+    "completion_tokens": 26003
+   }
+  ],
+  "rows": 105,
+  "complete": true
+ },
+ "01": {
+  "seconds": 929.5,
+  "pages": "85\u201390",
+  "windows": [
+   {
+    "window": [
+     85,
+     90
+    ],
+    "retry": "empty content \u2192 retry with thinking off",
+    "completion_tokens": 16786
+   },
+   {
+    "window": [
+     85,
+     90
+    ],
+    "rows": 101,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 454.2,
+    "finish_reason": "stop",
+    "completion_tokens": 16182
+   }
+  ],
+  "rows": 101,
+  "complete": true
+ },
+ "02": {
+  "seconds": 989.6,
+  "pages": "91\u201396",
+  "windows": [
+   {
+    "window": [
+     91,
+     96
+    ],
+    "retry": "parse failed (Expecting ',' delimiter: line 1 column 3 (char 2)) \u2192 retry with thinking off",
+    "completion_tokens": 18579
+   },
+   {
+    "window": [
+     91,
+     96
+    ],
+    "rows": 104,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 463.4,
+    "finish_reason": "stop",
+    "completion_tokens": 16562
+   }
+  ],
+  "rows": 104,
+  "complete": true
+ },
+ "04": {
+  "seconds": 214.8,
+  "pages": "103\u2013103",
+  "windows": [
+   {
+    "window": [
+     103,
+     103
+    ],
+    "rows": 27,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 214.8,
+    "finish_reason": "stop",
+    "completion_tokens": 8063
+   }
+  ],
+  "rows": 27,
+  "complete": true
+ },
+ "03": {
+  "seconds": 1704.7,
+  "pages": "97\u2013102",
+  "windows": [
+   {
+    "window": [
+     97,
+     102
+    ],
+    "truncated_split": [
+     [
+      97,
+      99
+     ],
+     [
+      100,
+      102
+     ]
+    ],
+    "completion_tokens": 29285
+   },
+   {
+    "window": [
+     97,
+     99
+    ],
+    "rows": 48,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 543.6,
+    "finish_reason": "stop",
+    "completion_tokens": 21462
+   },
+   {
+    "window": [
+     100,
+     102
+    ],
+    "rows": 49,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 383.8,
+    "finish_reason": "stop",
+    "completion_tokens": 15295
+   }
+  ],
+  "rows": 96,
+  "complete": true
+ }
+}

@@ -1,0 +1,91 @@
+{"row_type": "headers", "title": "AGRICULTURAL AND INDUSTRIAL STATISTICS", "columns": ["Root Houses", "Milk Houses", "Corn Cribs", "Value of Land Improvements ($ cts.)", "Value of New Land Improvements ($ cts.)", "Value of Buildings Erected ($ cts.)", "Total Value of New Land Improvements and Buildings ($ cts.)"]}
+{"page": 965, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "NEW BRUNSWICK.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Richibucto Superintendency", "values": [null, null, null, "325 00", "750 00", "1,075 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Fredericton", "values": ["1", null, null, null, "880 00", "880 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "total", "section": "NEW BRUNSWICK.", "label": "Total", "values": ["1", null, null, "325 00", "1,630 00", "1,955 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "PRINCE EDWARD ISLAND.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "Prince Edward Island Superintendency", "values": [null, null, null, "58 00", null, "58 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "NOVA SCOTIA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Annapolis County", "values": [null, null, null, "40 00", "200 00", "240 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Shelburne County", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Digby County", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "*Yarmouth County", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "King's County", "values": [null, null, null, "50 00", null, "50 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Queen's County", "values": [null, null, null, "40 00", "20 00", "60 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Halifax County", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Hants County", "values": [null, null, null, null, "300 00", "300 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Colchester County", "values": [null, null, null, "35 00", "50 00", "85 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cumberland County", "values": [null, null, null, null, "50 00", "50 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Pictou County", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Antigonish and Guysborough Counties", "values": [null, null, null, "30 00", "150 00", "180 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Richmond County", "values": [null, null, null, "300 00", "200 00", "500 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Inverness County", "values": [null, "1", null, "5 00", "10 00", "15 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Victoria County", "values": [null, null, null, "50 00", "25 00", "75 00", null], "confidence": "medium"}
+{"page": 965, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cape Breton (Sydney) County", "values": [null, null, null, null, "110 00", "110 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Lunenburg County", "values": [null, null, null, "150 00", "150 00", "300 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cape Breton (Eskasoni) County", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 966, "row_type": "total", "section": "NOVA SCOTIA.", "label": "Total", "values": [null, "1", null, "700 00", "1,265 00", "1,965 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "BRITISH COLUMBIA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan Agency", "values": [null, null, null, null, "1,400 00", "1,400 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "West Coast Agency", "values": [null, null, null, null, "5,640 00", "5,640 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kwawkewlth Agency", "values": [null, null, null, null, "800 00", "800 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Fraser River Agency", "values": ["1", null, null, "400 00", "1,445 00", "1,845 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Williams Lake Agency", "values": [null, null, null, null, "1,050 00", "1,050 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kamloops - Okanagan Agency", "values": [null, null, null, "6,575 00", "1,400 00", "7,975 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kootenay Agency", "values": [null, null, null, "1,720 00", "500 00", "2,220 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "(t)Northwest Coast Agency", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "(t)Babine and Upper Skeena River Agency", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 966, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cassiar", "values": [null, null, null, null, "1,200 00", "1,200 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "total", "section": "BRITISH COLUMBIA.", "label": "Total", "values": ["1", null, null, "8,695 00", "13,435 00", "22,130 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "MANITOBA.", "label": "MANITOBA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 966, "row_type": "row", "section": "MANITOBA.", "label": "Clandeboye Agency", "values": [null, null, null, "492 00", "400 00", "892 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "MANITOBA.", "label": "Portage la Prairie Agency", "values": [null, null, null, "725 00", "275 00", "1,000 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "MANITOBA.", "label": "Manitowapah Agency", "values": [null, null, null, "170 00", "1,175 00", "1,345 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "MANITOBA.", "label": "Norway House Agency", "values": [null, null, null, null, "1,400 00", "1,400 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "MANITOBA.", "label": "The Pas Agency", "values": [null, null, null, "70 00", "1,215 00", "1,285 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "row", "section": "MANITOBA.", "label": "Birtle Agency", "values": ["2", null, null, "4,219 00", "1,475 00", "5,694 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "total", "section": "MANITOBA.", "label": "Total", "values": ["2", null, null, "5,676 00", "5,940 00", "11,616 00", null], "confidence": "medium"}
+{"page": 966, "row_type": "note", "section": "MANITOBA.", "label": "[(t)No returns.]", "values": [], "confidence": "high"}
+{"page": 967, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "NEW BRUNSWICK.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 967, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Richibucto Superintendency", "values": [null, "4,300 00", "24,800 00", null, "10,375 00", "300 00", "10,050 00", "49,825 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Fredericton Superintendency", "values": ["7,500 00", "3,945 50", "31,450 00", "20 00", "450 00", "7,000 00", "12,800 00", "63,165 50"], "confidence": "medium"}
+{"page": 967, "row_type": "total", "section": "NEW BRUNSWICK.", "label": "Total", "values": ["7,500 00", "8,245 50", "56,250 00", "20 00", "10,825 00", "7,300 00", "22,850 00", "112,990 50"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "PRINCE EDWARD ISLAND.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 967, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "Prince Edward Island Superintendency", "values": ["60 00", "1,080 00", "160 00", null, "1,245 00", "50 00", "17,400 00", "19,995 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "NOVA SCOTIA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Annapolis County", "values": [null, "200 00", "700 00", null, "120 00", "100 00", "400 00", "1,520 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Shelburne County", "values": [null, "75 00", "1,000 00", "200 00", "200 00", "600 00", "200 00", "2,285 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Digby County", "values": [null, "143 00", "1,000 00", null, "75 00", "500 00", "600 00", "2,318 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "*Yarmouth County", "values": [null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "King's County", "values": [null, "610 00", "5,000 00", null, "100 00", "250 00", "500 00", "6,460 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Queen's County", "values": [null, "740 00", "2,500 00", null, "500 00", "600 00", "500 00", "4,840 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Halifax County", "values": [null, "500 00", null, null, null, null, null, "500 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Hants County", "values": ["500 00", "2,000 00", "900 00", null, "100 00", "1,000 00", "2,000 00", "6,500 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Colchester County", "values": ["30 00", "125 00", "3,000 00", null, "40 00", "450 00", "1,450 00", "5,095 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cumberland County", "values": [null, "600 00", "3,000 00", null, "20 00", "800 00", "1,500 00", "5,920 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Pictou County", "values": [null, "380 00", "1,100 00", null, "750 00", "50 00", "70000", "2,980 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Antigonish and Guysborough Counties", "values": [null, "450 00", "1,500 00", "6 00", "500 00", null, "6,500 00", "8,956 00"], "confidence": "medium"}
+{"page": 967, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Richmond County", "values": ["50 00", "925 00", "2,500 00", null, "500 00", "60 00", "700 00", "2,980 00"], "confidence": "medium"}
+{"page": 968, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Inverness County", "values": [null, "2,130 00", "3,100 00", "63 00", "300 00", "50 00", "1,300 00", "6,943 00"], "confidence": "medium"}
+{"page": 968, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Victoria County", "values": ["200 00", "2,400 00", "1,000 00", null, "600 00", "500 00", "5,000 00", "9,700 00"], "confidence": "medium"}
+{"page": 968, "row_type": "row", "section": "NOVA SCOTIA.", "label": "*Cape Breton (Sydney) County", "values": [null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 968, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Lunenburg County", "values": [null, "1,240 00", "3,000 00", null, "100 00", "75 00", "100 00", "4,515 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cape Breton (Eskasoni) County", "values": [null, "1,500 00", "5,000 00", null, "500 00", "1,000 00", "2,000 00", "10,000 00"], "confidence": "medium"}
+{"page": 969, "row_type": "total", "section": "NOVA SCOTIA.", "label": "Total", "values": ["780 00", "14,018 00", "34,300 00", "269 00", "4,405 00", "6,035 00", "23,450 00", "83,257 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "BRITISH COLUMBIA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan Agency", "values": [null, "25,400 00", "28,850 00", null, "34,450 00", "2,480 00", "400 00", "91,580 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "West Coast Agency", "values": ["500 00", "380 00", "9,200 00", null, "32,700 00", "4,580 00", "59,000 00", "106,360 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kwawkewlth Agency", "values": [null, "460 00", "24,650 00", null, "37,055 00", "6,795 00", "12,025 00", "80,985 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Fraser River Agency", "values": ["6,463 00", "47,938 00", "85,715 00", "542 90", "92,983 00", "58,020 00", "55,954 00", "347,615 90"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Williams Lake Agency", "values": ["4,300 00", "28,065 25", "30,250 00", null, "15,575 00", "22,473 00", "9,150 00", "109,813 25"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kamloops - Okanagan Agency", "values": [null, "142,031 00", "176,600 00", null, "36,150 00", "26,200 00", "35,600 00", "416,581 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kootenay Agency", "values": ["4,700 00", "30,703 00", "9,700 00", null, "1,585 00", "7,850 00", "1,950 00", "56,488 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "*Northwest Coast Agency", "values": [null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "*Babine and Upper Skeena River Agency", "values": [null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 969, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "*Cassiar", "values": [null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 969, "row_type": "total", "section": "BRITISH COLUMBIA.", "label": "Total", "values": ["15,963 00", "247,977 25", "364,965 00", "542 90", "250,498 00", "128,398 00", "174,079 00", "1,209,423 15"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "MANITOBA.", "label": "MANITOBA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 969, "row_type": "row", "section": "MANITOBA.", "label": "Clandeboye Agency", "values": ["1,810 00", "22,157 00", "21,300 00", null, "18,100 00", "7,200 00", "16,400 00", "86,967 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "MANITOBA.", "label": "Portage la Prairie Agency", "values": ["750 00", "8,611 00", "5,800 00", null, "545 00", "5,500 00", "3,200 00", "24,406 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "MANITOBA.", "label": "Manitowapah Agency", "values": ["2,200 00", "8,275 00", "10,650 00", null, "14,020 00", "17,350 00", "4,560 00", "57,055 00"], "confidence": "medium"}
+{"page": 969, "row_type": "row", "section": "MANITOBA.", "label": "Norway House Agency", "values": [null, "27,77000", "6,850 00", null, "10,600 00", "22,950 00", "1,825 00", "69,995 00"], "confidence": "low"}

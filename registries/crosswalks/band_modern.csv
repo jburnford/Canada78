@@ -1,0 +1,369 @@
+tier,score,band_id,hist_name,province_pool,agency,first_year,last_year,modern_name,band_no,modern_jur,qid,wd_label,statcan_csds
+M2,0.88,band_c00007,Water Hen Lake,Athabasca And M'Kenzie Rivers,,1893,1893,Waterhen Lake,402,SK,Q7974130,Waterhen Lake First Nation,4717806
+M3,0.857,band_c00008,Fort McMurray,Athabasca And M'Kenzie Rivers,,1893,1893,Fort McMurray #468 First Nation,468,AB,Q5471652,Fort McMurray First Nation,4816821;4816822
+M2,1.0,band_c00012,Fond du Lac,Athabasca And M'Kenzie Rivers,,1893,1893,Fond du Lac,351,SK,Q3075320,Fond du Lac First Nation,
+M2,1.0,band_c00033,Tluhtans (Bonaparte),B.C,Shuswap Tribe,1895,1895,Bonaparte First Nation,686,BC,Q4941171,Bonaparte First Nation,5933812;5933836;5933875
+M2,0.96,band_c00035,Mama-lil-li-kulla,B.C,KWAWKEWLTH Agency,1895,1895,Mamalilikulla First Nation,629,BC,Q16212986,Mamalilikulla-Qwe'Qwa'Sot'Em First Nation,
+M2,0.889,band_c00068,Kitsegukla (old and new village),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1895,1912,Gitsegukla,535,BC,Q5565145,Gitsegukla Indian Band,5949814
+M2,1.0,band_c00075,Kitsumkalum,British Columbia,Nass Agency,1895,1929,Kitsumkalum,681,BC,Q6418364,Kitsumkalum First Nation,5949804
+M2,1.0,band_c00092,Tahltans,British Columbia,Stikine Agency,1906,1929,Tahltan,682,BC,Q7675581,Tahltan First Nation,5949843;5949845;5949846;5949847
+M2,1.0,band_c00093,Wewayakum or Campbell River,British Columbia,Kwawkewlth Agency,1915,1929,Campbell River,622,BC,Q5028135,Wei Wai Kum First Nation,
+M1,1.0,band_c00094,Williams Lake,British Columbia,Williams Lake Agency,1886,1929,Williams Lake First Nation,719,BC,Q8021049,,5941812
+M2,1.0,band_c00099,Cook's Ferry,British Columbia,Kamloops Agency,1881,1929,Cook's Ferry,694,BC,Q5166863,Cook's Ferry Indian Band,5933810;5933828;5933834;5933837;5933857;5933861;5933881;5933895
+M2,1.0,band_c00124,Ulkatcho,British Columbia,Bella Coola Agency,1910,1929,Ulkatcho,722,BC,Q7879075,Ulkatcho First Nation,5941834;5941840;5941845;5941851;5941854;5941858;5941859;5941860;5941861;5941862;5941871;5941880
+M2,1.0,band_c00132,Hlukhlukatan,British Columbia,KAMLOOPS Agency,1886,1898,Kanaka Bar,704,BC,Q16211877,Kanaka Bar First Nation,5933882;5933896
+M2,1.0,band_c00133,Nicola (Lower),British Columbia,Kamloops Agency,1881,1929,Lower Nicola,695,BC,Q6693657,Lower Nicola First Nation,5933805;5933807;5933811
+M2,1.0,band_c00134,Maria or Seabird Island,British Columbia,Lytton Agency,1924,1929,Seabird Island,581,BC,Q7440169,Seabird Island First Nation,5909832
+M2,1.0,band_c00140,Boston Bar,British Columbia,Lytton Agency,1881,1929,Boston Bar First Nation,701,BC,Q4947751,Boston Bar First Nation,5909806;5909817;5909836;5909847
+M1,1.0,band_c00141,Lytton,British Columbia,Lytton Agency,1881,1929,Lytton,705,BC,Q12635666,Lytton First Nation,5931827;5933813;5933823;5933829;5933831;5933832;5933833;5933839;5933840;5933841;5933842;5933848;5933850;5933852;5933853;5933855;5933858;5933866;5933868;5933870;5933873;5933874;5933878
+M1,1.0,band_c00143,Nicola (Upper),British Columbia,Kamloops Agency,1903,1929,Upper Nicola,697,BC,Q7898819,Upper Nicola Indian Band,5933802;5933803;5933806
+M1,1.0,band_c00147,Boothroyd,British Columbia,Lytton Agency,1893,1929,Boothroyd,700,BC,Q4943947,Boothroyd First Nation,5909805;5909815;5909819;5909850;nan;nan
+M2,1.0,band_c00148,Fort Nelson,British Columbia,Fort St. John - Non-treaty,1910,1929,Fort Nelson First Nation,543,BC,Q100210267,Fort Nelson First Nation,5959805;5959806;5959809
+M2,0.889,band_c00151,Kitsegukla,British Columbia,Babine Agency,1891,1929,Gitsegukla,535,BC,Q5565145,Gitsegukla Indian Band,5949814
+M2,1.0,band_c00165,Burrard No. 3 (Squamish),British Columbia,Vancouver Agency,1924,1924,Squamish,555,BC,Q7581946,Squamish Nation,5915807;5915808;5915811;5929801;5931801;5931802;5931806;5931807;5931808;5931809
+M2,1.0,band_c00168,Cowichan Agency,British Columbia,Cowichan Agency,1892,1929,Cowichan,642,BC,Q118904720,Cowichan Tribes,
+M1,1.0,band_c00176,Nicomen,British Columbia,FRASER RIVER Agency,1881,1929,Nicomen,696,BC,Q7030489,Nicomen First Nation,5933851
+M2,1.0,band_c00182,Spuzzum,British Columbia,Lytton Agency,1881,1929,Spuzzum,708,BC,Q7581642,Spuzzum First Nation,
+M2,1.0,band_c00183,"Squamish, Howe Sound",British Columbia,FRASER RIVER Agency,1886,1929,Squamish,555,BC,Q7581946,Squamish Nation,5915807;5915808;5915811;5929801;5931801;5931802;5931806;5931807;5931808;5931809
+M2,0.96,band_c00193,Mah-ma-lil-le-kullah,British Columbia,KWAWKEWLTH Agency,1886,1900,Mamalilikulla First Nation,629,BC,Q16212986,Mamalilikulla-Qwe'Qwa'Sot'Em First Nation,
+M2,1.0,band_c00195,McLeod's Lake,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1893,1929,McLeod Lake,618,BC,Q100209438,McLeod Lake First Nation,5953802
+M2,1.0,band_c00205,Cheerno,British Columbia,COWICHAN Agency,1895,1929,Beecher Bay,640,BC,Q814008,Scia'new First Nation,
+M2,0.933,band_c00208,Get-an-max (Hazelton),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1890,1900,Gitanmaax,531,BC,Q5565057,Gitanmaax First Nation,5949812
+M3,0.833,band_c00225,Cayoosh Creek No. 1,British Columbia,WILLIAMS LAKE Agency,1895,1912,Cayoose Creek,591,BC,Q5055423,Cayoose Creek First Nation,5931814;5931828
+M2,1.0,band_c00226,Cayoose Creek No. 1,British Columbia,Lytton Agency,1915,1929,Cayoose Creek,591,BC,Q5055423,Cayoose Creek First Nation,5931814;5931828
+M2,1.0,band_c00227,Cayoosh Creek No. 2,British Columbia,WILLIAMS LAKE Agency,1898,1929,Cayoose Creek,591,BC,Q5055423,Cayoose Creek First Nation,5931814;5931828
+M3,0.833,band_c00228,Cayoosh Creek,British Columbia,WILLIAM'S LAKE Agency,1886,1908,Cayoose Creek,591,BC,Q5055423,Cayoose Creek First Nation,5931814;5931828
+M2,1.0,band_c00229,Fort Nelson (Slaves),British Columbia,Fort Simpson,1929,1929,Fort Nelson First Nation,543,BC,Q100210267,Fort Nelson First Nation,5959805;5959806;5959809
+M3,0.8,band_c00230,Hagwilget Village,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1902,1912,Hagwilget Village Council,534,BC,Q5638859,Hagwilget Village First Nation,
+M1,1.0,band_c00238,Bonaparte,British Columbia,Kamloops Agency,1881,1929,Bonaparte First Nation,686,BC,Q4941171,Bonaparte First Nation,5933812;5933836;5933875
+M3,0.833,band_c00246,How-chuck-les-aht,British Columbia,Aht Nation.,1881,1882,Uchucklesaht,667,BC,,,
+M2,1.0,band_c00252,Oregon Jack Creek,British Columbia,Kamloops Agency,1903,1929,Oregon Jack Creek,692,BC,Q7101247,Oregon Jack Creek Band,
+M2,0.875,band_c00253,Oregon lack Creek,British Columbia,Kamloops Agency,1924,1924,Oregon Jack Creek,692,BC,Q7101247,Oregon Jack Creek Band,
+M2,1.0,band_c00269,Coldwater,British Columbia,Kamloops Agency,1903,1929,Coldwater,693,BC,Q5142577,Coldwater First Nation,5933801;5933809
+M2,1.0,band_c00271,Mamalillikulla,British Columbia,Kwawkewlth Agency,1901,1929,Mamalilikulla First Nation,629,BC,Q16212986,Mamalilikulla-Qwe'Qwa'Sot'Em First Nation,
+M2,1.0,band_c00272,New Westminster,British Columbia,FRASER RIVER Agency,1886,1929,New Westminster,566,BC,Q1801379,Qayqayt First Nation,
+M2,1.0,band_c00277,Siska,British Columbia,KAMLOOPS Agency,1881,1914,Siska,706,BC,Q7530848,Siska First Nation,5933849;5933879
+M2,1.0,band_c00278,Snonowas,British Columbia,COWICHAN Agency,1901,1929,Nanoose First Nation,649,BC,Q1964686,Nanoose First Nation,5921805
+M1,1.0,band_c00279,Sumass,British Columbia,FRASER RIVER Agency,1895,1929,Sumas First Nation,578,BC,Q7636976,Sumas First Nation,5909877
+M3,0.833,band_c00281,Yu-kwea-kwi-oose,British Columbia,FRASER RIVER Agency,1895,1899,Yakweakwioose,576,BC,Q16916304,Yakweakwioose First Nation,5909831
+M2,1.0,band_c00282,Yakweakwioose,British Columbia,FRASER RIVER AGENCY - Con.,1900,1929,Yakweakwioose,576,BC,Q16916304,Yakweakwioose First Nation,5909831
+M2,1.0,band_c00288,Cowichan Nation:-,British Columbia,,1881,1881,Cowichan,642,BC,Q118904720,Cowichan Tribes,
+M2,1.0,band_c00296,Kwawkwawapilt,British Columbia,FRASER RIVER Agency,1901,1929,Kwaw-kwaw-Apilt,580,BC,Q6450270,Kwaw-kwaw-Apilt First Nation,
+M3,0.857,band_c00297,Kwaw-kwaw-apiet,British Columbia,FRASER RIVER Agency,1895,1899,Kwaw-kwaw-Apilt,580,BC,Q6450270,Kwaw-kwaw-Apilt First Nation,
+M2,1.0,band_c00305,Ashcroft,British Columbia,Kamloops Agency,1895,1929,Ashcroft,685,BC,Q4804754,Ashcroft First Nation,5933844;5933845
+M2,0.917,band_c00348,Kayoose Creek,British Columbia,Lytton Agency,1914,1914,Cayoose Creek,591,BC,Q5055423,Cayoose Creek First Nation,5931814;5931828
+M2,0.947,band_c00361,Skawah-looks,British Columbia,FRASER RIVER Agency,1895,1900,Skawahlook First Nation,582,BC,Q7534206,Skawahlook First Nation,
+M3,0.833,band_c00368,Yahweakwioose,British Columbia,FRASER RIVER Agency,1906,1909,Yakweakwioose,576,BC,Q16916304,Yakweakwioose First Nation,5909831
+M2,1.0,band_c00373,Bridge River,British Columbia,WILLIAMS LAKE Agency,1886,1929,Bridge River,590,BC,Q4966278,Bridge River Indian Band,5931813
+M2,1.0,band_c00408,Penel-a-kut,British Columbia,COWICHAN Agency,1881,1898,Penelakut Tribe,650,BC,Q7162550,Penelakut First Nation,5917805;5919803;5919809
+M2,1.0,band_c00417,Skawahlook,British Columbia,FRASER RIVER Agency,1901,1914,Skawahlook First Nation,582,BC,Q7534206,Skawahlook First Nation,
+M2,0.941,band_c00422,Tsoo-wah-lie,British Columbia,FRASER RIVER Agency,1895,1900,Soowahlie,572,BC,Q7562794,Soowahlie First Nation,5909827
+M2,1.0,band_c00429,Clao-qu-aht,British Columbia,WEST COAST Agency,1886,1900,Toquaht,666,BC,,,
+M2,1.0,band_c00440,Hesquiat,British Columbia,WEST COAST Agency,1895,1929,Hesquiaht,661,BC,Q1167192,Hesquiaht First Nation,5923806;5923824
+M3,0.8,band_c00453,Kitsumkatum,British Columbia,COAST Agency,1900,1900,Kitsumkalum,681,BC,Q6418364,Kitsumkalum First Nation,5949804
+M3,0.8,band_c00454,Kitsumkelum,British Columbia,NORTHWEST COAST Agency,1905,1906,Kitsumkalum,681,BC,Q6418364,Kitsumkalum First Nation,5949804
+M2,1.0,band_c00466,Metlakatla,British Columbia,NORTHWEST COAST Agency,1890,1929,Metlakatla First Nation,673,BC,Q6824171,Metlakatla First Nation,5947810
+M2,1.0,band_c00479,Sam-ah-quam,British Columbia,FRASER RIVER Agency,1897,1899,Samahquam,567,BC,Q7408479,Samahquam First Nation,
+M2,1.0,band_c00480,Samahquam,British Columbia,New Westminster Agency,1900,1929,Samahquam,567,BC,Q7408479,Samahquam First Nation,
+M2,1.0,band_c00482,Semiah-moo,British Columbia,FRASER RIVER Agency,1895,1900,Semiahmoo,569,BC,Q2269067,Semiahmoo First Nation,5915801
+M2,1.0,band_c00497,Aitchelitz,British Columbia,FRASER RIVER Agency,1895,1929,Aitchelitz,558,BC,Q4699291,Aitchelitz First Nation,
+M2,0.941,band_c00501,Boothroyds,British Columbia,Lytton Agency,1881,1924,Boothroyd,700,BC,Q4943947,Boothroyd First Nation,5909805;5909815;5909819;5909850;nan;nan
+M2,1.0,band_c00509,Esquimalt,British Columbia,COWICHAN Agency,1881,1929,Esquimalt,644,BC,Q2621606,Esquimalt First Nation,
+M2,1.0,band_c00514,Kanaka Bar,British Columbia,Lytton Agency,1902,1929,Kanaka Bar,704,BC,Q16211877,Kanaka Bar First Nation,5933882;5933896
+M2,1.0,band_c00524,Kit-se-las,British Columbia,Babine and Upper Skeena River Agency,1893,1893,Kitselas,680,BC,Q6418338,Kitselas First Nation,5949805;5949807;5949844
+M2,1.0,band_c00559,Qual-i-cum,British Columbia,COWICHAN Agency,1886,1895,Qualicum First Nation,651,BC,Q2122037,Qualicum First Nation,5921806
+M2,1.0,band_c00575,"Sumas, No. 1",British Columbia,FRASER RIVER Agency,1881,1893,Sumas First Nation,578,BC,Q7636976,Sumas First Nation,5909877
+M2,1.0,band_c00576,"Sumas, No. 2",British Columbia,FRASER RIVER Agency,1881,1893,Sumas First Nation,578,BC,Q7636976,Sumas First Nation,5909877
+M2,1.0,band_c00577,"Sumas, No. 3",British Columbia,FRASER RIVER Agency,1881,1893,Sumas First Nation,578,BC,Q7636976,Sumas First Nation,5909877
+M2,0.923,band_c00585,Too-qu-aht,British Columbia,WEST COAST Agency,1886,1893,Toquaht,666,BC,,,
+M2,1.0,band_c00587,Tsawwassen,British Columbia,New Westminster Agency,1904,1929,Tsawwassen First Nation,577,BC,,,5915802
+M2,1.0,band_c00588,Soowahlie,British Columbia,FRASER RIVER Agency,1901,1929,Soowahlie,572,BC,Q7562794,Soowahlie First Nation,5909827
+M2,1.0,band_c00590,Tzeachteen,British Columbia,New Westminster Agency,1911,1929,Tzeachten,575,BC,Q7861958,Tzeachten First Nation,5909830
+M2,1.0,band_c00594,Ahousaht,British Columbia,WEST COAST Agency,1886,1929,Ahousaht,659,BC,Q402605,Ahousaht First Nation,5923808
+M2,1.0,band_c00595,Ahous-aht,British Columbia,WEST COAST Agency,1895,1900,Ahousaht,659,BC,Q402605,Ahousaht First Nation,5923808
+M3,0.824,band_c00599,Atchelitz,British Columbia,FRASER RIVER Agency,1899,1899,Aitchelitz,558,BC,Q4699291,Aitchelitz First Nation,
+M3,0.857,band_c00601,Cla-hoose,British Columbia,FRASER RIVER Agency,1886,1903,Klahoose First Nation,553,BC,Q16212189,Klahoose First Nation,5924818;5924820
+M2,0.875,band_c00612,Esquimale,British Columbia,COWICHAN Agency,1903,1903,Esquimalt,644,BC,Q2621606,Esquimalt First Nation,
+M2,1.0,band_c00614,Hesquiaht,British Columbia,WEST COAST Agency,1902,1913,Hesquiaht,661,BC,Q1167192,Hesquiaht First Nation,5923806;5923824
+M3,0.8,band_c00635,Kitwangar,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1901,1929,Gitwangak,536,BC,Q5565175,Gitwangak Indian Band,5949816
+M3,0.824,band_c00651,Metlakata,British Columbia,Nass Agency,1916,1916,Metlakatla First Nation,673,BC,Q6824171,Metlakatla First Nation,5947810
+M2,1.0,band_c00657,Penelakut,British Columbia,Cowichan Agency,1901,1929,Penelakut Tribe,650,BC,Q7162550,Penelakut First Nation,5917805;5919803;5919809
+M1,1.0,band_c00665,Semiahmoo,British Columbia,FRASER RIVER Agency,1887,1929,Semiahmoo,569,BC,Q2269067,Semiahmoo First Nation,5915801
+M1,1.0,band_c00668,Skidegate,British Columbia,Queen Charlotte Agency,1895,1929,Skidegate,670,BC,Q7535061,Skidegate Band Council,5947804
+M2,1.0,band_c00686,Tsesh-aht,British Columbia,WEST COAST Agency,1886,1924,Tseshaht,665,BC,Q1610581,Tseshaht First Nation,5923802;5923816
+M2,1.0,band_c00689,Union Bar,British Columbia,Lytton Agency,1913,1929,Union Bar First Nation,588,BC,Q7885412,Union Bar First Nation,
+M3,0.833,band_c00703,Em-alcom,British Columbia,FRASER RIVER Agency,1886,1893,Homalco,552,BC,Q1625839,Homalco First Nation,5924840
+M1,1.0,band_c00709,Qualicum,British Columbia,COWICHAN Agency,1896,1929,Qualicum First Nation,651,BC,Q2122037,Qualicum First Nation,5921806
+M2,1.0,band_c00711,High Bar,British Columbia,WILLIAMS LAKE Agency,1886,1929,High Bar,703,BC,Q5754909,High Bar First Nation,
+M2,1.0,band_c00715,Kis-piox,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1899,1917,Kispiox,532,BC,Q6416857,Kispiox Band,5949813
+M2,1.0,band_c00721,Kitselas,British Columbia,Babine and Upper Skeena River Agency,1906,1929,Kitselas,680,BC,Q6418338,Kitselas First Nation,5949805;5949807;5949844
+M2,1.0,band_c00722,Klahoose,British Columbia,FRASER RIVER Agency,1895,1929,Klahoose First Nation,553,BC,Q16212189,Klahoose First Nation,5924818;5924820
+M2,1.0,band_c00728,Kwiahkah,British Columbia,Kwawkewlth Agency,1901,1929,Kwiakah,628,BC,Q6450363,Kwiakah First Nation,
+M2,1.0,band_c00733,Lyackson,British Columbia,Cowichan Agency,1914,1929,Lyackson,646,BC,Q1437762,Lyackson First Nation,
+M3,0.833,band_c00737,Misqueam,British Columbia,FRASER RIVER Agency,1881,1924,Musqueam,550,BC,Q1955460,Musqueam,5915803;5915810
+M2,1.0,band_c00739,Musqueam,British Columbia,FRASER RIVER Agency,1895,1929,Musqueam,550,BC,Q1955460,Musqueam,5915803;5915810
+M1,1.0,band_c00764,Songhees,British Columbia,COWICHAN Agency,1881,1929,Songhees Nation,656,BC,Q7561266,Songhees First Nation,5917812
+M2,1.0,band_c00770,Squiahla,British Columbia,FRASER RIVER Agency,1895,1929,Squiala First Nation,574,BC,Q7582237,Squiala First Nation,5909885
+M2,1.0,band_c00775,Toquaht,British Columbia,WEST COAST Agency,1901,1913,Toquaht,666,BC,,,
+M2,1.0,band_c00778,Tsartlip,British Columbia,Cowichan Agency,1903,1929,Tsartlip,653,BC,Q2457355,Tsartlip First Nation,5917804
+M2,1.0,band_c00779,Tsawout,British Columbia,COWICHAN Agency,1895,1929,Tsawout First Nation,654,BC,Q2457389,Tsawout First Nation,5917803
+M2,1.0,band_c00783,Ucluelet,British Columbia,West Coast Agency,1904,1929,Ucluelet First Nation,668,BC,,,
+M2,1.0,band_c00792,Douglas,British Columbia,FRASER RIVER Agency,1886,1929,Douglas,561,BC,Q5301471,Xa'xtsa First Nation,
+M2,1.0,band_c00801,Hal-alt,British Columbia,Cowichan Nation:,1881,1882,Halalt,645,BC,Q1570220,Halalt First Nation,5919801
+M2,1.0,band_c00807,Homalco,British Columbia,New Westminster Agency,1911,1929,Homalco,552,BC,Q1625839,Homalco First Nation,5924840
+M2,1.0,band_c00822,Matsqui,British Columbia,FRASER RIVER Agency,1881,1924,Matsqui First Nation,565,BC,Q6787997,Matsqui First Nation,5909878;5915825
+M1,0.615,band_c00842,Seshart,British Columbia,WEST COAST Agency,1904,1929,Tseshaht,665,BC,Q1610581,Tseshaht First Nation,5923802;5923816
+M2,1.0,band_c00847,Skuppa,British Columbia,Lytton Agency,1903,1929,Skuppah,707,BC,Q7537066,Skuppah First Nation,
+M3,0.833,band_c00858,Sque-am,British Columbia,Mainland Bands,1881,1882,Musqueam,550,BC,Q1955460,Musqueam,5915803;5915810
+M2,1.0,band_c00881,Halalt,British Columbia,Cowichan,1929,1929,Halalt,645,BC,Q1570220,Halalt First Nation,5919801
+M2,1.0,band_c00885,Katzie,British Columbia,New Westminster Agency,1911,1929,Katzie,563,BC,Q1736937,Katzie First Nation,5915809;5915813;5915830
+M2,1.0,band_c00897,Popkum,British Columbia,FRASER RIVER Agency,1881,1914,Popkum First Nation,585,BC,Q736679,Popkum First Nation,
+M2,1.0,band_c00909,Cheam,British Columbia,FRASER RIVER Agency,1881,1929,Cheam First Nation,584,BC,Q5088829,Cheam First Nation,5909834;5909837
+M2,1.0,band_c00916,Nazko,British Columbia,Stuart Lake Agency,1929,1929,Nazko First Nation,720,BC,Q6983506,Nazko First Nation,5941835;5941837;5941852;5941866;5941881
+M1,1.0,band_c00937,Yale,British Columbia,FRASER RIVER Agency,1881,1929,Yale First Nation,589,BC,Q2599073,Yale First Nation,5909810;5909818;5909841;5909876
+M2,0.889,band_c00948,Kitsegukla (Old and New),British Columbia Inspectorates,Babine Agency,1924,1924,Gitsegukla,535,BC,Q5565145,Gitsegukla Indian Band,5949814
+M2,1.0,band_c00950,Cheerno (Beecher Bay),British Columbia Inspectorates,Cowichan Agency,1924,1924,Beecher Bay,640,BC,Q814008,Scia'new First Nation,
+M2,1.0,band_c00959,Esquimalt,British Columbia Inspectorates,Cowichan Agency,1924,1924,Esquimalt,644,BC,Q2621606,Esquimalt First Nation,
+M3,0.8,band_c00964,Kitwanga,British Columbia Inspectorates,Babine Agency,1924,1924,Gitwangak,536,BC,Q5565175,Gitwangak Indian Band,5949816
+M2,1.0,band_c00966,Kispiox,British Columbia Inspectorates,Babine Agency,1924,1924,Kispiox,532,BC,Q6416857,Kispiox Band,5949813
+M2,1.0,band_c01041,English River,Isle A La Crosse,Timiskaming Agency,1914,1924,English River First Nation,400,SK,Q14874943,English River First Nation,4718807;4718814
+M2,1.0,band_c01052,English River,Isle À La Crosse,Treaty No. 10,1916,1917,English River First Nation,400,SK,Q14874943,English River First Nation,4718807;4718814
+M2,1.0,band_c01082,Swan Lake and Indian Gardens at Hamilton's Crossing,Manitoba,Chippewas And Crees Of Treaty No. 1,1892,1929,Swan Lake First Nation,293,MB,Q7653465,Swan Lake First Nation,4604068
+M2,1.0,band_c01085,Keeseekoowenin,Manitoba,Birtle Agency,1906,1929,Keeseekoowenin,286,MB,Q6383326,Keeseekoowenin Ojibway First Nation,
+M2,1.0,band_c01088,Blood Vein River,Manitoba,Fisher River Agency,1897,1929,Bloodvein,267,MB,Q4928040,Bloodvein First Nation,4619052
+M2,1.0,band_c01094,Sandy Bay,Manitoba,Chippewas And Crees Of Treaty No. 1,1892,1929,Sandy Bay,283,MB,Q7417157,Sandy Bay First Nation,
+M2,1.0,band_c01095,Little Saskatchewan,Manitoba,Manitowapah Agency,1892,1929,Little Saskatchewan,274,MB,Q39048998,Little Saskatchewan First Nation,4618063
+M2,1.0,band_c01097,Lake St. Martin,Manitoba,Manitowapah Agency,1892,1929,Lake St. Martin,275,MB,Q19879691,Lake St. Martin First Nation,
+M2,0.889,band_c01105,"Bird Tail Sioux, No. 57",Manitoba,Birtle Agency,1914,1914,Birdtail Sioux,284,MB,Q4916156,Birdtail Sioux First Nation,4615042
+M2,0.963,band_c01106,"Keeseekoowenins, No. 61",Manitoba,Birtle Agency,1914,1914,Keeseekoowenin,286,MB,Q6383326,Keeseekoowenin Ojibway First Nation,
+M2,1.0,band_c01108,Little Grand Rapids,Manitoba,Fisher River Agency,1914,1929,Little Grand Rapids,270,MB,Q6650187,Little Grand Rapids First Nation,4619051
+M2,1.0,band_c01115,"Rolling River, No. 67",Manitoba,Birtle Agency,1914,1914,Rolling River,291,MB,Q7361208,Rolling River First Nation,4615071;4615072;4706829
+M2,1.0,band_c01116,Hollow Water River,Manitoba,Clandeboye Agency,1893,1929,Hollow Water,263,MB,Q1529007,Hollow Water First Nation,4619053
+M2,0.966,band_c01121,Chemawawin (Crees),Manitoba,"CHIPPEWAS, SAULTEAUX AND CREES OF TREATY No. 5",1892,1909,Chemawawin Cree Nation,309,MB,Q5090324,Chemawawin Cree Nation,4619082;4621029
+M2,1.0,band_c01122,Ebb and Flow Lake,Manitoba,Manitowapah Agency,1892,1929,Ebb and Flow,280,MB,Q5331511,Ebb and Flow First Nation,4617029
+M2,1.0,band_c01124,Sioux,Manitoba,Birtle Agency,1906,1929,Birdtail Sioux,284,MB,Q4916156,Birdtail Sioux First Nation,4615042
+M2,0.917,band_c01146,Fisher River (2,Manitoba,Norway House Agency (Part of),1910,1910,Fisher River,264,MB,Q5454839,Fisher River Cree Nation,4619056;4619058
+M2,1.0,band_c01147,Fort Alexander,Manitoba,Clandeboye Agency,1892,1929,Fort Alexander,262,MB,Q7399314,Sagkeeng First Nation,4619050
+M2,1.0,band_c01156,Buffalo Point,Manitoba,Kenora and Savanne Agency,1929,1929,Buffalo Point First Nation,265,MB,Q1002024,Buffalo Point First Nation,
+M2,1.0,band_c01158,Lake Manitoba,Manitoba,Manitowapah Agency,1892,1924,Lake Manitoba,271,MB,Q6476778,Lake Manitoba First Nation,4618055
+M2,1.0,band_c01160,Rolling River,Manitoba,Birtle Agency,1906,1929,Rolling River,291,MB,Q7361208,Rolling River First Nation,4615071;4615072;4706829
+M2,1.0,band_c01162,Fisher River,Manitoba,Fisher River Agency,1892,1929,Fisher River,264,MB,Q5454839,Fisher River Cree Nation,4619056;4619058
+M3,0.818,band_c01163,Hallow Water,Manitoba,"CHIPPEWAS, SAULTEUX AND CREES OF TREATY No. 5, AT:",1892,1892,Hollow Water,263,MB,Q1529007,Hollow Water First Nation,4619053
+M3,0.815,band_c01168,Norway House,Manitoba,Norway House Agency,1892,1929,Norway House Cree Nation,278,MB,Q7060844,Norway House Cree Nation,4622058
+M2,1.0,band_c01170,Poplar River,Manitoba,Fisher River Agency,1892,1929,Poplar River First Nation,277,MB,Q2104169,Poplar River First Nation,4619075
+M2,1.0,band_c01172,York Factory,Manitoba,Norway House Agency,1911,1929,York Factory First Nation,304,MB,Q1377345,York Factory First Nation,4622065
+M2,1.0,band_c01173,Black River,Manitoba,Clandeboye Agency,1892,1929,Black River First Nation,260,MB,Q4921658,Black River First Nation,4619054
+M3,0.824,band_c01186,Blood Vein,Manitoba,"CHIPPEWAS, SAULTEUX AND CREES OF TREATY No. 5, AT:",1892,1896,Bloodvein,267,MB,Q4928040,Bloodvein First Nation,4619052
+M2,1.0,band_c01190,Long Plain,Manitoba,Portage la Prairie Agency,1892,1929,Long Plain,287,MB,Q14875047,Long Plain First Nation,4609025
+M2,1.0,band_c01209,Peguis,Manitoba,Fisher River Agency,1914,1929,Peguis,269,MB,Q2067461,Peguis First Nation,4619059
+M4,1.0,band_c01358,Little Pine,,Battleford,1886,1893,Little Pine,340,SK,Q60755646,Little Pine First Nation,4713836;4717825
+M4,0.96,band_c01371,Kee-se-koo-we-nin,,Birtle Agency,1886,1886,Keeseekoowenin,286,MB,Q6383326,Keeseekoowenin Ojibway First Nation,
+M4,1.0,band_c01372,Little Black Bear,,File Hills,1886,1893,Little Black Bear,379,SK,Q17412931,Little Black Bear First Nation,4706814;4706829
+M4,1.0,band_c01376,Carry-the-Kettle,,Assiniboine,1893,1893,Carry The Kettle,378,SK,Q17412891,Carry the Kettle Nakoda Nation,
+M4,1.0,band_c01382,Standing Buffalo,,Peigan,1893,1893,Standing Buffalo,386,SK,Q17363765,Standing Buffalo Dakota First Nation,
+M4,1.0,band_c01386,Mus-cow-pe-tung,,Mus-cow-pe-tung,1886,1886,Muscowpetung,381,SK,Q46578032,Muscowpetung First Nation,4706813;4706829
+M4,1.0,band_c01404,George Gordon,,Touchwood Hills,1886,1893,George Gordon First Nation,391,SK,Q5585132,George Gordon First Nation,4706829;4710823
+M4,1.0,band_c01413,Red Pheasants,,Battleford,1886,1893,Red Pheasant,346,SK,Q7304721,Red Pheasant Cree Nation,4712829
+M4,1.0,band_c01416,Thunder Child,,Battleford,1886,1893,Thunderchild First Nation,349,SK,Q7799128,Thunderchild Cree First Nation,4717803;4717804
+M4,1.0,band_c01428,Muscowpetung,,Muscowpetung,1893,1893,Muscowpetung,381,SK,Q46578032,Muscowpetung First Nation,4706813;4706829
+M4,1.0,band_c01434,Pelican Lake,,Carlton,1893,1893,Pelican Lake,405,SK,Q7161412,Pelican Lake First Nation,4716863;4716880;4716894
+M4,1.0,band_c01439,Yellow Quill,,Touchwood Hills,1886,1893,Yellow Quill,376,SK,Q8051797,Yellow Quill First Nation,4706829;4714841;4714843
+M4,1.0,band_c01440,Ahtahkakoop,,Carlton,1893,1893,Ahtahkakoop,406,SK,Q4696378,Ahtahkakoop Cree Nation,
+M4,1.0,band_c01444,James Smith,,Prince Albert,1886,1893,James Smith,370,SK,Q6143359,James Smith Cree Nation,
+M4,1.0,band_c01453,The Gambler,,Birtle Agency,1886,1886,Gambler First Nation,294,,Q17003330,Gambler First Nation,nan;nan;nan;nan;4706829
+M4,1.0,band_c01462,Ermineskin,,Hobbema,1893,1893,Ermineskin Tribe,443,AB,Q5392469,Ermineskin Cree Nation,4811801;4811802
+M4,1.0,band_c01470,Louis Bull,,Hobbema,1893,1893,Louis Bull Tribe,439,AB,Q26829200,Louis Bull,4811802;4811803
+M4,1.0,band_c01474,Poundmaker,,Battleford,1886,1893,Poundmaker,345,SK,Q7235666,Poundmaker Cree Nation,
+M4,1.0,band_c01479,White Bear,,Birtle Agency,1886,1886,White Bear,365,SK,Q17363826,White Bear First Nation,4701808;4706829
+M4,1.0,band_c01482,Alexander,,Edmonton,1893,1893,Alexander,438,AB,Q4718854,Alexander First Nation,4811805
+M4,1.0,band_c01491,Lucky Man,,Battleford,1886,1886,Lucky Man,341,SK,Q60760068,Lucky Man Cree Nation,
+M4,1.0,band_c01492,One Arrow,,Prince Albert,1886,1893,One Arrow First Nation,373,SK,Q7092455,One Arrow First Nation,4715844;4715857;4715861;4715862
+M4,1.0,band_c01507,Day Star,,Touchwood Hills,1886,1893,Day Star,389,SK,Q60755408,Day Star First Nation,4706829;4710824
+M4,1.0,band_c01518,Moosomin,,Battleford,1886,1893,Moosomin,342,SK,Q6908702,Moosomin First Nation,4717812
+M4,1.0,band_c01523,Pi-a-pot,,Mus-cow-pe-tung,1886,1886,Piapot,385,SK,Q48791926,Piapot First Nation,4702800;4706809;4706829
+M4,1.0,band_c01535,The Key,,Birtle Agency,1886,1886,The Key First Nation,368,SK,Q48814496,The Key First Nation,4706829;4709821
+M4,1.0,band_c01539,Michel,,Edmonton,1893,1893,Michel Band,,,Q16242678,Michel Band,
+M4,1.0,band_c01540,Piapot,,Muscowpetung,1893,1893,Piapot,385,SK,Q48791926,Piapot First Nation,4702800;4706809;4706829
+M4,1.0,band_c01549,Paul,,Edmonton,1893,1893,Paul,441,,Q7149200,Paul First Nation,4811806;4811807
+M2,1.0,band_c01563,Metlakatla,North-West Coast,,1889,1889,Metlakatla First Nation,673,BC,Q6824171,Metlakatla First Nation,5947810
+M4,1.0,band_c01573,Fort Nelson (Slaves and Sicannies),Northern,Fort Murray District,1915,1915,Fort Nelson First Nation,543,BC,Q100210267,Fort Nelson First Nation,5959805;5959806;5959809
+M4,1.0,band_c01576,Fond du Lac (Chipewyans),Northern,Lesser Slave Lake Agency,1915,1915,Fond du Lac,351,SK,Q3075320,Fond du Lac First Nation,
+M2,1.0,band_c01804,Chippewas of Kettle and Stony Points,Ontario,Sarnia Agency,1886,1929,Chippewas of Kettle and Stony Point,171,ON,Q6395525,Chippewas of Kettle and Stony Point First Nation,
+M2,1.0,band_c01808,Chippewas of Nawash,Ontario,Cape Croker Agency,1881,1929,Chippewas of Nawash First Nation,122,ON,Q5101691,Chippewas of Nawash Unceded First Nation,
+M2,1.0,band_c01815,Maganatawan (see also Parry Sound Sup't'cy),Ontario,Manitowaning Agency,1910,1917,Magnetawan,174,ON,Q6731453,Magnetawan First Nation,3549078
+M2,1.0,band_c01818,Chippewas of Rama,Ontario,Rama Agency,1881,1929,Chippewas of Rama First Nation,139,ON,Q5101690,Chippewas of Rama First Nation,3543050
+M2,1.0,band_c01819,Sault Ste. Marie Agency,Ontario,Chapleau Agency,1897,1914,Michipicoten,225,ON,Q368114,Michipicoten First Nation,3557078
+M2,1.0,band_c01822,Thessalon,Ontario,Thessalon Agency,1906,1929,Thessalon,202,ON,Q21071112,Thessalon First Nation,3557026
+M2,0.92,band_c01825,Six Nations on Grand River,Ontario,Grand River Superintendency - Six Nations,1903,1909,Six Nations of the Grand River,121,ON,Q105102819,Six Nations of the Grand River,
+M2,0.909,band_c01828,Chippewas Nawash,Ontario,,1881,1904,Chippewas of Nawash First Nation,122,ON,Q5101691,Chippewas of Nawash Unceded First Nation,
+M3,0.844,band_c01829,Chippewas of Georgina and Snake Island,Ontario,Lake Simcoe Agency,1895,1929,Chippewas of Georgina Island,138,ON,,,
+M2,1.0,band_c01832,Long Lake (Robinson Sup. Ty. And Ty. No. 9),Ontario,Port Arthur Agency,1910,1910,Long Lake No.58 First Nation,184,ON,Q6672821,Long Lake 58 First Nation,3558068
+M3,0.818,band_c01833,Martin Falls (see also N.W.Ts. Div. No.2) (9),Ontario,Con.,1910,1910,Marten Falls First Nation,186,ON,Q6774247,Marten Falls First Nation,3560052
+M2,1.0,band_c01834,Pic,Ontario,Sault Ste. Marie Agency,1910,1929,Michipicoten,225,ON,Q368114,Michipicoten First Nation,3557078
+M2,1.0,band_c01837,Chippewas of the Thames,Ontario,Caradoc Agency,1881,1929,Chippewas of the Thames First Nation,166,ON,Q16209362,Chippewas of the Thames First Nation,
+M3,0.828,band_c01839,Chapleau,Ontario,Chapleau Agency,1906,1929,Chapleau Ojibway,229,ON,Q5073211,Chapleau Ojibway First Nation,
+M2,1.0,band_c01842,Six Nations on the Grand River,Ontario,Six Nations Superintendency,1881,1929,Six Nations of the Grand River,121,ON,Q105102819,Six Nations of the Grand River,
+M2,1.0,band_c01843,Wikwemikong,Ontario,Manitowaning Agency - Con.,1886,1912,Wikwemikong,175,ON,Q28648660,Wiikwemkoong Unceded Territory,3551043
+M3,0.837,band_c01845,Mississaguas of New Credit,Ontario,New Credit (Mississaguas) Agency,1881,1909,Mississaugas of the Credit,120,ON,Q6878995,Mississaugas of the Credit First Nation,
+M2,1.0,band_c01851,Mohawks of the Bay of Quinté,Ontario,Tyendinaga Agency,1881,1929,Mohawks of the Bay of Quinte,164,ON,Q3545997,Mohawks of the Bay of Quinte First Nation,
+M2,1.0,band_c01855,Henvey Inlet,Ontario,Parry Sound Agency,1886,1929,Henvey Inlet First Nation,231,ON,Q20710297,Henvey Inlet First Nation,3549075;3549076
+M2,0.952,band_c01858,Mississaugas,Ontario,Alnwick Agency,1889,1913,Mississauga,200,ON,Q6878967,Mississauga First Nation,3557073
+M2,1.0,band_c01863,Mississaguas of the Credit,Ontario,Hagersville Agency,1910,1929,Mississaugas of the Credit,120,ON,Q6878995,Mississaugas of the Credit First Nation,
+M2,1.0,band_c01879,Red Rock or Helen Island,Ontario,Fort William Agency,1886,1929,Red Rock,193,ON,Q7304913,Red Rock Indian Band,3558064
+M2,1.0,band_c01882,Shawanaga,Ontario,Parry Sound Agency,1886,1929,Shawanaga First Nation,137,ON,Q20710104,Shawanaga First Nation,3549072
+M3,0.857,band_c01891,Mississaguas of Scugog,Ontario,Scugog Agency,1881,1929,Mississaugas of Scugog Island First Nation,140,ON,Q6878994,Mississaugas of Scugog Island First Nation,
+M2,0.914,band_c01892,Moravians of the Thames,Ontario,Moravian Agency,1881,1917,Moravian of the Thames,167,ON,Q22356267,Delaware Nation at Moraviantown,
+M2,1.0,band_c01897,Wikwemikong (unceded),Ontario,Ojibbewas and Ottawas of Manitoulin and Cockburn Islands,1895,1909,Wikwemikong,175,ON,Q28648660,Wiikwemkoong Unceded Territory,3551043
+M2,0.903,band_c01904,Oneidas of the Thames,Ontario,Caradoc Agency,1881,1929,Oneida Nation of the Thames,169,ON,Q7093671,Oneida Nation of the Thames,
+M2,1.0,band_c01918,Flying Post,Ontario,Chapleau Agency,1906,1929,Flying Post,227,ON,Q20709674,Flying Post First Nation,
+M2,0.889,band_c01926,Long Lake (Treaty 9)2,Ontario,Fort William Agency,1915,1915,Long Lake No.58 First Nation,184,ON,Q6672821,Long Lake 58 First Nation,3558068
+M2,1.0,band_c01929,Red Rock (Lake Helen),Ontario,Port Arthur Agency,1910,1924,Red Rock,193,ON,Q7304913,Red Rock Indian Band,3558064
+M2,1.0,band_c01935,Lac des Mille Lacs,Ontario,"Chippewas and Saulteaux of Treaty No. 3,",1897,1929,Lac Des Mille Lacs,189,ON,Q16212442,Lac des Mille Lacs First Nation,
+M2,0.875,band_c01938,New Brunswick House,Ontario,Chapleau Agency,1906,1911,Brunswick House,228,ON,Q4979517,Brunswick House First Nation,3552054
+M2,0.897,band_c01959,Chippewas Rama,Ontario,Rama Agency,1891,1924,Chippewas of Rama First Nation,139,ON,Q5101690,Chippewas of Rama First Nation,3543050
+M3,0.828,band_c01980,"Crees, Missanabie",Ontario,Chapleau Agency,1929,1929,Missanabie Cree,223,ON,Q17011228,Missanabie Cree First Nation,
+M2,1.0,band_c01984,Matatchewan,Ontario,Sturgeon Falls Agency,1906,1929,Matachewan,219,ON,Q6785929,Matachewan First Nation,3554057
+M2,1.0,band_c01988,Rivière la Seine,Ontario,Fort Frances Agency,1897,1929,Seine River First Nation,132,ON,Q7446849,Seine River First Nation,3559065;3559066
+M2,1.0,band_c01993,Whitefish River,Ontario,Manitowaning Agency,1886,1929,Whitefish River,230,ON,Q21071197,Whitefish River First Nation,3551040
+M2,0.963,band_c02013,Niacatchewenin,Ontario,Fort Frances Agency,1897,1929,Naicatchewenin,128,ON,Q6959518,Naicatchewenin First Nation,3559062;3559068;3559069
+M3,0.818,band_c02027,Batchewana Bay,Ontario,Ojibbewas of Lake Huron,1886,1909,Batchewana First Nation,198,ON,Q20312856,Batchewana First Nation,
+M2,1.0,band_c02040,No. 2 Thessalon,Ontario,Thessalon Agency,1915,1915,Thessalon,202,ON,Q21071112,Thessalon First Nation,3557026
+M2,1.0,band_c02041,Saugeen Agency,Ontario,Saugeen Agency,1902,1906,Saugeen,123,ON,Q7427207,Saugeen First Nation,3541056;3541057
+M2,1.0,band_c02049,Walpole Island,Ontario,Walpole Island Agency,1902,1906,Walpole Island,170,ON,Q3593256,Walpole Island First Nation,
+M3,0.8,band_c02067,Maganettawan,Ontario,Ojibbewas of Lake Huron,1886,1908,Magnetawan,174,ON,Q6731453,Magnetawan First Nation,3549078
+M3,0.818,band_c02068,Martin Falls,Ontario,Fort William Agency,1916,1929,Marten Falls First Nation,186,ON,Q6774247,Marten Falls First Nation,3560052
+M2,1.0,band_c02076,Serpent River,Ontario,Thessalon Agency,1886,1929,Serpent River,201,ON,,,3557072
+M2,1.0,band_c02078,Sheshegwaning,Ontario,Gore Bay Agency,1886,1929,Sheshegwaning,178,ON,Q20310585,Sheshegwaning First Nation,3551044
+M2,1.0,band_c02097,Fort William,Ontario,Port Arthur Agency,1886,1929,Fort William,187,ON,Q5472337,Fort William First Nation,3558003
+M2,1.0,band_c02098,Garden River,Ontario,Sault Ste. Marie Agency,1886,1929,Garden River First Nation,199,ON,Q5522296,Garden River First Nation,3557074
+M2,1.0,band_c02107,Marten Falls,Ontario,"Indians of James Bay, Treaty No. 9 at:",1906,1911,Marten Falls First Nation,186,ON,Q6774247,Marten Falls First Nation,3560052
+M2,1.0,band_c02127,Beausoleil,Ontario,Manitowaning Agency,1902,1924,Beausoleil,141,ON,Q4877637,Beausoleil First Nation,3543069;3543070
+M2,1.0,band_c02133,Couchiching,Ontario,Fort Frances Agency,1900,1929,Couchiching First Nation,126,ON,Q14875130,Couchiching First Nation,3559062;3559063
+M2,1.0,band_c02136,Fort Severn,Ontario,District of Patricia,1914,1929,Fort Severn,215,ON,Q3078079,Fort Severn First Nation,3560078
+M2,1.0,band_c02147,Maganetawan,Ontario,Parry Sound Agency,1916,1929,Magnetawan,174,ON,Q6731453,Magnetawan First Nation,3549078
+M3,0.8,band_c02148,Moose Point,Ontario,Parry Sound Agency,1929,1929,Moose Deer Point,135,ON,Q20711022,Moose Deer Point First Nation,3544073
+M2,1.0,band_c02156,Sheguiandah,Ontario,Manitowaning Agency,1886,1929,Sheguiandah,176,ON,Q20710185,Sheguiandah First Nation,3551042
+M2,1.0,band_c02165,Attawapiskat,Ontario,District of Patricia,1914,1929,Attawapiskat,143,ON,Q1656303,Attawapiskat First Nation,3560051
+M2,1.0,band_c02167,Batchewana,Ontario,Sault Ste. Marie Agency,1914,1929,Batchewana First Nation,198,ON,Q20312856,Batchewana First Nation,
+M2,0.933,band_c02190,Matagami,Ontario,"Indians of James Bay, Treaty No. 9 at:",1906,1910,Mattagami,226,ON,Q6789593,Mattagami First Nation,3552052
+M2,1.0,band_c02196,Pays Plat,Ontario,Port Arthur Agency,1886,1929,Pays Plat,191,ON,Q7156890,Pays Plat First Nation,3558063
+M2,1.0,band_c02216,Albany,Ontario,"Indians of James Bay, Treaty No. 9 at:",1906,1929,Albany,142,ON,,,
+M2,1.0,band_c02224,Long Lake,Ontario,Port Arthur Agency,1886,1929,Long Lake No.58 First Nation,184,ON,Q6672821,Long Lake 58 First Nation,3558068
+M2,1.0,band_c02348,Dokis,Ontario,Sturgeon Falls Agency,1886,1929,Dokis,218,ON,Q5288744,Dokis First Nation,3549077
+M2,1.0,band_c02376,Sturgeon Lake,Peace River,,1893,1893,Sturgeon Lake First Nation,360,SK,Q7629021,Sturgeon Lake First Nation,4716856
+M2,1.0,band_c02382,The Pas (Crees and Saulteaux),Prairies/NWT,"Chippewas And Saulteaux Of Treaty No. 5,",1886,1929,Saulteaux,347,SK,Q7427410,Saulteaux First Nation,
+M2,1.0,band_c02389,Pelican Lake Indians,Prairies/NWT,Carlton Agency,1892,1929,Pelican Lake,405,SK,Q7161412,Pelican Lake First Nation,4716863;4716880;4716894
+M2,1.0,band_c02394,James Roberts (Lac la Ronge),Prairies/NWT,CARLTON Agency,1892,1929,Lac La Ronge,353,SK,Q6467854,Lac La Ronge Nation,4715851;4716857;4718803;4718808;4718809;nan;nan;4718812;4718813;4718825;4718831;4718844;4718849
+M3,0.842,band_c02399,Sweet Grass,Prairies/NWT,BATTLEFORD Agency,1886,1929,Sweetgrass,348,SK,Q14875017,Sweetgrass First Nation,4712833;4712837;4716892
+M3,0.857,band_c02410,Fort McMurray,Prairies/NWT,Athabasca District,1892,1912,Fort McMurray #468 First Nation,468,AB,Q5471652,Fort McMurray First Nation,4816821;4816822
+M3,0.8,band_c02416,Beaver Lake,Prairies/NWT,Saddle Lake Agency,1892,1929,Beaver Lake Cree Nation,460,AB,Q4878117,Beaver Lake Cree Nation,4812828
+M2,1.0,band_c02445,William Charles (Montreal Lake),Prairies/NWT,Carlton Agency,1892,1929,Montreal Lake,354,SK,Q14874995,Montreal Lake First Nation,
+M3,0.8,band_c02462,Saddle Lake,Prairies/NWT,Saddle Lake Agency,1895,1929,Saddle Lake Cree Nation,462,AB,Q17016834,Saddle Lake Cree Nation,4812806;4812808
+M2,1.0,band_c02467,William Twatt (Sturgeon Lake),Prairies/NWT,Carlton Agency,1892,1929,Sturgeon Lake First Nation,360,SK,Q7629021,Sturgeon Lake First Nation,4716856
+M2,1.0,band_c02482,Chipewyans at Fond du Lac,Prairies/NWT,Treaty No. 8,1892,1917,Fond du Lac,351,SK,Q3075320,Fond du Lac First Nation,
+M2,1.0,band_c02486,James Robert (Lac la Ronge),Prairies/NWT,CARLTON Agency,1899,1901,Lac La Ronge,353,SK,Q6467854,Lac La Ronge Nation,4715851;4716857;4718803;4718808;4718809;nan;nan;4718812;4718813;4718825;4718831;4718844;4718849
+M2,1.0,band_c02488,Little Pine and Lucky Man,Prairies/NWT,BATTLEFORD Agency,1886,1929,Little Pine,340,SK,Q60755646,Little Pine First Nation,4713836;4717825
+M2,1.0,band_c02516,Ahtahkakoop,Prairies/NWT,Carlton Agency,1892,1929,Ahtahkakoop,406,SK,Q4696378,Ahtahkakoop Cree Nation,
+M2,1.0,band_c02518,Big River (Kenemotoyoos),Prairies/NWT,Carlton Agency,1914,1916,Big River,404,SK,Q60760062,Big River First Nation,4716858
+M2,1.0,band_c02519,Carry-the-Kettle No. 76,Prairies/NWT,Assiniboine Agency,1914,1914,Carry The Kettle,378,SK,Q17412891,Carry the Kettle Nakoda Nation,
+M3,0.8,band_c02520,Crees at Sturgeon Lake,Prairies/NWT,Treaty No. 8,1900,1910,Sturgeon Lake First Nation,360,SK,Q7629021,Sturgeon Lake First Nation,4716856
+M2,1.0,band_c02532,Key,Prairies/NWT,CARLTON Agency,1886,1929,The Key First Nation,368,SK,Q48814496,The Key First Nation,4706829;4709821
+M2,1.0,band_c02534,Standing Buffalo (Sioux),Prairies/NWT,Qu'Appelle Agency,1886,1929,Standing Buffalo,386,SK,Q17363765,Standing Buffalo Dakota First Nation,
+M2,1.0,band_c02541,Yellow Quill,Prairies/NWT,TOUCHWOOD HILLS Agency,1886,1909,Yellow Quill,376,SK,Q8051797,Yellow Quill First Nation,4706829;4714841;4714843
+M2,1.0,band_c02549,Beardy,Prairies/NWT,Duck Lake Agency,1886,1929,Beardy's and Okemasis,369,SK,Q60755407,Beardy's and Okemasis' Cree Nation,4710828;4715845;4715859
+M3,0.8,band_c02550,Beaver Lake (Kaquanum),Prairies/NWT,SADDLE LAKE Agency,1892,1893,Beaver Lake Cree Nation,460,AB,Q4878117,Beaver Lake Cree Nation,4812828
+M2,1.0,band_c02551,Bloods,Prairies/NWT,Blood Agency,1886,1929,Blood,435,AB,Q1520098,Kainai Nation,4803802;4803803
+M2,0.96,band_c02555,"George Gordons, No. 86",Prairies/NWT,Touchwood Agency,1914,1914,George Gordon First Nation,391,SK,Q5585132,George Gordon First Nation,4706829;4710823
+M2,1.0,band_c02576,Montana (Little Bear),Prairies/NWT,Hobbema Agency,1897,1924,Montana,442,AB,Q16939502,Montana,4808813;4811802
+M2,1.0,band_c02577,Muscowpetung,Prairies/NWT,Qu'Appelle Agency,1886,1929,Muscowpetung,381,SK,Q46578032,Muscowpetung First Nation,4706813;4706829
+M2,1.0,band_c02586,"Fishing Lake, No. 89",Prairies/NWT,Touchwood Agency,1914,1914,Fishing Lake First Nation,390,SK,Q60739811,Fishing Lake First Nation,4706829;4710826;4710854
+M2,1.0,band_c02589,Kah-ke-wis-ta-haw,Prairies/NWT,CROOKED LAKE Agency,1892,1899,Kahkewistahaw,362,SK,Q46577995,Kahkewistahaw First Nation,4705804;4706829
+M2,1.0,band_c02590,Kee-see-koo-wenin,Prairies/NWT,BIRTLE Agency,1886,1899,Keeseekoowenin,286,MB,Q6383326,Keeseekoowenin Ojibway First Nation,
+M2,1.0,band_c02605,Carry-the-Kettle,Prairies/NWT,ASSINIBOINE Agency,1893,1929,Carry The Kettle,378,SK,Q17412891,Carry the Kettle Nakoda Nation,
+M2,1.0,band_c02614,Little Black Bear,Prairies/NWT,File Hills Agency,1886,1929,Little Black Bear,379,SK,Q17412931,Little Black Bear First Nation,4706814;4706829
+M2,0.889,band_c02623,Bird Tail Sioux,Prairies/NWT,BIRTLE Agency,1892,1905,Birdtail Sioux,284,MB,Q4916156,Birdtail Sioux First Nation,4615042
+M3,0.8,band_c02633,Lean Man,Prairies/NWT,BATTLEFORD Agency,1886,1929,Ocean Man,408,SK,Q17413012,Ocean Man First Nation,4701809;4701810;4701812;4701813;4701814;4701815;4701816;4701817;4701818;4706829
+M2,0.933,band_c02653,"Day Stars, No. 87",Prairies/NWT,Touchwood Agency,1914,1914,Day Star,389,SK,Q60755408,Day Star First Nation,4706829;4710824
+M2,1.0,band_c02662,Red Earth (Crees),Prairies/NWT,Treaty No. 5,1904,1929,Red Earth,356,SK,Q19894380,Red Earth Cree Nation,4714840;4714845
+M2,1.0,band_c02672,George Gordon,Prairies/NWT,TOUCHWOOD HILLS Agency,1886,1929,George Gordon First Nation,391,SK,Q5585132,George Gordon First Nation,4706829;4710823
+M2,1.0,band_c02675,Kahkewistahaw,Prairies/NWT,CROOKED LAKE Agency,1886,1929,Kahkewistahaw,362,SK,Q46577995,Kahkewistahaw First Nation,4705804;4706829
+M2,1.0,band_c02676,Keeseekoowenin,Prairies/NWT,BIRTLE Agency,1900,1914,Keeseekoowenin,286,MB,Q6383326,Keeseekoowenin Ojibway First Nation,
+M2,1.0,band_c02683,Water Hen Lake,Prairies/NWT,Eastern Athabasca District,1892,1929,Waterhen Lake,402,SK,Q7974130,Waterhen Lake First Nation,4717806
+M2,1.0,band_c02693,English River,Prairies/NWT,Canoe Lake,1909,1929,English River First Nation,400,SK,Q14874943,English River First Nation,4718807;4718814
+M3,0.833,band_c02696,Kahkewistihaw,Prairies/NWT,CROOKED LAKE Agency,1900,1900,Kahkewistahaw,362,SK,Q46577995,Kahkewistahaw First Nation,4705804;4706829
+M3,0.818,band_c02701,Muskowpetung,Prairies/NWT,Treaty No. 4,1896,1901,Muscowpetung,381,SK,Q46578032,Muscowpetung First Nation,4706813;4706829
+M3,0.8,band_c02704,Pee-pee-kisis,Prairies/NWT,File Hills Agency,1896,1896,Peepeekisis Cree Nation No.81,384,SK,Q48806477,Peepeekisis Cree Nation,4706816;4706829
+M2,1.0,band_c02708,Rolling River,Prairies/NWT,BIRTLE Agency,1892,1905,Rolling River,291,MB,Q7361208,Rolling River First Nation,4615071;4615072;4706829
+M2,1.0,band_c02718,Fishing Lake,Prairies/NWT,Touchwood Agency,1906,1929,Fishing Lake First Nation,390,SK,Q60739811,Fishing Lake First Nation,4706829;4710826;4710854
+M3,0.815,band_c02731,Norway House,Prairies/NWT,"Chippewas And Saulteaux Of Treaty No. 5,",1897,1910,Norway House Cree Nation,278,MB,Q7060844,Norway House Cree Nation,4622058
+M2,1.0,band_c02736,Poplar River,Prairies/NWT,"Chippewas And Saulteaux Of Treaty No. 5,",1897,1910,Poplar River First Nation,277,MB,Q2104169,Poplar River First Nation,4619075
+M2,1.0,band_c02738,Red Pheasant,Prairies/NWT,BATTLEFORD Agency,1886,1929,Red Pheasant,346,SK,Q7304721,Red Pheasant Cree Nation,4712829
+M3,0.815,band_c02740,Star Blanket,Prairies/NWT,File Hills Agency,1886,1929,Star Blanket Cree Nation,387,SK,Q17021907,Star Blanket Cree Nation,4706818;4706820;4706828;4706829
+M2,1.0,band_c02742,Thunderchild,Prairies/NWT,BATTLEFORD Agency,1886,1929,Thunderchild First Nation,349,SK,Q7799128,Thunderchild Cree First Nation,4717803;4717804
+M2,1.0,band_c02745,York Factory,Prairies/NWT,Division No. 2 - Con.,1910,1910,York Factory First Nation,304,MB,Q1377345,York Factory First Nation,4622065
+M2,1.0,band_c02748,Ermineskin,Prairies/NWT,Hobbema Agency,1886,1929,Ermineskin Tribe,443,AB,Q5392469,Ermineskin Cree Nation,4811801;4811802
+M2,1.0,band_c02753,James Smith,Prairies/NWT,Duck Lake Agency,1886,1929,James Smith,370,SK,Q6143359,James Smith Cree Nation,
+M2,1.0,band_c02775,Frog Lake,Prairies/NWT,Onion Lake Agency,1915,1929,Frog Lake,465,AB,Q24054482,Frog Lake First Nation,4812802;4812804
+M3,0.842,band_c02776,Ahtakakoop,Prairies/NWT,CARLETON Agency,1908,1908,Ahtahkakoop,406,SK,Q4696378,Ahtahkakoop Cree Nation,
+M2,1.0,band_c02797,Louis Bull,Prairies/NWT,Hobbema Agency,1893,1929,Louis Bull Tribe,439,AB,Q26829200,Louis Bull,4811802;4811803
+M2,1.0,band_c02800,Moosomin,Prairies/NWT,Battleford Agency,1886,1929,Moosomin,342,SK,Q6908702,Moosomin First Nation,4717812
+M2,1.0,band_c02803,Ochapowace,Prairies/NWT,CROOKED LAKE Agency,1886,1929,Ochapowace,363,SK,Q48802882,Ochapowace First Nation,4705806;4705814;4705818;4705821;4705822;4705823;4705824;4705825;4705826;4706829
+M2,1.0,band_c02804,One Arrow,Prairies/NWT,Duck Lake Agency,1886,1929,One Arrow First Nation,373,SK,Q7092455,One Arrow First Nation,4715844;4715857;4715861;4715862
+M2,1.0,band_c02808,Poundmaker,Prairies/NWT,BATTLEFORD Agency,1886,1929,Poundmaker,345,SK,Q7235666,Poundmaker Cree Nation,
+M2,1.0,band_c02815,White Bear,Prairies/NWT,MOOSE MOUNTAIN Agency,1886,1929,White Bear,365,SK,Q17363826,White Bear First Nation,4701808;4706829
+M2,1.0,band_c02818,Alexander,Prairies/NWT,Edmonton Agency,1886,1929,Alexander,438,AB,Q4718854,Alexander First Nation,4811805
+M2,1.0,band_c02820,Big River,Prairies/NWT,Carlton Agency,1917,1929,Big River,404,SK,Q60760062,Big River First Nation,4716858
+M2,1.0,band_c02823,Cowessess,Prairies/NWT,CROOKED LAKE Agency,1886,1929,Cowessess,361,SK,Q46577974,Cowessess First Nation,4705803;4706829
+M2,1.0,band_c02833,Lucky Man,Prairies/NWT,*Battleford Agency,1886,1929,Lucky Man,341,SK,Q60760068,Lucky Man Cree Nation,
+M2,1.0,band_c02835,Ocean Man,Prairies/NWT,Birtle Agency,1886,1886,Ocean Man,408,SK,Q17413012,Ocean Man First Nation,4701809;4701810;4701812;4701813;4701814;4701815;4701816;4701817;4701818;4706829
+M2,0.889,band_c02839,(tt)Bloods,Prairies/NWT,BLOOD Agency,1895,1895,Blood,435,AB,Q1520098,Kainai Nation,4803802;4803803
+M2,1.0,band_c02843,Day Star,Prairies/NWT,TOUCHWOOD HILLS Agency,1886,1929,Day Star,389,SK,Q60755408,Day Star First Nation,4706829;4710824
+M2,0.923,band_c02854,Okanees,Prairies/NWT,File Hills Agency,1886,1929,Okanese,382,SK,Q7081813,Okanese First Nation,4706815;4706829
+M2,1.0,band_c02864,Montana (6),Prairies/NWT,Hobbema Agency,1910,1929,Montana,442,AB,Q16939502,Montana,4808813;4811802
+M2,1.0,band_c02871,Samson,Prairies/NWT,Hobbema Agency,1886,1929,Samson,444,AB,Q16947150,Samson Cree Nation,
+M2,1.0,band_c02877,Piapot,Prairies/NWT,Qu'Appelle Agency,1886,1929,Piapot,385,SK,Q48791926,Piapot First Nation,4702800;4706809;4706829
+M3,0.8,band_c02885,Keys,Prairies/NWT,Pelly Agency (Late Swan River Agency).,1901,1902,The Key First Nation,368,SK,Q48814496,The Key First Nation,4706829;4709821
+M4,1.0,band_c02931,Cowichan,Province Of,Cowichan,1902,1902,Cowichan,642,BC,Q118904720,Cowichan Tribes,
+M2,0.952,band_c03142,Sandy Lake (Ahtahkakoops),Saskatchewan Inspectorates,Carlton Agency,1924,1924,Ahtahkakoop,406,SK,Q4696378,Ahtahkakoop Cree Nation,
+M2,1.0,band_c03143,Big River (Kenemotoyoos),Saskatchewan Inspectorates,Carlton Agency,1924,1924,Big River,404,SK,Q60760062,Big River First Nation,4716858
+M2,1.0,band_c03145,Saulteaux (Non-Treaty),Saskatchewan Inspectorates,Battleford Agency,1924,1924,Saulteaux,347,SK,Q7427410,Saulteaux First Nation,
+M2,1.0,band_c03146,Carry-the-kettle,Saskatchewan Inspectorates,Assiniboine Agency,1924,1924,Carry The Kettle,378,SK,Q17412891,Carry the Kettle Nakoda Nation,
+M2,0.88,band_c03147,Water Hen Lake,Saskatchewan Inspectorates,Battleford Agency,1924,1924,Waterhen Lake,402,SK,Q7974130,Waterhen Lake First Nation,4717806
+M2,1.0,band_c03148,Kahkewistahaw,Saskatchewan Inspectorates,Crooked Lakes Agency,1924,1924,Kahkewistahaw,362,SK,Q46577995,Kahkewistahaw First Nation,4705804;4706829
+M2,1.0,band_c03149,Montreal Lake,Saskatchewan Inspectorates,Carlton Agency,1924,1924,Montreal Lake,354,SK,Q14874995,Montreal Lake First Nation,
+M2,1.0,band_c03150,Sturgeon Lake,Saskatchewan Inspectorates,Carlton Agency,1924,1924,Sturgeon Lake First Nation,360,SK,Q7629021,Sturgeon Lake First Nation,4716856
+M2,1.0,band_c03151,Pelican Lake,Saskatchewan Inspectorates,Carlton Agency,1924,1924,Pelican Lake,405,SK,Q7161412,Pelican Lake First Nation,4716863;4716880;4716894
+M2,1.0,band_c03152,Red Pheasant,Saskatchewan Inspectorates,Battleford Agency,1924,1924,Red Pheasant,346,SK,Q7304721,Red Pheasant Cree Nation,4712829
+M2,1.0,band_c03153,Thunderchild,Saskatchewan Inspectorates,Battleford Agency,1924,1924,Thunderchild First Nation,349,SK,Q7799128,Thunderchild Cree First Nation,4717803;4717804
+M2,1.0,band_c03154,Little Pine,Saskatchewan Inspectorates,Battleford Agency,1924,1924,Little Pine,340,SK,Q60755646,Little Pine First Nation,4713836;4717825
+M3,0.842,band_c03156,Sweet Grass,Saskatchewan Inspectorates,Battleford Agency,1924,1924,Sweetgrass,348,SK,Q14875017,Sweetgrass First Nation,4712833;4712837;4716892
+M2,1.0,band_c03158,Ochapowace,Saskatchewan Inspectorates,Crooked Lakes Agency,1924,1924,Ochapowace,363,SK,Q48802882,Ochapowace First Nation,4705806;4705814;4705818;4705821;4705822;4705823;4705824;4705825;4705826;4706829
+M2,1.0,band_c03159,Poundmaker,Saskatchewan Inspectorates,Battleford Agency,1924,1924,Poundmaker,345,SK,Q7235666,Poundmaker Cree Nation,
+M2,1.0,band_c03160,Cowessess,Saskatchewan Inspectorates,Crooked Lakes Agency,1924,1924,Cowessess,361,SK,Q46577974,Cowessess First Nation,4705803;4706829
+M2,1.0,band_c03161,Moosomin,Saskatchewan Inspectorates,Battleford Agency,1924,1924,Moosomin,342,SK,Q6908702,Moosomin First Nation,4717812
+M3,0.857,band_c03174,Fort McMurray,TREATY No. 8,Northern District,1913,1913,Fort McMurray #468 First Nation,468,AB,Q5471652,Fort McMurray First Nation,4816821;4816822
+M2,1.0,band_c03182,Sturgeon Lake,TREATY No. 8,Lesser Slave Lake Agency,1913,1913,Sturgeon Lake First Nation,360,SK,Q7629021,Sturgeon Lake First Nation,4716856
+M2,1.0,band_c03185,Fond du Lac,TREATY No. 8,Northern District,1913,1913,Fond du Lac,351,SK,Q3075320,Fond du Lac First Nation,
+M2,1.0,band_c03186,Fort Nelson,TREATY No. 8,Northern District,1913,1913,Fort Nelson First Nation,543,BC,Q100210267,Fort Nelson First Nation,5959805;5959806;5959809
+M3,0.8,band_c03188,Hay River,TREATY No. 8,Northern District,1913,1913,Halfway River First Nation,546,BC,Q5641963,Halfway River First Nation,5955808
+M2,0.875,band_c03194,New Brunswick House,TREATY No. 9,Chapleau Agency,1913,1913,Brunswick House,228,ON,Q4979517,Brunswick House First Nation,3552054
+M3,0.818,band_c03203,Martin Falls,TREATY No. 9,Albany River District,1913,1924,Marten Falls First Nation,186,ON,Q6774247,Marten Falls First Nation,3560052
+M2,1.0,band_c03204,Flying Post,TREATY No. 9,Chapleau Agency,1913,1913,Flying Post,227,ON,Q20709674,Flying Post First Nation,
+M3,0.842,band_c03206,Matatchewan,TREATY No. 9,Sturgeon Falls Agency,1913,1913,Matachewan,219,ON,Q6785929,Matachewan First Nation,3554057
+M2,1.0,band_c03210,Long Lake,TREATY No. 9,Port Arthur Agency,1913,1913,Long Lake No.58 First Nation,184,ON,Q6672821,Long Lake 58 First Nation,3558068
+M2,1.0,band_c03211,Mattagami,TREATY No. 9,Chapleau Agency,1913,1913,Mattagami,226,ON,Q6789593,Mattagami First Nation,3552052
+M2,1.0,band_c03216,English River,Treaty No. 10,Port Arthur Agency,1912,1912,English River First Nation,400,SK,Q14874943,English River First Nation,4718807;4718814
+M2,1.0,band_c03225,Fond du Lac,Treaty No. 8,Northern District,1914,1916,Fond du Lac,351,SK,Q3075320,Fond du Lac First Nation,
+M3,0.8,band_c03235,Hay River,Treaty No. 8,Northern District,1914,1924,Halfway River First Nation,546,BC,Q5641963,Halfway River First Nation,5955808
+M3,0.8,band_c03236,Moberley Lake,Treaty No. 8,Lesser Slave Lake Agency,1915,1924,Saulteaux,347,SK,Q7427410,Saulteaux First Nation,
+M2,1.0,band_c03245,Sturgeon Lake,Treaty No. 8,Lesser Slave Lake Agency,1914,1924,Sturgeon Lake First Nation,360,SK,Q7629021,Sturgeon Lake First Nation,4716856
+M3,0.8,band_c03254,Hay River (Upper),Treaty No. 8,Lesser Slave Lake Agency,1914,1924,Halfway River First Nation,546,BC,Q5641963,Halfway River First Nation,5955808
+M3,0.857,band_c03259,Fort McMurray,Treaty No. 8,Northern District,1914,1914,Fort McMurray #468 First Nation,468,AB,Q5471652,Fort McMurray First Nation,4816821;4816822
+M2,1.0,band_c03262,Fort Nelson,Treaty No. 8,Northern District,1914,1914,Fort Nelson First Nation,543,BC,Q100210267,Fort Nelson First Nation,5959805;5959806;5959809
+M2,0.875,band_c03275,New Brunswick House,Treaty No. 9,Chapleau Agency,1914,1914,Brunswick House,228,ON,Q4979517,Brunswick House First Nation,3552054
+M3,0.818,band_c03280,Martin Falls,Treaty No. 9,Albany River District,1914,1917,Marten Falls First Nation,186,ON,Q6774247,Marten Falls First Nation,3560052
+M2,1.0,band_c03281,Flying Post,Treaty No. 9,Chapleau Agency,1914,1914,Flying Post,227,ON,Q20709674,Flying Post First Nation,
+M3,0.842,band_c03283,Matatchewan,Treaty No. 9,Sturgeon Falls Agency,1912,1914,Matachewan,219,ON,Q6785929,Matachewan First Nation,3554057
+M2,1.0,band_c03285,Long Lake,Treaty No. 9,Port Arthur Agency,1912,1914,Long Lake No.58 First Nation,184,ON,Q6672821,Long Lake 58 First Nation,3558068
+M2,1.0,band_c03286,Mattagami,Treaty No. 9,Chapleau Agency,1914,1914,Mattagami,226,ON,Q6789593,Mattagami First Nation,3552052
+M2,1.0,band_c03361,Big Lake (Kluane),Yukon Territory,Indians of Yukon Territory,1908,1924,Kluane First Nation,503,YT,,,6001039

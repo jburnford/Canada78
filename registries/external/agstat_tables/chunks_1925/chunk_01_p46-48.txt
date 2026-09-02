@@ -1,0 +1,87 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE NO. 2. - GRAIN, VEGETABLE, AND ROOT PRODUCTION
+
+Agencies     Wheat            Oats            Other Grains   Peas, Beans, etc. Potatoes        Other Roots    Fodder
+             Acres   Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels Hay               Hay       Other
+...
+             Sown    Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested Cultivated Wild      Fodder
+...          ...     ...       ...   ...      ...  ...       ...  ...       ...  ...       ...  ...       Tons       Tons      Tons
+ALBERTA      ...     ...       ...   ...      ...  ...       ...  ...       ...  ...       ...  ...       ...        ...       ...
+Blackfoot    5,855   60,756    1,854 3,180    20   35        ...  ...       8    222       ...  ...       58         600       912
+Blood        6,921   197,642 949 29,598       ...  ...       ...  ...       15   3,000     ...  ...       ...        4,145     975
+Edmonton     651     12,817    2,064 50,081   503 10,320     ...  ...       23   1,150     ...  ...       10         619       741
+Hobbema      1,030   7,204     2,785 36,080   807 8,690      ...  ...       37   1,939     17   938       837        2,730     ...
+Lesser Slave
+             30      470      634    4,635    3     65       ...   ...        104    10,771    25    3,477    ...      2,474 644
+Lake
+Peigan      1,852 28,281      308 539         ...   ...      ...   ...        ...    ...       5     ...      ...      1,141 137
+Saddle Lake 578    4,335      654 6,785       20    ...      ...   ...        19     965       7     125      ...      2,579 382
+Sarcee      ...    ...        659 12,756      ...   ...      ...   ...        7      560       4     180      ...      304    315
+Stony       ...    ...        ...   ...       ...   ...      ...   ...        10     300       10    280      ...      800    500
+Total       16,917 311,505    9,907 143,654   1,353 19,110   ...   ...        223    18,907    68    5,000    905      15,392 4,606
+BRITISH
+            ...    ...        ...    ...      ...   ...      ...   ...        ...    ...       ...   ...      ...      ...     ...
+COLUMBIA
+Babine      ...      ...      89    199       ...   ...      ...   ...        156    19,890    53    7,615    665      244     162
+Bella Coola ...      ...      ...   ...       ...   ...      ...   ...        12     1,250     1     100      55       355     ...
+Cowichan    52       1,680    394 16,230      ...   ...      ..
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+  1,600     3     55       200      ...   75
+Total             259 3,601      2,266    35,106   546   6,010    168   2,469      1,024 24,455    65    2,590    2,253    631 1,010
+SASKATCHEWAN ...        ...      ...      ...      ...   ...      ...   ...        ...   ...       ...   ...      ...      ...   ...
+Assiniboine       647 4,021      316      2,216    37    137      ...   ...        3     77        1     24       ...      828 75
+Battleford        2,018 10,699   1,425    8,468    21    190      ...   ...        41    1,582     30    321      ...      3,488 409
+Carlton           1,438 13,511   1,387    8,257    85    243      ...   ...        38    1,125     13    255      ...      4,316 151
+Crooked Lakes     1,302 17,250   1,831    34,992   217   2,675    ...   ...        20    908       7     197      ...      3,075 555
+Duck Lake         1,352 6,249    1,020    5,392    173   602      ...   ...        25    723       4     54       ...      3,851 165
+File Hills Agency 143 1,041      359      1,907    ...   ...      ...   ...        3     325       1     90       ...      787 59
+File Hills Colony 1,099 11,899   1,806    29,963   ...   ...      ...   ...        6     1,200     3     400      ...      600 79
+Isle A la Crosse  ...   ...      ...      ...      ...   ...      ...   ...        ...   ...       ...   ...      ...      ...   ...
+Moose Mountain    280 4,319      378      9,054    300   6,411    ...   ...        10    280       ...   ...      ...      559 1,500
+
+
+
+=== EXTRACT FROM HERE (pages 46-48) ===
+<!-- page 46 -->
+Moose Woods   4     30      91    800     ...   ...   ...   ...   12   145   1     12   ...     955   179
+Onion Lake    386   2,065   1,535 2,231   41    ...   ...   ...   20   845   ...   32   1,346   ...   114
+
+<!-- page 47 -->
+Agencies           Wheat            Oats              Other Grains    Peas, Beans, etc. Potatoes       Other Roots    Fodder
+                   Acres   Bushels Acres     Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels Hay              Hay     Other
+...
+                   Sown    Harvested Sown    Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested Cultivated Wild    Fodder
+...                ...     ...       ...     ...       ...  ...       ...  ...       ...  ...       ...  ...       Tons       Tons    Tons
+Pelly              1,044   8,441     1,374   27,181    110 1,579      ...  ...       8    730       ...  ...       ...        1,495   ...
+Qu'Appelle         2,937   33,712    1,726   19,089    57   688       ...  ...       9    975       ...  ...       ...        1,926   361
+Touchwood 1,611 7,184               1,315 10,497      ...   ...       ...   ...        11     195      9     ...      ...      2,443 383
+Wood
+Mountain  45     860                35       *        72    851       ...   ...        2      115      ...   ...      ...      114    ...
+Reserve
+Total     14,306 130,281            14,598 160,047    1,113 13,376    ...   ...        208    9,225    69    1,385    1,346    24,437 4,030
+RECAPITULATION
+PROVINCES ...    ...                ...   ...         ...   ...       ...   ...        ...    ...      ...   ...      ...      ...    ...
+Alberta   16,917 311,505            9,907 143,654     1,353 19,110    ...   ...        223    18,907   68    5,000    905      15,392 4,606
+British
+                   1,945 31,480     3,830 95,634      456   6,006     975   25,364     2,446 251,886   017   35,659   14,477   8,309 1,275
+Columbia
+Manitoba           2,419 28,017     2,726 50,591      2,391 44,221    48    859        337    18,352   31    2,007    ...      24,380 285
+New
+                   3       54       118      1,655    17    210       5     90         68     6,470    14    1,353    152      18     7
+Brunswick
+Nova Scotia        2     37         61     940        3     35        12    115        125 4,028       1641 476       350      179   35
+Ontario            2,682 37,466     12,531 343,706    3,343 71,136    641   8,765      1,987 113,523   1,636 28,374   19,022   1,704 13,844
+Prince
+Edward             12      86       45       610      ...   ...       ...   ...        20     1,750    1     30       63       48     ...
+Island
+Quebec       259    3,601           2,266 35,106      546 6,010       168   2,469      1,024 24,456    65    2,590    2,253    631    1,010
+Saskatchewan 14,308 130,281         14,598 160,017    1,113 13,376    ...   ...        208 9,225       69    1,385    1,346    24,437 4,030
+                                                                                                       2,817
+Total              38,545 542,527   46,082 831,943    9,222 160,193   1,849 37,662     6,438 448,596         76,874   38,568   75,098 25,092
+                                                                                                       1/4
+
+[*Cut for feed.]
+
+<!-- page 48 -->

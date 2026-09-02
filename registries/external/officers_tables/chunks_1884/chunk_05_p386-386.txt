@@ -1,0 +1,80 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+NEW BRUNSWICK.
+                                                         Annual    Where
+Name.        Office.                                                             Remarks.
+                                                         Salary.   Stationed.
+...          ...                                         $ cts.    ...           ...
+Chas.
+             Visiting Superintendent                     400 00    Chatham       North-Eastern Superintendency.
+Sargeant
+James                                                                            South-Western
+             Visiting Superintendent                     300 00    Fredericton
+Farrell                                                                          Superintendency.
+                                                                                 Agent for Counties of Victoria
+Moses Craig Agent                                        100 00    Perth
+                                                                                 and Madawaska.
+Rev. J.J.
+             Missionary                                  100 00    Tobique       ...
+O'Leary
+Rev. J.C.
+             Missionary                                  200 00    Fredericton ...
+McDevitt
+Rev. P.W.
+             Missionary                                  100 00    Newcastle ...
+Dixon
+Rev. W.
+             Missionary                                  100 00    Oak Point     ...
+Morrisey
+Rev. E.J.
+             Missionary                                  100 00    Big Cove      ...
+Bannon
+Rev. L.C.
+             Missionary                                  40 00     Edmunston ...
+D'Amour
+J.
+Macdonald,   Medical Officer                             100 00    ...           ...
+M.D.
+R. McLearn,
+            Medical Officer                              100 00    ...           ...
+M.D.
+
+
+=== EXTRACT FROM HERE (pages 386-386) ===
+NEW BRUNSWICK.
+                                                         Annual    Where
+Name.        Office.                                                             Remarks.
+                                                         Salary.   Stationed.
+...          ...                                         $ cts.    ...           ...
+Chas.
+             Visiting Superintendent                     400 00    Chatham       North-Eastern Superintendency.
+Sargeant
+James                                                                            South-Western
+             Visiting Superintendent                     300 00    Fredericton
+Farrell                                                                          Superintendency.
+                                                                                 Agent for Counties of Victoria
+Moses Craig Agent                                        100 00    Perth
+                                                                                 and Madawaska.
+Rev. J.J.
+             Missionary                                  100 00    Tobique       ...
+O'Leary
+Rev. J.C.
+             Missionary                                  200 00    Fredericton ...
+McDevitt
+Rev. P.W.
+             Missionary                                  100 00    Newcastle ...
+Dixon
+Rev. W.
+             Missionary                                  100 00    Oak Point     ...
+Morrisey
+Rev. E.J.
+             Missionary                                  100 00    Big Cove      ...
+Bannon
+Rev. L.C.
+             Missionary                                  40 00     Edmunston ...
+D'Amour
+J.
+Macdonald,   Medical Officer                             100 00    ...           ...
+M.D.
+R. McLearn,
+            Medical Officer                              100 00    ...           ...
+M.D.

@@ -1,0 +1,275 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+               Number Cleared but    Under        Number     Number        Number in engaged in Number
+...            of       not under    actual       engaged in engaged in    hunting, trapping and engaged other
+               Indians. cultivation. cultivation. farming.   stock-raising fishing.              industries.
+
+               ...     Acres.        Acres.      ...         ...           ...                  ...
+ALBERTA.
+Blackfoot      768     299,950       250         24          132           ...                  ...
+Blood          1,149   347,641       2,392       27          318           ...                  10
+Edmonton       683     33,655        1,280       29          68            73                   49
+Hobbema        785     75,778        642         71          79            62                   26
+Lesser Slave
+               224     11,450        50          ...         24            47                   1
+Lake
+Piegan         462     93,429        109         10          82            ...                  56
+Saddle Lake    798     79,641        1,424       116         ...           157                  ...
+Sarcee         211     58,120        218         20          23            16                   6
+Stony          667     44,480        240         10          65            35                   100
+Total          5,747   1,044,144     6,605       307         791           390                  248
+
+BRITISH      ...       ...           ...         ...         ...           ...                  ...
+COLUMBIA.
+Babine and
+             3,113     18,878        750         47          900           169                  ...
+Upper Skeena
+Bella Coola    1,266   70            25          ...         ...           405                  ...
+Cassiar        305     325           ...         ...         ...           168                  69
+Cowichan       1,758   5,400         3,202       7           ...           94                   208
+Fraser River   2,846   3,498         3,713       509         ...           319                  289
+Kamloops-
+               3,862   241,643       17,046      893         l6            537                  53
+Okanagan
+Kootenay       573     38,356        1,640       129         ...           ...                  71
+Kwawkewlth     1,227   314    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+       1     35     44       15     60     1     900     6     1,300 00    14,000 00 397,300 00
+Island
+Total          362   475    2,151    1,238 2,252 3,911 29,104 1,438 112,112 00 426,020 00 8,689,689 00
+
+PRINCE
+               ...   ...    ...      ...    ...    ...   ...     ...   ...         ...         ...
+EDWARD
+ISLAND
+Prince
+Edward         5     25     ...      ...    16     15    1       ...   685 00      2,950 00    40,614 00
+Island
+
+               ...   ...    ...      ...    ...    ...   ...     ...   ...         ...         ...
+QUEBEC
+Becancour     ...    1      1        2      ...    1     ...     1     ...         150 00      5,640 00
+Bersimis      3      1      110      27     143    22    1,397   82    5,104 00    5,702 00    217,743 00
+Cacouna       ...    1      8        ...    25     ...   356     ...   525 00      1,125 00    3,705 00
+Caughnawaga 2        39     ...      50     25     2     125     3     1,658 00    58,075 00   554,129 00
+Lake St. John ...    ...    160      175    240    150   7,200   200   21,070 00   8,600 00    92,083 00
+Lorette       ...    ...    6        8      30     ...   250     6     350 00      9,550 00    83,550 00
+Maniwaki      ...    ...    45       33     96     20    850     35    3,153 00    4,060 00    157,770 00
+Maria         ...    ...    8        3      15     ...   125     2     290 00      2,000 00    23,710 00
+
+<!-- page 858 -->
+Mingan   99   ...   290   133   433   102   3,590 227   31,260 00 13,300 00 87,410 00
+
+
+
+=== EXTRACT FROM HERE (pages 859-863) ===
+<!-- page 859 -->
+                  GENERAL EFFECTS.                                                            Value of
+                                                                                              Real and
+                                                                                              Personal
+                                                                                              Property
+                                                                                    Value of (exclusive of
+Agency.           Sail Row                      Shot        Steel                   Household trust funds in
+                                Canoes. Rifles.       Nets.         Tents. Value of Effects.  the hands of
+                  Boats. Boats.                 Guns.       Traps..
+                                                                                              Government
+                                                                                              and some
+                                                                                              property not
+                                                                                              on reserves).
+...               ...   ...    ...      ...    ...   ...   ...    ...    $ cts.    $ cts.     $ cts.
+Oka               4     22     8        7      28    4     204    6      632 00    4,387 00 100,877 00
+Pierreville       ...   6      6        11     26    ...   493    18     837 00    12,385 00 168,217 00
+Restigouche       ...   4      35       20     6     ...   92     2      1,500 00 15,000 00 101,200 00
+St. Regis         ...   65     ...      19     22    21    500    ...    550 00    13,350 00 321,200 00
+Timiskaming       ...   1      23       30     9     30    308    17     1,050 00 3,700 00 36,442 00
+Total             108   140    700      518    1,098 352   15,490 598    67,979 00 151,384 00 1,953,676 00
+
+                  ...   ...    ...      ...    ...   ...   ...     ...    ...       ...        ...
+SASKATCHEWAN
+Assiniboine       ...   ...    ...      18     44    ...   138    45    1,155     1,000 00     294,591 00
+Battleford        ...   12     9        91     172 101 804        208 7,602 00 13,600 00       903,874 00
+Carlton           ...   9      71       113    163 114 2,958 157 5,470 00 6,994 00             672,500 00
+Crooked Lake      ...   ...    ...      25     56    15    131    109 1,971 00 5,950 00        883,404 00
+Duck Lake         ...   15     28       47     182 54      4,100 183 9,090 00 14,700 00        863,141 00
+Moose Mountain    ...   ...    ...      15     35    2     200    50    1,200 00 1,000 00      233,597 00
+Onion Lake        ...   3      80       86     119 120 1,788 179 6,625 00 3,855 00             1,074,106 00
+Pelly             ...   1      ...      21     85    8     570    67    1,790 00 6,000 00      360,266 00
+Qu'Appelle        ...   3      ...      51     104 45      286    133 3,183 00 13,300 00       1,358,836 00
+Touchwood Hills   ...   ...    ...      42     92    5     1,840 107 2,782 00 6,475 00         988,535 00
+Treaty No. 10     ...   ...    525      316    294 604 3,455 367 26,750 00 18,220 00           74,630 00
+Total             ...   43     713      825    1,346 1,068 16,270 1,605 67,618 00 91,094 00    7,707,480 00
+
+<!-- page 860 -->
+AGRICULTURE, SEASON, 1909.
+
+              GRAIN, ROOTS AND FODDER
+              Wheat.           Oats.            Barley.          Corn.            Pease.           Rye.             Buckwheat.       Beans.
+Agency
+              Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+              Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+
+ONTARIO - ...       ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Con.
+Brought
+          678       11,880    2,755 60,129     175    4,071     942    29,892    776    16,710    53     1,100     130    2,327     172    3,671
+forward
+Rice Lake     75    1,725     55     1,400     4      118       9      89        114    2,250     ...    ...       15     180       2      28
+Sarnia        60    566       165    2,569     ...    30        ...    2,700     ...    10        ...    ...       ...    ...       ...    110
+Saugeen       20    200       200    3,000     ...    ...       25     500       40     600       ...    ...       ...    ...       4      100
+Sault Ste.
+              ...   ...       110    1,900     ...    ...       2      80        11     185       ...    ...       ...    ...       1      20
+Marie
+Savanne       ...   ...       ...   ...        ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Scugog        6     100       50    1,200      ...    ...       1      12        5      130       ...    ...       ...    ...       ...    5
+Six Nations   1,897 22,000    2,844 94,362     371    7,964     401    10,618    560    6,974     57     496       33     450       30     354
+Sturgeon
+              ...   ...       24     720       ...    ...       7      230       6      200       ...    ...       3      50        2      50
+Falls
+Thessalon     ...   ...       45     1,050     ...    ...       31   747         28     765       ...    ...       2      32        ...    ...
+Tyendinaga    69    745       850    14,932    297    4,100     3089 7,325       45     344       11     130       66     1,538     17     182
+Walpole
+              97    2,150     145    4,300     6      110       165    8,100     4      45        ...    ...       42     660       78     430
+Island
+Total         2,902 39,366    7,252 185,562    853    16,393    1,981 60,293     1,589 28,213     121    1,726     291    5,237     306    4,950
+
+PRINCE
+              ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+EDWARD
+ISLAND
+Prince
+Edward        6     90        37     839       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Island
+
+              ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+QUEBEC
+Becancour     ...   ...       40     300       ...    ...       1      5         ...    ...       ...    ...       1      20        ...    ...
+Bersimis      ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Cacouna       ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Caughnawaga ...     ...       775    15,000    50     1,200     200    2,500     15     175       ...    ...       100    2,500     7      200
+Lake St. John 60    500       400    5,000     34     260       ...    ...       45     400       ...    ...       60     1,100     3      45
+
+<!-- page 861 -->
+                  GRAIN, ROOTS AND FODDER
+                  Wheat.           Oats.            Barley.          Corn.            Pease.           Rye.             Buckwheat.       Beans.
+Agency
+                  Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+                  Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+Lorette           ...    ...       ...   ...        ...     ...      ...   ...        ...    ...       ...   ...        ...   ...        ...    ...
+Maniwaki          2      30        124 1,800        ...     ...      5     175        10     200       ...   ...        10    300        2      60
+Maria             ...    ...       25    340        ...     ...      ...   ...        ...    ...       ...   ...        ...   ...        ...    ...
+Mingan            ...    ...       ...   ...        ...     ...      ...   ...        ...    ...       ...   ...        ...   ...        ...    ...
+Oka               15     207       221 2,950        8       120      53    430        ...    ...       ...   ...        28    330        4      50
+Pierreville       ...    ...       20    500        ...     ...      4     80         ...    ...       ...   ...        15    250        5      15
+Restigouche       ...    ...       190 5,000        2       75       ...   ...        ...    ...       ...   ...        7     275        ...    ...
+St. Regis         145 2,320        545 10,900       22      440      290 5,800        63     800       8     150        38    1,000      8      240
+Timiskaming       ...    ...       10    200        ...     ...      ...   ...        3      35        ...   ...        ...   ...        ...    ...
+Total             222 3,057        2,350 41,990     116 2,095        553 8,990        136 1,610        8     150        259 5,775        29     610
+
+                  ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+SASKATCHEWAN
+Assiniboine       452 6,019       418 11,431       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Battleford        383 5,840       257 7,404        6      180       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Carlton           632 9,183       640 16,404       44     770       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Crooked Lake      485 8,530       407 10,565       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Duck Lake         269 4,853       449 13,593       10     370       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Moose Mountain    132 2,044       125 2,637        ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Onion Lake        23    236       153 3,678        53     1,014     ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Pelly             88    2,654     459 27,592       62     2,087     ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Qu'Appelle        2,875 49,642    2,793 98,730     60     844       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Touchwood Hills   293 7,625       648 23,143       40     809       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Treaty No. 10     ...   ...       ...   ...        ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+Total             5,632 96,626    6,349 215,172    275    6,074     ...    ...       ...    ...       ...    ...       ...    ...       ...    ...
+
+<!-- page 862 -->
+              GRAIN, ROOTS AND FODDER - Continued.
+                                                                                                              NEW LAND IMPROVEMENTS.
+              Potatoes      Carrots.     Turnips.                Other Roots.      Hay.
+                                                                                                      Other                    Land
+Agency
+              Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels                        Fodder. Land     Land    Cropped Land
+                                                                                  Cultivated. Wild.
+              Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.                             Cleared. Broken. for first Fenced.
+                                                                                                                               time.
+
+ONTARIO - ...   ...            ...   ...        ...    ...       ...    ...        Tons.     Tons. Tons.      Acres.   Acres.   Acres.   Acres.
+Cont.
+Brought
+          1,307 88,504         16    2,016      74     10,735    38     6,590      4,556     1,412 2,525      318      115      209      1,378
+forward
+Rice Lake     33    2,010      3     360        7      1,192     4      410        65        ...      23      ...      2        2        5
+Sarnia        ...   2,450      ...   85         ...    30        ...    350        400       ...      ...     10       ...      ...      ...
+Saugeen       22    1,600      ...   ...        4      500       5      100        80        6        110     10       20       15       6
+Sault Ste.
+              121   8,080      1     50         4      480       ...    ...        90        375      ...     ...      ...      ...      ...
+Marie
+Savanne       31    4,116      1     38         3      202       1      78        ...        216      ...     ...      3        3        16
+Scugog        4     265        ...   ...        ...    ...       ...    ...       7          ...      4,903   ...      ...      ...      ...
+Six Nations   237   10,196     5     540        5      940       14     1,391     6,543      ...      ...     ...      ...      220      ...
+Sturgeon
+              23    2,950      1     40         8      450       4      120       23         85       ...     10       ...      ...      ...
+Falls
+Thessalon     86    6,951      ...   ...        6      1,070     ...    ...       30         104      13      37       ...      ...      ...
+Tyendinaga    183   17,598     3     177        10     988       ...    100       915        390      283     ...      ...      ...      1,136
+Walpole
+              115   4,450      ...   110        ...    150       ...    3,000     215        1,050 650        10       ...      ...      150
+Island
+Total         2,162 149,170    30    3,416      121    16,737    66     12,139    12,924     3,638 8,507      395      140      449      2,691
+
+PRINCE
+              ...   ...        ...   ...        ...    ...       ...    ...       ...        ...      ...     ...      ...      ...      ...
+EDWARD
+ISLAND
+Prince
+Edward        8     1,144      ...   ...        1      135       ...    ...       18         12       ...     ...      ...      ...      ...
+Island
+
+              ...   ...        ...   ...        ...    ...       ...    ...       ...        ...      ...     ...      ...      ...      ...
+QUEBEC
+Becancour     1     200        ...   1          2      150       ...    ...       ...        4        ...     5        2        ...      3
+Bersimis      10    400        ...   ...        ...    ...       ...    ...       10         15       ...     ...      ...      ...      ...
+Cacouna       ...   ...        ...   ...        ...    ...       ...    ...       ...        ...      ...     ...      ...      ...      ...
+Caughnawaga 200     2,000      ...   ...        ...    ...       ...    ...       1,500      150      ...     ...      ...      ...      ...
+Lake St. John 300   6,000      1     40         5      150       ...    ...       170        3        80      1        ...      ...      2
+
+<!-- page 863 -->
+                  GRAIN, ROOTS AND FODDER - Continued.
+                                                                                                                  NEW LAND IMPROVEMENTS.
+                  Potatoes      Carrots.     Turnips.                Other Roots.      Hay.
+                                                                                                          Other                    Land
+Agency
+                  Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels                        Fodder. Land     Land    Cropped Land
+                                                                                      Cultivated. Wild.
+                  Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.                             Cleared. Broken. for first Fenced.
+                                                                                                                                   time.
+...               ...   ...        ...   ...        ...    ...       ...    ...       Tons.      Tons.    Tons.   Acres. Acres. Acres. Acres.
+Lorette           ...   ...        ...   ...        ...    ...       ...    ...       ...        ...      ...     ...      ...     ...       ...
+Maniwaki          30    3,000      2     200        8      2,500     6      450       175        15       75      42       ...     34        34
+Maria             4     300        ...   ...        ...    ...       ...    ...       25         ...      ...     ...      ...     ...       ...
+Mingan            ...   ...        ...   ...        ...    ...       ...    ...       ...        ...      ...     ...      ...     ...       ...
+Oka               47    6,100      ...   ...        3      200       ...    ...       160        4        119     ...      ...     ...       ...
+Pierreville       20    800        ...   ...        ...    ...       6      50        300        ...      ...     ...      ...     ...       ...
+Restigouche       45    4,800      ...   ...        ...    ...       ...    ...       200        10       250     3        ...     ...       ...
+St. Regis         350 9,500        7     300        10     800       11     1,200     1,450      350      750     5        5       5         65
+Timiskaming       10    1,200      ...   ...        2      100       ...    ...       15         50       10      ...      ...     ...       ...
+Total             1,017 34,300     10    541        30     3,900     23     1,700     4,005      601      1,284   56       7       39        104
+
+                  ...   ...        ...   ...        ...    ...       ...    ...       ...        ...      ...     ...     ...      ...      ...
+SASKATCHEWAN
+Assiniboine       7     700        1     35         5      125       ...    ...       ...        835    235       ...     362      250      ...
+Battleford        20    3,500      4     400        8      2,500     2      190       25         5,239 377        ...     187      110      5,950
+Carlton           25    1,889      2     135        3      414       2      110       ...        3,849 1,320      43      310      883      275
+Crooked Lake      11    750        ...   ...        ...    ...       3      210       30         1,776 1,075      ...     152      155      14
+Duck Lake         10    1,160      ...   ...        ...    ...       ...    ...       ...        3,400 857        ...     ...      155      220
+Moose Mountain    6     600        1     100        1      150       ...    ...       100        600    375       ...     83       38       ...
+Onion Lake        9     1,860      5     90         ...    209       ...    80        ...        3,100 275        ...     91       82       300
+Pelly             6     1,110      1     99         2      200       2      118       ...        1,705 1,000      ...     209      277      2,032
+Qu'Appelle        22    2,360      4     263        10     940       4      185       ...        4,025 2,420      ...     1,032    740      ...
+Touchwood Hills   9     1,475      2     220        6      1,.400    2      210       ...        2,825 1,700      ...     264      295      416
+Treaty No. 10     ...   ...        ...   ...        ...    ...       ...    ...       ...        ...    ...       ...     ...      ...      ...
+Total             125   15,404     20    1,342      35     5,938     15     1,103     155        27,364 9,634     43      2,690    2,985    9,207
+

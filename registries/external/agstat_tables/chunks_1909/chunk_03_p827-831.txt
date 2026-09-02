@@ -1,0 +1,278 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+<!-- page 813 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+
+                                 LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR
+...               Agency.
+                                 SUPPORT.
+                  Cleared but    Under        Number     Number engaged in Number                Number
+...               not under      actual       engaged in hunting, trapping and engaged in        engaged in
+                  cultivation.   cultivation. farming.   fishing.              other industries. stock-raising.
+ONTARIO           Acres.         Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency- 22,476          12,220      412          ...                    ...             412
+Six Nations
+Parry Sound
+                 850             485         55           43                     51              ...
+Superintendency
+New Credit
+(Mississauguas)   1,892          3,808       44           3                      42              ...
+Agency
+Walpole Island
+                  33,420         1,010       70           40                     196             45
+Agency
+Sarnia Agency     1,535          3,365       106          33                     49              51
+Caradoc Agency    4,459          10,512      63           ...                    ...             ...
+Moravian Agency   1,195          970         75           25                     40              65
+Manitowaning
+                  6,025          2,725       105          66                     114             ...
+Agency
+Gore Bay Agency 3,970            1,630       260          29                     283             ...
+Thessalon Agency 340             420         3            ...                    144             ...
+Sault Ste. Marie
+                 1,448           1,570       38           98                     150             ...
+Agency
+Port Arthur
+                  240            240         ...          291                    44              ...
+Agency
+Sturgeon Falls
+                  ...            375         ...          ...                    ...             ...
+Agency
+Golden Lake
+                  200            55          6            6                      4               ...
+Agency
+Tyendinga Agency 1,736           7,820       71           6                      262             71
+Lake Simcoe
+                 539             237         9            8                      10 
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+60     20        ...   5     574   339    ...    ...    4      54     247   374        153   188    9,570 46,129 50
+Agency
+Lake Simcoe
+                  1        20      1      ...       ...   9     21    27     ...    6      ...    5      3     12         ...   ...    250    3,302 00
+Agency
+Cape Croker
+                  1        75      8      2         ...   20    25    40     30     30     5      25     150   25         15    40     250    11,780 00
+Agency
+Saugeen Agency ...         90      1      ...       ...   6     54    60    ...     ...    ...    35     65    20         10    8      160    6,500 00
+Alnwick Agency ...         44      2      1         ...   5     50    38    ...     ...    ...    10     55    ...        3     3      716    6,308 00
+Mud Lake
+               1           25      6      2         ...   11    44    42    ...     ...    1      7      37    42         41    52     320    5,400 00
+Agency
+
+<!-- page 826 -->
+Rice Lake
+                   ...   27   5     1     ...   9    29   18    4     11    ...   11    30    50    37    4     150   3,300 00
+Agency
+Christian Island
+                   3     25   10    1     4     50   70   100   15    35    25    8     250   40    70    ...   1,000 6,500 00
+Agency
+Scugog Agency      ...   5    ...   ...   ...   1    2    ...   ...   ...   ...   1     1     ...   4     ...   51    728 00
+Kenora Agency      ...   64   ...   5     14    11   26   13    ...   ...   ...   ...   ...   ...   ...   ...   ...   3,430 00
+
+
+
+=== EXTRACT FROM HERE (pages 827-831) ===
+<!-- page 827 -->
+               LIVE STOCK AND POULTRY.                                                                                                     Value of
+                                                                                                                                           Live Stock
+Agency.
+               Horses                  Cattle.                           Other Stock.                       Poultry.                       and
+                                                                                                                                           Poultry.
+                         Geldings                                                                                                   Cocks
+                                                Oxen,         Cows, Young                              Other
+...            Stallion. and      Foals. Bulls.       Steers.               Lambs. Sheep. Boars. Sows.       Turkeys. Geese. Ducks. and   ...
+                                                Work.         Milch. Stock.                            Pigs.
+                         Mares.                                                                                                     Hens.
+Fort Frances
+               26       44      ...    4         9     ...   24    16    ...     ...    ...    ...    ...   ...        ...   ...    ...    4,055 00
+Agency
+Savanne
+               ...      15      ...    7         2     ...   16    14    ...     ...    ...    ...    ...   ...        ...   ...    ...    1,340 00
+Agency
+*Rama
+               ...      ...     ...    ...       ...   ...   ...   ...   ...     ...    ...    ...    ...   ...        ...   ...    ...    ...
+Agency
+Chapleau
+               ...      ...     ...    ...       ...   ...   ...   ...   ...     ...    ...    ...    ...   ...        ...   ...    ...    ...
+Agency
+Total       139         2,886   412    142       76    581   2,584 2,541 101     254    137    1,163 3,904 1,825       898   1,629 41,122 420,769 00
+QUEBEC.     ...         ...     ...    ...       ...   ...   ...   ...   ...     ...    ...    ...   ...   ...         ...   ...   ...    ...
+Lake of Two
+Mountains   5           68      11     9         ...   ...   117   50    ...     8      4      28     ...   10         ...   ...    300    8,673 00
+Agency
+Caughnawaga
+            4           450     275    20        ...   20    512   400   12      25     10     85     150   35         30    ...    600    28,238 50
+Agency
+St. Regis
+               7        208     50     18        ...   34    315   180   ...     ...    18     70     138   300        72    104    800    30,450 00
+Agency
+Viger Agency ...        ...     ...    ...       ...   ...   ...   ...   ...     ...    ...    ...    ...   ...        ...   ...    ...    ...
+St. Francis
+             ...        7       ...    1         1     ...   24    ...   ...     ...    ...    ...    30    ...        ...   ...    86     1,481 00
+Agency
+Maria
+               ...      2       1      1         1     12    10    15    15      8      ...    1      5     ...        ...   ...    100    1,200 00
+Agency
+Restigouche
+               3        32      6      4         ...   12    42    92    10      12     5      12     50    ...        ...   ...    98     8,000 00
+Agency
+River Desert
+             ...        31      1      3         ...   3     48    6     5       15     2      11     20    9          ...   ...    250    3,500 00
+Agency
+Jeune Lorette
+              ...       5       ...    1         1     1     16    2     ...     ...    ...    ...    10    5          ...   2      200    450 00
+Agency
+Becancour
+               ...      3       1      1         ...   ...   16    3      ...    ...    ...    4      ...   ...        ...   ...    45     1,000 00
+Agency
+Timiskaming
+            ...         10      ...    ...       ...   ...   12    8      5      6      ...    ...    6     ...        ...   1      106    2,221 00
+Agency
+Bersimis
+               3        ...     ...    ...       ...   ...   4     2      ...    ...    2      ...    ...   ...        ...   ...    12     295 00
+Agency
+Mingan
+              ...       ...     ...    ...       ...   ...   ...   ...   ...     ...    ...    ...    ...   ...        ...   ...    ...    ...
+Agency
+Lake St. John
+              14        25      5      8         5     26    66    40    ...     12     6      30     36    ...        ...   ...    250    6,322 00
+Agency
+Total         36        841     350    66        8     108   1,182 798   47      86     47     241    445   359        102   107    2,847 91,830 50
+
+<!-- page 828 -->
+[* No return received.]
+
+<!-- page 829 -->
+                                                                                     HOUSEHOLD Value of
+                  GENERAL EFFECTS.
+                                                                                     EFFECTS.  Real and
+Agency.
+                  Sail Row                      Shot        Steel                              Personal
+                                Canoes. Rifles.       Nets.        Tents. Value of   Value of  Property.
+                  Boats. Boats.                 Guns.       Traps.
+ONTARIO.         ...    ...    ...      ...    ...   ...   ...     ...   $ cts.      $ cts.      $ cts.
+Grand River
+Superintendency- ...    5      3        40     141   ...   290     4     1,300 00    38,650 00   1,883,907 00
+Six Nations
+Parry Sound
+                 11     37     44       55     48    19    845     54    3,650 00    8,625 00    167,135 00
+Superintendency
+New Credit
+(Mississauguas)   ...   2      1        7      14    1     244     3     365 00      7,850 00    299,246 00
+Agency
+Walpole Island
+                  1     40     44       15     60    1     1,000 6       1,500 00    14,000 00   402,500 00
+Agency
+Sarnia Agency  ...      27     1        32     55    4     241     1     1,245 00    18,200 00   504,769 00
+Caradoc Agency ...      2      2        39     47    10    565     6     455 00      50,200 00   597,166 00
+Moravian
+               ...      7      ...      20     16    15    60      ...   300 00      35,000 00   172,300 00
+Agency
+Manitowaning
+                  55    14     30       37     116   307   622     70    6,595 00    26,950 00   266,695 00
+Agency
+Gore Bay
+                  22    22     1        27     39    110   296     6     2,692 50    14,803 25   139,062 75
+Agency
+Thessalon
+                  44    30     79       9      114   261   751     76    5,902 00    7,690 00    120,116 50
+Agency
+Sault Ste. Marie
+                 24     35     46       58     120   135   405     59    4,700 00    10,850 00   108,280 00
+Agency
+Port Arthur
+                  45    47     289      131    231   1,137 650     206   14,062 00 6,190 00      175,227 00
+Agency
+Sturgeon Falls
+                  11    39     123      84     124   212   1,390 125     7,940 00    15,350 00   276,661 00
+Agency
+Golden Lake
+                  10    8      12       15     10    14    325     11    725 00      525 00      10,592 00
+Agency
+Tyendinga
+                  5     21     1        25     64    12    807     4     3,671 40    84,206 00   1,086,765 90
+Agency
+Lake Simcoe
+                  3     17     3        10     15    20    265     21    940 00      2,850 00    50,927 00
+Agency
+Cape Croker
+                  8     20     2        20     20    100   20      6     2,492 00    18,750 00   193,636 00
+Agency
+Saugeen Agency ...      4      ...      40     81    23    110   20      1,000 00    5,300 00    114,930 00
+Alnwick Agency ...      1      28       11     25    ...   1,174 20      1,322 00    7,669 00    149,208 31
+Mud Lake
+               1        1      52       11     26    ...   2,150 15      1,550 00    10,500 00   71,070 00
+Agency
+Rice Lake
+                  ...   ...    18       7      16    ...   900     3     1,400 00    5,200 00    47,870 00
+Agency
+
+<!-- page 830 -->
+Christian Island
+                   30    50    40      60    30    60    500    40    1,700 00   6,000 00     261,200 00
+Agency
+Scugog Agency      ...   1     10      2     7     ...   397   4      230 25    1,418 00      58,984 25
+Kenora Agency      ...   7     369     75    224   332   5,859 184    12,890 40 14,634 75     166,776 40
+Fort Frances
+                   ...   24    266     69    141   347   2,835 69     6,270 00   6,800 00     256,940 00
+Agency
+Savanne Agency 1         3     456     103   235   483   5,697 234    15,435 70 16,736 25     139,497 70
+*Rama Agency ...         ...   ...     ...   ...   ...   ...   ...    ...       ...           ...
+Chapleau
+               ...       ...   109     48    113   205   1,215 111    6,440 00   1,615 00     8,015 00
+Agency
+Total              271   464   2,029   1,050 2,132 3,809 19,613 1,358 106,773 25 436,562 25   7,729,477 81
+
+<!-- page 831 -->
+                                                                                                Value of
+                                                                                                Real and
+                   GENERAL EFFECTS.
+                                                                                      HOUSEHOLD Personal
+Agency.                                                                                         Property.
+                                                                                      EFFECTS.
+                   Sail Row                      Shot        Steel
+                                 Canoes. Rifles.       Nets.        Tents. Value of               Value of
+                   Boats. Boats.                 Guns.       Traps.
+QUEBEC.            ...    ...    ...     ...    ...    ...   ...    ...   $ cts.      $ cts.      $ cts.
+Lake of Two
+Mountains          4      22     8       7      28     4     204    5     632 00      3,717 00    100,254 80
+Agency
+Caughnawaga
+                   ...    39     ...     50     25     2     125    3     837 50      57,700 00   550,798 00
+Agency
+St. Regis Agency ...      65     ...     18     23     22    500    ...   500 00      13,400 00   317,200 00
+Viger Agency     ...      ...    10      ...    25     ...   346    ...   530 00      1,095 00    3,655 00
+St. Francis
+                 ...      6      6       11     26     ...   493    18    837 50      12,385 00   148,993 00
+Agency
+Maria Agency       ...    ...    8       2      15     ...   125    2     600 00      2,100 00    23,970 00
+Restigouche
+                   ...    4      38      25     5      ...   90     2     1,400 00 14,000 00      107,400 00
+Agency
+River Desert
+                   ...    ...    45      33     96     15    800    35    3,103 00 4,035 00       156,062 00
+Agency
+Jeune Lorette
+                   ...    ...    7       7      32     ...   200    6     300 00      9,500 00    81,200 00
+Agency
+Becancour
+                   ...    2      1       4      1      ...   12     1     80 00       150 00      5,405 00
+Agency
+Timiskaming
+                   ...    1      22      30     9      30    308    17    1,193 00 3,772 00       35,921 50
+Agency
+Bersimis Agency 2         ...    109     26     142    24  1,341 81       4,950 00 5,450 00       44,486 00
+Mingan Agency 100         3      290     133    443    102 3,390 227      30,260 00 13,300 00     89,660 00
+Lake St. John
+                ...       ...    150     175    240    150   7,200 200    21,070 00 8,500 00      91,428 00
+Agency
+Total              106    142    694     521    1,110 349    15,134 597   66,293 00 149,104 00    1,756,433 30
+
+[* No return received.]
+

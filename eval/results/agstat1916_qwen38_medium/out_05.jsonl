@@ -1,0 +1,108 @@
+{"row_type": "headers", "title": "TABLE No. 5. - PUBLIC BUILDINGS.", "columns": ["Churches", "Council Houses", "School Houses", "Driving Sheds", "Other Buildings", "Saw Mills", "Threshers", "Engines", "Other Farm Machinery"]}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "ALBERTA.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Blackfoot", "values": ["...", "...", "...", "...", "...", "...", "2", "2", "210"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Blood", "values": ["...", "2", "3", "8", "11", "...", "2", "2", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Edmonton", "values": ["2", "...", "2", "...", "9", "2", "1", "1", "2"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Hobbema", "values": ["...", "...", "...", "...", "...", "...", "...", "1", "1"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Lesser Slave Lake", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Peigan", "values": ["1", "1", "1", "...", "13", "...", "1", "3", "3"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Saddle Lake", "values": ["...", "...", "4", "...", "...", "1", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Sarcee", "values": ["2", "1", "1", "...", "1", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "ALBERTA.", "label": "Stony", "values": ["...", "3", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "total", "section": "ALBERTA.", "label": "Total", "values": ["5", "7", "11", "8", "34", "3", "6", "9", "216"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "BRITISH COLUMBIA.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Babine and Upper Skeena", "values": ["...", "1", "...", "...", "2", "3", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Coola", "values": ["7", "4", "6", "...", "1", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan", "values": ["4", "...", "7", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kamloops", "values": ["15", "6", "2", "15", "348", "1", "3", "2", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kootenay", "values": ["5", "...", "1", "...", "2", "...", "...", "...", "1"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kwawkewlth", "values": ["...", "...", "4", "...", "...", "...", "...", "1", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Lytton", "values": ["34", "4", "2", "...", "...", "...", "1", "1", "3"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Nass", "values": ["12", "4", "8", "...", "9", "3", "...", "3", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "New Westminster", "values": ["29", "5", "5", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Okanagan", "values": ["8", "5", "1", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Queen Charlotte", "values": ["3", "2", "2", "1", "7", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Stikine", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Stuart Lake", "values": ["14", "...", "...", "...", "4", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "West Coast", "values": ["10", "...", "7", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Williams Lake", "values": ["12", "1", "...", "...", "...", "2", "2", "2", "..."], "confidence": "high"}
+{"page": 164, "row_type": "total", "section": "BRITISH COLUMBIA.", "label": "Total", "values": ["153", "32", "45", "16", "373", "9", "6", "9", "4"], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "MANITOBA.", "label": "MANITOBA.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "MANITOBA.", "label": "Birtle", "values": ["4", "...", "1", "2", "1", "...", "2", "2", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "MANITOBA.", "label": "Clandeboye", "values": ["5", "...", "5", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "MANITOBA.", "label": "Fisher River", "values": ["6", "1", "8", "1", "12", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "MANITOBA.", "label": "Griswold", "values": ["2", "...", "1", "...", "5", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 164, "row_type": "row", "section": "MANITOBA.", "label": "Manitowapah", "values": ["10", "...", "11", "...", "8", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "MANITOBA.", "label": "MANITOBA.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "MANITOBA.", "label": "Norway House", "values": ["9", "1", "3", "...", "2", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "MANITOBA.", "label": "Pas", "values": ["4", "...", "5", "...", "6", "1", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "MANITOBA.", "label": "Portage - la - Prairie", "values": ["...", "...", "...", "...", "3", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "total", "section": "MANITOBA.", "label": "Total", "values": ["40", "2", "34", "3", "37", "1", "3", "2", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "NOVA SCOTIA.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Annapolis County", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Antigonish and Guysborough Counties", "values": ["1", "...", "1", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cape Breton (Eskasoni)", "values": ["1", "...", "1", "...", "2", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cape Breton (Sydney)", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Colchester County", "values": ["...", "...", "1", "...", "1", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cumberland County", "values": ["1", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Digby County", "values": ["1", "...", "1", "1", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Halifax County", "values": ["...", "1", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Hants County", "values": ["1", "...", "1", "...", "1", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Inverness County", "values": ["1", "...", "2", "1", "2", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Kings County", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Lunenburgh County", "values": ["...", "...", "1", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Pictou County", "values": ["2", "...", "2", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Queens County", "values": ["...", "...", "...", "...", "22", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Richmond County", "values": ["1", "1", "1", "...", "2", "...", "...", "1", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Shelburne County", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Victoria County", "values": ["...", "...", "1", "...", "...", "...", "...", "...", "2"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Yarmouth County", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "total", "section": "NOVA SCOTIA.", "label": "Total", "values": ["9", "2", "13", "2", "30", "...", "...", "1", "2"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "NEW BRUNSWICK.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Northern Division - Madawaska and Victoria Counties", "values": ["1", "1", "2", "1", "4", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Northeastern Division - Gloucester, Kent, Northumberland, Restigouche and Westmorland Counties", "values": ["6", "3", "4", "...", "6", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Southwestern Division - Carleton, Charlotte, Kings, Queens, Sunbury, St. Johns and York Counties", "values": ["...", "2", "4", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 166, "row_type": "total", "section": "NEW BRUNSWICK.", "label": "Total", "values": ["7", "6", "10", "1", "10", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "ONTARIO.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Alnwick", "values": ["1", "1", "1", "1", "4", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Cape Croker", "values": ["2", "1", "3", "2", "1", "...", "1", "1", "6"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Caradoc", "values": ["9", "3", "6", "10", "4", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Chapleau", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Christian Island", "values": ["2", "1", "1", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Fort Frances", "values": ["1", "...", "2", "...", "1", "...", "...", "...", "1"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Fort William", "values": ["5", "2", "7", "...", "3", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Georgina Island", "values": ["1", "1", "1", "1", "1", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Golden Lake", "values": ["1", "1", "1", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Gore Bay", "values": ["4", "1", "4", "...", "1", "...", "2", "...", "1"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Kenora", "values": ["...", "...", "2", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Manitowaning", "values": ["7", "3", "8", "2", "5", "...", "...", "...", "1"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Moravian", "values": ["3", "1", "1", "2", "5", "...", "...", "...", "1"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "New Credit", "values": ["2", "1", "1", "3", "2", "...", "...", "...", "4"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Parry Sound", "values": ["7", "1", "4", "1", "5", "3", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Rama", "values": ["1", "1", "1", "2", "3", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Rice Lake", "values": ["2", "2", "2", "2", "2", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Sarnia", "values": ["5", "2", "3", "4", "8", "...", "1", "1", "1"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Saugeen", "values": ["5", "1", "3", "4", "12", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Sault Ste. Marie", "values": ["5", "1", "3", "...", "3", "...", "1", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Savanne", "values": ["1", "...", "1", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Scugog", "values": ["1", "...", "...", "1", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Six Nations", "values": ["15", "1", "11", "2", "22", "...", "...", "...", "8"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Sturgeon Falls", "values": ["4", "...", "3", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Thessalon", "values": ["4", "...", "4", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Tyendinaga", "values": ["2", "1", "4", "4", "6", "...", "1", "1", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "ONTARIO.", "label": "Walpole Island", "values": ["2", "1", "2", "2", "4", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "total", "section": "ONTARIO.", "label": "Total", "values": ["92", "27", "79", "43", "88", "3", "6", "3", "23"], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "PRINCE EDWARD ISLAND.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "Prince Edward Island", "values": ["1", "1", "2", "...", "3", "...", "1", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "QUEBEC.", "label": "QUEBEC.", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "QUEBEC.", "label": "Bécancour", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "QUEBEC.", "label": "Bersimis", "values": ["1", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 167, "row_type": "row", "section": "QUEBEC.", "label": "Cacouna", "values": ["...", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Caughnawaga", "values": ["1", "1", "5", "3", "2", "1", "...", "2", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Jeune Lorette", "values": ["1", "...", "1", "...", "...", "...", "...", "3", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Maniwaki", "values": ["...", "1", "2", "...", "2", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Maria", "values": ["1", "...", "1", "...", "...", "...", "1", "...", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Mingan", "values": ["1", "...", "...", "...", "...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Oka", "values": ["1", "...", "1", "1", "...", "...", "1", "...", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Pierreville", "values": ["3", "1", "2", "3", "2", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 168, "row_type": "row", "section": "QUEBEC.", "label": "Pointe Bleue", "values": ["1", "...", "1", "...", "1", "...", "...", "...", "..."], "confidence": "high"}

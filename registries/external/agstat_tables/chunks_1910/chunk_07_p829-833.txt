@@ -1,0 +1,225 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+               Number Cleared but    Under        Number     Number        Number in engaged in Number
+...            of       not under    actual       engaged in engaged in    hunting, trapping and engaged other
+               Indians. cultivation. cultivation. farming.   stock-raising fishing.              industries.
+
+               ...     Acres.        Acres.      ...         ...           ...                  ...
+ALBERTA.
+Blackfoot      768     299,950       250         24          132           ...                  ...
+Blood          1,149   347,641       2,392       27          318           ...                  10
+Edmonton       683     33,655        1,280       29          68            73                   49
+Hobbema        785     75,778        642         71          79            62                   26
+Lesser Slave
+               224     11,450        50          ...         24            47                   1
+Lake
+Piegan         462     93,429        109         10          82            ...                  56
+Saddle Lake    798     79,641        1,424       116         ...           157                  ...
+Sarcee         211     58,120        218         20          23            16                   6
+Stony          667     44,480        240         10          65            35                   100
+Total          5,747   1,044,144     6,605       307         791           390                  248
+
+BRITISH      ...       ...           ...         ...         ...           ...                  ...
+COLUMBIA.
+Babine and
+             3,113     18,878        750         47          900           169                  ...
+Upper Skeena
+Bella Coola    1,266   70            25          ...         ...           405                  ...
+Cassiar        305     325           ...         ...         ...           168                  69
+Cowichan       1,758   5,400         3,202       7           ...           94                   208
+Fraser River   2,846   3,498         3,713       509         ...           319                  289
+Kamloops-
+               3,862   241,643       17,046      893         l6            537                  53
+Okanagan
+Kootenay       573     38,356        1,640       129         ...           ...                  71
+Kwawkewlth     1,227   314    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+nitowaning 219      166       4      14          10      78       7        74     19      4          65      3,470       170      7     198       237     39        83       18,250 00
+Moravian     62       58        9      60          5       17       4        30     15      ...        5       500         34       ...   22        5       6         40       8,200 00
+Mud Lake     16       14        3      4           4       2        2        4      1       1          1       163         6        2     6         4       ...       6        1,960 00
+New Credit   42       24        12     22          7       17       11       14     16      1          1       175         27       7     21        20      8         33       8,275 00
+Parry Sound 35        22        ...    6           1       15       ...      15     10      ...        ...     650         25       ...   52        17      8         19       5,400 00
+Port Arthur  17       8         ...    ...         ...     1        ...      3      ...     ...        ...     215         8        ...   ...       9       ...       ...      1,567 00
+Rama         18       10        ...    ...         ...     3        ...      3      4       ...        4       140         5        ...   50        8       3         8        900 00
+Carried
+             805      638       85     245         77      230      75       234    154     14         180     14,846      490      43    579      497      159       417      99,842 00
+forward
+
+27 - ii - 3
+
+
+
+=== EXTRACT FROM HERE (pages 829-833) ===
+<!-- page 829 -->
+                                                                                                                                            Value of
+                                                                                                                                            Live
+Agency.           LIVE STOCK AND POULTRY.                                                                                                   Stock
+                                                                                                                                            and
+                                                                                                                                            Poultry.
+...               Horses.                 Cattle.                           Other Stock.                      Poultry.                      ...
+                            Geldings                                                                                                   Cocks
+                                                   Oxen,         Cows, Young                              Other
+...               Stallion. and      Foals. Bulls.       Steers.               Lambs. Sheep. Boars. Sows.       Turkeys. Geese. Ducks. and ...
+                                                   Work.         Milch. Stock.                            Pigs.
+                            Mares.                                                                                                     Hens.
+
+NORTHWEST ...               ...    ...    ...       ...   ...   ...   ...   ...    ...     ...   ...    ...   ...        ...   ...   ...    $ cts.
+TERRITORIES.
+Norway House 1              20     ...    15        41    45    269   268   ...    ...     ...   ...    ...   ...        ...   ...   ...    9,425 00
+The Pas      7              33     6      5         16    50    118   27    ...    ...     ...   ...    ...   ...        ...   ...   ...    9,129 00
+Total        8              53     6      20        57    95    387   295   ...    ...     ...   ...    ...   ...        ...   ...   ...    18,554 00
+
+NOVA              ...       ...    ...    ...       ...   ...   ...   ...   ...    ...     ...   ...    ...   ...        ...   ...   ...    ...
+SCOTIA.
+Annapolis
+                  ...       1      ...    ...       2     ...   1     ...   ...     ...    ...   ...    ...   3          ...   ...   12     175 00
+County
+Antigonish &
+Guysborough     ...         2      ...    ...       2     3     7     4     ...     ...    ...   ...    ...   ...        ...   ...   60     400 00
+Co's
+Cape Breton
+(Eskasoni)      ...         12     1      ...       ...   8     20    18    8       20     ...   ...    ...   ...        ...   3     100    1,400 00
+County
+Cape Breton
+                ...         ...    ...    ...       ...   ...   ...   ...   ...     ...    ...   ...    ...   ...        ...   ...   10     10 00
+(Sydney) County
+Colchester
+                  ...       1      ...    ...       ...   ...   3     ...   ...     ...    ...   ...    ...   ...        ...   4     25     180 00
+County
+Cumberland
+                  ...       1      ...    ...       ...   ...   3     ...   ...     ...    ...   1      ...   ...        ...   ...   30     110 00
+County
+Digby County     ...        ...    ...    ...       ...   ...   1     ...   ...     ...    ...   ...    ...   ...        ...   ...   10     25 00
+Halifax County ...          3      ...    ...       ...   ...   8     10    ...     ...    ...   ...    ...   ...        ...   ...   150    725 00
+Hants County     ...        4      ...    ...       ...   2     8     20    ...     ...    ...   2      1     ...        ...   ...   50     1,200 00
+Inverness County ...        9      4      ...       1     3     16    8     ...     ...    ...   ...    ...   ...        1     ...   140    990 00
+Kings County     ...        2      ...    ...       ...   2     2     2     ...     ...    ...   ...    1     ...        ...   ...   100    350 00
+Lunenburg
+                 ...        3      ...    1         8     6     14    16    14      20     ...   ...    7     16         12    20    30     900 00
+County
+Pictou County     ...       5      ...    ...       ...   ...   ...   ...   ...    ...     ...   ...    ...   ...        ...   ...   70     300 00
+Queens County     ...       1      ...    ...       2     2     4     4     6      10      ...   ...    7     ...        ...   ...   ...    350 00
+Richmond
+                  2         3      1      ...       ...   7     4     4     ...    ...     ...   ...    ...   ...        ...   ...   42     655 00
+County
+Shelburne
+                  ...       ...    ...    ...       1     ...   ...   ...   ...    ...     ...   ...    ...   ...        ...   ...   ...    40 00
+County
+
+<!-- page 830 -->
+Victoria County   ...   8   ...   2   2   3   25   24   12   30   2   3   12   ...   ...   35   150   1,550 00
+
+<!-- page 831 -->
+                                                                                                                                               Value of
+                                                                                                                                               Live Stock
+Agency.           LIVE STOCK AND POULTRY.
+                                                                                                                                               and
+                                                                                                                                               Poultry.
+...               Horses.                 Cattle.                           Other Stock.                       Poultry.                        ...
+                            Geldings                                                                                                   Cocks
+                                                   Oxen,         Cows, Young                              Other
+...               Stallion. and      Foals. Bulls.       Steers.               Lambs. Sheep. Boars. Sows.       Turkeys. Geese. Ducks. and   ...
+                                                   Work.         Milch. Stock.                            Pigs.
+                            Mares.                                                                                                     Hens.
+...               ...       ...     ...   ...       ...   ...   ...   ...   ...     ...    ...    ...    ...   ...        ...   ...    ...     $ cts.
+Yarmouth
+                  ...       ...     ...   ...       ...   ...   ...   ...   ...     ...    ...    ...    2     ...        ...   ...    ...     ...
+County
+Total             2         55      6     3         18    36    116   111   40      80     2      5      31    19         13    62     979     9,360 00
+
+                  ...       ...     ...   ...       ...   ...   ...   ...   ...     ...    ...    ...    ...   ...        ...   ...    ...     ...
+ONTARIO.
+Alnwick           ...       34      4     1         ...   13    42    29    ...     ...    ...    5      31    4          5     ...    833     6,325 00
+Cape Croker       1         60      6     1         2     25    25    40    30      30     3      25     100   20         15    20     200     10,190 00
+Caradoc           1         264     37    3         ...   97    246   228   ...     ...    2      53     159   393        83    159    6,078   45,450 00
+Chapleau          ...       ...     ...   ...       ...   ...   ...   ...   ...     ...    ...    ...    ...   ...        ...   ...    ...     35 00
+Christian
+                  3         125     10    1         4     50    70    100   ...     ...    25     80     250   40         70    ...    1,000 6,500 00
+Island
+Fort Frances      17        55      6     2         8     3     18    15    ...     ...    ...    ...    ...   ...        ...   ...    ...     3,780 00
+Golden Lake       ...       7       2     2         ...   10    9     7     ...     2      2      8      19    7          4     14     45      500 00
+Gore Bay          11        101     17    2         2     9     56    53    12      21     12     54     184   ...        2     7      418     15,559 00
+Kenora            ...       67      ...   9         13    7     20    18    ...     ...    ...    ...    ...   ...        ...   ...    6       3,396 00
+Lake Simcoe       ...       18      1     1         ...   3     19    20    ...     ...    ...    2      4     5          ...   ...    273     3,002 00
+Manitowaning 19             485     104   23        8     81    308   217   19      57     14     267    899   ...        8     3      3,806   24,750 00
+Moravian     ...            148     36    3         ...   45    75    120   ...     ...    3      80     275   120        25    50     850     19,000 00
+Mud Lake     1              23      6     2         ...   10    42    40    ...     ...    1      11     35    40         41    58     340     5,100 00
+New Credit   1              70      11    2         ...   7     81    60    ...     ...    2      9      22    15         7     18     648     11,524 00
+Parry Sound 6               49      6     9         4     7     67    44    2       3      1      10     25    11         8     10     845     8,093 00
+Port Arthur  ...            16      ...   1         ...   ...   17    15    ...     ...    ...    ...    ...   ...        ...   ...    370     3,770 00
+Rama         ...            10      3     ...       ...   3     5     4     ...     ...    1      6      15    22         18    25     200     1,250 00
+Carried
+             60             1,533   249   62        41    370   1,100 1,010 63      113    66     610    1,988 677        286   364    15,912 168,224 00
+forward
+
+27 - ii - 3 1/2
+
+<!-- page 832 -->
+                                                                                              Value of Real
+                                                                                              and Personal
+                                                                                              Property
+                                                                                    Value of (exclusive of
+Agency.           GENERAL EFFECTS.                                                  Household trust funds in the
+                                                                                    Effects.  hands of
+                                                                                              Government and
+                                                                                              some property
+                                                                                              not on reserves.)
+                  Sail Row                      Shot        Steel
+...                             Canoes. Rifles.       Nets.        Tents. Value of ...         ...
+                  Boats. Boats.                 Guns.       Traps.
+
+NORTHWEST ...           ...    ...      ...    ...    ...   ...    ...   $ cts.     $ cts.     $ cts.
+TERRITORIES.
+Norway House 12         469    155      127    2,060 1,190 2,650 452     23,275 00 17,250 00 238,063 00
+The Pas      ...        22     267      51     233 533 3,030 167         11,015 00 5,900 00 99,113 00
+Total        12         491    422      178    2,293 1,723 5,680 619     34,290 00 23,150 00 337,176 00
+
+NOVA              ...   ...    ...      ...    ...    ...   ...    ...   ...        ...        ...
+SCOTIA.
+Annapolis
+                  ...   ...    6        5      9      5     15     3     130 00     150 00     2,530 00
+County
+Antigonish. and
+Guysborough     2       3      1        ...    30     3     6      ...   160 00     1,700 00   13,820 00
+Counties
+Cape Breton
+(Eskasoni)      5       8      ...      ...    7      7     20     ...   235 00     1,600 00   26,435 00
+County
+Cape Breton
+                ...     ...    ...      ...    2      ...   ...    ...   10 00      450 00     9,020 00
+(Sydney) County
+Colchester
+                  ...   ...    ...      5      14     ...   18     ...   80 00      250 00     3,505 00
+County
+Cumberland
+                  1     4      ...      10     18     ...   45     ...   250 00     400 00     3,610 00
+County
+Digby County     ...    ...    6        9      6      ...   20     3     200 00     300 00     4,545 00
+Halifax County 4        6      2        13     30     8     45     ...   945 00     730 00     12,890 00
+Hants County     1      2      1        6      15     ...   100    ...   250 00     3,000 00   28,660 00
+Inverness County 3      16     ...      3      17     14    96     ...   380 00     740 00     16,080 00
+Kings County     ...    1      3        ...    20     ...   100    1     150 00     500 00     5,860 00
+Lunenburg
+                 ...    7      7        6      6      ...   20     6      275 00    300 00     11,310 00
+County
+Pictou County     5      4     ...      8      4      1     ...    ...    300 00    900 00     11,985 00
+Queens County     ...    4     7        7      6      10    14     6      250 00    275 00     4,280 00
+Richmond
+                  4      8     ...      ...    16     3     50     ...    ...       300 00     24,625 00
+County
+Shelburne
+
+<!-- page 833 -->
+                  1     2     1    1    6     2     75    2     150 00   300 00    2,350 00
+County
+Victoria County   3     10    2    3    18    3     150   ...   500 00   500 00    17,840 00
+Yarmouth
+                  ...   ...   1    4    1     ...   10    1     75 00    250 00    675 00
+County
+Total             29    75    37   80   225   56    784   22    4,340 00 12,645 00 200,020 00
+

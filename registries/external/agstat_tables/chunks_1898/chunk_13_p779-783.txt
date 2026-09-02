@@ -1,0 +1,233 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 715 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province,  Name of        Resident
+                                                     From 6 to 15   From 16 to 20 From 21 to 65 From 65 years
+ Agency or  Superintendent Indian      Under 6 years                                                          Remarks.
+                                                     inclusive.     inclusive.    inclusive.    upwards.
+ Band.      or Agent.      Population.
+...              ...           ...      Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...           ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+ONTARIO.
+Grand River
+Superintendency ...            ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,929    213   286     401   394     195   176     1,084 1,004    85    91      ...
+                 Supt.
+New Credit
+                 Hugh Stewart,
+(Mississaguas)                 246      14    9       38    18      8     7       65    70       9     8       ...
+                 Agent
+Agency
+               Alex.
+Walpole Island
+               McKelvey        805      52    64      85    103     39    43      203   183      16    17      ...
+Agency
+               Agent
+                                                                                                               No
+                                                                                                               details
+                 Adam English
+Sarnia Agency                 468       28    30      30    36      27    23      115   137      10    10      given for
+                 Agent
+                                                                                                               22
+                                                                                                               members.
+                 A. Sinclair
+Caradoc Agency                 1,375    84    91      171   111     62    61      400   338      32    25      ...
+                 Agent
+                A.R.
+Moravian
+                McDonald       354      28    34      46    35      17    19      86    86       2     1       ...
+Agency
+                Agent
+Manitowaning B.W. Ross,
+                               3,643    340   370     427   425     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ounty                                                                          00
+                Agent
+                A.J.
+                                                                                300
+Victoria County Macdonald,       2     8      ...     ...    16     ...   70          300 00      6,725 00
+                                                                                00
+                Agent
+                Rev. A.
+Cape Breton                                                                     250
+                Cameron,         1     3      ...     ...    10     ...   50           1,000 00   9,000 00
+County                                                                          00
+                D.D., Agent
+                                                                                3,157             52,311
+...             Totals           18    38     21      24     203    16    399         5,015 00
+                                                                                50                75
+
+PRINCE
+                ...              ...   ...    ...     ...    ...    ...   ...   ...    ...        ...
+EDWARD
+ISLAND.
+                John O.
+P.E.I.                                                                          320               31,980
+                Arsenault,       3     32     1       ...    14     5     ...          1,420 00
+Superintendency                                                                 00                00
+
+
+
+=== EXTRACT FROM HERE (pages 779-783) ===
+<!-- page 779 -->
+                Superintendent,
+[*No return.]
+
+<!-- page 780 -->
+AGRICULTURE, SEASON 1897
+Province,  Name of
+Agency or  Superintendent GRAIN, ROOTS AND FODDER.
+Band.      or Agent.
+...        ...            Wheat.        Oats.                     Barley.           Corn.            Pease.           Rye.            Buckwheat        Beans.            Potatoes.        Carrots.         Turnips.         Other Roots.     Hay.
+                Bushels         Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels                      Other
+Acres Sown.                                                                                                                                                                                                                Cultivated. Wild.
+                Harvested.      Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.                   Fodder.
+
+                ...             ...   ...        ...   ...        ...       ...     ...     ...      ...      ...     ...    ...      ...    ...       ...      ...     ...     ...       ...    ...       ...   ...        ...        ...   ...       ...   ...
+QUEBEC.
+*Lake of Two    Alex.
+Mountains       Brosseau,       ...   ...        ...   ...        ...       ...     ...     ...      ...      ...     ...    ...      ...    ...       ...      ...     ...     ...       ...    ...       ...   ...        ...        ...   ...       ...   ...
+Agency          Agent
+                Alex.
+Caughnawaga
+                Brosseau,       10    120        700   21,000     48        1,210   300     5,000    60       900     ...    ...      127    1,750     21       521     200     10,000    ...    ...       ...   ...        ...        ...   975       ...   ...
+Agency
+                Agent
+St. Regis       Geo. Long,
+                                70    700        449   10,597     20        224     200     5,300    68       680     ...    ...      37     421       4        80      100     5,000     ...    ...       5     400        10         400   700       175 485
+Agency          Agent
+                Edouard
+Viger Agency    Beaulieu,    ...      ...        ...   ...        ...       ...     ...     ...      ...      ...     ...    ...      ...    ...       ...      ...     ...     ...       ...    ...       ...   ...        ...        ...   ...       ...   ...
+                Agent
+St. Francis     A.D. Comire,                                                                                                                                                                                                                           12
+                             1        25         94    1,109      ...       ...     7       79       ...      ...     ...    ...      19     56        2        9 1/2   38      1,625     ...    ...       ...   ...        ...        ...   32            ...
+Agency          M.D., Agent                                                                                                                                                                                                                            1/2
+Lake St. John   L. Marcotte,                     116                                                                                                                                                                                                         49
+                                54    375              1,398      ...       ...     ...     ...      15       162     ...    ...      19 1/2 218       ...      ...     30 3/4 217        ...    ...       ...   ...        ...        ...   21 1/2 ...
+Agency          Agent                            1/2                                                                                                                                                                                                         1/2
+                Jacob Gagné,
+Maria Agency                    1     12         46    800        2         30      ...     ...      1        15      ...    ...      4      50        1        15      5       600       ...    ...       1/2   150        ...        ...   25        3     30
+                Agent
+Restigouche                                      140                                                                                                                                                                                                         57
+                Jeremie Pitré   ...   ...              2,875      8         172     ...     ...      1 1/4 36         ...    ...      34 3/4 1,115     ...      ...     82 1/4 5,145      ...    ...       1/4   95         ...        ...   145 1/2 70
+Agency                                           1/2                                                                                                                                                                                                         3/4
+                W.J.
+River Désert
+                McCaffrey,    ...     ...        52    1,045      ...       ...     ...     ...      7        125     ...    ...      3      90        1/2      20      23      1,500     ...    ...       2 1/2 700        1          15    57        7     30
+Agency
+                Agent
+Jeune Lorette   A.O. Bastien,
+                              ...     ...        15    350        ...       ...     1       12       1/2      9       ...    ...      1      6         1 1/2 14          5      25        1      45        1     80         2          180   20        15 ...
+Agency          Agent
+Becancour       H. Desilets,
+                              ...     ...        15    500        1/2       50      1/2     15       5        18      ...    ...      12     150       1/4      4        3      200       1/16   5         ...   ...        1/8        20    12        ...   ...
+Agency          M.D., Agent
+Temiscamingue A. McBride,
+                                ...   ...        47    1,093      ...       ...     ...     ...      15       84      ...    ...      ...    ...       ...      ...     13 1/2 1,485      ...    ...       1     31         ...        ...   71        ...   ...
+Agency        Agent
+                                                                                    508              172                              256                               500                                                                            282 652
+...             Totals          136   1,232      1,675 40,767     78 1/2 1,686              10,406            2,029   ...    ...             3,856     30 1/4 663 1/2           26,022    1 1/16 50        10 1/4 1,456     13 1/8     615   2,059
+                                                                                    1/2              3/4                              1/4                               1/2                                                                            1/2 1/4
+
+NEW             ...            ...   ...         ...   ...        ...       ...     ...     ...      ...      ...     ...    ...      ...    ...       ...      ...     ...     ...       ...    ...       ...   ...        ...        ...   ...       ...   ...
+BRUNSWICK.
+Richibucto      W.D. Carter,
+                               19    260         187   4,120      1         10      1       20       2 1/2 40         ...    ...      25 1/2 480       ...      ...     342     18,200    ...    ...       ...   ...        ...        ...   153       10 ...
+Superintendency Supt.
+Fredericton     James Farrell,                                                                                                                                                                                                                               30
+                               1 1/2 20          68    1,674      ...       ...     1/2     10       1 1/4 15         ...    ...      33 1/2 940       4 1/4 91          52 1/3 3,055     ...    ...       1     150        4 3/4      71    97        20
+Superintendency Supt.                                                                                                                                                                                                                                        1/2
+
+<!-- page 781 -->
+                                                                                                                                       394                                                                 30
+...               Totals          20 1/2 280   255   5,794   1     10    1 1/2 30    3 3/4 55    ...   ...   59    1,420   4 1/4 91          21,255   ...   ...   1     150    4 3/4   71    250     30
+                                                                                                                                       1/3                                                                 1/2
+
+NOVA              ...             ...   ...    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   ...   ...      ...   ...   ...   ...    ...     ...   ...     ...   ...
+SCOTIA.
+Annapolis         George Wells,
+                                ...     ...    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   12 1/3 80      ...   ...   ...   ...    ...     ...   3       ...   ...
+County            Agent
+Shelburne         J.J.F. de
+                                 ...    ...    ...   ...     ...   ...   1/2   5     1/8   7     ...   ...   ...   ...     1/2   6     2     71       1/8   8     1/8   13     1/2     16    6       ...   2
+County            Molitor, Agent
+                  Rev. J.J.
+Digby County      Sullivan,    ...      ...    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   5     100      ...   ...   15    ...    ...     10    20      ...   ...
+                  Agent
+Yarmouth          W.H. Whalen,
+                               ...      ...    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   ...   ...      ...   ...   ...   ...    ...     ...   ...     ...   ...
+County            Agent
+                  Chas. E.
+King's County     Beckwith,       ...   ...    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     1/4   6     2     150      ...   ...   ...   ...    ...     ...   ...     ...   ...
+                  Agent
+Queen's and
+                  Charles
+Lunenburg                       ...     ...    8     123     5     75    ...   ...   ...   ...   3     40    2     28      3/4   8     10    190      1/4   40    1 1/2 150    ...     ...   81      15 ...
+                  Harlow, Agent
+Counties
+               Rev. Chas. E.
+Halifax County McManus,      ...        ...    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   ...   ...      ...   ...   ...   ...    ...     ...   ...     ...   ...
+               Agent
+                  A. Wallace,
+Hants County                      ...   ...    10    150     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     1/2   20    10    1,200    ...   ...   1     200    ...     ...   75      25 2
+                  Agent
+Colchester        Thomas B.
+                                  ...   ...    2     (t)     ...   ...   ...   ...   1/8   (t)   ...   ...   ...   ...     ...   ...   2     (t)      ...   ...   ...   ...    ...     ...   10      ...   ...
+County            Smith
+Cumberland        F.A. Rand,
+                                  ...   ...    1 1/2 40      ...   ...   ...   ...   ...   ...   ...   ...   2     10      ...   ...   6     150      ...   ...   ...   ...    ...     ...   2 1/2   6     ...
+County            M.D., Agent
+               Rev. R.
+Pictou County McDonald,        1        15     4     28      ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   4     600      ...   ...   1/4   20     ...     ...   10 1/2 ...    ...
+               Agent
+Antigonish and J.R.
+Guysboro'      McDonald,       2        10     3     (t)     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   ...   ...      ...   ...   1     ...    ...     ...   20      ...   ...
+Counties       Agent
+Richmond       Rev. J. Fraser,
+                               ...      ...    ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   100   625      ...   ...   ...   ...    ...     ...   17      55 ...
+County         Agent
+                  Rev. D.
+Inverness
+                  McIsaac,        ...   ...    15    100     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   24    1,060    ...   ...   2     100    ...     ...   106     40 ...
+County
+                  Agent
+                  A.J.
+Victoria County                   ...   ...    1     50      ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   10    1,000    ...   ...   ...   ...    ...     ...   80      120 2
+                  Macdonald
+                  Rev A.
+Cape Breton
+                  Cameron,        ...   ...    ...   ...     2     80    1     60    ...   ...   ...   ...   ...   ...     1     30    10    1,200    ...   ...   ...   ...    ...     ...   200     ...   ...
+County
+                  D.D., Agent
+                                                                                                                                       197
+...               Totals          3     25     44 1/2 491    7     155   1 1/2 65    1/4   7     3     40    4     38      2     70          6,426    3/8   48    20 7/8 483   1/2     26    631     261 6
+                                                                                                                                       1/3
+
+<!-- page 782 -->
+PRINCE
+                   ...             ...   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+EDWARD
+ISLAND.
+                   John O.
+ P.E.I.
+                   Arsenault,       26   350   52    1,145   ...   ...   2 1/4 50    ...   ...   ...   ...   ...   ...   1/4   4     8     620   ...   ...   1     135   ...   ...   42    33 40
+ Superintendency
+                   Supt.
+[*No return.] [(t)Not given.] 14 - 30
+
+<!-- page 783 -->
+Table, see page 464
+

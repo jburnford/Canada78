@@ -1,0 +1,25 @@
+{"row_type": "headers", "title": null, "columns": ["DR. Capital ($ cts.)", "DR. Interest ($ cts.)", "CR. (description)", "CR. Capital ($ cts.)", "CR. Interest ($ cts.)"]}
+{"page": 985, "row_type": "row", "section": "QUEMICHAN BAND, B.C.", "label": "To Balance on 30th June, 1889", "values": ["11 16", "0 44", "By Balance on 30th June, 1888", "11 16", null], "confidence": "high"}
+{"page": 985, "row_type": "row", "section": "QUEMICHAN BAND, B.C.", "label": null, "values": [null, null, "Interest on invested capital", null, "0 44"], "confidence": "high"}
+{"page": 985, "row_type": "total", "section": "QUEMICHAN BAND, B.C.", "label": null, "values": ["11 16", "0 44", null, "11 16", "0 44"], "confidence": "high"}
+{"page": 986, "row_type": "note", "section": "CHEMAINES BAND, BRITISH COLUMBIA", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 986, "row_type": "row", "section": "CHEMAINES BAND, BRITISH COLUMBIA", "label": "Cost of cart wheels", "values": [null, "43 89", "By Balance on 30th June, 1888", "323 89", null], "confidence": "high"}
+{"page": 986, "row_type": "row", "section": "CHEMAINES BAND, BRITISH COLUMBIA", "label": "Yoke of steers", "values": [null, "80 00", "Fees", "50 00", null], "confidence": "high"}
+{"page": 986, "row_type": "row", "section": "CHEMAINES BAND, BRITISH COLUMBIA", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["5 00", null, "Interest on invested capital", null, "12 96"], "confidence": "high"}
+{"page": 986, "row_type": "row", "section": "CHEMAINES BAND, BRITISH COLUMBIA", "label": "Balance on 30th June, 1889", "values": ["368 89", null, null, null, null], "confidence": "high"}
+{"page": 986, "row_type": "total", "section": "CHEMAINES BAND, BRITISH COLUMBIA", "label": null, "values": ["373 89", "123 89", null, "373 89", "123 89"], "confidence": "high"}
+{"page": 986, "row_type": "row", "section": "CHEMAINES BAND, BRITISH COLUMBIA", "label": "Balance on 30th June, 1889", "values": [null, "110 93", "Balance on 30th June, 1889", "368 89", null], "confidence": "high"}
+{"page": 987, "row_type": "row", "section": "CHILLIHERTZAS BAND, BRITISH COLUMBIA", "label": "To Balance on 30th June, 1889", "values": ["2 14", "0 12", "By Balance on 30th June, 1888", "2 14", null], "confidence": "high"}
+{"page": 987, "row_type": "row", "section": "CHILLIHERTZAS BAND, BRITISH COLUMBIA", "label": null, "values": [null, null, "Interest on invested capital", null, "0 12"], "confidence": "high"}
+{"page": 987, "row_type": "total", "section": "CHILLIHERTZAS BAND, BRITISH COLUMBIA", "label": null, "values": ["2 14", "0 12", null, "2 14", "0 12"], "confidence": "high"}
+{"page": 987, "row_type": "row", "section": "CHILLIHERTZAS BAND, BRITISH COLUMBIA", "label": null, "values": [null, null, "Balance on 30th June, 1889", "2 14", "0 12"], "confidence": "high"}
+{"page": 988, "row_type": "row", "section": "SAINT PETER'S BAND, MANITOBA", "label": "To Balance on 30th June, 1888", "values": ["1,175 77", null, "By Timber dues", "258 00", null], "confidence": "high"}
+{"page": 988, "row_type": "row", "section": "SAINT PETER'S BAND, MANITOBA", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["25 80", null, "Liquor fines", null, "42 05"], "confidence": "high"}
+{"page": 988, "row_type": "row", "section": "SAINT PETER'S BAND, MANITOBA", "label": "Interest", "values": [null, "47 04", "Balance on 30th June, 1889", "943 57", "4 99"], "confidence": "high"}
+{"page": 988, "row_type": "total", "section": "SAINT PETER'S BAND, MANITOBA", "label": null, "values": ["1,201 57", "47 04", null, "1,201 57", "47 04"], "confidence": "high"}
+{"page": 988, "row_type": "row", "section": "SAINT PETER'S BAND, MANITOBA", "label": "To Balance on 30th June, 1889", "values": ["943 57", "4 99", null, null, null], "confidence": "high"}
+{"page": 989, "row_type": "row", "section": "BROKEN HEAD RIVER INDIANS, MANITOBA", "label": "To Balance on 30th June, 1889", "values": ["47 71", "26 88", "By Balance on 30th June, 1888", "47 71", null], "confidence": "high"}
+{"page": 989, "row_type": "row", "section": "BROKEN HEAD RIVER INDIANS, MANITOBA", "label": null, "values": [null, null, "Liquor fines", null, "25 00"], "confidence": "high"}
+{"page": 989, "row_type": "row", "section": "BROKEN HEAD RIVER INDIANS, MANITOBA", "label": null, "values": [null, null, "Interest on invested capital", null, "1 78"], "confidence": "high"}
+{"page": 989, "row_type": "total", "section": "BROKEN HEAD RIVER INDIANS, MANITOBA", "label": null, "values": ["47 71", "26 88", null, "47 71", "26 78"], "confidence": "medium"}
+{"page": 989, "row_type": "row", "section": "BROKEN HEAD RIVER INDIANS, MANITOBA", "label": null, "values": [null, null, "By Balance on 30th June, 1889", "47 71", "26 78"], "confidence": "high"}

@@ -1,0 +1,330 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 715 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province,  Name of        Resident
+                                                     From 6 to 15   From 16 to 20 From 21 to 65 From 65 years
+ Agency or  Superintendent Indian      Under 6 years                                                          Remarks.
+                                                     inclusive.     inclusive.    inclusive.    upwards.
+ Band.      or Agent.      Population.
+...              ...           ...      Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...           ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+ONTARIO.
+Grand River
+Superintendency ...            ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,929    213   286     401   394     195   176     1,084 1,004    85    91      ...
+                 Supt.
+New Credit
+                 Hugh Stewart,
+(Mississaguas)                 246      14    9       38    18      8     7       65    70       9     8       ...
+                 Agent
+Agency
+               Alex.
+Walpole Island
+               McKelvey        805      52    64      85    103     39    43      203   183      16    17      ...
+Agency
+               Agent
+                                                                                                               No
+                                                                                                               details
+                 Adam English
+Sarnia Agency                 468       28    30      30    36      27    23      115   137      10    10      given for
+                 Agent
+                                                                                                               22
+                                                                                                               members.
+                 A. Sinclair
+Caradoc Agency                 1,375    84    91      171   111     62    61      400   338      32    25      ...
+                 Agent
+                A.R.
+Moravian
+                McDonald       354      28    34      46    35      17    19      86    86       2     1       ...
+Agency
+                Agent
+Manitowaning B.W. Ross,
+                               3,643    340   370     427   425     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+        103     ...       ...        7          3          14        7      ...     ...     ...      ...   ...     ...      1       ...    ...
+County          Agent
+                Rev. D.
+Inverness
+                McIsaac,       635      ...       ...        21         3          6         9      ...     ...     1        1     ...     ...      2       ...    ...
+County
+                Agent
+                A.J.
+Victoria County Macdonald,     100      ...       ...        12         3          2         6      ...     ...     ...      1     ...     ...      ...     ...    ...
+                Agent
+                Rev. A.
+Cape Breton
+                Cameron,       1,000    ...       ...        12         5          25        4      ...     ...     ...      ...   ...     ...      ...     ...    ...
+County
+                D.D., Agt.
+                               2,364
+...             Totals                  ...       ...        252        29         105       76     14      7       15       19    ...     ...      3       ...    ...
+                               1/2
+PRINCE
+EDWARD          ...            ...      ...       ...        ...        ...        ...       ...    ...     ...     ...      ...   ...     ...      ...     ...    ...
+ISLAND.
+                John O.
+P.E.I.
+                Arsenault,     512      ...       ...        45         1          3         27     23      ...     24       5     1       ...      2       ...    ...
+Superintendency
+                Supt.
+
+
+
+=== EXTRACT FROM HERE (pages 769-773) ===
+<!-- page 769 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS - Continued.
+
+PERSONALTY OF INDIANS.
+                                                                                                                                                                                              Value of
+Province,       Name of
+                                                                                                                                                                                              Implements
+Agency or       Superintendent AGRICULTURAL IMPLEMENTS, VEHICLES, &c.                                                                                                                                    Remarks
+                                                                                                                                                                                              and
+Band.           or Agent.
+                                                                                                                                                                                              Vehicles.
+                                                                                                                                                                                     Buggies
+                                                Seed                 Land                      Horse Fanning Thrs'g    Tool Other                         Sleighs, Sleighs, Democrat and
+...             ...            Ploughs Harrows.         Cultivators.          Mowers. Reapers.                                             Wagons. Carts.                                    ...          ...
+                                                Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Draught. Driving. Wagons. Road
+                                                                                                                                                                                     Carts.
+
+                ...            ...     ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    ...          ...      ...   ...      ...     ...       ...      $ cts.      ...
+QUEBEC.
+Lake of Two     Alex.
+                                                                                                                                                                                                          No
+Mountains       Brosseau,      ...     ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    ...          ...      ...   ...      ...     ...       ...      ...
+                                                                                                                                                                                                          Return
+Agency          Agent
+                Alex.
+Caughnawaga
+                Brosseau,      245     200      15     30          8       30       8        35     20      16         75     550          140      183   200      50      ...       80       9,547 00    ...
+Agency
+                Agent
+St. Regis       Geo. Long,
+                               97      80       5      62          4       41       16       43     8       12         62     175          58       26    75       40      10        38       7,500 00    ...
+Agency          Agent
+                Edouard
+Viger Agency    Beaulieu,    ...       ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    ...          ...      ...   ...      ...     ...       ...      ...         ...
+                Agent
+St. Francis     A.O. Comire,
+                             3         5        ...    ...         ...     ...      ...      ...    ...     ...        ...    129          13       ...   13       12      ...       8        1,245 00    ...
+Agency          M.D., Agent
+Lake St. John   P.L. Marcotte,
+                               15      16       ...    ...         ...     2        ...      2      2       3          ...    ...          2        11    20       14      15        1        1,930 70    ...
+Agency          Agent
+                Rev. Jacob
+Maria Agency                 3         6        15     ...         1       ...      ...      ...    ...     ...        ...    52           4        5     5        3       ...       ...      200 00      ...
+                Gagné, Agent
+Restigouche     Jeremie Pitré,
+                               36      24       ...    7           4       5        ...      12     12      1          5      8            26       9     24       16      ...       18       3,340 00    ...
+Agency          Agent
+                W.J.
+River Desert
+                McCaffrey,    16       22       ...    ...         ...     1        ...      1      2       ...        ...    170          5        8     20       2       1         6        1,364 00    ...
+Agency
+                Agent
+Jeune Lorette   A.O. Bastien,
+                              5        5        ...    1           ...     ...      ...      1      ...     ...        ...    280          5        8     11       6       2         4        400 00      ...
+Agency          Agent
+Becancour       H. Desilets,
+                               3       2        ...    ...         ...     ...      ...      ...    ...     ...        ...    30           1        ...   1        1       ...       1        130 00      ...
+Agency          M.D., Agent
+Temiscamingue A. McBride,
+                               12      15       ...    ...         2       1        ...      1      2       1          ...    110          2        1     11       3       ...       1        1,089 00    ...
+Agency        Agent
+...             Totals         435     375      35     100         19      80       24       95     46      33         142    1504         256      251   380      147     28        157      26,745 70   ...
+
+NEW        ...                 ...     ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...      ...     ...       ...      ...         ...
+BRUNSWICK.
+Richibucto Wm. D.
+                               16      11       ...    2           ...     ...      ...      ...    ...     ...        6      275          16       1     21       6       ...       2        1,260 00    ...
+
+<!-- page 770 -->
+Superintendency Carter, Supt.
+Fredericton     James Farrell,
+                               30   33    ...   17    3     1     ...   6     ...   ...   ...   260   32    ...   28    23    ...   10    2,172 21   ...
+Superintendency Supt.
+...             Totals        46    44    ...   19    3     1     ...   6     ...   ...   6     535   48    1     49    29    ...   12    3,432 25   ...
+
+NOVA            ...           ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...        ...
+SCOTIA.
+Annapolis       Geo. Wells,
+                              1     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   1     ...   ...   ...   ...   ...   16 00      ...
+County          Agent
+Shelburne       J.J.E. de
+                               2    1     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   1     ...   ...   ...   ...   46.00      ...
+County          Molitor, Agent
+                Rev. J.J.
+Digby County    Sullivan,    ...    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...        ...
+                Agent
+Yarmouth        W.H. Whalen,
+                             ...    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...        ...
+County          Agent
+                Chas. E.
+Kings County    Beckwith,     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   1     25 00      ...
+                Agent
+Queens &
+                Chas. Harlow,
+Lunenburg                     5     3     ...   ...   ...   ...   ...   ...   ...   ...   ...   18    9     3     4     2     ...   ...   188 00     ...
+                Agent
+Counties
+
+<!-- page 771 -->
+                                                                                                                                                                                              Value of
+Province,       Name of
+                                                                                                                                                                                              Implements
+Agency or       Superintendent AGRICULTURAL IMPLEMENTS, VEHICLES, &c.                                                                                                                                    Remarks
+                                                                                                                                                                                              and
+Band.           or Agent.
+                                                                                                                                                                                              Vehicles.
+                                                                                                                                                                                     Buggies
+                                                Seed                 Land                      Horse Fanning Thrs'g    Tool Other                         Sleighs, Sleighs, Democrat and
+...             ...            Ploughs Harrows.         Cultivators.          Mowers. Reapers.                                             Wagons. Carts.                                    ...         ...
+                                                Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Draught. Driving. Wagons. Road
+                                                                                                                                                                                     Carts.
+               Rev. Chas. E.
+Halifax County McManus,      ...       ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    ...          ...      ...   ...      ...     ...       ...      ...        ...
+               Agt.
+                A. Wallace,
+Hants County                   2       1        ...    4           ...     1        ...      ...    ...     ...        10     150          2        ...   5        5       4         4        638 00     ...
+                Agent
+Colchester      Thos. B.
+                               ...     ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    ...          ...      ...   ...      ...     ...       ...      ...        ...
+County          Smith, Agent
+Cumberland      F.A. Rand,
+                               1       1        ...    ...         ...     ...      ...      ...    ...     ...        ...    10           3        ...   2        2       1         2        170 00     ...
+County          M.D., Agent
+                Rev. R.
+Pictou County   McDonald,       1      1        ...    ...         ...     ...      ...      ...    ...     ...        ...    30           4        1     3        1       ...       ...      91 00      ...
+                Agent
+Antigonish &    J.R.
+Guysboro        McDonald,       2      1        ...    ...         ...     ...      ...      ...    ...     ...        ...    ...          1        2     1        ...     ...       ...      35 00      ...
+Counties        Agent
+Richmond        Rev. J. Fraser,
+                                1      ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    32           1        1     4        2       ...       ...      206 00     ...
+County          Agent
+                Rev. D.
+Inverness
+                McIsaac,       6       4        ...    2           ...     ...      ...      1      ...     ...        3      100          1        4     4        1       ...       ...      245 00     ...
+County
+                Agent
+                A.J.
+Victoria County Macdonald,     ...     ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    60           ...      ...   ...      ...     ...       ...      75 00      ...
+                Agent
+                Rev. A.
+Cape Breton
+                Cameron,       4       4        ...    ...         ...     3        ...      ...    ...     ...        ...    ...          1        8     8        1       ...       ...      350 00     ...
+County
+                D.D., Agt.
+...             Totals         25      16       ...    6           ...     4        ...      1      ...     ...        13     400          21       20    31       14      5         7        2,085 00   ...
+
+PRINCE
+                ...            ...     ...      ...    ...         ...     ...      ...      ...    ...     ...        ...    ...          ...      ...   ...      ...     ...       ...      ...        ...
+EDWARD
+ISLAND.
+                John O.
+P.E.I.
+                Arsenault,     11      10       ...    ...         2       ...      ...      ...    1       ...        2      83           5        4     10       3       ...       ...      597 00     ...
+Superintendency
+                Supt.
+
+<!-- page 772 -->
+                                                                                                                                                                 Value
+Province,       Name of                                                                                                                                          of Live
+Agency or       Superintendent LIVE STOCK AND POULTRY.                                                                                                           Stock
+Band.           or Agent.                                                                                                                                        and
+                                                                                                                                                                 Poultry.
+...             ...            Horses.                Cattle.                            Other Stock.                            Poultry.                        ...
+                                                Colts,
+                               Stallions                                                                                                                 Cocks
+                                                Fillies        Oxen,         Cows, Young                 Boars, Sows,
+...             ...            and       Mares.         Bulls.       Steers.               Sheep. Lambs.                    Pigs. Turkeys. Geese. Ducks. and   ...
+                                                and            Work.         Milch. Stock.               Breeding Breeding.
+                               Geldings.                                                                                                                 Hens.
+                                                Foals.
+
+                ...            ...       ...    ...   ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...    ...     $ cts.
+QUEBEC.
+*Lake of Two
+Mountains       ...            ...       ...    ...   ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...    ...     ...
+Agency
+                Alex.
+Caughnawaga                                                                                                                                                      14,692
+                Brosseau,      50        80     90    15        ...   2     350   225    10     8       2        40        160 ...          ...   15     150
+Agency                                                                                                                                                           00
+                Agent
+St. Regis       Geo. Long,                                                                                                                               17,489
+                               84        106    56    18        ...   17    168   154    ...    10      90       132       375 54           71    1658          ...
+Agency          Agent                                                                                                                                    00
+                Edouard
+Viger Agency    Beaulieu,    ...         ...    ...   ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...    ...     ...
+                Agent
+St. Francis     A.O. Comire,                                                                                                                                     1,444
+                             9           9      ...   1         ...   ...   21    8      ...    ...     ...      ...       39    ...        ...   ...    30
+Agency          M.D., Agent                                                                                                                                      00
+Lake St. John   P.L. Marcotte,                                                                                                                                   2,275
+                               12        8      2     2         4     ...   29    30     ...    ...     ...      3         20    ...        ...   ...    85
+Agency          Agent                                                                                                                                            25
+                Rev. Jacob
+Maria Agency                 2           3      1     1         ...   ...   5     6      2      1       ...      2         1     ...        2     ...    20      400 00
+                Gagné, Agent
+Restigouche     Jeremie Pitré,                                                                                                                                   3,370
+                               15        16     6     5         ...   25    24    30     12     8       1        20        ...   ...        ...   ...    200
+Agency          Agent                                                                                                                                            00
+                W.J.
+River Désert                                                                                                                                                     2,208
+                McCaffrey,     19        10     6     1         ...   ...   38    27     15     10      ...      1         15    18         ...   ...    75
+Agency                                                                                                                                                           00
+                Agent
+Jeune Lorette   A.O. Bastien,                                                                                                                                    1,300
+                              7          2      1     1         ...   5     18    8      ...    ...     ...      ...       25    ...        ...   10     350
+Agency          Agent                                                                                                                                            00
+Becancour       H. Desilets,
+                               1         ...    ...   ...       ...   ...   2     4      ...    ...     ...      1         8     ...        ...   ...    17      125 00
+Agency          M.D., Agent
+Temiscamingue A. McBride,                                                                                                                                        2,084
+                               8         7      2     ...       ...   1     13    6      21     ...     ...      ...       5     ...        ...   ...    28
+Agency        Agent                                                                                                                                              00
+                                                                                                                                                                 2,613
+...             Totals         207       241    164   44        4     50    668   498    60     27      13       157       405 393          56    96     2613
+                                                                                                                                                                 25
+
+NEW             ...           ...        ...    ...   ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...    ...     ...
+BRUNSWICK.
+Richibucto                                                                                                                                                       1,350
+                Wm. D. Carter 13         10     ...   2         13    ...   21    33     ...    ...     ...      ...       15    ...        4     2      174
+Superintendency                                                                                                                                                  00
+
+<!-- page 773 -->
+Fredericton     James Farrell,                                                                                                           2,266
+                               20     10    3     ...   ...   6     17    43    ...   ...   ...   11    63    ...      ...   ...   445
+Superintendency Superintendent                                                                                                           50
+                                                                                                                                         3,616
+...             Totals          33    20    3     2     13    6     38    76    ...   ...   ...   11    78    ...      4     2     619
+                                                                                                                                         50
+
+NOVA            ...             ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...      ...   ...   ...   ...
+SCOTIA.
+Annapolis       Geo. Wells,
+                                ...   ...   ...   ...   2     ...   ...   ...   ...   ...   ...   ...   ...   2        ...   ...   6     83 25
+County          Agent
+Shelburne       J.J.E. de
+                               ...    ...   ...   ...   ...   ...   2     2     ...   ...   ...   ...   48    102 00   ...   ...   ...   ...
+County          Molitor, Agent
+                Rev. J.J.
+Digby County    Sullivan,       ...   ...   ...   ...   ...   1     1     1     ...   ...   ...   ...   ...   ...      ...   ...   ...   50 00
+                Agent
+

@@ -1,0 +1,72 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0283-tabular-statement-no-1	TABULAR STATEMENT No. 1	283	287
+01	p0287-tabular-statement-no-2	TABULAR STATEMENT No. 2	287	289
+02	p0289-tabular-statement-no-3	TABULAR STATEMENT No. 3	289	293
+03	p0289-tabular-statement-no-3	TABULAR STATEMENT No. 3	294	298
+04	p0289-tabular-statement-no-3	TABULAR STATEMENT No. 3	299	303
+05	p0289-tabular-statement-no-3	TABULAR STATEMENT No. 3	304	308
+06	p0289-tabular-statement-no-3	TABULAR STATEMENT No. 3	309	313
+07	p0289-tabular-statement-no-3	TABULAR STATEMENT No. 3	314	317
+08	p0394-return-b	RETURN B	394	398
+09	p0394-return-b	RETURN B	399	403
+10	p0394-return-b	RETURN B	404	408
+11	p0394-return-b	RETURN B	409	413
+12	p0394-return-b	RETURN B	414	418
+13	p0394-return-b	RETURN B	419	423
+14	p0394-return-b	RETURN B	424	428
+15	p0394-return-b	RETURN B	429	433
+16	p0394-return-b	RETURN B	434	438
+17	p0394-return-b	RETURN B	439	443
+18	p0394-return-b	RETURN B	444	448
+19	p0394-return-b	RETURN B	449	453
+20	p0454-return-b-cont	RETURN B (cont.)	454	458
+21	p0454-return-b-cont	RETURN B (cont.)	459	463
+22	p0454-return-b-cont	RETURN B (cont.)	464	468
+23	p0454-return-b-cont	RETURN B (cont.)	469	473
+24	p0454-return-b-cont	RETURN B (cont.)	474	478
+25	p0454-return-b-cont	RETURN B (cont.)	479	483
+26	p0454-return-b-cont	RETURN B (cont.)	484	488
+27	p0454-return-b-cont	RETURN B (cont.)	489	493
+28	p0454-return-b-cont	RETURN B (cont.)	494	498
+29	p0454-return-b-cont	RETURN B (cont.)	499	503
+30	p0454-return-b-cont	RETURN B (cont.)	504	508
+31	p0454-return-b-cont	RETURN B (cont.)	509	513
+32	p0514-return-b-cont	RETURN B (cont.)	514	518
+33	p0514-return-b-cont	RETURN B (cont.)	519	523
+34	p0514-return-b-cont	RETURN B (cont.)	524	528
+35	p0514-return-b-cont	RETURN B (cont.)	529	533
+36	p0514-return-b-cont	RETURN B (cont.)	534	538
+37	p0514-return-b-cont	RETURN B (cont.)	539	543
+38	p0514-return-b-cont	RETURN B (cont.)	544	548
+39	p0514-return-b-cont	RETURN B (cont.)	549	553
+40	p0514-return-b-cont	RETURN B (cont.)	554	558
+41	p0514-return-b-cont	RETURN B (cont.)	559	563
+42	p0514-return-b-cont	RETURN B (cont.)	564	568
+43	p0514-return-b-cont	RETURN B (cont.)	569	573
+44	p0574-return-b-cont	RETURN B (cont.)	574	578
+45	p0574-return-b-cont	RETURN B (cont.)	579	583
+46	p0574-return-b-cont	RETURN B (cont.)	584	588
+47	p0574-return-b-cont	RETURN B (cont.)	589	593
+48	p0574-return-b-cont	RETURN B (cont.)	594	598
+49	p0574-return-b-cont	RETURN B (cont.)	599	603
+50	p0574-return-b-cont	RETURN B (cont.)	604	608
+51	p0574-return-b-cont	RETURN B (cont.)	609	613
+52	p0574-return-b-cont	RETURN B (cont.)	614	618
+53	p0574-return-b-cont	RETURN B (cont.)	619	623
+54	p0574-return-b-cont	RETURN B (cont.)	624	628
+55	p0574-return-b-cont	RETURN B (cont.)	629	633
+56	p0634-return-b-cont	RETURN B (cont.)	634	638
+57	p0634-return-b-cont	RETURN B (cont.)	639	643
+58	p0634-return-b-cont	RETURN B (cont.)	644	648
+59	p0634-return-b-cont	RETURN B (cont.)	649	653
+60	p0634-return-b-cont	RETURN B (cont.)	654	658
+61	p0634-return-b-cont	RETURN B (cont.)	659	663
+62	p0634-return-b-cont	RETURN B (cont.)	664	668
+63	p0634-return-b-cont	RETURN B (cont.)	669	673
+64	p0634-return-b-cont	RETURN B (cont.)	674	678
+65	p0634-return-b-cont	RETURN B (cont.)	679	683
+66	p0634-return-b-cont	RETURN B (cont.)	684	688
+67	p0634-return-b-cont	RETURN B (cont.)	689	693
+68	p0694-return-b-cont	RETURN B (cont.)	694	698
+69	p0694-return-b-cont	RETURN B (cont.)	699	703
+70	p0694-return-b-cont	RETURN B (cont.)	704	708

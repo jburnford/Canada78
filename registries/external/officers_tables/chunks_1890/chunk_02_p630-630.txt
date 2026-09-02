@@ -1,0 +1,56 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+QUEBEC.
+                                    Annual    Where
+Name.         Office.                                       Remarks.
+                                    Salary.   Stationed.
+                                                            10 per cent. commission on collections, 2 1/2 per
+Geo. Long     Agent                 ...       St Régis
+                                                            cent. on disbursements. No other remuneration.
+James
+              Agent                 600 00    Maniwaki      $50 a year for office rent.
+Martin
+L.E. Otis     Agent                 400 00    Point Bleue   ...
+A. Brosseau   Agent                 600 00    Caughnawaga   With $60 a year for office rent.
+L.F. Boucher Superintendent         400 00    Betsiamits    With $100 for rent, light and fuel.
+Rev. J.
+              Agent                 50 00     Maria         ...
+Gagné
+S. Porrier    Agent                 200 00    Restigouche   ...
+P.E.
+              Agent                 200 00    Pierreville   ...
+Robillard
+A.A. Hudon Prosecutor               100 00    Roberval      ...
+F.H. O'Brien Prosecutor             100 00    Tadousac      ...
+A. Bastien    Agent                 200 00    Lorette       ...
+                                              Rivière du    5 per cent. commission on land sales up to $2,000,
+N. LeBel      Agent                 150 00
+                                              Loup          2 1/2 on any collections in excess of that amount.
+
+
+=== EXTRACT FROM HERE (pages 630-630) ===
+QUEBEC.
+                                    Annual    Where
+Name.         Office.                                       Remarks.
+                                    Salary.   Stationed.
+                                                            10 per cent. commission on collections, 2 1/2 per
+Geo. Long     Agent                 ...       St Régis
+                                                            cent. on disbursements. No other remuneration.
+James
+              Agent                 600 00    Maniwaki      $50 a year for office rent.
+Martin
+L.E. Otis     Agent                 400 00    Point Bleue   ...
+A. Brosseau   Agent                 600 00    Caughnawaga   With $60 a year for office rent.
+L.F. Boucher Superintendent         400 00    Betsiamits    With $100 for rent, light and fuel.
+Rev. J.
+              Agent                 50 00     Maria         ...
+Gagné
+S. Porrier    Agent                 200 00    Restigouche   ...
+P.E.
+              Agent                 200 00    Pierreville   ...
+Robillard
+A.A. Hudon Prosecutor               100 00    Roberval      ...
+F.H. O'Brien Prosecutor             100 00    Tadousac      ...
+A. Bastien    Agent                 200 00    Lorette       ...
+                                              Rivière du    5 per cent. commission on land sales up to $2,000,
+N. LeBel      Agent                 150 00
+                                              Loup          2 1/2 on any collections in excess of that amount.

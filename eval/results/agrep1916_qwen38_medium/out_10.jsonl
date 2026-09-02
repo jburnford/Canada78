@@ -1,0 +1,65 @@
+{"row_type": "headers", "title": "RETURN A (1) of Officers and Employees of the Department of Indian Affairs on April 1, 1916.", "columns": ["Office.", "Annual Salary, etc.", "Address.", "Bands or Reserves in Agency."]}
+{"page": 346, "row_type": "row", "section": "Blackfoot Agency", "label": "McMaster", "values": ["Asst. Stockman", "240 00", "Gleichen", null], "confidence": "medium"}
+{"page": 346, "row_type": "row", "section": "Blackfoot Agency", "label": "Yellow Fly, Teddy", "values": ["Interpreter", "420 00", "Gleichen", null], "confidence": "high"}
+{"page": 346, "row_type": "row", "section": "Blood Agency", "label": null, "values": ["Blood Agency.", null, null, null], "confidence": "high"}
+{"page": 346, "row_type": "row", "section": "Blood Agency", "label": "Dilworth, W.J.", "values": ["Indian Agent", "1,200 00", "Macleod", "Blood Indians."], "confidence": "high"}
+{"page": 346, "row_type": "row", "section": "Blood Agency", "label": "Faunt, J.T.", "values": ["Clerk", "900 00", "Macleod", null], "confidence": "high"}
+{"page": 346, "row_type": "row", "section": "Blood Agency", "label": "Lancaster, A.W.", "values": ["Asst. Clerk", "600 00", "Macleod", null], "confidence": "high"}
+{"page": 346, "row_type": "note", "section": "Blood Agency", "label": null, "values": ["[*Resigned, March 1916.]", null, null, null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "ALBERTA", "label": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": null, "values": ["Blood Agency - Con.", "$ cts.", null, null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Tupper, T.S., M.D.", "values": ["Medical Officer", "1,500 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Graham, Thos", "values": ["Farmer", "660 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Hilier, E.G.", "values": ["Farmer", "780 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Nash, L.R.", "values": ["Farmer", "660 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Sandgathe, F.J.", "values": ["Farmer", "660 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Baker, H.F.", "values": ["Stockman", "660 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Mountain Horse, Joe", "values": ["Interpreter", "420 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Mills, David", "values": ["Asst. Interpreter", "180 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "White Buffalo, Weasel", "values": ["Mail Carrier", "180 00", "Macleod", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Sister Cayer", "values": ["Matron, Hospital", "180 00", "Stand-Off, Alta.", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Sister Bourret", "values": ["Nurse", "120 00", "Stand-Off, Alta.", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Sister St. Germain", "values": ["Nurse", "120 00", "Stand-Off, Alta.", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Sister Parentau", "values": ["Nurse", "120 00", "Stand-Off, Alta.", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Blood Agency - Con.", "label": "Sister du St. Esprit", "values": ["Cook", "120 00", "Stand-Off, Alta.", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": null, "values": ["Edmonton Agency.", null, null, null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Race, G.H.", "values": ["Indian Agent", "1,200 00", "Edmonton", "Epoch's, Michel's, Alexander's, Joseph's, Paul's."], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Pugh, J.E.", "values": ["Clerk", "840 00", "Edmonton", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Anderson, W.E., M.D.", "values": ["Medical Officer", "Accts. Rendered - Paid from band funds", "Edmonton", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Ferguson, A.A., M.D.", "values": ["Medical Officer", "Accts. Rendered - Paid from band funds", "Morinville", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Park, J., M.D.", "values": ["Medical Officer", "Accts. Rendered - Paid from band funds.", "Edmonton", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Valery, Chas., M.D.", "values": ["Medical Officer", "Accounts rendered", "Edmonton", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Pattison, A.E.", "values": ["Farmer", "600 00", "Wabamun", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "Hope, H.", "values": ["Farmer", "600 00", "Rivière-qui-barre", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Edmonton Agency", "label": "White, J.", "values": ["Interpreter", "540 00", "Edmonton", null], "confidence": "high"}
+{"page": 347, "row_type": "row", "section": "Hobbema Agency", "label": null, "values": ["Hobbema Agency.", null, null, null], "confidence": "high"}
+{"page": 348, "row_type": "row", "section": "Hobbema Agency", "label": "Butlin, Jos.", "values": ["Indian Agent", "1,200 00", "Hobbema", "Ermineskin's, Louis Bull's, Samson's, Montana."], "confidence": "high"}
+{"page": 348, "row_type": "row", "section": "Hobbema Agency", "label": "Mann, G.G.", "values": ["Assistant Agent", "600 00", "Hobbema", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Hobbema Agency", "label": "Mann, Blanche E.", "values": ["Clerk", "720 00", "Hobbema", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Hobbema Agency", "label": "Walker, H.C.R., M.D.", "values": ["Medical Officer", "700 00", "Wetaskiwin", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Hobbema Agency", "label": "Butlin, W.C.", "values": ["Farmer", "720 00", "Hobbema", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Hobbema Agency", "label": "White, John", "values": ["Interpreter", "420 00", "Hobbema", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Hobbema Agency", "label": "Sayer, A.", "values": ["Blacksmith", "600 00", "Hobbema", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Hobbema Agency", "label": "Kyatapen, A.", "values": ["Labourer", "240 00", "Hobbema", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Hobbema Agency", "label": "Rattlesnake, A.", "values": ["Labourer", "240 00", "Hobbema", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": null, "values": ["Peigan Agency.", null, null, null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Gunn, H.A.", "values": ["Indian Agent", "1,200 00", "Brocket", "Peigan Indians."], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Black, Wm.", "values": ["Clerk", "1,000 00", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Gillespie, J.J., M.D.", "values": ["Medical Officer", "500 00", "Pincher Creek", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "La Grandeur, E.", "values": ["Farmer", "780 00", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Clarke, C.H.", "values": ["Stockman", "900 00", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Smith, Percy", "values": ["Interpreter", "420 00", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Henault, Geo.", "values": ["Asst. Stockman", "300 00 - Paid from band funds", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Fornier, L.", "values": ["Asst. Stockman", "300 00 - Paid from band funds", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "La Grandeur, P.", "values": ["Asst. Stockman", "480 00 - Paid from band funds", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Bain, A.", "values": ["Blacksmith", "840 00 - Paid from band funds", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Kelly, M.G.", "values": ["Hospital Nurse", "600 00", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Peigan Agency", "label": "Kelly, Marion", "values": ["Asst. Nurse", "300 00", "Brocket", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": null, "values": ["Saddle Lake Agency.", null, null, null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": "Hughes, C.E.", "values": ["Indian Agent", "1,200 00", "Saddle Lake", "Saddle Lake, James Seenum's, Chipewyan, Beaver Lake."], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": "Gullion, W.E.", "values": ["Clerk and Farmer", "780 00", "Saddle Lake", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": "Hardy, J.C., M.D.", "values": ["Medical Officer", "Accounts rendered", "Vigreville", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": "Sabourin, S., M.D.", "values": ["Medical Officer", "Accounts rendered", "Lac la Biche", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": "Borwick, John", "values": ["Interpreter", "540 00", "Saddle Lake", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": "Borwick, Colin", "values": ["Labourer", "240 00", "Saddle Lake", null], "confidence": "high"}
+{"page": 349, "row_type": "row", "section": "Saddle Lake Agency", "label": "Makokis, Daniel", "values": ["Constable", "240 00 - Paid from acc. 310", null, null], "confidence": "low"}

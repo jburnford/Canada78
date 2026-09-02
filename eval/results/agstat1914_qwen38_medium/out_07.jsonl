@@ -1,0 +1,13 @@
+{"row_type": "headers", "title": "TABLE NO. 5. - PUBLIC BUILDINGS.", "columns": ["Churches.", "Council Houses.", "School Houses.", "Driving Sheds.", "Other Buildings.", "Saw Mills.", "Threshers.", "Engines.", "Other Machinery."]}
+{"page": 159, "row_type": "note", "section": null, "label": "RECAPITULATION", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "Alberta", "values": ["3", "7", "7", null, "30", "4", "5", "7", "367"], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "British Columbia", "values": ["157", "27", "45", "4", "25", "10", "2", "7", "80"], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "Manitoba", "values": ["41", null, "40", "5", "31", "1", "3", "3", "7"], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "New Brunswick", "values": ["8", "5", "9", null, "10", null, null, null, null], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "Nova Scotia", "values": ["7", null, "11", "2", "8", null, null, null, null], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "Ontario", "values": ["92", "30", "87", "41", "76", "3", "6", "4", "18"], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "Prince Edward Island", "values": ["1", "1", "1", "3", "2", null, "1", null, null], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "Quebec", "values": ["13", "5", "20", "2", "18", "1", "7", "1", "3"], "confidence": "high"}
+{"page": 159, "row_type": "row", "section": "RECAPITULATION", "label": "Saskatchewan", "values": ["17", "2", "24", "9", "26", "2", "17", "16", "118"], "confidence": "high"}
+{"page": 159, "row_type": "total", "section": "RECAPITULATION", "label": "Total", "values": ["339", "77", "244", "66", "226", "21", "41", "38", "593"], "confidence": "high"}
+{"page": 159, "row_type": "note", "section": null, "label": "27 - i - 6 1/2", "values": [null, null, null, null, null, null, null, null, null], "confidence": "medium"}

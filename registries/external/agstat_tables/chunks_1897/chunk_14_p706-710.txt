@@ -1,0 +1,247 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 637 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+POPULATION.
+                                                                                                                 Post Office
+Province,        Name of        Resident                 From 6 to 15  From 16 to 20 From 21 to 65
+                                            Under 6                                                From 65 years Address of
+Agency or        Superintendent Indian                   Yrs.,         Yrs.,         Yrs.,
+                                            Years.                                                 Upwards.      Superintendent
+Band.            or Agent.      Population.              Inclusive.    Inclusive.    Inclusive.
+                                                                                                                 or Agent
+...              ...            ...        Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...            ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+ONTARIO
+Grand River
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,703       214   261     385   359      186   143    1,008 978     83    86      Brantford.
+                 Supt
+Missisaguas,     Hugh Stewart,
+                               244         16    5       40    17       10    8      63    72      5     8       Hagersville.
+New Credit       Agent
+                Alex.
+Walpole Island McKelvey         822        54    67      95    97       32    40     225   212     ...   ...     Wallaceburg.
+                Agent
+Western
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 Adam,
+1st Division                    (*)468     24    41      38    34       30    15     125   120     10    9       Sarnia.
+                 English, Agent
+                 A.S.
+2nd Division     McDougall      1,353      81    79      156   128      72    67     392   319     32    27      Melbourne
+                 Agent
+                 John Beattie
+3rd Division                    302        29    23      35    35       11    10     81    76      2     ...     Highgate.
+                 Agent
+Northern
+Superintendency ...             ...        ..
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+sert
+                 McCaffrey,     ...    ...     ...      ...      ...   50 00       450 00     500 00       ...
+Agency
+                 Agent
+Jeune Lorette    Antoine O.
+                                2      ...     ...      ...      ...   25 00       270 00     150 00       ...
+Agency           Bastien, Agent
+Becancour        H. Desilets,
+                                 ...   ...     ...      ...      ...   ...         25 00      375 00       ...
+Agency           M.D., Agent
+Temiscamingue A. McBride,
+                                 ...   2       ...      ...      ...   690 00      501 00     ...          ...
+Agency        Agent
+...              Totals          6     5       ...      ...      2     2,750 00    5,816 00   4,410 00     ...
+
+NEW             ...              ...   ...     ...      ...      ...   ...         ...        ...          ...
+BRUNSWICK.
+North-eastern   W.D. Carter,
+                                 1     ...     ...      ...      ...   180 00      175 00     200 00       ...
+Superintendency Supt.
+South-western
+Superintendency ...              ...   ...     ...      ...      ...   ...         ...        ...          ...
+-
+                 James Farrell,
+1st Division                    3      ...     ...      ...      ...   ...         350 00     ...          ...
+                 Supt.
+                 James Farrell,
+2nd Division                    2      ...     ...      ...      ...   ...         55 00      55 00        ...
+                 Supt.
+
+
+
+=== EXTRACT FROM HERE (pages 706-710) ===
+<!-- page 706 -->
+...   Totals   6   ...   ...   ...   ...   180 00   580 00   255 00   ...
+
+<!-- page 707 -->
+SOURCES AND VALUE OF INCOME.
+                                         Government
+                               Value of                                The Estimated
+                                         Distribution         Received                              Total
+Province,       Name of        Farm                                    value of Fish and Earned by
+                                         to Destitute Wages from                                    Income
+Agency or       Superintendent Products                                Meat used for     other               Remarks.
+                                         of Food,     Earned. Land                                  of
+Band.           or Agent.      including                               food is included Industries.
+                                         Clothing, &          Rentals.                              Indians.
+                               Hay.                                    in these Columns.
+                                         c.
+                                                                       Earned Earned
+...             ...            ...       ...          ...     ...      by        by      ...        ...      ...
+                                                                       Fishing. Hunting.
+QUEBEC.         ...            $ cts.    $ cts.       $ cts. $ cts.    $ cts.    $ cts.  $ cts.     $ cts.   ...
+Lake of Two     Alex.
+                                                                                                    9,280
+Mountains       Brosseau,      ...       50 35        ...     285 00 ...         ...     8,945 00            ...
+                                                                                                    35
+Agency          Agent
+                Alex.
+Caughnawaga                    10,760                                                               18,920
+                Brosseau,                50 50       ...     610 00    ...     ...      7,500 00           ...
+Agency                         00                                                                   50
+                Agent
+St. Regis       George Long,                         1,500                                          24,948
+                             8,422 80 ...                    ...       310 20 320 00    14,395 00          ...
+Agency          Agent                                00                                             00
+                N. LeBel,                            1,350                                          3,548
+Viger Agency                   ...       166 00              224 17    38 00   305 00   1,465 00             ...
+                Agent                                00                                             17
+St. Francis     W.C. Boucher,                                                                       31,463
+                              1,200 00 ...           ...     263 59    ...     ...      30,000 00          ...
+Agency          Agent                                                                               59
+Lake St. John   P.L. Marcotte, 42,346                5,473             1,076   17,565               66,807
+                                         162 50              ...                        185 00             ...
+Agency          Agent          40                    00                00      00                   90
+                Rev. Jacob                                                                          1,535
+Maria Agency                 400 00      50 00       900 00 ...        10 00   100 00   75 00                ...
+                Gagné, Agent                                                                        00
+                V.J.A.
+Restigouche                                                                                         1,175
+                Venner, M.D., ...        125 00      ...     ...       200 00 350 00    500 00               ...
+Agency                                                                                              00
+                Agent
+                W.J.
+River Desert                                                                                        6,772
+                McCaffrey,     1,080 00 28 00        720 00 138 00     25 00   624 00   4,157 91             ...
+Agency                                                                                              91
+                Agent
+Jeune Lorette   Antoine O.                           7,500                                          35,727
+                               980 00    42 00               125 11    80 00   1,000 00 26,000 00          ...
+Agency          Bastien, Agent                       00                                             11
+Becancour       H. Desilets,                                                                        1,952
+                               375 00    392 42      500 00 ...        25 00   160 00   500 00               ...
+Agency          M.D., Agent                                                                         42
+Temiscamingue A. McBride,                                                                           4,462
+                               2,880 00 ...          ...     182 00    ...     ...      1,400 00             ...
+Agency        Agent                                                                                 00
+                               68,444                17,943          1,764     20,424               206,592
+...             Totals                   1,066 77           1,827 87                    95,122 91           ...
+                               20                    00              20        00                   95
+
+NEW             ...            ...       ...         ...     ...       ...     ...      ...         ...      ...
+BRUNSWICK.
+North-eastern   W.D. Carter,                         4,425             5,050                        20,123
+                               5,525 00 1,023 88             150 00            475 00   3,475 00           ...
+Superintendency Supt.                                00                00                           88
+
+<!-- page 708 -->
+South-western
+Superintendency ...            ...       ...       ...     ...     ...     ...      ...        ...     ...
+-
+                 James Farrell,                    5,750                                       12,251
+1st Division                    848 00   468 06            ...     60 00   275 00   4,850 00          ...
+                 Supt.                             00                                          06
+                 James Farrell,                    9,000                                       13,107
+2nd Division                    1,667 00 440 70            ...     ...     1,200 00 800 00            ...
+                 Supt.                             00                                          70
+                                                   19,175          5,110                       45,482
+...              Totals        8,040 00 1,932 64          150 00           1,950 00 9,125 00          ...
+                                                   00              00                          64
+
+<!-- page 709 -->
+POPULATION.
+ Province,  Name of        Resident                      From 6 to 15   From 15 to 20 From 21 to 65
+                                                                                                    From 65 Yrs.
+ Agency or  Superintendent Indian     Under 6 Yrs.       Yrs.,          Yrs.,         Yrs.,                      Remarks.
+                                                                                                    Upwards.
+ Band.      or Agent.      Population                    Inclusive.     Inclusive.    Inclusive.
+...               ...             ...      Male. Female. Male. Female. Male. Female. Male. Female. Male. Female ...
+
+NOVA              ...             ...      ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+SCOTIA.
+Annapolis         Geo. Wells,
+                                  71       3     6       6     10       4     4      16    20      1     1       ...
+County            Agent
+Shelburne         J.J.E. de
+                                  63       3     5       9     7        7     3      14    12      1     2       ...
+County            Molitor
+                  Rev. J.J.
+Digby County                      112      12    10      14    7        2     4      28    28      2     5       ...
+                  Sullivan
+Yarmouth
+                  Geo. R. Smith 86         4     15      11    7        ...   ...    27    22      ...   ...     ...
+County
+                  Chas. E.
+King's County                     73       7     7       6     10       6     6      13    13      2     3       ...
+                  Beckwith
+Queen's and
+                  Rev. Thos. J.
+Lunenburg                         160      112   14      18    12       12    11     35    29      5     12      ...
+                  Butler
+Counties.
+                  Rev. D.
+Halifax County                    121      12    8       11    14       4     6      26    28      6     6       ...
+                  O'Sullivan
+Hants County      A. Wallace      93       8     11      8     9        5     1      25    25      1     ...     ...
+Colchester        Thos. B.
+                                  96       10    7       7     13       2     6      22    26      3     ...     ...
+County            Smith
+Cumberland        F.A. Rand,
+                                  102      ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+County            M.D.
+                  Rev. R.
+Pictou County                     187      12    9       21    19       7     18     47    48      3     3       ...
+                  McDonald
+Antigonish &
+                  J.R.
+Guysboro'                         130      7     11      7     17       8     8      20    21      19    12      ...
+                  McDonald
+Counties
+Richmond          Rev. John
+                                  124      13    13      19    13       8     6      23    26      2     1       ...
+County            Fraser
+Inverness         Rev. D.
+                                  130      12    12      17    16       3     6      31    32      ...   1       ...
+County            McIsaac
+                  A.J.
+Victoria County                   99       9     10      9     14       7     5      15    25      2     3       ...
+                  Macdonald
+                  Rev. A.                                                                                        *Details
+Cape Breton
+                  Cameron,        (*)243   20    20      22    20       20    23     42    53      ...   ...     of 23 not
+County
+                  D.D.                                                                                           given
+...               Totals          1,890    144   158     185   188      95    107    384   408     47    49      ...
+
+PRINCE
+                  ...             ...      ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+
+<!-- page 710 -->
+EDWARD
+ISLAND.
+P.E.I.
+                ...   303   24   36   34   25   14   10   70   69   11   10   ...
+Superintendency
+

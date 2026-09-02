@@ -1,0 +1,77 @@
+# Column-semantics map — DIA School Statements, 1896-1930 (KG_BUILD_PLAN §2)
+#
+# Keyed by school (see §1.4).  246 distinct printed labels, and unlike the
+# agricultural tables they are nearly stable across the 35 volumes: roll,
+# attendance, the standards pupils were graded in, the grant, and — in the
+# industrial schools — the trades taught.
+#
+# The religion and age columns that also appear in these result directories
+# belong to census header blocks bound into the same chunks; they are gated out
+# upstream by the header class, not mapped here.
+
+family: school
+entity_type: school
+
+series:
+
+  # --- enrolment and attendance -------------------------------------------
+  - id: roll_boys
+    label: Number on roll, boys
+    unit: pupils
+    match: '^number on roll boys$|^boys on roll$|^roll boys$|^boys$'
+  - id: roll_girls
+    label: Number on roll, girls
+    unit: pupils
+    match: '^number on roll girls$|^girls on roll$|^roll girls$|^girls$'
+  - id: roll_total
+    label: Number on roll, total
+    unit: pupils
+    match: '^number on roll total$|^total on roll$|^roll total$|^total number on roll$'
+  - id: average_attendance
+    label: Average attendance
+    unit: pupils
+    match: '^average attendance$|^averageattendance$|^daily average attendance$'
+  - id: days_taught
+    label: Days taught
+    unit: days
+    match: '^(number of )?days (taught|open)$'
+
+  # --- standards / grades -------------------------------------------------
+  # printed as roman numerals to 1928, then as "Grade I"; the same ladder, so
+  # one series per rung with the numeral normalised
+  - id: standard_{n}
+    label: Pupils in standard
+    unit: pupils
+    match: '^(standard|grade)s? (?P<n>[ivxl]+)$'
+  - id: standard_{n}
+    label: Pupils in standard
+    unit: pupils
+    match: '^(standard|grade)s? (?P<n>\d+)$'
+
+  # --- money --------------------------------------------------------------
+  - id: grant_amount
+    label: Appropriation for salary or yearly grant
+    unit: dollars
+    match: '^(appropriation )?for salary (or|of) yearly grant( cts)?$|^appropriation for yearly grant( cts)?$|^yearly grant( cts)?$|^grant( fund paid| paid)?( cts)?$|^annual salary( c| cts)?$|^salary( or fund paid)?( c| cts)?$'
+  - id: per_capita_grant
+    label: Per capita grant
+    unit: dollars
+    match: '^per capita( grant)?( cts)?$'
+
+  # --- trades taught in the industrial schools ----------------------------
+  # each column counts the pupils learning that trade
+  - id: trade_{trade}
+    label: Pupils learning a trade
+    unit: pupils
+    match: '^(industries |trades |industry )?(?P<trade>carpenter|carpentry|tailor|tailoring|printer|printing|blacksmith|blacksmithing|shoemaker|shoemaking|painter|painting|baker|baking|tinsmith|harnessmaker|harness maker|engineer|farmer|farming|gardener|gardening|butcher|miller|mason|stockman|dairying|sewing|knitting|cooking|laundry|housework|general housework)$'
+  - id: trade_{trade}
+    label: Pupils learning a trade
+    unit: pupils
+    # 1896-1900 OCR drops letters out of the trade headings
+    match: '^(industries |trades )?(?P<trade>shoemak|blacksm|harnesm|carpent|tailo|print|paint|tinsm|bak)\w* ?\w?$'
+
+ignore:
+  - '^from what fund( paid)?$|^fund$'
+  - '^names? of (school|teacher|principal)$|^teacher$|^principal$|^denomination$'
+  - '^school$|^schools$|^reserve$|^agency$|^province$|^band$|^remarks?$|^location$'
+  - '^\.+$|^$'

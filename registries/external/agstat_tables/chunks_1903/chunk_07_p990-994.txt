@@ -1,0 +1,291 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+REALTY OF INDIANS
+                                   PUBLIC BUILDINGS, PROPERTY OF THE
+Agency          LAND                                                                PRIVATE FENCING AND BUILDINGS
+                                   BAND
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log
+                pasturage pasturage
+
+                Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+ONTARIO
+Grand River
+Superintendency 23,974   10,722    14        1      11      9      1         ...    41,696 1          16         204       370
+- Six Nations
+Parry Sound
+                1,582    ...       7         1      6       1      7         ...    1,582   ...       ...        23        125
+Superintendency
+New Credit
+(Mississaguas) 1,050     3,450     2         1      1       3      3         ...    5,275   ...       3          46        21
+Agency
+Walpole Island
+               8,200     3,071     2         1      3       1      3         4      3,071   ...       ...        86        92
+Agency
+Sarnia Agency 2,259      1,562     4         2      3       1      1         ...    4,972 1           3          119       12
+Caradoc Agency 4,309     10,637    ...       3      6       1      13        ...    16,071 ...        7          153       154
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        59
+Agency
+Manitowaning
+                777      3,409     6        3       7       2      ...       ...    1,600   ...       ...        13        174
+Agency
+Gore Bay
+                138      112       2        2       1       ...    ...       ...    849     ...       ...        9         100
+Agency
+Thessalon
+                350      264       3        ...     5       ...    ...       ...    264     ...       ...        28        57
+Agency
+Sault Ste. Marie
+                 1,566   2,684     6        1       3       ...    1         ...    2,480   ...       ...        34        122
+Agency
+Port Arthur
+                827      560       3        2       6       1      2     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ ...        77        2
+Agency
+Lower Fraser
+             3,392     3,774       42     5      ...     ...    ...       ...    4,779    ...      ...        757       62
+Agency
+Williams    59,807
+                       1,610 3/4   21     ...    ...     ...    ...       ...    22,141 ...        ...        5         452
+Lake Agency 1/2
+Kamloops -
+Okanagan     238,692   9,800       32     5      ...     ...    ...       ...    75,837 ...        ...        123       866
+Agency
+Kootenay
+             38,806    1,190       5      ...    ...     ...    ...       ...    1,190    ...      ...        18        129
+Agency
+*Northwest
+Coast        ...       ...         ...    ...    ...     ...    ...       ...    ...      ...      ...        ...       ...
+Agency
+Babine And
+Upper
+             20,702    389         ...    ...    ...     ...    ...       ...    638      ...      ...        259       466
+Skeena River
+Agency
+             367,467
+Total                  19,956 3/4 104     10     11      ...    ...       ...    109,888 ...       ...        2,135     1,987
+             1/2
+
+             ...       ...         ...    ...    ...     ...    ...       ...    ...      ...      ...        ...       ...
+MANITOBA
+Clandeboye
+             47,303    379         6      ...    8       ...    ...       3      2,581    ...      ...        3         315
+Agency
+Portage la
+Prairie      18,618    542         1      1      3       ...    6         ...    2,750    ...      ...        ...       42
+Agency
+
+
+
+=== EXTRACT FROM HERE (pages 990-994) ===
+<!-- page 990 -->
+Manitowapah
+            35,116       242         8     ...   10    ...   10    1     168      ...   ...   ...   238
+Agency
+Rat Portage
+(Buffalo Bay
+             200         3           ...   ...   ...   ...   ...   ...   ...      ...   ...   ...   7
+Band)
+Agency
+Berens River
+             13,214      2,842       9     2     11    ...   ...   ...   349      ...   ...   ...   351
+Agency
+The Pas       16,328
+                         61 1/2      ...   1     3     ...   8     ...   67 1/2   ...   ...   ...   176
+Agency        1/2
+               130,779                                                   5,915
+Total                    4,069 1/2   24    4     36    ...   24    4              ...   ...   3     1,129
+               1/2                                                       1/2
+[*No returns received]
+
+<!-- page 991 -->
+Agency                 PRIVATE BUILDINGS
+                                        Horse     Driving   Cattle    Pig Store    Root   Milk   Corn
+...                    Shanties Barns
+                                        Stables   Houses    Stables   Sties Houses Houses Houses Cribs
+
+                       ...     ...      ...       ...       ...       ...   ...   ...     ...    ...
+NEW BRUNSWICK
+Richibucto
+                       58      67       45        ...       50        13    ...   44      2      ...
+Superintendency
+Fredericton
+                       28      18       34        2         17        32    ...   8       8      ...
+Superintendency
+Total                  86      85       79        2         67        45    ...   52      10     ...
+
+PRINCE EDWARD          ...     ...      ...       ...       ...       ...   ...   ...     ...    ...
+ISLAND
+Prince Edward Island
+                       3       27       23        ...       23        20    4     68      6      ...
+Superintendency
+
+                       ...     ...      ...       ...       ...       ...   ...   ...     ...    ...
+NOVA SCOTIA
+Annapolis County       6       1        ...       ...       1         1     ...   ...     ...    ...
+Shelburne County       1       4        ...       ...       ...       2     ...   ...     ...    ...
+Digby County           5       5        ...       ...       3         ...   ...   ...     ...    ...
+*Yarmouth County       ...     ...      ...       ...       ...       ...   ...   ...     ...    ...
+King's County          3       2        ...       ...       2         1     ...   ...     ...    ...
+Queen's County         2       2        ...       ...       ...       3     ...   ...     ...    ...
+Halifax County         12      7        ...       ...       ...       ...   ...   ...     ...    ...
+Hants County           2       7        1         ...       7         ...   ...   ...     ...    ...
+Colchester County      ...     3        ...       ...       ...       ...   ...   ...     ...    ...
+Cumberland County      6       4        4         ...       3         2     ...   ...     ...    ...
+Pictou County          1       7        ...       ...       ...       ...   ...   ...     ...    ...
+Antigonish and
+                       8       15       ...       ...       ...       ...   5     ...     ...    ...
+Guysborough Counties
+Richmond County        6       8        ...       ...       ...       ...   ...   ...     1      ...
+Inverness County       7       15       ...       ...       ...       ...   ...   ...     3      ...
+Victoria County        3       8        ...       ...       ...       ...   ...   ...     ...    ...
+Cape Breton County     10      ...      1         1         ...       ...   ...   ...     ...    ...
+Lunenburg County       1       7        ...       ...       ...       3     ...   ...     ...    ...
+Total                  73      95       6         1         16        12    5     ...     4      ...
+
+<!-- page 992 -->
+Agency                      PRIVATE BUILDINGS
+                                             Horse     Driving   Cattle    Pig Store    Root   Milk   Corn
+...                         Shanties Barns
+                                             Stables   Houses    Stables   Sties Houses Houses Houses Cribs
+
+                            ...     ...      ...       ...       ...       ...   ...   ...     ...    ...
+BRITISH COLUMBIA
+Cowichan Agency             24      211      4         ...       70        ...   ...   ...     ...    ...
+West Coast Agency           397     ...      ...       ...       ...       ...   ...   ...     ...    ...
+Kwawkewlth Agency           168     ...      ...       ...       1         1     ...   ...     ...    ...
+Lower Fraser Agency         301     300      280       1         169       91    8     51      1      ...
+Williams Lake Agency        ...     ...      184       ...       ...       34    ...   19      ...    ...
+Kamloops - Okanagan
+                            18      24       607       2         105       74    93    295     6      ...
+Agency
+Kootenay Agency             86      25       20        ...       17        ...   ...   22      ...    ...
+*Northwest Coast Agency     ...     ...      ...       ...       ...       ...   ...   ...     ...    ...
+Babine and Upper Skeena
+                            295     ...      59        ...       52        ...   18    113     ...    ...
+River Agency
+Total                       1,289   560      1,154     3         514       200   119   500     7      ...
+
+                            ...     ...      ...       ...       ...       ...   ...   ...     ...    ...
+MANITOBA
+Clandeboye Agency           ...     ...      5         ...       209       9     72    11      8      ...
+Portage la Prairie Agency   24      ...      33        ...       28        ...   6     3       3      ...
+Manitowapah agency          33      ...      90        ...       185       9     64    19      12     ...
+Rat Portage (Buffalo Bay
+                            ...     ...      2         ...       1         ...   ...   ...     ...    ...
+Band) Agency
+ Berens River Agency        7       ...      4         ...       122       ...   46    ...     ...    ...
+ The Pas Agency             ...     ...      2         ...       45        ...   20    ...     2      ...
+ Total                      74      ...      136       ...       590       18    208   33      25     ...
+[*No returns received]
+
+<!-- page 993 -->
+PERSONALITY OF INDIANS
+ Agency       AGRICULTURAL IMPLEMENTS, VEHICLES, &c
+                                     Seed               Land                   Horse Farming Threshing Tool
+...                Ploughs Harrows          Cultivators         mowers reapers
+                                     Drills             Rollers                Rakes Mills   Machines Chests
+
+NEW                ...    ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+BRUNSWICK
+Richibucto
+                   27     22         ...   9          2      6       ...     4     1        1         12
+Superintendency
+Fredericton
+                   33     36         ...   18         6      1       ...     9     4        ...       ...
+Superintendency
+Total              60     58         ...   27         8      7       ...     13    5        1         12
+
+PRINCE
+                   ...    ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+EDWARD
+ISLAND
+Prince Edward
+Island             10     12         ...   2          2      ...     ...     ...   1        1         5
+Superintendency
+
+                   ...    ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+NOVA SCOTIA
+Annapolis County 1        1          ...   ...        ...    ...     ...     ...   ...      ...       ...
+Shelburne County 1        ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+Digby County      ...     ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+*Yarmouth County ...      ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+King's County     1       ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+Queen's County    1       1          ...   ...        ...    ...     ...     ...   ...      ...       ...
+Halifax County    ...     ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+Hants County      2       1          5     ...        1      ...     ...     1     ...      ...       7
+Colchester County ...     ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+Cumberland
+                  1       1          ...   ...        ...    ...     ...     ...   ...      ...       ...
+County
+Antigonish and
+Guysborough        2      ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+Counties
+Richmond County    2      1          ...   ...        ...    ...     ...     ...   ...      ...       ...
+Inverness County   7      5          ...   2          ...    2       ...     1     ...      ...       2
+Victoria County    3      2          ...   ...        ...    ...     ...     ...   ...      ...       ...
+
+<!-- page 994 -->
+Agency               AGRICULTURAL IMPLEMENTS, VEHICLES, &c
+                                       Seed               Land                   Horse Farming Threshing Tool
+...                  Ploughs Harrows          Cultivators         mowers reapers
+                                       Drills             Rollers                Rakes Mills   Machines Chests
+Cape Breton
+                     ...     ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+County
+Lunenburg County 4           3         ...   ...        1      ...     ...     ...   ...      ...       ...
+Total            27          17        5     3          2      2       ...     2     ...      ...       9
+
+BRITISH           ...        ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+COLUMBIA
+Cowichan Agency 153          90        ...   1          3      35      9       20    5        12        ...
+West Coast Agency ...        ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+Kwawkewlth
+                  ...        ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+Agency
+Lower Fraser
+                     112     95        1     4          ...    24      3       4     ...      2         ...
+Agency
+Williams Lake
+                     162     72        ...   3          79     46      4       29    15       1         ...
+Agency
+Kamloops -
+                     500     351       3     9          274    119     20      98    26       4         ...
+Okanagan Agency
+Kootenay Agency      84      25        ...   ...        ...    30      4       19    2        1         ...
+*Northwest Coast
+                     ...     ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+Agency
+Babine and Upper
+Skeena River         ...     ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+Agency
+Total                1,011   633       4     17         356    254     40      170   48       20        ...
+
+                     ...     ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+MANITOBA
+Clandeboye
+                     64      51        ...   ...        ...    51      ...     45    ...      ...       10
+Agency
+Portage la Prairie
+                     30      16        6     ...        ...    16      7       12    3        ...       3
+Agency
+Manitowapah
+                     27      22        ...   ...        ...    33      ...     29    ...      ...       9
+Agency
+Rat Portage
+(Buffalo Bay Band) 2         ...       ...   ...        ...    ...     ...     ...   ...      ...       ...
+Agency
+Berens River
+                   48        29        ...   ...        ...    ...     ...     ...   ...      ...       9
+Agency
+ The Pas Agency      16      22        ...   ...        ...    2       ...     2     ...      ...       3
+ Total               187     140       6     ...        ...    102     7       88    3        ...       34
+[*No returns received]
+

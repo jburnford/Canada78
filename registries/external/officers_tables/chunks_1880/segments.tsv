@@ -1,0 +1,6 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0170-return-a-1	RETURN A (1)	170	171
+01	p0172-return-a-2	RETURN A (2)	172	174
+02	p0174-return-a-2-nova-scotia	RETURN A (2) — Nova Scotia	174	174
+03	p0175-return-a-2-new-brunswick	RETURN A (2) — New Brunswick	175	175
+04	p0175-return-a-2-prince-edward-islan	RETURN A (2) — Prince Edward Island	175	176

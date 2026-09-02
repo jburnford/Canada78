@@ -1,0 +1,139 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+MANITOBA.
+                                                                                  School
+Assabaska       Rainy River Rat Portage      R. Grant   Episcopal        300 00                 7       12       19      11          16          3        ...      ...      ...      ...       ...         ...         ...      ...      ...       ...
+                                                                                  appropriation
+                Beren's                      Miss S.E.                            School
+Beren's River               Beren's River              Methodist         300 00                 18      15       33      16          14          9        5        3        2        ...       ...         ...         ...      ...      ...       ...
+                River                        Batty                                appropriation
+                                             Louis                                School
+Big Eddy        Treaty 5    Pas                       Episcopal          300 00                 18      13       31      24          19          6        4        2        ...      ...       ...         ...         ...      ...      ...       ...
+                                             Cochrane                             appropriation
+                                             M.B.                                 School
+Black River     Treaty 5    Beren's River               Episcopal        300 00                 11      14       25      10          13          7        5        ...      ...      ...       ...         ...         ...      ...      ...       ...
+                                             Edwards                              appropriation
+Broken Head                                  A.K.                                 School
+                Treaty 1    Clandeboye                  Undenominational 300 00                 12      5        17      4           13          1        1        2        ...      ...       ...         ...         ...      ...      ...       ...
+River                                        Black                                appropriation
+                                             John                                 School
+Chimawawin      Cumberland Pas                          Episcopal        300 00                 18      10       28      19          12          10       6        ...      ...      ...       ...         ...         ...      ...      ...     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+           8      6        14      12          1           3        4        4        2        ...      ...          ...     ...         ...         ...     ...      ...    ...    ...          ...
+(Sioux)           Cap       Saskatoon Tucker                                  appropriation
+                  James    Saddle        Annie                                School
+White Fish Lake                                   Methodist        300 00                   7      12       19      8           6           5        4        3        1        ...      ...          ...     ...         ...         ...     ...      ...    ...    ...          ...
+                  Seenum's Lake          Whitelaw                             appropriation
+White Whale                 Edmonton C.E.                                     School
+                  Paul's                             Methodist     300 00                   22     17       39      8           39          ...      ...      ...      ...      ...      ...          ...     ...         ...         ...     ...      ...    ...    ...          ...
+Lake                        District Somerset                                 appropriation
+
+
+
+=== EXTRACT FROM HERE (pages 463-467) ===
+<!-- page 463 -->
+Table, see page 268
+
+<!-- page 464 -->
+                                                               NUMBER                             CLASSES
+...          ...        ...         ...           ...          ON     ...    ...      ...         OF      ...         ...      ...      ...      ...
+                                                               ROLL.                              STUDY.
+                                                                              Total    Average
+                                                  From what                                        Standard   Standard Standard Standard Standard General
+School.      Agency.    Teacher.    Denomination.              Boys.   Girls. Number Daily
+                                                  Fund paid.                                       1.         2.       3.       4.       5.       Remarks.
+                                                                              on Roll. Attendance.
+
+OUTSIDE
+OF           ...        ...         ...           ...          ...     ...   ...      ...         ...         ...     ...      ...      ...      ...
+TREATY
+LIMITS.
+                                                                                                                                                 Special
+Albany                                            School
+             ...        ...         Episcopal                   17     26    43       29          ...         ...     ...      ...      ...      grant of
+Mission                                           appropriation
+                                                                                                                                                 $200.
+Christ       Peace                                                                                                                               Special
+                        Frank                     School
+Church       River                  Episcopal                   8      6     14       10          10          4       ...      ...      ...      grant of
+                        Giles                     appropriation
+Mission      District                                                                                                                            $200.
+            Athabasca
+            and                                                                                                                                  Special
+Fort                  A.J.                        School
+            Mackenzie               Episcopal                   4      7     11       6           ...         ...     ...      ...      ...      grant of
+Chippewayan           Warwick                     appropriation
+            River                                                                                                                                $200.
+            District
+            East Main
+            Coast,                                                                                                                               Special
+                      Wm. E.                      School
+Fort George Hudson's                Episcopal                   24     23    47       39          ...         ...     ...      ...      ...      grant of
+                      Walton                      appropriation
+            Bay                                                                                                                                  $200.
+            District
+            Athabasca
+            and                                                                                                                                  Special
+Fort                  Grace                       School
+            Mackenzie               Episcopal                   3      6     9        8           2           1       1        3        2        grant of
+Resolution            Laurence                    appropriation
+            River                                                                                                                                $200.
+            District
+                                                                                                                                                 Special
+Great Whale At Fort     Wm. E.                    School
+                                    Episcopal                   15     16    31       9           ...         ...     ...      ...      ...      grant of
+River       George      Walton                    appropriation
+                                                                                                                                                 $200.
+                                                                                                                                                 Yearly
+Isle à la               Sister      Roman         School                                                                                         salary or
+             ...                                                6      7     13       12          5           1       3        4        ...
+Crosse                  Langelier   Catholic      appripriation                                                                                  grant,
+                                                                                                                                                 $300.
+             Peace                                                                                                                               Special
+Lesser Slave            Percy W.                  School
+             River                  Episcopal                   6      5     11       8           8           1       2        ...      ...      grant of
+Lake                    Muller                    appropriation
+             District                                                                                                                            $200.
+             Peace                                                                                                                               Special
+Lesser Slave            Rev. A.    Roman          School
+             River                                              10     6     16       10          10          ...     3        ...      3        grant of
+Lake                    Desmairais Catholic       appropriation
+             District                                                                                                                            $200.
+                                                                                                                                                 Special
+             James Bay J.A.                       School
+Moose Fort                     Episcopal                        18     28    46       19          ...         ...     ...      ...      ...      grant of
+             District  Newnham                    appropriation
+                                                                                                                                                 $200.
+                                                                                                                                                 Special
+
+<!-- page 465 -->
+Rupert's         Rev. E.                School
+           ...              Episcopal                 27   20   47   12   ...   ...   ...   ...   ...   grant of
+House            Richards               appropriation
+                                                                                                        $200.
+
+<!-- page 466 -->
+Table, see page 270
+
+<!-- page 467 -->
+SUMMARY OF STATEMENT NO. 3
+ Provinces.             Pupils on Rolls.
+ Ontario                2,341
+ Quebec                 634
+ Nova Scotia            119
+ New Brunswick          102
+ Prince Edward Island 33
+ British Columbia       843
+ Manitoba               1,454
+ North-west Territories 2,322
+ Outside Treaty Limits 288
+ Total                  8,136
+
+HAYTER REED,
+Deputy Supt. Gen. of Indian Affairs.
+
+MARTIN BENSON,
+In charge of School Branch.
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 30th June, 1894.
+

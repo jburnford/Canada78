@@ -1,0 +1,531 @@
+band_id,canonical_band_id,name,province_pool,agency,first_year,last_year,n_rows,rule
+band_c00053,band_c00053,"Na-anees (2 bands north of Connolly Lake, semi-nomadic)",British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1895,1913,19,variant_key+pool+disjoint_years
+band_c00250,band_c00053,Naanees (Two Bands),British Columbia,Stuart Lake Agency,1914,1917,2,variant_key+pool+disjoint_years
+band_c00058,band_c00058,Moricetown (Lachalsap),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1895,1929,21,overlap: no conflicting population
+band_c00197,band_c00058,Moricetown (Lashalsap),British Columbia,Babine and Upper Skeena River Agency,1903,1903,1,overlap: no conflicting population
+band_c00065,band_c00065,Bella Bella,British Columbia,NORTH-WEST COAST Agency,1881,1929,42,overlap: no conflicting population
+band_c01457,band_c00065,Bellacoola,,,1886,1886,1,overlap: no conflicting population
+band_c02129,band_c00065,Bella Coola,Ontario,NORTH-WEST COAST Agency,1897,1897,1,variant_key+pool+disjoint_years
+band_c00151,band_c00068,Kitsegukla,British Columbia,Babine Agency,1891,1929,6,overlap: no conflicting population
+band_c00068,band_c00068,Kitsegukla (old and new village),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1895,1912,21,overlap: no conflicting population
+band_c00336,band_c00072,Comox (3 bands),British Columbia,Aht Nation.,1881,1882,2,variant_key+pool+disjoint_years
+band_c00072,band_c00072,Comox,British Columbia,COWICHAN Agency,1886,1929,28,variant_key+pool+disjoint_years
+band_c00081,band_c00081,North Thompson,British Columbia,Kamloops Agency,1881,1929,16,overlap: no conflicting population
+band_c00084,band_c00081,Chukchuqualk,British Columbia,KAMLOOPS Agency,1886,1917,10,overlap: no conflicting population
+band_c00286,band_c00081,Chuck-chu-qualk,British Columbia,KAMLOOPS-OKANAGAN Agency,1899,1900,2,overlap: no conflicting population
+band_c00108,band_c00081,North Thompson (Cukcugualk),British Columbia,Kamloops Agency,1916,1924,2,overlap: no conflicting population
+band_c00591,band_c00093,Wewaiaikum,British Columbia,Kwawkewlth Agency,1913,1914,2,variant_key+pool+disjoint_years
+band_c00093,band_c00093,Wewayakum or Campbell River,British Columbia,Kwawkewlth Agency,1915,1929,5,variant_key+pool+disjoint_years
+band_c00405,band_c00096,O-wee-kay-no,British Columbia,NORTH-WEST COAST Agency,1890,1893,4,variant_key+pool+disjoint_years
+band_c00096,band_c00096,Oweekayno,British Columbia,NORTHWEST COAST Agency,1895,1910,16,variant_key+pool+disjoint_years
+band_c00157,band_c00096,Rivers Inlet (Owekano),British Columbia,Bella Coola Agency,1911,1929,7,variant_key+pool+disjoint_years
+band_c00087,band_c00112,Tsis-tlain-li (Lake Trembleur),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1895,1900,7,variant_key+pool+disjoint_years
+band_c00112,band_c00112,Tsisthainli (Lac Trembleur),British Columbia,Stuart Lake Agency,1901,1929,17,variant_key+pool+disjoint_years
+band_c00115,band_c00115,Arrow Lake (West Kootenay),British Columbia,Kootenay Agency,1903,1913,9,overlap: no conflicting population
+band_c00070,band_c00115,Arrow Lake,British Columbia,Kootenay Agency,1910,1929,7,overlap: no conflicting population
+band_c00120,band_c00120,Lower Kootenay (Flat Bow),British Columbia,KOOTENAY Agency,1887,1929,24,overlap: no conflicting population
+band_c00794,band_c00120,Flatbow,British Columbia,KOOTENAY Agency,1890,1893,4,overlap: no conflicting population
+band_c00121,band_c00121,Deadman's Creek,British Columbia,Kamloops Agency,1881,1929,20,overlap: no conflicting population
+band_c00567,band_c00121,Skichistan,British Columbia,KAMLOOPS Agency,1886,1901,12,overlap: no conflicting population
+band_c00130,band_c00130,Connolly Lake,British Columbia,Stuart Lake Agency,1896,1929,20,overlap: no conflicting population
+band_c00341,band_c00130,Fort Connelly,British Columbia,Stuart Lake Agency,1917,1917,1,overlap: no conflicting population
+band_c00135,band_c00135,"Mission, Burrard Inlet",British Columbia,FRASER RIVER Agency,1881,1929,35,overlap: no conflicting population
+band_c00299,band_c00135,"Mission, (St. Mary's)",British Columbia,FRASER RIVER Agency,1897,1897,2,overlap: no conflicting population
+band_c00470,band_c00137,Nkam-a-plix,British Columbia,OKANAGAN Agency,1886,1891,5,variant_key+pool+disjoint_years
+band_c00654,band_c00137,Nkamaplix,British Columbia,OKANAGAN Agency,1892,1901,3,overlap: no conflicting population
+band_c00137,band_c00137,Okanagan,British Columbia,Okanagan Agency,1896,1929,18,overlap: no conflicting population
+band_c00178,band_c00137,Helowna,British Columbia,KAMLOOPS-OKANAGAN Agency,1899,1901,3,overlap: no conflicting population
+band_c00138,band_c00138,Atlin and Teslin,British Columbia,Stikine Agency,1910,1924,6,variant_key+pool+disjoint_years
+band_c00265,band_c00138,Atlin (Atlin Lake),British Columbia,Stikine Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c00149,band_c00149,Hydah,British Columbia,,1881,1888,3,overlap: no conflicting population
+band_c01546,band_c00149,Hydah,,,1886,1886,1,overlap: no conflicting population
+band_c00162,band_c00162,Ha-anees (Stuart's Lake),British Columbia,Babine and Upper Skeena River Agency,1890,1893,4,overlap: no conflicting population
+band_c00292,band_c00162,Ha-anees (Stuart's),British Columbia,Babine And Upper Skeena River,1891,1891,1,overlap: no conflicting population
+band_c00163,band_c00163,Tsistlatho (Black Water),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1895,1910,9,overlap: no conflicting population
+band_c00142,band_c00163,Tsis-tlatho (Beach Water),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1900,1901,3,overlap: no conflicting population
+band_c00496,band_c00164,Adams Lake,British Columbia,Kamloops Agency,1881,1914,7,overlap: no conflicting population
+band_c00803,band_c00164,Haltkum,British Columbia,KAMLOOPS Agency,1886,1898,7,overlap: no conflicting population
+band_c00164,band_c00164,Adam's Lake,British Columbia,Kamloops Agency,1896,1929,14,overlap: no conflicting population
+band_c00462,band_c00174,Lach-als-ap,British Columbia,NORTH-WEST COAST Agency,1895,1895,1,variant_key+pool+disjoint_years
+band_c00174,band_c00174,Lachalsap,British Columbia,North-West Coast Agency,1898,1902,4,variant_key+pool+disjoint_years
+band_c00573,band_c00181,Spa-ha-min,British Columbia,OKANAGAN Agency,1886,1891,6,variant_key+pool+disjoint_years
+band_c00181,band_c00181,Spahamin,British Columbia,OKANAGAN Agency,1892,1903,8,variant_key+pool+disjoint_years
+band_c00183,band_c00183,"Squamish, Howe Sound",British Columbia,FRASER RIVER Agency,1886,1929,14,overlap: no conflicting population
+band_c00220,band_c00183,Squamish-Howe Sound,British Columbia,FRASER RIVER Agency,1887,1893,3,overlap: no conflicting population
+band_c00083,band_c00185,"Waw-lit-sum, Saich-kioie-tachs",British Columbia,KWAWKEWLTH Agency,1886,1900,9,variant_key+pool+disjoint_years
+band_c00113,band_c00185,Waw-lit-sum Lien-kwil-tak,British Columbia,Kwawkewlth Agency,1898,1899,2,variant_key+pool+disjoint_years
+band_c00185,band_c00185,Wawlitsum,British Columbia,Kwawkewlth Agency,1901,1917,14,variant_key+pool+disjoint_years
+band_c00812,band_c00189,Kit-tex,British Columbia,NORTH-WEST COAST Agency,1896,1899,2,variant_key+pool+disjoint_years
+band_c00189,band_c00189,Kittex and Andegulay,British Columbia,NORTHWEST COAST Agency,1900,1910,11,variant_key+pool+disjoint_years
+band_c00064,band_c00203,Creek,British Columbia,Stikine Agency,1909,1917,4,overlap: no conflicting population
+band_c00203,band_c00203,Casca (McDames),British Columbia,Stikine Agency,1914,1929,5,overlap: no conflicting population
+band_c00696,band_c00205,Che-erno,British Columbia,COWICHAN Agency,1886,1893,8,variant_key+pool+disjoint_years
+band_c00205,band_c00205,Cheerno,British Columbia,COWICHAN Agency,1895,1929,21,variant_key+pool+disjoint_years
+band_c00215,band_c00215,Penticton,British Columbia,Okanagan Agency,1881,1929,28,overlap: no conflicting population
+band_c00474,band_c00215,Pen-tic-ton,British Columbia,OKANAGAN Agency,1886,1890,5,overlap: no conflicting population
+band_c00231,band_c00231,Haisting's Saw Mills,British Columbia,FRASER RIVER Agency,1886,1900,8,overlap: no conflicting population
+band_c00244,band_c00231,Hastings Saw-mill,British Columbia,FRASER RIVER Agency,1895,1899,6,overlap: no conflicting population
+band_c00888,band_c00234,Na-aik,British Columbia,OKANAGAN Agency,1886,1891,6,variant_key+pool+disjoint_years
+band_c00234,band_c00234,Naaik,British Columbia,KAMLOOPS-OKANAGAN Agency,1892,1901,7,variant_key+pool+disjoint_years
+band_c00238,band_c00238,Bonaparte,British Columbia,Kamloops Agency,1881,1929,20,overlap: no conflicting population
+band_c00773,band_c00238,Tluhtans,British Columbia,Kamloops-Okanagan Agency,1898,1899,2,overlap: no conflicting population
+band_c00208,band_c00241,Get-an-max (Hazelton),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1890,1900,10,variant_key+pool+disjoint_years
+band_c00241,band_c00241,Getanmax (Hazelton),British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1901,1917,16,overlap: no conflicting population
+band_c00245,band_c00241,Hazelton (Getanmax),British Columbia,Babine and Upper Skeena River Agency,1910,1929,2,overlap: no conflicting population
+band_c00259,band_c00259,Tsa-waw-ti-e-neuk,British Columbia,KWAWKEWLTH Agency,1896,1899,3,variant_key+pool+disjoint_years
+band_c00280,band_c00259,Tsa-waw-tie-neuk,British Columbia,KWAWKEWLTH Agency,1900,1901,2,variant_key+pool+disjoint_years
+band_c00193,band_c00271,Mah-ma-lil-le-kullah,British Columbia,KWAWKEWLTH Agency,1886,1900,12,variant_key+pool+disjoint_years
+band_c00271,band_c00271,Mamalillikulla,British Columbia,Kwawkewlth Agency,1901,1929,19,variant_key+pool+disjoint_years
+band_c00569,band_c00278,Sno-no-was,British Columbia,COWICHAN Agency,1899,1900,2,variant_key+pool+disjoint_years
+band_c00278,band_c00278,Snonowas,British Columbia,COWICHAN Agency,1901,1929,15,variant_key+pool+disjoint_years
+band_c00905,band_c00305,Stlahl,British Columbia,KAMLOOPS-OKANAGAN Agency,1892,1901,5,overlap: no conflicting population
+band_c00305,band_c00305,Ashcroft,British Columbia,Kamloops Agency,1895,1929,19,overlap: no conflicting population
+band_c00309,band_c00309,Chu-chu-way-ha,British Columbia,OKANAGAN Agency,1886,1900,8,overlap: no conflicting population
+band_c00427,band_c00309,Chuchuwayha,British Columbia,OKANAGAN Agency,1892,1896,2,overlap: no conflicting population
+band_c00334,band_c00309,Chuchu-way-ha,British Columbia,Kamloops-Okanagan Agency,1898,1898,1,overlap: no conflicting population
+band_c00426,band_c00309,Chuchunayha,British Columbia,KAMLOOPS-OKANAGAN AGENCY - Con.,1901,1901,1,variant_key+pool+disjoint_years
+band_c00322,band_c00322,Osoyoos,British Columbia,Okanagan Agency,1881,1929,19,overlap: no conflicting population
+band_c00834,band_c00322,Nkam-ip,British Columbia,OKANAGAN Agency,1886,1891,6,overlap: no conflicting population
+band_c00177,band_c00322,Nkamip,British Columbia,OKANAGAN Agency,1892,1893,2,overlap: no conflicting population
+band_c00826,band_c00322,N-Kamip,British Columbia,Kamloops-Okanagan Agency,1898,1901,3,overlap: no conflicting population
+band_c00323,band_c00323,Nooch-alh-laht,British Columbia,WEST COAST Agency,1886,1900,15,variant_key+pool+disjoint_years
+band_c00404,band_c00323,Noochatlaht,British Columbia,West Coast Agency,1901,1924,12,variant_key+pool+disjoint_years
+band_c00310,band_c00335,Clem-clemalats,British Columbia,COWICHAN Agency,1886,1893,8,variant_key+pool+disjoint_years
+band_c00268,band_c00335,Clem-clem-a-lats,British Columbia,COWICHAN Agency,1895,1900,5,variant_key+pool+disjoint_years
+band_c00335,band_c00335,Clemclemaluts,British Columbia,COWICHAN Agency,1901,1929,15,variant_key+pool+disjoint_years
+band_c00355,band_c00355,Match-itl-aht,British Columbia,WEST COAST Agency,1886,1903,17,overlap: no conflicting population
+band_c00398,band_c00355,Matchitlacht,British Columbia,WEST COAST Agency,1902,1929,6,overlap: no conflicting population
+band_c00360,band_c00360,Sh-sha-ha-nih,British Columbia,KAMLOOPS-OKANAGAN Agency,1899,1900,2,variant_key+pool+disjoint_years
+band_c00666,band_c00360,Shhahanik,British Columbia,KAMLOOPS-OKANAGAN AGENCY - Con.,1901,1901,1,variant_key+pool+disjoint_years
+band_c00388,band_c00388,Kel-seem-aht,British Columbia,WEST COAST Agency,1886,1900,15,variant_key+pool+disjoint_years
+band_c00619,band_c00388,Kelsemaht,British Columbia,WEST COAST Agency,1901,1913,12,variant_key+pool+disjoint_years
+band_c00393,band_c00393,Klah-wit-sis,British Columbia,KWAWKEWLTH Agency,1886,1900,11,variant_key+pool+disjoint_years
+band_c00638,band_c00393,Klawitsis,British Columbia,KWAWKEWLTH Agency,1901,1908,6,variant_key+pool+disjoint_years
+band_c00407,band_c00407,Opitches-aht,British Columbia,WEST COAST Agency,1886,1900,15,variant_key+pool+disjoint_years
+band_c00406,band_c00407,Opitchesaht,British Columbia,WEST COAST Agency,1901,1913,13,variant_key+pool+disjoint_years
+band_c00409,band_c00409,Pan-que-chin,British Columbia,COWICHAN Agency,1886,1900,13,variant_key+pool+disjoint_years
+band_c00550,band_c00409,Panquechin,British Columbia,COWICHAN Agency,1901,1912,11,variant_key+pool+disjoint_years
+band_c00413,band_c00413,Quis-kan-aht,British Columbia,OKANAGAN Agency,1886,1891,6,variant_key+pool+disjoint_years
+band_c00562,band_c00413,Quiskanaht,British Columbia,KAMLOOPS Agency,1895,1895,1,variant_key+pool+disjoint_years
+band_c00415,band_c00415,Skukum Chuck,British Columbia,FRASER RIVER Agency,1886,1892,7,variant_key+pool+disjoint_years
+band_c00416,band_c00415,Skukum-Chuck,British Columbia,FRASER RIVER Agency,1893,1893,1,variant_key+pool+disjoint_years
+band_c00423,band_c00423,Ah-wha-mish,British Columbia,KWAWKEWLTH Agency,1896,1900,4,variant_key+pool+disjoint_years
+band_c00596,band_c00423,Ahwhamish,British Columbia,KWAWKEWLTH Agency,1901,1901,1,variant_key+pool+disjoint_years
+band_c00429,band_c00429,Clao-qu-aht,British Columbia,WEST COAST Agency,1886,1900,20,overlap: no conflicting population
+band_c00428,band_c00429,Clao qu aht,British Columbia,WEST COAST Agency,1887,1888,2,overlap: no conflicting population
+band_c00775,band_c00429,Toquaht,British Columbia,WEST COAST Agency,1901,1913,12,variant_key+pool+disjoint_years
+band_c00440,band_c00440,Hesquiat,British Columbia,WEST COAST Agency,1895,1929,13,overlap: no conflicting population
+band_c00614,band_c00440,Hesquiaht,British Columbia,WEST COAST Agency,1902,1913,9,overlap: no conflicting population
+band_c00448,band_c00448,Kil-pan-hus,British Columbia,COWICHAN Agency,1886,1900,13,variant_key+pool+disjoint_years
+band_c00625,band_c00448,Kilpanlus,British Columbia,COWICHAN Agency,1901,1908,7,variant_key+pool+disjoint_years
+band_c00467,band_c00467,Mooach-aht,British Columbia,WEST COAST Agency,1886,1929,25,overlap: no conflicting population
+band_c00443,band_c00467,Mooachtaht,British Columbia,WEST COAST Agency,1901,1903,3,overlap: no conflicting population
+band_c00469,band_c00469,Neskainlith,British Columbia,KAMLOOPS-OKANAGAN Agency,1903,1929,10,overlap: no conflicting population
+band_c00175,band_c00469,Niskainlish (Halaut),British Columbia,Kamloops Agency,1914,1924,5,overlap: no conflicting population
+band_c00479,band_c00480,Sam-ah-quam,British Columbia,FRASER RIVER Agency,1897,1899,4,variant_key+pool+disjoint_years
+band_c00480,band_c00480,Samahquam,British Columbia,New Westminster Agency,1900,1929,17,variant_key+pool+disjoint_years
+band_c00488,band_c00488,Ta-wak-tenk,British Columbia,KWAWKEWLTH Agency,1896,1900,4,variant_key+pool+disjoint_years
+band_c00683,band_c00488,Tawaktenk,British Columbia,KWAWKEWLTH Agency,1901,1901,1,variant_key+pool+disjoint_years
+band_c00493,band_c00493,Tsimpsheean,British Columbia,Cowichan Nation:,1881,1888,4,overlap: no conflicting population
+band_c01455,band_c00493,Tsimpsheean,,,1886,1886,1,overlap: no conflicting population
+band_c00380,band_c00507,Ehatt-is-aht,British Columbia,WEST COAST Agency,1886,1900,15,variant_key+pool+disjoint_years
+band_c00507,band_c00507,Ehatisaht,British Columbia,West Coast Agency,1901,1929,17,variant_key+pool+disjoint_years
+band_c00390,band_c00528,Kit-wan-cool,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1890,1900,11,variant_key+pool+disjoint_years
+band_c00528,band_c00528,Kitwancool,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1901,1929,13,variant_key+pool+disjoint_years
+band_c00537,band_c00537,Mah-til-pi,British Columbia,KWAWKEWLTH Agency,1896,1900,4,variant_key+pool+disjoint_years
+band_c00735,band_c00537,Mahtilpi,British Columbia,KWAWKEWLTH Agency,1901,1903,4,variant_key+pool+disjoint_years
+band_c00540,band_c00540,Nah-wah-ta,British Columbia,KWAWKEWLTH Agency,1898,1900,3,variant_key+pool+disjoint_years
+band_c00742,band_c00540,Nahwahta,British Columbia,KWAWKEWLTH Agency,1901,1904,3,variant_key+pool+disjoint_years
+band_c00564,band_c00564,Shhahanih,British Columbia,KAMLOOPS Agency,1886,1896,8,overlap: no conflicting population
+band_c00483,band_c00564,Shahahanih,British Columbia,KAMLOOPS Agency,1887,1898,3,overlap: no conflicting population
+band_c00422,band_c00588,Tsoo-wah-lie,British Columbia,FRASER RIVER Agency,1895,1900,7,variant_key+pool+disjoint_years
+band_c00588,band_c00588,Soowahlie,British Columbia,FRASER RIVER Agency,1901,1929,16,variant_key+pool+disjoint_years
+band_c00367,band_c00592,Wi-wai-ai-kum,British Columbia,KWAWKEWLTH Agency,1896,1900,7,variant_key+pool+disjoint_years
+band_c00495,band_c00592,Wi-waiaikum,British Columbia,KWAWKEWLTH Agency,1901,1901,2,variant_key+pool+disjoint_years
+band_c00592,band_c00592,Wiwaiaikum,British Columbia,KWAWKEWLTH Agency,1902,1912,17,variant_key+pool+disjoint_years
+band_c00594,band_c00594,Ahousaht,British Columbia,WEST COAST Agency,1886,1929,23,overlap: no conflicting population
+band_c00595,band_c00594,Ahous-aht,British Columbia,WEST COAST Agency,1895,1900,7,overlap: no conflicting population
+band_c00603,band_c00603,Comeakin,British Columbia,COWICHAN Agency,1886,1912,16,overlap: no conflicting population
+band_c00604,band_c00603,Comea-kin,British Columbia,COWICHAN Agency,1889,1893,5,overlap: no conflicting population
+band_c01488,band_c00616,Hiletsuck,,,1886,1886,1,variant_key+pool+disjoint_years
+band_c00616,band_c00616,Hiletsuck,British Columbia,BADINE AND UPPER SKEENA RIVER Agency,1887,1892,5,variant_key+pool+disjoint_years
+band_c01564,band_c00616,Hiletsuck,North-West Coast,,1889,1889,1,variant_key+pool+disjoint_years
+band_c00447,band_c00623,Khe-nip-sim,British Columbia,COWICHAN Agency,1895,1900,5,variant_key+pool+disjoint_years
+band_c00623,band_c00623,Khenipsin,British Columbia,COWICHAN Agency,1901,1908,7,variant_key+pool+disjoint_years
+band_c00389,band_c00630,Kiss-ge-gaas,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1890,1900,5,variant_key+pool+disjoint_years
+band_c00630,band_c00630,Kisgegas,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1901,1929,15,variant_key+pool+disjoint_years
+band_c00450,band_c00635,Kit-wan-gar,British Columbia,Babine and Upper Skeena River Agency,1893,1900,2,variant_key+pool+disjoint_years
+band_c00635,band_c00635,Kitwangar,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1901,1929,17,variant_key+pool+disjoint_years
+band_c00396,band_c00643,Kwaw-she-la,British Columbia,KWAWKEWLTH Agency,1886,1900,12,variant_key+pool+disjoint_years
+band_c00643,band_c00643,Kwawshela,British Columbia,Kwawkewlth Agency,1901,1929,16,variant_key+pool+disjoint_years
+band_c00463,band_c00648,Ll-mal-ches,British Columbia,COWICHAN Agency,1886,1899,10,overlap: no conflicting population
+band_c00649,band_c00648,Ll-malche,British Columbia,COWICHAN Agency,1895,1896,2,overlap: no conflicting population
+band_c00648,band_c00648,Llmalche,British Columbia,COWICHAN Agency,1901,1916,13,variant_key+pool+disjoint_years
+band_c00650,band_c00650,Mal-a-hut,British Columbia,COWICHAN Agency,1886,1893,8,variant_key+pool+disjoint_years
+band_c00819,band_c00650,Malahut,British Columbia,COWICHAN Agency,1904,1906,3,variant_key+pool+disjoint_years
+band_c00408,band_c00657,Penel-a-kut,British Columbia,COWICHAN Agency,1881,1898,13,variant_key+pool+disjoint_years
+band_c00657,band_c00657,Penelakut,British Columbia,Cowichan Agency,1901,1929,18,variant_key+pool+disjoint_years
+band_c00665,band_c00665,Semiahmoo,British Columbia,FRASER RIVER Agency,1887,1929,25,overlap: no conflicting population
+band_c00482,band_c00665,Semiah-moo,British Columbia,FRASER RIVER Agency,1895,1900,7,overlap: no conflicting population
+band_c00485,band_c00667,Sic-ca-meen,British Columbia,COWICHAN Agency,1895,1898,3,variant_key+pool+disjoint_years
+band_c00667,band_c00667,Siccameen,British Columbia,COWICHAN Agency,1899,1929,19,variant_key+pool+disjoint_years
+band_c00559,band_c00709,Qual-i-cum,British Columbia,COWICHAN Agency,1886,1895,9,variant_key+pool+disjoint_years
+band_c00709,band_c00709,Qualicum,British Columbia,COWICHAN Agency,1896,1929,21,variant_key+pool+disjoint_years
+band_c00524,band_c00721,Kit-se-las,British Columbia,Babine and Upper Skeena River Agency,1893,1893,1,variant_key+pool+disjoint_years
+band_c00721,band_c00721,Kitselas,British Columbia,Babine and Upper Skeena River Agency,1906,1929,10,variant_key+pool+disjoint_years
+band_c00530,band_c00724,Kok-si-lah,British Columbia,COWICHAN Agency,1886,1900,13,variant_key+pool+disjoint_years
+band_c00724,band_c00724,Koksilah,British Columbia,Cowichan Agency,1901,1929,17,variant_key+pool+disjoint_years
+band_c00640,band_c00726,Kul-leets,British Columbia,COWICHAN Agency,1886,1900,13,variant_key+pool+disjoint_years
+band_c00726,band_c00726,Kulleets,British Columbia,Cowichan Agency,1901,1929,17,variant_key+pool+disjoint_years
+band_c00533,band_c00728,Kwi-ah-kah,British Columbia,KWAWKEWLTH Agency,1896,1900,4,variant_key+pool+disjoint_years
+band_c00728,band_c00728,Kwiahkah,British Columbia,Kwawkewlth Agency,1901,1929,14,variant_key+pool+disjoint_years
+band_c01525,band_c00756,Siccanee,,,1886,1886,1,variant_key+pool+disjoint_years
+band_c00756,band_c00756,Siccanee,British Columbia,,1887,1888,2,variant_key+pool+disjoint_years
+band_c01569,band_c00756,Siccanee,North-West Coast,,1889,1889,1,variant_key+pool+disjoint_years
+band_c00780,band_c00780,Tse-kum,British Columbia,COWICHAN Agency,1886,1900,13,variant_key+pool+disjoint_years
+band_c00867,band_c00780,Tsekum,British Columbia,Cowichan Agency,1907,1929,12,variant_key+pool+disjoint_years
+band_c00795,band_c00796,Gal Doe,British Columbia,BADINE AND UPPER SKEENA RIVER Agency,1890,1892,3,variant_key+pool+disjoint_years
+band_c00796,band_c00796,Gal-doe,British Columbia,BABINE AND UPPER SKEENA RIVER Agency,1893,1898,5,variant_key+pool+disjoint_years
+band_c00801,band_c00801,Hal-alt,British Columbia,Cowichan Nation:,1881,1882,2,variant_key+pool+disjoint_years
+band_c00881,band_c00801,Halalt,British Columbia,Cowichan,1929,1929,1,variant_key+pool+disjoint_years
+band_c01534,band_c00860,Tahelie,,,1886,1886,1,variant_key+pool+disjoint_years
+band_c00860,band_c00860,Tahelie,British Columbia,BADINE AND UPPER SKEENA RIVER Agency,1887,1892,5,variant_key+pool+disjoint_years
+band_c01571,band_c00860,Tahelie,North-West Coast,,1889,1889,1,variant_key+pool+disjoint_years
+band_c00891,band_c00891,Nzis-kat,British Columbia,OKANAGAN Agency,1886,1891,6,variant_key+pool+disjoint_years
+band_c00917,band_c00891,Nziskat,British Columbia,OKANAGAN Agency,1892,1896,3,variant_key+pool+disjoint_years
+band_c00893,band_c00920,Oi-aht,British Columbia,WEST COAST Agency,1886,1898,12,overlap: no conflicting population
+band_c00920,band_c00920,Oiaht,British Columbia,WEST COAST Agency,1896,1913,16,overlap: no conflicting population
+band_c00979,band_c00979,Hershell Island and Mackenzie Delta and Coast,Eskimos,Mainland,1914,1917,7,variant_key+pool+disjoint_years
+band_c00986,band_c00979,Herschel Island (Franklin District),Eskimos,Herschel Island (Franklin District),1924,1924,3,variant_key+pool+disjoint_years
+band_c01364,band_c01020,Northwest Territories,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01020,band_c01020,Northwest Territories,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01365,band_c01021,Prince Edward Island,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01021,band_c01021,Prince Edward Island,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01375,band_c01023,British Columbia,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01023,band_c01023,British Columbia,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01391,band_c01024,Yukon Territory,,,1905,1905,1,variant_key+pool+disjoint_years
+band_c01024,band_c01024,Yukon Territory,Grand Recapitulation,Yukon Territory,1906,1909,3,variant_key+pool+disjoint_years
+band_c03128,band_c01026,New Brunswick,Rupert's Land,,1881,1881,1,variant_key+pool+disjoint_years
+band_c01229,band_c01026,New Brunswick,Manitoba And The North-West Territories,Rupert'S Land,1882,1882,1,variant_key+pool+disjoint_years
+band_c01410,band_c01026,New Brunswick,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01026,band_c01026,New Brunswick,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01449,band_c01028,Nova Scotia,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01028,band_c01028,Nova Scotia,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01517,band_c01029,Manitoba,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01029,band_c01029,Manitoba,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01530,band_c01031,Ontario,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01031,band_c01031,Ontario,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01541,band_c01032,Quebec,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01032,band_c01032,Quebec,Grand Recapitulation,Treaty No. 8,1901,1909,4,variant_key+pool+disjoint_years
+band_c01186,band_c01088,Blood Vein,Manitoba,"CHIPPEWAS, SAULTEUX AND CREES OF TREATY No. 5, AT:",1892,1896,4,variant_key+pool+disjoint_years
+band_c01088,band_c01088,Blood Vein River,Manitoba,Fisher River Agency,1897,1929,12,variant_key+pool+disjoint_years
+band_c01178,band_c01092,Kawaiagamot,Manitoba,CHIPPEWAS AND SAULTEUX OF TREATY No. 3,1892,1893,2,variant_key+pool+disjoint_years
+band_c01092,band_c01092,Sturgeon Lake,Manitoba,Fort Frances Agency,1895,1917,8,variant_key+pool+disjoint_years
+band_c01272,band_c01272,Nelson and Churchill Rivers District,Nelson and Churchill Rivers,Nelson and Churchill Rivers District,1899,1899,1,variant_key+pool+disjoint_years
+band_c01341,band_c01272,Nelson and Churchill Rivers District,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01015,band_c01272,Nelson and Churchill Rivers District,Grand Recapitulation,Treaty No. 8,1901,1901,1,variant_key+pool+disjoint_years
+band_c01275,band_c01275,Indian Island,New Brunswick,Northeastern Agency,1895,1913,22,variant_key+pool+disjoint_years
+band_c01308,band_c01275,Indian Island Reserve,New Brunswick,NORTHEASTERN Agency,1914,1929,6,variant_key+pool+disjoint_years
+band_c01277,band_c01277,Micmacs of -,New Brunswick,BABINE AND UPPER SKEENA RIVER Agency,1881,1909,34,overlap: no conflicting population
+band_c01292,band_c01277,Micmacs of Kings County (temporarily),New Brunswick,,1903,1903,1,overlap: no conflicting population
+band_c01280,band_c01280,Amalecites of Charlotte County,New Brunswick,Amalecites of Charlotte County,1887,1909,27,overlap: no conflicting population
+band_c01297,band_c01280,"Amalecites, Charlotte County",New Brunswick,,1904,1904,1,overlap: no conflicting population
+band_c01294,band_c01294,Fort Folly (reserve) and vicinity,New Brunswick,Northeastern Agency,1895,1924,21,variant_key+pool+disjoint_years
+band_c01315,band_c01294,Fort Folly Reserve,New Brunswick,Northeastern Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c01348,band_c01348,The-man-who-took-the-coat or Jack.,,Assiniboine Reserve,1886,1886,1,overlap: no conflicting population
+band_c02418,band_c01348,"The-man-who-took-the-coat, or Jack",Prairies/NWT,Assiniboine Reserve Agency,1886,1886,1,overlap: no conflicting population
+band_c01367,band_c01367,Che-kas-tay-pay-sin,,Prince Albert,1886,1886,1,overlap: no conflicting population
+band_c02651,band_c01367,Chekastaypaysin,Prairies/NWT,Prince Albert Agency,1886,1886,1,overlap: no conflicting population
+band_c01370,band_c01370,Ko-pah-a-wa-ke-num,,Prince Albert,1886,1886,1,overlap: no conflicting population
+band_c02699,band_c01370,Kopahawakenum,Prairies/NWT,Prince Albert Agency,1886,1886,1,overlap: no conflicting population
+band_c01386,band_c01386,Mus-cow-pe-tung,,Mus-cow-pe-tung,1886,1886,1,variant_key+pool+disjoint_years
+band_c01428,band_c01386,Muscowpetung,,Muscowpetung,1893,1893,1,variant_key+pool+disjoint_years
+band_c01400,band_c01400,Yukon District,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01025,band_c01400,Yukon District,Grand Recapitulation,Treaty No. 8,1901,1901,1,variant_key+pool+disjoint_years
+band_c01450,band_c01450,Ouch-an-ess,,Crooked Lakes,1886,1886,1,overlap: no conflicting population
+band_c02837,band_c01450,Ouchaness,Prairies/NWT,Crooked Lakes Agency,1886,1886,1,overlap: no conflicting population
+band_c01451,band_c01451,South Quill,,Birtle Agency,1886,1886,1,overlap: no conflicting population
+band_c02767,band_c01451,South Quill,Prairies/NWT,Birtle Agency,1886,1886,1,overlap: no conflicting population
+band_c01523,band_c01523,Pi-a-pot,,Mus-cow-pe-tung,1886,1886,1,variant_key+pool+disjoint_years
+band_c01540,band_c01523,Piapot,,Muscowpetung,1893,1893,1,variant_key+pool+disjoint_years
+band_c01589,band_c01589,Franklin Manor,Nova Scotia,Cumberland County,1898,1914,18,overlap: no conflicting population
+band_c01670,band_c01589,Franklin Manor (Micmacs),Nova Scotia,Cumberland County,1910,1929,7,overlap: no conflicting population
+band_c01600,band_c01600,Indian Brook (reserve),Nova Scotia,Micmacs of Cumberland County,1898,1909,13,variant_key+pool+disjoint_years
+band_c01681,band_c01600,Indian Brook (Micmacs),Nova Scotia,Hants County,1910,1929,6,overlap: no conflicting population
+band_c01738,band_c01600,Indian Brook,Nova Scotia,Hants County.,1911,1914,5,overlap: no conflicting population
+band_c01612,band_c01612,Chapel Island (reserve),Nova Scotia,Richmond County.,1901,1914,15,variant_key+pool+disjoint_years
+band_c01674,band_c01612,Chapel Island (Micmacs),Nova Scotia,Richmond County,1915,1929,5,variant_key+pool+disjoint_years
+band_c01369,band_c01640,Cumberland Indians,,Prince Albert,1886,1893,2,overlap: no conflicting population
+band_c01640,band_c01640,Cumberland,Nova Scotia,,1887,1896,7,overlap: no conflicting population
+band_c02626,band_c01640,Cumberland (Crees),Prairies/NWT,"Chippewas And Saulteaux Of Treaty No. 5,",1897,1904,3,variant_key+pool+disjoint_years
+band_c02176,band_c01640,Cumberland,Ontario,Pas Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c01657,band_c01657,Yarmouth,Nova Scotia,Yarmouth County.,1889,1914,10,overlap: no conflicting population
+band_c01627,band_c01657,Cole Harbour (reserve) and Dartmouth,Nova Scotia,,1903,1909,4,overlap: no conflicting population
+band_c01665,band_c01665,Indian Island,Nova Scotia,Pictou County.,1899,1914,8,overlap: no conflicting population
+band_c01675,band_c01665,Indian Island (reserve),Nova Scotia,Micmacs of Pictou County,1905,1909,5,overlap: no conflicting population
+band_c01680,band_c01680,Fisher's Grant (reserve),Nova Scotia,Pictou County,1899,1915,13,variant_key+pool+disjoint_years
+band_c01730,band_c01680,Fishers Grant,Nova Scotia,Pictou County,1916,1929,4,variant_key+pool+disjoint_years
+band_c01728,band_c01686,Sydney (Reserve),Nova Scotia,Micmacs of Cape Breton County,1898,1898,1,variant_key+pool+disjoint_years
+band_c01686,band_c01686,Sydney (Micmacs),Nova Scotia,Cape Breton County,1900,1929,10,variant_key+pool+disjoint_years
+band_c01695,band_c01695,Bear River,Nova Scotia,Digby County,1898,1914,12,variant_key+pool+disjoint_years
+band_c01684,band_c01695,Bear River (Micmacs),Nova Scotia,Digby County,1915,1929,10,variant_key+pool+disjoint_years
+band_c01711,band_c01712,Eskasoni (Reserve),Nova Scotia,Micmacs of Cape Breton County,1898,1904,5,variant_key+pool+disjoint_years
+band_c01712,band_c01712,Eskasoni,Nova Scotia,Cape Breton County,1905,1929,15,variant_key+pool+disjoint_years
+band_c01717,band_c01717,Wild Cat (reserve),Nova Scotia,Micmacs of Queen's County,1898,1909,13,variant_key+pool+disjoint_years
+band_c01801,band_c01717,Wild Cat,Nova Scotia,Queens County,1911,1917,8,variant_key+pool+disjoint_years
+band_c01759,band_c01759,Cooks Cove,Nova Scotia,Antigonish and Guysboro Counties,1916,1924,3,variant_key+pool+disjoint_years
+band_c01687,band_c01759,Cook's Cove (Free Hold),Nova Scotia,Antigonish and Guysboro Counties,1929,1929,1,variant_key+pool+disjoint_years
+band_c01803,band_c01803,Osnaburg,Ontario,"Indians in unorganized territory at Osnaburg House, Fort Hoije, Mai tin",1902,1929,10,overlap: no conflicting population
+band_c01840,band_c01803,Osnaburg (see also N.W.Ts. Div. No.2) (9),Ontario,Con.,1910,1910,1,overlap: no conflicting population
+band_c01818,band_c01818,Chippewas of Rama,Ontario,Rama Agency,1881,1929,29,overlap: no conflicting population
+band_c01959,band_c01818,Chippewas Rama,Ontario,Rama Agency,1891,1924,8,overlap: no conflicting population
+band_c01824,band_c01824,M 2,Ontario,Ojibbewas of Lake Huron,1902,1910,2,variant_key+pool+disjoint_years
+band_c02197,band_c01824,Pekangekum,Ontario,Clandeboye Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c01842,band_c01842,Six Nations on the Grand River,Ontario,Six Nations Superintendency,1881,1929,30,overlap: no conflicting population
+band_c01825,band_c01842,Six Nations on Grand River,Ontario,Grand River Superintendency - Six Nations,1903,1909,13,overlap: no conflicting population
+band_c01864,band_c01864,Mississaguas of Rice Lake,Ontario,Rice Lake Agency,1881,1929,37,overlap: no conflicting population
+band_c01901,band_c01864,Mississaguas Rice Lake,Ontario,,1904,1904,1,overlap: no conflicting population
+band_c01868,band_c01868,Kawaiagamot (Sturgeon Lake),Ontario,"Chippewas and Saulteaux of Treaty No. 3,",1897,1910,15,variant_key+pool+disjoint_years
+band_c02080,band_c01868,Sturgeon Lake,Ontario,Fort Frances Agency,1924,1929,2,variant_key+pool+disjoint_years
+band_c01910,band_c01874,Algonquins of Renfrew,Ontario,,1881,1890,7,variant_key+pool+disjoint_years
+band_c01874,band_c01874,"Algonquins, Renfrew, North",Ontario,Con.,1891,1910,19,variant_key+pool+disjoint_years
+band_c01877,band_c01877,Mississaguas of Alnwick,Ontario,Alnwick Agency,1881,1929,27,overlap: no conflicting population
+band_c01900,band_c01877,Mississaguas Alnwick,Ontario,Alnwick Agency,1904,1917,2,overlap: no conflicting population
+band_c01888,band_c01888,Fort Hope,Ontario,FRASER RIVER Agency,1905,1929,7,overlap: no conflicting population
+band_c01835,band_c01888,Fort Albany (see also N.W.Ts. Div. No.2) (9),Ontario,Con.,1910,1910,2,overlap: no conflicting population
+band_c01891,band_c01891,Mississaguas of Scugog,Ontario,Scugog Agency,1881,1929,32,overlap: no conflicting population
+band_c01937,band_c01891,Mississaguas Scugog,Ontario,,1904,1904,1,overlap: no conflicting population
+band_c01833,band_c02068,Martin Falls (see also N.W.Ts. Div. No.2) (9),Ontario,Con.,1910,1910,1,variant_key+pool+disjoint_years
+band_c02068,band_c02068,Martin Falls,Ontario,Fort William Agency,1916,1929,5,variant_key+pool+disjoint_years
+band_c02224,band_c02224,Long Lake,Ontario,Port Arthur Agency,1886,1929,39,overlap: no conflicting population
+band_c01832,band_c02224,Long Lake (Robinson Sup. Ty. And Ty. No. 9),Ontario,Port Arthur Agency,1910,1910,1,overlap: no conflicting population
+band_c02387,band_c02387,Way-way-see-cappo,Prairies/NWT,BIRTLE Agency,1892,1899,10,variant_key+pool+disjoint_years
+band_c02684,band_c02387,Waywayseecappo,Prairies/NWT,BIRTLE Agency,1900,1905,6,variant_key+pool+disjoint_years
+band_c02389,band_c02389,Pelican Lake Indians,Prairies/NWT,Carlton Agency,1892,1929,28,overlap: no conflicting population
+band_c01434,band_c02389,Pelican Lake,,Carlton,1893,1893,1,overlap: no conflicting population
+band_c03151,band_c02389,Pelican Lake,Saskatchewan Inspectorates,Carlton Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c01384,band_c02390,Stragglers,,Peigan,1893,1893,2,variant_key+pool+disjoint_years
+band_c02390,band_c02390,Stragglers,Prairies/NWT,Treaty No. 8,1902,1912,11,variant_key+pool+disjoint_years
+band_c01037,band_c02390,Fort McMurray and Stragglers,Isle A La Crosse,Timiskaming Agency,1914,1924,3,variant_key+pool+disjoint_years
+band_c02477,band_c02396,PINE CREEK (Agent Martineau),Prairies/NWT,PINE CREEK (Agent Martineau).,1892,1896,4,variant_key+pool+disjoint_years
+band_c02396,band_c02396,Pine Creek,Prairies/NWT,TOUCHWOOD HILLS Agency,1898,1905,11,variant_key+pool+disjoint_years
+band_c02398,band_c02398,"Wahspaton (Sioux, non-treaty)",Prairies/NWT,Carlton Agency,1895,1929,21,overlap: no conflicting population
+band_c02619,band_c02398,Wahpaton Sioux,Prairies/NWT,Carlton Agency,1911,1917,3,overlap: no conflicting population
+band_c02399,band_c02399,Sweet Grass,Prairies/NWT,BATTLEFORD Agency,1886,1929,48,overlap: no conflicting population
+band_c01452,band_c02399,Sweet Grass,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c03156,band_c02399,Sweet Grass,Saskatchewan Inspectorates,Battleford Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02416,band_c02416,Beaver Lake,Prairies/NWT,Saddle Lake Agency,1892,1929,30,overlap: no conflicting population
+band_c02550,band_c02416,Beaver Lake (Kaquanum),Prairies/NWT,SADDLE LAKE Agency,1892,1893,2,overlap: no conflicting population
+band_c02796,band_c02417,Leech Lake,Prairies/NWT,CROOKED LAKE Agency,1899,1899,1,variant_key+pool+disjoint_years
+band_c02417,band_c02417,Leech Lake (Little Bones),Prairies/NWT,CROOKED LAKE Agency,1900,1910,8,variant_key+pool+disjoint_years
+band_c01222,band_c02427,Athabasca District,Manitoba And The North-West Territories,,1886,1891,5,variant_key+pool+disjoint_years
+band_c01259,band_c02427,Athabaska District,Manitoba And The Northwest Territories,,1888,1888,1,variant_key+pool+disjoint_years
+band_c02427,band_c02427,Athabaska District,Prairies/NWT,Athabaska District,1896,1909,13,overlap: no conflicting population
+band_c01355,band_c02427,Eastern Athabasca District,,,1900,1905,2,overlap: no conflicting population
+band_c01943,band_c02427,Athabaska district,Ontario,Athabaska District,1906,1908,2,variant_key+pool+disjoint_years
+band_c02423,band_c02431,Red River,Prairies/NWT,Peace River District,1892,1904,8,variant_key+pool+disjoint_years
+band_c02431,band_c02431,Saskatchewan,Prairies/NWT,"Franklin District (formerly Arctic Coast, Esquimaux)",1907,1929,10,variant_key+pool+disjoint_years
+band_c01398,band_c02440,Running Rabbit,,Blackfoot,1893,1893,1,variant_key+pool+disjoint_years
+band_c02440,band_c02440,Running Rabbit,Prairies/NWT,BLACKFOOT Agency,1895,1912,15,overlap: no conflicting population
+band_c02515,band_c02440,Running Rabbit (Farm 20A),Prairies/NWT,Blackfoot,1901,1901,1,overlap: no conflicting population
+band_c02509,band_c02440,Running Rabbit (Farm 20 A),Prairies/NWT,Blackfoot Agency,1902,1903,3,overlap: no conflicting population
+band_c02445,band_c02445,William Charles (Montreal Lake),Prairies/NWT,Carlton Agency,1892,1929,28,overlap: no conflicting population
+band_c01390,band_c02445,William Charles,,Carlton,1893,1893,1,overlap: no conflicting population
+band_c02449,band_c02449,Ontario,Prairies/NWT,Division No. 2 - Con.,1896,1910,6,variant_key+pool+disjoint_years
+band_c02750,band_c02449,Fort Albany,Prairies/NWT,Chapleau Agency,1912,1912,1,variant_key+pool+disjoint_years
+band_c02461,band_c02461,Rivière Aux Liards District,Prairies/NWT,Recapitulation,1896,1898,3,variant_key+pool+disjoint_years
+band_c03121,band_c02461,Rivière Aux Liards District,Rivière Aux Liards,Nelson and Churchill Rivers District,1899,1899,1,variant_key+pool+disjoint_years
+band_c01353,band_c02461,Rivière Aux Liards District,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01016,band_c02461,Rivière Aux Liards District,Grand Recapitulation,Treaty No. 8,1901,1901,1,variant_key+pool+disjoint_years
+band_c02463,band_c02463,Wahsatanow,Prairies/NWT,SADDLE LAKE Agency,1892,1900,8,overlap: no conflicting population
+band_c01478,band_c02463,Wahsatanow,,Saddle Lake,1893,1893,1,overlap: no conflicting population
+band_c02711,band_c02467,William Twatt,Prairies/NWT,CARLTON Agency,1886,1910,9,overlap: no conflicting population
+band_c02467,band_c02467,William Twatt (Sturgeon Lake),Prairies/NWT,Carlton Agency,1892,1929,27,overlap: no conflicting population
+band_c02469,band_c02469,Arctic Red River,Prairies/NWT,Mackenzie River District,1910,1917,5,variant_key+pool+disjoint_years
+band_c02435,band_c02469,Arctic Red River (Loucheux No. 6),Prairies/NWT,Fort Simpson Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c02472,band_c02472,Kapahawekenum,Prairies/NWT,CARLTON Agency,1892,1904,13,overlap: no conflicting population
+band_c01407,band_c02472,Kapahawekenum,,Carlton,1893,1893,1,overlap: no conflicting population
+band_c01218,band_c02473,"Labrador, Canadian Interior",Manitoba And The North-West Territories,,1886,1891,5,variant_key+pool+disjoint_years
+band_c01255,band_c02473,"Labrador, Canadian Interior",Manitoba And The Northwest Territories,,1888,1888,1,variant_key+pool+disjoint_years
+band_c02473,band_c02473,"Labrador, Canadian Interior",Prairies/NWT,Nelson And Churchill Rivers District,1892,1910,12,overlap: identical population in shared years
+band_c01264,band_c02473,"Labrador, Canadian Interior",Nelson And Churchill Rivers,,1893,1893,1,variant_key+pool+disjoint_years
+band_c01091,band_c02473,"Labrador, Canadian Interior",Manitoba,Nelson And Churchill Rivers District,1895,1895,1,variant_key+pool+disjoint_years
+band_c01060,band_c02473,"Labrador, Canadian Interior","Labrador, Canadian Interior",Nelson and Churchill Rivers District,1899,1899,1,variant_key+pool+disjoint_years
+band_c01356,band_c02473,"Labrador, Canadian Interior",,,1900,1901,2,overlap: identical population in shared years
+band_c02476,band_c02476,Bear's Head,Prairies/NWT,BATTLEFORD Agency,1886,1913,15,overlap: no conflicting population
+band_c01483,band_c02476,Bear's Head,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c02778,band_c02476,Bears' Head,Prairies/NWT,Battleford Agency,1900,1900,1,overlap: no conflicting population
+band_c02646,band_c02476,Bear's Head-Stony,Prairies/NWT,Battleford Agency,1902,1902,1,variant_key+pool+disjoint_years
+band_c02602,band_c02476,"Bear's Head, Stony",Prairies/NWT,BATTLEFORD Agency,1905,1910,4,overlap: no conflicting population
+band_c02484,band_c02484,Fort Good Hope,Prairies/NWT,Lower M'Kenzie District,1892,1917,15,variant_key+pool+disjoint_years
+band_c02438,band_c02484,Fort Good Hope (Hare Skins No. 5),Prairies/NWT,Fort Simpson Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c02485,band_c02485,Great Slave Lake District,Prairies/NWT,Recapitulation,1896,1898,3,variant_key+pool+disjoint_years
+band_c01034,band_c02485,Great Slave Lake District,Great Slave Lake,Nelson and Churchill Rivers District,1899,1899,1,variant_key+pool+disjoint_years
+band_c01357,band_c02485,Great Slave Lake District,,,1900,1900,1,variant_key+pool+disjoint_years
+band_c01018,band_c02485,Great Slave Lake District,Grand Recapitulation,Treaty No. 8,1901,1901,1,variant_key+pool+disjoint_years
+band_c01423,band_c02486,James Robert,,Carlton,1893,1893,1,variant_key+pool+disjoint_years
+band_c02486,band_c02486,James Robert (Lac la Ronge),Prairies/NWT,CARLTON Agency,1899,1901,3,variant_key+pool+disjoint_years
+band_c02488,band_c02488,Little Pine and Lucky Man,Prairies/NWT,BATTLEFORD Agency,1886,1929,27,overlap: no conflicting population
+band_c01358,band_c02488,Little Pine,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c03154,band_c02488,Little Pine,Saskatchewan Inspectorates,Battleford Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02493,band_c02492,Sharphead (Chee-pooslequan),Prairies/NWT,PEACE HILLS Agency,1892,1892,1,variant_key+pool+disjoint_years
+band_c02492,band_c02492,Sharp Head (Cheepoostequan),Prairies/NWT,HOBBEMA Agency,1893,1901,8,overlap: no conflicting population
+band_c01498,band_c02492,Sharphead,,Hobbema,1893,1893,1,overlap: no conflicting population
+band_c02500,band_c02500,Fort Macpherson (Loucheux),Prairies/NWT,Mackenzie River District,1910,1917,5,variant_key+pool+disjoint_years
+band_c02450,band_c02500,Fort McPherson (Loucheux No. 7),Prairies/NWT,Fort Simpson Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c02507,band_c02507,Mackenzie District,Prairies/NWT,Mackenzie District,1896,1909,13,overlap: no conflicting population
+band_c01360,band_c02507,Upper Mackenzie District,,,1900,1905,3,overlap: no conflicting population
+band_c02510,band_c02510,Sakimay,Prairies/NWT,CROOKED LAKE Agency,1886,1929,28,overlap: no conflicting population
+band_c01497,band_c02510,Sa-ki-may,,Crooked Lakes,1886,1886,1,overlap: no conflicting population
+band_c02512,band_c02512,Beavers at Fort St. John,Prairies/NWT,Treaty No. 8,1895,1929,17,overlap: no conflicting population
+band_c02554,band_c02512,Fort St. John Indians,Prairies/NWT,Treaty No. 8,1899,1899,1,overlap: no conflicting population
+band_c02516,band_c02516,Ahtahkakoop,Prairies/NWT,Carlton Agency,1892,1929,26,overlap: no conflicting population
+band_c01440,band_c02516,Ahtahkakoop,,Carlton,1893,1893,1,overlap: no conflicting population
+band_c02810,band_c02516,Sandy Lake,Prairies/NWT,Carlton Agency,1917,1917,1,overlap: no conflicting population
+band_c02517,band_c02517,"Arctic Coast, Esquimaux",Prairies/NWT,Nelson And Churchill Rivers District,1892,1901,17,overlap: identical population in shared years
+band_c01100,band_c02517,"Arctic coast, Esquimaux",Manitoba,Nelson And Churchill Rivers District,1895,1895,1,variant_key+pool+disjoint_years
+band_c00001,band_c02517,"Arctic Coast, Esquimaux","Arctic Coast, Esquimaux",Nelson and Churchill Rivers District,1899,1899,1,variant_key+pool+disjoint_years
+band_c01362,band_c02517,"Arctic Coast, Esquimaux",,,1900,1901,2,overlap: identical population in shared years
+band_c02518,band_c02518,Big River (Kenemotoyoos),Prairies/NWT,Carlton Agency,1914,1916,3,variant_key+pool+disjoint_years
+band_c02820,band_c02518,Big River,Prairies/NWT,Carlton Agency,1917,1929,2,variant_key+pool+disjoint_years
+band_c02523,band_c02523,Fort Norman,Prairies/NWT,Lower M'Kenzie District,1892,1917,12,variant_key+pool+disjoint_years
+band_c02456,band_c02523,Fort Norman (Hare Skins No. 4),Prairies/NWT,Fort Simpson Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c02831,band_c02527,Kinoosayo,Prairies/NWT,Onion Lake Agency,1886,1929,2,overlap: no conflicting population
+band_c02527,band_c02527,Kinoosayo (Chipewyan),Prairies/NWT,ONION LAKE Agency,1892,1913,24,overlap: no conflicting population
+band_c02529,band_c02529,Mistawasis,Prairies/NWT,Carlton Agency,1892,1929,28,overlap: no conflicting population
+band_c01366,band_c02529,Mistawasis,,Carlton,1893,1893,2,overlap: no conflicting population
+band_c03157,band_c02529,Mistawasis,Saskatchewan Inspectorates,Carlton Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02530,band_c02530,Muskeg Lake (Petaquakey),Prairies/NWT,Carlton Agency,1893,1929,5,overlap: no conflicting population
+band_c01473,band_c02530,Petaquakey,,Carlton,1893,1893,1,overlap: no conflicting population
+band_c02807,band_c02530,Petaquakey,Prairies/NWT,Carlton Agency,1911,1914,5,overlap: no conflicting population
+band_c02537,band_c02537,White Pup,Prairies/NWT,BLACKFOOT Agency,1898,1900,3,variant_key+pool+disjoint_years
+band_c02582,band_c02537,White Pup (Farm 20 B),Prairies/NWT,Blackfoot Agency,1902,1903,3,variant_key+pool+disjoint_years
+band_c02541,band_c02541,Yellow Quill,Prairies/NWT,TOUCHWOOD HILLS Agency,1886,1909,20,overlap: no conflicting population
+band_c01439,band_c02541,Yellow Quill,,Touchwood Hills,1886,1893,3,overlap: no conflicting population
+band_c02578,band_c02542,Paul's,Prairies/NWT,Edmonton Agency,1892,1929,10,overlap: no conflicting population
+band_c01549,band_c02542,Paul,,Edmonton,1893,1893,1,overlap: no conflicting population
+band_c02542,band_c02542,Paul (White Whale Lake),Prairies/NWT,Edmonton Agency,1896,1912,14,overlap: no conflicting population
+band_c02544,band_c02544,Sarcee Agency,Prairies/NWT,Sarcee Agency,1886,1917,10,overlap: no conflicting population
+band_c01475,band_c02544,'The Sarcee',,SARCEE Agency,1895,1895,1,overlap: no conflicting population
+band_c02770,band_c02560,The Gambler,Prairies/NWT,Birtle Agency,1886,1893,2,overlap: no conflicting population
+band_c01453,band_c02560,The Gambler,,Birtle Agency,1886,1886,1,overlap: no conflicting population
+band_c02560,band_c02560,Gambler,Prairies/NWT,BIRTLE Agency,1892,1905,14,overlap: no conflicting population
+band_c01202,band_c02560,Gambler,Manitoba,Birtle Agency,1906,1929,11,variant_key+pool+disjoint_years
+band_c02564,band_c02564,Puskeeahkeewein,Prairies/NWT,ONION LAKE Agency,1895,1914,13,overlap: no conflicting population
+band_c02579,band_c02564,Pus-kee-ah-kee-wein,Prairies/NWT,ONION LAKE Agency,1896,1900,5,overlap: no conflicting population
+band_c02570,band_c02570,Chippewayan (Antoine),Prairies/NWT,SADDLE LAKE Agency,1886,1893,3,overlap: no conflicting population
+band_c01527,band_c02570,Antoine,,Saddle Lake,1893,1893,1,overlap: no conflicting population
+band_c02573,band_c02573,Fort Simpson,Prairies/NWT,Lower M'Kenzie District,1892,1917,12,variant_key+pool+disjoint_years
+band_c02502,band_c02573,Fort Simpson (Slaves No. 2),Prairies/NWT,Fort Simpson Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c02574,band_c02574,Fort Wrigley,Prairies/NWT,Lower M'Kenzie District,1892,1917,12,variant_key+pool+disjoint_years
+band_c02504,band_c02574,Fort Wrigley (Slaves No. 3),Prairies/NWT,Fort Simpson Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c02576,band_c02576,Montana (Little Bear),Prairies/NWT,Hobbema Agency,1897,1924,21,overlap: no conflicting population
+band_c02864,band_c02576,Montana (6),Prairies/NWT,Hobbema Agency,1910,1929,2,overlap: no conflicting population
+band_c02605,band_c02605,Carry-the-Kettle,Prairies/NWT,ASSINIBOINE Agency,1893,1929,19,overlap: no conflicting population
+band_c01376,band_c02605,Carry-the-Kettle,,Assiniboine,1893,1893,1,overlap: no conflicting population
+band_c03146,band_c02605,Carry-the-kettle,Saskatchewan Inspectorates,Assiniboine Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02609,band_c02609,Fort Liard,Prairies/NWT,Rivière Aux Liards District,1892,1917,12,variant_key+pool+disjoint_years
+band_c02522,band_c02609,Fort Liard (Slaves No. 8),Prairies/NWT,Fort Simpson Agency,1929,1929,1,variant_key+pool+disjoint_years
+band_c02612,band_c02612,Keewatin District,Prairies/NWT,Keewatin District,1903,1909,9,overlap: no conflicting population
+band_c01513,band_c02612,Keewatin,,,1905,1905,1,overlap: no conflicting population
+band_c02614,band_c02614,Little Black Bear,Prairies/NWT,File Hills Agency,1886,1929,28,overlap: no conflicting population
+band_c01372,band_c02614,Little Black Bear,,File Hills,1886,1893,2,overlap: no conflicting population
+band_c02617,band_c02617,Bull Head,Prairies/NWT,SARCEE Agency,1886,1929,23,overlap: no conflicting population
+band_c01484,band_c02617,Bull Head,,Sarcee,1893,1893,1,overlap: no conflicting population
+band_c02620,band_c02620,Seekaskootch,Prairies/NWT,ONION LAKE Agency,1892,1914,16,overlap: no conflicting population
+band_c01399,band_c02620,See-kas-kootch,,Onion Lake,1893,1893,1,overlap: no conflicting population
+band_c02681,band_c02620,See-kas-kootch,Prairies/NWT,ONION LAKE Agency,1895,1900,6,overlap: no conflicting population
+band_c02621,band_c02621,Ooneepowhayo,Prairies/NWT,ONION LAKE Agency,1886,1914,16,overlap: no conflicting population
+band_c01432,band_c02621,Ooneepowhayo,,Onion Lake,1893,1893,1,overlap: no conflicting population
+band_c02658,band_c02621,Oo-nee-pow-hayo,Prairies/NWT,ONION LAKE Agency,1896,1900,5,overlap: no conflicting population
+band_c02622,band_c02622,Bear's Paw,Prairies/NWT,Stony Agency,1886,1924,5,overlap: no conflicting population
+band_c02819,band_c02622,Bears Paw,Prairies/NWT,Stony Agency,1914,1929,3,overlap: no conflicting population
+band_c02633,band_c02633,Lean Man,Prairies/NWT,BATTLEFORD Agency,1886,1929,22,overlap: no conflicting population
+band_c01430,band_c02633,Lean Man,,Battleford,1886,1893,3,overlap: no conflicting population
+band_c02863,band_c02633,Leanman,Prairies/NWT,Battleford Agency,1913,1913,2,overlap: no conflicting population
+band_c02634,band_c02634,Mosquito,Prairies/NWT,BATTLEFORD Agency,1886,1929,22,overlap: no conflicting population
+band_c01519,band_c02634,Mosquito,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c02652,band_c02652,Chinniquy,Prairies/NWT,SARCEE Agency,1886,1893,3,overlap: no conflicting population
+band_c01506,band_c02652,Chiniquy,,Sarcee,1893,1893,1,overlap: no conflicting population
+band_c02665,band_c02665,Ungava,Prairies/NWT,Ungava District,1900,1909,12,overlap: identical population in shared years
+band_c01544,band_c02665,Ungava,,,1900,1900,1,overlap: identical population in shared years
+band_c02670,band_c02670,Enoch,Prairies/NWT,Edmonton Agency,1886,1929,26,overlap: no conflicting population
+band_c01545,band_c02670,Enoch,,Edmonton,1893,1893,2,overlap: no conflicting population
+band_c02672,band_c02672,George Gordon,Prairies/NWT,TOUCHWOOD HILLS Agency,1886,1929,28,overlap: no conflicting population
+band_c01404,band_c02672,George Gordon,,Touchwood Hills,1886,1893,2,overlap: no conflicting population
+band_c02675,band_c02675,Kahkewistahaw,Prairies/NWT,CROOKED LAKE Agency,1886,1929,20,overlap: no conflicting population
+band_c01378,band_c02675,Ka-ke-wis-ta-haw,,Crooked Lakes,1886,1886,1,overlap: no conflicting population
+band_c02589,band_c02675,Kah-ke-wis-ta-haw,Prairies/NWT,CROOKED LAKE Agency,1892,1899,8,overlap: no conflicting population
+band_c02590,band_c02676,Kee-see-koo-wenin,Prairies/NWT,BIRTLE Agency,1886,1899,9,variant_key+pool+disjoint_years
+band_c02676,band_c02676,Keeseekoowenin,Prairies/NWT,BIRTLE Agency,1900,1914,12,variant_key+pool+disjoint_years
+band_c02686,band_c02686,Keeheewin,Prairies/NWT,Onion Lake Agency,1886,1929,21,overlap: no conflicting population
+band_c01446,band_c02686,Kee-hee-win,,Onion Lake,1893,1893,1,overlap: no conflicting population
+band_c02722,band_c02686,Kee-hee-win,Prairies/NWT,ONION LAKE Agency,1896,1900,5,overlap: no conflicting population
+band_c02219,band_c02686,Keeheewin,Ontario,Onion Lake Agency,1909,1909,1,variant_key+pool+disjoint_years
+band_c02709,band_c02709,Thomas Hunter,Prairies/NWT,SADDLE LAKE Agency,1892,1893,2,overlap: no conflicting population
+band_c01415,band_c02709,Thomas Hunter,,Saddle Lake,1893,1893,1,overlap: no conflicting population
+band_c02720,band_c02720,Jacob,Prairies/NWT,SARCEE Agency,1886,1893,3,overlap: no conflicting population
+band_c01547,band_c02720,Jacob,,Sarcee,1893,1893,1,overlap: no conflicting population
+band_c02721,band_c02721,James Seenum,Prairies/NWT,SADDLE LAKE Agency,1886,1924,25,overlap: no conflicting population
+band_c01424,band_c02721,James Seenum,,Saddle Lake,1893,1893,1,overlap: no conflicting population
+band_c02698,band_c02723,Kee-see-konse,Prairies/NWT,Birtle Agency,1886,1886,1,variant_key+pool+disjoint_years
+band_c02723,band_c02723,Keeseekonse,Prairies/NWT,PELLY Agency,1904,1917,4,variant_key+pool+disjoint_years
+band_c02452,band_c02724,Kee-see-kouse,Prairies/NWT,Birtle,1893,1895,4,variant_key+pool+disjoint_years
+band_c02724,band_c02724,Keeseekouse,Prairies/NWT,Pelly Agency,1899,1929,10,variant_key+pool+disjoint_years
+band_c02728,band_c02728,Muscowequan,Prairies/NWT,TOUCHWOOD HILLS Agency,1886,1929,23,overlap: no conflicting population
+band_c01396,band_c02728,Mus-cow-e-quan,,Touchwood Hills,1886,1886,1,overlap: no conflicting population
+band_c01448,band_c02728,Muscowequan,,Touchwood Hills,1893,1893,1,overlap: no conflicting population
+band_c02735,band_c02735,Peepeekeesis,Prairies/NWT,File Hills Agency,1886,1929,19,overlap: no conflicting population
+band_c01388,band_c02735,Pee-pee-kee-sis,,File Hills,1886,1893,2,overlap: no conflicting population
+band_c02679,band_c02735,Pee-pee-keesis,Prairies/NWT,FILE HILLS Agency,1892,1903,7,overlap: no conflicting population
+band_c02738,band_c02738,Red Pheasant,Prairies/NWT,BATTLEFORD Agency,1886,1929,27,overlap: no conflicting population
+band_c01413,band_c02738,Red Pheasants,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c03152,band_c02738,Red Pheasant,Saskatchewan Inspectorates,Battleford Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02740,band_c02740,Star Blanket,Prairies/NWT,File Hills Agency,1886,1929,28,overlap: no conflicting population
+band_c01438,band_c02740,Blanket,,File Hills,1886,1893,2,overlap: no conflicting population
+band_c02742,band_c02742,Thunderchild,Prairies/NWT,BATTLEFORD Agency,1886,1929,27,overlap: no conflicting population
+band_c01416,band_c02742,Thunder Child,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c03153,band_c02742,Thunderchild,Saskatchewan Inspectorates,Battleford Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02748,band_c02748,Ermineskin,Prairies/NWT,Hobbema Agency,1886,1929,28,overlap: no conflicting population
+band_c01462,band_c02748,Ermineskin,,Hobbema,1893,1893,1,overlap: no conflicting population
+band_c02780,band_c02780,Blue Quill,Prairies/NWT,SADDLE LAKE Agency,1886,1912,21,overlap: no conflicting population
+band_c01458,band_c02780,Blue Quill,,Saddle Lake,1893,1893,1,overlap: no conflicting population
+band_c02169,band_c02780,Blue Quill,Ontario,Saddle Lake Agency,1893,1893,1,overlap: no conflicting population
+band_c02786,band_c02786,Crow Eagle,Prairies/NWT,PEIGAN Agency,1892,1893,2,overlap: no conflicting population
+band_c01461,band_c02786,Crow Eagle,,Peigan,1893,1893,1,overlap: no conflicting population
+band_c02797,band_c02797,Louis Bull,Prairies/NWT,Hobbema Agency,1893,1929,26,overlap: no conflicting population
+band_c01470,band_c02797,Louis Bull,,Hobbema,1893,1893,1,overlap: no conflicting population
+band_c02800,band_c02800,Moosomin,Prairies/NWT,Battleford Agency,1886,1929,26,overlap: no conflicting population
+band_c01518,band_c02800,Moosomin,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c03161,band_c02800,Moosomin,Saskatchewan Inspectorates,Battleford Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02808,band_c02808,Poundmaker,Prairies/NWT,BATTLEFORD Agency,1886,1929,27,overlap: no conflicting population
+band_c01474,band_c02808,Poundmaker,,Battleford,1886,1893,2,overlap: no conflicting population
+band_c03159,band_c02808,Poundmaker,Saskatchewan Inspectorates,Battleford Agency,1924,1924,1,variant_key+pool+disjoint_years
+band_c02818,band_c02818,Alexander,Prairies/NWT,Edmonton Agency,1886,1929,26,overlap: no conflicting population
+band_c01482,band_c02818,Alexander,,Edmonton,1893,1893,1,overlap: no conflicting population
+band_c02833,band_c02833,Lucky Man,Prairies/NWT,*Battleford Agency,1886,1929,2,overlap: no conflicting population
+band_c01491,band_c02833,Lucky Man,,Battleford,1886,1886,1,overlap: no conflicting population
+band_c02843,band_c02843,Day Star,Prairies/NWT,TOUCHWOOD HILLS Agency,1886,1929,28,overlap: no conflicting population
+band_c01507,band_c02843,Day Star,,Touchwood Hills,1886,1893,2,overlap: no conflicting population
+band_c02846,band_c02846,Kaquanum,Prairies/NWT,Victoria Agency,1886,1886,1,variant_key+pool+disjoint_years
+band_c01512,band_c02846,Kaquanum,,Saddle Lake,1893,1893,1,variant_key+pool+disjoint_years
+band_c02854,band_c02854,Okanees,Prairies/NWT,File Hills Agency,1886,1929,15,overlap: no conflicting population
+band_c01431,band_c02854,Okanees Star,,File Hills,1886,1893,2,overlap: no conflicting population
+band_c01349,band_c02856,Poor Man or Tah-we-ke-si-qua-pe,,Touchwood Hills,1886,1893,2,overlap: no conflicting population
+band_c02856,band_c02856,Poor Man,Prairies/NWT,TOUCHWOOD HILLS Agency,1892,1929,25,overlap: no conflicting population
+band_c02857,band_c02856,Poormans,Prairies/NWT,Touchwood Agency,1917,1917,1,overlap: no conflicting population
+band_c02866,band_c02866,Old Sun,Prairies/NWT,BLACKFOOT Agency,1886,1893,3,overlap: no conflicting population
+band_c01529,band_c02866,Old Sun,,Blackfoot,1893,1893,1,overlap: no conflicting population
+band_c02871,band_c02871,Samson,Prairies/NWT,Hobbema Agency,1886,1929,28,overlap: no conflicting population
+band_c01533,band_c02871,Sampson,,Hobbema,1893,1893,1,overlap: no conflicting population
+band_c02689,band_c02875,Joseph (Alexis),Prairies/NWT,Edmonton Agency,1886,1912,4,overlap: no conflicting population
+band_c01406,band_c02875,Joseph,,Edmonton,1893,1895,2,overlap: no conflicting population
+band_c02875,band_c02875,Joseph,Prairies/NWT,Edmonton Agency,1895,1929,22,overlap: no conflicting population
+band_c02876,band_c02876,Michel,Prairies/NWT,Edmonton Agency,1886,1929,26,overlap: no conflicting population
+band_c01539,band_c02876,Michel,,Edmonton,1893,1893,1,overlap: no conflicting population
+band_c03052,band_c03052,Kikendatch (Obidjuan),Quebec,Upper St. Maurice District,1916,1929,3,overlap: no conflicting population
+band_c03030,band_c03052,Kikendatch (Timiskaming),Quebec,Upper St. Maurice District,1917,1917,1,overlap: no conflicting population
+band_c03048,band_c03071,Betsiamits,Quebec,,1887,1901,12,variant_key+pool+disjoint_years
+band_c03071,band_c03071,Bersimis,Quebec,Bersimis Agency,1902,1914,20,variant_key+pool+disjoint_years
+band_c03251,band_c03251,Red River,Treaty No. 8,Lesser Slave Lake Agency,1914,1924,4,overlap: no conflicting population
+band_c03255,band_c03251,Red River (Crees),Treaty No. 8,Lesser Slave Lake Agency,1915,1915,1,overlap: no conflicting population

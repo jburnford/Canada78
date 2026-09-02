@@ -1,0 +1,221 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+TABULAR STATEMENT No. 1.
+
+SHOWING the Number of Acres of Indian Lands sold during the Year ended 30th June 1882; the total amount of
+Purchase Money, and quantity of surveyed surrendered Indian Lands remaining unsold at that date.
+
+                            Number              Approximate
+               Counties
+Towns or                    of     Amount       Quantity
+               or                                           Remarks.
+Townships.                  Acres of Sale.      remaining
+               Districts.
+                            sold.               unsold.
+...            ...          ...      $ cts.     ...        ...
+                                                           Some of these lands were reserved by the Department,
+                                                           the conditions of sale not having been complied with,
+Albermarle     Bruce        3,330    2,862 95 ...          so that in some townships there appears to have been
+                                                           more land sold during the past fiscal year than remained
+                                                           unsold according to the previous year's report.
+Amabel         Bruce        1,105    1,601 25   ...        ...
+Eastnor        Bruce        3,550    3,955 00   9,077      ...
+Lindsay        Bruce        10,773   8,874 60   22,382     ...
+St. Edmunds    Bruce        3,103    2,726 00   46,337     ...
+Town Plot,
+               Bruce        ...      ...        1,100      ...
+Hardwick
+Town Plot,
+               Bruce        54       269 20     391        ...
+Oliphant
+Town Plot,
+               Bruce        70       455 60     1,489      ...
+Adair
+Town Plot,
+            Bruce           ...      ...        336        ...
+Southampton
+Town Plot,
+               Bruce        ...      ...        1,768      ...
+Bury
+Keppel         Grey         786      1,234 00 ...          ...
+Wiarton        Grey         18       2,356 00 ...          ...
+               Algoma
+Bidwell                     100      50 00      7,953      ...
+               District
+               Algoma
+Howland                     500      25 000     5,163      ...
+               District
+               Algoma
+Sheguiandah                 ...      ...        10,418     ...
+               District
+Town Plot,     Algoma
+                            2        95 20      325        ...
+Sheguiaudah    District
+               Algoma
+Billings                    200      100 00     .
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+tigouche                               445
+Montagnais of Betsiamits                             447
+Montagnais of Escoumains                             49
+Montagnais of Godbout                                38
+Montagnais of Grand Romaine                          294
+Montagnais of Lake St. John                          315
+Montagnais of Mingan                                 180
+Montagnais of Moisie                                 7
+Naskapees of the Lower St. Lawrence                  2,860
+Natashquan                                           36
+Seven Islands                                        257
+St. Augustine                                        271
+Total                                                11,089
+
+                                                    ...
+PROVINCE OF NOVA SCOTIA.
+Micmacs of Annapolis, Digby, Yarmouth and Shelburne 362
+Micmacs of Kings County                             106
+Micmacs of Queens                                   95
+Micmacs of Lunenburg                                54
+Micmacs of Halifax                                  165
+Micmacs of Hants                                    169
+Micmacs of Colchester                               100
+
+
+
+=== EXTRACT FROM HERE (pages 389-393) ===
+<!-- page 389 -->
+Micmacs of Cumberland                 130
+Micmacs of Pictou                     187
+Micmacs of Antigonish and Guysboro'   169
+Micmacs of Richmond                   246
+Micmacs of Inverness                  90
+Micmacs of Victoria                   105
+Micmacs of Cape Breton                250
+Total                                 2,228
+
+                                      ...
+PROVINCE OF NEW BRUNSWICK.
+Micmacs of Restigouche                42
+Micmacs of Gloucester                 40
+Micmacs of Northumberland             396
+
+<!-- page 390 -->
+Micmacs of Kent                                          379
+Micmacs of Westmoreland                                  87
+Amalicites of Madawaska                                  32
+Amalicites of Victoria                                   152
+Amalicites of Carleton                                   38
+Amalicites of Charlotte                                  72
+Amalicites of St. Johns                                  20
+Amalicites of York, Sunbury, Kings and Queens Counties   228
+...                                                      1,486
+
+                                                         ...
+PROVINCE OF PRINCE EDWARD ISLAND.
+Micmacs                                                  312
+
+                                                         ...
+PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES.
+Chippewas and Crees of Treaty No. 1                      3,584
+Chippewas and Crees of Treaty No. 2                      1,004
+Chippewas and Salteaux of Treaty No. 3                   2,668
+Chippewas, Salteaux and Crees of Treaty No. 4            9,195
+Chippewas, Salteaux and Crees of Treaty No. 4            3,195
+Plain and Wood Crees of Treaty No. 6                     6,756
+Blackfeet of Treaty No. 7                                8,642
+Resident Sioux                                           2,000
+Total                                                    37,044
+
+                                                         ...
+ATHABASCA DISTRICT.
+Plain Crees                                              18
+Wood Crees                                               809
+Assiniboines                                             13
+Chipweyans                                               1,303
+Beavers                                                  255
+Total                                                    2,398
+
+                                                         ...
+RUPERT'S LAND.
+Rupert's House                                           400
+Fort George                                              450
+Little Whale River                                       50
+Nitchequon                                               180
+Osnaburgh                                                350
+Martin's Falls                                           300
+Long Lake                                                250
+New Brunswick                                            150
+
+<!-- page 391 -->
+Albany              100
+Mattamgimigue       120
+Abittibi            450
+Flying Post         100
+Mettachewan         50
+Long Portage Post   50
+Moose Factory       420
+Waswanapee          200
+Mistasine           150
+Total               3,770
+
+<!-- page 392 -->
+                                                           ...
+PROVINCE OF BRITISH COLUMBIA.
+
+                                                           ...
+Aht Nation.
+Ohey-aht                                                    262
+She-sha-aht                                                 161
+How-chuk-les-aht                                            91
+Opet-ches-aht                                               53
+To-quh-aht                                                  47
+W-ltoo-ilth-aht                                             287
+E-koolth-aht                                                48
+Estimates of the remaining tribes not included in the above 2,551
+Bella Coola and Ilet Suck, estimated at                     2,500
+Comox (3 bands)                                             88
+Cowichan Nation: -                                          ...
+Esquimault                                                  71
+Songhees                                                    182
+Nanaimo                                                     223
+Skwaw-mish                                                  639
+Soke                                                        39
+Tche-a-nook                                                 54
+Ke-tlay-nup                                                 24
+Lic-icks-sun                                                49
+Hal-alt                                                     44
+Pa-nel-a-kut                                                239
+Ku-leets                                                    117
+Sick-a-meen                                                 36
+So-me-naw                                                   112
+Kwaw-ma-chin                                                201
+Ka-nip-sum                                                  65
+Ko-ne-a-kun                                                 89
+Clem Clem-a-lits                                            167
+Kevil-Kiva-sha-lah                                          31
+Tlip-pah-lis                                                29
+Sno-no-wus                                                  17
+Kwaw-le-cum                                                 20
+Chah-thul-elp-il                                            104
+Tsah-wit-ook                                                71
+Pau-kwe-chin                                                93
+Tsi-klum                                                    41
+
+<!-- page 393 -->
+Sbe-shell                      167
+Ska-sah-ah                     20
+Koo-na-mich                    15
+Hydah nation, estimated at     2,500
+Quackewlth                     3,500
+Tsimpsheean                    5,000
+
+                               ...
+Mainland Bands.
+Samamhoo                       65
+Tsowassan                      52
+Misqueam                       92
+False Creek                    42
+Capitano Creek                 41
+Mission, Burrard Inlet         123
+Seymour Creek                  22
+No. 3 Reserve, Burrard Inlet   39
+Co-quit-lum                    36
+

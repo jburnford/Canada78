@@ -1,0 +1,24 @@
+{"row_type": "headers", "title": "RECAPITULATION APPROPRIATION ACCOUNTS, 1923 - 24", "columns": ["Grant $ cts.", "Expenditure $ cts.", "Grant not used $ cts.", "Grant exceeded $ cts."]}
+{"page": 165, "row_type": "row", "section": null, "label": "Civil Government", "values": ["168,890 00", "165,023 61", "3,866 39", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Annuities", "values": ["205,290 00", "212,587 00", null, "7,297 00(t)"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Prince Edward Island", "values": ["3,935 00", "3,929 87", "5 13", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["50,140 00", "50,130 09", "9 91", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "New Brunswick", "values": ["29,334 00", "29,329 71", "4 29", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Ontario and Quebec", "values": ["215,435 00", "225,299 88", null, "9,864 88*"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Manitoba, Saskatchewan, Alberta and N,W,T,", "values": ["729,223 00", "719,148 99", "10,074 01", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "British Columbia", "values": ["289,850 00", "249,874 41", "39,975 59", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Yukon", "values": ["15,000 00", "13,607 68", "1,392 32", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "General", "values": ["147,500 00", "147,404 72", "95 28", null], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Indian education", "values": ["1,943,702 00", "1,943,486 09", "215 91", null], "confidence": "high"}
+{"page": 165, "row_type": "total", "section": null, "label": "Total", "values": ["3,798,299 00", "3,759,822 05", "55,638 83", "17,161 88"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Bonus", "values": ["$71,183 02", null, null, null], "confidence": "low"}
+{"page": 165, "row_type": "row", "section": null, "label": "Retirement Act 1920", "values": ["1,680 00", null, null, null], "confidence": "low"}
+{"page": 165, "row_type": "row", "section": null, "label": "Miscellaneous Gratuities", "values": ["536 66", null, null, null], "confidence": "low"}
+{"page": 165, "row_type": "note", "section": null, "label": "[*A governor General's warrant covers this overexpenditure and the Supplementary Estimates 1924-25 will provide for it.]", "values": [null, null, null, null], "confidence": "high"}
+{"page": 165, "row_type": "note", "section": null, "label": "[(t)A greater expenditure was incurred on Annuities Account owing to a Treaty having negotiated with Indians of the Mackenzie River District. The amount of the grant be increased from $205,290 to $223,000 in connection with the estimates for 1925 - 26.]", "values": [null, null, null, null], "confidence": "high"}
+{"row_type": "headers", "title": "INDIAN TRUST FUND SHOWING transaction in connection with the Fund during the year ended March 31, 1924.", "columns": ["Debit $ cts.", "Credit $ cts."]}
+{"page": 165, "row_type": "row", "section": null, "label": "Balance, March 31, 1923", "values": [null, "11,516,212 72"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Collections on land sales, timber and stone dues, rents, fine and fees.", "values": [null, "1,027,066 85"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Interest for year ending March 31, 1924", "values": [null, "586,709 07"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Legislative grants to supplement the funds", "values": [null, "10,500 00"], "confidence": "high"}
+{"page": 165, "row_type": "row", "section": null, "label": "Outstanding che", "values": [null, null], "confidence": "low"}

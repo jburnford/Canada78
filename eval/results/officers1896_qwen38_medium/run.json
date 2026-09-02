@@ -1,0 +1,162 @@
+{
+ "01": {
+  "seconds": 406.8,
+  "pages": "732\u2013735",
+  "windows": [
+   {
+    "window": [
+     732,
+     735
+    ],
+    "rows": 51,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 406.8,
+    "finish_reason": "stop",
+    "completion_tokens": 14825
+   }
+  ],
+  "rows": 51,
+  "complete": true
+ },
+ "02": {
+  "seconds": 368.2,
+  "pages": "736\u2013739",
+  "windows": [
+   {
+    "window": [
+     736,
+     739
+    ],
+    "rows": 75,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 368.2,
+    "finish_reason": "stop",
+    "completion_tokens": 13470
+   }
+  ],
+  "rows": 75,
+  "complete": true
+ },
+ "03": {
+  "seconds": 354.1,
+  "pages": "740\u2013743",
+  "windows": [
+   {
+    "window": [
+     740,
+     743
+    ],
+    "rows": 59,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 354.1,
+    "finish_reason": "stop",
+    "completion_tokens": 13620
+   }
+  ],
+  "rows": 59,
+  "complete": true
+ },
+ "04": {
+  "seconds": 268.1,
+  "pages": "744\u2013747",
+  "windows": [
+   {
+    "window": [
+     744,
+     747
+    ],
+    "rows": 85,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 268.1,
+    "finish_reason": "stop",
+    "completion_tokens": 10230
+   }
+  ],
+  "rows": 85,
+  "complete": true
+ },
+ "05": {
+  "seconds": 25.2,
+  "pages": "748\u2013748",
+  "windows": [
+   {
+    "window": [
+     748,
+     748
+    ],
+    "rows": 1,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 25.2,
+    "finish_reason": "stop",
+    "completion_tokens": 924
+   }
+  ],
+  "rows": 1,
+  "complete": true
+ },
+ "00": {
+  "seconds": 372.7,
+  "pages": "728\u2013731",
+  "windows": [
+   {
+    "window": [
+     728,
+     731
+    ],
+    "rows": 65,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 372.7,
+    "finish_reason": "stop",
+    "completion_tokens": 13595
+   }
+  ],
+  "rows": 65,
+  "complete": true
+ },
+ "06": {
+  "seconds": 312.9,
+  "pages": "737\u2013742",
+  "windows": [
+   {
+    "window": [
+     737,
+     742
+    ],
+    "rows": 1,
+    "dropped_out_of_window": 0,
+    "parse": "salvaged",
+    "seconds": 312.9,
+    "finish_reason": "stop",
+    "completion_tokens": 11849
+   }
+  ],
+  "rows": 1,
+  "complete": true
+ },
+ "07": {
+  "seconds": 380.5,
+  "pages": "743\u2013747",
+  "windows": [
+   {
+    "window": [
+     743,
+     747
+    ],
+    "rows": 94,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 380.5,
+    "finish_reason": "stop",
+    "completion_tokens": 14626
+   }
+  ],
+  "rows": 94,
+  "complete": true
+ }
+}

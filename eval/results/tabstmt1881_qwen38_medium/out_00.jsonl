@@ -1,0 +1,71 @@
+{"row_type": "headers", "title": "TABULAR STATEMENT No. 1. Showing the Number of Acres of Indian Lands sold during the Year ended 30th June, 1881; the total amount of Purchase Money, and quantity of surveyed surrendered Indian Lands remaining unsold at that date.", "columns": ["Counties or Districts", "Number of Acres sold", "Amount of Sale ($ cts.)", "Approximate Quantity remaining unsold", "Remarks"]}
+{"page": 399, "row_type": "row", "section": null, "label": "Albemarle", "values": ["Bruce", "4,303", "4,074 00", "3,121", "Some of these lands were resumed by the Department, the conditions of sale not having complied with so that in some Townships there appears to have been more land sold during the past fiscal year than remained unsold according to the previous year's Report."], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Amabel", "values": ["Bruce", "566", "715 50", null, null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Eastnor", "values": ["Bruce", "2,253", "1,956 25", "12,627 50/100", null], "confidence": "medium"}
+{"page": 399, "row_type": "row", "section": null, "label": "Lindsay", "values": ["Bruce", "4,242", "3,819 50", "33,155", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "St. Edmunds", "values": ["Bruce", "2,427", "2,304 75", "49,440", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Town Plot, Hardwick", "values": ["Bruce", null, null, "1,100", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Town Plot, Oliphant", "values": ["Bruce", "30", "192 00", "446 50/100", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Town Plot, Adair", "values": ["Bruce", "139", "634 00", "1,560 10/100 90/100", null], "confidence": "medium"}
+{"page": 399, "row_type": "row", "section": null, "label": "Town Plot, Southampton", "values": ["Bruce", null, null, "336", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Town Plot, Bury", "values": ["Bruce", null, null, "1,768", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Keppel", "values": ["Grey", "2,238", "3,509 50", "99/100", null], "confidence": "medium"}
+{"page": 399, "row_type": "row", "section": null, "label": "Wiarton", "values": ["Bruce", "3", "280 00", "50/100", null], "confidence": "medium"}
+{"page": 399, "row_type": "row", "section": null, "label": "Bidwell", "values": ["Algoma District", "400", "208 50", "8,053", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Howland", "values": ["Algoma District", "400", "50 00", "5,263", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Sheguiandah", "values": ["Algoma District", "196", "98 00", "10,418 50/100", null], "confidence": "medium"}
+{"page": 399, "row_type": "row", "section": null, "label": "Town Plot, Sheguiandah District", "values": ["Algoma", "1", "40 00", "328 20/100", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Billings", "values": ["Algoma District", null, "50 00", null, "Water frontage 100 yards."], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Assiginack", "values": ["Algoma District", "355", "177 50", "7,218", null], "confidence": "high"}
+{"page": 399, "row_type": "row", "section": null, "label": "Campbell", "values": ["Algoma District", "169", "84 50", "14,404", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Carnarvon", "values": ["Algoma District", "807", "403 50", "11,371", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Allan", "values": ["Algoma District", "500", "250 00", "8,366", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Tehkummah", "values": ["Algoma District", "400", "200 00", "8,470", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Sandfield", "values": ["Algoma District", "254", "127 00", "3,780", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Gordon", "values": ["Algoma District", "13", "6 50", "3,311", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Town Plot, Shaftesbury District", "values": ["Algoma", null, null, "237 58/100", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Thessalon River", "values": ["Algoma District", "640", "640 00", "11,951", null], "confidence": "high"}
+{"page": 400, "row_type": "row", "section": null, "label": "Macdonald", "values": ["Algoma District", "80", "40 00", "8,898", null], "confidence": "high"}
+{"page": 400, "row_type": "total", "section": null, "label": "Carried forward", "values": [null, "20,118 39/100", "19,861 00", "205,623 38/100", null], "confidence": "high"}
+{"page": 401, "row_type": "total", "section": null, "label": "Brought forward", "values": [null, "20,118 39/100", "19,861 00", "205,623 38/100", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Garden River Reserve", "values": ["Algoma District", "200", "300 00", "15,777 50/100", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Ameres", "values": ["Algoma District", null, null, "9,742", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Fenwick", "values": ["Algoma District", "879 75/100", "459 50", "13,891 25/100", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Kars", "values": ["Algoma District", null, null, "9,479", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Pennefather", "values": ["Algoma District", null, null, "18,131", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Dennis", "values": ["Algoma District", null, null, "3,509", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Herrick", "values": ["Algoma District", null, null, "7,506", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Fisher", "values": ["Algoma District", null, null, "9,602", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Tilley", "values": ["Algoma District", null, null, "12,691", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Haviland", "values": ["Algoma District", null, null, "3,821", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Vankoughnet", "values": ["Algoma District", null, null, "11,830", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Tupper", "values": ["Algoma District", null, null, "2,800", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Archibald", "values": ["Algoma District", null, null, "2,900", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Laird", "values": ["Algoma District", "168", "134 56", "15,327 15/100", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Meredith", "values": ["Algoma District", null, null, "8,784", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Gore Bay", "values": ["Algoma District", "3 50/100", "105 00", "17 25/100", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Manitowaning", "values": ["Algoma District", "4 81/100", "421 75", "41 92/100", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Robinson", "values": ["Algoma District", "1,619", "789 00", "65,579", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Dawson", "values": ["Algoma District", "610 25/100", "303 25", "33,654 75/100", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Cockburn Island", "values": ["Algoma District", "2,296", "1,416 00", "28,456", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Mills", "values": ["Algoma District", "401", "175 25", "14,435", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Burpee", "values": ["Algoma District", "1,776", "893 50", "15,672", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Barrie Island", "values": ["Algoma District", "2,006", "923 00", "7,250", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Neebing", "values": ["Thunder Bay", null, null, "3,778", null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Sarnia", "values": ["Lambton", "43 34/100", "16,900 00", null, null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Anderdon", "values": ["Essex", "2,194 85/100", "23 00", null, null], "confidence": "high"}
+{"page": 401, "row_type": "row", "section": null, "label": "Seneca", "values": ["Haldimand", "202", "3,030 00", "281 37/100", null], "confidence": "high"}
+{"page": 401, "row_type": "total", "section": null, "label": "Carried forward", "values": [null, "32,522 89/100", "45,734 81", "520,599 57/100", null], "confidence": "high"}
+{"page": 402, "row_type": "total", "section": null, "label": "Brought forward", "values": [null, "32,522 89/100", "45,734 81", "520,599 57/100", null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Cayuga", "values": ["Haldimand", "54 50/100", "654 00", "875", "The decrease shown in the area of land sold during the year is explained by the fact that during that period no new townships have been placed in the market."], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Brantford", "values": ["Brant", "46 32/100", "1,115 00", null, null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Tyendinaga", "values": ["Hastings", "204", "405 00", "3,421", null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Port Credit and part of Township of Toronto", "values": [null, null, "3,520 00", null, null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Rama", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Village of Azoff", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Ouiatchouan", "values": ["Chicoutimi", null, null, "13,070", null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Viger", "values": ["Temiscouata", null, null, null, null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Thorah Island", "values": ["Ontario", null, null, "134", null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Hyck's Island, River Trent", "values": ["Trent", null, null, null, null], "confidence": "high"}
+{"page": 402, "row_type": "row", "section": null, "label": "Islands in River St. Lawrence", "values": [null, "466 10/100", "1,358 20", "1,333 80/100", null], "confidence": "high"}
+{"page": 402, "row_type": "total", "section": null, "label": "...", "values": [null, "33,293 31/100", "52,787 01", "539,433 37/100", null], "confidence": "high"}

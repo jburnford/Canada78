@@ -1,0 +1,84 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICUTURAL AND INDUSTRIAL STATISTICS
+
+<!-- page 901 -->
+REALTY OF INDIANS.
+                 LANDS AND SOURCES FROM WHICH INDIANS
+Agency.                                                                           PUBLIC BUILDINGS, PROPERTY OF THE BAND.
+                 DERIVE THEIR SUPPORT.
+                                                    Number
+                                                    engaged
+                 Cleared                   Number            Number Number                                                                                            Value of
+                              Under                 in
+                 but not                   engaged           engaged engaged                          Other                Council School Driving Other               Public
+...                           actual                hunting,                      Threshers. Engines.            Churches.                                   Ferries.
+                 under                     in                in other in stock                        Machinery.           Houses. Houses. Sheds. Buildings.          Properties,
+                              cultivation.          trapping
+                 cultivation.              farming.          industries. raising.                                                                                     & c.
+                                                    and
+                                                    fishing.
+ONTARIO.        Acres.      Acres.      ...      ...      ...        ...      ...        ...       ...         ...       ...      ...      ...     ...        ...     ...
+Grand River
+Superintendency 23,974      10,722      405      10       ...        408      ...        ...       ...         ...       1        10       2       2          ...     16,500 00
+- Six Nations
+Parry Sound
+                ...         1,317       ...      ...      ...        ...      ...        ...       ...         6         1        5        1       7          ...     4,450 00
+Superintendency
+New Credit
+(Mississaguas) 1,950        3,700       45       ...      35         ...      ...        ...       5           2         1        1        2       3          ...     8,130 00
+Agency
+Walpole Island
+               33,425       1,005       55       35       ...        25       ...        ...       ...         2         2        3        2       2          3       4,050 00
+Agency
+Sarnia Agency 2,205         
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+     900 50      ...        250 50
+Office and miscellaneous                                           75 00       6 01        68 99      ...
+...                                                                1,950 00    1,850 57    349 93     250 50
+BRITISH COLUMBIA.                                                  ...         ...         ...        ...
+Salaries                                                           23,360 00   23,404 24   ...        44 24
+Relief                                                             8,000 00    7,246 10    753 90     ...
+Seed                                                               1,000 00    544 51      455 49     ...
+Medical attendance and medicines                                   20,000 00   20,709 08   ...        709 08
+Day schools                                                        11,400 00   11,478 24   ...        78 24
+Industrial and boarding schools                                    87,500 00   78,232 72   9,267 28   ...
+Travelling expenses                                                6,600 00    5,843 39    756 61     ...
+Office and miscellaneous, hospital and dyking and suppression of
+                                                                   13,986 00 13,268 38     717 62     ...
+liquor traffic
+Surveys and Reserve Commission                                     2,500 00 1,100 20     1,399 80 ...
+...                                                                174,346 00 161,826 86 13,350 70 831 56
+
+
+
+=== EXTRACT FROM HERE (pages 1025-1026) ===
+<!-- page 1025 -->
+Sub Vote.                                   Grant.     Expenditure Grant not used. Grant exceeded.
+GENERAL.                                    $ cts.     $ cts.      $ cts.          $ cts.
+Salaries of inspectors                      4,300 00 4,300 00      ...             ...
+Travelling expenses and clerical assistance 2,200 00 1,413 06      786 94          ...
+Printing and stationery, outside service    6,000 00 5,997 39      2 61            ...
+...                                         12,500 00 11,710 45 789 55             ...
+INDIANS OF MANITOBA AND NORTHWEST PROVINCES AND TERRITORIES, 1905 - 6.
+Sub Vote.                                   Grant.     Expenditure Grant not used. Grant exceeded.
+...                                         $ cts.     $ cts.      $ cts.          $ cts.
+Annuities and commutations                  141,365 00 141,175 00 190 00           ...
+Implements, tools and hardware              6,832 00 6,827 64      4 36            ...
+Field and garden seeds                      3,564 00 3,563 16      0 84            ...
+Live stock                                  31,253 00 31,218 10 34 90              ...
+Supplies for destitute and working Indians 170,521 00 154,843 64 15,677 36         ...
+Triennial clothing                          2,580 00 2,135 79      444 21          ...
+Day, boarding and industrial schools        345,122 00 345,331 60 ...              209 60
+Surveys                                     17,700 00 17,657 61 42 39              ...
+Sioux                                       10,683 00 5,029 71     5,653 29        ...
+Grist and sawmills                          657 00     619 54      37 46           ...
+General expenses                            169,900 00 170,024 94 ...              124 94
+Total                                       900,177 00 878,426 73 22,084 81        334 54
+INDIANS OF YUKON DISTRICT.
+Supplies for destitute Indians              8,000 00 4,507 00      3,493 00        ...
+Day and boarding schools                    5,000 00 3,644 93      1,355 07        ...
+Total                                       13,000 00 8,151 93     4,848 07        ...
+
+<!-- page 1026 -->

@@ -1,0 +1,42 @@
+{
+ "00": {
+  "seconds": 559.7,
+  "pages": "27\u201329",
+  "windows": [
+   {
+    "window": [
+     27,
+     29
+    ],
+    "rows": 38,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 559.7,
+    "finish_reason": "stop",
+    "completion_tokens": 13599
+   }
+  ],
+  "rows": 38,
+  "complete": true
+ },
+ "01": {
+  "seconds": 874.6,
+  "pages": "30\u201332",
+  "windows": [
+   {
+    "window": [
+     30,
+     32
+    ],
+    "rows": 35,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 874.6,
+    "finish_reason": "stop",
+    "completion_tokens": 21491
+   }
+  ],
+  "rows": 35,
+  "complete": true
+ }
+}

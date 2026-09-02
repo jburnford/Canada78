@@ -1,0 +1,63 @@
+{"row_type": "headers", "title": "RECAPITULATION UNDER DEPARTMENTAL HEADINGS - RÉCAPITULATION D'APRÈS CLASSIFICATION DU MINISTÈRE", "columns": ["Total", "Salaries", "Medical Attendance", "Relief", "Aid to Agriculture", "Repairs to Roads and Dyking", "Miscellaneous"]}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Inspectorate", "values": ["$5,178 43", "$2,280 00", "$2,047 05", null, null, null, "$851 38"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Annapolis", "values": ["3,232 70", "150 00", "893 20", "$2,059 55", "$59 50", null, "70 45"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Antigonish and Guysboro", "values": ["4,756 40", "300 00", "924 95", "3,242 35", "153 50", null, "135 60"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Colchester", "values": ["2,665 25", "300 00", "1,115 00", "1,126 48", "113 85", "$7 50", "2 42"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Cumberland", "values": ["3,121 73", "137 50", "740 10", "2,217 16", "23 30", null, "3 67"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Digby", "values": ["4,409 93", "250 00", "765 20", "2,957 20", "85 80", "306 38", "45 35"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Eskasoni", "values": ["3,465 09", "300 00", "962 50", "1,260 89", "150 00", "791 70", null], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Halifax", "values": ["2,583 20", "200 00", "572 15", "1,652 81", "90 84", null, "67 40"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Inverness", "values": ["6,886 54", "300 00", "1,286 00", "4,297 75", null, "999 79", "3 00"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "King's", "values": ["2,651 14", "300 00", "700 15", "1,531 23", "87 81", null, "31 95"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Lunenburg", "values": ["1,012 89", "300 00", "150 00", "445 63", null, "49 85", "67 41"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Pictou", "values": ["2,971 08", "300 00", "377 75", "1,970 18", "138 15", null, "185 00"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Queen's", "values": ["828 76", null, "210 50", "618 26", null, null, null], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Richmond", "values": ["2,659 63", "250 00", "359 35", "1,788 28", "245 00", "12 00", "5 00"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Shelburne", "values": ["690 00", "62 50", "393 50", "208 00", "26 00", null, null], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Shubenacadie", "values": ["1,716 51", "100 00", "348 25", "1,156 26", "110 00", null, "2 00"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Sydney", "values": ["4,260 40", "100 00", "1,536 90", "2,349 31", null, null, "274 19"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Victoria", "values": ["2,903 42", "150 00", "297 92", "2,229 75", "147 75", null, "78 00"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Windsor", "values": ["1,801 59", "150 00", "307 60", "1,323 23", "11 64", null, "9 12"], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "Yarmouth", "values": ["1,949 28", "150 00", "910 10", "889 18", null, null, null], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Nova Scotia", "label": "General expenses", "values": ["22,092 33", null, "1,612 64", "87 56", null, null, "20,392 13"], "confidence": "high"}
+{"page": 120, "row_type": "total", "section": "Nova Scotia", "label": "...", "values": ["81,836 30", "6,080 00", "16,510 81", "33,411 06", "1,443 14", "2,167 22", "22,224 07"], "confidence": "high"}
+{"page": 120, "row_type": "note", "section": "Nova Scotia", "label": "Salaries and Wages", "values": ["20,197 02", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 120, "row_type": "note", "section": "Nova Scotia", "label": "Travelling Expenses", "values": ["2,220 59", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 120, "row_type": "note", "section": "Nova Scotia", "label": "Materials, Supplies, Repairs, etc.", "values": ["14,897 35", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 120, "row_type": "note", "section": "Nova Scotia", "label": "Miscellaneous", "values": ["11,110 28", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 120, "row_type": "note", "section": "Nova Scotia", "label": "Other Outlay, Relief", "values": ["33,411 06", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 120, "row_type": "total", "section": "Nova Scotia", "label": "...", "values": ["$81,836 30", null, null, null, null, null, null], "confidence": "high"}
+{"page": 121, "row_type": "note", "section": "New Brunswick", "label": "Votes - Crédits 269 & 417 - New Brunswick - Nouveau-Brunswick", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 121, "row_type": "note", "section": "New Brunswick", "label": "Northeastern Division", "values": ["21,750 30", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 121, "row_type": "note", "section": "New Brunswick", "label": "Northern Division", "values": ["6,184 61", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 121, "row_type": "note", "section": "New Brunswick", "label": "Southwestern Division", "values": ["11,095 10", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 121, "row_type": "note", "section": "New Brunswick", "label": "General", "values": ["140 00", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 121, "row_type": "total", "section": "New Brunswick", "label": "Total as shown in Summary", "values": ["$39,170 01", null, null, null, null, null, null], "confidence": "high"}
+{"page": 122, "row_type": "row", "section": "New Brunswick", "label": "Northeastern division", "values": ["$21,750 30", null, "$1,140 00", "$4,126 08", "$15,145 65", "$743 52", "$595 05"], "confidence": "medium"}
+{"page": 122, "row_type": "row", "section": "New Brunswick", "label": "Northern division", "values": ["6,184 61", null, "1,110 00", "770 29", "3,961 82", "56 50", "286 00"], "confidence": "medium"}
+{"page": 122, "row_type": "row", "section": "New Brunswick", "label": "Southwestern division", "values": ["11,095 10", null, "1,080 00", "3,464 65", "5,495 00", "196 56", "858 89"], "confidence": "medium"}
+{"page": 122, "row_type": "row", "section": "New Brunswick", "label": "General", "values": ["140 00", null, "135 00", null, null, null, "5 00"], "confidence": "medium"}
+{"page": 122, "row_type": "total", "section": "New Brunswick", "label": "...", "values": ["39,170 01", null, "3,465 00", "8,361 02", "24,602 47", "996 58", "1,744 94"], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "New Brunswick", "label": "Salaries and Wages", "values": ["6,438 33", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "New Brunswick", "label": "Travelling Expenses", "values": ["913 30", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "New Brunswick", "label": "Materials, Supplies, Repairs, etc.", "values": ["1,045 08", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "New Brunswick", "label": "Miscellaneous", "values": ["6,170 83", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "New Brunswick", "label": "Other Outlay, Relief", "values": ["24,602 47", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "total", "section": "New Brunswick", "label": "...", "values": ["$39,170 01", null, null, null, null, null, null], "confidence": "high"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Votes - Crédits 270 & 418 - Prince Edward Island - Ile du Prince-Edouard", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Salaries and wages: - Agent, Rev. J.A. McDonald", "values": ["840 00", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Medical attendance: - Physician, Dr. J.A. Stewart, $450; hospitals, $395.69; medical, $871.75", "values": ["1,717 44", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Relief and seed grain", "values": ["2,955 21", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Miscellaneous: - Ferryman, J.P. Labobe", "values": ["150 00", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "total", "section": "Prince Edward Island", "label": "Total as shown in Summary", "values": ["$5,662 65", null, null, null, null, null, null], "confidence": "high"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Salaries and Wages", "values": ["1,440 00", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Miscellaneous", "values": ["1,267 44", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "Prince Edward Island", "label": "Other Outlay, Relief", "values": ["2,995 21", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "total", "section": "Prince Edward Island", "label": "...", "values": ["$5,662 65", null, null, null, null, null, null], "confidence": "high"}
+{"page": 122, "row_type": "note", "section": "Ontario and Quebec", "label": "Votes - Crédits 271 & 477 - Ontario and Quebec - Ontario et Québec", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 122, "row_type": "note", "section": "Ontario and Quebec", "label": "Alnwick Agency", "values": ["1,351 08", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 122, "row_type": "note", "section": "Ontario and Quebec", "label": "Bécancour Agency", "values": ["866 54", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 123, "row_type": "note", "section": "Ontario and Quebec", "label": "Berismis Agency", "values": ["4,698 04", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 123, "row_type": "note", "section": "Ontario and Quebec", "label": "Cacouna Agency", "values": ["3,062 35", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 123, "row_type": "note", "section": "Ontario and Quebec", "label": "Cape Croker Agency", "values": ["2,053 30", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 123, "row_type": "note", "section": "Ontario and Quebec", "label": "Caradoc Agency", "values": ["17,629 26", null, null, null, null, null, null], "confidence": "medium"}

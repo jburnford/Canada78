@@ -1,0 +1,128 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+TABULAR STATEMENT No. 1.
+Showing the Number of Acres of Indian Lands sold during the Year ended 30th June, 1881; the total amount of
+Purchase Money, and quantity of surveyed surrendered Indian Lands remaining unsold at that date.
+
+                         Number            Approximate
+              Counties
+Towns or                 of     Amount     Quantity
+              or                                       Remarks.
+Townships.               Acres of Sale.    remaining
+              Districts.
+                         sold.             unsold.
+...           ...       ...     $ cts.     ...           ...
+                                                         Some of these lands were resumed by the Department, the
+                                                         conditions of sale not having complied with so that in some
+Albemarle     Bruce     4,303   4,074 00 3,121           Townships there appears to have been more land sold
+                                                         during the past fiscal year than remained unsold according
+                                                         to the previous year's Report.
+Amabel        Bruce     566     715 50     ...           ...
+                                           12,627
+Eastnor       Bruce     2,253   1,956 25                 ...
+                                           50/100
+Lindsay     Bruce       4,242   3,819 50 33,155          ...
+St. Edmunds Bruce       2,427   2,304 75 49,440          ...
+Town Plot,
+            Bruce       ...     ...        1,100         ...
+Hardwick
+Town Plot,
+              Bruce     30      192 00     446 50/100    ...
+Oliphant
+Town Plot,              139
+              Bruce            634 00      1,560 10/100 ...
+Adair                   90/100
+Town Plot,
+            Bruce       ...     ...        336           ...
+Southampton
+Town Plot,
+              Bruce     ...     ...        1,768         ...
+Bury
+                        2,238
+Keppel        Grey             3,509 50 ...              ...
+                        99/100
+                        3
+Wiarton       Bruce            280 00      ...           ...
+                        50/100
+              Algoma
+Bidwell                400      208 50     8,053         ...
+              District
+              Algoma
+Howland                400      50 00      5,263         ...
+              District
+              Algoma                       10,418
+Sheguiandah            196      98 00                   
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+Territories                            3/4
+(ss)British
+              ...         ...          ...   255     31       306       210        ...        ...      ...         777          9,247    412
+Columbia
+                                       6,341
+Totals        46,962      75,365 1/4         7,629   2,842    2,158     1,639      1,448      391      43          14,149       12,883 744
+                                       3/4
+
+[*No Tabular Statements have been received from the Agents of Districts Nos. 1, 8 and 12.]
+
+[(t)Inspector McColl's Report contains further statistical information regarding the Indians within the Manitoba Superintendency.]
+
+[(tt)For further statistics see Tabular Statement accompanying Commissioner Dewdney's Report.]
+
+[(ss)No Tabular Statements having been received from British Columbia the figures given in last year's Reports are republished.]
+
+[(||)Fish, furs and oils to the value of $739,056 were exported during the year 1881; the greater portion of these exports were the product of
+Indian labor.]
+
+THOS. F.S. KIRKPATRICK,
+Clerk of Statistics.
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 31st December, 1881.
+L. VANKOUGHNET,
+Deputy Supt.-Gen. of Indian Affairs.
+
+
+
+=== EXTRACT FROM HERE (pages 404-405) ===
+<!-- page 404 -->
+TABULAR STATEMENT NO. 2.
+
+AGRICULTURAL and Industrial Statistics.
+
+                                     Young                                                                               Fish,       Furs,    Other
+PROVINCES. Sheep. Pigs. Oxen.               Corn. Wheat. Oats.       Peas.   Barley. Rye. Buckwheat. Potatoes. Hay.
+                                     Stock.                                                                              Value.      Value.   Industries.
+...             ...     ...   ...    ...     bush. bush. bush. bush. bush. bush. bush.                   bush.     tons. $           $        $
+Ontario         1,625   4,968 692    2,517   51,331 57,014 64,006 19,607 17,893 1,955 1,049              71,841    5,471 22,136      41,099   36,231
+Quebec          157     827 39       650     5,292 6,931 16,809 6,752 881       67    2,750              17,261    1,827 777         36,791   57,840
+*Nova Scotia    57      30    13     86      130    149    520    51     100    80    92                 5,258     343   1,788       420      5,065
+New
+                11      113   9      53      34      190     4,120 39        ...     ...    1,935        10,250    405     784       4,764    9,614
+Brunswick
+P.E. Island     ...     4     2      2       4     80        200     2       ...     ...    ...          1,600     34    350     40     3,300
+(t)Manitoba     7       110   292    580     1,247 3,142     208     10      680     ...    ...          37,322    3,011 101,365 94,973 1,300
+(tt)N.W.
+                ...     ...   164    ...     ...     6,172   4,580 333       8,900   ...    ...          19,891    2,582 ...         ...      ...
+Territories
+(ss)British
+                128     1,673 133    ...     ...     ...     ...     ...     ...     ...    ...          ...       ...     ...       ...      273,501
+Columbia
+Totals          1,985 7,725 1,344 3,888 58,038 73,678 90,443 26,794 28,454 2,102 5,826                   163,423 13,673 127,200 178,087 386,860
+
+[*No Tabular Statements have been received from the Agents of Districts Nos. 1, 8 and 12.]
+
+[(t)Inspector McColl's Report contains further statistical information regarding the Indians within the Manitoba Superintendency.]
+
+[(tt)For further statistics see Tabular Statement accompanying Commissioner Dewdney's Report.]
+
+[(ss)No Tabular Statements having been received from British Columbia the figures given in last year's Reports are republished.]
+
+[(||)Fish, furs and oils to the value of $739,056 were exported during the year 1881; the greater portion of these exports were the product of Indian
+labor.]
+
+THOS. F.S. KIRKPATRICK,
+Clerk of Statistics.
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 31st December, 1881.
+L. VANKOUGHNET,
+Deputy Supt.-Gen. of Indian Affairs.
+
+<!-- page 405 -->

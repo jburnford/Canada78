@@ -1,0 +1,306 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+REALTY OF INDIANS - STATEMENT FOR THE YEAR ENDED MARCH 31, 1913.
+
+               Lands and Sources from which Indians derive their Support.
+                                                                   Number engaged   Number        Number
+Agency.        Cleared but Under         Total Value Number
+                                                                   in Hunting,      engaged in    engaged in
+               not under    actual       of Lands in engaged in
+                                                                   Trapping and     other         Stock
+               Cultivation. Cultivation. Reserve.     Farming.
+                                                                   Fishing.         Industries.   Raising.
+
+               Acres.       Acres.      $ cts.         ...       ...                ...           ...
+ALBERTA.
+Blackfoot      170,330      1,950       2,797,280 00   70        ...                ...           125
+Blood          345,426      3,900       5,306,990 00   51        ...                ...           305
+Edmonton       36,888       1,842       1,176,928 00   58        70                 43            67
+Hobbema        138          1,156       408,155 00     98        102                50            2
+Lesser Slave
+               11,460       40          152,000 00     ...       40                 1             24
+Lake
+Peigan         90,516       3,022       972,600 00    70         ...                ...           125
+Saddle Lake    78,631       1,569       565,478 00    112        192                ...           125
+Sarcee         58,120       218         1,099,596 00 10          16                 6             23
+Stony          44,365       355         207,905 00    50         100                100           82
+Total          835,874      14,052      12,686,932 00 519        520                200           948
+
+BRITISH      ...            ...         ...            ...       ...                ...           ...
+COLUMBIA.
+Babina and
+             7,711          790         56,308 00      ...       81                 520           28
+Upper Skeena
+Bella Coola    230          34          183,460 00     10        396                249           5
+Cassiar
+               ...          400         ...            ...       151                ...           7
+(Stickine)*
+Cowichan       5,403        3,272       1,652,375 00   57        ...                382           ...
+Kam
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+     ...    23     290      72     290 641 5,000 172 14,659 00           6,980 00    132,467 00
+Portage la Prairie ...    9      5        43     43    15    900    80    1,350 00     3,600 00    229,202 00
+Valley River Band ...     ...    ...      19     10    ...   217    17    700 00       2,300 00    75,050 00
+Total              41     683    1,134    576    1,549 3,762 21,848 2,209 92,129 00    55,640 00   1,908,221 20
+
+NEW                 ...   ...    ...      ...    ...   ...   ...     ...   ...         ...         ...
+BRUNSWICK.
+Northeastern
+                    ...   ...    ...      ...    ...   ...   ...     ...   ...         ...         ...
+Division: -
+Gloucester, Kent,
+Northumberland,
+Restigouche and    34     48     30       14     154   245   66      6     5,020 00    16,000 00 117,845 00
+Westmorland
+Counties
+Northern Division:
+                   ...    ...    ...      ...    ...   ...   ...     ...   ...         ...         ...
+-
+Madawaska and
+                    ...   ...    12       10     6     ...   55      2     500 00      3,350 00    41,120 00
+Victoria Counties
+Southwestern
+                    ...   ...    ...      ...    ...   ...   ...     ...   ...         ...         ...
+Division: -
+Carleton,
+Charlotte, Kings,
+Queens, Sunbury, ...      2      37       32     35    6     1,206 ...     1,896 40    3,561 00    47,396 40
+St. Johns and York
+Counties
+Total              34     50     79       56     195   251   1,327 8       7,416 40    22,911 00 206,361 40
+
+
+
+=== EXTRACT FROM HERE (pages 1051-1055) ===
+<!-- page 1051 -->
+AGRICULTURE, SEASON 1912 - STATEMENT FOR YEAR ENDED MARCH 31, 1913.
+
+              Grain, Roots and Fodder.
+              Wheat.            Oats.           Barley.          Corn.            Pease.           Rye.             Buck-wheat.      Beans.
+Agency.
+              Acres Bushels     Acres Bushels   Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+              Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+
+              ...   ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+ALBERTA.
+Blackfoot     ...   ...       36     *         ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+Blood         1,266 19,336    471    14,683    ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+                              1,197
+Edmonton      69    1,110           27,821     184    2,840     ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+                              3/4
+                              1,089
+Hobbema       21 3/4 210            34,308     32 1/2 1,168     ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+                              1/2
+Lesser Slave
+             ...    ...       24     25        10     7         ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+Lake
+Peigan        1,322 21,718    342    5,800     160    7,145     ...    ...       ...     ...      10     ...       ...    ...       ...    ...
+Saddle Lake   2     36        582    5,306     84     1,125     ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+Sarcee        ...   ...       65     828       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+Stony         ...   ...       190    *         ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+              2,680           3,997            470
+Total               42,410          88,771            12,285    ...    ...       ...     ...      10     ...       ...    ...       ...    ...
+              3/4             1/4              1/2
+
+BRITISH     ...     ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+COLUMBIA
+Babine and
+Upper       ...     ...       71     142       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+Skeena
+Bella Coola ...     ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+Cassiar
+            ...     ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+(Stickine)
+Cowichan   3        110       217 11,080       ...    ...       ...    ...       1 1/2   70       ...    ...       ...    ...       ...    ...
+Kamloops   66       2,950     323 15,500       ...    ...       20     881       14      582      ...    ...       ...    ...       7      491
+Kootenay   45       1,325     1,295 25,100     ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+Kwawkewlth ...      ...       ...   ...        ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+                                                                                                                                    116
+Lytton        189   6,369     416    12,940    ...    ...       ...    ...       ...     ...      ...    ...       ...    ...              3,620
+                                                                                                                                    1/2
+Nass        ...     ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...       ...    ...
+New                                                                              102
+            38      1,530     323    22,160    ...    ...       16 1/2 630               3,990    ...    ...       ...    ...       14 1/4 465
+Westminster                                                                      1/2
+Okanagan      1,135 17,100    1,900 37,750     ...    ...       4      60        11      250      ...    ...       ...    ...       5      80
+
+<!-- page 1052 -->
+                Grain, Roots and Fodder.
+                Wheat.            Oats.           Barley.          Corn.            Pease.           Rye.             Buck-wheat.      Beans.
+Agency.
+                Acres Bushels     Acres Bushels   Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+                Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+Queen Charlotte ...    ...        ...    ...      ...     ...      ...   ...        ...    ...       ...   ...        ...   ...        ...    ...
+Stuart Lake     ...    ...        87     3,440    ...     ...      ...   ...        ...    ...       ...   ...        ...   ...        ...    ...
+West Coast      ...    ...        ...    ...      ...     ...      ...   ...        ...    ...       ...   ...        ...   ...        ...    ...
+Williams Lake 117 2,080           286 7,990       ...     ...      ...   ...        ...    ...       ...   ...        ...   ...        ...    ...
+                                                                                                                                      142
+Total            1,593 31,464    5,718 136,402    ...   ...        40 1/2 1,571    129    4,892     ...    ...       ...    ...              4,656
+                                                                                                                                      3/4
+
+                 ...   ...       ...   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+MANITOBA
+                                 1,248
+Birtle           798   6,147           29,464     45    445        2 1/2 111       ...    ...       ...    ...       ...    ...       ...    ...
+                                 1/2
+Clandeboye       ...   ...       30    1,200      2     80         ...     ...     3      75        ...    ...       ...    ...       ...    ...
+Griswold         2,006 31,963    432   9,289      8     315        7 1/2   316     ...    ...       ...    ...       ...    ...       ...    ...
+Manitowapah      20    390       65    1,815      ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Norway House     ...   ...       ...   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Pas              ...   ...       ...   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Portage la
+                 737   11,743    364   9,833      102   2,543      ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Prairie
+Valley River
+                 ...   ...       101   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Band
+                                 2,240
+Total            3,561 50,243          51,601     157   3,383      10      427     3      75        ...    ...       ...    ...       ...    ...
+                                 1/2
+
+NEW          ...       ...       ...   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+BRUNSWICK.
+Northeastern
+             ...       ...       ...   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Division: -
+Gloucester,
+Kent,
+Northumberland,
+                ...    ...       210   1,900      ...   ...        ...     ...     ...    ...       ...    ...       11     150       ...    ...
+Restigouche and
+Westmorland
+Counties
+Northern
+                ...    ...       ...   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Division: -
+Madawaska and
+Victoria      4 1/2 40           51    1,297      ...   ...        ...     ...     1      7         ...    ...       36     519       1/4    3
+Counties
+Southwestern
+              ...   ...          ...   ...        ...   ...        ...     ...     ...    ...       ...    ...       ...    ...       ...    ...
+Division: -
+Carleton,
+Charlotte,
+
+<!-- page 1053 -->
+Kings, Queens,
+               ...   ...   6     50      ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   1    20
+Sunbury, St.
+Johns and York
+Counties
+Total          4 1/2 40    267   3,247   ...   ...   ...   ...   1     7     ...   ...   47    669   1 1/4 23
+
+[*Green feed only.]
+
+<!-- page 1054 -->
+              Grain, Roots and Fodder - Continued
+                                                                                                             New Land Improvements.
+              Potatoes.         Carrots.          Turnips.         Other Roots.   Hay.
+                                                                                                     Fodder                   Land
+Agency
+              Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels                       Other. Land      Land    Cropped Land
+                                                                                  Cultivated Wild.
+              Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.                            Cleared. Broken. for First Fenced.
+                                                                                                                              Time.
+
+              ...   ...         ...     ...       ...     ...      ...   ...      ...       ...      ...     ...      ...      ...      ...
+ALBERTA.
+Blackfoot     7     1,305       1/4     10        1/4     35       ...   ...      ...       1,637 60         ...      1,696    ...      500
+                                                                                            2,352
+Blood         10    600         ...     ...       ...     ...      ...   ...      ...             ...        ...      782      1,757    ...
+                                                                                            1/2
+Edmonton     26 1/2 2,027       1       90        ...     ...      ...   ...      135       1,480 68         ...     306       ...      ...
+Hobbema      8 1/2 2,667        ...     ...       ...     ...      3 1/2 925      ...       2,887 155        137 3/4 ...       ...      ...
+Lesser Slave
+             6 1/2 312          ...     ...       ...     ...      ...   ...      ...       721      ...     ...      ...      ...      ...
+Lake
+Peigan      5      ...          ...     ...       ...     ...      ...   ...      200       200      470     ...      1,129    1,000    1,440
+Saddle Lake 11 1/2 1,691        1 1/2   3         4 1/2   5        ...   ...      ...       3,208    184     ...      100      ...      80
+Sarcee      1      120          ...     ...       ...     ...      ...   ...      ...       600      225     ...      ...      ...      ...
+Stony       ...    ...          ...     ...       ...     ...      ...   ...      185       576      ...     ...      ...      ...      ...
+                                                                                            13,661
+Total         76    8,772       2 3/4 103         4 3/4 40         3 1/2 925      520              1,162     137 3/4 4,013     2,757    2,020
+                                                                                            1/2
+
+BRITISH    ...      ...        ...      ...       ...     ...      ...   ...      ...       ...      ...     ...      ...      ...      ...
+COLUMBIA
+Babine and
+Upper      317      51,300     ...      ...       49      10,700   ...   ...      379       320      ...     67       64       64       59
+Skeena
+Bella Coola   11    1,525      1        100       1/2     75       ...   ...      20        177      10      6        4        4        7
+Cassiar
+              ...   ...        ...      ...       ...     ...      ...   ...      ...       27       ...     ...      ...      ...      ...
+(Stickine)
+Cowichan    44 1/2 2,217       ...    ...         ...     ...      ...   ...      834       1        ...     ...      ...      ...      ...
+Kamloops    288 42,433         82 1/2 10,900      123     15,767   231   28,566   2,620     148      1,030   22       689      689      ...
+Kootenay    76     8,850       ...    ...         ...     ...      ...   ...      310       700      190     ...      ...      ...      ...
+Kwawkewlth ...     ...         ...    ...         ...     ...      ...   ...      ...       ...      ...     ...      ...      ...      ...
+Lytton      265 6,498          ...    ...         ...     ...      2     25       915       790      ...     43       40       52 1/2   49 1/2
+Nass        ...    ...         ...    ...         ...     ...      ...   ...      ...       ...      ...     ...      ...      ...      ...
+New
+            192 32,810         13 1/2 1825        31 3/4 5,740     ...   ...      454       382      268     65 1/2   65 1/2   65 1/2   62 1/2
+Westminster
+Okanagan    175 19,365          11      1365      17      1,955    ...   ...      2,400     310      800     115      300      340      910
+
+<!-- page 1055 -->
+                Grain, Roots and Fodder - Continued
+                                                                                                             New Land Improvements.
+                Potatoes.         Carrots.          Turnips.         Other Roots.     Hay.
+                                                                                                       Fodder                 Land
+Agency
+                Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels                       Other. Land    Land    Cropped Land
+                                                                                    Cultivated Wild.
+                Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.                          Cleared. Broken. for First Fenced.
+                                                                                                                              Time.
+Queen Charlotte 4      ...        1/2    ...        1/2    ...       3       ...      ...     ...   ...      6        ...     ...       10
+Stuart Lake     41 1/3 5,920      ...    ...        9 1/4 3,190      1 1/4   90       121     769 ...        9        43      55        90
+West Coast      1 3/4 243         1/8    19         ...    ...       ...     ...      19      3     ...      15       5       ...       6 1/2
+Williams Lake 81       3,370      18 1/2 1,465      17 1/2 1,500     12      820      238     1,275 ...      ...      ...     ...       320
+                1,496             127               258              249                                               1,210           1,514
+Total                 174,531            15,774             37,927           29,501   8,310   4,902 2,298    348 1/2           1,270
+                3/4               1/8               1/2              1/4                                               1/2             1/2
+
+                ...   ...         ...    ...        ...     ...      ...     ...      ...     ...      ...   ...       ...     ...     ...
+MANITOBA
+Birtle          15 1/2 2,016     ...     ...        ...     ...      6       170      ...     964 1,478      ...       150     166     ...
+Clandeboye      ...    1,050     ...     ...        ...     ...      ...     ...      20      530 ...        ...       ...     ...     ...
+Griswold        17 1/2 3,069     ...     ...        ...     ...      5 1/4   ...      ...     507 160        ...       29      17      46
+Manitowapah     59     5,141     5 1/2   347        2 1/2   278      ...     ...      ...     4,594 ...      ...       19      ...     ...
+Norway House    40     650       ...     ...        ...     ...      ...     ...      ...     90    ...      ...       ...     ...     ...
+Pas             86     4,630     6       65         4       140      ...     ...      ...     915 ...        ...       ...     ...     ...
+Portage la
+                9 1/2 876        1       161        ...     ...      1 1/4 100        ...     504      32    ...       34      148     ...
+Prairie
+Valley River
+                1     100        ...     ...        ...     ...      ...     ...      ...     123      118   ...       9       ...     100
+Band
+                228
+Total                 17,532     12 1/2 513         6 1/2 418        12 1/2 270       20      8,137 1,788    ...       241     331     146
+                1/2
+
+NEW          ...      ...        ...     ...        ...     ...      ...     ...      ...     ...      ...   ...       ...     ...     ...
+BRUNSWICK.
+Northeastern
+             ...      ...        ...     ...        ...     ...      ...     ...      ...     ...      ...   ...       ...     ...     ...
+Division: -
+Gloucester,
+Kent,
+Northumberland,
+                192   6,245      ...     1          ...     ...      ...     ...      93      8        51    ...       ...     ...     ...
+Restigouche and
+Westmorland
+Counties
+Northern
+                ...   ...        ...     ...        ...     ...      ...     ...      ...     ...      ...   ...       ...     ...     ...
+Division: -
+Madawaska and
+Victoria      31      2,512      ...     ...        1       43       ...     ...      90      ...      ...   2         6       6       ...
+Counties
+Southwestern
+              ...     ...        ...     ...        ...     ...      ...     ...      ...     ...      ...   ...       ...     ...     ...
+Division: -
+Carleton,
+

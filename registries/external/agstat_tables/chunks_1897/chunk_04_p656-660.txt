@@ -1,0 +1,291 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 637 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+POPULATION.
+                                                                                                                 Post Office
+Province,        Name of        Resident                 From 6 to 15  From 16 to 20 From 21 to 65
+                                            Under 6                                                From 65 years Address of
+Agency or        Superintendent Indian                   Yrs.,         Yrs.,         Yrs.,
+                                            Years.                                                 Upwards.      Superintendent
+Band.            or Agent.      Population.              Inclusive.    Inclusive.    Inclusive.
+                                                                                                                 or Agent
+...              ...            ...        Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...            ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+ONTARIO
+Grand River
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,703       214   261     385   359      186   143    1,008 978     83    86      Brantford.
+                 Supt
+Missisaguas,     Hugh Stewart,
+                               244         16    5       40    17       10    8      63    72      5     8       Hagersville.
+New Credit       Agent
+                Alex.
+Walpole Island McKelvey         822        54    67      95    97       32    40     225   212     ...   ...     Wallaceburg.
+                Agent
+Western
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 Adam,
+1st Division                    (*)468     24    41      38    34       30    15     125   120     10    9       Sarnia.
+                 English, Agent
+                 A.S.
+2nd Division     McDougall      1,353      81    79      156   128      72    67     392   319     32    27      Melbourne
+                 Agent
+                 John Beattie
+3rd Division                    302        29    23      35    35       11    10     81    76      2     ...     Highgate.
+                 Agent
+Northern
+Superintendency ...             ...        ..
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ Sault, No. 2                         3     6     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   2     ...   ...   ...   ...   200 00 ...
+                           Agent
+                           M. Begg,
+Manitou Rapids, No. 1                     1     5     ...   ...   6     ...   3     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   435 00 ...
+                           Agent
+                           M. Begg,
+Manitou Rapids, No. 2                     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...
+                           Agent
+                           M. Begg,
+Little Forks                              2     2     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   80 00   ...
+                           Agent
+                           M. Begg,
+Coutcheeching                             ...   2     ...   ...   1     1     2     1     ...   ...   ...   ...   ...   ...   ...   ...   8     175 00 ...
+                           Agent
+                           M. Begg,
+Stangecoming                              ...   1     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   20 00   ...
+                           Agent
+                           M. Begg,
+Niacatchewenin                            ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...
+
+
+
+=== EXTRACT FROM HERE (pages 656-660) ===
+<!-- page 656 -->
+                         Agent
+                         M. Begg,
+Kickickonesemenecaning                   ...   2     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   40 00    ...
+                         Agent
+                         M. Begg,
+Riviere la Seine                         ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...      ...
+                         Agent
+                         M. Begg,
+Lac la Croix                             1     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   20 00    ...
+                         Agent
+                         L.J.A.
+Lac de Mille Lacs        Leveque,        1     ...   ...   ...   1     ...   1     1     ...   ...   ...   ...   ...   ...   ...   ...   ...   50 00    ...
+                         Inspector
+                      L.J.A.
+Kawaiagamot (Sturgeon
+                      Leveque,           ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...      ...
+Lake)
+                      Inspector
+                      L.J.A.
+Wabigoon              Leveque,           2     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   50 00    ...
+                      Inspector
+                      L.J.A.
+Frenchman's Head      Leveque,           ...   ...   ...   1     ...   ...   4     4     ...   ...   ...   ...   ...   ...   ...   ...   ...   130 00 ...
+                      Inspector
+                      L.J.A.
+Lac Seul              Leveque,           ...   ...   ...   2     1     ...   9     6     ...   ...   ...   ...   ...   ...   ...   ...   ...   300 00 ...
+                      Inspector
+                      L.J.A.
+Wabuskang             Leveque,           ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...      ...
+                      Inspector
+                      L.J.A.
+Grassy Narrows        Leveque,           ...   ...   ...   ...   ...   ...   1     1     ...   ...   ...   ...   ...   ...   ...   ...   ...   30 00    ...
+                      Inspector
+                      L.J.A.
+Eagle Lake            Leveque,           ...   ...   ...   ...   ...   ...   1     2     ...   ...   ...   ...   ...   ...   ...   ...   ...   30 00    ...
+                      Inspector
+                         R.J.N. Pither,                                                                                                        Not
+The Dalles                              ...    ...   ...   ...   2     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+                         R.J.N. Pither,                                                                                                        Not
+Islington                               ...    ...   ...   2     8     9     5     4     ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+                         R.J.N. Pither,                                                                                                        Not
+Rat Portage                             ...    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+                         R.J.N. Pither,                                                                                                        Not
+Northwest Angle No. 37                  10     ...   ...   2     3     ...   4     5     ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+                         R.J.N. Pither,                                                                                                        Not
+Northwest Angle No. 33                  1      ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+                         R.J.N. Pither,                                                                                                        Not
+Northwest Angle No. 34                  1      ...   ...   1     3     ...   4     2     ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+                         R.J.N. Pither,                                                                                                        Not
+Big Island                              8      ...   ...   ...   1     ...   3     1     ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+                         R.J.N. Pither,                                                                                                        Not
+Assabasca                               16     ...   ...   ...   2     ...   5     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...            ...
+                         Agent                                                                                                                 given.
+
+<!-- page 657 -->
+White Fish Bay
+                     R.J.N. Pither,
+                     Agent          ILJUUUUUUUUULJLJULJUUUULJ
+                                    4        ...   ...   ...   ...   ...   2     2     ...   ...   ...   ...     ...   ...     ...   ...   ...
+                                                                                                                                                    Not
+                                                                                                                                                    given.
+                                                                                                                                                             ...
+
+
+I :=~:==========:IDDDDDDDDDDDDDDDDDDD
+                     R.J.N. Pither,                                                                                                                 Not
+Shoal Lake, No. 40                  1        ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...     ...   ...   ...               ...
+                     Agent                                                                                                                          given.
+
+
+I :=~:==========:IDDDDDDDDDDDDDDDDDDD
+                     R.J.N. Pither,                                                                                                                 Not
+Shoal Lake, No. 39                  ...      ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...     ...   ...   ...               ...
+                     Agent                                                                                                                          given.
+
+Totals
+
+14 - 25 1/2
+                     ...
+                                   ID DDDDDDDDDDDDDDDDDD
+                                     1,984   1,696 668   122   135   310   2,312 2,240 746   62    281   1,096   4,555 2,600   636   2,240 25,877
+                                                                                                                                                    204,633
+                                                                                                                                                    50
+                                                                                                                                                            ...
+
+<!-- page 658 -->
+Table, see page 386.
+
+<!-- page 659 -->
+                                                                                                    Value of
+Province,        Name of
+                                                                                          HOUSEHOLD Real and
+Agency or        Superintendent GENERAL EFFECTS.                                                             Remarks
+                                                                                          EFFECTS.  Personal
+Band.            or Agent.
+                                                                                                    Property
+                                 Sail Row                      Shot        Steel Value
+...              ...                           Canoes. Rifles.       Nets.             Value of.     ...        ...
+                                 Boats. Boats.                 Guns.       Traps. of.
+
+                 ...             ...   ...    ...     ...    ...   ...   ...     $ cts.   $ cts.     $ cts.     ...
+ONTARIO.
+Grand River
+Superintendency ...              ...   ...    ...     ...    ...   ...   ...     ...      ...        ...        ...
+-
+                 E.D. Cameron,                                                                       762,253
+Six Nations                     ...    4      1       15     129   1     280     873 00 23,250 00               ...
+                 Superintendent                                                                      00
+Mississaguas,    Hugh Stewart,                                                                       235,903
+                               ...     1      ...     5      11    2     6       75 00 5,225 00                 ...
+New Credit       Agent                                                                               00
+               Alex.
+                                                                                                     120,290
+Walpole Island McKelvey,         4     20     25      10     12    ...   200     700 00 4,440 00                ...
+                                                                                                     00
+               Agent
+Western
+Superintendency ...              ...   ...    ...     ...    ...   ...   ...     ...      ...        ...        ...
+-
+                 Adam English,                                                                       376,781
+1st Division                   ...     37     ...     16     33    10    7       992 00 12,640 00               ...
+                 Agent                                                                               00
+                 A.S.
+                                                                                 11,200              453,632
+2nd Division     McDougall,      ...   ...    ...     ...    ...   ...   ...            ...                     ...
+                                                                                 00                  00
+                 Agent
+                 John Beattie,                                                                       102,000
+3rd Division                     ...   3      2       10     12    6     16      200 00 1,800 00                ...
+                 Agent                                                                               00
+Northern
+Superintendency ...              ...   ...    ...     ...    ...   ...   ...     ...      ...        ...        ...
+-
+                 B.W. Ross,                                                      15,663              496,375
+1st Division                    166    76     132     47     291   529   1,227          41,805 00               ...
+                 Superintendent                                                  00                  00
+                                                                                                     1,028,800
+2nd Division     W.B. Maclean ...      ...    ...     ...    ...   ...   ...     ...      ...                  ...
+                                                                                                     00
+                 Wm. Van                                                         5,964
+3rd Division                   49      37     28      7      115   25    681           13,535 75     67,130 00 ...
+                 Abbott, Agent                                                   50
+                 J.P. Donnelly,                                                  18,611
+4th Division                    28     20     387     66     359   632   1,970          13,850 00    32,461 00 ...
+                 Agent                                                           00
+Golden Lake      E. Bennett,
+                                 ...   ...    12      13     8     12    14      375 00 640 00       3,335 00 ...
+Agency           Agent
+               George
+Mohawks of the                                                                                       474,080
+               Anderson,         ...   ...    ...     10     35    2     100     365 00 14,400 00               ...
+Bay of Quinté                                                                                        00
+               Agent
+Lake Simcoe      D.J. McPhee,
+                                 4     26     6       6      10    ...   69      560 00 1,480 00     48,700 00 ...
+Agency           Agent
+Cape Croker      John McIver,                                                    1,590
+
+<!-- page 660 -->
+                                 5     20    2     21    25    250   25           2,600 00   4,190 00 ...
+Agency           Agent                                                     00
+                 John
+Saugeen                                                                    1,685
+                 Scoffield,      3     10    ...   50    100   50    100         2,560 00    20,304 00 ...
+Agency                                                                     00
+                 Agent
+                 John
+Alnwick                                                                                      154,304
+                 Thackeray,      ...   ...   19    7     7     1     605   521 00 3,275 00              ...
+Agency                                                                                       00
+                 Agent
+                 John
+Mud Lake                                                                   1,154
+                 Thackeray,      ...   ...   58    4     42    ...   564         2,000 00    36,054 00 ...
+Agency                                                                     00
+                 Agent
+                 John
+Rice Lake
+                 Thackeray,      ...   ...   12    ...   8     ...   585   469 00 2,320 00   56,049 00 ...
+Agency
+                 Agent
+                 D.J. McPhee,                                              1,000
+Rama Agency                      ...   12    70    23    14    ...   250         3,000 00    49,000 00 ...
+                 Agent                                                     00
+                  Chas.
+Penetanguishene
+                  McGibbon,      10    25    10    20    15    10    35    455 00 960 00     11,500 00 ...
+Agency
+                  Agent
+                  A.W.
+Scugog Agency Williams,          ...   50    8     3     8     8     250   110 10 355 50     1,473 40 ...
+                  Agent
+Indians of
+Beausoleil Band
+                  B.W. Ross,
+residing on                      2     ...   2     2     5     5     2     150 00 800 00     2,775 00 ...
+                  Superintendent
+Manitoulin
+Island
+Chippewas and
+Saulteaux of      ...            ...   ...   ...   ...   ...   ...   ...   ...    ...        ...        ...
+Treaty no. 3 at -
+Hungry Hall,      M. Begg,
+                                 ...   ...   9     5     6     1     9     ...    210 00     660 00     ...
+No. 1             Agent
+Hungry Hall,     M. Begg,
+                                 ...   ...   5     3     2     ...   6     ...    110 00     480 00     ...
+No. 2            Agent
+

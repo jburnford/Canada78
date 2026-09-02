@@ -1,0 +1,330 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+REALTY OF INDIANS
+                                   PUBLIC BUILDINGS, PROPERTY OF THE
+Agency          LAND                                                                PRIVATE FENCING AND BUILDINGS
+                                   BAND
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log
+                pasturage pasturage
+
+                Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+ONTARIO
+Grand River
+Superintendency 23,974   10,722    14        1      11      9      1         ...    41,696 1          16         204       370
+- Six Nations
+Parry Sound
+                1,582    ...       7         1      6       1      7         ...    1,582   ...       ...        23        125
+Superintendency
+New Credit
+(Mississaguas) 1,050     3,450     2         1      1       3      3         ...    5,275   ...       3          46        21
+Agency
+Walpole Island
+               8,200     3,071     2         1      3       1      3         4      3,071   ...       ...        86        92
+Agency
+Sarnia Agency 2,259      1,562     4         2      3       1      1         ...    4,972 1           3          119       12
+Caradoc Agency 4,309     10,637    ...       3      6       1      13        ...    16,071 ...        7          153       154
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        59
+Agency
+Manitowaning
+                777      3,409     6        3       7       2      ...       ...    1,600   ...       ...        13        174
+Agency
+Gore Bay
+                138      112       2        2       1       ...    ...       ...    849     ...       ...        9         100
+Agency
+Thessalon
+                350      264       3        ...     5       ...    ...       ...    264     ...       ...        28        57
+Agency
+Sault Ste. Marie
+                 1,566   2,684     6        1       3       ...    1         ...    2,480   ...       ...        34        122
+Agency
+Port Arthur
+                827      560       3        2       6       1      2     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+   ...   170   1,445 00       3     19     1
+Superintendency
+
+                       ...        ...   ...       ...   ...   ...   ...            ...   ...    ...
+NOVA SCOTIA
+Annapolis County       ...        ...   ...       ...   3     5     90 00          ...   ...    ...
+Shelburne County       ...        2     ...       ...   ...   16    100 00         1     2      1
+Digby County           ...        ...   ...       ...   ...   10    48 00          ...   ...    10
+*Yarmouth County       ...        ...   ...       ...   ...   ...   ...            ...   ...    ...
+King's County          ...        ...   ...       ...   ...   ...   100 00         ...   ...    1
+Queen's County         ...        6     ...       ...   ...   ...   360 00         ...   ...    7
+Halifax County         ...        ...   ...       ...   ...   44    250 00         1     3      ...
+Hants County           2          10    ...       ...   ...   30    1,575 00       1     2      2
+Colchester County      ...        ...   ...       ...   ...   40    110 00         ...   ...    ...
+Cumberland County      ...        2     ...       ...   ...   34    250 00         ...   2      2
+Pictou County          ...        ...   ...       ...   ...   22    240 00         6     ...    ...
+Antigonish and
+                       ...        2     ...       ...   ...   60    325 00         1     3      ...
+Guysborough Counties
+Richmond County        ...        ...   ...       ...   ...   17    400 00         4     9      ...
+
+
+
+=== EXTRACT FROM HERE (pages 1000-1004) ===
+<!-- page 1000 -->
+                                                                          Value of Live
+                                                                                          GENERAL
+Agency                    LIVE STOCK AND POULTRY                          Stock and
+                                                                                          EFFECTS
+                                                                          Poultry
+                          Other Stock -
+...                                        Poultry                        ...
+                          Con.
+                                                            Cocks
+                          Sows,                                                           Sail Row
+...                                Pigs Turkeys Geese Ducks and           ...                         Canoes
+                          Breeding                                                        Boats Boats
+                                                            Hens
+Inverness County          ...        2     ...       ...   ...   40       1,050 00        6     13    ...
+Victoria County           ...        ...   ...       ...   ...   80       650 00          1     12    ...
+Cape Breton County        ...        ...   ...       ...   ...   ...      30 00           ...   ...   ...
+Lunenburg County          ...        6     ...       16    10    30       800 00          ...   ...   5
+Total                     2          30    ...       16    13    428      6,378 00        21    46    28
+
+                          ...        ...   ...       ...   ...   ...      ...             ...   ...   ...
+BRITISH COLUMBIA
+Cowichan Agency           2          25    ...       276   540   4,805    41,590 00       187   1     444
+West Coast Agency         ...        ...   ...       ...   12    677      3,393 00        21    10    1,271
+Kwawkewlth Agency         4          9     ...       ...   ...   330      330 00          21    23    453
+Lower Fraser Agency       242        1,947 ...       20    924   2,721    61,438 00       106   158   464
+Williams Lake Agency      48         635 ...         2     2     2,970    94,250 00       ...   18    94
+Kamloops - Okanagan
+                          258        619    ...      18    24    2,438    142,540 00      4     48    145
+Agency
+Kootenay Agency           ...        ...    ...      ...   ...   365      87,414 00       ...   4     51
+*Northwest Coast
+                          ...        ...    ...      ...   ...   ...      ...             ...   ...   ...
+Agency
+Babine and Upper
+                          ...        ...    ...      ...   ...   ...      48,405 00       ...   ...   380
+Skeena River Agency
+Total                     554        3,235 ...       316   1,502 14,306   479,369 00      339   262   3,302
+
+                          ...        ...    ...      ...   ...   ...      ...             ...   ...   ...
+MANITOBA
+Clandeboye Agency         12         42     6        ...   ...   600      33,000 00       8     203   39
+Portage la Prairie Agency ...        ...    ...      ...   ...   25       66,000 00       ...   7     ...
+Manitowapah Agency        7          15     ...      ...   ...   150      32,685 00       31    100   117
+Rat Portage (Buffalo Bay
+                          ...        ...    ...      ...   ...   ...      190 00          1     ...   13
+Band) Agency
+ Berens River Agency      ...        ...    ...      ...   ...   ...      14,560 00       15    318   369
+ The Pas Agency           ...        ...    ...      ...   ...   4        5,155 00        ...   21    261
+ Total                    19         57     6        ...   ...   779      151,590 00      55    649   799
+[*No return received]
+
+<!-- page 1001 -->
+                                                                           HOUSEHOLD   Value of Real and
+Agency                     GENERAL EFFECTS - Concluded
+                                                                           EFFECTS     Personal Property
+                                    Shot          Steel           Value
+...                        Rifles          Nets           Tents         Value of       ...
+                                    Guns          Traps           of
+
+                           ...      ...    ...    ...     ...     $ cts.   $ cts.      $ cts.
+NEW BRUNSWICK
+                                                                  8,425
+Richibucto Superintendency 12       162    318 109        7             9,050 00       88,215 00
+                                                                  00
+                                                                  3,355
+Fredericton Superintendency 55      48     3      452     27            8,125 00       74,895 00
+                                                                  00
+                                                                  11,780
+Total                      67       210    321 561        34             17,175 00     163,110 00
+                                                                  00
+
+PRINCE EDWARD              ...      ...    ...    ...     ...     ...      ...         ...
+ISLAND
+Prince Edward Island
+                           ...      13     8      20      ...     515 00 2,800 00      40,900 00
+Superintendency
+
+                           ...      ...    ...    ...     ...     ...      ...         ...
+NOVA SCOTIA
+Annapolis Agency           3        10     5      12      ...     60 00 100 00         1,375 00
+Shelburne Agency           4        6      4      41      1       172 00 200 00        1,727 00
+Digby County               9        6      ...    20      3       300 00 300 00        4,743 00
+*Yarmouth County           ...      ...    ...    ...     ...     ...    ...           ...
+King's County              ...      20     ...    ...     ...     50 00 400 00         2,109 00
+Queen's County             6        6      8      14      5       190 00 200 00        2,665 00
+Halifax County             ...      8      2      3       6       150 00 150 00        3,000 00
+                                                                  1,500
+Hants County               6        15     2      120     ...           3,000 00       24,970 00
+                                                                  00
+Colchester County          3        12     ...    20      1       85 00 216 00         2,088 50
+Cumberland County          10       18     ...    420     ...     175 00 550 00        3,880 00
+Pictou County              ...      6      6      ...     ...     220 00 540 00        7,090 00
+Antigonish and
+                           ...      30     ...    6       ...     160 00 1,500 00      9,455 00
+Guysborough Counties
+Richmond County            1        6      2      12      ...     685 00 175 00        21,359 00
+Inverness County           1        16     9      52      ...     300 00 725 00        17,500 00
+Victoria County            ...      18     ...    165     ...     450 00 500 00        14,050 00
+Cape Breton County         ...      ...    ...    ...     ...     ...    ...           5,430 00
+Lunenburg County           4        5      4      18      4       250 00 250 00        5,800 00
+                                                                  4,737
+Total                      47       183    42     903     20            8,806 00       127,241 91
+                                                                  00
+
+<!-- page 1002 -->
+                                                                            HOUSEHOLD    Value of Real and
+Agency                      GENERAL EFFECTS - Concluded
+                                                                            EFFECTS      Personal Property
+                                     Shot           Steel           Value
+...                         Rifles           Nets           Tents           Value of     ...
+                                     Guns           Traps           of
+
+                            ...      ...     ...    ...     ...     ...     ...          ...
+BRITISH COLUMBIA
+                                                                    26,430
+Cowichan Agency             344      306     50     21      126            31,845 00     922,620 00
+                                                                    00
+                                                                    34,036
+West Coast Agency           86       418     122    229     117            34,700 00     193,481 00
+                                                                    00
+                                                                    14,270
+Kwawkewlth Agency           141      247     191    1,938   ...            49,290 00     117,538 00
+                                                                    00
+                                                                    45,126
+Lower Fraser Agency         388      457     159    1,237   408            59,958 00     1,176,089 00
+                                                                    00
+                                                                    12,561
+Williams Lake Agency        408      129     156    1,240   239            13,939 99     371,455 75
+                                                                    00
+Kamloops - Okanagan                                                 21,001
+                            678      272     470    1,521   1,020          46,100 00     2,083,183 42
+Agency                                                              00
+                                                                    4,082
+Kootenay Agency             156      25      ...    131     143             3,350 00     270,183 00
+                                                                    00
+*Northwest Coast Agency     ...      ...     ...    ...     ...     ...     ...          ...
+Babine and Upper Skeena                                             48,410
+                            666      351     96     2,635   57             18,955 00     293,093 00
+River Agency                                                        00
+                                                                    205,916
+Total                       2,867 2,205      1,244 8,952    2,110           258,137 00   5,427,643 17
+                                                                    00
+
+                            ...      ...     ...    ...     ...     ...     ...          ...
+MANITOBA
+Clandeboye Agency           26       153     437    1,338   244     1,400   15,100 00    400,767 00
+                                                                    1,250
+Portage la Prairie Agency   15       34      22     775     72              1,325 00     174,528 00
+                                                                    00
+                                                                    8,650
+Manitowapah Agency          39       228     548    2,929   217             6,550 00     189,743 00
+                                                                    00
+Rat Portage (Buffalo Bay
+                            ...      4       7      100     10      317 00 140 00        457 00
+Band) Agency
+                                                                    26,579
+Berens River Agency         38       369     1,442 2,265    329            18,595 00     132,857 10
+                                                                    00
+                                                                    7,445
+The Pas Agency              27       236     257    3,453   150             4,150 00     94,199 00
+                                                                    00
+                                                                    45,641
+Total                       145      1,024   2,713 10,860 1,022            45,860 00     992,551 10
+                                                                    00
+[*No return received]
+
+<!-- page 1003 -->
+AGRICULTURE, SEASON 1902.
+Agency          GRAIN, ROOTS AND FODDER
+...             Wheat         Oats                Barley         Corn            Pease
+                    Acres Bushels Acres Bushels Acres Bushels Acres Bushels Acres Bushels
+...
+                    Sown Harvested Sown Harvested Sown Harvested Sown Harvested Sown Harvested
+
+                    ...   ...     ...     ...     ...      ...   ...     ...     ...     ...
+NEW BRUNSWICK
+Richibucto
+                    33    332     226     2,690   ...      ...   ...     ...     ...     ...
+Superintendency
+Fredericton
+                    2     58      106     2,430   ...      ...   1       29      3       55
+Superintendency
+Total               35    390     332     5,120   ...      ...   1       29      3       55
+
+PRINCE EDWARD ...         ...     ...     ...     ...      ...   ...     ...     ...     ...
+ISLAND
+Prince Edward Island
+                     16   306     50      1,087   ...      ...   1/4     3 1/2   1/4     3
+Superintendency
+
+                    ...   ...     ...     ...     ...      ...   ...     ...     ...     ...
+NOVA SCOTIA
+Annapolis County    ...   ...     ...     ...     ...      ...   1/4     2       ...     ...
+Shelburne County    ...   ...     1 1/2   (t)     ...      ...   ...     ...     ...     ...
+Digby County        ...   ...     1       15      ...      ...   ...     ...     ...     ...
+*Yarmouth County    ...   ...     ...     ...     ...      ...   ...     ...     ...     ...
+King's County       ...   ...     2       50      ...      ...   ...     ...     1/4     5
+Queen's County      ...   ...     1 1/2   35      ...      ...   ...     ...     ...     ...
+Halifax County      ...   ...     ...     ...     ...      ...   ...     ...     ...     ...
+Hants County        ...   ...     22      440     ...      ...   ...     ...     ...     ...
+Colchester County   ...   ...     2       26      ...      ...   ...     ...     ...     ...
+Cumberland County   ...   ...     1       (t)     ...      ...   ...     ...     ...     ...
+Pictou County       3/4   (t)     5       (t)     ...      ...   ...     ...     ...     ...
+Antigonish and
+Guysborough         ...   ...     3       75      ...      ...   ...     ...     ...     ...
+Counties
+Richmond County     ...   ...     ...     ...     1/2      8     ...     ...     ...     ...
+Inverness County    ...   ...     5       45      ...      ...   1 1/4   13      1/2     4 1/2
+Victoria County     ...   ...     2       30      ...      ...   ...     ...     ...     ...
+
+<!-- page 1004 -->
+Agency                   GRAIN, ROOTS AND FODDER
+...                      Wheat         Oats                     Barley            Corn             Pease
+                         Acres   Bushels Acres      Bushels Acres        Bushels Acres    Bushels Acres    Bushels
+...
+                         Sown    Harvested Sown     Harvested Sown       Harvested Sown   Harvested Sown   Harvested
+Cape Breton County       ...     ...       ...      ...       ...        ...       ...    ...       ...    ...
+Lunenburg County         ...     ...       6        180       1          30        ...    ...       1/2    10
+Total                    3/4     ...         52     896         1 1/2    38       1 1/2   15       1 1/4   19 1/2
+
+BRITISH                  ...     ...         ...    ...         ...      ...      ...     ...      ...     ...
+COLUMBIA
+Cowichan Agency          30      885         492    18,118      ...      ...      ...    ...       32      710
+West Coast Agency        ...     ...         ...    ...         ...      ...      ...    ...       ...     ...
+Kwawkewlth Agency        ...     ...         ...    ...         ...      ...      ...    ...       ...     ...
+Lower Fraser Agency      91      3,620       451    34,296      3        100      21 1/2 1,260     181     7,098
+Williams Lake Agency 297   5,265             348    14,405      5        105      ...     ...      32      626
+Kamloops - Okanagan
+                     1,923 34,710            1,637 31,300       14       290      16 1/2 22        136     2,640
+Agency
+Kootenay Agency          55      990         815    13,900      ...      ...      ...     ...      ...     ...
+*Northwest Coast
+                         ...     ...         ...    ...         ...      ...      ...     ...      ...     ...
+Agency
+Babine and Upper
+                    ...          ...         29     (tt)        ...      ...      ...     ...      ...     ...
+Skeena River Agency
+Total                    2,396 45,470        3,772 112,019      22       495      38      1,282    381     11,074
+
+                         ...     ...         ...    ...         ...      ...      ...     ...      ...     ...
+MANITOBA
+Clandeboye Agency        84      1,265       54 1/2 1,090       34       865      23      680      ...     ...
+Portage la Prairie
+                         374     8,616       48     1,638       ...      ...      1 1/2   60       ...     ...
+Agency
+Manitowapah Agency ...           ...         6      90          1        15       1 1/2   23       ...     ...
+Rat Portage (Buffalo
+                     ...         ...         ...    ...         ...      ...      3/4     72       ...     ...
+Bay Band) Agency
+Berens River Agency      ...     ...         ...    ...         ...      60       ...     ...      ...     ...
+The Pas Agency           ...     ...         ...    ...         ...      ...      ...     ...      ...     ...
+                                             108
+Total                    458     9,881               2,818      35       940      25 3/4 835       ...     ...
+                                             1/2
+[*No return received.] [(t)Not given.] [(tt)Used for fodder.]
+

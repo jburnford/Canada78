@@ -1,0 +1,79 @@
+{"row_type": "headers", "title": "HURONS OF LORETTE in Account Current with the Department of Indian Affairs.", "columns": ["DR Capital ($ cts.)", "DR Interest ($ cts.)", "CR Description", "CR Capital ($ cts.)", "CR Interest ($ cts.)"]}
+{"page": 454, "row_type": "row", "section": "HURONS OF LORETTE", "label": "To the following payments: -", "values": ["265 15", "100 00", "By Balance on 30th June, 1884", "384 20", "315 20"], "confidence": "high"}
+{"page": 454, "row_type": "row", "section": "HURONS OF LORETTE", "label": "Expenses in connection with survey of reserve", "values": ["119 05", "243 16", "Interest on invested Capital", null, "27 96"], "confidence": "high"}
+{"page": 454, "row_type": "total", "section": "HURONS OF LORETTE", "label": "Balance on 30th June, 1885", "values": ["384 20", "343 16", null, "384 20", "343 16"], "confidence": "high"}
+{"page": 454, "row_type": "total", "section": "HURONS OF LORETTE", "label": null, "values": [null, null, "Balance on 30th June, 1885", "119 05", "243 16"], "confidence": "high"}
+{"page": 454, "row_type": "note", "section": "HURONS OF LORETTE", "label": "L. VANKOUGHNET, Deputy Supt.-Gen. of Indian Affairs. DEPARTMENT OF INDIAN AFFAIRS, OTTAWA, 30th June, 1885. ROBERT SINCLAIR, Accountant.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "To Balance on 30th June, 1884", "values": [null, "1,066 58", "By Balance on 30th June, 1884", "16,485 56", null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "To the following payments: -", "values": [null, null, "Rents collected", null, "18 92"], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Salaries.", "values": [null, null, "Fines collected", null, "266 00"], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "P. Tirvirati, Gatekeeper", "values": [null, "24 00", "Interest on invested Capital", null, "637 56"], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "J. Saiounsakeron, Gatekeeper", "values": [null, "24 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Moïse Lefort, Constable", "values": [null, "365 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Pierre Murray, Secretary", "values": [null, "50 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Louis Shatekaienton, Organist", "values": [null, "37 50", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Pensions.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "F. Kasekete", "values": [null, "15 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Sundry Disbursements.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Measuring stone", "values": [null, "128 75", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Larbor on roads", "values": [null, "169 90", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Legal services and prosecutions in liquor cases", "values": [null, "272 30", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Insurance", "values": [null, "36 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "School furnishings", "values": [null, "17 40", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Services of Crier", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "N.V. Burtin, commutatin in lieu of supplies", "values": [null, "249 50", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Uniform, & c., for Constable", "values": [null, "16 30", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Expenses of Donimion Police at Agricultural Exhibition", "values": [null, "62 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Relief to destitute", "values": [null, "64 75", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Lumber for bridges", "values": [null, "34 22", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Fuel for school", "values": [null, "32 00", null, null, null], "confidence": "high"}
+{"page": 455, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Cost of vaccinating", "values": [null, "177 50", null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Grant to assist in re-building Louis Thaioronhiote, destroyed by fire", "values": [null, "100 00", null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Services of P. Murray during Inspectors investigation", "values": [null, "5 00", null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Cost of stationery", "values": [null, "5 65", null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Funeral furnishings", "values": [null, "20 00", null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Advances on account of survey of reserve", "values": ["4,500 00", null, null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Cost of work in lock-up", "values": ["240 00", null, null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Sundry payments", "values": [null, "3 15", null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Percentage on collections carried to credit of Management Fund", "values": [null, "4 59", null, null, null], "confidence": "high"}
+{"page": 456, "row_type": "total", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Balance on 30th June, 1885", "values": ["11,745 56", null, "Balance on 30th June, 1885", null, "2,068 61"], "confidence": "high"}
+{"page": 456, "row_type": "total", "section": "IROQUOIS OF CAUGHNAWAGA", "label": null, "values": ["16,485 56", "2,991 09", null, "16,485 56", "2,991 09"], "confidence": "high"}
+{"page": 456, "row_type": "total", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Balance on 30th June, 1885", "values": [null, "2,068 61", "Balance on 30th June, 1885", "11,745 56", null], "confidence": "high"}
+{"page": 456, "row_type": "note", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "L. VANKOUGHNET, Deputy Supt.Gen. of Indian Affairs. DEPARTMENT OF INDIAN AFFAIRS, OTTAWA, 30th June, 1885. ROBERT SINCLAIR, Accountant.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "To the following payments: -", "values": [null, null, "By Balance on 30th June, 1884", "29,662 44", "346 06"], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Rev. M. Maiville, Missionary", "values": [null, "100 00", "Rents and fines", null, "1,157 07"], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "B.E. McGee, Teacher", "values": [null, "200 00", "Unexpended balance of church fund", null, "119 00"], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "C.J. McGee, Teacher", "values": [null, "200 00", "Interest on invested Capital", null, "1,720 36"], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Annie Baldwin, Teacher", "values": [null, "50 00", "Balance on 30th June, 1885", null, "2,751 00"], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Loran Pike, Organist", "values": [null, "15 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Mitchell Forault, Church Clerk", "values": [null, "72 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "George Thomas, Chief", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Alex. Thompson, Chief", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "John Sowates, Chief", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "John Isaac, Chief", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Loran Jacobs, Chief", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Thomas White, Chief", "values": [null, "6 67", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Horatio Seymour, Chief", "values": [null, "3 33", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Lizzie Fox", "values": [null, "16 66", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Pensions.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Loran Solomon", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Sundry Disbursements.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Books and other materials for schools", "values": [null, "44 98", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Allowance to Rev. Mr. Maiville for wood", "values": [null, "25 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Expenses in connection with liquor prosecutions", "values": [null, "25 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Law costs, New York Indians vs. A. Thompson", "values": [null, "44 43", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Cost of repairs to Roman Catholic Church", "values": [null, "4,787 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Cost of gathering statistics", "values": [null, "7 00", null, null, null], "confidence": "high"}
+{"page": 457, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Repairs to fence in connection with St. Regis School", "values": [null, "108 00", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Cost of fuel for schools", "values": [null, "65 50", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Services of Bailiff", "values": [null, "4 00", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Relief to destitute", "values": [null, "50 00", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Cost of inspecting schools", "values": [null, "28 75", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Cost of vaccine points", "values": [null, "36 00", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Services of Louis Snake, lighting fires, Roman Catholic Church", "values": [null, "6 00", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Distribution of interest moneys to Protestant members of Band", "values": [null, "72 20", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "row", "section": "IROQUOIS OF ST. REGIS", "label": "Percentage on collections carried to credit of Management Fund", "values": [null, "65 97", null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "total", "section": "IROQUOIS OF ST. REGIS", "label": "Balance on 30th June, 1885", "values": ["29,662 44", null, null, null, null], "confidence": "high"}
+{"page": 458, "row_type": "total", "section": "IROQUOIS OF ST. REGIS", "label": null, "values": ["29,662 44", "6,093 49", null, "29,662 44", "6,093 49"], "confidence": "high"}
+{"page": 458, "row_type": "total", "section": "IROQUOIS OF ST. REGIS", "label": "Balance on 30th June, 1885", "values": [null, "2,751 00", "Balance on 30th June, 1885", "29,662 44", null], "confidence": "high"}
+{"page": 458, "row_type": "note", "section": "IROQUOIS OF ST. REGIS", "label": "L. VANKOUGHNET, Deputy Supt.Gen. of Indian Affairs. DEPARTMENT OF INDIAN AFFAIRS, OTTAWA, 30th June, 1885. ROBERT SINCLAIR, Accountant.", "values": [null, null, null, null, null], "confidence": "high"}

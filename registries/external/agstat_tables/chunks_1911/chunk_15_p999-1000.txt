@@ -1,0 +1,100 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS - STATEMENT FOR QUINQUENNIAL TERM ENDED MARCH 31, 1911.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                                                                                  Number        Number
+               Cleared but Under         Total Value Number     Number engaged in
+                                                                                  engaged in    engaged in
+...            not under    actual       of Lands in engaged in Hunting, Trapping
+                                                                                  other         Stock
+               Cultivation. Cultivation. Reserve.     Farming. and Fishing.
+                                                                                  industries.   Raising.
+ALBERTA.       Acres.       Acres.       $ cts.       ...       ...               ...           ...
+Blackfoot      299,950      250          1,273,803 00 24        ...               ...           132
+Blood          346,601      2,725        3,554,485 00 ...       ...               ...           318
+Edmonton       33,355       1,514        428,134 00 51          70                43            67
+Hobbema        238          790          390,694 00 72          58                32            82
+Lesser Slave
+               11,450       50         300,640 00   ...        47                 1             24
+Lake
+Peigan      92,283          1,255      954,930 00 58           ...                ...           125
+Saddle Lake 79,636          1,449      481,992 00 99           170                ...           135
+Sarcee      58,120          218        1,099,596 00 20         16                 6             23
+Stony       44,365          355        157,915 00 ...          100                ...           65
+Total       965,998         8,606      8,696,189 00 324        461                82            971
+BRITISH
+            ...             ...        ...          ...        ...                ...           ...
+COLUMBIA.
+Babine and
+             7,847          627        54,908 00    ...        885                445           30
+Upper Skeena
+Bella Coola    82           31         97,840 00    ...        415                54            5
+Stuart Lake    2,965        232        62,576 00    3          745                42            34
+Cassiar
+               330          ...        390 00       ...        65                 16         
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+.    24      ...     25      1     9       ...      ...     ...   2,351 00       5,285 00   7,636 00
+New
+              ...       ...        4          ...        ...      ...    ...     ...     ...     ...   ...     ...      ...     ...   140 00         650 00     790 00
+Brunswick
+Northwest
+              ...       ...        2          25         10       ...    1       ...     16      ...   7       ...      2       ...   945 00         4,955 00   5,940 00
+Territories
+Nova Scotia ...         1          27         1          11       3      3       ...     1       1     ...     2        ...     ...   590 00         4,440 00 5,030 00
+Ontario      1          2          59         38         11       15     19      7       14      3     4       3        2       2     17,626 50      50,263 50 67,890 00
+Prince
+Edward       ...        ...        2          ...        ...      ...    ...     ...     ...     ...   ...     ...      ...     ...   ...            150 00     150 00
+Island
+Quebec       ...        7          16         1          2        4      9       2       3       1     2       1        ...     1     1,640 00       10,545 00 12,185 00
+Saskatchewan ...        ...        3          100        37       2      40      ...     52      3     26      1        1       8     34,500 00      19,683 00 54,183 00
+Total        1          10         205        263        104      31     143     10      121     9     68      19       6       12    91,750 50      144,301 50 236,052 00
+
+
+
+=== EXTRACT FROM HERE (pages 999-1000) ===
+<!-- page 999 -->
+SOURCES AND VALUE OF INCOME - STATEMENT FOR QUINQUENNIAL TERM ENDED MARCH 31,
+1911.
+
+              Value of     Value of                          THE ESTIMATED
+                                                    Received
+              Farm         Beef sold,                        VALUE OF FISH AND Earned by Total
+                                        Wages       from
+              Products,    also of that                      MEAT USED FOR     other      Income of
+                                        earned.     Land
+              including    used for                          FOOD IS INCLUDED Industries. Indians.
+Agency.                                             Rentals.
+              Hay.         Food.                             IN THESE COLUMNS.
+                                                                       Earned by
+                                                             Earned by
+              ...          ...         ...          ...                Hunting and ...        ...
+                                                             Fishing.
+                                                                       Trapping.
+...           $ cts.       $ cts.      $ cts.       $ cts.   $ cts.    $ cts.      $ cts.     $ cts.
+Alberta       162,105 00   57,675 48   38,217 00    1,854 00 3,240 00 25,226 50    234,055 18 522,373 16
+British
+              350,654 00   38,160 00   477,655 00   1,500 00 424,515 00 169,600 00    206,414 00 1,668,498 00
+Columbia
+Manitoba      94,917 55    15,839 68   49,390 00    30 00    24,355 00 39,299 00      18,613 50 242,444 73
+New
+              6,222 00     1,530 00    51,850 00    ...      9,390 00   3,295 00      22,250 00 94,537 00
+Brunswick
+Northwest
+              17,210 00    1,270 00    27,070 00    ...      36,050 00 90,300 00      7,650 00   179,550 00
+Territories
+Nova Scotia 15,020 00     1,781 00     45,280 00    8 00      5,715 00 10,475 00      37,973 00 116,252 00
+Ontario      434,698 86 25,303 20      605,058 10   42,168 90 106,628 60 154,228 75   142,504 95 1,510,591 36
+Prince
+Edward       1,500 00     34 00        50 00        ...      1,410 00   35 00         14,480 00 17,509 00
+Island
+Quebec       124,241 65 27,035 00      184,757 00 5,887 22 5,250 00 141,075 00        89,055 00 577,300 87
+Saskatchewan 253,893 40 68,125 00      60,694 00    14,624 00 75,076 00 185,890 00    79,949 00 738,251 40
+Total        1,459,962 46 236,753 36   1,540,021 10 66,072 12 691,629 60 819,424 25   852,944 63 5,666,807 52
+
+27 - ii - 9
+
+<!-- page 1000 -->

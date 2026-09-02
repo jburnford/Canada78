@@ -1,0 +1,85 @@
+{"row_type": "headers", "title": null, "columns": ["Grant", "Expenditure", "Grant Not Used", "Grant Exceeded"]}
+{"page": 376, "row_type": "row", "section": "349 - PENTICTON RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["5,643 87", null, null, null], "confidence": "medium"}
+{"page": 376, "row_type": "total", "section": "349 - PENTICTON RESERVE, B.C.", "label": "...", "values": ["$5,661 97", "$5,661 97", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "349 - PENTICTON RESERVE, B.C. - Conc.", "label": "349 - PENTICTON RESERVE, B.C. - Conc.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "349 - PENTICTON RESERVE, B.C. - Conc.", "label": "Interest - Balance, April 1, 1926", "values": [null, "2,025 29", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "349 - PENTICTON RESERVE, B.C. - Conc.", "label": "Interest, 5 p.c. on $7,687.26", "values": [null, "384 36", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "349 - PENTICTON RESERVE, B.C. - Conc.", "label": "Fines collected, $26; relief, $21.85", "values": ["21 85", "26 00", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "349 - PENTICTON RESERVE, B.C. - Conc.", "label": "Balance, March 31, 1927", "values": ["2,413 80", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "total", "section": "349 - PENTICTON RESERVE, B.C. - Conc.", "label": "...", "values": ["$2,435 65", "$2,435 65", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "353 - COUCOUCACHE RESERVE, QUE.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "Capital - Balance, April 1, 1926", "values": [null, "30,746 57", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "Timber bonus collected", "values": [null, "1,000 00", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "Balance, March 31, 1927", "values": ["31,746 57", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "total", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "...", "values": ["$31,746 57", "$31,746 57", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "Interest - Balance, April 1, 1926", "values": [null, "1,485 67", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "Interest, 5 p.c. on $32,232.24, $1,611.61; rents, $38", "values": [null, "1,649 61", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "Interest distributed, $1.584; relief, $688.89; hospitals, $525.50", "values": ["2,798 39", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "Balance, March 31, 1927", "values": ["336 89", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "total", "section": "353 - COUCOUCACHE RESERVE, QUE.", "label": "...", "values": ["$3,135 28", "$3,135 28", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "354 - COLDWATER RESERVE, B.C.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Capital - Balance, April 1, 1926", "values": [null, "25,017 23", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Timber dues: collected, $3,000.25, distributed, $3,156.90", "values": ["3,156 90", "3,000 25", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Labour fighting fires", "values": ["5 00", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["24,855 58", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "total", "section": "354 - COLDWATER RESERVE, B.C.", "label": "...", "values": ["$28,017 48", "$28,017 48", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Interest - Balance, April 1, 1926", "values": [null, "$3,771 72", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Interest, 5 p.c. on $28,788.95", "values": [null, "1,439 45", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Interest distributed, $2,997.30, sundry items, $84", "values": ["3,081 30", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "354 - COLDWATER RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["2,129 87", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "total", "section": "354 - COLDWATER RESERVE, B.C.", "label": "...", "values": ["$5,211 17", "$5,211 17", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "355 - KITSELAS RESERVES, B.C.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Capital - Balance, April 1, 1926", "values": [null, "1,654 44", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Transfer from Trust Acct. 374, to amalgamate funds", "values": [null, "673 58", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Timber dues collected, $380.84; sawmill lease, $259.73", "values": [null, "640 57", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Balance, March 31, 1927", "values": ["2,968 59", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "total", "section": "355 - KITSELAS RESERVES, B.C.", "label": "...", "values": ["$2,968 59", "$2,968 59", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Interest - Balance, April 1, 1926", "values": [null, "2,336 97", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Interest, 5 p.c. on $3,991.41, $199.57; rents, $150.25", "values": [null, "349 82", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Transfer from Trust Acct, 374, to amalgamate funds", "values": [null, "463 73", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Rent distributed, $520; drugs, $55.79; hospitals, $27.50", "values": ["603 29", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "355 - KITSELAS RESERVES, B.C.", "label": "Balance, March 31, 1927", "values": ["2,547 23", null, null, null], "confidence": "medium"}
+{"page": 377, "row_type": "total", "section": "355 - KITSELAS RESERVES, B.C.", "label": "...", "values": ["$3,150 52", "$3,150 52", null, null], "confidence": "medium"}
+{"page": 377, "row_type": "row", "section": "356 - ALBERNI RESERVE, B.C.", "label": "356 - ALBERNI RESERVE, B.C.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 378, "row_type": "row", "section": "356 - ALBERNI RESERVE, B.C.", "label": "Capital - Balance, April 1, 1926", "values": [null, "23 18", null, null], "confidence": "medium"}
+{"page": 378, "row_type": "row", "section": "356 - ALBERNI RESERVE, B.C.", "label": "Transfer to Trust Acct. 229, to amalgamate funds", "values": ["23 18", null, null, null], "confidence": "medium"}
+{"page": 378, "row_type": "total", "section": "356 - ALBERNI RESERVE, B.C.", "label": "...", "values": ["$23 18", "$23 18", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "356 - ALBERNI RESERVE, B.C - Conc.", "label": "356 - ALBERNI RESERVE, B.C - Conc.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "356 - ALBERNI RESERVE, B.C - Conc.", "label": "Interest - Balance, April 1, 1926", "values": [null, "8 63", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "356 - ALBERNI RESERVE, B.C - Conc.", "label": "Interest, 5 p.c. on $31.81", "values": [null, "1 59", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "356 - ALBERNI RESERVE, B.C - Conc.", "label": "Transfer to Trust Acct. 229, to amalgamate funds", "values": ["10 22", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "356 - ALBERNI RESERVE, B.C - Conc.", "label": "...", "values": ["$10 22", "$10 22", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "358 - SQUIALA RESERVE, B.C.", "label": "358 - SQUIALA RESERVE, B.C.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "358 - SQUIALA RESERVE, B.C.", "label": "Capital - Balance, April 1, 1926", "values": [null, "359 00", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "358 - SQUIALA RESERVE, B.C.", "label": "Timber dues collected", "values": [null, "156 92", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "358 - SQUIALA RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["515 92", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "358 - SQUIALA RESERVE, B.C.", "label": "...", "values": ["$515 92", "$515 92", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "358 - SQUIALA RESERVE, B.C.", "label": "Interest - Balance, April 1, 1926", "values": [null, "3 89", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "358 - SQUIALA RESERVE, B.C.", "label": "Interest, 5 p.c. on $362.89, $18.14; relief, $21.74", "values": ["21 74", "18 14", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "358 - SQUIALA RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["0 29", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "358 - SQUIALA RESERVE, B.C.", "label": "...", "values": ["$22 03", "$22 03", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "359 - TSAWWASSEN RESERVE, B.C.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "Capital - Balance, April 1, 1926", "values": [null, "13 74", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "Timber dues collected", "values": [null, "543 91", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["557 65", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "...", "values": ["$557 65", "$557 65", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "Interest - Balance, April 1, 1926", "values": [null, "1 42", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "Interest, 5 p.c. on $15.76c.; rents collected, $30", "values": [null, "30 76", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["32 18", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "359 - TSAWWASSEN RESERVE, B.C.", "label": "...", "values": ["$32 18", "$32 18", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "360 - FORT GEORGE BAND, B.C.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "Capital - Balance, April 1, 1926", "values": [null, "35,161 05", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "Advertising", "values": ["36 60", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "Balance, March 31, 1927", "values": ["35,121 45", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "360 - FORT GEORGE BAND, B.C.", "label": "...", "values": ["$35,161 05", "$35,161 05", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "Interest - Balance, April 1, 1926", "values": [null, "5,818 55", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "Interest, 5 p.c. on $40,979.60", "values": [null, "2,048 98", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "Interest money distributed, $899.75; relief, $243.27; burials, $61; hospitals, $58; sundry items, $59.30", "values": ["1,324 32", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "360 - FORT GEORGE BAND, B.C.", "label": "Balance, March 31, 1927", "values": ["6,543 21", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "360 - FORT GEORGE BAND, B.C.", "label": "...", "values": ["$7,867 53", "$7,867 53", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "361 - MAXIM LAKE RESERVE, B.C.", "label": "361 - MAXIM LAKE RESERVE, B.C.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "361 - MAXIM LAKE RESERVE, B.C.", "label": "Timber dues collected", "values": [null, "31 95", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "361 - MAXIM LAKE RESERVE, B.C.", "label": "Balance, March 31, 1927", "values": ["31 95", null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "total", "section": "361 - MAXIM LAKE RESERVE, B.C.", "label": "...", "values": ["$31 95", "$31 95", null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "362 - GOLD RIVER RESERVE, N.S.", "label": "362 - GOLD RIVER RESERVE, N.S.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 379, "row_type": "row", "section": "362 - GOLD RIVER RESERVE, N.S.", "label": "Capital - Balance, April 1, 1926", "values": [null, "71 00", null, null], "confidence": "medium"}

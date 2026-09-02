@@ -1,0 +1,23 @@
+{"row_type": "headers", "title": "Account Current with the Department of Indian Affairs", "columns": ["DR. Capital ($ cts.)", "DR. Interest ($ cts.)", "CR. (description)", "CR. Capital ($ cts.)", "CR. Interest ($ cts.)"]}
+{"page": 518, "row_type": "note", "section": "TOBEQUE INDIANS OF NEW BRUNSWICK", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 518, "row_type": "row", "section": "TOBEQUE INDIANS OF NEW BRUNSWICK", "label": "10 per cent. on timber dues for distribution", "values": ["49 74", null, "By Balance, 30th June, 1881", "2,871 71", "29 78"], "confidence": "high"}
+{"page": 518, "row_type": "row", "section": "TOBEQUE INDIANS OF NEW BRUNSWICK", "label": "Distribution of interest money", "values": [null, "138 57", "Land and timber sales", "1,235 95", null], "confidence": "high"}
+{"page": 518, "row_type": "row", "section": "TOBEQUE INDIANS OF NEW BRUNSWICK", "label": "Percentage on collections carried to credit of Management Fund", "values": ["123 60", null, "Interest on invested capital", null, "145 08"], "confidence": "high"}
+{"page": 518, "row_type": "row", "section": "TOBEQUE INDIANS OF NEW BRUNSWICK", "label": "Balance, 30th June, 1882", "values": ["3,934 32", "36 27", null, null, null], "confidence": "high"}
+{"page": 518, "row_type": "total", "section": "TOBEQUE INDIANS OF NEW BRUNSWICK", "label": null, "values": ["4,107 66", "174 86", null, "4,107 66", "174 86"], "confidence": "high"}
+{"page": 518, "row_type": "row", "section": "TOBEQUE INDIANS OF NEW BRUNSWICK", "label": null, "values": [null, null, "By Balance, 30th June, 1882", "3,934 32", "36 27"], "confidence": "high"}
+{"page": 519, "row_type": "row", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": "To Balance, 30th June, 1882", "values": ["28 92", null, "By Balance, 30th June, 1881", "27 56", null], "confidence": "high"}
+{"page": 519, "row_type": "row", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": null, "values": [null, null, "Interest on invested capital", "1 36", null], "confidence": "high"}
+{"page": 519, "row_type": "total", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": null, "values": [null, "28 92", null, "28 92", null], "confidence": "high"}
+{"page": 519, "row_type": "row", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": null, "values": [null, null, "By Balance, 30th June, 1882", "28 92", null], "confidence": "high"}
+{"page": 520, "row_type": "row", "section": "J.B. CLENCH", "label": "To Balance, 30th June, 1882", "values": ["725 06", "410 86", "By Balance, 30th June, 1881", "725 06", "356 74"], "confidence": "high"}
+{"page": 520, "row_type": "row", "section": "J.B. CLENCH", "label": null, "values": [null, null, "Interest on invested capital", null, "54 12"], "confidence": "high"}
+{"page": 520, "row_type": "total", "section": "J.B. CLENCH", "label": null, "values": [null, null, null, "725 06", "410 86"], "confidence": "high"}
+{"page": 520, "row_type": "row", "section": "J.B. CLENCH", "label": null, "values": [null, null, "Balance, 30th June, 1882", "725 06", "410 86"], "confidence": "high"}
+{"page": 521, "row_type": "row", "section": "NANCY MAIVILLE", "label": "To twelve months interest on invested capital", "values": [null, "126 60", "By Balance, 30th June, 1881", "2,500 00", "31 65"], "confidence": "high"}
+{"page": 521, "row_type": "row", "section": "NANCY MAIVILLE", "label": "Balance, 30th June, 1882", "values": ["2,500 00", "31 65", "Interest on invested capital", null, "126 60"], "confidence": "high"}
+{"page": 521, "row_type": "total", "section": "NANCY MAIVILLE", "label": null, "values": ["2,500 00", "158 25", null, "2,500 00", "158 25"], "confidence": "high"}
+{"page": 521, "row_type": "row", "section": "NANCY MAIVILLE", "label": null, "values": [null, null, "Balance, 30th June, 1882", "2,500 00", "31 65"], "confidence": "high"}
+{"page": 522, "row_type": "row", "section": "JAMES MANACE", "label": "To 12 months' interest on invested capital", "values": [null, "75 96", "By Balance, 30th June, 1881", "1,500 00", "18 99"], "confidence": "high"}
+{"page": 522, "row_type": "row", "section": "JAMES MANACE", "label": "Balance, 30th June, 1882", "values": ["1,500 00", "18 99", "Interest on invested capital", null, "75 96"], "confidence": "high"}
+{"page": 522, "row_type": "total", "section": "JAMES MANACE", "label": null, "values": ["1,500 00", "94 95", null, "1,500 00", "94 95"], "confidence": "high"}

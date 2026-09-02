@@ -1,0 +1,62 @@
+{
+ "02": {
+  "seconds": 506.6,
+  "pages": "493\u2013495",
+  "windows": [
+   {
+    "window": [
+     493,
+     495
+    ],
+    "rows": 62,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 506.6,
+    "finish_reason": "stop",
+    "completion_tokens": 11657
+   }
+  ],
+  "rows": 62,
+  "complete": true
+ },
+ "00": {
+  "seconds": 910.8,
+  "pages": "477\u2013484",
+  "windows": [
+   {
+    "window": [
+     477,
+     484
+    ],
+    "rows": 207,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 910.8,
+    "finish_reason": "stop",
+    "completion_tokens": 21158
+   }
+  ],
+  "rows": 207,
+  "complete": true
+ },
+ "01": {
+  "seconds": 986.7,
+  "pages": "485\u2013492",
+  "windows": [
+   {
+    "window": [
+     485,
+     492
+    ],
+    "rows": 216,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 986.7,
+    "finish_reason": "stop",
+    "completion_tokens": 23039
+   }
+  ],
+  "rows": 216,
+  "complete": true
+ }
+}

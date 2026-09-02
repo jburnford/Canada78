@@ -1,0 +1,243 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 637 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+POPULATION.
+                                                                                                                 Post Office
+Province,        Name of        Resident                 From 6 to 15  From 16 to 20 From 21 to 65
+                                            Under 6                                                From 65 years Address of
+Agency or        Superintendent Indian                   Yrs.,         Yrs.,         Yrs.,
+                                            Years.                                                 Upwards.      Superintendent
+Band.            or Agent.      Population.              Inclusive.    Inclusive.    Inclusive.
+                                                                                                                 or Agent
+...              ...            ...        Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...            ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+ONTARIO
+Grand River
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,703       214   261     385   359      186   143    1,008 978     83    86      Brantford.
+                 Supt
+Missisaguas,     Hugh Stewart,
+                               244         16    5       40    17       10    8      63    72      5     8       Hagersville.
+New Credit       Agent
+                Alex.
+Walpole Island McKelvey         822        54    67      95    97       32    40     225   212     ...   ...     Wallaceburg.
+                Agent
+Western
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 Adam,
+1st Division                    (*)468     24    41      38    34       30    15     125   120     10    9       Sarnia.
+                 English, Agent
+                 A.S.
+2nd Division     McDougall      1,353      81    79      156   128      72    67     392   319     32    27      Melbourne
+                 Agent
+                 John Beattie
+3rd Division                    302        29    23      35    35       11    10     81    76      2     ...     Highgate.
+                 Agent
+Northern
+Superintendency ...             ...        ..
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ 10       12    1       ...      ...     ...    ...
+Agency           Bastien, Agent
+Becancour        H. Desilets,
+                                30       ...       ...        5          ...        2         3      ...     ...     2        2     ...     ...      1       ...    ...
+Agency           M.D., Agent
+Temiscamingue A. McBride,
+                                105      ...       ...        49         13         10        10     9       ...     8        6     7       12       5       ...    ...
+Agency        Agent
+...              Totals         3,586    42        24         479        552        38        325    445     5       114      186   47      24       41      45     ...
+
+NEW             ...             ...      ...       ...        ...        ...        ...       ...    ...     ...     ...      ...   ...     ...      ...     ...    ...
+BRUNSWICK.
+North-eastern   W.D. Carter,
+                                825      ...       ...        115        3          85        41     39      ...     23       34    ...     6        2       ...    ...
+Superintendency Supt.
+South-western
+Superintendency ...             ...      ...       ...        ...        ...        ...       ...    ...     ...     ...      ...   ...     ...      ...     ...    ...
+-
+                 James Farrell,
+1st Division                    157 1/4 ...        ...        51         5          18        9      8       ...     ...      6     ...     2        ...     ...    ...
+                 Supt.
+
+
+
+=== EXTRACT FROM HERE (pages 691-695) ===
+<!-- page 691 -->
+               James Farrell,
+2nd Division                  120    ...   ...   41    1   ...   16   7    ...   3    13   ...   1   ...   ...   ...
+               Supt.
+                             1,102
+...            Totals                ...   ...   207   9   103   66   54   ...   26   53   ...   9   2     ...   ...
+                             1/4
+
+<!-- page 692 -->
+                                                                                                                                                                                               Value of
+Province,       Name of
+                                                                                                                                                                                               Implements
+Agency or       Superintendent AGRICULTURAL IMPLEMENTS, VEHICLES, &c.
+                                                                                                                                                                                               and
+Band.           or Agent.
+                                                                                                                                                                                               Vehicles
+                                                                                                                                                                                      Buggies
+                                                                                                                                                           Sleighs Sleighs
+                                                 Seed                 Land                      Horse Fanning Threshing Tool Other                                           Democrat and
+...             ...            Ploughs. Harrows.         Cultivators.          Mowers. Reapers.                                             Wagons. Carts. -        -                         ...
+                                                 Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                                  Wagons. Road
+                                                                                                                                                           Draught. Driving.
+                                                                                                                                                                                      Carts.
+
+                ...            ...     ...       ...    ...        ...     ...       ...     ...     ...     ...       ...     ...         ...      ...    ...      ...     ...       ...      $ cts.
+QUEBEC.
+Lake of Two     Alex.
+Mountains       Brosseau,      40      28        ...    ...        ...     6         ...     8       5       2         ...     330         10       41     28       26      ...       28       3,651 00
+Agency          Agent
+                Alex.
+Caughnawaga
+                Brosseau,    245       180       12     30         8       28        8       30      20      16        60      110         140      180    180      50      ...       80       8,365 00
+Agency
+                Agent
+St. Regis       George Long,
+                             92        74        3      60         1        38       15      41      8       12        62      144         54       26     72       36      9         35       12,203 00
+Agency          Agent
+                N. LeBel,
+Viger Agency                   ...     ...       ...    ...        ...      ...      ...     ...     ...     ...       ...     ...         ...      ...    ...      ...     ...       ...      ...
+                Agent
+St. Francis     W.C. Boucher,
+                              2        2         ...    ...        ...      ...      ...     ...     ...     ...       ...     ...         10       ...    12       6       ...       16       760 00
+Agency          Agent
+Lake St. John   P.L. Marcotte,
+                               12      14        1      ...        ...      1        ...     2       ...     1         ...     ...         1        13     18       14      ...       13       1,388 25
+Agency          Agent
+                Rev. Jacob
+Maria Agency                 4         7         21     ...        1        ...      ...     ...     ...     ...        ...    3           4        6      7        6       ...       6        1,200 00
+                Gagné, Agent
+                V.J.A.
+Restigouche
+                Venner, M.D., 30       20        ...    ...        ...      5        7       ...     10      2          ...    5           24       9      ...      ...     ...       ...      Not given.
+Agency
+                Agent
+                W.J.
+River Desert
+                McCaffrey,     15      21        ...    ...        ...      1        ...     1       1       ...        ...    ...         4        8      20       ...     1         6        1,050 00
+Agency
+                Agent
+Jeune Lorette   Antoine O.
+                               5       5         ...    ...        ...      ...      ...     ...     ...     ...        ...    ...         5        7      10       5       1         3        30 00
+Agency          Bastien, Agent
+Becancour       H. Desilets,
+                               3       2         ...    ...        ...      ...      ...     ...     ...     ...        ...    25          1        ...    1        1       ...       1        130 00
+Agency          M.D., Agent
+Temiscamingue A. McBride,
+                               7       9         ...    ...        2        1        ...     1       2       1          ...    40          2        2      1        1       ...       ...      817 00
+Agency        Agent
+...             Totals         455     362       37     90         12       80       30      83      46      34         122    657         255      292    349      145     11        188      29,594 25
+
+NEW             ...            ...     ...       ...    ...        ...      ...      ...     ...     ...     ...        ...    ...         ...      ...    ...      ...     ...       ...      ...
+BRUNSWICK.
+North-eastern   W.D. Carter,
+                               14      9         ...    ...        ...      2       ...      ...     ...     ...       ...     108         18       3      22       2       ...       ...      975 00
+Superintendency Supt.
+South-western
+Superintendency ...            ...     ...       ...    ...        ...     ...       ...     ...     ...     ...       ...     ...         ...      ...    ...      ...     ...       ...      ...
+-
+
+<!-- page 693 -->
+               James Farrell,
+1st Division                  12   12   ...   2    ...   1     ...   1   1     ...   ...   132   15   ...   11   7    5     ...   775 00
+               Supt.
+               James Farrell,
+2nd Division                  20   22   ...   14   ...   ...   ...   3   ...   ...   ...   95    17   ...   19   11   10    ...   1,100 00
+               Supt.
+...            Totals        46    43   ...   16   ...   3     ...   4   1     ...   ...   335   50   3     52   20   ...   ...   2,850 00
+
+<!-- page 694 -->
+                                                                                                                                                                  Value
+Province,       Name of                                                                                                                                           of Live
+Agency or       Superintendent   LIVE STOCK AND POULTRY.                                                                                                          Stock Remarks.
+Band.           or Agent.                                                                                                                                         and
+                                                                                                                                                                  Poultry.
+...             ...              Horses.                Cattle.                            Other Stock.                            Poultry.                       ...      ...
+                                                  Colts,
+                                 Stallions                                                                                                                  Cocks
+                                                  Fillies        Oxen,         Cows, Young                 Boars,    Sows,
+...             ...              and       Mares.         Bulls.       Steers.               Sheep. Lambs.                     Pigs. Turkeys. Geese. Ducks. and ...       ...
+                                                  and            Work.         Milch. Stock.               Breeding. Breeding.
+                                 Geldings.                                                                                                                  Hens.
+                                                  Foals.
+
+                ...              ...       ...   ...    ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...   ...     ...     ...
+QUEBEC.
+Lake of Two
+                Alex. Brosseau,                                                                                                                                   4,666
+Mountains                       85         ...   ...    8         ...   ...   58    48     29     ...     ...      ...       87    ...        ...   4     510             ...
+                Agent                                                                                                                                             00
+Agency
+Caughnawaga     Alex. Brosseau,                                                                                                                                   12,180
+                                50         75    105    20        ...   ...   310   280    15     10      2        25        140 10           30    15    700            ...
+Agency          Agent                                                                                                                                             00
+St. Regis       George Long,                                                                                                                                      17,998
+                                 84        105   48     16        ...   17    152   151    ...    ...     8        96        127 383          43    63    1,731          ...
+Agency          Agent                                                                                                                                             00
+Viger Agency    N. LeBel, Agent ...        ...   ...    ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...   ...     ...     ...
+St. Francis     W.C. Boucher,                                                                                                                                     1,110
+                                12         6     ...    ...       ...   1     25    8      ...    ...     ...      ...       30    ...        ...   ...   30              ...
+Agency          Agent                                                                                                                                             00
+Lake St. John   P.L. Marcotte,                                                                                                                                    2,151
+                                 10        9     4      2         4     ...   23    ...    ...    ...     ...      4         17    ...        ...   ...   31              ...
+Agency          Agent                                                                                                                                             50
+                Rev. Jacob
+Maria Agency                     3         5     ...    ...       ...   1     4     6      1      1       ...      ...       3     ...        2     ...   30      800 00 ...
+                Gagné, Agent
+Restigouche     V.J.A. Venner,
+                                 39        ...   ...    2         22    ...   20    20     15     ...     ...      ...       112 ...          ...   ...   ...     ...     ...
+Agency          M.D., Agent
+                W.J.
+River Desert                                                                                                                                                      1,895
+                McCaffrey,       16        10    3      ...       ...   ...   35    18     12     10      ...      ...       12    12         ...   ...   50              ...
+Agency                                                                                                                                                            00
+                Agent
+Jeune Lorette   Antoine O.                                                                                                                                        1,350
+                                 2         5     2      2         ...   7     16    10     ...    3       ...      ...       30    ...        ...   ...   400             ...
+Agency          Bastien, Agent                                                                                                                                    00
+Becancour       H. Desilets,
+                                 ...       ...   ...    ...       1     ...   2     4      ...    ...     ...      2         5     ...        ...   ...   5       100 00 ...
+Agency          M.D., Agent
+Temiscamingue A. McBride,                                                                                                                                         2,175
+                                 9         8     1      ...       1     3     12    17     25     3       ...      ...       12    ...        ...   ...   72              ...
+Agency        Agent                                                                                                                                               00
+                                                                                                                                                                  44,425
+...             Totals           310       223   163    50        28    29    657   562    97     27      10       127       575 405          75    82    3,559          ...
+                                                                                                                                                                  50
+
+...             NEW             ...        ...   ...    ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...   ...     ...     ...
+                BRUNSWICK.
+                                W.D.
+                North-eastern
+...                             Carter,    8     7      3         6     12    ...   26     58     ...     ...      ...       ...   34         2     5     6       108     1,245 00
+                Superintendency
+                                Supt.
+                South-western
+...             Superintendency ...        ...   ...    ...       ...   ...   ...   ...    ...    ...     ...      ...       ...   ...        ...   ...   ...     ...     ...
+
+<!-- page 695 -->
+      -
+                     James
+...   1st Division   Farrell,   10   3    1   ...   ...   2   3    15    ...   ...   ...   2    21    ...   ...   ...   75    655 00
+                     Supt.
+                     James
+...   2nd Division   Farrell,   16   7    4   ...   ...   6   12   29    ...   ...   ...   10   52    ...   ...   ...   250   1,525 00
+                     Supt.
+...   ...            Totals     34   17   8   6     12    8   41   102   ...   ...   ...   12   107   2     5     6     433   3,425 00
+

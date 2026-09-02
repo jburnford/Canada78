@@ -1,0 +1,293 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+Agency      LAND                   PUBLIC BUILDINGS, PROPERTY OF BAND.              PRIVATE FENCING AND BUILDINGS
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log.
+                pasturage pasturage.
+ONTARIO.        Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+Grand River
+Superintendency 23,974   10,722    14        1      11      7      1         ...    41,696 1          15         201       365
+- Six Nations
+Parry Sound
+                1,476    ...       7         ...    6       1      5         ...    1,456   ...       ...        23        119
+Superintendency
+New Credit
+(Mississaguas) 1,010     2,950     2         1      1       3      3         ...    5,100   ...       3          45        20
+Agency
+Walpole Island
+               8,200     2,991     2         1      3       2      2         4      2,991   ...       ...        101       131
+Agency
+Sarnia Agency 3,612      680       4         2      3       1      1         ...    5,472 ...         2          111       8
+Caradoc Agency 7,669     6,434     ...       3      6       1      13        ...    15,420 ...        6          107       138
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        57
+Agency
+Manitowaning
+                1,517    3,864     7        3       9       2      ...       ...    2,216   ...       ...        27        280
+Agency
+Gore Bay        3,859    1,390     3        ...     2       ...    2         ...    1,329   ...       ...        7         99
+Thessalon
+                350      260       2        ...     4       ...    ...       ...    260     ...       ...        28        57
+Agency
+Sault Ste. Marie ...     ...       ...      ...     ...     ...    ...       ...    ...     ...       ...        ...       ...
+Port Arthur      786     543       3        2       6       1      2         ...    325     ...       ...        20        186
+Golden Lake
+                 185     25        1        ...     1       ...    1         ...    82      ...      
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+...       ...        3          1          ...     ...   ...     ...     1      ...   ...    ...     ...     ...   950 00     200 00   1,150 00
+Colchester
+                 ...       ...        ...        ...        ...     ...    ...    ...     ...    ...   ...     ...    ...     ...   ...        ...      ...
+County
+Cumberland
+                 ...       ...        ...        ...        3       ...    ...    ...     ...    ...   ...     ...    ...     ...   ...        100 00   100 00
+County
+Pictou County    ...       ...        1          ...        ...     ...    ...    ...     ...    ...   ...     ...    ...     ...   100 00     100 00   200 00
+Antigonish and
+Guysborough      ...       ...        3          ...        3       ...    ...    ...     ...    ...   ...     ...    ...     ...   20 00      100 00   120 00
+Counties
+Richmond
+                 ...       ...        1          1          2       ...    ...    ...     ...    ...   ...     ...    ...     ...   20 00      25 00    45 00
+County
+Inverness
+                 ...       ...        1          ...        ...     1     ...     ...     ...    ...   ...    ...     ...     ...   100 00     300 00   400 00
+County
+Victoria County ...        ...        ...        ...        ...     1     ...     ...     ...    ...   ...    ...     ...     ...   50 00      50 00    100 00
+
+<!-- page 1031 -->
+Cape Breton
+              ...   ...   17   3   1   16   ...   ...   ...   ...   ...   ...   ...   ...   ...   120 00   120 00
+County
+
+
+
+=== EXTRACT FROM HERE (pages 1032-1036) ===
+<!-- page 1032 -->
+Agency        BUILDINGS ERECTED                                                                                                 INCREASE IN VALUE
+                                                                                                                                                      Increased
+                                                                                                                                Value of
+                                                                                                                                                      Value of
+                                                                                                                                Clearing,
+              Dwellings, Dwellings, Dwellings, Dwellings,                Horse Driving Cattle Pig Store Root Milk Corn                      Value of Agricultural
+...                                                       Shanties Barns                                                        Cultivating
+              Stone      Brick      Frame      Log                       Stables Sheds Stables Sties Houses Houses Houses Cribs             Buildings Products
+                                                                                                                                and
+                                                                                                                                                      and
+                                                                                                                                Fencing
+                                                                                                                                                      Industries
+Lunenburg
+              ...       ...        1          ...        ...     ...   ...     ...     ...    1     ...    ...     ...     ...   75 00       100 00   17 00
+County
+Total    ...            ...        36         5          16      19    ...     ...     2      2     ...    ...     ...     ...   1,525 00    2,030 00 3,555 00
+BRITISH
+         ...            ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...         ...      ...
+COLUMBIA
+Cowichan
+              ...       ...        4          1          ...     2     1       ...     ...    ...   ...    ...     ...     ...   225 00      665 00   890 00
+Agency
+West Coast
+              ...       ...        31         ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   550 00      7,050 00 7,600 00
+Agency
+Kwawkewlth
+           ...          ...        9          ...        4       ...   ...     ...     ...    ...   ...    ...     ...     ...   ...         1,175 00 1,175 00
+Agency
+Lower Fraser
+             ...        ...        7          ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   620 00      1,775 00 2,395 00
+Agency
+Williams
+            ...         ...        ...        16         ...     ...   6       ...     ...    ...   ...    ...     ...     ...   650 00      2,885 00 3,535 00
+Lake Agency
+Kamloops-
+Okanagan      ...       ...        11         18         1       ...   14      ...     ...    ...   ...    1       ...     ...   5,115 00    6,600 00 11,715 00
+Agency
+Kootenay
+              ...       ...        3          4          1       4     4       ...     3      ...   ...    1       ...     ...   1,747 50    1,685 00 3,432 50
+Agency
+Northwest
+Coast        ...        ...        12         ...        ...     ...   7       ...     5      4     11     9       1       ...   100 00      3,650 00 3,750 00
+Agency
+Babine and
+Upper
+             ...        ...        21         21         13      ...   1       ...     ...    ...   ...    1       ...     ...   3,355 00    4,025 00 7,380 00
+Skeena River
+Agency
+                                                                                                                                             29,510
+Total         ...       ...        98         60         19      6     33      ...     8      4     11     12      1       ...   12,362 00            41,872 50
+                                                                                                                                             00
+MANITOBA ...            ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...         ...      ...
+Clandeboye
+           ...          ...        1          4          ...     ...    ...    ...     ...    ...   ...     ...    ...     ...   985 00      600 00   1,585 00
+Agency
+Portage la
+Prairie     ...         ...        ...        7          ...     ...    5      ...     ...    ...   ...     ...    ...     ...   75 00       450 00   525 00
+Agency
+Manitowapah
+            ...         ...        ...        18         ...     ...    ...    ...     11     ...   12      ...    ...     ...   40 00       1,335 00 1,375 00
+Agency
+Rat Portage
+              ...       ...        ...        ...        ...     ...    ...    ...     ...    ...   ...     ...    ...     ...   ...         ...      ...
+Agency
+
+<!-- page 1033 -->
+Berens River
+             12   ...   ...   8    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   80 00      800 00   880 00
+Agency
+The Pas
+            ...   ...   ...   10   ...   ...   2     ...   7     ...   1     1     ...   ...   93 00      890 00   983 00
+Agency
+Total       12    ...   1     47   ...   ...   7     ...   18    ...   13    1     ...   ...   1,273 00   4,075 00 5,348 00
+
+<!-- page 1034 -->
+SOURCES AND VALUE OF INCOME
+                                                                                                 Total
+                Value of Farm        Received THE ESTIMATED VALUE OF FISH             Earned
+                              Wages                                                              Income
+Agency          Products,            from Land AND MEAT USED FOR FOOD IS              by Other
+                              Earned                                                             of
+                including Hay        Rentals   INCLUDED IN THESE COLUMNS.             Industries
+                                                                                                 Indians
+...             ...         ...      ...      Earned by Fishing   Earned by Hunting   ...        ...
+NEW
+                $ cts.      $ cts.   $ cts.   $ cts.              $ cts.              $ cts.      $ cts.
+BRUNSWICK
+Richibucto                  14,600                                                                35,100
+                7,400 00           ...        7,175 00            725 00              5,200 00
+Superintendency             00                                                                    00
+Fredericton                 25,274                                                                46,375
+                5,275 00           ...        451 00              5,325 00            10,050 00
+Superintendency             00                                                                    00
+                            39,874                                                                81,475
+Total           12,675 00          ...        7,626 00            6,050 00            15,250 00
+                            00                                                                    00
+PRINCE
+EDWARD          ...         ...      ...      ...                 ...                 ...         ...
+ISLAND
+Prince Edward
+                                                                                                  18,053
+Island          1,544 00    280 00 ...        385 00              64 00               15,780 00
+                                                                                                  25
+Superintendency
+NOVA
+                ...         ...      ...      ...                 ...                 ...         ...
+SCOTIA
+Annapolis
+                75 00       700 00 ...        75 00               250 00              300 00      1,400 00
+County
+Shelburne                   2,100
+                279 00               ...      30 00               853 00              285 00      3,547 70
+County                      00
+                            1,000
+Digby County    328 00               ...      100 00              700 00              500 00      2,628 00
+                            00
+Yarmouth
+                10 00       ...      ...      1,500 00            1,000 00            1,145 00 3,655 00
+County
+                            1,600
+King's County   483 00               ...      50 00               200 00              1,000 00 3,333 00
+                            00
+Queen's County 487 00       809 00 ...        150 00              100 00              1,080 00 2,617 00
+                            1,900
+Halifax County 325 00                ...      150 00              250 00              3,500 00 6,125 00
+                            00
+Hants County    2,595 00    400 00 ...        100 00              1,000 00            2,000 00 6,095 00
+Colchester                  2,275
+                115 00               ...      50 00               400 00              1,410 00 4,250 00
+County                      00
+Cumberland                  2,000
+                450 00               ...      20 00               800 00              1,000 00 4,270 00
+County                      00
+                            6,000
+Pictou County   ...                  ...      ...                 ...                 ...         6,000 00
+                            00
+Antigonish and
+Guysborough    500 00       800 00 ...        300 00              50 00               5,000 00 6,650 00
+Counties
+
+<!-- page 1035 -->
+Richmond
+                750 00     850 00 ...      1,695 00   100 00   1,625 00 5,020 00
+County
+Inverness                  2,194
+                1,850 00           95 00   300 00     80 00    2,300 00 6,819 00
+County                     00
+                           1,100
+Victoria County 2,270 00           ...     400 00     450 00   2,950 00 7,170 00
+                           00
+
+<!-- page 1036 -->
+                                    Received                                                      Total
+               Value of Farm                   THE ESTIMATED VALUE OF FISH             Earned
+                             Wages from                                                           Income
+Agency         Products,                       AND MEAT USED FOR FOOD IS               by Other
+                             Earned Land                                                          of
+               including Hay                   INCLUDED IN THESE COLUMNS.              Industries
+                                    Rentals                                                       Indians
+...            ...           ...    ...        Earned by Fishing   Earned by Hunting   ...        ...
+NEW
+          $ cts.            $ cts.   $ cts.    $ cts.              $ cts.              $ cts.      $ cts.
+BRUNSWICK
+Cape Breton
+               2,500 00     378 00 ...         500 00              50 00               2,500 00 5,928 00
+County
+Lunenburg                   1,000
+               1,045 00              ...       125 00              50 00               1,050 00 3,270 00
+County                      00
+                            25,097
+Total          14,062 70           95 00       5,545 00            6,333 00            27,645 00 78,777 70
+                            00
+BRITISH
+               ...          ...      ...       ...                 ...                 ...         ...
+COLUMBIA
+Cowichan                    23,975                                                                 113,330
+               28,765 00           ...         53,185 00           4,265 00            3,140 00
+Agency                      00                                                                     00
+West Coast                  8,970                                                      108,549     149,345
+               676 00                ...       26,800 00           4,350 00
+Agency                      00                                                         00          60
+Kwawkewlth                  34,250
+               227 50              ...         23,710 00           7,900 00            7,400 00 73,487 50
+Agency                      00
+Lower Fraser                93,230                                                                 343,004
+               46,175 35           272 90      94,090 30           63,288 50           45,947 70
+Agency                      00                                                                     75
+Williams Lake               28,800                                                                 110,728
+              45,808 25            ...         13,940 00           10,380 00           11,800 00
+Agency                      00                                                                     25
+Kamloops-
+                            97,700                                                                 272,856
+Okanagan       97,456 80           ...         23,150 00           25,950 00           28,600 00
+                            00                                                                     80
+Agency
+Kootenay                    3,150
+               18,176 00             ...       550 00              3,400 00            700 00      25,976 00
+Agency                      00
+Northwest                   6,935                                                                  224,820
+               16,945 00             50 00     133,410 00          33,750 00           33,730 00
+Coast Agency                00                                                                     00
+Babine and
+                            29,685                                                                 157,332
+Upper Skeena   12,337 00           ...         39,405 00           45,560 00           30,345 00
+                            00                                                                     00
+River Agency
+                            326,695                                                    270,211     1,470,880
+Total          266,567 50           322 90     408,240 30          198,843 50
+                            00                                                         70          90
+MANITOBA       ...          ...      ...       ...                 ...                 ...         ...
+Clandeboye                  82,500                                                                 194,050
+               16,650              ...         85,000 00           5,600 00            4,300 00
+Agency                      00                                                                     00
+Portage la                  5,700
+               4,560 00              ...       370 00              1,000 00            2,600 00 14,230 00
+Prairie Agency              00
+Manitowapah                 4,568
+               6,443 00              ...       4,180 00            6,480 00            3,097 00 24,768 00
+Agency                      00
+Rat Portage
+               50 00        550 00 ...         140 00              275 00              125 00      1,140 00
+Agency
+

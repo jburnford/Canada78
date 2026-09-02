@@ -1,0 +1,313 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+REALTY OF INDIANS
+                                   PUBLIC BUILDINGS, PROPERTY OF THE
+Agency          LAND                                                                PRIVATE FENCING AND BUILDINGS
+                                   BAND
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log
+                pasturage pasturage
+
+                Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+ONTARIO
+Grand River
+Superintendency 23,974   10,722    14        1      11      9      1         ...    41,696 1          16         204       370
+- Six Nations
+Parry Sound
+                1,582    ...       7         1      6       1      7         ...    1,582   ...       ...        23        125
+Superintendency
+New Credit
+(Mississaguas) 1,050     3,450     2         1      1       3      3         ...    5,275   ...       3          46        21
+Agency
+Walpole Island
+               8,200     3,071     2         1      3       1      3         4      3,071   ...       ...        86        92
+Agency
+Sarnia Agency 2,259      1,562     4         2      3       1      1         ...    4,972 1           3          119       12
+Caradoc Agency 4,309     10,637    ...       3      6       1      13        ...    16,071 ...        7          153       154
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        59
+Agency
+Manitowaning
+                777      3,409     6        3       7       2      ...       ...    1,600   ...       ...        13        174
+Agency
+Gore Bay
+                138      112       2        2       1       ...    ...       ...    849     ...       ...        9         100
+Agency
+Thessalon
+                350      264       3        ...     5       ...    ...       ...    264     ...       ...        28        57
+Agency
+Sault Ste. Marie
+                 1,566   2,684     6        1       3       ...    1         ...    2,480   ...       ...        34        122
+Agency
+Port Arthur
+                827      560       3        2       6       1      2     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+.
+No. 6
+Hobbema Agency,
+                98       44         3     2          5      30      4       19    1        ...       4
+Treaty No. 6
+Battleford Agency,
+                   157   60         ...   ...        ...    71      12      42    7        1         1
+Treaty No. 6
+Onion Lake
+Agency, Treaty   26      15         ...   ...        ...    33      ...     26    2        ...       1
+No. 6
+Duck Lake
+Agency, Treaty   76      35         9     ...        ...    35      10      36    2        ...       6
+No. 6
+Edmonton
+Agency, Treaty   95      57         9     2          3      30      8       30    6        2         ...
+No. 6
+*Carlton Agency,
+                 ...     ...        ...   ...        ...    ...     ...     ...   ...      ...       ...
+
+<!-- page 1024 -->
+Treaty No. 6
+Sarcee Agency,
+                   5        2        1     1     1     10    ...   6     ...   ...   ...
+Treaty No. 7
+Blood Agency,
+                   3        2        ...   ...   ...   58    ...   58    ...   ...   7
+Treaty No. 7
+Blackfoot Agency,
+                  48        19       1     2     2     51    1     37    ...   1     ...
+Treaty No. 7
+Peigan Agency,
+                   30       6        ...   ...   ...   35    ...   31    ...   ...   ...
+Treaty No. 7
+Stony Agency,
+                   16       6        ...   ...   ...   18    ...   18    ...   ...   ...
+Treaty No. 7
+ Total              1,036 516         89   20    29    650   106   534   44    29    29
+[*No return received from the agent.]
+
+
+
+=== EXTRACT FROM HERE (pages 1025-1029) ===
+<!-- page 1025 -->
+                                                                                        Value of
+Agency                  AGRICULTURAL IMPLEMENTS, VEHICLES, & c.                         Implements and
+                                                                                        Vehicles
+                        Other                   Sleighs, Sleighs, Democrat Buggies and
+...                                Wagons Carts                                        ...
+                        Implements              Draught Driving Wagons Road Carts
+
+NORTHWEST               ...        ...     ...   ...     ...     ...       ...          $ cts.
+TERRITORIES
+Touchwood Hills
+                        273        72      33    54      33      7         17           7,999 00
+Agency, Treaty No. 4
+Birtle Agency, Treaty
+                        1,256      112     31    100     61      50        89           17,382 00
+No. 4
+Pelly Agency, Treaty
+                        357        60      20    53      7       3         19           7,073 00
+No. 4
+Qu'Appelle Agency,
+                        1,245      129     49    104     37      18        40           20,496 00
+Treaty No. 4
+Assiniboine Agency,
+                        40         25      6     21      ...     1         3            4,200
+Treaty No. 4
+Crooked Lakes Agency,
+                      688          59      32    44      ...     1         38           12,650 00
+Treaty No. 4
+Moose Mountain
+                        500        33      11    29      25      6         20           4,075 00
+Agency, Treaty No. 4
+Pine Creek Agency,
+                        50         1       ...   5       6       ...       1            300 00
+Treaty No. 4
+Saddle Lake Agency,
+                        646        54      14    69      ...     2         9            7,212 00
+Treaty No. 6
+Hobbema Agency,
+                        580        78      59    77      82      6         9            9,120 00
+Treaty No. 6
+Battleford Agency,
+                        1,325      128     35    111     9       12        34           22,042 00
+Treaty No. 6
+Onion Lake Agency,
+                        600        52      12    27      20      ...       17           5,895 00
+Treaty No. 6
+Duck Lake Agency,
+                        1,270      52      26    41      37      2         30           12,200 00
+Treaty No. 6
+Edmonton Agency,
+                        365        44      27    34      4       1         12           11,140 00
+Treaty No. 6
+*Carlton Agency,
+                        ...        ...     ...   ...     ...     ...       ...          ...
+Treaty No. 6
+Sarcee Agency, Treaty
+                        200        23      7     13      9       3         4            2,000 00
+No. 7
+Blood Agency, Treaty
+                        2,000      225     ...   ...     70      28        50           37,570 00
+No. 7
+Blackfoot Agency,
+                        145        95      ...   26      37      8         38           16,117 00
+Treaty No. 7
+Peigan Agency, Treaty
+                      300          111     ...   ...     ...     19        16           11,314 00
+No. 7
+
+<!-- page 1026 -->
+Stony Agency, Treaty
+                         40          50       ...   38    ...   2     7     6,029 00
+No. 7
+ Total                   11,880       1,404   362   846   437   169   453   214,814 00
+[*No return received from the agent.]
+
+<!-- page 1027 -->
+Agency                 LIVE STOCK AND POULTRY
+...                    Horses                      Cattle                          Other Stock
+                       Stallions       Colts,
+                                                          Oxen,        Cows, Young             Boars,
+...                    and       Mares Fillies and Bulls        Steers             Sheep Lambs
+                                                          Work         Milch Stock             Breeding
+                       Geldings        Foals
+
+NORTHWEST            ...          ...    ...       ...   ...   ...   ...    ...   ...   ...    ...
+TERRITORIES
+Touchwood Hills
+                     116          210    95        14    29    136   400    624   ...   ...    ...
+Agency, Treaty No. 4
+Birtle Agency, Treaty
+                      336         231    66        14    27    200   312    328   15    ...    1
+No. 4
+Pelly Agency, Treaty
+                       52         68     24        17    39    136   212    361   24    18     ...
+No. 4
+Qu'Appelle Agency,
+                       366        298    84        12    49    231   313    659   ...   ...    ...
+Treaty No. 4
+Assiniboine Agency,
+                       35         58     34        2     33    38    52     43    ...   ...    ...
+Treaty No. 4
+Crooked Lakes
+                     126          128    74        11    42    30    254    346   16    ...    ...
+Agency, Treaty No. 4
+Moose Mountain
+                     83           59     21        6     31    20    90     202   ...   ...    ...
+Agency, Treaty No. 4
+Pine Creek Agency,
+                       6          4      9         2     2     7     19     13    ...   ...    ...
+Treaty No. 4
+Saddle Lake Agency,
+                    114           115    26        13    54    89    209    291   42    24     ...
+Treaty No. 6
+Hobbema Agency,
+                       ...        565    ...       ...   15    65    374    501   ...   ...    ...
+Treaty No. 6
+Battleford Agency,
+                       ...        544    ...       20    161   115   554    1,091 120   ...    ...
+Treaty No. 6
+Onion Lake Agency,
+                       85         85     53        12    78    104   280    344   ...   ...    ...
+Treaty No. 6
+Duck Lake Agency,
+                       167        62     62        ...   79    162   326    454   22    8      ...
+Treaty No. 6
+Edmonton Agency,
+                       82         118    47        4     49    68    233    298   9     ...    ...
+Treaty No. 6
+*Carlton Agency,
+                       ...        ...    ...       ...   ...   ...   ...    ...   ...   ...    ...
+Treaty No. 6
+Sarcee Agency, Treaty
+                      200         200    100       ...   2     23    44     62    ...   ...    ...
+No. 7
+Blood Agency, Treaty
+                     ...          3,025 ...        65    ...   211   1,345 1,908 ...    ...    ...
+No. 7
+Blackfoot Agency,
+                       2,523      14     5         27    ...   234   600    750   ...   ...    ...
+Treaty No. 7
+Peigan Agency,
+                       300        440    320       ...   ...   111   633    879   ...   ...    ...
+Treaty No. 7
+
+<!-- page 1028 -->
+Stony Agency, Treaty
+                     ...            1,000 ...       ...   ...   123   317   246   ...   ...   ...
+No. 7
+ Total                  4,591         7,224 1,020   219   690   2,103 6,567 9,400 248   50    1
+[*No return received from the agent.]
+
+<!-- page 1029 -->
+                                                                         Value of Live     GENERAL
+Agency                     LIVE STOCK AND POULTRY - Concluded
+                                                                         Stock and Poultry EFFECTS
+                           Other Stock -
+...                                         Poultry                      ...
+                           Con
+                                                               Cocks
+                           Sows,                                                        Sail Row
+...                                   Pigs Turkeys Geese Ducks and       ...                        Canoes
+                           Breeding                                                     Boats Boats
+                                                               Hens
+
+NORTHWEST                  ...        ...   ...       ...   ...   ...    $ cts.         ...   ...    ...
+TERRITORIES
+Touchwood Hills
+                           4          12    ...       ...   ...   ...    34,514 10      ...   ...    1
+Agency, Treaty No. 4
+Birtle Agency, Treaty No.
+                          5           24    ...       ...   11    615    43,780 90      ...   2      8
+4
+Pelly Agency, Treaty No.
+                         ...          ...   ...       8     ...   197    28,835 00      ...   1      ...
+4
+Qu'Appelle Agency,
+                           ...        6     ...       ...   ...   20     67,394 00      ...   6      ...
+Treaty No. 4
+Assiniboine Agency,
+                           ...        ...   ...       ...   ...   1009   6,000 00       ...   ...    ...
+Treaty No. 4
+Crooked Lakes Agency,
+                           ...        ...   ...       ...   ...   ...    24,791 00      ...   ...    ...
+Treaty No. 4
+Moose Mountain Agency,
+                       ...            ...   ...       ...   ...   ...    15,202 00      ...   ...    ...
+Treaty No. 4
+Pine Creek Agency,
+                           2          1     ...       ...   ...   13     1,480 00       11    7      14
+Treaty No. 4
+Saddle Lake Agency,
+                           ...        49    ...       ...   ...   ...    27,079 00      1     19     68
+Treaty No. 6
+Hobbema Agency, Treaty
+                       ...            ...   ...       ...   ...   70     26,813 00      ...   ...    3
+No. 6
+Battleford Agency, Treaty
+                          ...         109 ...         ...   ...   280    63,270 00      ...   5      ...
+No. 6
+Onion Lake Agency,
+                           3          ...   ...       ...   ...   18     24,345 00      ...   ...    57
+Treaty No. 6
+Duck Lake Agency,
+                           3          ...   50        ...   50    600    44,034 00      ...   3      8
+Treaty No. 6
+Edmonton Agency,
+                           ...        95    ...       ...   20    117    25,573 00      ...   ...    11
+Treaty No. 6
+*Carlton Agency, Treaty
+                        ...           ...   ...       ...   ...   ...    ...            ...   ...    ...
+No. 6
+Sarcee Agency, Treaty
+                           ...        ...   ...       ...   ...   100    10,000 00      ...   ...    ...
+No. 7
+Blood Agency, Treaty
+                           ...        ...   ...       ...   ...   ...    135,685 00     ...   ...    ...
+No. 7
+Blackfoot Agency, Treaty
+                         ...          ...   ...       ...   ...   ...    81,555 00      ...   12     ...
+No. 7
+

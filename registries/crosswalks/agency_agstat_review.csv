@@ -1,0 +1,151 @@
+queue,agency_key,printed,provinces,first_year,last_year,candidate,score
+near_miss,cape crocker,Cape Cocker Agency | Cape Crocker | Cape Crocker Agency,ONTARIO; ONTARIO.,1901,1925,AG-cape-croker-agency,0.857
+near_miss,core bay,Core Bay,ONTARIO; ONTARIO.,1920,1927,AG-gore-bay-agency,0.857
+near_miss,chaughnawaga,Caughnawaga | Caughnawaga Agency | Chaughnawaga Agency,PRINCE EDWARD ISLAND; QUEBEC; QUEBEC.,1895,1930,AG-caughnawaga-agency,0.857
+near_miss,touchwood hills no 4,"Touchwood Hills | Touchwood Hills Agency | Touchwood Hills Agency, No. 4",SASKATCHEWAN; SASKATCHEWAN.; Saskatchewan,1895,1915,AG-touchwood-hills-agency,0.848
+near_miss,files hills,Files Hills,Treaty No. 4,1895,1895,AG-file-hills-agency,0.842
+near_miss,northwestern,Northwestern Division,NEW BRUNSWICK; NEW BRUNSWICK.,1920,1921,AG-northwest-superintendency,0.842
+near_miss,tyendianaga,Tyendianaga Agency | Tyendinaga | Tyendinaga Agency,ONTARIO; ONTARIO - Con.; ONTARIO - Concluded,1895,1930,AG-tyendinaga-agency,0.842
+near_miss,manitowaph,Manitowaph,MANITOBA,1924,1924,AG-manitowapaw-agency,0.842
+near_miss,manitowpah,Manitowpah,MANITOBA,1926,1926,AG-manitowapah-agency,0.842
+near_miss,caugnawaga,Caugnawaga,QUEBEC,1927,1927,AG-caughnawaga-agency,0.842
+near_miss,fraser p,"Fraser, P.",Qu'Appelle Agency.; Qu'Appelle Agency. - Con.,1907,1908,AG-fraser-agency,0.833
+near_miss,christian island ag cy,Christian Island Ag'cy | Christian Islands,ONTARIO.,1898,1919,AG-christian-island-agency,0.833
+near_miss,alnwich,Alnwich | Alnwick | Alnwick Agency,Northern Superintendency; ONTARIO; ONTARIO.,1895,1930,AG-alnwick-agency,0.833
+near_miss,sarcee 1,Sarcee | Sarcee 1 | Sarcee Agency,"ALBERTA; ALBERTA.; Agency, Treaty No. 7",1895,1930,AG-sarcee-agency,0.833
+near_miss,babine and upper skeena river ag cy,(t)Babine and Upper Skeena River Agency | *Babine Agency and Upper Skeena River Agency | *Babine and Upper Skeena River,BRITISH COLUMBIA; BRITISH COLUMBIA.; British Columbia,1895,1909,AG-babine-upper-skeena-river-agency,0.828
+near_miss,rice and mud lakes,Rice and Mud Lakes,ONTARIO; ONTARIO - Concluded.; ONTARIO.,1915,1915,AG-rice-mud-lake-agency,0.828
+near_miss,sault ste marie ag cy,*Sault Ste. Marie | Sault Ste Marie | Sault Ste Marie Agency,ONTARIO; ONTARIO - Con.; ONTARIO - Concluded,1898,1930,AG-sault-ste-marie-agency,0.824
+near_miss,tyendinga,Tyendinga Agency,ONTARIO; ONTARIO.,1909,1909,AG-tyendinaga-agency,0.824
+near_miss,manitowaming,Manitowaming | Manitowaning | Manitowaning Agency,MANITOBA.; ONTARIO; ONTARIO - Con.,1898,1930,AG-manitowaning-agency,0.818
+near_miss,lesser slave,Lesser Slave,ALBERTA.,1912,1917,AG-lesser-slave-lake-agency,0.815
+near_miss,walpole island ag cy,Walpole Island | Walpole Island Ag'cy | Walpole Island Agency,Grand River Superintendency; Grand River Superintendency -; ONTARIO,1897,1930,AG-walpole-island-agency,0.812
+near_miss,christian island county,Christian Island | Christian Island Agency | Christian Island County,ONTARIO; ONTARIO - Con.; ONTARIO.,1898,1930,AG-christian-island-agency,0.811
+near_miss,bella cooia,Bella CooIa | Bella Coola | Bella Cools,BRITISH COLUMBIA; BRITISH COLUMBIA.,1910,1930,AG-bella-coola-agency,0.8
+near_miss,belle coola,Belle Coola,BRITISH COLUMBIA.,1919,1919,AG-bella-coola-agency,0.8
+near_miss,ft frances,Ft. Frances,ONTARIO.,1919,1920,AG-fort-frances-agency,0.8
+near_miss,assabaska,Assabaska,Chippewas and Saulteaux of Treaty No. 3 at -; ONTARIO; ONTARIO - Con.,1900,1900,AG-assabaskasing-agency,0.8
+near_miss,gore bare,*Gore Bay Agency | Gore Bare Agency | Gore Bay,ONTARIO; ONTARIO - Con.; ONTARIO.,1899,1930,AG-gore-bay-agency,0.8
+near_miss,manitowanah,Manitowanah | Manitowapah | Manitowapah (t),MANITOBA; MANITOBA.; Manitoba,1898,1930,AG-manitowapah-agency,0.8
+near_miss,manotowapah,Manotowapah Agency,MANITOBA.,1897,1897,AG-manitowapah-agency,0.8
+near_miss,monitowapah,Monitowapah Agency,MANITOBA.,1899,1899,AG-manitowapah-agency,0.8
+near_miss,temiskaming,Temiskaming | Temiskaming Agency | Timiskaming,PRINCE EDWARD ISLAND; QUEBEC; QUEBEC - Concluded.,1900,1930,AG-timiskaming-agency,0.8
+near_miss,timiscaming,Timiscaming Agency,QUEBEC,1908,1908,AG-timiskaming-agency,0.8
+near_miss,partage la praire,Partage la Praire Agency,MANITOBA,1909,1909,AG-portage-la-prairie-agency,0.788
+near_miss,georgian island,Georgian Island,ONTARIO,1925,1925,AG-georgina-island-agency,0.786
+near_miss,kwakkewlth,Kwakewlth | Kwakewlth Agency | Kwakkewlth,BRITISH COLUMBIA.; British Columbia,1895,1919,AG-kwawkewlth-agency,0.778
+near_miss,kwawketlth,Kwawketlth Agency,BRITISH COLUMBIA.,1909,1909,AG-kwawkewlth-agency,0.778
+near_miss,kwawkewith,Kwawkewith Agency,BRITISH COLUMBIA.,1909,1909,AG-kwawkewlth-agency,0.778
+near_miss,kwawlewlth,Kwawlewlth,BRITISH COLUMBIA,1921,1921,AG-kwawkewlth-agency,0.778
+near_miss,file mills,File Mills Agency,SASKATCHEWAN.,1916,1916,AG-file-hills-agency,0.778
+near_miss,micmacs of prince edward island,Micmacs of Prince Edward Island,PRINCE EDWARD ISLAND; PRINCE EDWARD ISLAND.,1917,1918,AG-prince-edward-island-agency,0.776
+near_miss,port simpson day,Port Simpson Day,,1895,1895,AG-fort-simpson-agency,0.769
+near_miss,cape croker ag cy,Cape Croker Ag'cy,ONTARIO.,1898,1898,AG-cape-croker-agency,0.769
+near_miss,golden lake ag cy,Golden Lake Ag'cy,ONTARIO.,1898,1898,AG-golden-lake-agency,0.769
+near_miss,lake simcoe ag cy,Lake Simcoe Ag'cy,ONTARIO.,1898,1898,AG-lake-simcoe-agency,0.769
+near_miss,berimis,Berimis,QUEBEC.,1916,1916,AG-bersimis-agency,0.769
+near_miss,mississaguas new credit,"Mississaguas, New Credit | Mississaugas, New Credit",Grand River Superintendency; Grand River Superintendency -; ONTARIO.,1895,1897,AG-mississaguas-of-the-credit-agency,0.766
+near_miss,stewart lake,Stewart Lake,BRITISH COLUMBIA,1921,1921,AG-stuart-lake-agency,0.762
+near_miss,couchiching,Couchiching | Couchiching Agency,Chippewas and Saulteaux of Treaty No. 3 at -; ONTARIO; ONTARIO - Con.,1900,1901,AG-coucheeching-agency,0.762
+near_miss,fort frances county,Fort Frances County,ONTARIO.,1910,1910,AG-fort-frances-agency,0.759
+near_miss,manitowaning county,Manitowaning County,ONTARIO.,1910,1910,AG-manitowaning-agency,0.759
+near_miss,new credit ag cy,New Credit (Mississag's) Ag'cy | New Credit (Mississaguas) Ag'cy.,ONTARIO.,1898,1898,AG-new-credit-agency,0.75
+near_miss,tyendinaga ag cy,Tyendinaga Ag'cy,ONTARIO.,1898,1898,AG-tyendinaga-agency,0.75
+near_miss,juene lorette,Juene Lorette,QUEBEC,1925,1925,AG-jeune-lorette-agency,0.75
+near_miss,viget,Viget Agency,QUEBEC.,1907,1907,AG-viger-agency,0.75
+near_miss,cape croker county,Cape Croker County,ONTARIO.,1910,1910,AG-cape-croker-agency,0.741
+near_miss,golden lake county,Golden Lake County,ONTARIO.,1910,1910,AG-golden-lake-agency,0.741
+near_miss,lake simcoe county,Lake Simcoe County,ONTARIO.,1910,1910,AG-lake-simcoe-agency,0.741
+near_miss,parry sound county,Parry Sound County,ONTARIO.,1910,1910,AG-parry-sound-superintendency,0.741
+near_miss,babina and upper skeena,*Babine and Upper Skeena | Babina and Upper Skeena | Babine and Upper Skeena,BRITISH COLUMBIA; BRITISH COLUMBIA.,1910,1920,AG-babine-upper-skeena-river-agency,0.739
+near_miss,moravians,Moravian | Moravian Agency | Moravians,ONTARIO; ONTARIO - Con.; ONTARIO - Concluded.,1898,1930,AG-moraviantown-agency,0.737
+near_miss,mud lake,Mud Lake | Mud Lake Agency,Northern Superintendency; ONTARIO; ONTARIO.,1895,1914,AG-rice-mud-lake-agency,0.737
+near_miss,surveys and reserve commission,Surveys and reserve commission,BRITISH COLUMBIA,1903,1903,AG-indian-reserve-commissioner,0.727
+near_miss,rice lake ag cy,Rice Lake Ag'cy,ONTARIO.,1898,1898,AG-rice-lake-agency,0.727
+near_miss,maintowaning,Maintowaning Superintendency | Manitowaing,ONTARIO,1898,1924,AG-manitowaning-agency,0.727
+near_miss,cardoc,Cardoc Agency,ONTARIO,1898,1898,AG-caradoc-agency,0.727
+near_miss,lesser slave lake treaty no 8,"*Lesser Slave Lake Agency, Treaty No. 8",ALBERTA; ALBERTA.,1909,1909,AG-lesser-slave-lake-agency,0.727
+near_miss,oak river,Oak River (Sioux) Agency,MANITOBA; MANITOBA.,1907,1909,AG-oak-river-sioux-agency,0.727
+near_miss,scarcee,Scarcee,ALBERTA,1926,1926,AG-sarcee-agency,0.727
+near_miss,seven islands,Seven Island | Seven Islands,PRINCE EDWARD ISLAND; QUEBEC; QUEBEC - Concluded.,1914,1930,AG-saguenay-district-seven-islands-agency,0.727
+near_miss,minigan,Minigan,QUEBEC.,1919,1920,AG-mingan-agency,0.727
+near_miss,new credit mississaguas,New Credit Mississaguas Agency,ONTARIO.,1900,1900,AG-mississaguas-of-the-credit-agency,0.723
+near_miss,new credit county,New Credit County,ONTARIO.,1910,1910,AG-new-credit-agency,0.72
+near_miss,file hills colony,File Hills Colony,SAKATCHEWAN.; SASKATCHEWAN; SASKATCHEWAN - Concluded.,1914,1928,AG-file-hills-agency,0.72
+near_miss,wood mountain,Wood Mountain,SAKATCHEWAN.; SASKATCHEWAN; SASKATCHEWAN - Concluded.,1917,1921,AG-moose-mountain-agency,0.72
+near_miss,qu appelle touchwood hills,Qu'Appelle Touchwood Hills,SASKATCHEWAN.,1912,1912,AG-touchwood-hills-agency,0.718
+near_miss,prince edward island superintend cy,Prince Edward Island Superint'y | Prince Edward Island Superintend'cy,PRINCE EDWARD ISLAND.,1899,1899,AG-prince-edward-island-agency,0.717
+near_miss,moniwaki,Moniwaki,QUEBEC,1912,1912,AG-maniwaki-agency,0.714
+near_miss,william s lake industrial,William's Lake Industrial,,1895,1895,AG-william-s-lake-agency,0.703
+near_miss,northeast,Northeast Division,NEW BRUNSWICK,1925,1925,AG-north-eastern-superintendency,0.7
+near_miss,sturgeon,Sturgeon Agency,ONTARIO; ONTARIO.,1907,1907,AG-sturgeon-falls-agency,0.7
+near_miss,williams e 0,"Williams, E.0. | Williams, E.O.",Moose Mountain Agency; Moose Mountain Agency.,1908,1909,AG-williams-lake-agency,0.696
+near_miss,jean lorette,Jean Lorette | Jean Lorette Agency,PRINCE EDWARD ISLAND; QUEBEC; QUEBEC.,1901,1927,AG-jeune-lorette-agency,0.696
+near_miss,portage la,Portage la,MANITOBA,1906,1906,AG-portage-la-prairie-agency,0.692
+near_miss,lake of two mountains j perillard agent,"Lake of Two Mountains Agency, J. Perillard, Agent",QUEBEC.,1900,1900,AG-lake-of-two-mountains-agency,0.69
+near_miss,muscowpetung s treaty no 4,"Muscowpetung Agency, Treaty No. 4 | Muscowpetung's Agency, Treaty No. 4 | Muskowpetung's Agency, Treaty No. 4",Manitoba and North-west Territories; NORTH-WEST TERRITORIES; NORTH-WEST TERRITORIES.,1895,1900,AG-muscowpetung-s-agency,0.684
+near_miss,manitoba alberta saskatchewan and north west territories,"Manitoba, Alberta, Saskatchewan and North-West Territories","ANNUITIES, 1912 - 13 - AUTHORIZED BY STATUTE",1913,1913,AG-northwest-territories-saskatchewan-onion-lake-agency,0.667
+near_miss,miller s n m d,"Miller, S.N., M.D.",Annapolis County.,1913,1913,AG-steam-mills-n-s-agency,0.667
+near_miss,simpson w s,"Simpson, W.S.",Stickine,1913,1913,AG-fort-simpson-agency,0.667
+near_miss,indians,Indian | Indians (3),Assiniboine Agency; Birtle Agency; Birtle Agency.,1903,1909,AG-i-ndian-agency,0.667
+near_miss,north h,"North, H.",Qu'Appelle Agency.,1908,1908,AG-north-west-superintendency,0.667
+near_miss,cowichan county,Cowichan County,BRITISH COLUMBIA,1903,1903,AG-cowichan-agency,0.667
+near_miss,kwawkelwth,Kwawkelwth,BRITISH COLUMBIA,1925,1925,AG-kwawkewlth-agency,0.667
+near_miss,kwawkwelth,Kwawkwelth | Kwawkwelth Agency,BRITISH COLUMBIA; BRITISH COLUMBIA.,1905,1930,AG-kwawkewlth-agency,0.667
+near_miss,naas,Naas,BRITISH COLUMBIA.,1912,1912,AG-nass-agency,0.667
+near_miss,mississaugas walpole island,"Mississaugas, Walpole Island",Ontario,1895,1895,AG-walpole-island-agency,0.667
+near_miss,georgian bay islands,(t)Georgian Bay Islands | Georgina Bay Islands,ONTARIO - Concluded,1928,1930,AG-georgina-island-agency,0.667
+near_miss,williams albert w,"Williams, Albert W.",ONTARIO,1903,1903,AG-fort-william-agency,0.667
+near_miss,alnwick mud lake,Alnwick Mud Lake Agency,ONTARIO.,1901,1901,AG-rice-mud-lake-agency,0.667
+near_miss,chapleau county,Chapleau County,ONTARIO.,1910,1910,AG-chapleau-agency,0.667
+near_miss,gore bay county,Gore Bay County,ONTARIO.,1910,1910,AG-gore-bay-agency,0.667
+near_miss,nisbet william,"Nisbet, William",ONTARIO.,1908,1908,AG-fort-william-agency,0.667
+near_miss,alnwick ag cy,Alnwick Ag'cy,ONTARIO.,1898,1898,AG-alnwick-agency,0.667
+near_miss,caradoc ag cy,Caradoc Ag'cy,ONTARIO.,1898,1898,AG-caradoc-agency,0.667
+near_miss,saugeen ag cy,Saugeen Ag'cy,ONTARIO.,1898,1898,AG-saugeen-agency,0.667
+near_miss,fraser john,"Fraser, John",ONTARIO.,1908,1908,AG-fraser-agency,0.667
+near_miss,saujeen,Saujeen,ONTARIO,1924,1924,AG-saugeen-agency,0.667
+near_miss,moose mountains treaty no 4,"Moose Mount'n Agency, Treaty No. 4 | Moose Mountains Agency, Treaty No. 4 | Mouse Mountain Agency, Treaty No. 4",NORTH-WEST TERRITORIES; NORTHWEST TERRITORIES; SASKATCHEWAN.,1898,1909,AG-moose-mountain-agency,0.667
+near_miss,lake peigan,Lake Peigan,ALBERTA.,1917,1917,AG-peigan-agency,0.667
+near_miss,saddle,Saddle,ALBERTA,1926,1930,AG-saddle-lake-agency,0.667
+near_miss,stoney,Stoney,ALBERTA.,1920,1920,AG-stony-agency,0.667
+near_miss,caughnawaga jeune lorette,"Caughnawaga, Jeune Lorette",QUEBEC,1921,1921,AG-jeune-lorette-agency,0.667
+near_miss,lorette,Lorette | Lorette Agency,QUEBEC; QUEBEC.; Quebec,1900,1914,AG-jeune-lorette-agency,0.667
+near_miss,christianson s,"Christianson, S.",Stony Agency.,1907,1907,AG-christian-island-agency,0.643
+near_miss,williams c m d,"Williams, C., M.D.",Okanagan Agency,1913,1913,AG-williams-lake-agency,0.64
+near_miss,william seale,William Seale,HEADQUARTERS - INSIDE SERVICE; HEADQUARTERS - INSIDE SERVICE.,1903,1908,AG-william-s-lake-agency,0.64
+near_miss,williams g m d,"Williams, G., M.D.",BRITISH COLUMBIA,1903,1903,AG-williams-lake-agency,0.64
+near_miss,moravian county,Moravian County,ONTARIO.,1910,1910,AG-moraviantown-agency,0.64
+near_miss,mud lake ag cy,Mud Lake Ag'cy,ONTARIO.,1898,1898,AG-rice-mud-lake-agency,0.64
+near_miss,sturgeon lake,Sturgeon Lake,Chippewas and Saulteaux of Treaty No. 3 at -; ONTARIO; ONTARIO - Con.,1900,1900,AG-sturgeon-falls-agency,0.64
+near_miss,p e island,P.E. Island Superintendency,PRINCE EDWARD ISLAND.,1900,1900,AG-walpole-island-agency,0.636
+near_miss,prince edward island john o arsenault supt,"Prince Edward Island Superintendency, John O. Arsenault, Supt.",PRINCE EDWARD ISLAND.,1900,1900,AG-prince-edward-island-agency,0.633
+near_miss,alnwick county,Alnwick County,ONTARIO.,1910,1910,AG-alnwick-agency,0.632
+near_miss,caradoc county,Caradoc County,ONTARIO.,1910,1910,AG-caradoc-agency,0.632
+near_miss,eagle lake,Eagle Lake | Eagle lake,Chippewas & Saulteaux of Treaty No. 3 at; Chippewas and Saulteaux of Treaty No. 3; Chippewas and Saulteaux of Treaty No. 3 at,1897,1900,AG-saddle-lake-agency,0.632
+near_miss,walpole,Walpole | Walpole Agency,ONTARIO.,1906,1912,AG-walpole-island-agency,0.632
+near_miss,grand river six nations,Grand River Superintendency - Six Nations | Grand River Superintendency - Six Nations. | Grand River Superintendency- Six Nations,ONTARIO; ONTARIO.; Ontario,1900,1909,AG-six-nations-agency,0.625
+near_miss,parry sound six nations,Parry Sound Superintendency-Six Nations,ONTARIO,1909,1909,AG-six-nations-agency,0.625
+near_miss,sarnia ag cy,Sarnia Ag'cy,ONTARIO.,1898,1898,AG-sarnia-agency,0.625
+near_miss,scugog ag cy,Scugog Ag'cy,ONTARIO.,1898,1898,AG-scugog-agency,0.625
+near_miss,assiniboine treaty no 4,"Assiniboine Agency Treaty No. 4 | Assiniboine Agency, Treaty No. 4 | Assiniboine Agency, Treaty No. 4.",Manitoba and North-west Territories; NORTH-WEST TERRITORIES; NORTH-WEST TERRITORIES.,1895,1909,AG-assiniboine-agency,0.625
+near_miss,saddle lake treaty no 4,"Saddle Lake Agency Treaty No. 6 | Saddle Lake Agency, Treaty No. 4 | Saddle Lake Agency, Treaty No. 6",ALBERTA; ALBERTA.; NORTH-WEST TERRITORIES,1897,1909,AG-saddle-lake-agency,0.625
+near_miss,west coast kwawkewlth,West Coast Kwawkewlth Agency,BRITISH COLUMBIA,1908,1908,AG-west-coast-agency,0.621
+near_miss,annapolis,Annapolis,NOVA SCOTIA; NOVA SCOTIA.; Nova Scotia,1895,1930,AG-annapolis-shelburne-agency,0.615
+near_miss,mud lake county,Mud Lake County,ONTARIO.,1910,1910,AG-rice-mud-lake-agency,0.615
+near_miss,skeena river1,Skeena River | Skeena River1,BRITISH COLUMBIA; BRITISH COLUMBIA.,1920,1930,AG-babine-uppfr-skeena-river-agency,0.611
+near_miss,mississaguas,"Mississaguas,",Ontario,1896,1896,AG-mississaguas-of-the-credit-agency,0.611
+near_miss,serpent river,Serpent River,,1895,1895,AG-fraser-river-agency,0.609
+near_miss,william a orr,William A. Orr,HEADQUARTERS - INSIDE SERVICE; HEADQUARTERS - INSIDE SERVICE.,1903,1907,AG-william-lake-agency,0.609
+near_miss,touchwood hills ag cy treaty no 4,"Touchwood Hill Agency, Treaty No. 4 | Touchwood Hills Ag'cy, Treaty No. 4 | Touchwood Hills Agency Treaty No. 4",Manitoba and North-west Territories; NORTH-WEST TERRITORIES; NORTH-WEST TERRITORIES.,1895,1909,AG-touchwood-hills-agency,0.609
+near_miss,port simpson girls home,Port Simpson Girls' Home,,1895,1895,AG-fort-simpson-agency,0.606
+near_miss,wood mountain reserve,Wood Mountain Reserve,SASKATCHEWAN; Saskatchewan,1924,1930,AG-moose-mountain-agency,0.606
+near_miss,moose mountain ag cy tr ty no 4,"Moose Mountain Ag'cy Tr'ty No. 4. | Moose Mountain Agency Treaty No. 4 | Moose Mountain Agency, Treaty No. 4",NORTH-WEST TERRITORIES; NORTH-WEST TERRITORIES.; NORTHWEST TERRITORIES,1895,1909,AG-moose-mountain-agency,0.605
+near_miss,north west angle no 33,North-west Angle No. 33 | North-west Angle No. 34 | North-west Angle No. 37,Chippewas & Saulteaux of Treaty No. 3 at; Chippewas and Saulteaux of Treaty No. 3; Chippewas and Saulteaux of Treaty No. 3 at,1897,1900,AG-north-west-superintendency,0.6
+near_miss,assabasca,Assabasca,Chippewas & Saulteaux of Treaty No. 3 at; Chippewas and Saulteaux of Treaty No. 3; Chippewas and Saulteaux of Treaty No. 3 at,1897,1899,AG-assabaskasing-agency,0.6
+near_miss,seugog,Seugog,ONTARIO,1921,1921,AG-scugog-agency,0.6
+near_miss,file hills treaty no 4,"File Hills Agency, Treaty No. 4 | File Hills Agency, Treaty No. 4.",NORTH-WEST TERRITORIES; NORTH-WEST TERRITORIES.; NORTHWEST TERRITORIES,1897,1900,AG-file-hills-agency,0.6
+near_miss,onion lake treaty no 4,"Onion Lake Agency Treaty No. 6 | Onion Lake Agency, Treaty No. 4 | Onion Lake Agency, Treaty No. 6",NORTH-WEST TERRITORIES; NORTH-WEST TERRITORIES.; NORTHWEST TERRITORIES,1897,1909,AG-onion-lake-agency,0.6
+near_miss,qu appelle treaty no 4,"Qu'Appelle Agency Treaty No. 4 | Qu'Appelle Agency, Treaty No. 4 | Qu'Appelle Agency, Treaty, No. 4",NORTHWEST TERRITORIES; NORTHWEST TERRITORIES.; SASKATCHEWAN,1901,1909,AG-qu-appelle-inspectorate,0.6
+near_miss,swan river treaty no 4,"Swan River (Fort Pelly), Treaty No. 4 | Swan River Agency, Treaty No. 4",Manitoba and North-west Territories; NORTH-WEST TERRITORIES; NORTH-WEST TERRITORIES.,1895,1900,AG-swan-river-agency,0.6
+near_miss,ristigoucbe,Ristigoucbe,QUEBEC,1916,1916,AG-restigouche-agency,0.6

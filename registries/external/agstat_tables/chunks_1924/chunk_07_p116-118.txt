@@ -1,0 +1,89 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 5: VALUE OF REAL AND PERSONAL PROPERTY AND PROGRESS DURING YEAR
+
+                                             Value of                                                   Progress During Year 1922
+                                                                  Value                     Total
+               Total       Value             Public    Value of           Value
+                                   Value of                       of Live         Value of Value of                            Total
+               Value of    of                Buildings Implements         of                            Value of New Value of
+Agencies                           Private                        Stock           Household Real and                           Increase
+               Lands in    Private           Property and                 General                       Land         Buildings
+                                   Buildings                      and             Effects   Personal                           in
+               Reserves    Fencing           of the    Vehicles           Effects                       Improvements Erected
+                                                                  Poultry                   Property                           Value
+                                             Band
+...            $           $       $         $         $          $       $       $         $           $            $         $
+
+               ...         ...      ...       ...       ...       ...      ...     ...      ...         ...          ...       ...
+ALBERTA
+Blackfoot      2,301,280   22,000   284,500   52,500    100,000   123,841 8,660    26,000   2,918,781   6,600        57,000    63,600
+Blood          7,081,720   22,000   59,000    30,000    115,000   190,000 25,000   25,000   7,847,720   7,500        4,000     11,500
+Edmonton       1,183,483   14,930   60,500    11,175    28,330    32,025 5,950     11,300   1,347,693   2,570        1,550     4,120
+Hobbema        917,040     28,956   37,870    ...       67,941    14,989 11,463    9,314    1,087,573   31,425       4,380     35,805
+Lesser Slave
+               2,393,302 12,210 53,150        ...       17,136    62,680 41,790 26,325      2,606,593 490            2,550     3,040
+Lake
+Peigan      977,975    4,687 36,587           22,970    44,746    97,053 15,288 10,595      1,209,901 440            1,050     1,490
+Saddle Lake 891,907    2,850 24,276           ...       19,465    14
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ 32,576   77,150    24,000    749,871   58,503   14,450   18,280    3,566,524   5,446        6,700     12,146
+Carleton            1,545,224   12,646   69,097    32,425    30,422    56,764   10,605   13,901    1,771,084   3,260        1,157     4,417
+Crooked Lakes       1,086,662   34,200   61,630    ...       62,945    59,890   4,300    14,100    1,323,727   3,650        4,000     7,650
+Duck Lake           1,769,815   20,268   35,450    17,900    33,880    66,442   6,100    24,550    1,974,405   2,110        1,000     3,110
+File Hills Agency   525,000     4,300    9,000     300       5,900     12,800   1,150    3,400     561,850     128          ...       128
+File Hills Colony   400,000     600      55,000    15,000    21,000    25,000   600      8,000     525,200     500          ...       500
+Isle à la Crosse    4,103       330      24,595    400       ...       ...      32,616   5,320     67,364      ...          ...       ...
+Moose Mountain      250,800     2,500    9,500     3,000     9,000     10,000   2,000    2,000     288,800     75           100       175
+Moose Woods         62,495      6,690    5,850     2,500     6,000     16,500   600      2,500     103,135     30           ...       30
+Onion Lake          2,191,740   13,000   51,000    3,300     25,400    76,380   10,100   15,700    2,386,620   1,644        2,700     4,344
+Pelly               669,824     4,000    28,100    3,600     22,800    37,980   5,600    12,900    784,804     1,250        900       2,150
+
+
+
+=== EXTRACT FROM HERE (pages 116-118) ===
+<!-- page 116 -->
+Qu'Appelle      949,730   13,140 37,600      29,900    46,401    41,280 4,595 14,700       1,137,346 4,600     19,000   23,600
+Touchwood       1,190,255 19,985 28,060      1,650     57,512    94,000 20,700 23,910      1,436,072 2,480     1,730    4,210
+Wood Mountain
+                15,840    25      1,945      ...       805       2,740   462    930        22,747    ...       ...      ...
+Reserve
+Total           14,344,490 170,008 514,324   138,061   424,967   614,609 114,644 168,866   16,489,969 25,173   38,327   63,500
+
+<!-- page 117 -->
+                                           Value of                                                       Progress During Year 1922
+                                                                Value of                      Total
+              Total                        Public    Value of
+                         Value of Value of                      Live        Value of Value of Value of                           Total
+              Value of                     Buildings Implements                                           Value of New Value of
+Agencies                 Private  Private                       Stock       General Household Real and                           Increase
+              Lands in                     Property and                                                   Land         Buildings
+                         Fencing Buildings                      and         Effects  Effects  Personal                           in
+              Reserves                     of the    Vehicles                                             Improvements Erected
+                                                                Poultry                       Property                           Value
+                                           Band
+...           $          $        $        $         $          $           $         $         $         $            $         $
+
+RECAPITULATION
+
+              ...        ...       ...       ...       ...        ...       ...       ...       ...       ...          ...       ...
+PROVINCES
+Alberta       17,368,117 126,633   591,533   154,345   415,468    590,334   122,111   126,999   19,495,540 50,735      71,935    122,670
+British
+              13,507,881 453,201   1,676,812 456,558   466,970    990,394   696,684   497,266   18,745,766 54,146      54,605    108,751
+Columbia
+Manitoba      2,934,862 32,413     381,745   68,100    107,760    232,730   163,775   102,765   4,024,150 4,360        34,010    38,370
+New
+              71,008     2,728     47,601    82,932    6,744      6,505     8,282     21,115    246,915   230          20,295    20,525
+Brunswick
+Nova Scotia 102,409     5,440      67,105    39,850    7,185      12,620    12,294    20,565    267,468   280          1,913     2,193
+Ontario       4,946,005 700,161    1,635,660 444,585   558,840    655,431   216,813   452,708   9,610,203 6,485        41,460    47,945
+Prince Edward
+              20,000    1,750      10,000    10,000    1,150      3,400     3,200     3,300     52,800    50           120       170
+Island
+Quebec       1,429,020 40,370     851,635 170,845 89,878          163,728 99,725      247,065   3,092,266 3,335        28,700    32,035
+Saskatchewan 14,344,490 170,008 514,324 138,061 424,967           614,609 114,644 168,866       16,489,969 25,173      38,327    63,500
+Totals       54,723,792 1,532,704 5,776,415 1,565,276 2,078,962   3,269,751 1,437,528 1,640,649 72,025,077 144,794     291,365   436,159
+
+<!-- page 118 -->

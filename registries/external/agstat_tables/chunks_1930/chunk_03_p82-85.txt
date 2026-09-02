@@ -1,0 +1,97 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 3. - LAND: PRIVATE AND PUBLIC BUILDINGS AND PROPERTY
+                                                          Private Property                                                                       Public Property
+                            Acres      Acres                                                          Mowers,
+                      Acres                                                                                      Carts,
+             Total of       Cleared under          Acres Stone,                              Ploughs,
+                                                                                                      Reapers,                        Tools and                                          Engines
+Agencies              under                               Brick and  Other     Outbuildings, Harrows,            Wagons                                    Council School Saw Other
+             Reserve        but not    Actual      Fenced                                             Binders,            Automobiles small      Churches                                and
+                      Wood                                Frame      Dwellings etc.          Drills,             and                                       Houses Houses Mills Buildings
+                            Cultivated Cultivation                                                    Threshers,                      Implements                                         Machinery
+                                                          Dwellings                          etc.                Vehicles
+                                                                                                      etc.
+...            Acres     ...      ...       ...      ...      ...     ...       ...          ...      ...       ...      ...         ...        ...       ...    ...     ...   ...      ...
+ALBERTA        ...       ...      ...       ...      ...      ...     ...       ...          ...      ...       ...      ...         ...        ...       ...    ...     ...   ...      ...
+Blackfoot      174,786   2,300    143,486   29,000   69,000   158     97        630          565      320       355      30          650        3         ...    2       ...   24       197
+Blood          354,086   4,700    328,787   20,599   81,640   94      330       535          450      270       560      19          3,075      ...       2      2       ...   64       70
+Edmonton       70,942
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ 27          ...       20       98        ...       22           ...      ...       35       5           260         1        1        1      ...   ...      12
+Maniwaki      42,008    40,275 217          1,516     801      8         72        115          73       48        109      7           542         ...      1        2      ...   2        ...
+Maria         416       150     232         34        50       26        ...       24           6        3         8        1           80          1        ...      1      ...   ...      1
+Mingan        ...       ...     ...         ...       ...      13        ...       ...          ...      ...       ...      ...         ...         1        ...      ...    ...   ...      ...
+Oka           18,500    16,000 1,600        900       1,500    100       ...       125          75       25        8        1,000       1           ...      2        ...    ...   8        ...
+Pierreville   579       ...     349         230       275      74        ...       50           15       7         14       2           225         2        1        2      ...   ...      ...
+Pointe Bleue 3,779      1,928 529           1,322     1,400    80        19        150          70       45        185      7           400         2        ...      1      ...   2        10
+Restigouche 8,856       8,426 128           302       430      102       5         192          32       5         80       5           280         1        1        1      1     5        3
+
+
+
+=== EXTRACT FROM HERE (pages 82-85) ===
+<!-- page 82 -->
+Seven Islands 160       150     10       ...      10       60      ...   ...     ...     ...   3       ...   ...     ...   ...   ...   ...   ...   ...
+St. Regis     9,434     1,190 6,486      1,758    710      245     35    265     518     210   322     3     1,530   2     ...   6     ...   15    31
+Timiskaming 34,136      31,540 2,246     350      420      16      30    48      18      3     24      1     300     ...   ...   1     ...   3     2
+Total         193,941   162,441 19,905   11,595   10,972   1,394   268   2,320   1,025   498   1,933   113   5,989   14    5     24    1     31    74
+
+<!-- page 83 -->
+                                                                        Private Property                                                                    Public Property
+                                        Acres      Acres                                                           Mowers,
+                              Acres                                     Stone,                            Ploughs,            Carts,
+                   Total of             Cleared under          Acres                                               Reapers,                        Tools and                                         Engines
+Agencies                      under                                     Brick and Other     Outbuildings, Harrows,            Wagons                                   Council School Saw Other
+                   Reserve              but not    Actual      Fenced                                              Binders,            Automobiles small      Churches                               and
+                              Wood                                      Frame     Dwellings etc.          Drills,             and                                      Houses Houses Mills Buildings
+                                        Cultivated Cultivation                                                     Threshers,                      Implements                                        Machinery
+                                                                        Dwellings                         etc.                Vehicles
+                                                                                                                   etc.
+...               Acres       ...       ...       ...         ...       ...       ...      ...          ...       ...       ...     ...          ...        ...      ...      ...    ...   ...      ...
+SASKATCHEWAN ...              ...       ...       ...         ...       ...       ...      ...          ...       ...       ...     ...          ...        ...      ...      ...    ...   ...      ...
+Assiniboine       40,963      27,314    11,526    2,123       1,895     12        39       62           75        44        100     9            531        ...      2        1      ...   4        12
+Battleford        206,486     39,851    160,938   5,697       54,626    ...       412      426          390       342       526     6            2,760      1        6        1      1     7        7
+Carlton           200,139     84,415    108,348   7,376       18,085    ...       229      207          176       141       205     14           818        7        ...      7      1     4        14
+Crooked Lakes     102,397     38,008    60,315    4,074       19,700    7         170      323          279       213       278     1            1,915      1        ...      ...    ...   ...      ...
+Duck Lake         124,181     27,100    92,781    4,300       14,700    10        186      383          313       174       198     8            721        3        2        3      ...   ...      8
+File Hills Agency 72,046      24,000    42,863    5,183       11,150    29        59       153          167       75        185     1            775        3        ...      1      ...   ...      ...
+Isle a la Crosse   151,185    149,660   1,513     12          30        426       126      ...          ...       ...       4       ...          865        ...      ...      1      ...   ...      ...
+Moose Mountain     30,040     25,000    3,086     1,054       30,040    1         54       80           93        62        126     2            300        2        1        1      ...   2        1
+Moose Woods        4,007      1,745     2,062     200         200       1         27       22           19        32        44      1            57         ...      ...      1      ...   ...      ...
+Onion Lake         210,082    55,266    151,769   3,047       11,500    3         193      152          129       115       322     4            2,100      1        ...      2      2     ...      3
+Pelly              57,763     20,466    34,515    2,782       16,532    17        117      181          100       91        162     1            795        3        ...      4      ...   3        6
+Qu'Appelle         67,435     7,268     52,226    7,941       39,850    44        155      181          421       183       341     4            1,603      4        3        ...    ...   14       4
+Touchwood          95,118     50,172    41,210    3,736       50,032    6         236      362          359       265       353     ...          ...        3        1        4      ...   25       13
+Wood Mountain
+                   6,720      190       6,370     160         800       ...       13       15           10        14        20      1            140        ...      1        ...    ...   ...      ...
+Reserve
+Total         1,368,562 550,455         770,422   47,685      269,140   556       2,016    2,547        2,531     1,751     2,764   52           14,720     28       16       26     4     59       68
+YUKON
+              ...       ...             ...       ...         ...       ...       ...      ...          ...       ...       ...     ...          ...        ...       ...     ...    ...   ...      ...
+TERRITORY
+Yukon         3,735     3,711           ...       24          ...       ...       ...      ...          ...       ...       ...     ...          ...        1         ...     1      ...   ...      ...
+RECAPITULATION
+PROVINCES          ...       ...        ...       ...         ...       ...       ...      ...          ...       ...       ...     ...          ...        ...       ...     ...    ...   ...      ...
+Alberta            1,255,512 328,839    854,703   71,970      402,651 365         1,401    2,490        2,246     1,579     3,185   98           10,766     5         7       8      ...   115      330
+British Columbia   740,055 458,856      253,382   27,817      263,562 4,069       3,011    4,259        3,203     1,094     2,813   615          32,980     148       49      41     18    87       169
+Manitoba           474,653 339,048      119,697   15,908      32,917    163       2,483    1,812        889       673       1,491   45           7,906      51        6       49     2     77       28
+New Brunswick      37,752    36,183     1,156     413         1,215 1/4 353       37       186          76        23        98      12           1,000      6         5       11     ...   10       1
+Northwest
+                   ...        ...       ...       ...         ...       ...       198      88           ...       ...       ...     ...          ...        ...       ...     ...    ...   ...      ...
+Territories
+Nova Scotia        17,219    13,773     2,605     841         1,961     381       56       162          88        18        129     26           1,283      11       2        12     ...   15       3
+Ontario            1,041,086 902,652    78,977    59,457      118,559   2,114     2,395    6,312        5,563     1,694     5,189   416          42,428     93       33       87     7     99       119
+Prince Edward
+                   1,668      926       424       318         198       47        15       26           36        4         10      1            410        1        1        1      ...   3        2
+Island
+Quebec             193,941 162,441      19,905    11,595      10,972    1,394     268      2,320        1,025     498       1,933   113          5,989      14       5        24     1     31       74
+Saskatchewan       1,368,662 650,455    770,422   47,685      269,140   556       2,016    2,547        2,531     1,751     2,764   52           14,720     28       16       26     4     59       68
+Yukon Territory    3,735     3,711      ...       24          ...       ...       ...      ...          ...       ...       ...     ...          ...        1        ...      1      ...   ...      ...
+
+<!-- page 84 -->
+                                                1,101,175
+Total   5,134,183 2,796,884 2,101,271 236,028             9,442   11,880   20,202   15,657   7,334   17,612   1,378   117,482   358   124   260   32   495   794
+                                                1/4
+
+<!-- page 85 -->

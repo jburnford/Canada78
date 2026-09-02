@@ -1,0 +1,1103 @@
+agency_id,name,name_clean,identity_kind,pool,link_method,chain_id,n_years,n_rows
+AGT-north-shore-river-st-lawrence,(t)North Shore Riv. St. Lawrence Superintendency,,agency,QUEBEC,,,2,2
+AGT-john-mcintyre-agt-treaty-no-3,"*John McIntyre, Agt, Treaty No. 3",,agency,,,,1,1
+AGT-lesser-slave-lake-treaty-no-8,"*Lesser Slave Lake Agency, Treaty No. 8",*Lesser Slave Lake Agency,agency,Prairies/NWT,,,1,8
+AGT-treaty-8,*Treaty 8 District,,agency,,,,1,1
+AGT-1st,1st Division,,agency,NEW BRUNSWICK,,,3,27
+AGT-2nd,2nd Division,,agency,NEW BRUNSWICK,,,3,27
+AGT-3rd,3rd Division,,agency,ONTARIO,,,3,17
+AGT-4th,4th Division,,agency,ONTARIO,,,3,9
+AGT-a-mackay-agent-treaty-no-5,"A. Mackay, Agent, Treaty No. 5.",,agency,Prairies/NWT,,,1,1
+AGT-a-m-muckle-agent-treaty,A.M. Muckle Agent Treaty,,agency,Prairies/NWT,,,1,1
+AGT-a-m-muckle-agt-treaty-no-1,"A.M. Muckle, Agt, Treaty No. 1",,agency,,,,1,1
+AG-alberta-inspectorate,Alberta2,,agency,,name_similarity,AG-alberta-inspectorate,1,1
+AGT-alnwick-ag-cy,Alnwick Ag'cy,,agency,ONTARIO,,,1,1
+AGT-alnwich,Alnwick Agency,,agency,ONTARIO,,,34,245
+AGT-alnwick-county,Alnwick County,,agency,ONTARIO,,,1,1
+AGT-alnwick-mud-lake,Alnwick Mud Lake Agency,,agency,ONTARIO,,,1,1
+AGT-annapolis,Annapolis,,agency,NOVA SCOTIA,,,17,69
+AGT-annapolis-comity,Annapolis County,,agency,NOVA SCOTIA,,,19,171
+AGT-annapolis-and-guysborough-counties,Annapolis and Guysborough Counties,,agency,NOVA SCOTIA,,,2,3
+AGT-annie-janvier-no-54-fort-mcmurray,"Annie Janvier, No. 54 Fort McMurray.",,agency,,,,1,1
+AGT-antigonish-guysboro-counties,Antigonish & Guysboro,,agency,NOVA SCOTIA,,,5,5
+AGT-antigonish-and-guysborough,Antigonish and Guysboro,,agency,NOVA SCOTIA,,,16,70
+AGT-antigonish-and-guysborough-counties,Antigonish and Guysborough Counties,,agency,NOVA SCOTIA,,,17,160
+AGT-antigonish-and-restigouche,Antigonish and Restigouche,,agency,NOVA SCOTIA,,,1,1
+AGT-archange-morriseau,Archange Morriseau,,agency,,,,1,1
+AGT-assabasca,Assabasca,,agency,ONTARIO,,,3,23
+AGT-assabaska,Assabaska,,agency,ONTARIO,,,1,10
+AG-assiniboine-agency,Assiniboine,,agency,Prairies/NWT,same_year,AG-assiniboine-agency,22,123
+AGT-assiniboine-ag-cy-tr-ty-no-4,Assiniboine Ag'cy Tr'ty No. 4.,,agency,Prairies/NWT,,,1,1
+AGT-assiniboine-treaty-no-4,"Assiniboine Agency, Treaty No. 4",Assiniboine Agency,agency,Prairies/NWT,,,13,113
+AGT-awrey-alex-f,Awrey Alex. F.,,agency,,,,1,1
+AG-babine-agency,Babine,,agency,BRITISH COLUMBIA,other_year,AG-babine-agency,11,50
+AGT-babina-and-upper-skeena,Babine and Upper Skeena,,agency,BRITISH COLUMBIA,,,11,74
+AGT-babine-and-upper-skeena-river-ag-cy,Babine and Upper Skeena River Agency,,agency,BRITISH COLUMBIA,,,13,118
+AG-battleford-agency,Battleford,,agency,Prairies/NWT,same_year,AG-battleford-agency,22,123
+AGT-battleford-ag-cy-tr-ty-no-6,"Battleford Ag'cy, Tr'ty No. 6",Battleford Ag'cy,agency,Prairies/NWT,,,2,2
+AGT-battleford-agent-treaty-no-6,"Battleford Agency, Treaty No. 6",Battleford Agency,agency,Prairies/NWT,,,12,112
+AGT-becancourt,Becancour Agency,,agency,QUEBEC,,,33,244
+AGT-becancour-h-desilets-m-d-agent,"Becancour Agency, H. Désilets, M.D., Agent","Becancour Agency, H. Désilets",agency,QUEBEC,,,1,1
+AGT-becanour,Becanour Agency,,agency,QUEBEC,,,2,2
+AGT-bella-cooia,Bella Coola,,agency,BRITISH COLUMBIA,,,20,123
+AGT-belle-coola,Belle Coola,,agency,BRITISH COLUMBIA,,,1,1
+AG-berens-river-agency,Berens River Agency,,agency,Prairies/NWT,other_year,AG-berens-river-agency,6,55
+AGT-berimis,Berimis,,agency,QUEBEC,,,1,1
+AG-bersimis-agency,Bersimis,,agency,QUEBEC,same_year,AG-bersimis-agency,30,230
+AGT-bersimis-adolphe-gagnon-agent,"Bersimis Agency, Adolphe Gagnon, Agent",Bersimis Agency,agency,QUEBEC,,,1,1
+AGT-big-island,Big Island,,agency,ONTARIO,,,4,33
+AGT-big-island-l-j-a-leveque-inspector,"Big Island, L.J.A. Leveque, Inspector",Big Island,agency,ONTARIO,,,1,1
+AG-birtle-agency,Birtle,,agency,Prairies/NWT,same_year,AG-birtle-agency,26,161
+AGT-birtle-ag-cy-tr-ty-no-4,"Birtle Ag'cy, Tr'ty No. 4.",Birtle Ag'cy,agency,Prairies/NWT,,,1,1
+AGT-birtle-treaty-no-4-1-2,"Birtle Agency, Treaty No. 4",Birtle Agency,agency,Prairies/NWT,,,9,73
+AG-blackfoot-agency,Blackfoot,,agency,Prairies/NWT,name_similarity,AG-blackfoot-agency,23,127
+AGT-blackfoot-ag-cy-tr-ty-no-7,"Blackfoot Ag'cy, Tr'ty No. 7",Blackfoot Ag'cy,agency,Prairies/NWT,,,2,2
+AGT-blackfoot-treaty-no-4,"Blackfoot Agency, Treaty No. 7",Blackfoot Agency,agency,Prairies/NWT,,,12,114
+AG-blood-agency,Blood,,agency,Prairies/NWT,name_similarity,AG-blood-agency,23,127
+AGT-blood-ag-cy-tr-ty-no-7,"Blood Ag'cy, Tr'ty No. 7",Blood Ag'cy,agency,Prairies/NWT,,,2,2
+AGT-blood-treaty-no-4,"Blood Agency, Treaty No. 7",Blood Agency,agency,Prairies/NWT,,,12,113
+AG-british-columbia-inspectorate,British Columbia3,,agency,,name_similarity,AG-british-columbia-inspectorate,1,1
+AGT-con-brought-forward,Brought forward,,agency,ONTARIO,,,2,11
+AGT-bryden-jack-w-d-m-d,"Bryden-Jack, W.D., M.D.",,agency,BRITISH COLUMBIA,,,1,1
+AGT-byshe-herbert-n,Byshe Herbert N.,,agency,,,,1,1
+AGT-beancour,Béancour,,agency,QUEBEC,,,1,1
+AGT-caconna,Caconna,,agency,QUEBEC,,,1,1
+AGT-cacouna,Cacouna,,agency,QUEBEC,,,20,120
+AGT-cape-breton,Cape Breton (Eskasoni),,agency,NOVA SCOTIA,,,20,186
+AGT-cape-breton-co-nty,Cape Breton (Eskasoni) County,,agency,NOVA SCOTIA,,,19,245
+AGT-cape-crocker,Cape Crocker Agency,,agency,ONTARIO,,,2,8
+AGT-cape-croker-ag-cy,Cape Croker Ag'cy,,agency,ONTARIO,,,1,1
+AG-cape-croker-agency,Cape Croker Agency,,agency,ONTARIO,same_year,AG-cape-croker-agency,34,237
+AGT-cape-croker-county,Cape Croker County,,agency,ONTARIO,,,1,1
+AGT-car-eton-charlotte-kings-queens-st-johns-and-york-counties,"Car eton, Charlotte, Kings, Queens, St. Johns and York Counties",,agency,NEW BRUNSWICK,,,1,1
+AG-caradoc-agency,Caradoc,,agency,ONTARIO,same_year,AG-caradoc-agency,31,235
+AGT-caradoc-ag-cy,Caradoc Ag'cy,,agency,ONTARIO,,,1,2
+AGT-caradoc-county,Caradoc County,,agency,ONTARIO,,,1,1
+AGT-cardoc,Cardoc Agency,,agency,ONTARIO,,,1,1
+AG-carleton-agency,Carleton,,agency,Prairies/NWT,other_year,AG-carleton-agency,2,5
+AGT-southwestern-carleton-charlotte-kings-queens-sunbury-st-johns-and-york-counties,"Carleton, Charlotte, Kings, Queens, Sunbury, St. Johns and York Counties",,agency,NEW BRUNSWICK,,,7,50
+AG-carlton-agency,Carlton,,agency,Prairies/NWT,same_year,AG-carlton-agency,23,120
+AGT-carleton-treaty-no-6,"Carlton Agency, Treaty No. 6",Carlton Agency,agency,Prairies/NWT,,,12,113
+AGT-carried-forward,Carried forward,,agency,ONTARIO,,,1,1
+AG-cassiar-agency,Cassiar Agency,,agency,BRITISH COLUMBIA,same_year,AG-cassiar-agency,8,85
+AGT-chaughnawaga,Caughnawaga Agency,,agency,QUEBEC,,,34,245
+AGT-caughnawaga-alex-brosseau-agent,"Caughnawaga Agency, Alex. Brosseau, Agent",Caughnawaga Agency,agency,QUEBEC,,,1,1
+AGT-caugnawaga,Caugnawaga,,agency,QUEBEC,,,1,1
+AG-chapleau-agency,Chapleau,,agency,ONTARIO,same_year,AG-chapleau-agency,21,126
+AGT-chapleau-county,Chapleau County,,agency,ONTARIO,,,1,1
+AGT-chippewas-and-saulteaux-of-treaty-no-3-at,Chippewas and Saulteaux of Treaty No. 3 at -,,agency,ONTARIO,,,3,14
+AGT-chippewas-and-saulteaux-of-treaty-no-3-at-hungry-hall-no-1,"Chippewas and Saulteaux of Treaty No. 3, at - Hungry Hall, No. 1",,agency,ONTARIO,,,3,5
+AGT-christian-island-county,Christian Island,,agency,ONTARIO,,,31,237
+AGT-christian-island-ag-cy,Christian Island Ag'cy,,agency,ONTARIO,,,2,2
+AG-clandeboye-agency,Clandeboye Agency,,agency,Prairies/NWT,same_year,AG-clandeboye-agency,32,241
+AGT-colchester,Colchester,,agency,NOVA SCOTIA,,,20,100
+AGT-colchester-country,Colchester County,,agency,NOVA SCOTIA,,,15,141
+AGT-core-bay,Core Bay,,agency,ONTARIO,,,3,3
+AGT-couchiching,Couchiching,,agency,ONTARIO,,,2,20
+AGT-couchiching-m-begg-agent,"Couchiching, M. Begg, Agent",Couchiching,agency,ONTARIO,,,1,1
+AGT-counties,Counties,,agency,NEW BRUNSWICK,,,1,1
+AGT-county,County,,agency,NOVA SCOTIA,,,1,1
+AG-coutcheeching-agency,Coutcheeching,,agency,ONTARIO,other_year,AG-coutcheeching-agency,3,25
+AG-cowichan-agency,Cowichan Agency,,agency,BRITISH COLUMBIA,same_year,AG-cowichan-agency,34,248
+AGT-cowichan-county,Cowichan County,,agency,BRITISH COLUMBIA,,,1,1
+AGT-cox-grace,"Cox, Grace",,agency,,,,1,1
+AGT-crees-and-saulteaux-of-treaty-no-1-at,Crees and Saulteaux of Treaty No 1 at,,agency,,,,1,1
+AG-crooked-lakes-agency,Crooked Lake,,agency,Prairies/NWT,other_year,AG-crooked-lakes-agency,22,123
+AGT-crooked-lakes-ag-cy-tr-ty-no-4,Crooked Lakes Ag'cy Tr'ty No. 4.,,agency,Prairies/NWT,,,1,1
+AG-crooked-lakes-agency,"Crooked Lakes Agency, Treaty No. 4",Crooked Lakes Agency,agency,Prairies/NWT,other_year,AG-crooked-lakes-agency,13,113
+AGT-cumberland,Cumberland,,agency,NOVA SCOTIA,,,21,101
+AGT-cumberland-county,Cumberland County,,agency,NOVA SCOTIA,,,15,140
+AGT-desilets-chas-o-h-m-d,"Desilets, Chas. O.H., M.D.",,agency,QUEBEC,,,1,1
+AGT-destitute-indians,Destitute Indians,,agency,,,,1,2
+AGT-digby,Digby,,agency,NOVA SCOTIA,,,20,100
+AGT-digby-county,Digby County,,agency,NOVA SCOTIA,,,15,139
+AGT-of-patricia,District of Patricia,,agency,ONTARIO,,,1,1
+AG-duck-lake-agency,Duck Lake,,agency,Prairies/NWT,same_year,AG-duck-lake-agency,23,124
+AGT-duck-lake-treaty-no-4,"Duck Lake Agency, Treaty No. 6",Duck Lake Agency,agency,Prairies/NWT,,,12,112
+AGT-eagle-lake,Eagle Lake,,agency,ONTARIO,,,4,34
+AG-edmonton-agency,Edmonton,,agency,Prairies/NWT,same_year,AG-edmonton-agency,23,127
+AGT-edmonton-ag-cy-tr-ty-no-6,"Edmonton Ag'cy, Tr'ty No. 6",Edmonton Ag'cy,agency,Prairies/NWT,,,2,4
+AGT-edmonton-treaty-no-4,"Edmonton Agency, Treaty No. 6",Edmonton Agency,agency,Prairies/NWT,,,12,113
+AGT-eliza-sinclair,Eliza Sinclair,,agency,,,,1,1
+AGT-eugenie-morriseau-thomas,Eugenie Morriseau Thomas,,agency,,,,1,1
+AGT-f-ogletree-agent-treaty-no-1,"F. Ogletree, Agent, Treaty No. 1.",,agency,Prairies/NWT,,,1,1
+AGT-f-ogletree-agt-treaty-no-1,"F. Ogletree, Agt, Treaty No. 1",,agency,,,,1,1
+AGT-f-c-cornish-agt-treaty-no-3,"F.C. Cornish Agt., Treaty No. 3.",,agency,Prairies/NWT,,,2,2
+AGT-field-and-garden-seeds,Field and garden seeds,,agency,,,,1,1
+AGT-file-hills-ag-cy-tr-ty-no-4,"File Hills Ag'cy, Tr'ty No. 4.",File Hills Ag'cy,agency,Prairies/NWT,,,1,1
+AG-file-hills-agency,File Hills Agency,,agency,Prairies/NWT,other_year,AG-file-hills-agency,20,113
+AGT-file-hills-treaty-no-4,"File Hills Agency, Treaty No. 4",File Hills Agency,agency,Prairies/NWT,,,4,28
+AGT-file-hills-colony,File Hills Colony,,agency,Prairies/NWT,,,14,72
+AGT-file-mills,File Mills Agency,,agency,Prairies/NWT,,,1,1
+AGT-files-hills,Files Hills,,agency,,,,1,1
+AGT-fire-hills-treaty-no-4,"Fire Hills Agency, Treaty No. 4",Fire Hills Agency,agency,,,,1,1
+AG-fisher-river-agency,Fisher River,,agency,Prairies/NWT,same_year,AG-fisher-river-agency,16,83
+AG-fort-frances-agency,Fort Frances,,agency,ONTARIO,same_year,AG-fort-frances-agency,27,195
+AGT-fort-frances-county,Fort Frances County,,agency,ONTARIO,,,1,1
+AGT-fort-resolution,Fort Resolution,,agency,Prairies/NWT,,,6,28
+AG-fort-simpson-agency,Fort Simpson,,agency,Prairies/NWT,other_year,AG-fort-simpson-agency,1,1
+AG-fort-william-agency,Fort William,,agency,ONTARIO,same_year,AG-fort-william-agency,15,77
+AGT-francoise-morin,Françoise (Bruyère) Morin,,agency,,,,1,1
+AG-fraser-agency,Fraser,,agency,BRITISH COLUMBIA,other_year,AG-fraser-agency,1,4
+AG-fraser-river-agency,Fraser River Agency,,agency,BRITISH COLUMBIA,same_year,AG-fraser-river-agency,3,25
+AGT-fredericton,Fredericton Superintendency,,agency,NEW BRUNSWICK,,,11,113
+AGT-fredericton-james-farrell-supt,"Fredericton Superintendency, James Farrell, Supt.",Fredericton Superintendency,agency,NEW BRUNSWICK,,,1,1
+AGT-frenchman-s-head,Frenchman's Head,,agency,ONTARIO,,,4,34
+AGT-frenchman-s-head-l-j-a-leveque-inspector,"Frenchman's Head, L.J.A. Leveque, Inspector",Frenchman's Head,agency,ONTARIO,,,1,1
+AGT-ft-frances,Ft. Frances,,agency,ONTARIO,,,2,4
+AGT-genievre-favel,Genièvre Favel,,agency,,,,1,1
+AGT-georgian-island,Georgian Island,,agency,ONTARIO,,,1,1
+AGT-georgian-bay-islands,Georgina Bay Islands,,agency,ONTARIO,,,2,2
+AG-georgina-island-agency,Georgina Island,,agency,ONTARIO,other_year,AG-georgina-island-agency,15,76
+AGT-northeastern-gloucester-kent-northumberland-restigouche-and-westmorland-counties,"Gloucester, Kent, Northumberland, Restigouche and Westmorland Counties",,agency,NEW BRUNSWICK,,,7,51
+AGT-godbout,Godbout,,agency,QUEBEC,,,1,5
+AGT-golden-lake-ag-cy,Golden Lake Ag'cy,,agency,ONTARIO,,,1,1
+AG-golden-lake-agency,Golden Lake Agency,,agency,ONTARIO,name_similarity,AG-golden-lake-agency,34,244
+AGT-golden-lake-county,Golden Lake County,,agency,ONTARIO,,,1,1
+AGT-gore-bare,Gore Bay,,agency,ONTARIO,,,30,226
+AGT-gore-bay-county,Gore Bay County,,agency,ONTARIO,,,1,1
+AG-grand-river-superintendency,Grand River Superintendency,,agency,ONTARIO,other_year,AG-grand-river-superintendency,7,25
+AGT-grand-river-six-nations,Grand River Superintendency - Six Nations,,agency,ONTARIO,,,9,94
+AGT-grassy-narrows,Grassy Narrows,,agency,ONTARIO,,,4,32
+AGT-grassy-narrows-l-j-a-leveque-inspector,"Grassy Narrows, L.J.A. Leveque, Inspector",Grassy Narrows,agency,ONTARIO,,,1,1
+AG-griswold-agency,Griswold,,agency,Prairies/NWT,same_year,AG-griswold-agency,20,116
+AGT-h-martineau-agent-treaty-no-1,"H. Martineau, (Pine Creek) Agt., Treaty No. 4",,agency,Prairies/NWT,,,2,4
+AGT-halifax,Halifax,,agency,NOVA SCOTIA,,,20,100
+AGT-halifax-county,Halifax County,,agency,NOVA SCOTIA,,,15,140
+AGT-hants,Hants,,agency,NOVA SCOTIA,,,20,144
+AGT-hants-county,Hants County,,agency,NOVA SCOTIA,,,15,141
+AGT-harriet-jane-munro,Harriet Jane Munro,,agency,,,,1,1
+AG-hobbema-agency,Hobbema,,agency,Prairies/NWT,same_year,AG-hobbema-agency,22,126
+AGT-hobbema-ag-cy-tr-ty-no-6,"Hobbema Ag'cy, Tr'ty No. 6.",Hobbema Ag'cy,agency,Prairies/NWT,,,2,2
+AGT-hobbema-treaty-no-4,"Hobbema Agency, Treaty No. 6",Hobbema Agency,agency,Prairies/NWT,,,12,113
+AGT-hunts,Hunts(Windsor),,agency,NOVA SCOTIA,,,1,1
+AGT-ignace,Ignace,,agency,ONTARIO,,,1,10
+AGT-ile-a-la-cross,Ile a la Cross District,,agency,Prairies/NWT,,,1,1
+AGT-indians,Indian,,agency,,,,5,21
+AGT-indians-in-treaty-no-8,Indians in Treaty No. 8,,agency,Prairies/NWT,,,1,8
+AGT-indians-of-beausoleil-band-residing-on-manitoulin-island-c-l-d-sims-agent,Indians of Beausoleil Band residing on Manitoulin Island,,agency,ONTARIO,,,5,36
+AGT-indians-of-christian-island-band-residing-on-manitoulin-island,Indians of Christian Island band residing on Manitoulin Island,,agency,ONTARIO,,,5,58
+AGT-inverness,Inverness,,agency,NOVA SCOTIA,,,21,100
+AGT-inverness-county,Inverness County,,agency,NOVA SCOTIA,,,15,140
+AGT-isle-a-la-crosse-dist,Isle à la Crosse,,agency,Prairies/NWT,,,16,71
+AGT-isle-a-la-grosse,Isle à la Grosse,,agency,Prairies/NWT,,,1,1
+AGT-isle-la-crosse,Isle … la Crosse,,agency,Prairies/NWT,,,1,1
+AGT-islington,Islington,,agency,ONTARIO,,,4,33
+AGT-islington-l-j-a-leveque-inspector,"Islington, L.J.A. Leveque, Inspector",Islington,agency,ONTARIO,,,1,1
+AGT-jean-lorette,Jean Lorette,,agency,QUEBEC,,,2,3
+AGT-jenne-lorette-a-o-bastien-agent,"Jenne Lorette Agency, A.O. Bastien, Agent",Jenne Lorette Agency,agency,QUEBEC,,,1,1
+AGT-jennie-mcdonald-miller,Jennie McDonald Miller,,agency,,,,1,1
+AG-jeune-lorette-agency,Jeune Lorette Agency,,agency,QUEBEC,other_year,AG-jeune-lorette-agency,29,197
+AGT-jno-h-antliff-m-a-sc-d-t-s,"Jno. H. Antliff, M.A. Sc., D.T.S.",,agency,,,,1,1
+AGT-jno-mcintyre-agt-treaty-no-3,"Jno. McIntyre Agt., Treaty No. 3.",,agency,Prairies/NWT,,,1,1
+AGT-john-bradley,John Bradley,,agency,,,,1,1
+AGT-jos-reader-agent-treaty-no-5,"Jos. Reader Agent, Treaty No. 5.",,agency,Prairies/NWT,,,1,1
+AGT-jos-reader-agt-treaty-no-5,"Jos. Reader, Agt, Treaty No. 5",,agency,,,,1,1
+AGT-juene-lorette,Juene Lorette,,agency,QUEBEC,,,1,1
+AGT-julia-mccorrister,Julia McCorrister,,agency,,,,1,1
+AGT-julie-flamand,Julie Flamand,,agency,,,,1,1
+AGT-kam,Kam,,agency,BRITISH COLUMBIA,,,1,2
+AG-kamloops-agency,Kamloops,,agency,BRITISH COLUMBIA,same_year,AG-kamloops-agency,22,121
+AG-kamloops-okanagan-agency,Kamloops - Okanagan Agency,,agency,BRITISH COLUMBIA,same_year,AG-kamloops-okanagan-agency,12,126
+AGT-kawaiagamot,Kawaiagamot (Sturgeon Lake),,agency,ONTARIO,,,3,23
+AGT-kawaiagnmot,Kawaiagnmot (Sturgeon Lake),,agency,,,,1,1
+AGT-keller-h-l-a-m-d,"Keller, H.L.A., M.D.",,agency,BRITISH COLUMBIA,,,1,1
+AG-kenora-agency,Kenora,,agency,ONTARIO,same_year,AG-kenora-agency,24,164
+AGT-kenora-county,Kenora County,,agency,ONTARIO,,,1,1
+AGT-kickickonesemenecaning,Kickickonesemenecaning,,agency,,,,1,1
+AGT-king-s,King's,,agency,NOVA SCOTIA,,,4,14
+AGT-king-s-county,King's County,,agency,NOVA SCOTIA,,,15,140
+AGT-kings,Kings,,agency,NOVA SCOTIA,,,17,85
+AGT-kings-queens-sunbury-st-johns-and-york-counties,"Kings, Queens, Sunbury, St. Johns and York Counties",,agency,NEW BRUNSWICK,,,1,1
+AG-kootenay-agency,Kootenay Agency,,agency,BRITISH COLUMBIA,same_year,AG-kootenay-agency,34,245
+AGT-kuper-island,Kuper Island,,agency,,,,1,1
+AGT-kwakkewlth,Kwakewlth Agency,,agency,BRITISH COLUMBIA,,,2,3
+AGT-kwawkelwth,Kwawkelwth,,agency,BRITISH COLUMBIA,,,1,1
+AGT-kwawketlth,Kwawketlth Agency,,agency,BRITISH COLUMBIA,,,1,1
+AGT-kwawkewith,Kwawkewith Agency,,agency,BRITISH COLUMBIA,,,1,2
+AG-kwawkewlth-agency,Kwawkewlth,,agency,BRITISH COLUMBIA,same_year,AG-kwawkewlth-agency,32,219
+AGT-kwawkwelth,Kwawkwelth Agency,,agency,BRITISH COLUMBIA,,,3,18
+AGT-kwawlewlth,Kwawlewlth,,agency,BRITISH COLUMBIA,,,1,1
+AGT-kyuquot,Kyuquot,,agency,,,,1,1
+AGT-la-chappelle-j-o-m-d,"La Chappelle, J.O., M.D.",,agency,YUKON,,,1,1
+AGT-lac-in-croix,Lac In Croix,,agency,ONTARIO,,,1,1
+AGT-lac-seul,Lac Seul,,agency,ONTARIO,,,4,33
+AGT-lac-seul-l-j-a-leveque-inspector,"Lac Seul, L.J.A. Leveque, Inspector",Lac Seul,agency,ONTARIO,,,1,2
+AGT-lac-des-mille-lacs,Lac des Mille Lacs,,agency,ONTARIO,,,4,35
+AGT-lac-des-mille-lacs-l-j-a-leveque-inspector,"Lac des Mille Lacs, L.J.A. Leveque, Inspector",Lac des Mille Lacs,agency,ONTARIO,,,1,1
+AGT-lac-la-croix,Lac la Croix,,agency,ONTARIO,,,4,33
+AGT-lac-la-croix-m-begg-agent,"Lac la Croix, M. Begg, Agent",Lac la Croix,agency,ONTARIO,,,1,1
+AGT-lak-alsap,Lak-Alsap (Naas River),,agency,,,,1,1
+AGT-lake-peigan,Lake Peigan,,agency,Prairies/NWT,,,1,1
+AGT-lake-simcoe-ag-cy,Lake Simcoe Ag'cy,,agency,ONTARIO,,,1,1
+AG-lake-simcoe-agency,Lake Simcoe Agency,,agency,ONTARIO,other_year,AG-lake-simcoe-agency,19,168
+AGT-lake-simcoe-county,Lake Simcoe County,,agency,ONTARIO,,,1,1
+AG-lake-st-john-agency,Lake St. John Agency,,agency,QUEBEC,other_year,AG-lake-st-john-agency,19,170
+AGT-lake-st-john-wm-donohue-agent,"Lake St. John, Wm. Donohue, Agent",Lake St. John,agency,QUEBEC,,,1,1
+AG-lake-of-two-mountains-agency,Lake of Two Mountains Agency,,agency,QUEBEC,name_similarity,AG-lake-of-two-mountains-agency,14,126
+AGT-lake-of-two-mountains-j-perillard-agent,"Lake of Two Mountains Agency, J. Perillard, Agent",Lake of Two Mountains Agency,agency,QUEBEC,,,1,1
+AGT-lesser-slave,Lesser Slave,,agency,Prairies/NWT,,,2,2
+AG-lesser-slave-lake-agency,Lesser Slave Lake,,agency,Prairies/NWT,name_similarity,AG-lesser-slave-lake-agency,20,122
+AGT-little-forks,Little Forks,,agency,ONTARIO,,,4,36
+AGT-little-forks-m-begg-agent,"Little Forks, M. Begg, Agent",Little Forks,agency,ONTARIO,,,1,1
+AGT-live-stock,Live stock,,agency,,,,2,2
+AGT-lorette,Lorette,,agency,QUEBEC,,,6,45
+AGT-louise-desnoyer,Louise Desnoyer (alias Deschamps & Gariepy),,agency,,,,1,1
+AG-lower-fraser-agency,Lower Fraser Agency,,agency,BRITISH COLUMBIA,other_year,AG-lower-fraser-agency,14,108
+AGT-lunenberg,Lunenberg,,agency,NOVA SCOTIA,,,2,15
+AGT-lunenberg-county,Lunenberg County,,agency,NOVA SCOTIA,,,2,18
+AGT-lunenburg,Lunenburg,,agency,NOVA SCOTIA,,,19,85
+AGT-lunenburgh-county,Lunenburg County,,agency,NOVA SCOTIA,,,10,90
+AG-tyendinaga-agency,Lyendinaga,,agency,ONTARIO,name_similarity,AG-tyendinaga-agency,1,1
+AG-lytton-agency,Lytton,,agency,BRITISH COLUMBIA,same_year,AG-lytton-agency,19,109
+AGT-mackenzie-geo-a-conley,MacKenzie Geo. A. Conley,,agency,,,,1,1
+AGT-northern-madawaska-and-victoria-counties,Madawaska and Victoria Counties,,agency,NEW BRUNSWICK,,,7,51
+AGT-maintowaning,Maintowaning Superintendency,,agency,ONTARIO,,,2,3
+AGT-manitoba-alberta-saskatchewan-and-north-west-territories,"Manitoba, Alberta, Saskatchewan and North-West Territories",,agency,,,,1,1
+AGT-manitowaming,Manitowaning,,agency,ONTARIO,,,31,236
+AGT-manitowaning-county,Manitowaning County,,agency,ONTARIO,,,1,1
+AGT-manitowanah,Manitowapah Agency,,agency,Prairies/NWT,,,31,226
+AGT-manitowaph,Manitowaph,,agency,Prairies/NWT,,,1,3
+AGT-manitowpah,Manitowpah,,agency,Prairies/NWT,,,1,1
+AG-maniwaki-agency,Maniwaki,,agency,QUEBEC,same_year,AG-maniwaki-agency,20,120
+AGT-manotowapah,Manotowapah Agency,,agency,Prairies/NWT,,,1,9
+AG-maria-agency,Maria Agency,,agency,QUEBEC,same_year,AG-maria-agency,34,246
+AGT-maria-rev-j-gagne,"Maria Agency, Rev. J. Gagné",Maria Agency,agency,QUEBEC,,,1,1
+AGT-marovian,Marovian,,agency,ONTARIO,,,1,1
+AGT-martha-hourston,Martha (Abraham) Hourston,,agency,,,,1,1
+AGT-mary-ann-valiquette,Mary Ann Valiquette,,agency,,,,1,1
+AGT-mary-hooper,Mary Hooper,,agency,,,,1,1
+AGT-mary-jane-mckay,Mary Jane McKay,,agency,,,,1,1
+AGT-massett,Massett,,agency,,,,1,1
+AGT-metlakahtla-day,Metlakahtla Day,,agency,,,,1,1
+AGT-metlakahtla-industrial,Metlakahtla Industrial,,agency,,,,1,1
+AGT-micmacs-of-p-e-island,Micmacs of P.E. Island,,agency,PRINCE EDWARD ISLAND,,,2,6
+AGT-micmacs-of-prince-edward-island,Micmacs of Prince Edward Island,,agency,PRINCE EDWARD ISLAND,,,2,4
+AG-mingan-agency,Mingan,,agency,QUEBEC,same_year,AG-mingan-agency,26,189
+AGT-mingan-and-seven-islands,Mingan and Seven Islands,,agency,QUEBEC,,,1,10
+AGT-minigan,Minigan,,agency,QUEBEC,,,2,2
+AGT-miscellaneous,Miscellaneous,,agency,PRINCE EDWARD ISLAND,,,2,2
+AGT-miscellaneous-and-unforseen,Miscellaneous and unforseen,,agency,NOVA SCOTIA,,,1,2
+AGT-mississaguas,"Mississaguas,",,agency,ONTARIO,,,1,1
+AGT-mississaugas-walpole-island,"Mississaugas, Walpole Island",,agency,ONTARIO,,,1,1
+AGT-mohawks-of-the-bay-of-quinte,Mohawks of the Bay of Quinté,,agency,ONTARIO,,,1,7
+AGT-monitowapah,Monitowapah Agency,,agency,Prairies/NWT,,,1,1
+AGT-moniwaki,Moniwaki,,agency,QUEBEC,,,1,1
+AG-moose-mountain-agency,Moose Mountain,,agency,Prairies/NWT,same_year,AG-moose-mountain-agency,22,123
+AGT-moose-mountain-ag-cy-tr-ty-no-4,"Moose Mountain Agency, Treaty No. 4",Moose Mountain Agency,agency,Prairies/NWT,,,14,111
+AGT-moose-mountains-treaty-no-4,"Moose Mountains Agency, Treaty No. 4",Moose Mountains Agency,agency,Prairies/NWT,,,4,4
+AGT-moose-woods,Moose Woods,,agency,Prairies/NWT,,,18,103
+AGT-moravian-ag-cy,Moravian Ag'cy,,agency,ONTARIO,,,1,2
+AGT-moravians,Moravian Agency,,agency,ONTARIO,,,31,235
+AGT-moravian-county,Moravian County,,agency,ONTARIO,,,1,1
+AGT-moslyn-hoops-s-e-m-d,"Moslyn-Hoops, S.E., M.D.",,agency,BRITISH COLUMBIA,,,1,1
+AGT-mrs-jone-bone,Mrs. Jone Bone (nee Spotted Quill),,agency,,,,1,1
+AGT-mud-lake-ag-cy,Mud Lake Ag'cy,,agency,ONTARIO,,,1,1
+AGT-mud-lake,Mud Lake Agency,,agency,ONTARIO,,,19,169
+AGT-mud-lake-county,Mud Lake County,,agency,ONTARIO,,,1,1
+AG-muscowpetung-s-agency,Muscowpetung Agency,,agency,,name_similarity,AG-muscowpetung-s-agency,2,2
+AGT-muscowpetung-s-ag-cy-treaty-no-4,"Muscowpetung's Ag'cy, Treaty No. 4",Muscowpetung's Ag'cy,agency,Prairies/NWT,,,2,3
+AGT-muscowpetung-s-treaty-no-4,"Muskowpetung's Agency, Treaty No. 4",Muskowpetung's Agency,agency,Prairies/NWT,,,5,27
+AGT-naas,Naas,,agency,BRITISH COLUMBIA,,,1,2
+AGT-nanaimo,Nanaimo,,agency,,,,1,1
+AGT-nancy-huppe,Nancy Huppé (nee Ward),,agency,,,,1,1
+AG-nass-agency,Nass,,agency,BRITISH COLUMBIA,same_year,AG-nass-agency,10,60
+AGT-nass-river1,Nass River,,agency,BRITISH COLUMBIA,,,3,14
+AG-new-credit-agency,New Credit,,agency,ONTARIO,other_year,AG-new-credit-agency,32,236
+AGT-new-credit-ag-cy,New Credit (Mississaguas) Ag'cy.,,agency,ONTARIO,,,1,2
+AGT-new-credit-county,New Credit County,,agency,ONTARIO,,,1,1
+AGT-new-credit-mississaguas,New Credit Mississaguas Agency,,agency,ONTARIO,,,1,1
+AG-new-westminster-agency,New Westminster,,agency,BRITISH COLUMBIA,name_similarity,AG-new-westminster-agency,19,110
+AGT-niacatchewenin,Niacatchewenin,,agency,ONTARIO,,,4,36
+AGT-niacatchewenin-m-begg-agent,"Niacatchewenin, M. Begg, Agent",Niacatchewenin,agency,ONTARIO,,,1,1
+AGT-nickickonesemenecanning,Nickickonesemenecaning,,agency,ONTARIO,,,4,34
+AGT-nickickonesemenecanning-m-begg-agent,"Nickickonesemenecanning, M. Begg, Agent",Nickickonesemenecanning,agency,ONTARIO,,,1,1
+AGT-nicola,Nicola,,agency,BRITISH COLUMBIA,,,2,10
+AGT-nimkish,Nimkish (Alert Bay),,agency,,,,1,1
+AGT-nitnaht,Nitnaht,,agency,,,,1,1
+AGT-north-western-divivision,North Western Divivision,,agency,NEW BRUNSWICK,,,1,2
+AGT-northeast,Northeast Division,,agency,NEW BRUNSWICK,,,1,1
+AG-north-eastern-superintendency,Northeastern Division,,agency,NEW BRUNSWICK,other_year,AG-north-eastern-superintendency,21,84
+AG-northern-inspectorate,Northern Division,,agency,NEW BRUNSWICK,same_year,AG-northern-inspectorate,20,80
+AG-northwest-superintendency,Northwest Agency,,agency,BRITISH COLUMBIA,same_year,AG-northwest-superintendency,1,13
+AGT-north-west-angle-no-33,Northwest Angle No. 37,,agency,ONTARIO,,,4,99
+AG-north-west-coast-agency,Northwest Coast Agency,,agency,BRITISH COLUMBIA,same_year,AG-north-west-coast-agency,13,112
+AGT-northwestern,Northwestern Division,,agency,NEW BRUNSWICK,,,2,2
+AG-norway-house-agency,Norway House,,agency,Prairies/NWT,name_similarity,AG-norway-house-agency,26,192
+AGT-ontario-con,ONTARIO - con.,,agency,ONTARIO,,,1,1
+AGT-oak-river,Oak River (Sioux) Agency,,agency,Prairies/NWT,,,3,24
+AG-oak-river-sioux-agency,Oak River Sioux Agency,,agency,Prairies/NWT,same_year,AG-oak-river-sioux-agency,1,6
+AGT-office-miscellaneous-and-unforseen,"Office, miscellaneous and unforseen",,agency,BRITISH COLUMBIA,,,1,1
+AG-oka-agency,Oka,,agency,QUEBEC,same_year,AG-oka-agency,20,121
+AG-okanagan-agency,Okanagan,,agency,BRITISH COLUMBIA,same_year,AG-okanagan-agency,22,121
+AG-onion-lake-agency,Onion Lake,,agency,Prairies/NWT,same_year,AG-onion-lake-agency,23,124
+AGT-onion-lake-ag-cy-tr-ty-no-6,"Onion Lake Ag'cy, Tr'ty No. 6",Onion Lake Ag'cy,agency,Prairies/NWT,,,2,4
+AGT-onion-lake-treaty-no-4,"Onion Lake Agency, Treaty No. 6",Onion Lake Agency,agency,Prairies/NWT,,,12,111
+AGT-p-e-island,P.E. Island Superintendency,,agency,PRINCE EDWARD ISLAND,,,1,1
+AGT-p-e-i,P.E.I. Superintendency,,agency,PRINCE EDWARD ISLAND,,,5,14
+AGT-provinces,PROVINCES,,agency,,,,4,7
+AG-parry-sound-superintendency,Parry Sound,,agency,ONTARIO,same_year,AG-parry-sound-superintendency,31,236
+AGT-parry-sound-county,Parry Sound County,,agency,ONTARIO,,,1,1
+AGT-parry-sound-six-nations,Parry Sound Superintendency-Six Nations,,agency,ONTARIO,,,1,1
+AGT-partage-la-praire,Partage la Praire Agency,,agency,Prairies/NWT,,,1,1
+AG-pas-agency,Pas,,agency,Prairies/NWT,same_year,AG-pas-agency,17,93
+AG-peigan-agency,Peigan,,agency,Prairies/NWT,name_similarity,AG-peigan-agency,21,120
+AGT-peigan-treaty-no-4,"Peigan Agency, Treaty No. 7",Peigan Agency,agency,Prairies/NWT,,,10,100
+AG-pelly-agency,Pelly,,agency,Prairies/NWT,same_year,AG-pelly-agency,20,120
+AGT-pelly-treaty-no-4,"Pelly Agency, Treaty No. 4",Pelly Agency,agency,Prairies/NWT,,,8,85
+AG-penetanguishene-agency,Penetanguishene Agency,,agency,ONTARIO,same_year,AG-penetanguishene-agency,3,9
+AGT-picton,Pictou,,agency,NOVA SCOTIA,,,20,99
+AGT-pictou-county,Pictou County,,agency,NOVA SCOTIA,,,15,141
+AG-piegan-agency,Piegan,,agency,Prairies/NWT,other_year,AG-piegan-agency,3,6
+AGT-piegan-ag-cy-tr-ty-no-7,"Piegan Ag'cy, Tr'ty No. 7",Piegan Ag'cy,agency,Prairies/NWT,,,2,2
+AG-piegan-agency,"Piegan Agency, Treaty No. 7",Piegan Agency,agency,Prairies/NWT,other_year,AG-piegan-agency,2,13
+AG-pierreville-agency,Pierreville,,agency,QUEBEC,same_year,AG-pierreville-agency,20,121
+AGT-pine-creek,Pine Creek Agency,,agency,,,,1,1
+AGT-pine-creek-treaty-no-4,"Pine Creek Agency, Treaty No. 4",Pine Creek Agency,agency,Prairies/NWT,,,6,46
+AG-pointe-bleue-agency,Pointe Bleue,,agency,QUEBEC,same_year,AG-pointe-bleue-agency,15,77
+AGT-polly,Polly,,agency,Prairies/NWT,,,1,1
+AGT-port-arthur-ag-cy,Port Arthur Ag'cy,,agency,ONTARIO,,,1,1
+AGT-port-arthur,Port Arthur Agency,,agency,ONTARIO,,,17,161
+AGT-port-arthur-county,Port Arthur County,,agency,ONTARIO,,,1,1
+AGT-port-elgin,Port Elgin,,agency,,,,1,1
+AGT-port-essington,Port Essington,,agency,,,,1,1
+AGT-port-simpson-day,Port Simpson Day,,agency,,,,1,1
+AGT-portage-la,Portage la,,agency,Prairies/NWT,,,1,1
+AG-portage-la-prairie-agency,Portage la Prairie Agency,,agency,Prairies/NWT,same_year,AG-portage-la-prairie-agency,32,239
+AGT-prince-edward-island-superintend-cy,Prince Edward Island Superintend'cy,,agency,PRINCE EDWARD ISLAND,,,1,2
+AGT-prince-edward-island-john-o-arsenault-supt,"Prince Edward Island Superintendency, John O. Arsenault, Supt.",Prince Edward Island Superintendency,agency,PRINCE EDWARD ISLAND,,,1,1
+AG-qu-appelle-inspectorate,Qu'Appelle,,agency,Prairies/NWT,name_similarity,AG-qu-appelle-inspectorate,20,119
+AGT-qu-appelle-treaty-no-4,"Qu'Appelle Agency, Treaty No. 4",Qu'Appelle Agency,agency,Prairies/NWT,,,8,85
+AGT-qu-appelle-touchwood-hills,Qu'Appelle Touchwood Hills,,agency,Prairies/NWT,,,1,2
+AG-queen-charlotte-agency,Queen Charlotte,,agency,BRITISH COLUMBIA,same_year,AG-queen-charlotte-agency,20,115
+AGT-queen-s,Queen's,,agency,NOVA SCOTIA,,,1,10
+AGT-queen-s-county,Queen's County,,agency,NOVA SCOTIA,,,11,111
+AGT-queen-s-and-lunenburg,Queen's and Lunenburg,,agency,NOVA SCOTIA,,,2,2
+AGT-queen-s-and-lunenburg-counties,Queen's and Lunenburg Counties,,agency,NOVA SCOTIA,,,4,31
+AGT-queens,Queens,,agency,NOVA SCOTIA,,,16,82
+AGT-r-j-n-pither-age-treaty-no-3,"R.J.N. Pither Age, Treaty No. 3",,agency,Prairies/NWT,,,1,1
+AGT-r-j-n-pither-agt-treaty-no-3,"R.J.N. Pither, Agt, Treaty No. 3",,agency,,,,1,1
+AGT-rama-ag-cy,Rama Ag'cy,,agency,ONTARIO,,,1,1
+AG-rama-agency,Rama Agency,,agency,ONTARIO,same_year,AG-rama-agency,34,245
+AGT-rama-county,Rama County,,agency,ONTARIO,,,1,1
+AGT-rama-lake,Rama Lake Agency,,agency,ONTARIO,,,1,1
+AG-rat-portage-inspectorate,Rat Portage Agency,,agency,Prairies/NWT,same_year,AG-rat-portage-inspectorate,8,147
+AGT-rat-portage-l-j-a-leveque-inspector,"Rat Portage, L.J.A. Leveque, Inspector",Rat Portage,agency,ONTARIO,,,1,1
+AGT-red-rock,Red Rock,,agency,,,,1,1
+AG-restigouche-agency,Restigouche Agency,,agency,QUEBEC,same_year,AG-restigouche-agency,34,245
+AGT-restigouche-jeremie-pitre-agent,"Restigouche Agency, Jeremie Pitre, Agent",Restigouche Agency,agency,QUEBEC,,,1,1
+AGT-rice,Rice,,agency,ONTARIO,,,1,1
+AGT-rice-lake-ag-cy,Rice Lake Ag'cy,,agency,ONTARIO,,,1,1
+AG-rice-lake-agency,Rice Lake Agency,,agency,ONTARIO,other_year,AG-rice-lake-agency,33,237
+AGT-rice-and-mud-lakes,Rice and Mud Lakes,,agency,ONTARIO,,,1,6
+AGT-richibuctou,Richibucto Superintendency,,agency,NEW BRUNSWICK,,,11,113
+AGT-richibucto-w-d-carter-supt,"Richibucto Superintendency, W.D. Carter, Supt.",Richibucto Superintendency,agency,NEW BRUNSWICK,,,1,1
+AGT-richmond,Richmond,,agency,NOVA SCOTIA,,,20,99
+AGT-richmond-county,Richmond County,,agency,NOVA SCOTIA,,,15,140
+AGT-ristigoucbe,Ristigoucbe,,agency,QUEBEC,,,1,1
+AG-river-desert-agency,River Desert Agency,,agency,QUEBEC,same_year,AG-river-desert-agency,14,126
+AGT-river-desert-w-j-mccaffrey-agent,"River Desert Agency, W.J. McCaffrey, Agent",River Desert Agency,agency,QUEBEC,,,1,1
+AGT-river-settlement,River Settlement,,agency,,,,1,1
+AGT-riviere-la-seine,Riviere la Seine,,agency,ONTARIO,,,4,35
+AGT-riviere-la-seine-m-begg-agent,"Riviere la Seine, M. Begg, Agent",Riviere la Seine,agency,ONTARIO,,,1,1
+AGT-robinson-treaty,Robinson Treaty,,agency,,,,1,1
+AGT-ryerson,Ryerson,,agency,,,,1,1
+AGT-s3un-4g,S3un«4g,,agency,,,,1,1
+AGT-sacree-treaty-no-7,Sacree Agency Treaty No. 7,,agency,Prairies/NWT,,,1,1
+AGT-saddle,Saddle,,agency,Prairies/NWT,,,2,2
+AG-saddle-lake-agency,Saddle Lake,,agency,Prairies/NWT,name_similarity,AG-saddle-lake-agency,22,124
+AGT-saddle-lake-ag-cy-treaty-no-6,"Saddle Lake Ag'cy, Tr'ty No. 6",Saddle Lake Ag'cy,agency,Prairies/NWT,,,3,3
+AGT-saddle-lake-treaty-no-4,"Saddle Lake Agency, Treaty No. 6",Saddle Lake Agency,agency,Prairies/NWT,,,12,112
+AGT-sagamook,Sagamook,,agency,,,,1,1
+AGT-sarcee-1,Sarcee,,agency,Prairies/NWT,,,23,125
+AGT-sarcee-ag-cy-tr-ty-no-7,"Sarcee Ag'cy, Tr'ty No. 7",Sarcee Ag'cy,agency,Prairies/NWT,,,2,2
+AGT-sarcee-lake-treaty-no-7,"Sarcee Agency, Treaty No. 7",Sarcee Agency,agency,Prairies/NWT,,,12,112
+AG-sarcee-agency,Sarcee1,,agency,Prairies/NWT,name_similarity,AG-sarcee-agency,1,1
+AG-sarnia-agency,Sarnia,,agency,ONTARIO,same_year,AG-sarnia-agency,31,235
+AGT-sarnia-ag-cy,Sarnia Ag'cy,,agency,ONTARIO,,,1,2
+AGT-saugeen-ag-cy,Saugeen Ag'cy,,agency,ONTARIO,,,1,1
+AG-saugeen-agency,Saugeen Agency,,agency,ONTARIO,same_year,AG-saugeen-agency,34,243
+AGT-saujeen,Saujeen,,agency,ONTARIO,,,1,1
+AG-sault-ste-marie-agency,Sault St. Marie Agency,,agency,ONTARIO,name_similarity,AG-sault-ste-marie-agency,4,4
+AGT-sault-ste-marie-ag-cy,Sault Ste. Marie Agency,,agency,ONTARIO,,,31,233
+AG-savanne-agency,Savanne,,agency,ONTARIO,same_year,AG-savanne-agency,28,207
+AGT-saw-and-grist-mills,Saw and grist mills,,agency,,,,2,2
+AGT-scarcee,Scarcee,,agency,Prairies/NWT,,,1,1
+AGT-scotch-settlement,Scotch Settlement,,agency,,,,1,1
+AGT-scugog-ag-cy,Scugog Ag'cy,,agency,ONTARIO,,,1,1
+AG-scugog-agency,Scugog Agency,,agency,ONTARIO,same_year,AG-scugog-agency,34,244
+AGT-scugog-a-w-williams-agent,"Scugog Agency, A.W. Williams, Agent",Scugog Agency,agency,ONTARIO,,,1,1
+AGT-serpent-river,Serpent River,,agency,,,,1,1
+AGT-seugog,Seugog,,agency,ONTARIO,,,1,1
+AGT-seven-islands,Seven Islands,,agency,QUEBEC,,,16,82
+AGT-shawanaga,Shawanaga,,agency,,,,1,1
+AGT-sheguiandah,Sheguiandah,,agency,,,,1,1
+AGT-shelburn,Shelburn,,agency,NOVA SCOTIA,,,1,1
+AGT-shelbourne,Shelburne,,agency,NOVA SCOTIA,,,21,99
+AGT-shelburne-county,Shelburne County,,agency,NOVA SCOTIA,,,15,140
+AG-sioux-agency,Sioux,,agency,,other_year,AG-sioux-agency,2,2
+AGT-sister-brannigan,Sister Brannigan,,agency,,,,2,2
+AGT-sister-girard,Sister Girard,,agency,,,,2,2
+AG-six-nations-agency,Six Nations,,agency,ONTARIO,name_similarity,AG-six-nations-agency,26,151
+AGT-skeena-river1,Skeena River,,agency,BRITISH COLUMBIA,,,10,50
+AGT-small-pox,Small-pox,,agency,YUKON,,,1,1
+AGT-smith-m-a-b-m-d,"Smith, M.A.B., M.D.",,agency,,,,1,1
+AGT-songhees,Songhees,,agency,,,,1,1
+AGT-sophie-gibbons,Sophie Gibbons,,agency,,,,1,1
+AG-southeastern-inspectorate,Southeastern Division.,,agency,NEW BRUNSWICK,other_year,AG-southeastern-inspectorate,1,2
+AG-southwestern-inspectorate,Southwestern Division,,agency,NEW BRUNSWICK,name_similarity,AG-southwestern-inspectorate,21,83
+AG-st-francis-agency,St. Francis Agency,,agency,QUEBEC,other_year,AG-st-francis-agency,14,125
+AGT-st-francis-a-o-cormire-m-d-agent,"St. Francis Agency, A.O. Cormiré, M.D., Agent","St. Francis Agency, A.O. Cormiré",agency,QUEBEC,,,1,1
+AGT-st-mary-s-mission-boarding,St. Mary's Mission Boarding,,agency,,,,1,1
+AG-st-regis-agency,St. Regis Agency,,agency,QUEBEC,same_year,AG-st-regis-agency,34,247
+AGT-st-regis-geo-long-agent,"St. Regis Agency, Geo. Long, Agent",St. Regis Agency,agency,QUEBEC,,,1,1
+AGT-stangecomimg,Stangecomimg,,agency,ONTARIO,,,1,1
+AGT-strangecoming,Stangecoming,,agency,ONTARIO,,,4,35
+AGT-stangecoming-m-begg-agent,"Stangecoming, M. Begg, Agent",Stangecoming,agency,ONTARIO,,,1,1
+AGT-stewart-lake,Stewart Lake,,agency,BRITISH COLUMBIA,,,1,1
+AG-stickine-agency,Stickine,,agency,BRITISH COLUMBIA,same_year,AG-stickine-agency,1,6
+AG-stikine-agency,Stikine,,agency,BRITISH COLUMBIA,same_year,AG-stikine-agency,15,77
+AGT-stoney,Stoney,,agency,Prairies/NWT,,,1,1
+AG-stony-agency,Stony,,agency,Prairies/NWT,same_year,AG-stony-agency,23,126
+AGT-stony-ag-cy-tr-ty-no-7,"Stony Ag'cy, Tr'ty No. 7",Stony Ag'cy,agency,Prairies/NWT,,,2,2
+AGT-stony-lake-treaty-no-7,"Stony Agency, Treaty No. 7",Stony Agency,agency,Prairies/NWT,,,12,114
+AG-stuart-lake-agency,Stuart Lake,,agency,BRITISH COLUMBIA,name_similarity,AG-stuart-lake-agency,19,111
+AGT-sturgeon,Sturgeon Agency,,agency,ONTARIO,,,1,2
+AG-sturgeon-falls-agency,Sturgeon Falls,,agency,ONTARIO,same_year,AG-sturgeon-falls-agency,26,187
+AGT-sturgeon-lake,Sturgeon Lake,,agency,ONTARIO,,,1,11
+AGT-sturgeon-lake-l-j-a-leveque-inspector,"Sturgeon Lake, L.J.A. Leveque, Inspector",Sturgeon Lake,agency,ONTARIO,,,1,2
+AGT-susanne-girard-wheeler,Susanne Girard Wheeler,,agency,,,,1,1
+AGT-swan-river-ag-cy-tr-ty-no-4,"Swan River Ag'cy, Tr'ty No. 4.",Swan River Ag'cy,agency,Prairies/NWT,,,1,1
+AG-swan-river-agency,Swan River Agency,,agency,,same_year,AG-swan-river-agency,2,2
+AGT-swan-river-treaty-no-4,"Swan River Agency, Treaty No. 4",Swan River Agency,agency,Prairies/NWT,,,5,29
+AGT-temiscaming-adam-burwash-agent,"Temiscaming Agency, Adam Burwash, Agent",Temiscaming Agency,agency,QUEBEC,,,1,1
+AG-temiscaming-agency,Temiscamingue Agency,,agency,QUEBEC,name_similarity,AG-temiscaming-agency,7,41
+AGT-the-dalles,The Dalles,,agency,ONTARIO,,,4,33
+AGT-the-dalles-l-j-a-leveque-inspector,"The Dalles, L.J.A. Leveque, Inspector",The Dalles,agency,ONTARIO,,,1,1
+AGT-the-pass,The Pas Agency,,agency,Prairies/NWT,,,15,154
+AG-thessalon-agency,Thessalon,,agency,ONTARIO,same_year,AG-thessalon-agency,30,229
+AGT-timiscaming,Timiscaming Agency,,agency,QUEBEC,,,1,1
+AGT-temiskaming,Timiskaming,,agency,QUEBEC,,,28,205
+AGT-to-prevent-spread-of-tuberculosis,To prevent spread of tuberculosis,,agency,,,,1,1
+AGT-to-provide-an-amount-for-church-on-burnt-church-reserve,To provide an amount for church on Burnt Church Reserve,,agency,NEW BRUNSWICK,,,1,1
+AGT-to-provide-an-amount-to-encourage-agriculture,To provide an amount to encourage agriculture,,agency,NEW BRUNSWICK,,,1,1
+AGT-to-provide-for-dyking-middle-river-reserve,"To provide for dyking, Middle River Reserve",,agency,NOVA SCOTIA,,,1,1
+AGT-to-provide-for-encouragement-of-agriculture-amongst-indians-of-maritime-provinces,To provide for encouragement of agriculture amongst Indians of Maritime Provinces,,agency,NOVA SCOTIA,,,1,1
+AG-touchwood-agency,Touchwood,,agency,Prairies/NWT,same_year,AG-touchwood-agency,15,72
+AGT-touchwood-hills-no-4,Touchwood Hills,,agency,Prairies/NWT,,,9,60
+AGT-touchwood-hills-ag-cy-treaty-no-4,"Touchwood Hills Agency, Treaty No. 4",Touchwood Hills Agency,agency,Prairies/NWT,,,14,104
+AGT-treaty-8-dist,Treaty 8 Dist,,agency,,,,1,1
+AGT-treaty-no-10,Treaty No. 10,,agency,Prairies/NWT,,,3,19
+AGT-treaty-no-9,Treaty No. 9,,agency,,,,1,1
+AGT-tyendianaga,Tyendinaga,,agency,ONTARIO,,,33,229
+AGT-tyendinaga-ag-cy,Tyendinaga Ag'cy,,agency,ONTARIO,,,1,1
+AGT-tyendinga,Tyendinga Agency,,agency,ONTARIO,,,1,6
+AGT-uculet,Uculet,,agency,,,,1,1
+AGT-valley-river-band,Valley River Band,,agency,Prairies/NWT,,,5,39
+AGT-valley-river-band-treaty-no-4,"Valley River Band Agency, Treaty No. 4",Valley River Band Agency,agency,Prairies/NWT,,,1,8
+AGT-vancouver,Vancouver,,agency,BRITISH COLUMBIA,,,8,40
+AGT-veronique-guimond-hourston,Veronique Guimond Hourston,,agency,,,,1,1
+AGT-victoria,Victoria,,agency,NOVA SCOTIA,,,22,101
+AGT-victoria-county,Victoria County,,agency,NOVA SCOTIA,,,15,140
+AG-viger-agency,Viger Agency,,agency,QUEBEC,other_year,AG-viger-agency,14,125
+AGT-viger-e-beaulieu-agent,"Viger Agency, E. Beaulieu, Agent",Viger Agency,agency,QUEBEC,,,1,1
+AGT-viget,Viget Agency,,agency,QUEBEC,,,1,1
+AGT-wabigoon,Wabigoon,,agency,ONTARIO,,,4,34
+AGT-wabigoon-l-j-a-leveque-inspector,"Wabigoon, L.J.A. Leveque, Inspector",Wabigoon,agency,ONTARIO,,,1,1
+AGT-wabuskang,Wabuskang,,agency,ONTARIO,,,4,33
+AGT-assabaska-l-j-a-leveque-inspector,"Wabuskang, L.J.A. Leveque, Inspector",Wabuskang,agency,ONTARIO,,,1,2
+AGT-walpole,Walpole Agency,,agency,ONTARIO,,,2,2
+AGT-walpole-island-ag-cy,Walpole Island Agency,,agency,ONTARIO,,,24,200
+AG-walpole-island-agency,Wapole Island*,,agency,ONTARIO,name_similarity,AG-walpole-island-agency,1,1
+AG-west-coast-agency,West Coast Agency,,agency,BRITISH COLUMBIA,same_year,AG-west-coast-agency,34,243
+AGT-west-coast-kwawkewlth,West Coast Kwawkewlth Agency,,agency,BRITISH COLUMBIA,,,1,1
+AG-western-superintendency,Western Superintendency,,agency,ONTARIO,other_year,AG-western-superintendency,3,4
+AGT-white-fish-bay,White Fish Bay,,agency,ONTARIO,,,4,32
+AGT-whitefish-bay-l-j-a-leveque-inspector,"Whitefish Bay, L.J.A. Leveque, Inspector",Whitefish Bay,agency,ONTARIO,,,1,1
+AGT-william-s-lake-industrial,William's Lake Industrial,,agency,,,,1,1
+AG-williams-lake-agency,Williams Lake Agency,,agency,BRITISH COLUMBIA,same_year,AG-williams-lake-agency,34,243
+AG-windsor-agency,Windsor,,agency,NOVA SCOTIA,other_year,AG-windsor-agency,1,6
+AGT-wood-mountain,Wood Mountain,,agency,Prairies/NWT,,,5,17
+AGT-wood-mountain-reserve,Wood Mountain Reserve,,agency,Prairies/NWT,,,7,35
+AGT-yale-boarding,Yale (All Hallows) Boarding,,agency,,,,1,1
+AGT-yarmouth,Yarmouth,,agency,NOVA SCOTIA,,,21,102
+AGT-yarmouth-county,Yarmouth County,,agency,NOVA SCOTIA,,,15,136
+AGT-yukon-territory,Yukon Territory,,agency,Prairies/NWT,,,5,18
+AGT-sains-s,sains ^S.,,agency,,,,1,1
+AGT-sasnojj-5-jipi,sasnojj 5|jipi,,agency,,,,1,1
+AGT-sasnojj-saiauq,sasnojj SaiAUQ,,agency,,,,1,1
+AGT-sasnojj-lounoq,sasnojj [lounoQ,,agency,,,,1,1
+AGT-sasnojj-joog,sasnojj joog,,agency,,,,1,1
+AGT-sasnojj-looqog,sasnojj looqog,,agency,,,,1,1
+AGT-spaqg-sniaufj,spaqg SniAUfJ,,agency,,,,1,1
+AGT-s5-ll-0,•S5.ll!0,,agency,,,,1,1
+AGT-sa-oji-bfj,•SA\OJi'BfJ,,agency,,,,1,1
+AGT-agricultural-implements,Agricultural implements,,appropriation,,,,1,1
+AGT-annuities,Annuities,,appropriation,,,,1,1
+AGT-cleansing-indian-orchards,Cleansing Indian orchards,,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-general-legal-expenses,General expenses,,appropriation,,,,2,4
+AGT-grant-to-assist-trust-fund-account-310-for-suppression-of-liquor-traffic,Grant to assist Trust Fund Account $310 for suppression of liquor traffic,,appropriation,,,,1,1
+AGT-grant-w-s,"Grant, W.S.",,appropriation,,,,3,3
+AGT-hospitals-medical-attendance-and-medicines,"Hospitals, medical attendance and medicines",,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-implements-tools-c,"Implements, tools, &c",,appropriation,,,,1,1
+AGT-legal-expenses-british-columbia-land-question,"Legal expenses, British Columbia land question",,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-medical-attendance-and-medicines,Medical attendance and medicines,,appropriation,PRINCE EDWARD ISLAND,,,2,5
+AGT-medical-attendance-hospitals-medicines-c,"Medical attendance, hospitals, medicines, &c",,appropriation,,,,1,1
+AGT-miscellaneous-and-office-expenses,Miscellaneous and office expenses,,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-payments-to-indians-surrendering-their-lands,Payments to Indians surrendering their lands,,appropriation,,,,1,1
+AGT-relief,Relief,,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-relief-and-seed-grain,Relief and seed grain,,appropriation,PRINCE EDWARD ISLAND,,,2,4
+AGT-relief-for-destitute-indians,Relief for destitute Indians,,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-relief-to-destitute-indians-in-remote-districts,Relief to destitute Indians in remote districts,,appropriation,,,,1,1
+AGT-relief-medical-attendance-and-medicines-ontario,"Relief, medical attendance and medicines, Ontario",,appropriation,,,,1,2
+AGT-relief-medical-attendance-medicines-c,"Relief, medical attendance, medicines, & c.",,appropriation,YUKON,,,1,1
+AGT-repairs-to-roads,Repairs to roads,,appropriation,NEW BRUNSWICK,,,1,1
+AGT-repairs-to-roads-doncaster-reserve,Repairs to roads Doncaster Reserve,,appropriation,,,,1,1
+AGT-repairs-to-roads-and-bridges-tyendinaga,Repairs to roads and bridges Tyendinaga,,appropriation,,,,1,1
+AGT-repairs-to-roads-and-drainage-caughnawaga,Repairs to roads and drainage Caughnawaga,,appropriation,,,,1,1
+AGT-repairs-to-roads-and-dyking,Repairs to roads and dyking,,appropriation,NOVA SCOTIA,,,1,1
+AGT-repairs-to-wharf-hartley-bay,"Repairs to wharf, Hartley Bay",,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-salaries,Salaries,,appropriation,BRITISH COLUMBIA,,,2,5
+AGT-salaries-and-travelling-expenses,Salaries and travelling expenses,,appropriation,PRINCE EDWARD ISLAND,,,1,1
+AGT-salaries-of-inspectors,Salaries of inspectors,,appropriation,,,,2,2
+AGT-seed-grain,Seed grain,,appropriation,,,,1,1
+AGT-seed-implements-and-farming,"Seed, implements and farming",,appropriation,BRITISH COLUMBIA,,,2,2
+AGT-supplies-for-destitute-indians,Supplies for destitute Indians,,appropriation,,,,1,1
+AGT-surveys,Surveys,,appropriation,BRITISH COLUMBIA,,,2,3
+AGT-surveys-and-reserve-commission,Surveys and reserve commission,,appropriation,BRITISH COLUMBIA,,,1,1
+AGT-surveys-ontario-quebec-and-maritime-provinces,"Surveys, Ontario, Quebec and Maritime Provinces",,appropriation,,,,1,1
+AGT-to-provide-for-expenses-in-connection-with-epidemic-of-small-pox-and-other-diseases,To provide for expenses in connection with epidemic of small-pox and other diseases,,appropriation,,,,1,1
+AGT-to-purchase-land-for-indians-at-sheet-harbour,To purchase land for Indians at Sheet Harbour,,appropriation,NOVA SCOTIA,,,1,1
+AGT-travelling-expenses,Travelling expenses,,appropriation,BRITISH COLUMBIA,,,2,2
+AGT-travelling-expenses-of-inspectors-and-clerical-assistance,Travelling expenses of inspectors and clerical assistance,,appropriation,,,,2,2
+AGT-triennial-clothing,Triennial clothing,,appropriation,,,,2,2
+AGT-hungry-hall-no-1-m-begg-agent,"Hungry Hall No. 1, M. Begg, Agent",Hungry Hall No. 1,band_row,ONTARIO,,,1,2
+AGT-long-sault-no-1-m-begg-agent,"Long Sault No. 1, M. Begg, Agent",Long Sault No. 1,band_row,ONTARIO,,,1,2
+AGT-manitou-rapids-no-1-m-begg-agent,"Manitou Rapids No. 1, M. Begg, Agent",Manitou Rapids No. 1,band_row,ONTARIO,,,1,2
+AGT-northwest-angle-no-33-l-j-a-leveque-inspector,"Northwest Angle No. 37, L.J.A. Leveque, Inspector",Northwest Angle No. 37,band_row,ONTARIO,,,1,3
+AGT-shoal-lake-no-39-l-j-a-leveque-inspector,"Shoal Lake No. 39, L.J.A. Leveque, Inspector",Shoal Lake No. 39,band_row,ONTARIO,,,1,2
+AGT-agnes-c-linkwater-no-206-lac-seul-band,"Agnes C. Linkwater, No. 206 Lac Seul Band.",,ledger_person,,,,1,1
+AGT-annie-ls-caron-no-37-n-w-angle-band,"Annie Ls. Caron, No. 37, N.W. Angle Band",,ledger_person,,,,1,1
+AGT-harriet-brass-no-84-keseekouse-band,"Harriet Brass, No. 84 - Keseekouse Band.",,ledger_person,,,,1,1
+AGT-margaret-leclerc-no-91-keseekouse-band,"Margaret LeClerc, No. 91 - Keseekouse Band.",,ledger_person,,,,1,1
+AGT-mathilda-moodie-no-280-norway-house-band,"Mathilda Moodie, No. 280 Norway House Band.",,ledger_person,,,,1,1
+AGT-mrs-a-johnstone-no-189-fort-alexander-band,"Mrs. A. Johnstone, No. 189 Fort Alexander Band.",,ledger_person,,,,1,1
+AGT-mrs-caroline-budd-no-151-cumberland-band,"Mrs. Caroline Budd, No. 151 - Cumberland Band.",,ledger_person,,,,1,1
+AGT-mrs-caroline-cook-no-114-cumberland-band,"Mrs. Caroline Cook, No. 114 - Cumberland Band.",,ledger_person,,,,1,1
+AGT-mrs-david-crane-no-145-cumberland-band,"Mrs. David Crane, No. 145 - Cumberland Band.",,ledger_person,,,,1,1
+AGT-mrs-emmeline-cook-no-260-pas-band,"Mrs. Emmeline Cook, No. 260 - Pas Band.",,ledger_person,,,,1,1
+AGT-mrs-flora-cook-no-165-cumberland-band,"Mrs. Flora Cook, No. 165 - Cumberland Band.",,ledger_person,,,,1,1
+AGT-mrs-geo-provost-no-95-bloodvein-river-band,"Mrs. Geo. Provost, No. 95 - Bloodvein River Band.",,ledger_person,,,,1,1
+AGT-mrs-hamet-morin-no-155-cumberland-band,"Mrs. Hamet Morin, No. 155 - Cumberland Band.",,ledger_person,,,,1,1
+AGT-mrs-henrietta-budd-no-279-shoal-lake-band,"Mrs. Henrietta Budd, No. 279 - Shoal Lake Band.",,ledger_person,,,,1,1
+AGT-mrs-kate-mckay-no-147-cumberland-band,"Mrs. Kate McKay, No. 147 - Cumberland Band.",,ledger_person,,,,1,1
+AGT-mrs-kenneth-mcleod-no-369-norway-house-band,"Mrs. Kenneth McLeod, No. 369 - Norway House Band.",,ledger_person,,,,1,1
+AGT-mrs-matilda-paul-no-281-pas-band,"Mrs. Matilda Paul, No. 281 - Pas Band.",,ledger_person,,,,1,1
+AGT-mrs-sarah-charlette-no-146-cumberland-band,"Mrs. Sarah Charlette, No. 146 - Cumberland Band.",,ledger_person,,,,1,1
+AGT-rosalie-gregory-no-130-chipewyan-band,"Rosalie Gregory, No. 130 Chipewyan Band.",,ledger_person,,,,1,1
+AGT-tequase-no-51-wabuskang-band,"Tequase, No. 51 Wabuskang Band.",,ledger_person,,,,1,1
+AGT-day-schools,Day schools,,school,BRITISH COLUMBIA,,,1,1
+AGT-industrial-and-boarding-schools,Industrial and boarding schools,,school,BRITISH COLUMBIA,,,1,1
+AGT-port-simpson-girls-home,Port Simpson Girls' Home,,school,,,,1,1
+AGT-printing-stationery-and-school-material,"Printing, stationery and school material",,school,,,,1,1
+AGT-schools,Schools,,school,,,,1,2
+AGT-a-h-miles,A.H. Miles,,staff,,,,2,2
+AGT-ada-brass,Ada Brass,,staff,,,,1,1
+AGT-adams-joshua,"Adams, Joshua",,staff,ONTARIO,,,1,1
+AGT-aldersmith-r-a,"Aldersmith, R.A.",,staff,,,,1,1
+AGT-alex-f-mackenzie,Alex. F. MacKenzie,,staff,,,,3,3
+AGT-alfred-e-kemp,Alfred E. Kemp,,staff,,,,3,3
+AGT-alice-m-s-graham,Alice M.S. Graham,,staff,,,,1,1
+AGT-annie-agnes-doyle,Annie Agnes Doyle,,staff,,,,1,1
+AGT-annie-doyle,Annie Doyle,,staff,,,,1,1
+AGT-archibald-c-c-m-d,"Archibald, C.C., M.D.",,staff,,,,1,1
+AGT-ardagh-e-r-m-d,"Ardagh, E.R., M.D.",,staff,,,,1,1
+AGT-armstrong-h-o,"Armstrong, H.O.",,staff,,,,1,1
+AGT-arthur-r-h-m-d,"Arthur, R.H.M.D.",,staff,ONTARIO,,,1,1
+AGT-aspdin-thos-w,"Aspdin, Thos. W.",,staff,,,,1,1
+AGT-audrey-j-jones,Audrey S. Jones,,staff,,,,2,2
+AGT-aylesworth-w-r,"Aylesworth, W.R.",,staff,ONTARIO,,,1,1
+AGT-baines-mark-m-d,"Baines, Mark, M.D.",,staff,,,,1,1
+AGT-baker-gerald-m-d,"Baker, Gerald, M.D.",,staff,,,,1,1
+AGT-baker-m-d-m-d,"Baker, M.D., M.D.",,staff,,,,1,1
+AGT-bangs-john,"Bangs, John",,staff,,,,2,2
+AGT-bannon-rev-e-j,"Bannon, Rev. E.J.",,staff,,,,1,1
+AGT-bard-d,"Bard, D.",,staff,,,,1,1
+AGT-bastien-antoine-o,"Bastien, Antoine O.",,staff,QUEBEC,,,1,1
+AGT-batty-j,"Batty, J.",,staff,,,,2,2
+AGT-baxter-j-m-d,"Baxter, J.M.D.",,staff,ONTARIO,,,1,1
+AGT-beatrice-phelan,Beatrice Phelan,,staff,,,,3,3
+AGT-beaulieu-e,"Beaulieu, E.",,staff,QUEBEC,,,1,1
+AGT-bedard-e-m-d,"Bedard, E., M.D.",,staff,ONTARIO,,,1,1
+AGT-benjamin-hayter-packer,Benjamin Hayter,,staff,,,,4,4
+AGT-betournay-geo-a-m-a,"Betournay, Geo. A., M.A.",,staff,,,,1,1
+AGT-beverley-j,"Beverley, J.",,staff,,,,2,2
+AGT-black-w,"Black, W.",,staff,,,,2,2
+AGT-blain-jean,"Blain, Jean",,staff,QUEBEC,,,1,1
+AGT-blanc-h,"Blanc, H.",,staff,,,,1,1
+AGT-blewett-w-g,"Blewett, W.G.",,staff,,,,2,2
+AGT-borthwick-t,"Borthwick, T.",,staff,,,,2,2
+AGT-bourget-rev-p,"Bourget, Rev. P. (R.C.)",,staff,BRITISH COLUMBIA,,,1,1
+AGT-bowman-george-m-d,"Bowman, George, M.D.",,staff,ONTARIO,,,1,1
+AGT-boyd-a-j,"Boyd, A.J.",,staff,,,,1,1
+AGT-brack-f,"Brack, F.",,staff,,,,1,1
+AGT-brereton-d-l,"Brereton, D.L.",,staff,,,,1,1
+AGT-brigham-a-f,"Brigham, A.F.",,staff,,,,2,2
+AGT-brook-s,"Brook, S.",,staff,,,,1,1
+AGT-brown-j-r,"Brown, J.R.",,staff,,,,1,1
+AGT-brown-jno,"Brown, Jno",,staff,,,,1,1
+AGT-buckley-c-e-m-d,"Buckley, C.E., M.D.",,staff,,,,1,1
+AGT-bullshield-joe,"Bullshield, Joe",,staff,,,,1,1
+AGT-burwash-adam,"Burwash, Adam",,staff,QUEBEC,,,1,1
+AGT-byrne-peter,"Byrne, Peter",,staff,,,,1,1
+AGT-calkin-s-f,"Calkin, S.F.",,staff,,,,1,1
+AGT-cameron-edwin-d,"Cameron, Edwin D.",,staff,ONTARIO,,,1,1
+AGT-cameron-henry,"Cameron, Henry",,staff,,,,2,2
+AGT-campbell-a-g,"Campbell, M.",,staff,,,,5,6
+AGT-caroline-reiffenstein,Caroline Reiffenstein,,staff,,,,3,3
+AGT-carroll-i-w,"Carroll, I.W.",,staff,,,,2,2
+AGT-carruthers-john-m-d,"Carruthers, John, M.D.",,staff,ONTARIO,,,1,1
+AGT-case-mayes-m-d,"Case, Mayes, M.D.",,staff,,,,1,1
+AGT-caswell-j-a-m-d,"Caswell, J.A., M.D.",,staff,,,,1,1
+AGT-caughnawaga-jeune-lorette,"Caughnawaga, Jeune Lorette",,staff,QUEBEC,,,1,1
+AGT-cawston-j,"Cawston, J.",,staff,,,,1,1
+AGT-channonhouse-j-m-d,"Channonhouse, J., M.D.",,staff,ONTARIO,,,1,1
+AGT-chard-j-g,"Chard, J.G.",,staff,,,,1,1
+AGT-chas-a-cooke,Chas. A. Cooke,,staff,,,,4,4
+AGT-chisholm-h-g-m-d,"Chisholm, H.G., M.D.",,staff,,,,1,1
+AGT-chisholm-wm-j,"Chisholm, Wm. J.",,staff,,,,3,3
+AGT-chisolm-daniel,"Chisolm, Daniel",,staff,,,,1,1
+AGT-chisolm-w-c,"Chisolm, W.C.",,staff,,,,1,1
+AGT-christianson-s,"Christianson, S.",,staff,,,,1,1
+AGT-christie-h-a-m-d,"Christie, H.A., M.D.",,staff,,,,1,1
+AGT-clark-c-h,"Clark, C.H.",,staff,,,,3,3
+AGT-clark-w-b-m-d,"Clark, W.B., M.D.",,staff,YUKON,,,1,1
+AGT-clarke-s-m-d,"Clarke, S., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-cockburn-g-p,"Cockburn, G.P.",,staff,ONTARIO,,,1,1
+AGT-coleman-h-h-m-d,"Coleman, H.H., M.D.",,staff,,,,1,1
+AGT-comire-a-o-m-d,"Comire, A.O., M.D.",,staff,QUEBEC,,,1,1
+AGT-conroy-h-a,"Conroy, H.A.",,staff,,,,1,1
+AGT-cook-a-l,"Cook, A.L.",,staff,,,,1,1
+AGT-cornes-t-j,"Cornes, T.J.",,staff,,,,1,1
+AGT-cory-thos,"Cory, Thos",,staff,,,,3,3
+AGT-coture-h,"Coture, H.",,staff,,,,1,1
+AGT-courtney-joseph,"Courtney, Joseph",,staff,,,,1,1
+AGT-cox-c-a,"Cox, C.A.",,staff,,,,1,1
+AGT-cox-h-p-m-d,"Cox, H.P., M.D.",,staff,,,,1,1
+AGT-crawford-a-a,"Crawford, A.A.",,staff,,,,2,2
+AGT-cregan-rev-a-h,"Cregan, Rev. A.H.",,staff,ONTARIO,,,1,1
+AGT-culton-a-m-d,"Culton, A., M.D.",,staff,,,,1,1
+AGT-cummings-w-g-m-d,"Cummings, W.G., M.D.",,staff,,,,1,1
+AGT-david-morin,David Morin,,staff,,,,5,5
+AGT-davidson-w-f,"Davidson, W.F.",,staff,,,,2,2
+AGT-day-j-p-g,"Day, J.P.G.",,staff,,,,3,3
+AGT-deasy-thos,"Deasy, Thos.",,staff,,,,1,1
+AGT-desjardin-s,"Desjardin, S.",,staff,,,,2,2
+AGT-desmond-f-j-m-d,"Desmond, F.J., M.D.",,staff,,,,1,1
+AGT-dewan-w,"Dewan, W.",,staff,,,,1,1
+AGT-dickenson-s-m,"Dickinson, S.M.",,staff,,,,4,4
+AGT-ditchburn-w-e,"Ditchburn, W.E.",,staff,,,,1,1
+AGT-donnelly-j-p,"Donnelly, J.P.",,staff,,,,1,1
+AGT-dreaver-h,"Dreaver, H.",,staff,,,,1,1
+AGT-dreaver-j-sr,"Dreaver, J., Sr.",,staff,,,,1,1
+AGT-dreaver-jno,"Dreaver, Jno",,staff,,,,1,1
+AGT-dreaver-john,"Dreaver, John",,staff,,,,1,1
+AGT-drew-hall-drs,"Drew & Hall, Drs.",,staff,,,,1,1
+AGT-drs-drew-hall,Drs. Drew & Hall,,staff,BRITISH COLUMBIA,,,1,1
+AGT-drysdale-w-f-m-d,"Drysdale, W.F., M.D.",,staff,BRITISH COLUMBIA,,,2,2
+AGT-duncan-c-scott,Duncan C. Scott,,staff,,,,4,4
+AGT-e-h-whitford,E.H. Whitford,,staff,,,,1,1
+AGT-edgelow-arthur-m-d,"Edgelow, Arthur, M.D.",,staff,,,,1,1
+AGT-edith-h-lyon,Edith R. Lyon,,staff,,,,2,2
+AGT-edwin-rochester,Edwin Rochester,,staff,,,,1,1
+AGT-effie-k-mclatchie,Effie K. McLatchie,,staff,,,,5,5
+AGT-elizabeth-robson,Elizabeth Robson,,staff,,,,1,1
+AGT-ellen-i-findlay,Ellen J. Findlay,,staff,,,,4,4
+AGT-elliott-c-a-m-d,"Elliott, C.A., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-elliott-graham-h-robt,"Elliott, Graham H. Robt.,",,staff,,,,1,1
+AGT-ellis-jos,"Ellis, Jos",,staff,,,,1,1
+AGT-ely-joe,"Ely, Joe",,staff,,,,1,1
+AGT-emile-jean,Emile Jean,,staff,,,,1,1
+AGT-emma-s-martin,Emma S. Martin,,staff,,,,4,4
+AGT-english-adam,"English, Adam",,staff,ONTARIO,,,1,1
+AGT-english-j,"English, J.",,staff,,,,1,1
+AGT-erasmus-peter,"Erasmus, P.",,staff,,,,3,3
+AGT-eva-alma-lord,Eva Alma Lord,,staff,,,,2,2
+AGT-ewing-w-m-d,"Ewing, W., M.D.",,staff,,,,1,1
+AGT-falkins-h-c-m-d,"Falkins, H.C., M.D.",,staff,,,,1,1
+AGT-fannie-yeilding,Fannie Yeilding,,staff,,,,3,3
+AGT-ferguson-a-c-m-d,"Ferguson, A.C., M.D.",,staff,,,,1,1
+AGT-ferguson-geo,"Ferguson, Geo.",,staff,,,,3,3
+AGT-ferguson-w-j-c,"Ferguson, W.J.C.",,staff,ONTARIO,,,2,2
+AGT-fewtrell-e-l,"Fewtrell, E.L.",,staff,,,,1,1
+AGT-fiddler-geo,"Fiddler, Geo.",,staff,,,,1,1
+AGT-fischer-fred,"Fischer, Fred",,staff,,,,1,1
+AGT-fleetham-t-j,"Fleetham, T.J.",,staff,,,,1,1
+AGT-floretta-k-maracle,Floretta K. Maracle,,staff,,,,3,3
+AGT-foley-john,"Foley, John",,staff,,,,3,3
+AGT-foot-e-c-m-d,"Foot, E.C., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-foote-e-c-m-d,"Foote, E.C., M.D.",,staff,,,,1,1
+AGT-forest-j-o,"Forest, J.O.",,staff,,,,1,1
+AGT-fougner-iver,"Fougner, Iver",,staff,,,,1,1
+AGT-fox-p,"Fox, P.",,staff,,,,1,1
+AGT-francis-pedley,Francis Pedley,,staff,,,,1,1
+AGT-frank-pedley,Frank Pedley,,staff,,,,3,3
+AGT-fraser-john,"Fraser, John",,staff,ONTARIO,,,1,1
+AGT-fraser-p,"Fraser, P.",,staff,,,,2,2
+AGT-fred-munroe,Fred Munro,,staff,,,,3,3
+AGT-fred-k-h-paget,Fred'k H. Paget.,,staff,,,,2,2
+AGT-frederick-h-paget,Frederick H. Paget,,staff,ONTARIO,,,2,2
+AGT-frederick-munro,Frederick Munro,,staff,,,,1,1
+AGT-frederick-h-byshe,Frederick R. Byshe,,staff,,,,3,4
+AGT-gagnon-adolphe,"Gagnon, Adolphe",,staff,QUEBEC,,,1,1
+AGT-gagne-rev-jacob,"Gagné, Rev. Jacob",,staff,QUEBEC,,,1,1
+AGT-gamoose-d,"Gamoose, D.",,staff,,,,1,1
+AGT-garadapie-h,"Gardapie, H.",,staff,,,,3,3
+AGT-gardipie-e,"Gardipie, E.",,staff,,,,1,1
+AGT-gardner-w,"Gardner, W.",,staff,,,,2,2
+AGT-garrioch-w-h,"Garrioch, W.H,",,staff,,,,1,1
+AGT-geo-a-conley,Geo. A. Conley,,staff,,,,4,4
+AGT-geo-a-sutherland,Geo. A. Sutherland,,staff,,,,1,1
+AGT-geo-l-chitty,Geo. L. Chitty,,staff,ONTARIO,,,2,2
+AGT-geo-m-matheson,Geo. M. Matheson,,staff,,,,3,3
+AGT-georgiana-c-caddy,Georgiana C. Caddy,,staff,,,,1,1
+AGT-gertrude-a-gorrell,Gertrude A. Gorrell,,staff,,,,5,5
+AGT-gertrude-c-neelin,Gertrude C. Neelin,,staff,,,,4,4
+AGT-gibbons-james,"Gibbons, James",,staff,,,,1,1
+AGT-gibson-j-a,"Gibson, J.A.",,staff,ONTARIO,,,2,2
+AGT-gilmour-neil,"Gilmour, Neil",,staff,,,,1,1
+AGT-ginn-j-c,"Ginn, J.C.",,staff,,,,2,2
+AGT-girvan-robt-m-d,"Girvan, Robt., M.D.",,staff,,,,1,1
+AGT-gooderham-j-h,"Gooderham, J.H.",,staff,,,,2,2
+AGT-gordon-wm,"Gordon, Wm.",,staff,,,,2,2
+AGT-goulette-o-v,"Goulette, O.V.",,staff,ONTARIO,,,2,2
+AGT-gourlay-j-m-m-d,"Gourlay, J.M., M.D.",,staff,,,,1,1
+AGT-graham-w-m,"Graham, W.M.",,staff,,,,2,2
+AGT-graves-c-a-m-d,"Graves, C.A., M.D.",,staff,,,,1,1
+AGT-guy-j-a-m-d,"Guy, J.A., M.D.",,staff,,,,1,1
+AGT-h-t-niblock,H.T. Niblock,,staff,,,,2,2
+AGT-hagan-samuel,"Hagan, Samuel",,staff,ONTARIO,,,2,2
+AGT-hall-miss-e,"Hall, Miss E.",,staff,,,,1,1
+AGT-hallett-e-o-m-d,"Hallett, E.O., M.D.",,staff,,,,1,1
+AGT-halliday-w-m,"Halliday, W.M.",,staff,,,,1,1
+AGT-hamilton-p-j,"Hamilton, P.J.",,staff,,,,3,3
+AGT-hanna-g-m-m-d,"Hanna, G.M., M.D.",,staff,,,,1,1
+AGT-harriett-whitford,Harriett Whitford,,staff,,,,1,1
+AGT-harris-rupert-a,"Harris, Rupert A.",,staff,,,,1,1
+AGT-harrison-e-h-m-d,"Harrison, E.H., M.D.",,staff,,,,1,1
+AGT-hassen-jas,"Hassen, Jas.",,staff,,,,2,2
+AGT-hay-w-w-m-d,"Hay, W.W., M.D.",,staff,ONTARIO,,,1,1
+AGT-hayden-e-w-m-d,"Hayden, E.W., M.D.",,staff,ONTARIO,,,1,1
+AGT-healy-joe,"Healy, Joe",,staff,,,,1,1
+AGT-helen-g-ogilvy,Helen G. Ogilvy,,staff,,,,3,3
+AGT-helen-g-russell,Helen G. Russell,,staff,,,,2,2
+AGT-helen-m-o-donahoe,Helen M. O'Donahoe,,staff,,,,5,5
+AGT-henderson-j-c-m-d,"Henderson, J.C., M.D.",,staff,,,,1,2
+AGT-henry-a-conroy,Henry A. Conroy,,staff,,,,1,1
+AGT-henry-c-ross,Henry C. Ross,,staff,,,,4,4
+AGT-henry-fabien,Henry Fabien,,staff,,,,1,1
+AGT-henry-hooper,Henry Hooper,,staff,,,,2,2
+AGT-henry-j-brook,Henry J. Brook,,staff,,,,1,1
+AGT-hepworth-w-g-m-d,"Hepworth, W.G., M.D.",,staff,,,,1,1
+AGT-herbert-n-awrey,Herbert N. Awrey,,staff,,,,4,4
+AGT-hill-david-seymour,"Hill, David Seymour",,staff,ONTARIO,,,1,1
+AGT-hill-e-p,"Hill, E.P.",,staff,ONTARIO,,,1,1
+AGT-hill-h-m,"Hill, H.M.",,staff,ONTARIO,,,1,1
+AGT-hillier-e-g,"Hillier, E.G.",,staff,,,,3,3
+AGT-hiram-mckay,Hiram McKay,,staff,,,,4,4
+AGT-hodder-j-f,"Hodder, J.F.",,staff,ONTARIO,,,1,1
+AGT-hodgson-george,"Hodgson, George",,staff,,,,1,1
+AGT-hollies-j-h,"Hollies, J.H.",,staff,,,,1,1
+AGT-hon-clifford-sifton,Hon. Clifford Sifton,,staff,,,,1,1
+AGT-hon-frank-oliver,Hon. Frank Oliver,,staff,,,,3,3
+AGT-hope-h,"Hope, H.",,staff,,,,2,2
+AGT-hough-h-a-m-d,"Hough, H.A., M.D.",,staff,ONTARIO,,,1,1
+AGT-hourie-peter,"Hourie, Peter",,staff,,,,2,2
+AGT-hoyt-geo,"Hoyt, Geo",,staff,,,,1,1
+AGT-hugh-m-graham,Hugh M. Graham,,staff,,,,3,3
+AGT-hungry-hall-no-1,"Hungry Hall, No. 1",,staff,ONTARIO,,,4,67
+AGT-inglis-f-m-d,"Inglis, F., M.D.",,staff,,,,1,1
+AGT-ironside-alex-mcg,"Ironside, Alex. McG",,staff,ONTARIO,,,1,1
+AGT-irvine-e,"Irvine, E.",,staff,,,,1,1
+AGT-irving-r-a,"Irving, R.A.",,staff,,,,1,1
+AGT-isbester-g-b,"Isbester, G.B.",,staff,,,,2,2
+AGT-jackson-s-j,"Jackson, S.J.",,staff,,,,1,1
+AGT-jackson-t-e,"Jackson, T.E.",,staff,,,,2,2
+AGT-james-a-macrae,James A. Macrae,,staff,,,,1,1
+AGT-james-b-harkin,James B. Harkin,,staff,,,,2,2
+AGT-james-guthrie,James Guthrie,,staff,,,,3,3
+AGT-james-j-campbell,James J. Campbell,,staff,,,,4,4
+AGT-jamieson-a,"Jamieson, A.",,staff,ONTARIO,,,1,1
+AGT-jas-ansdell-macrae,Jas. Ansdell Macrae,,staff,ONTARIO,,,2,2
+AGT-jean-g-e,"Jean, G.E.",,staff,,,,1,1
+AGT-jefferson-r,"Jefferson, R.",,staff,,,,3,3
+AGT-john-ackland,John Ackland,,staff,,,,4,4
+AGT-john-d-mclean,John D. McLean,,staff,,,,4,4
+AGT-john-d-sutherland,John D. Sutherland,,staff,,,,3,3
+AGT-john-mcgirr,John McGirr,,staff,,,,4,4
+AGT-john-w-shore,John W. Shore,,staff,,,,4,4
+AGT-johnson-c-j,"Johnson, C.J.",,staff,,,,4,4
+AGT-johnston-j-m-d,"Johnston, J., M.D.",,staff,ONTARIO,,,1,1
+AGT-jones-a-e,"Jones, A.E.",,staff,,,,3,3
+AGT-jones-c-m-m-d,"Jones, C.M., M.d.",,staff,,,,1,1
+AGT-jones-f-j,"Jones, F.J.",,staff,,,,1,1
+AGT-jones-o-m-m-d,"Jones, O.M., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-joseph-delisle,Joseph Delisle,,staff,,,,3,3
+AGT-joseph-g-ramsden,Joseph G. Ramsden,,staff,,,,1,1
+AGT-jowett-j-w,"Jowett, J.W.",,staff,,,,3,3
+AGT-kavanagh-t-f-m-d,"Kavanagh, T.F., M.D.",,staff,,,,1,1
+AGT-kennedy-g-b-m-d,"Kennedy, G.B., M.D.",,staff,,,,1,1
+AGT-kent-h-v-m-d,"Kent, H.V., M.D.",,staff,,,,1,1
+AGT-kergin-w-t-m-d,"Kergin, W.T., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-king-a-a-m-d,"King, A.A., M.D.",,staff,,,,1,1
+AGT-king-wallace-g-m-d,"King, Wallace G., M.D.",,staff,,,,1,1
+AGT-kinnaar-m,"Kinnaar, M.",,staff,,,,1,1
+AGT-l-heureux-m,"L'Heureux, M.",,staff,,,,1,1
+AGT-hon-david-laird,"Laird, Hon. David",,staff,,,,2,2
+AGT-langlois-e,"Langlois, E.",,staff,,,,2,2
+AGT-large-r-w-m-d,"Large, R.W., M.D.",,staff,BRITISH COLUMBIA,,,2,2
+AGT-lash-j-b,"Lash, J.B.",,staff,,,,1,1
+AGT-laycock-j-l,"Laycock, J.L.",,staff,,,,2,2
+AGT-lazier-d-b-m-d,"Lazier, D.B., M.D.",,staff,,,,1,1
+AGT-leger-j-a-m-d,"Leger, J.A., M.D.",,staff,,,,1,1
+AGT-lepine-maxime,"Lepine, Maxime",,staff,,,,1,1
+AGT-levesque-l-j-a,"Levesque, L.J.A.",,staff,,,,1,1
+AGT-levi-wm-p,"Levi, Wm. P.",,staff,,,,1,1
+AGT-lewis-j-o,"Lewis, J.O.",,staff,,,,2,2
+AGT-lillie-m-whitten,Lillie M. Whitten,,staff,,,,3,3
+AGT-lizzie-d-mcmeekin,Lizzie D. McMeekin,,staff,,,,1,1
+AGT-logan-robt,"Logan, Robt.",,staff,,,,1,1
+AGT-long-sault-no-1,"Long Sault, No. 1",,staff,ONTARIO,,,4,71
+AGT-long-george,"Long, George",,staff,QUEBEC,,,1,1
+AGT-loring-r-e,"Loring, R.E.",,staff,,,,1,1
+AGT-lottie-craig,Lottie Craig,,staff,,,,1,1
+AGT-louisa-e-dale,Louisa E. Dale,,staff,,,,2,2
+AGT-lucas-t-w,"Lucas, T.W.",,staff,,,,3,3
+AGT-lynch-d-j,"Lynch, D.J.",,staff,ONTARIO,,,1,1
+AGT-macarthur-jas,"Macarthur, Jas.",,staff,,,,3,3
+AGT-macdonald-d-f,"Macdonald, D.F.",,staff,ONTARIO,,,1,1
+AGT-macdonald-r-c,"Macdonald, R.C.",,staff,,,,1,1
+AGT-maclean-william-brown,"Maclean, William Brown",,staff,ONTARIO,,,1,1
+AGT-manitou-rapids-no-1,"Manitou Rapids, No. 1",,staff,ONTARIO,,,4,72
+AGT-mann-b-m,"Mann, B.M.",,staff,,,,3,3
+AGT-mann-g-g,"Mann, G.G.",,staff,,,,3,3
+AGT-maracle-frederick-r,Maracle Frederick R.,,staff,,,,1,1
+AGT-margaret-h-brennan,Margaret H. Brennan,,staff,,,,5,5
+AGT-marianne-t-macgillis,Marianne T. MacGillis,,staff,,,,2,2
+AGT-marion-louis,"Marion, Louis",,staff,,,,3,3
+AGT-markle-j-a,"Markle, J.A.",,staff,,,,2,2
+AGT-marllat-samuel-r,"Marllat, Samuel R.",,staff,,,,2,2
+AGT-martha-j-back,Martha J. Back,,staff,,,,1,1
+AGT-martin-benson,Martin Benson,,staff,,,,3,3
+AGT-mary-d-maxwell,Mary D. Maxwell,,staff,,,,4,4
+AGT-maud-m-mcintosh,Maud M. McIntosh,,staff,,,,4,4
+AGT-mayfield-w,"Mayfield, W.",,staff,,,,2,2
+AGT-mcallen-wm-j,"McAllen, Wm. J",,staff,,,,1,1
+AGT-mccaig-a-s-m-d,"McCaig, A.S., M.D.",,staff,ONTARIO,,,1,1
+AGT-mcdonald-alex-r,"McDonald, Alex. R.",,staff,ONTARIO,,,2,2
+AGT-mcdonald-d-j-m-d,"McDonald, D.J., M.D.",,staff,,,,1,1
+AGT-mcdonald-j-f,"McDonald, J.F.",,staff,,,,1,1
+AGT-mcdonald-m-h-m-d,"McDonald, M.H., M.D.",,staff,,,,1,1
+AGT-mcdonald-r-m-d,"McDonald, R., M.D.",,staff,ONTARIO,,,1,1
+AGT-mcdonald-r-c,"McDonald, R.C.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-mcdougall-neil,"McDougall, Neil",,staff,ONTARIO,,,1,1
+AGT-mcdougall-j-b,"McDougall, W.J.",,staff,ONTARIO,,,2,2
+AGT-mcewen-james-m-d,"McEwen, James, M.D.",,staff,ONTARIO,,,1,1
+AGT-mcewen-m-d-m-d,"McEwen, M.D., M.D.",,staff,,,,1,1
+AGT-mcfarlane-william,"McFarlane, William",,staff,ONTARIO,,,2,2
+AGT-mcgarry-p-a-m-d,"McGarry, P.A., M.D.",,staff,,,,1,1
+AGT-mcgibbon-alex,"McGibbon, Alex",,staff,,,,1,1
+AGT-mcgibbon-charles,"McGibbon, Charles",,staff,ONTARIO,,,2,2
+AGT-mcgrady-j-m-d,"McGrady, J., M.D.",,staff,ONTARIO,,,1,1
+AGT-mcintosh-j-w-m-d,"McIntosh, J.W., M.D.",,staff,ONTARIO,,,1,1
+AGT-mciver-john,"McIver, John",,staff,ONTARIO,,,2,2
+AGT-mckay-a-j,"McKay, A.J.",,staff,,,,1,1
+AGT-mckenna-j-a-j,"McKenna, J.A.J.",,staff,,,,1,1
+AGT-mckenzie-j-d-m-d,"McKenzie, J.D., M.D.",,staff,,,,1,1
+AGT-mckenzie-john,"McKenzie, John",,staff,,,,2,2
+AGT-mckenzie-r-s,"McKenzie, R.S.",,staff,,,,3,3
+AGT-mckinnon-w-f-m-d,"McKinnon, W.F., M.D.",,staff,,,,1,1
+AGT-mclean-charles-m-d,"McLean, Charles, M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-mclean-chas-m-d,"McLean, Chas, M.D.",,staff,,,,1,1
+AGT-mclean-john-m-d,"McLean, John, M.D.",,staff,ONTARIO,,,1,1
+AGT-mcleod-s-mcallister,McLeod S. McAllister,,staff,,,,4,4
+AGT-mcloy-j,"McLoy, J.",,staff,,,,2,2
+AGT-mcnaughton-j-c-m-d,"McNaughton, J.C., M.D.",,staff,,,,1,1
+AGT-mcneill-alex-j,"McNeill, Alex J.",,staff,,,,1,1
+AGT-mcphail-d-p-m-d,"McPhail, D.P., M.D.",,staff,ONTARIO,,,1,1
+AGT-mcphee-duncan-j,"McPhee, Duncan J.",,staff,ONTARIO,,,2,2
+AGT-michaud-j-n-m-d,"Michaud, J.N., M.D.",,staff,,,,1,1
+AGT-millar-m,"Millar, M.",,staff,,,,2,2
+AGT-millard-h-p-m-d,"Millard, H.P, M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-miller-f-c,"Miller, F.C.",,staff,,,,3,3
+AGT-miller-s-n-m-d,"Miller, S.N., M.D.",,staff,,,,1,1
+AGT-mills-d,"Mills, D.",,staff,,,,2,2
+AGT-mississaguas-new-credit,"Mississaguas, New Credit",,staff,ONTARIO,,,2,8
+AGT-mitchell-f-h-m-d,"Mitchell, F.H., M.D.",,staff,ONTARIO,,,1,1
+AGT-moore-d-p-m-d,"Moore, D.P., M.D.",,staff,ONTARIO,,,1,1
+AGT-moore-j,"Moore, J.",,staff,,,,1,1
+AGT-morgan-a-d-m-d,"Morgan, A.D., M.D.",,staff,BRITISH COLUMBIA,,,2,2
+AGT-morin-p-c,"Morin, P.C.",,staff,,,,2,2
+AGT-morris-c-h-m-d,"Morris, C.H., M.D.",,staff,,,,1,1
+AGT-morrow-g-w,"Morrow, G.W.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-morton-a-mcd-m-d,"Morton, A.McD., M.D.",,staff,,,,1,1
+AGT-mrs-a-turner,Mrs. A. Turner,,staff,,,,1,1
+AGT-mrs-caroline-parenteau,Mrs. Caroline Parenteau,,staff,,,,1,1
+AGT-mrs-edith-morrison,Mrs. Edith Morrison,,staff,,,,1,1
+AGT-mrs-maria-beecham,Mrs. Maria Beecham,,staff,,,,1,1
+AGT-mrs-sophie-polsen,Mrs. Sophie Polsen,,staff,,,,1,1
+AGT-mrs-wm-watt-parisien,Mrs. Wm. Watt Parisien,,staff,,,,1,1
+AGT-muirhead-a,"Muirhead, A.",,staff,,,,2,2
+AGT-mulligan-b-m-m-d,"Mulligan, B.M., M.D.",,staff,,,,1,1
+AGT-mullin-m,"Mullin, M.",,staff,ONTARIO,,,1,1
+AGT-mullin-martin,"Mullin, Martin",,staff,ONTARIO,,,1,1
+AGT-narvie-wm,"Narvie, Wm",,staff,,,,1,1
+AGT-neilson-r-w,"Neilson, R.W.",,staff,ONTARIO,,,1,1
+AGT-nichol-h,"Nichol, H.",,staff,,,,2,2
+AGT-nichols-w-l,"Nichols, W.L.",,staff,ONTARIO,,,2,2
+AGT-nisbet-william,"Nisbet, William",,staff,ONTARIO,,,1,1
+AGT-noble-c-t-m-d,"Noble, C.T., M.D.",,staff,ONTARIO,,,1,1
+AGT-nolan-a,"Nolan, A.",,staff,,,,1,1
+AGT-north-h,"North, H.",,staff,,,,1,1
+AGT-o-connell-tom,"O'Connell, Tom",,staff,,,,1,1
+AGT-o-malley-winnifred,"O'Malley, Winnifred",,staff,,,,1,1
+AGT-odgen-isaac,"Odgen, Isaac",,staff,,,,1,1
+AGT-offerhans-e-j-m-d,"Offerhans, E.J., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-oliver-h,"Oliver, H.",,staff,,,,1,1
+AGT-onespot-john,"Onespot, John",,staff,,,,1,1
+AGT-p-h-bryce-m-d,"P.H. Bryce, M.D.",,staff,,,,1,1
+AGT-passmore-w-j-m-d,"Passmore, W.J., M.D.",,staff,ONTARIO,,,1,1
+AGT-patterson-f-p-m-d,"Patterson, F.P., M.D.",,staff,,,,1,1
+AGT-pattison-a-e,"Pattison, A.E.",,staff,,,,3,3
+AGT-paul-louis-p,"Paul, Louis P.",,staff,,,,1,1
+AGT-peake-j-h-m-d,"Peake, J.H., M.D.",,staff,,,,1,1
+AGT-perry-a-w,"Perry, A.W.",,staff,,,,3,3
+AGT-perry-chas-c,"Perry, Chas. C.",,staff,,,,1,1
+AGT-peter-joseph-o-connor,Peter Joseph O'Connor,,staff,,,,3,3
+AGT-phillipson-a-j-m-d,"Phillipson, A.J., M.D.",,staff,,,,1,1
+AGT-pratt-r,"Pratt, R.",,staff,,,,1,1
+AGT-pratt-rupert,"Pratt, Rupert",,staff,,,,1,1
+AGT-price-jos-h,"Price, Jos. H.",,staff,,,,3,3
+AGT-printing-stationery-c,"Printing, Stationery, & c.",,staff,,,,1,1
+AGT-proctor-e-l-m-d,"Proctor, E.L., M.D.",,staff,ONTARIO,,,1,1
+AGT-prosper-jas,"Prosper, Jas",,staff,,,,1,1
+AGT-race-g-h,"Race, G.H.",,staff,,,,3,3
+AGT-ramsden-j-g,"Ramsden, J.G.",,staff,ONTARIO,,,1,1
+AGT-reginald-rimmer,Reginald Rimmer,,staff,,,,1,1
+AGT-reid-j-lestock-sr,"Reid, J. Lestock, Sr.",,staff,,,,1,1
+AGT-renjamin-hayter,Renjamin Hayter,,staff,,,,1,1
+AGT-rice-f-e-m-d,"Rice, F.E., M.D.",,staff,,,,1,1
+AGT-richardson-h,Richardson H.,,staff,,,,1,1
+AGT-robert-b-e-moffat,Robert B.E. Moffat,,staff,,,,4,4
+AGT-robert-g-dalton,Robert G. Dalton,,staff,,,,1,1
+AGT-robert-m-ogilvie,Robert M. Ogilvie,,staff,,,,3,3
+AGT-robert-pringle,Robert Pringle,,staff,,,,4,4
+AGT-robertson-catherine,"Robertson, Catherine",,staff,,,,1,1
+AGT-robertson-w-r,"Robertson, W.R.",,staff,BRITISH COLUMBIA,,,2,2
+AGT-robson-m,"Robson, M.",,staff,,,,1,1
+AGT-rolston-p-w-m-d,"Rolston, P.W., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-ross-stuart-a-m-d,"Ross, Stuart A., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-round-h-b,"Round, H.B.",,staff,,,,1,1
+AGT-ryan-rev-f-c,"Ryan, Rev. F.C.",,staff,,,,1,1
+AGT-ryan-rev-j-j,"Ryan, Rev. J.J.",,staff,NEW BRUNSWICK,,,1,1
+AGT-samuel-bray-d-l-s,"Samuel Bray, D.L.S.",,staff,,,,3,3
+AGT-samuel-stewart,Samuel Stewart,,staff,,,,4,4
+AGT-sanderson-j-g,"Sanderson, J.G.",,staff,,,,1,1
+AGT-sarah-e-whitehead,Sarah E. Whitehead,,staff,,,,2,2
+AGT-sarah-m-o-gready,Sarah M. O'Grady,,staff,,,,5,5
+AGT-saywell-g-f,"Saywell, G.F.",,staff,,,,1,1
+AGT-schmidt-e,"Schmidt, E.",,staff,,,,1,1
+AGT-scoffield-john,"Scoffield, John",,staff,ONTARIO,,,2,2
+AGT-secord-levi-m-d,"Secord, Levi, M.D.",,staff,ONTARIO,,,1,1
+AGT-selwyn-e-sangster,Selwyn E. Sangster,,staff,,,,5,5
+AGT-semmens-rev-john,"Semmens, Rev. John",,staff,,,,2,2
+AGT-settee-j-r,"Settee, J.R.",,staff,,,,2,2
+AGT-shaw-j-m-m-d,"Shaw, J.M., M.D.",,staff,ONTARIO,,,1,1
+AGT-shoal-lake-no-39,"Shoal Lake, No. 39",,staff,ONTARIO,,,4,66
+AGT-sibbald-h-e,"Sibbald, H.E.",,staff,,,,1,1
+AGT-sibbald-w,"Sibbald, W.",,staff,,,,3,3
+AGT-sidney-wm-hobart,Sidney Wm. Hobart,,staff,,,,2,2
+AGT-simpson-w-s,"Simpson, W.S.",,staff,,,,1,1
+AGT-sims-c-l-d,"Sims, C.L.D.",,staff,ONTARIO,,,2,2
+AGT-sims-h-s,"Sims, H.S.",,staff,ONTARIO,,,1,1
+AGT-sinclair-c,"Sinclair, C.",,staff,,,,1,1
+AGT-singoosh-john,"Singoosh, John",,staff,,,,2,2
+AGT-sister-st-eusebe,Sister St. Eusèbe,,staff,,,,2,2
+AGT-slater-t-j,"Slater, T.J.",,staff,,,,3,3
+AGT-smith-i,"Smith, I.",,staff,,,,3,3
+AGT-smith-n-j,"Smith, N.J.",,staff,,,,1,1
+AGT-smith-robt-h,"Smith, Robt. H.",,staff,,,,1,1
+AGT-smith-w-b,"Smith, W.B.",,staff,,,,1,1
+AGT-southwestern-carleton-charlotte,"Southwestern Division: - Carleton, Charlotte,",,staff,NEW BRUNSWICK,,,1,2
+AGT-sparrow-c-j-m-d,"Sparrow, C.J., M.D.",,staff,,,,1,2
+AGT-spencer-j-c-m-d,"Spencer, J.C., M.D.",,staff,,,,1,1
+AGT-sprague-t-f-m-d,"Sprague, T.F., M.D.",,staff,,,,1,1
+AGT-stephens-jos,"Stephens, Jos",,staff,,,,1,1
+AGT-stewart-j-a,"Stewart, J.A.",,staff,,,,1,1
+AGT-stuart-a-j-m-d,"Stuart, A.J., M.D.",,staff,,,,1,1
+AGT-suffern-a,"Suffern, A.",,staff,,,,2,2
+AGT-susan-desjarlais,Susan Desjarlais,,staff,,,,1,1
+AGT-sutherland-j-a,"Sutherland, J.A.",,staff,,,,2,2
+AGT-sutherland-s,"Sutherland, S.",,staff,ONTARIO,,,1,1
+AGT-swasson-john,"Swasson, John",,staff,,,,1,1
+AGT-swinford-s,"Swinford, S.",,staff,,,,1,1
+AGT-sykes-watson-m-d,"Sykes, Watson, M.D.",,staff,,,,1,1
+AGT-tait-robt-m-d,"Tait, Robt., M.D.",,staff,,,,1,1
+AGT-taylor-joseph,"Taylor, Joseph",,staff,,,,3,3
+AGT-teed-j-e-m-d,"Teed, J.E., M.D.",,staff,,,,1,1
+AGT-telfer-j-s,"Telfer, J.S.",,staff,,,,1,1
+AGT-thackeray-john,"Thackeray, John",,staff,ONTARIO,,,1,1
+AGT-thompson-a-g-m-d,"Thompson, A.G., M.D.",,staff,,,,1,1
+AGT-thorburn-r,"Thorburn, R.",,staff,ONTARIO,,,1,1
+AGT-thornton-l-e,"Thornton, L.E.",,staff,,,,1,1
+AGT-thorson-jos,"Thorson, Jos.",,staff,,,,1,1
+AGT-thos-p-moffatt,Thos. P. Moffatt,,staff,,,,3,3
+AGT-tompkins-a,"Tompkins, A.",,staff,,,,2,3
+AGT-traynor-s-m-d,"Traynor, S., M.D.",,staff,,,,1,1
+AGT-tucker-chas-m-d,"Tucker, Chas., M.D.",,staff,,,,1,1
+AGT-tucker-geo,"Tucker, Geo.",,staff,,,,2,2
+AGT-tucker-w-r,"Tucker, W.R.",,staff,,,,1,1
+AGT-turner-l-e,"Turner, L.E.",,staff,,,,3,3
+AGT-tutil-g-h-m-d,"Tutil, G.H., M.D.",,staff,,,,1,1
+AGT-tutill-g-w-m-d,"Tutill, G.W., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-tye-a-w,"Tye, A.W.",,staff,,,,2,2
+AGT-tyson-a-m,"Tyson, A.M.",,staff,,,,1,1
+AGT-venne-w,"Venne, W.",,staff,,,,1,1
+AGT-verreau-urbain,"Verreau, Urbain",,staff,,,,2,2
+AGT-vilbrun-d,"Vilbrun, D.",,staff,,,,2,2
+AGT-vivier-w,"Vivier, W.",,staff,,,,1,1
+AGT-wade-m-s-m-d,"Wade, M.S., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-waite-s-p,"Waite, S.P.",,staff,,,,1,1
+AGT-wallace-alonzo,"Wallace, Alonzo",,staff,,,,1,1
+AGT-warden-jas,"Warden, Jas.",,staff,,,,1,1
+AGT-watson-robt-w,"Watson, Robt. W.",,staff,,,,1,1
+AGT-watt-hugh-m-d,"Watt, Hugh, M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-webb-j-a,"Webb, J.A.",,staff,,,,3,3
+AGT-wheatley-g-h,"Wheatley, G.H.",,staff,,,,3,3
+AGT-white-elk-arthur,"White Elk, Arthur",,staff,,,,1,1
+AGT-white-fish,White Fish,,staff,,,,1,1
+AGT-white-r-b-m-d,"White, R.B., M.D.",,staff,BRITISH COLUMBIA,,,2,2
+AGT-whitehouse-e-c-m-d,"Whitehouse, E.C., M.D.",,staff,,,,1,1
+AGT-whitford-miss-m,"Whitford, Miss M.",,staff,,,,1,1
+AGT-whitford-s,"Whitford, S.",,staff,,,,2,2
+AGT-wickenson-a-j,"Wickenson, A.J.",,staff,,,,1,1
+AGT-william-a-orr,William A. Orr,,staff,,,,3,3
+AGT-william-seale,William Seale,,staff,,,,4,4
+AGT-williams-albert-w,"Williams, Albert W.",,staff,ONTARIO,,,1,1
+AGT-williams-c-m-d,"Williams, C., M.D.",,staff,,,,1,1
+AGT-williams-e-0,"Williams, E.0.",,staff,,,,2,2
+AGT-williams-g-m-d,"Williams, G., M.D.",,staff,BRITISH COLUMBIA,,,1,1
+AGT-williams-r-w-m-d,"Williams, R.W., M.D.",,staff,ONTARIO,,,1,1
+AGT-willing-f-n-m-d,"Willing, F.N., M.D.",,staff,,,,1,1
+AGT-willis-d,"Willis, D.",,staff,,,,1,1
+AGT-wilson-r-n,"Wilson, R.N.",,staff,,,,3,3
+AGT-wilson-t-a-m-d,"Wilson, T.A., M.D.",,staff,BRITISH COLUMBIA,,,2,2
+AGT-winder-g-d,"Winder, G.D.",,staff,,,,3,3
+AGT-withers-russell-m-d,"Withers, Russell, M.D.",,staff,,,,1,1
+AGT-win-edwin-allan,Wm. Edwin Allan,,staff,,,,4,4
+AGT-workman-w-m-d,"Workman, W., M.D.",,staff,ONTARIO,,,1,1
+AGT-wright-j-h-m-d,"Wright, J.H., M.D.",,staff,,,,1,1
+AGT-wright-j-p,"Wright, J.P.",,staff,,,,2,2
+AGT-wrinch-h-c-m-d,"Wrinch, H.C., M.D.",,staff,BRITISH COLUMBIA,,,2,2
+AGT-yates-john,"Yates, John",,staff,ONTARIO,,,1,1
+AGT-yeomans-e-h,"Yeomans, E.H.",,staff,,,,4,4

@@ -1,0 +1,77 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 4: LIVE STOCK AND POULTRY: GENERAL EFFECTS
+
+Agencies.      Horses.                  Cattle.                             Poultry General Effects.
+                                                 Steers                             Motor Row      Rifles
+                          Geldings
+                                                 and Milch Young Other              and Boats and Steel
+...            Stallions. and      Foals. Bulls.                          ...                                  Nets. Tents.
+                                                 Work Cows. Stock. Stock.           Sail and       Shot Traps.
+                          Mares.
+                                                 Oxen.                              Boats. Canoes. Guns.
+ALBERTA.       ...       ...      ...   ...       ...   ...   ...     ...   ...     ...    ...         ...   ...     ...   ...
+Blackfoot      ...       1,150    ...   30        ...   400   760     ...   50      ...    5           85    100     ...   150
+Blood          7         3,678    150   30        774   544   1,270   ...   150     ...    1           40    300     ...   300
+Edmonton       3         316      4     6         42    161   157     76    775     ...    19          183   1,670   52    97
+Hobbema        ...       817      107   ...       95    165   193     87    551     ...    1           158   1,029   39    118
+Lesser Slave
+               ...       886      ...   6         17    99    102     ...   ...     ...    199         473   2,382 306     386
+Lake
+Peigan      3            978      ...   25        ...   ...   ...     1,310 ...     ...    ...         36    94      ...   78
+Saddle Lake 2            557      ...   1         83    286 308       71    575     ...    76          186 2,056     200   139
+Sarcee      ...          450      50    ...       37    133 290       ...   50      ...    ...         15    50      ...   65
+Stony       10           840      60    ...       ...   76    204     ...   ...     ...    ...         162 1,000     ...   200
+Total       25           9,672    371   98        1,048 1,864 3,284   1,544 2,151   ...    301         1,338 8,681   597   1,533
+BRITISH
+            ...          ...      ...   ...       ...   ...   ...     ...   ...     ...    ...         ...   ...     ...   ...
+COLUMBIA.
+Babine and
+             10          600      60    5         4     210   150     15    25      15     230         940   8,950 200     150
+Upper Skeena
+Bella Coola    6
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+     70    482 882       40    1,130 ...      77          272 3,175 154      181
+Crooked Lake      ...       309      42    7         47    250 349       75    550    ...     ...         145 98       11    162
+Duck Lake         1         518      ...   ...       146   352 563       54    624    ...     16          185 2,012 13       122
+File Hills Agency 1         118      6     ...       16    101 152       ...   550    ...     ...         52    100    ...   34
+File Hills Colony 1         171      18    1         27    117 151       ...   200    ...     ...         33    60     ...   ...
+Moose Mountain    1         170      10    3         45    130 70        ...   200    ...     ...         100 175      50    60
+Moose Woods       1         80       9     2         35    90    135     ...   175    ...     4           20    150    1     15
+Onion Lake        ...       430      75    1         65    266 321       ...   1,150 ...      47          270 3,900 132      164
+Pelly             ...       234      ...   8         94    208 99        ...   410    ...     ...         154 2,170 ...      105
+Qu'Appelle        ...       485      ...   8         95    299 149       13    115    ...     ...         115 740      24    144
+Touchwood         9         552      57    15        57    287 396       14    545    ...     ...         134 5,020 4        147
+Total             23        4,833    248   86        747   3,103 3,892   391 5,870 ...        164         1,738 20,840 527   1,353
+
+
+
+=== EXTRACT FROM HERE (pages 62-63) ===
+<!-- page 62 -->
+RECAPITULATION
+
+Agencies.   Horses.                  Cattle.                             Poultry General Effects.
+                                              Steers                             Motor Row      Rifles
+                       Geldings
+                                              and Milch Young Other              and Boats and         Steel
+...         Stallions. and      Foals. Bulls.                          ...                                        Nets.   Tents.
+                                              Work Cows. Stock. Stock.           Sail and       Shot Traps.
+                       Mares.
+                                              Oxen.                              Boats. Canoes. Guns.
+Alberta     25        9,672    371   98        1,048 1,864 3,284 1,544 2,151     ...    301         1,338 8,681   597     1,533
+British
+            311       10,731   1,857 263       2,166 5,266 4,312 6,081 30,888 1,172 3,969           6,779 36,646 1,761 2,888
+Columbia
+Manitoba    33        1,520    110   58        461   969    1,034 265    3,875   70     2,322       3,152 21,256 5,733 2,184
+New
+            ...       50       4     4         8     46     40    14     400     30     118         259   1,150   250     69
+Brunswick
+Nova Scotia ...       68       10    7         26    111    111    96     1,123 22      110         326    1,337 72       41
+Ontario      63       3,682    624 139         777 3,159 2,640 4,172 60,777 466 2,399               3,896 50,192 2,795 1,345
+P.E.I        ...      11       1     ...       2     13     12     ...    76      7     15          25     50      20     ...
+Quebec       12       838      188 240         205 1,528 787       1,453 12,293 32      955         1,812 25,827 510      761
+Saskatchewan 23       4,833    248 86          747 3,103 3,892 391        5,870 ...     164         1,738 20,840 527      1,353
+Total        467      31,405   3,413 895       5,440 16,059 16,112 14,016 117,454 1,799 10,353      19,325 165,979 12,265 10,174
+
+<!-- page 63 -->

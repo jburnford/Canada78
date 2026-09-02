@@ -1,0 +1,302 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 637 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+POPULATION.
+                                                                                                                 Post Office
+Province,        Name of        Resident                 From 6 to 15  From 16 to 20 From 21 to 65
+                                            Under 6                                                From 65 years Address of
+Agency or        Superintendent Indian                   Yrs.,         Yrs.,         Yrs.,
+                                            Years.                                                 Upwards.      Superintendent
+Band.            or Agent.      Population.              Inclusive.    Inclusive.    Inclusive.
+                                                                                                                 or Agent
+...              ...            ...        Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...            ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+ONTARIO
+Grand River
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,703       214   261     385   359      186   143    1,008 978     83    86      Brantford.
+                 Supt
+Missisaguas,     Hugh Stewart,
+                               244         16    5       40    17       10    8      63    72      5     8       Hagersville.
+New Credit       Agent
+                Alex.
+Walpole Island McKelvey         822        54    67      95    97       32    40     225   212     ...   ...     Wallaceburg.
+                Agent
+Western
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 Adam,
+1st Division                    (*)468     24    41      38    34       30    15     125   120     10    9       Sarnia.
+                 English, Agent
+                 A.S.
+2nd Division     McDougall      1,353      81    79      156   128      72    67     392   319     32    27      Melbourne
+                 Agent
+                 John Beattie
+3rd Division                    302        29    23      35    35       11    10     81    76      2     ...     Highgate.
+                 Agent
+Northern
+Superintendency ...             ...        ..
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+   ...   ...     ...   ...     ...   ...    ...   ...     ...   ...
+             Agent                                                                                          not given
+River Agency
+...           Totals          22,498   1,554 1,500   1,513 1,375   885   861    5,559 5,528   425   515     ...
+
+              ...             ...      ...   ...     ...   ...     ...   ...    ...   ...     ...   ...     ...
+MANITOBA.
+Clandeboye    E. McColl,
+                              1,748    168   171     200   181     62    64     414   406     30    52      ...
+Agency        Inspector
+Portage la    Francis
+Prairie       Ogletree,       509      46    44      49    45      30    15     111   127     16    26      ...
+Agency        Agent
+Manitowapah   H. Martineau
+                              976      132   130     71    72      63    47     201   217     23    20      ...
+Agency        Agent
+Rat Portage   R.J.N. Pither
+                              51       1     4       6     8       3     6      10    13      ...   ...     ...
+Agency        Agent
+Berens River E. McColl,
+                              2,147    229   232     249   211     138   115    428   279     20    46      ...
+Agency       Inspector
+The Pas       Joseph
+                              1,110    114   109     148   134     49    21     221   258     19    37      ...
+
+<!-- page 730 -->
+Agency   Reader, Agent
+...      Totals        6,541   690   690   723   651   345   268   1,385 1,500   108   181   ...
+
+
+
+=== EXTRACT FROM HERE (pages 731-735) ===
+<!-- page 731 -->
+RELIGION AND PROPERTY
+Province,  Name of        Resident
+Agency or  Superintendent Indian      RELIGION.                                                   REALTY.                                                                      Remarks.
+Band.      or Agent.      Population.
+...        ...            ...         ...    ...            ...        ...       ...      ...     Land.                 Public Buildings, the Property of the Band.            ...
+                                                                                                  Cleared, Cultivated,
+                                                                                  Other
+                                                                        Roman                     including including             Council School Driving Other
+...          ...            ...      Anglican. Presbyterian. Methodist.           Christian Pagan                       Churches.                                    Ferries. ...
+                                                                        Catholic.                 Natural    made                 Houses. Houses. Houses. Buildings.
+                                                                                  Beliefs
+                                                                                                  Pasturage. Pasturage.
+
+BRITISH   ...               ...      ...       ...          ...        ...       ...      ...     ...       ...         ...       ...      ...      ...      ...       ...     ...
+COLUMBIA.
+Cowichan  W.H. Lomas,
+                            2,011    20        ...          158        1,833     ...      ...     5,451     2,921       5         ...      5        ...      6         ...     ...
+Agency    Agent
+West Coast   Harry Guillod
+                           2,691     ...       164          30         1,342     ...      1,155 114         ...         ...       ...      ...      ...      ...       ...     ...
+Agency       Agent
+Kwawkewlth R.H. Pidcock
+                            1,605    729       ...          117        102       ...      657     270       12 1/2      2         ...      6        ...      ...       ...     ...
+Agency     Agent
+Lower Fraser Frank Devlin
+                            3,185    94        ...          151        2,762     ...      178     4,195     3,684       40        ...      ...      ...      ...       ...     ...
+Agency       Agent
+Williams    Ewen Bell
+                            1,884    32        ...          ...        1,852     ...      ...     56,900    1,265       19        ...      ...      ...      ...       ...     ...
+Lake Agency Agent
+             Jas. B.
+Kamloops
+             Leighton       2,979    1,577     ...          ...        1,402     ...      ...     92,552    1,533       24        3        ...      ...      ...       ...     ...
+Agency
+             Agent
+             Jas. B.
+Okanagan
+             Leighton       754      ...       ...          ...        753       ...      1      119,570    1,057       9         1        ...      ...      ...       ...     ...
+Agency
+             Agent
+             R.L.T.
+Kootenay
+             Galbraith      558      ...       ...          ...        558       ...      ...    39,171     570         3         ...      1        ...      ...       ...     ...
+Agency
+             Agent
+North-west   Chas. Todd
+                            4,048    1,149     ...          2,039      ...       ...      860    482        165         19        5        16       1        10        ...     ...
+Coast Agency Agent
+Babine and                                                                                      No
+             R.E. Loring
+Upper Skeena                2,783    430       ...          175        1,712     ...      466   returns     ...         ...       ...      ...      ...      ...       ...     ...
+             Agent
+River Agency                                                                                    received
+...          Totals         22,498   4,031     164          2,670      12,316   ...       3,317 318,705     11,207 1/2 121        9        28       1        16        ...     ...
+
+             ...            ...      ...       ...          ...        ...      ...       ...    ...        ...         ...       ...      ...      ...      ...      ...      ...
+MANITOBA.
+Clandeboye   E. McColl,
+                            1,748    1,204     ...          ...        416      42        86     42,394     885         ...       ...      8        ...      ...      2        ...
+Agency       Inspector
+Portage la  Francis
+Prairie     Ogletree,       509      1         ...          ...        74       ...       434    28,776     490         1         ...      1        ...      1        ...      ...
+Agency      Agent
+Manotowapah H. Martineau
+                            976      348       ...          ...        430      87        111    38,408     254         5         1        9        7        12       ...      ...
+Agency      Agent
+
+<!-- page 732 -->
+Rat Portage   R.J.N. Pither
+                              51      ...     ...     ...     ...     ...   51     ...       3           ...   ...   ...   ...   ...   ...   ...
+Agency        Agent
+Berens River E. McColl,
+                              2,147   152     1,595   64      ...     336   18,556 296 1/4   ...         ...   9     ...   ...   ...   ...   ...
+Agency       Inspector
+The Pas       Joseph
+                            1,110     985     ...     ...     16      16    93     2,550     56          ...   1     4     ...   ...   ...   ...
+Agency        Reader, Agent
+...           Totals          6,541   2,690   ...     1,595   1,000   145   1,111 130,684    1,984 1/4   6     2     31    7     13    2     ...
+
+<!-- page 733 -->
+Province,     Name of
+Agency or     Superintendent PRIVATE FENCING AND BUILDINGS.                                                                                                      Remarks.
+Band.         or Agent.
+                              Acres Dwelling, Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle Pig Store           Root    Milk    Corn
+...           ...                                                              Shanties. Barns.                                                                 ...
+                              Fenced. Stone.  Brick.     Frame.     Log.                        Stables. Houses. Stables. Sties. Houses. Houses. Houses. Cribs.
+
+BRITISH   ...                 ...      ...      ...        ...        ...        ...       ...    ...     ...     ...      ...   ...     ...      ...     ...    ...
+COLUMBIA.
+Cowichan  W.H. Lomas,
+                              4,612    ...      ...        512        13         10        185    ...     ...     6        2     ...     ...      ...     ...    ...
+Agency    Agent
+West Coast    Harry Guillod
+                            43         ...      ...        263        ...        221       ...    ...     ...     ...      ...   ...     ...      ...     ...    ...
+Agency        Agent
+Kwawkewlth R.H. Pidcock
+                              12 1/2   ...      ...        54         2          182       1      ...     ...     ...      3     ...     ...      ...     ...    ...
+Agency     Agent
+Lower Fraser Frank Devlin
+                              3,677    ...      ...        764        72         342       306    291     2       275      99    17      34       1       ...    ...
+Agency       Agent
+Williams    Ewen Bell
+                              1,265    ...      ...        2          401        ...       ...    175     ...     ...      32    ...     20       ...     ...    ...
+Lake Agency Agent
+              Jas. B.
+Kamloops
+              Leighton        25,488 ...        ...        82         658        ...       21     433     ...     53       61    65      288      13      ...    ...
+Agency
+              Agent
+              Jas. B.
+Okanagan
+              Leighton        13,570 ...        ...        11         157        10        ...    137     ...     50       24    ...     67       2       ...    ...
+Agency
+              Agent
+             R.L.T.
+Kootenay
+             Galbraith        570      ...      ...        1          114        82        14     16      ...     11       ...   ...     21       ...     ...    ...
+Agency
+             Agent
+North-west   Chas. Todd
+                              126 1/2 ...       ...        740        21         121       13     6       ...     18       3     34      162      1       ...    ...
+Coast Agency Agent
+...           Totals          49,364 ...        ...        2,429      1,438      968       540    1,058   2       413      224   116     592      17      ...    ...
+
+              ...             ...      ...      ...        ...        ...        ...       ...    ...     ...     ...      ...   ...     ...      ...     ...    ...
+MANITOBA.
+Clandeboye    E. McColl,
+                              2,106    ...      ...        3          373        ...       ...    ...     ...     269      38    24      24       8       ...    ...
+Agency        Inspector
+Portage la  Francis
+Prairie     Ogletree,         490      ...      ...        ...        20         47        ...    15      ...     13       ...   2       ...      ...     ...    ...
+Agency      Agent
+Manotowapah H. Martineau
+                              254      ...      ...        ...        209        15        3      31      ...     164      7     21      ...      8       ...    ...
+Agency      Agent
+Rat Portage   R.N.J. Pither
+                              1        ...      ...        ...        3          10        ...    1       ...     ...      ...   ...     ...      ...     ...    ...
+Agency        Agent
+Berens River E. McColl,
+                              217 1/4 ...       ...        ...        294        ...       ...    ...     ...     119      4     111     233      2       ...    ...
+Agency       Inspector
+The Pas       Joseph
+                            41 1/2     ...      ...        ...        172        1         ...    1       ...     81       ...   38      3        ...     ...    ...
+Agency        Reader, Agent
+                            3,109
+...           Totals                   ...      ...        3          1,071      73        3      48      ...     646      49    196     260      18      ...    ...
+
+<!-- page 734 -->
+3/4
+
+<!-- page 735 -->
+PERSONALTY OF INDIANS
+ Province, Name of
+ Agency or Superintendent AGRICULTURAL IMPLEMENTS, VEHICLES, &c.                                                                                                                                        Remarks.
+ Band.     or Agent.
+                                                                                                                                                                                    Buggies Value of
+                                                                                                                                                         Sleighs Sleighs
+                                               Seed                 Land                      Horse Fanning Threshing Tool Other                                           Democrat and     Implements
+...           ...            Ploughs. Harrows.         Cultivators.          Mowers. Reapers.                                             Wagons. Carts. -        -                                    ...
+                                               Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                                  Wagons. Road     and
+                                                                                                                                                         Draught. Driving.
+                                                                                                                                                                                    Carts. Vehicles.
+
+BRITISH   ...                ...     ...       ...   ...         ...     ...      ...      ...    ...      ...       ...     ...         ...      ...   ...      ...      ...       ...     $ cts       ...
+COLUMBIA.
+Cowichan  W.H. Lomas,
+                             117     60        ...   ...         ...     9        1        4      ...      6         ...     1           84       7     20       20       19        70      10,215 00   ...
+Agency    Agent
+West Coast    Harry Guillod
+                            1        ...       ...   ...         ...     ...      ...      ...    ...      ...       ...     ...         ...      ...   ...      ...      ...       5       245 00      ...
+Agency        Agent
+Lower Fraser Frank Devlin
+                             111     96        1     1           ...     19       3        ...    ...      2         ...     1,920       89       5     9        4        1         ...     12,850 00   ...
+Agency       Agent
+Williams    Ewen Bell
+                             111     43        ...   ...         28      38       1        3      17       1         ...     571         45       ...   35       ...      3         ...     8,365 00    ...
+Lake Agency Agent
+              Jas. B.
+Kamloops
+              Leighton       345     202       ...   2           165     41       6        32     19       1         ...     ...         92       3     228      30       8         38      24,470 00   ...
+Agency
+              Agent
+              Jas. B.
+Okanagan
+              Leighton       122     81        2      4          74      36       4        25     5        2         ...     ...         49       ...   54       17       6         21      12,690 00   ...
+Agency
+              Agent
+             R.L.T.
+Kootenay
+             Galbraith       53      19        ...    ...        ...     6        1        5      2        ...       ...     47          20       ...   16       ...      ...       ...     3,972 00    ...
+Agency
+             Agent
+North-west   Chas. Todd
+                             ...     ...       ...    ...        ...     ...      ...      ...    ...      ...       66      1,159       ...      ...   ...      ...      ...       ...     3,401 00    ...
+Coast Agency Agent
+...           Totals         860     501       3      7          267     149      16       69     43       12        66      1,398       379      15    362      71       37        134     76,208 00   ...
+
+              ...            ...     ...       ...    ...        ...     ...      ...      ...    ...      ...       ...     ...         ...      ...   ...      ...      ...       ...     ...         ...
+MANITOBA.
+Clandeboye    E. McColl,
+                             58      58        ...    ...        ...     70       ...      70     ...      ...       3       618         39       13    115      25       2         31      11,750 00   ...
+Agency        Inspector
+Portage la  Francis
+Prairie     Ogletree,        14      12        2      ...        ...     6        2        2      2        ...       5       140         7        25    7        20       7         10      1,930 00    ...
+Agency      Agent
+Manotowapah H. Martineau
+                             30      22        ...    ...        ...     20       ...      18     ...      ...       7       2           19       110   106      65       ...       31      3,296 00    ...
+Agency      Agent
+Rat Portage  R.N.J. Pither
+                             ...     1         ...    ...        ...     ...      ...      ...    ...      ...       ...     15          ...      ...   ...      ...      ...       ...     Not given   ...
+Agency       Agent
+Berens River E. McColl,
+                             32      30        ...   ...         ...     1        ...      ...    ...      ...       12      1,040       3        2     37       ...      ...       1       2,563 00    ...
+Agency       Inspector
+The Pas       Joseph
+                            23       32        ...   ...         ...     ...      ...      ...    2        ...       2       260         ...      1     ...      ...      ...       ...     295 00      ...
+Agency        Reader, Agent
+

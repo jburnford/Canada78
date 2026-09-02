@@ -1,0 +1,245 @@
+{
+ "02": {
+  "seconds": 1358.1,
+  "pages": "537\u2013540",
+  "windows": [
+   {
+    "window": [
+     537,
+     540
+    ],
+    "retry": "parse failed (Extra data: line 3 column 1 (char 224)) \u2192 retry with thinking off",
+    "completion_tokens": 21605
+   },
+   {
+    "window": [
+     537,
+     540
+    ],
+    "rows": 50,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 388.0,
+    "finish_reason": "stop",
+    "completion_tokens": 8612
+   }
+  ],
+  "rows": 50,
+  "complete": true
+ },
+ "03": {
+  "seconds": 1323.7,
+  "pages": "541\u2013544",
+  "windows": [
+   {
+    "window": [
+     541,
+     544
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 22854
+   },
+   {
+    "window": [
+     541,
+     544
+    ],
+    "rows": 46,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 314.9,
+    "finish_reason": "stop",
+    "completion_tokens": 7232
+   }
+  ],
+  "rows": 46,
+  "complete": true
+ },
+ "04": {
+  "seconds": 1064.8,
+  "pages": "545\u2013548",
+  "windows": [
+   {
+    "window": [
+     545,
+     548
+    ],
+    "rows": 49,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 1064.8,
+    "finish_reason": "stop",
+    "completion_tokens": 24062
+   }
+  ],
+  "rows": 49,
+  "complete": true
+ },
+ "01": {
+  "seconds": 4139.6,
+  "pages": "533\u2013536",
+  "windows": [
+   {
+    "window": [
+     533,
+     534
+    ],
+    "truncated_split": [
+     [
+      533,
+      533
+     ],
+     [
+      534,
+      534
+     ]
+    ],
+    "completion_tokens": 25545
+   },
+   {
+    "window": [
+     533,
+     533
+    ],
+    "rows": 44,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 577.6,
+    "finish_reason": "stop",
+    "completion_tokens": 13270
+   },
+   {
+    "window": [
+     534,
+     534
+    ],
+    "retry": "truncated \u2192 retry with thinking off",
+    "completion_tokens": 25545
+   },
+   {
+    "window": [
+     534,
+     534
+    ],
+    "rows": 41,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 263.2,
+    "finish_reason": "stop",
+    "completion_tokens": 6090
+   },
+   {
+    "window": [
+     535,
+     536
+    ],
+    "rows": 51,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 1007.7,
+    "finish_reason": "stop",
+    "completion_tokens": 23088
+   }
+  ],
+  "rows": 136,
+  "complete": true
+ },
+ "00": {
+  "seconds": 6213.2,
+  "pages": "529\u2013532",
+  "windows": [
+   {
+    "window": [
+     529,
+     530
+    ],
+    "truncated_split": [
+     [
+      529,
+      529
+     ],
+     [
+      530,
+      530
+     ]
+    ],
+    "completion_tokens": 25548
+   },
+   {
+    "window": [
+     529,
+     529
+    ],
+    "rows": 56,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 1042.1,
+    "finish_reason": "stop",
+    "completion_tokens": 23669
+   },
+   {
+    "window": [
+     530,
+     530
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 14911
+   },
+   {
+    "window": [
+     530,
+     530
+    ],
+    "rows": 53,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 377.1,
+    "finish_reason": "stop",
+    "completion_tokens": 8504
+   },
+   {
+    "window": [
+     531,
+     532
+    ],
+    "truncated_split": [
+     [
+      531,
+      531
+     ],
+     [
+      532,
+      532
+     ]
+    ],
+    "completion_tokens": 25548
+   },
+   {
+    "window": [
+     531,
+     531
+    ],
+    "rows": 40,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 917.5,
+    "finish_reason": "stop",
+    "completion_tokens": 23058
+   },
+   {
+    "window": [
+     532,
+     532
+    ],
+    "rows": 39,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 968.1,
+    "finish_reason": "stop",
+    "completion_tokens": 24303
+   }
+  ],
+  "rows": 187,
+  "complete": true
+ }
+}

@@ -1,0 +1,329 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province, Name of     Resident                                                                              From 65
+                                                  From 6 to 15,                           From 21 to 65,
+ Agency Superintendent Indian      Under 6 years.               From 16 to 20, inclusive.                    years    ... ... Male. Female.
+                                                  inclusive.                              inclusive.
+ or Band. or Agent.    Population.                                                                           upwards.
+
+Male.     Female.       Male.       Female. Male. Female. Male. Female.                    ...         ...   ...   ...
+                                                                          ONTARIO.
+                                                                          Grand River
+...       ...           ...         ...     ...   ...     ...    ...      Superintendency ...          ...   ...   ...
+                                                                          -
+                                                                                          E.D.
+...       ...           ...         ...     ...   ...     ...    ...      Six Nations     Cameron,     3,988 220 292
+                                                                                          Supt.
+                                                                                           W.B.
+                                                                          Parry (Sound
+408       398           208         199     1,094 1,023   69     77                        Maclean,    859   63    64
+                                                                          )Superintendency
+                                                                                           Supt.
+                                                                          New Credit       Hugh
+94        90            38          43      206   255     3      3        (Mississaguas) Stewart,      248   20    14
+                                                                          Agency           Agent
+                                                                                           Alex.
+                                                                          Walpole Island
+34        18            8           9       62    66      11     6                     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+    Agent
+Counties
+               Rev. C.E.
+Halifax
+               McManus,        ...   ...       ...    ...       ...    ...       ...    ...       ...    ...
+County
+               Agent
+               A. Wallace,
+Hants County                   ...   ...       ...    ...       ...    ...       10     120       ...    ...
+               Agent
+Colchester     Thos. B.
+                               ...   ...       ...    ...       ...    ...       3      ...       ...    ...
+County         Smith, Agent
+Cumberland     F.A. Rand,
+                               ...   ...       ...    ...       ...    ...       7      ...       ...    ...
+County         M.D., Agent
+              Rev. R.
+Pictou County McDonald,       ...    ...       ...    ...       ...    ...       8 1/2 850        ...    ...
+              Agent
+Antigonish
+              J.R.
+and
+              McDonald,       ...    ...       ...    ...       ...    ...       ...    110       ...    ...
+Guysborough
+              Agent
+Counties
+Richmond      Rev. J. Fraser,
+                              ...    ...       ...    ...       1/4    1 1/2     6      634 1/2   ...    ...
+County        Agent
+               Rev. D.
+Inverness
+               McIsaac,        ...   ...       ...    ...       ...    ...       27     447       ...    ...
+County
+               Agent
+               A.J.
+Victoria
+               McDonald,       ...   ...       ...    ...       ...    ...       10     750       ...    ...
+County
+               Agent
+
+
+
+=== EXTRACT FROM HERE (pages 1120-1124) ===
+<!-- page 1120 -->
+              Rev. A.
+Cape Breton
+              Cameron,        ...   ...   ...   ...   1     15    20    800       ...   ...
+County
+              Agent
+Total         ...             2     35    3 1/2 30    2     34    111   5,054 1/2 1/2   21
+
+BRITISH   ...                 ...   ...   ...   ...   ...   ...   ...   ...       ...   ...
+COLUMBIA.
+              W.R.
+Cowichan
+              Robertson,     ...    ...   ...   ...   ...   ...   76 1/2 4,535    ...   ...
+Agency
+              Agent
+West Coast    Harry Guillod,
+                             ...    ...   ...   ...   ...   ...   13    1,446     1/2   192
+Agency        Agent
+Kwawkewlth R.H. Pidcock,
+                         ...        ...   ...   ...   ...   ...   (*)   385       (*)   51
+Agency     Agent
+
+<!-- page 1121 -->
+Province,          Name of
+Agency or          Superintendent GRAIN, ROOTS AND FODDER - Continued.
+Band.              or Agent.
+...                ...            Rye.          Buckwheat.   Beans.                 Potatoes.        Carrots.
+                                  Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+...                ...
+                                  Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+Lower Fraser Frank Devlin,                                                          264
+                           ...          ...       ...    ...       19 1/2 671              46,282    15 1/2 2,154
+Agency       Agent                                                                  1/2
+Williams
+            E. Bell, Agent ...          ...       ...    ...       4 1/4 110        186    6,810     33 3/4 910
+Lake Agency
+Kamloops -
+                   A. Irwin,                                                        179
+Okanagan                          ...   ...       ...    ...       75     1,661            21,774    7 3/4 1,019
+                   Agent                                                            1/2
+Agency
+             R.L.T.
+Kootenay
+             Galbraith,           ...   ...       ...    ...       ...    ...       75     8,300     ...    ...
+Agency
+             Agent
+Northwest    C. Todd,
+                                  ...   ...       ...    ...       ...    ...       90 1/4 73,380    2      180
+Coast Agency Agent
+Babine and
+             R.E. Loring,                                                           236
+Upper Skeena                      ...   ...       ...    ...       ...    ...              45,150    ...    ...
+             Agent                                                                  1/2
+River Agency
+                                                                                    1,121
+Total              ...            ...   ...       ...    ...       98 3/4 2,442           208,062    59 1/2 4,506
+                                                                                    1/4
+
+                   ...            ...   ...       ...    ...       ...    ...       ...    ...       ...    ...
+MANITOBA.
+Clandeboye         E. McColl,                                                       112
+                                  ...   ...       ...    ...       1/4    6                5,625     1/2    10
+Agency             Inspector                                                        1/2
+Portage la
+                   S. Swinford,
+Prairie                           ...   ...       ...    ...       1      4         11 3/4 1,080     4 1/2 160
+                   Agent
+Agency
+Manitowapah S. Swinford,
+                                  ...   ...       ...    ...       1/16   2         47 1/2 3,553     2 1/2 75
+Agency      Agent
+             L.J.A.
+Rat Portage
+             Leveque,             ...   ...       ...    ...       ...    ...       2      60        ...    ...
+Agency
+             Inspector
+Berens River J.W. Short,
+                                  ...   ...       ...    ...       ...    ...       101    11,850    ...    ...
+Agency       Agent
+                   Joseph
+The Pas
+                   Courtney,      ...   ...       ...    ...       ...    ...       40     1,884     ...    ...
+Agency
+                   Agent
+                                                                                    314
+Total              ...            ...   ...       ...    ...       1 5/16 12               24,052    7 1/8 245
+                                                                                    3/4
+[(*) not given.]
+
+<!-- page 1122 -->
+Province,
+                Name of                                                               Other
+Agency or                       GRAIN, ROOTS AND FODDER - Continued.                          NEW LAND IMPROVEMENTS.
+                Superintendent.                                                       Fodder.
+Band.
+...             ...              Turnips.         Other Roots.      Hay.              ...     ...      ...      ...      ...
+                                                                                                               Land
+                                 Acres Bushels    Acres Bushels                               Land     Land    Cropped Land
+...             ...                                                Cultivated. Wild. ...
+                                 Sown. Harvested. Sown. Harvested.                            Cleared. Broken. for first fenced.
+                                                                                                               time.
+
+NOVA            ...              ...   ...        ...    ...        Tons.       Tons. Tons.   Acres.   Acres.   Acres.   Acres.
+SCOTIA
+Annapolis       Geo. Wells,
+                                 ...   ...        ...    ...        6           ...   ...     ...      ...      ...      ...
+County          Agent
+Shelburne       J.E. de Molitor,
+                                 ...   ...        1      32         4 1/2       ...   1       ...      2        ...      5
+County          Agent
+                J.H. Purdy,
+Digby County                     1/8   10         1/4    5          16          ...   1/2     ...      ...      ...      ...
+                Agent
+Yarmouth        W.H. Whalen,
+                             ...       ...        ...    ...        3/4         ...   ...     3 1/4    ...      ...      ...
+County          Agent
+                C.E. Beckwith,
+King's County                  ...     ...        ...    ...        ...         ...   ...     ...      ...      ...      ...
+                Agent
+Queen's and
+                Chas. Harlow,
+Lunenburg                     1 1/2 150           2      30         52          14    10      3        1 1/2    2 1/2    5
+                Agent
+Counties
+                Rev. C.E.
+Halifax
+                McManus,         ...   ...        ...    ...        ...         ...   ...     ...      ...      ...      ...
+County
+                Agent
+                A. Wallace,
+Hants County                     ...   ...        ...    ...        75          20    ...     2        2        1        10
+                Agent
+Colchester      Thos. B.
+                                 ...   ...        ...    ...        ...         ...   ...     ...      1/4      ...      5
+County          Smith, Agent
+Cumberland      F.A. Rand,
+                                 1/2   ...        ...    ...        ...         ...   ...     4        1        1        ...
+County          M.D., Agent
+              Rev. R.
+Pictou County McDonald,       1/4      40         ...    ...        13          ...   10      1        1/2      1/2      1/2
+              Agent
+Antigonish
+              J.R.
+and
+              McDonald,       ...      ...        ...    ...        ...         ...   ...     ...      ...      ...      ...
+Guysborough
+              Agent
+Counties
+Richmond      Rev. J. Fraser,
+                              1        9          ...    ...        35          25    ...     1/4      1        1        ...
+County        Agent
+                Rev. D.
+Inverness
+                McIsaac,         1     45         ...    ...        140         ...   ...     5        2        7        7
+County
+                Agent
+                A.J.
+Victoria
+                McDonald,        1/2   80         ...    ...        90          125   2       10       ...      1        1
+
+<!-- page 1123 -->
+County
+              Agent
+              Rev. A.
+Cape Breton
+              Cameron,       ...   ...   ...   ...   200       ...   ...    ...      ...      ...     ...
+County
+              Agent
+Total         ...            4 7/8 334   3 1/4 67    632 1/4   184   23 1/2 28 1/2   10 1/4   14      33 1/2
+
+BRITISH   ...                ...   ...   ...   ...   ...       ...   ...    ...      ...      ...     ...
+COLUMBIA.
+              W.R.
+Cowichan
+              Robertson,     1/2   25    2     400   1,235     ...   ...    12 1/2   44       37      74
+Agency
+              Agent
+West Coast    J.J.E. de
+                             ...   22    ...   ...   6         2     ...    ...      ...      ...     1
+Agency        Molitor, Agent
+Kwawkewlth R.H. Pidcock,
+                             ...   48    ...   ...   ...       3     ...    5 1/2    4 1/2    4 1/2   4 1/2
+Agency     Agent
+
+<!-- page 1124 -->
+Province,
+              Name of                                                              Other
+Agency or                     GRAIN, ROOTS AND FODDER - Continued.                         NEW LAND IMPROVEMENTS.
+              Superintendent.                                                      Fodder.
+Band.
+...           ...            Turnips.         Other Roots.      Hay.               ...   ...      ...     ...       ...
+                                                                                                          Land
+                             Acres Bushels    Acres Bushels                              Land     Land    Cropped Land
+...           ...                                              Cultivated. Wild. ...
+                             Sown. Harvested. Sown. Harvested.                           Cleared. Broken. for first fenced.
+                                                                                                          time.
+Lower Fraser Frank Devlin,
+                             32 1/2 5,337     ...    ...        656        938     395   55       55      55        55
+Agency       Agent
+Williams
+            E. Bell, Agent 22 1/4 984         13 1/4 565        368        1,293 652     3        18      23        ...
+Lake Agency
+Kamloops -
+              A. Irwin,
+Okanagan                     4      510       1      82         2,159      636     554   130      243     243       238
+              Agent
+Agency
+              R.L.T.
+Kootenay
+              Galbraith,     ...    ...       ...    ...        80         155     35    ...      30      30        30
+Agency
+              Agent
+Northwest
+             C. Todd, Agent 13      1,495     6 1/2 715         18         46      10    ...      ...     ...       2
+Coast Agency
+Babine and
+             R.E. Loring,                                                  188
+Upper Skeena                 54 3/4 9,192     ...    ...        58                 ...   40       30      31        192
+             Agent                                                         1/2
+River Agency
+                                                                           3,261                                    596
+Total         ...            127    17,613    22 3/4 1,762      4,580            1,646   246      464 1/2 423 1/2
+                                                                           1/2                                      1/2
+
+              ...            ...    ...       ...    ...        ...        ...     ...   ...      ...     ...       ...
+MANITOBA.
+Clandeboye    E. McColl,
+                             1/3    10        1/4    8          ...        5,075 ...     35       24      21        19 1/2
+Agency        Inspector
+Portage la
+              S. Swinford,
+Prairie                      4 3/4 235        5/8    80         ...        1,550 ...     ...      35      28        600
+              Agent
+Agency
+Manitowapah S. Swinford,
+                             5 1/8 126        3      59 1/2     ...        2,901 ...     ...      ...     ...       12
+Agency      Agent
+             L.J.A.
+Rat Portage
+             Leveque,        ...    ...       ...    ...        ...        15      ...   ...      ...     ...       ...
+Agency
+             Inspector
+Berens River J.W. Short,
+                             ...    ...       ...    ...        ...        1,105 ...     6        ...     ...       6
+Agency       Agent
+              Joseph
+The Pas
+              Courtney,      ...    ...       ...    ...        ...        287     ...   3 1/4    ...     ...       ...
+Agency
+              Agent
+                             10                                                                                     637
+Total         ...                   371       3 7/8 147 1/2     ...        10,933 ...    44 1/4   59      49
+                             5/24                                                                                   1/2
+

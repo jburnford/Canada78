@@ -1,0 +1,50 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0483-tabular-statement-no-1	TABULAR STATEMENT No. 1	483	487
+01	p0483-tabular-statement-no-1	TABULAR STATEMENT No. 1	488	490
+02	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	490	494
+03	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	495	499
+04	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	500	504
+05	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	505	509
+06	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	510	514
+07	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	515	519
+08	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	520	524
+09	p0490-tabular-statement-no-2	TABULAR STATEMENT No. 2	525	528
+10	p0528-tabular-statement-no-3	TABULAR STATEMENT No. 3	528	532
+11	p0528-tabular-statement-no-3	TABULAR STATEMENT No. 3	533	537
+12	p0528-tabular-statement-no-3	TABULAR STATEMENT No. 3	538	542
+13	p0528-tabular-statement-no-3	TABULAR STATEMENT No. 3	543	547
+14	p0528-tabular-statement-no-3	TABULAR STATEMENT No. 3	548	552
+15	p0528-tabular-statement-no-3	TABULAR STATEMENT No. 3	553	556
+16	p0895-return-c	RETURN C	895	899
+17	p0895-return-c	RETURN C	900	904
+18	p0895-return-c	RETURN C	905	909
+19	p0895-return-c	RETURN C	910	914
+20	p0895-return-c	RETURN C	915	919
+21	p0895-return-c	RETURN C	920	924
+22	p0895-return-c	RETURN C	925	929
+23	p0895-return-c	RETURN C	930	934
+24	p0895-return-c	RETURN C	935	939
+25	p0895-return-c	RETURN C	940	944
+26	p0895-return-c	RETURN C	945	949
+27	p0895-return-c	RETURN C	950	954
+28	p0955-return-c-cont	RETURN C (cont.)	955	959
+29	p0955-return-c-cont	RETURN C (cont.)	960	964
+30	p0955-return-c-cont	RETURN C (cont.)	965	969
+31	p0955-return-c-cont	RETURN C (cont.)	970	974
+32	p0955-return-c-cont	RETURN C (cont.)	975	979
+33	p0955-return-c-cont	RETURN C (cont.)	980	984
+34	p0955-return-c-cont	RETURN C (cont.)	985	989
+35	p0955-return-c-cont	RETURN C (cont.)	990	994
+36	p0955-return-c-cont	RETURN C (cont.)	995	999
+37	p0955-return-c-cont	RETURN C (cont.)	1000	1004
+38	p0955-return-c-cont	RETURN C (cont.)	1005	1009
+39	p0955-return-c-cont	RETURN C (cont.)	1010	1014
+40	p1015-return-c-cont	RETURN C (cont.)	1015	1019
+41	p1015-return-c-cont	RETURN C (cont.)	1020	1024
+42	p1015-return-c-cont	RETURN C (cont.)	1025	1029
+43	p1015-return-c-cont	RETURN C (cont.)	1030	1034
+44	p1015-return-c-cont	RETURN C (cont.)	1035	1039
+45	p1015-return-c-cont	RETURN C (cont.)	1040	1044
+46	p1015-return-c-cont	RETURN C (cont.)	1045	1049
+47	p1015-return-c-cont	RETURN C (cont.)	1050	1054
+48	p1015-return-c-cont	RETURN C (cont.)	1055	1058

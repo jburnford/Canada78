@@ -1,0 +1,25 @@
+{"row_type": "headers", "columns": ["Census Return", "Protestant", "Roman Catholic", "Pagan"]}
+{"page": 616, "row_type": "note", "province": "British Columbia", "agency": null, "band": "No agents have as yet been appointed for the following bands, namely: -", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Bellacoola", "population": 2500, "values": ["2,500", null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Hiletsuck", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Hydah", "population": 2500, "values": ["2,500", null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Siccanee", "population": 500, "values": ["500", null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Tahelie", "population": 1000, "values": ["1,000", null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Tsimpsheean", "population": 5000, "values": ["5,000", null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Bands not visited", "population": 5522, "values": ["5,522", null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "total", "province": "British Columbia", "agency": null, "band": "Total", "population": 20022, "values": ["20,022", null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "RECAPITULATION.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Ontario", "population": 17479, "values": ["17,479", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Quebec", "population": 11867, "values": ["11,867", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Nova Scotia", "population": 2179, "values": ["2,179", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "New Brunswick", "population": 1566, "values": ["1,566", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Prince Edward Island", "population": 321, "values": ["321", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Manitoba and North West Territories", "population": 23811, "values": ["23,811", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Peace River District", "population": 2038, "values": ["2,038", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Athabaska District", "population": 8000, "values": ["8,000", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Mckenzie District", "population": 7000, "values": ["7,000", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Eastern Rupert's Land", "population": 4016, "values": ["4,016", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Labrador (Canadian Interior)", "population": 1000, "values": ["1,000", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "Arctic Coast", "population": 4000, "values": ["4,000", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "note", "province": null, "agency": null, "band": "British Columbia", "population": 38222, "values": ["38,222", null, null, null], "confidence": "medium"}
+{"page": 616, "row_type": "total", "province": null, "agency": null, "band": "Total", "population": 121499, "values": ["121,499", null, null, null], "confidence": "medium"}

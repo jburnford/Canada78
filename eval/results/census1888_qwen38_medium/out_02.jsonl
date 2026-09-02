@@ -1,0 +1,10 @@
+{"row_type": "headers", "columns": ["Census Return", "Protestant", "Roman Catholic", "Pagan", "Denomination of Schools"]}
+{"page": 662, "row_type": "note", "province": "British Columbia", "agency": null, "band": "No agents have as yet been appointed for the following bands, namely : -", "population": null, "values": ["...", "...", "...", "...", "..."], "confidence": "high"}
+{"page": 662, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Bellacoola", "population": 2500, "values": ["2,500", null, null, null, null], "confidence": "high"}
+{"page": 662, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Hiletsuck", "population": null, "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 662, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Hydah", "population": 2500, "values": ["2,500", null, null, null, null], "confidence": "high"}
+{"page": 662, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Siccanee", "population": 500, "values": ["500", null, null, null, null], "confidence": "high"}
+{"page": 662, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Tahelie", "population": 1000, "values": ["1,000", null, null, null, null], "confidence": "high"}
+{"page": 662, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Tsimpsheean", "population": 5000, "values": ["5,000", null, null, null, null], "confidence": "high"}
+{"page": 662, "row_type": "band", "province": "British Columbia", "agency": null, "band": "Bands not visited", "population": 8522, "values": ["8,522", null, null, null, null], "confidence": "high"}
+{"page": 662, "row_type": "total", "province": "British Columbia", "agency": null, "band": "Total", "population": 20022, "values": ["20,022", null, null, null, null], "confidence": "high"}

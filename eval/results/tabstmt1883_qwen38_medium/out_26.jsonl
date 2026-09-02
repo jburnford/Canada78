@@ -1,0 +1,54 @@
+{"row_type": "headers", "title": "RETURN B.", "columns": ["DR Capital ($ cts.)", "DR Interest ($ cts.)", "CR item", "CR Capital ($ cts.)", "CR Interest ($ cts.)"]}
+{"page": 447, "row_type": "note", "section": "AMALACITES OF ISLE VERTE AND VIGER", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 447, "row_type": "row", "section": "AMALACITES OF ISLE VERTE AND VIGER", "label": "Relief to sick", "values": [null, "10 00", "By Balance, 30th June, 1882", "1,699 58", "51 69"], "confidence": "high"}
+{"page": 447, "row_type": "row", "section": "AMALACITES OF ISLE VERTE AND VIGER", "label": "Balance on 30th June, 1883", "values": ["1,699 58", "120 49", "Interest on invested Capital", null, "78 80"], "confidence": "high"}
+{"page": 447, "row_type": "total", "section": "AMALACITES OF ISLE VERTE AND VIGER", "label": "...", "values": ["1,699 58", "130 49", null, "1,699 58", "130 49"], "confidence": "high"}
+{"page": 447, "row_type": "row", "section": "AMALACITES OF ISLE VERTE AND VIGER", "label": "...", "values": [null, null, "Balance on 30th June, 1883", "1,699 58", "130 49"], "confidence": "high"}
+{"page": 448, "row_type": "note", "section": "GOLDEN LAKE INDIANS", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 448, "row_type": "row", "section": "GOLDEN LAKE INDIANS", "label": "Balance on 30th June, 1883", "values": ["18 43", "6 23", "By Balance, 30th June, 1882", "18 43", "5 19"], "confidence": "high"}
+{"page": 448, "row_type": "row", "section": "GOLDEN LAKE INDIANS", "label": "...", "values": [null, null, "Interest on invested Capital", null, "1 04"], "confidence": "high"}
+{"page": 448, "row_type": "total", "section": "GOLDEN LAKE INDIANS", "label": "...", "values": ["18 43", "6 23", null, "18 43", "6 23"], "confidence": "high"}
+{"page": 448, "row_type": "row", "section": "GOLDEN LAKE INDIANS", "label": "...", "values": [null, null, "Balance on 30th June, 1883", "18 43", "6 19"], "confidence": "high"}
+{"page": 449, "row_type": "note", "section": "HURONS OF LORETTE", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 449, "row_type": "row", "section": "HURONS OF LORETTE", "label": "Relief to sick", "values": [null, "10 00", "By Balance on 30th June, 1882", "384 20", "180 59"], "confidence": "high"}
+{"page": 449, "row_type": "row", "section": "HURONS OF LORETTE", "label": "Percentage on collections carried to credit of Management Fund", "values": [null, "4 59", "Rents collected", null, "76 48"], "confidence": "high"}
+{"page": 449, "row_type": "row", "section": "HURONS OF LORETTE", "label": "Balance on 30th June, 1883", "values": ["384 20", "267 88", "interest on invested Capital", null, "25 40"], "confidence": "high"}
+{"page": 449, "row_type": "total", "section": "HURONS OF LORETTE", "label": "...", "values": ["384 20", "282 47", null, "384 20", "282 47"], "confidence": "high"}
+{"page": 449, "row_type": "row", "section": "HURONS OF LORETTE", "label": "...", "values": [null, null, "Balance 30th June, 1883", "384 20", "267 88"], "confidence": "high"}
+{"page": 450, "row_type": "note", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "...", "values": [null, null, "By Balance on 30th June, 1882", "21,171 49", "401 96"], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "...", "values": [null, null, "Stone dues", "597 52", null], "confidence": "high"}
+{"page": 450, "row_type": "note", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Salaries", "values": [null, null, "Rents collected", null, "26 79"], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "...", "values": [null, null, "Fines collected", null, "278 20"], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "M. Lefort, Constable", "values": [null, "365 00", "Interest on invested Capital", null, "986 38"], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "P. Tirvirati, Gatekeeper", "values": [null, "18 00", "Balance on 30th June, 1883", null, "402 50"], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "J. Sahionisakeron, Gatekeeper", "values": [null, "18 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "L. Shetekaionton, Organist", "values": [null, "37 50", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Pierre Murray, Interpreter", "values": [null, "50 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "note", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Pensions.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "P. Kasekete", "values": [null, "8 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "C. Cauontiaks", "values": [null, "5 62", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "note", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Sundry Disbursements.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "N.V. Burtin, commutation in lieu of supplies", "values": [null, "222 35", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Law expenses in connection with liquor traffic", "values": [null, "398 24", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "For services of Crier", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Building and repairing fences", "values": [null, "45 50", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Road work", "values": [null, "72 80", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Prizes for schools", "values": [null, "5 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Uniform, &c, for Constable", "values": [null, "68 15", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Measuring stone", "values": [null, "85 30", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Repairs to church", "values": [null, "50 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Clerk's fees in sundry prosecutions", "values": [null, "190 20", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Cost of flags", "values": [null, "18 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Wood for schools", "values": [null, "32 00", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Costs in the Lafleur assault case", "values": [null, "176 27", null, null, null], "confidence": "high"}
+{"page": 450, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Cost of inspecting Reserve Boundary", "values": [null, "1 00", null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Cost of conveying prisoners to Montreal", "values": [null, "4 00", null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "For investigating the of the Seigniory of Sault St. Louis", "values": [null, "163 90", null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "For meals furnished to prisoners", "values": [null, "27 00", null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Insurance", "values": [null, "24 00", null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Advances on account of Survey of Reserves.", "values": ["4,000 00", null, null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Percentage on collections carried to credit of Management Fund", "values": ["59 75", null, null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Balance on 30th June, 1883", "values": ["17,709 26", null, null, null, null], "confidence": "high"}
+{"page": 451, "row_type": "total", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "...", "values": ["21,769 01", "2,095 83", null, "21,769 01", "2,095 83"], "confidence": "high"}
+{"page": 451, "row_type": "row", "section": "IROQUOIS OF CAUGHNAWAGA", "label": "Balance on 30th June, 1883", "values": [null, "402 50", "Balance on 30th June, 1883", "17,709 26", null], "confidence": "high"}

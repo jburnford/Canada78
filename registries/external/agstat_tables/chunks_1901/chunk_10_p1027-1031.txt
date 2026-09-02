@@ -1,0 +1,221 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+Agency      LAND                   PUBLIC BUILDINGS, PROPERTY OF BAND.              PRIVATE FENCING AND BUILDINGS
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log.
+                pasturage pasturage.
+ONTARIO.        Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+Grand River
+Superintendency 23,974   10,722    14        1      11      7      1         ...    41,696 1          15         201       365
+- Six Nations
+Parry Sound
+                1,476    ...       7         ...    6       1      5         ...    1,456   ...       ...        23        119
+Superintendency
+New Credit
+(Mississaguas) 1,010     2,950     2         1      1       3      3         ...    5,100   ...       3          45        20
+Agency
+Walpole Island
+               8,200     2,991     2         1      3       2      2         4      2,991   ...       ...        101       131
+Agency
+Sarnia Agency 3,612      680       4         2      3       1      1         ...    5,472 ...         2          111       8
+Caradoc Agency 7,669     6,434     ...       3      6       1      13        ...    15,420 ...        6          107       138
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        57
+Agency
+Manitowaning
+                1,517    3,864     7        3       9       2      ...       ...    2,216   ...       ...        27        280
+Agency
+Gore Bay        3,859    1,390     3        ...     2       ...    2         ...    1,329   ...       ...        7         99
+Thessalon
+                350      260       2        ...     4       ...    ...       ...    260     ...       ...        28        57
+Agency
+Sault Ste. Marie ...     ...       ...      ...     ...     ...    ...       ...    ...     ...       ...        ...       ...
+Port Arthur      786     543       3        2       6       1      2         ...    325     ...       ...        20        186
+Golden Lake
+                 185     25        1        ...     1       ...    1         ...    82      ...      
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+         ...     ...      ...   ...      ...   ...      ...   ...       ...       ...   ...     10    ...    ...     ...
+County
+King's County    5       700      ...   ...      ...   ...      ...   ...       5         10    2       2     ...    2       20
+Queen's County   3 1/2   320      ...   ...      ...   ...      ...   ...       29        10    ...     ...   1/2    ...     1/2
+Halifax County   2       *        1/2   ...      1     *        1     ...       15        5     ...     ...   ...    ...     ...
+Hants County     10      1,500    ...   ...      1     250      1     150       100       75    25      2     3      3       10
+Colchester
+                 2 1/4   177      ...   ...      ...   ...      ...   ...       4         ...   ...     ...   ...    ...     ...
+County
+Cumberland
+                 6       500      ...   ...      *     150      ...   ...       4         4     ...     ...   ...    1       ...
+County
+Pictou County 6          *        ...   ...      ...   ...      ...   ...       6         ...   ...     ...   1      ...     ...
+Antigonish and
+Guysborough    4         200      ...   ...      ...   ...      ...   ...       50        ...   ...     ...   2      2       ...
+Counties
+Richmond
+               6         552      ...   ...      1/2   6        ...   ...       30        21    ...     ...   2      1       2
+County
+Inverness
+                 29      1,595    ...   ...      1     50       ...   ...       120       ...   ...     2     3      5       10
+
+
+
+=== EXTRACT FROM HERE (pages 1027-1031) ===
+<!-- page 1027 -->
+ County
+ Victoria County 10        800       ...   ...   ...   ...   ...   ...   90   125 2   3   ...   2   2
+[*Not given.] [(t)Bushels planted]
+
+<!-- page 1028 -->
+Agency       GRAIN, ROOTS AND FODDER - Concluded                                              ...   NEW LAND IMPROVEMENTS
+...          Potatoes      Carrots      Turnips              Other Roots    Hay               ...   ...  ...   ...   ...
+                                                                                                                    Land
+                                                                                                                    Cropped
+             Acres Bushels Acres Bushels Acres Bushels Acres Bushels                          Other Land Land               Land
+...                                                                         Cultivated Wild                         for the
+             Planted Harvested Sown Harvested Sown Harvested Sown Harvested                   Fodder Cleared Broken         Fenced
+                                                                                                                    first
+                                                                                                                    time
+Cape Breton
+            200      1,600     ...   ...     ...   ...       ...   ...      80        ...     ...   ...     ...    ...      ...
+County
+Lunenburg
+             5 1/2   540       ...   ...     3/4   100       ...   ...      49        20      ...   2 1/2   1      2 1/2    5
+County
+             298
+Total                8,954     1     20      4 3/8 568       3 1/4 187      609 1/4   270     30 1/2 21 1/2 12 1/2 18 1/2   49 1/2
+             3/4
+British
+             ...     ...       ...   ...     ...   ...       ...   ...      ...       ...     ...   ...     ...    ...      ...
+Columbia
+Cowichan
+             88      4,085     ...   ...     ...   ...       ...   ...      1,238     ...     ...   4       12     12       ...
+Agency
+West Coast
+             10      838       *     108     ...   ...       ...   ...      4         3 1/2   ...   3       ...    ...      3
+Agency
+Kwawkewlth
+           4         380       ...   ...     ...   ...       ...   ...      ...       ...     ...   ...     ...    ...      ...
+Agency
+Lower Fraser 264               15            33
+                     41,122          1,783         5,262     ...   ...      661       940     382   22      22     22       22
+Agency       1/2               1/2           1/2
+Williams                       26            28
+            179      9,615           774           1,753     9     408      367       921     873   ...     25     30       65
+Lake Agency                    3/4           3/4
+Kamloops-
+             237                             12
+Okanagan             31,598    20    2,490         1,603     2     233      3,054     592     645   65      191    191      605
+             1/2                             3/4
+Agency
+Kootenay
+             67      9,000     ...   ...     ...   ...       ...   ...      110       205     45    ...     185    185      185
+Agency
+Northwest
+Coast        87 1/2 10,175     2     170     13    1,415     6 1/2 695      24        45      6     6       ...    ...      ...
+Agency
+Babine and
+Upper        244                             56
+                    45,665     ...   ...           9,675     ...   ...      71        194     ...   55      20     16       33
+Skeena River 1/2                             3/4
+Agency
+                               64            144             17                       2,900
+Total        1,182   152,478         5,325         19,708          1,336    5,529           1,951   155     455    456      913
+                               1/4           3/4             1/2                      1/2
+MANITOBA ...      ...          ...   ...     ...   ...       ...   ...      ...       ...     ...   ...     ...    ...      ...
+Clandeboye
+           94 1/2 9,750        1     30      1/2   15        1/4   8        ...       6,200 ...     172     34     1/2      6 1/2
+Agency
+Portage la
+Prairie     10       900       1 1/8 6       3 1/4 55        3/4   5        ...       898     64    ...     25     ...      ...
+Agency
+Manitowapah
+            53       3,218     2     2       2 1/2 62        2 1/2 88       ...       2,769 ...     ...     8      ...      6
+
+<!-- page 1029 -->
+Agency
+Rat Portage
+               184     *         ...    ...   ...   ...   ...   ...   ...   10    ...   ...     ...   ...     ...
+Agency
+Berens River
+             (t)       8,910     ...    ...   ...   ...   ...   ...   ...   809   ...   ...     ...   ...     ...
+Agency
+The Pas
+               49      4,045     ...    ...   ...   ...   ...   ...   ...   279   ...   2 1/2   1     1       17 1/2
+Agency
+                390
+Total                  26,823      4 1/8 38   6 1/4 132   3 1/2 101   ...   10,965 64   174 1/2 68    1 1/2   29 3/4
+                1/2
+[*Not given.] [(t)Bushels planted]
+
+<!-- page 1030 -->
+PROGRESS DURING THE YEAR ENDED JUNE 30, 1901
+ Agency    BUILDINGS ERECTED                                                                                                       INCREASE IN VALUE
+                                                                                                                                                         Increased
+                                                                                                                                   Value of
+                                                                                                                                                         Value of
+                                                                                                                                   Clearing,
+                 Dwellings, Dwellings, Dwellings, Dwellings,                Horse Driving Cattle Pig Store Root Milk Corn                      Value of Agricultural
+...                                                          Shanties Barns                                                        Cultivating
+                 Stone      Brick      Frame      Log                       Stables Sheds Stables Sties Houses Houses Houses Cribs             Buildings Products
+                                                                                                                                   and
+                                                                                                                                                         and
+                                                                                                                                   Fencing
+                                                                                                                                                         Industries
+NEW
+                 ...       ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   $ cts.     $ cts.   $ cts.
+BRUNSWICK
+Richibucto
+                ...        ...        4          ...        ...     ...   ...     ...     ...    2     ...    ...     ...     ...   200 00     2,552 00 2,752 00
+Superintendency
+Fredericton
+                ...        ...        3          1          4       3     2       ...     ...    1     ...    ...     2       ...   15 00      520 00   535 00
+Superintendency
+Total            ...       ...        7          1          4       3     2       ...     ...    3     ...    ...     2       ...   215 00     3,072 00 3,287 00
+PRINCE
+EDWARD           ...       ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...        ...      ...
+ISLAND.
+NOVA
+                 ...       ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...        ...      ...
+SCOTIA
+Annapolis
+                 ...       ...        6          ...        6       1     ...     ...     1      ...   ...    ...     ...     ...   ...        800 00   800 00
+County
+Shelburne
+                 ...       ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...        ...      ...
+County
+Digby County     ...       ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...        ...      ...
+Yarmouth
+                 ...       ...        3          ...        1       ...   ...     ...     ...    ...   ...    ...     ...     ...   100 00     110 00   210 00
+County
+King's County    ...       ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   100 00     ...      100 00
+Queen's County   ...       ...        ...        ...        ...     ...   ...     ...     ...    1     ...    ...     ...     ...   10 00      25 00    35 00
+Halifax County   ...       ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...        ...      ...
+Hants County     ...       ...        3          1          ...     ...   ...     ...     1      ...   ...    ...     ...     ...   950 00     200 00   1,150 00
+Colchester
+                 ...       ...        ...        ...        ...     ...    ...    ...     ...    ...   ...     ...    ...     ...   ...        ...      ...
+County
+Cumberland
+                 ...       ...        ...        ...        3       ...    ...    ...     ...    ...   ...     ...    ...     ...   ...        100 00   100 00
+County
+Pictou County    ...       ...        1          ...        ...     ...    ...    ...     ...    ...   ...     ...    ...     ...   100 00     100 00   200 00
+Antigonish and
+Guysborough      ...       ...        3          ...        3       ...    ...    ...     ...    ...   ...     ...    ...     ...   20 00      100 00   120 00
+Counties
+Richmond
+                 ...       ...        1          1          2       ...    ...    ...     ...    ...   ...     ...    ...     ...   20 00      25 00    45 00
+County
+Inverness
+                 ...       ...        1          ...        ...     1     ...     ...     ...    ...   ...    ...     ...     ...   100 00     300 00   400 00
+County
+Victoria County ...        ...        ...        ...        ...     1     ...     ...     ...    ...   ...    ...     ...     ...   50 00      50 00    100 00
+
+<!-- page 1031 -->
+Cape Breton
+              ...   ...   17   3   1   16   ...   ...   ...   ...   ...   ...   ...   ...   ...   120 00   120 00
+County
+

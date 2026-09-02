@@ -1,0 +1,332 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS. REALTY OF INDIANS
+
+Agency             LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                   Cleared but  Under        Number     Number engaged in Number                Number
+...                not under    actual       engaged in hunting, trapping and engaged in        engaged in
+                   cultivation. cultivation. farming.   fishing.              other industries. stock-raising
+ONTARIO.           Acres.       Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency - 23,476          11,220     412          ...                   ...             412
+Six Nations
+Parry Sound
+                  839             485        55           43                    51              ...
+Superintendency
+New Credit
+(Mississaguas)     1,965          3,725      42           2                     35              ...
+Agency
+Walpole Island
+                   33,425         1,005      57           35                    ...             40
+Agency
+Sarnia             1,584         3,215       110          42                    45              52
+Caradoc Agency     4,459         10,512      63           ...                   ...             ...
+Moravian Agency    1,195         970         75           30                    20              60
+Manitowaning
+                   6,025         2,710       105          66                    114             ...
+Agency
+Gore Bay Agency 3,813 1/2        1,845 1/2   254          13                    291             ...
+Thessalon Agency 260             401         ...          2                     132             ...
+Sault Ste. Marie
+                 2,448           1,570       39           80                    153             ...
+Agency
+Port Arthur
+                   236           276         ...          276                   50              ...
+Agency
+Sturgeon Falls
+                   ...           375         ...          ...                   ...             ...
+Agency
+Golden Lake
+                   200           50          6            4                     ...             ...
+Agency
+Tyendinaga
+                   9,600         6,300       264          1                     231             ...
+Agency
+Lake Simcoe
+                   539           234         10           90                    9               9
+Agency
+Cape Croker
+                   3,500         1,500       145          25                    100             145
+Ag
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+e Marie Agency    ...    ...     ...   ...               530 00      530 00
+Port Arthur Agency        ...    ...     ...   80 00             700 00      780 00
+Sturgeon Falls Agency     ...    ...     ...   150 00            1,000 00    1,150 00
+Golden Lake Agency        ...    ...     ...   ...               ...         ...
+Tyendinaga Agency         ...    1       ...   ...               1,000 00    1,000 00
+Lake Simcoe Agency        ...    ...     ...   20 00             ...         20 00
+Cape Croker Agency        ...    ...     ...   ...               600 00      650 00
+Saugeen Agency            ...    ...     ...   100 00            500 00      600 00
+Alnwick Agency            ...    ...     ...   ...               ...         ...
+Mud Lake Agency           ...    ...     ...   32 00             ...         32 00
+Rice Lake Agency          ...    ...     ...   18 00             ...         18 00
+Rama Agency               ...    ...     ...   75 00             ...         75 00
+Christian Island Agency   ...    ...     ...   1,000 00          ...         1,000 00
+Scugog Agency             ...    ...     ...   ...               ...         ...
+Kenora Agency             ...    ...     ...   54 00             1,130 00    1,184 00
+Fort Frances Agency       ...    ...     ...   ...               ...         ...
+Savanne Agency            ...    ...     ...   ...               440 00      440 00
+Total                     4      1       4     4,194 00          23,100 00   27,294 00
+
+
+
+=== EXTRACT FROM HERE (pages 944-948) ===
+<!-- page 944 -->
+                     BUILDINGS
+                                          INCREASE IN VALUE.
+                     ERECTED.
+Agency.                                                       Value of
+                     Root    Milk    Corn Value of New Land               Total Value of Land
+                                                              Buildings
+                     Houses. Houses. Cribs. Improvements.                 Improvements and Buildings.
+                                                              Erected.
+QUEBEC.          ...        ...    ...    $ cts.              $ cts.      $ cts.
+Lake of Two
+                 ...        ...    ...    50 00               2,550 00    2,600 00
+Mountains Agency
+Caughnawaga
+                     ...    ...    ...    ...                 4,025 00    4,025 00
+Agency
+St. Regis Agency ...        ...    ...    300 00              3,250 00    3,550 00
+Viger Agency       ...      ...    ...    ...                 ...
+St. Francis Agency ...      ...    ...    1,230 00            420 00      1,650 00
+Maria Agency       ...      ...    ...    ...                 ...         ...
+Restigouche
+                   ...      ...    ...    100 00              ...         100 00
+Agency
+River Desert
+                     ...    ...    ...    330 00              25 00       355 00
+Agency
+Jeune Lorette
+                     ...    ...    ...    ...                 500 00      500 00
+Agency
+Becancour Agency ...        ...    ...    ...                 ...         ...
+Timiskaming
+                 ...        ...    ...    245 00              850 00      1,095 00
+Agency
+Bersimis Agency      ...    ...    ...    ...                 ...         ...
+*Mingan Agency       ...    ...    ...    ...                 ...         ...
+Lake St. John
+                     ...    ...    ...    24 00               314 00      338 00
+Agency
+Total                ...    ...    ...    2,279 00            11,934 00   14,213 00
+
+[*No return received.]
+
+<!-- page 945 -->
+SOURCES AND VALUE OF INCOME.
+
+                                                             THE ESTIMATED
+                                                             VALUE OF FISH AND
+                 Value of    Value of
+                                                    Received MEAT USED FOR
+                 Farm        Beef Sold,                      FOOD IS INCLUDED IN Earned by Total
+                                          Wages.    from
+Agency.          Products    also of that                    THESE COLUMNS.        other       Income of
+                                          Earned.   Land
+                 including   used for                                              Industries. Indians.
+                                                    Rentals.           Earned by
+                 Hay.        food.                           Earned by
+                                                                       Hunting and
+                                                             Fishing.
+                                                                       Trapping.
+ONTARIO.        $ cts.     $ cts.        $ cts.     $ cts.   $ cts.    $ cts.      $ cts.      $ cts.
+Grand River
+Superintendency 153,101 65 ...           120,168 00 3,910 62 ...         ...         ...        277,179 27
+- Six Nations
+Parry Sound
+                6,862 00   475 00        3,700 00   ...       600 00     650 00      2,750 00   15,037 00
+Superintendency
+New Credit
+(Mississaguas) 18,984 60     1,050 00    10,555 00 2,633 50 25 00        91 00       2,800 00   36,139 10
+Agency
+Walpole Island
+               11,500 00     3,300 00    28,500 00 ...        1,550 00   1,600 00    11,500 00 57,950 00
+Agency
+Sarnia Agency 10,168 00      100 00      14,865 00 2,000 00 2,028 00     95 00       2,010 00   31,266 00
+Caradoc Agency 43,500 00     2,680 00    65,556 00 4,115 60 195 00       300 00      4,385 00   120,761 60
+Moravian
+               10,833 00     925 00      3,800 00   103 25    270 00     320 00      1,923 00   18,176 25
+Agency
+Manitowaning
+                 43,826 00   580 00      5,700 00   5,325 00 2,915 00    4,225 00    2,550 00   65,121 00
+Agency
+Gore Bay
+                 18,007 95   3,769 00    24,815 00 10 00      483 00     330 00      22,767 00 71,181 95
+Agency
+Thessalon
+                 7,321 00    165 00      33,040 00 ...        1,654 00   667 00      1,854 00   44,701 00
+Agency
+Sault Ste. Marie
+                 5,900 00    ...         18,500 00 2,500 00 2,330 00     2,650 00    7,100 00   38,980 00
+Agency
+Port Arthur
+                 6,700 00    ...         18,200 00 ...        9,000 00   28,300 00   350 00     62,550 00
+Agency
+Sturgeon Falls
+                 1,750 00    ...         11,300 00 ...        ...        3,000 00    3,700 00   19,750 00
+Agency
+Golden Lake
+                 300 00      150 00      4,000 00   ...       100 00     450 00      500 00     5,500 00
+Agency
+Tyendinaga
+                 69,078 00   10,000 00   56,000 00 4,990 00 300 00       300 00      1,760 00   142,418 00
+Agency
+Lake Simcoe
+                 2,055 20    190 00      1,700 00   211 00    764 00     195 00      1,990 00   7,105 20
+Agency
+Cape Croker
+                 12,460 00   2,000 00    4,000 00   ...       3,000 00   100 00      10,000 00 31,560 00
+Agency
+Saugeen
+                 4,000 00    500 00      18,000 00 8,000 00 500 00       100 00      10,000 00 41,100 00
+
+<!-- page 946 -->
+Agency
+Alnwick
+                8,439 75     175 00      6,679 00   1,828 00 229 00     711 00       2,606 00   20,667 75
+Agency
+Mud Lake
+                4,600 00     400 00      2,500 00   50 00    700 00     1,900 00     625 00     10,775 00
+Agency
+Rice Lake
+                5,500 00     450 00      600 00     128 00   150 00     175 00       300 00     7,303 00
+Agency
+Rama Agency 5,400 00         200 00      3,000 00   ...      400 00     400 00       3,000 00   12,406 00
+Christian Island
+                 10,000 00   1,000 00    7,000 00   ...      3,000 00   1,000 00     7,000 00   29,000 00
+Agency
+Scugog Agency 819 05         575 00      435 00    138 25    70 00     559 00        855 00    3,451 30
+Kenora Agency 2,735 60       5,209 75    20,843 80 ...       11,332 60 22,914 60     10,664 95 73,701 30
+Fort Frances
+              3,425 00       295 00      24,900 00 250 00    25,100 00 17,200 00     5,900 00   77,070 00
+Agency
+Savanne
+                2,932 15     14,728 60   18,843 25 ...       12,202 65 25,476 30     5,559 05   79,741 70
+Agency
+Total           470,198 95 48,917 05     527,200 05 36,193 22 78,898 25 113,738 25   125,440 00 1,400,586 42
+
+<!-- page 947 -->
+                                                              THE ESTIMATED VALUE
+                                                              OF FISH AND MEAT
+               Value of    Value of
+                                                     Received USED FOR FOOD IS
+               Farm        Beef Sold,                         INCLUDED IN THESE       Earned by Total
+                                          Wages.     from
+Agency.        Products    also of that                       COLUMNS.                other       Income of
+                                          Earned.    Land
+               including   used for                                                   Industries. Indians.
+                                                     Rentals.           Earned by
+               Hay.        food.                              Earned by
+                                                                        Hunting and
+                                                              Fishing.
+                                                                        Trapping.
+QUEBEC.     $ cts.         $ cts.         $ cts.     $ cts.   $ cts.    $ cts.        $ cts.     $ cts.
+Lake of Two
+Mountains   5,375 00       1,390 00       11,525 00 1,269 00 100 00       425 00      3,125 00   23,209 00
+Agency
+Caughnawaga
+            47,146 00      ...            233,044 87 3,470 00 ...         ...         10,000 00 293,660 87
+Agency
+St. Regis
+               84,000 00   42,000 00      146,000 00 209 36    1,200 00   1,000 00    14,000 00 288,409 36
+Agency
+Viger Agency ...           ...            2,815 00   249 75    48 00      1,440 00    2,735 00   7,287 75
+St. Francis
+             1,310 50      ...            4,713 00   ...       ...        450 00      14,950 00 21,423 50
+Agency
+Maria
+               550 00      150 00         3,000 00   ...       360 00     680 00      1,575 00   6,315 00
+Agency
+Restigouche
+               10,500 00   950 00         24,000 00 ...        300 00     100 00      9,000 00   44,850 00
+Agency
+River Desert
+             5,391 00      1,000 00       20,800 00 238 00     75 00      7,000 00    7,200 00   41,704 00
+Agency
+Jeune Lorette
+              ...          ...            15,000 00 ...        10 00      1,300 00    26,000 00 42,310 00
+Agency
+Becancour
+               530 00      ...            2,050 00   ...       ...        ...         510 00     3,090 00
+Agency
+Timiskaming
+            1,913 50       130 00         12,850 00 ...        188 50     1,130 00    68 00      16,280 00
+Agency
+Bersimis
+               375 00      ...            1,600 00   ...       280 00     32,000 00   550 00     34,805 00
+Agency
+*Mingan
+               ...         ...            ...        ...       ...        ...         ...        ...
+Agency
+Lake St. John
+              7,000 00     400 00         5,000 00   ...       300 00     36,000 00   1,000 00   49,700 00
+Agency
+Total          164,091 00 46,020 00       482,397 87 5,436 11 2,861 50    81,525 00   90,713 00 873,044 48
+
+[*No return received.]
+
+<!-- page 948 -->
+REALTY OF INDIANS
+
+                 LANDS AND SOURCES FROM WHICH INDIANS DERIVE
+                                                                                  PUBLIC BUILDINGS, PROPERTY OF THE BAND.
+                 THEIR SUPPORT.
+                                                    Number
+                                                    engaged              Number
+Agency.                                    Number            Number                                                                                                                 Value of
+                 Cleared but Under                  in                   engaged
+                                           engaged           engaged              Saw Grist                         Other                Council School Driving Other               Public
+                 not under actual                   Hunting,             in                     Threshers. Engines.            Churches.                                   Ferries.
+                                           in                in other             Mills. Mills.                     Machinery.           Houses. Houses. Sheds. Buildings.          Properties,
+                 Cultivation. Cultivation.          Trapping             Stock-
+                                           farming.          Industries.                                                                                                            & c.
+                                                    and                  raising.
+                                                    fishing.
+NEW
+           Acres.            Acres.      ...      ...       ...        ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     $ cts.
+BRUNSWICK.
+Richibucto
+                1,370        980         173      142       253        ...      ...   ...    ...        ...      ...         5          2       2        ...     4          ...     7,750 00
+Superintendency
+Fredericton
+                324          339         54       38        90         2        ...   ...    ...        ...      ...         1          2       3        ...     4          1       7,300 00
+Superintendency
+Total           1,694        1,319       227      180       343        2        ...   ...    ...        ...      ...         6          4       5        ...     8          1       15,050 00
+PRINCE
+EDWARD          ...          ...         ...      ...       ...        ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+ISLAND.
+Prince Edward
+Island          218          386         31       28        ...        ...      ...   ...    1          ...      ...         1          ...     1        ...     3          ...     5,800 00
+Superintendency
+NOVA
+                ...          ...         ...      ...       ...        ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+SCOTIA.
+Annapolis
+                 222         ...         ...      ...       ...        ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+County
+Shelburne
+                 ...         ...         ...      ...       ...        ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+County
+Digby County     200         48          ...      ...       ...        ...      ...   ...    ...        ...      ...         1          ...     1        1       ...        ...     800 00
+Yarmouth
+                 6 1/4       1/2         ...      28        ...        ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+County
+Kings County     57          3           1        30        30         1        ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+Queens County    200         200         ...      30        15         ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+Halifax County   36          ...         ...      ...       ...        ...      ...   ...    ...        ...      ...         ...        ...     ...      ...     ...        ...     ...
+Hants County     300         98          9        30        11         3        ...   ...    ...        ...      ...         1          ...     ...      ...     1          ...     2,000 00
+Colchester
+                 20          15          ...      30        10         ...      ...   ...    ...        ...      ...         ...        ...     1        ...     1          ...     280 00
+County
+Cumberland
+                 225         25          12       25        20         ...      ...   ...    ...        ...      ...         1          ...     ...      ...     ...        ...     150 00
+County
+Pictou County 65             50          ...      ...       ...        ...      ...   ...    ...        ...      ...         1          ...     1        ...     ...        ...     4,500 00
+Antigonish and
+Guysborough    200           185         20       ...       ...        ...      ...   ...    ...        ...      ...         1          ...     ...      ...     ...        ...     3,575 00
+Counties
+Richmond
+               150           180         10       12        20         2        ...   ...    ...        ...      ...         1          1       1        ...     ...        1       16,500 00
+

@@ -1,0 +1,23 @@
+{"row_type": "headers", "title": "STATEMENT of Transactions in connection with Trust Fund during the Year ended 30th June, 1888.", "columns": ["DR $ cts.", "CR description", "CR $ cts."]}
+{"page": 777, "row_type": "row", "section": "PORTAGE LAPRAIRIE BAND, MANITOBA", "label": "To Balance on 30th June, 1888", "values": ["457 01", null, "By Balance on 30th June, 1887", "439 45", null], "confidence": "medium"}
+{"page": 777, "row_type": "row", "section": "PORTAGE LAPRAIRIE BAND, MANITOBA", "label": null, "values": [null, null, "Interest on invested capital", "17 56", null], "confidence": "medium"}
+{"page": 777, "row_type": "total", "section": "PORTAGE LAPRAIRIE BAND, MANITOBA", "label": null, "values": ["457 01", null, null, "457 01", null], "confidence": "medium"}
+{"page": 777, "row_type": "total", "section": "PORTAGE LAPRAIRIE BAND, MANITOBA", "label": null, "values": [null, null, "Balance on 30th June, 1888", "457 01", null], "confidence": "medium"}
+{"page": 778, "row_type": "row", "section": "ROSSEAU RIVER BAND, MANITOBA", "label": "To Costs in connection with liquor prosecutions, &c", "values": ["115 39", "By Balance on 30th June, 1887", "135 76"], "confidence": "high"}
+{"page": 778, "row_type": "row", "section": "ROSSEAU RIVER BAND, MANITOBA", "label": "Cost of ploughing, &c", "values": ["57 00", "Fines collected", "87 50"], "confidence": "high"}
+{"page": 778, "row_type": "row", "section": "ROSSEAU RIVER BAND, MANITOBA", "label": "Cost of threshing grain", "values": ["102 72", "Interest on invested capital", "5 40"], "confidence": "high"}
+{"page": 778, "row_type": "row", "section": "ROSSEAU RIVER BAND, MANITOBA", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["5 25", "Balance on 30th June, 1888", "81 70"], "confidence": "high"}
+{"page": 778, "row_type": "total", "section": "ROSSEAU RIVER BAND, MANITOBA", "label": null, "values": ["310 36", null, "310 36"], "confidence": "high"}
+{"page": 778, "row_type": "total", "section": "ROSSEAU RIVER BAND, MANITOBA", "label": "To Balance on 30th June, 1888", "values": ["81 70", null, null], "confidence": "high"}
+{"page": 779, "row_type": "row", "section": "FORT ALEXANDER BAND, MANITOBA", "label": "To Balance on 30th June, 1887", "values": ["67 97", "By Balance on 30th June, 1888", "70 69"], "confidence": "high"}
+{"page": 779, "row_type": "row", "section": "FORT ALEXANDER BAND, MANITOBA", "label": "Interest", "values": ["2 72", null, null], "confidence": "high"}
+{"page": 779, "row_type": "total", "section": "FORT ALEXANDER BAND, MANITOBA", "label": null, "values": ["70 69", null, "70 69"], "confidence": "high"}
+{"page": 779, "row_type": "total", "section": "FORT ALEXANDER BAND, MANITOBA", "label": "Balance on 30th June, 1888", "values": ["70 69", null, null], "confidence": "high"}
+{"page": 780, "row_type": "row", "section": "ASSABASKASING BAND, MANITOBA", "label": "To Balance on 30th June, 1888", "values": ["2,214 28", "By Balance on 30th June, 1887", "2,129 12"], "confidence": "high"}
+{"page": 780, "row_type": "row", "section": "ASSABASKASING BAND, MANITOBA", "label": null, "values": [null, "Interest on invested capital", "85 16"], "confidence": "high"}
+{"page": 780, "row_type": "total", "section": "ASSABASKASING BAND, MANITOBA", "label": null, "values": ["2,214 28", null, "2,214 28"], "confidence": "high"}
+{"page": 780, "row_type": "total", "section": "ASSABASKASING BAND, MANITOBA", "label": null, "values": [null, "Balance on 30th June, 1888", "2,214 28"], "confidence": "high"}
+{"page": 781, "row_type": "row", "section": "INDIANS OF THE LAKE OF THE WOODS, MANITOBA", "label": "To Balance on 30th June, 1887", "values": ["596 17", "By Balance on 30th June, 1888", "620 01"], "confidence": "high"}
+{"page": 781, "row_type": "row", "section": "INDIANS OF THE LAKE OF THE WOODS, MANITOBA", "label": "Interest", "values": ["23 84", null, null], "confidence": "high"}
+{"page": 781, "row_type": "total", "section": "INDIANS OF THE LAKE OF THE WOODS, MANITOBA", "label": null, "values": ["620 01", null, "620 01"], "confidence": "high"}
+{"page": 781, "row_type": "total", "section": "INDIANS OF THE LAKE OF THE WOODS, MANITOBA", "label": "Balance on 30th June, 1888", "values": ["620 01", null, null], "confidence": "high"}

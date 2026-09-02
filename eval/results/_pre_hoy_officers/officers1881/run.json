@@ -1,0 +1,142 @@
+{
+ "01": {
+  "seconds": 81.0,
+  "pages": "439\u2013439",
+  "windows": [
+   {
+    "window": [
+     439,
+     439
+    ],
+    "rows": 11,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 81.0,
+    "finish_reason": "stop",
+    "completion_tokens": 3072
+   }
+  ],
+  "rows": 11,
+  "complete": true
+ },
+ "02": {
+  "seconds": 114.2,
+  "pages": "443\u2013443",
+  "windows": [
+   {
+    "window": [
+     443,
+     443
+    ],
+    "rows": 9,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 114.2,
+    "finish_reason": "stop",
+    "completion_tokens": 4333
+   }
+  ],
+  "rows": 9,
+  "complete": true
+ },
+ "03": {
+  "seconds": 86.0,
+  "pages": "443\u2013444",
+  "windows": [
+   {
+    "window": [
+     443,
+     444
+    ],
+    "rows": 15,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 86.0,
+    "finish_reason": "stop",
+    "completion_tokens": 3273
+   }
+  ],
+  "rows": 15,
+  "complete": true
+ },
+ "04": {
+  "seconds": 65.5,
+  "pages": "444\u2013444",
+  "windows": [
+   {
+    "window": [
+     444,
+     444
+    ],
+    "rows": 9,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 65.5,
+    "finish_reason": "stop",
+    "completion_tokens": 2468
+   }
+  ],
+  "rows": 9,
+  "complete": true
+ },
+ "00": {
+  "seconds": 186.2,
+  "pages": "438\u2013439",
+  "windows": [
+   {
+    "window": [
+     438,
+     439
+    ],
+    "rows": 24,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 186.2,
+    "finish_reason": "stop",
+    "completion_tokens": 7035
+   }
+  ],
+  "rows": 24,
+  "complete": true
+ },
+ "06": {
+  "seconds": 18.9,
+  "pages": "504\u2013504",
+  "windows": [
+   {
+    "window": [
+     504,
+     504
+    ],
+    "rows": 1,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 18.9,
+    "finish_reason": "stop",
+    "completion_tokens": 721
+   }
+  ],
+  "rows": 1,
+  "complete": true
+ },
+ "05": {
+  "seconds": 169.3,
+  "pages": "444\u2013446",
+  "windows": [
+   {
+    "window": [
+     444,
+     446
+    ],
+    "rows": 43,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 169.3,
+    "finish_reason": "stop",
+    "completion_tokens": 6804
+   }
+  ],
+  "rows": 43,
+  "complete": true
+ }
+}

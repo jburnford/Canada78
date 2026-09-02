@@ -1,0 +1,128 @@
+{"row_type": "headers", "columns": ["Census Return", "Anglican", "Presbyterian", "Methodist", "Roman Catholic", "Other Christian Beliefs", "Pagan"]}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Algonquins, Golden Lake", "population": 92, "values": ["92", null, null, null, "92", null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Algonquins, Renfrew, North", "population": 286, "values": ["286", null, null, null, null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of the Thames", "population": 435, "values": ["435", "158", null, "277", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of Walpole Island", "population": 635, "values": ["635", "444", null, "164", "13", null, "14"], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of Sarnia", "population": 446, "values": ["446", "64", null, "382", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of Georgina and Snake Island", "population": 120, "values": ["120", null, null, "120", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of Rama", "population": 236, "values": ["236", null, null, "228", "8", null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of Saugeen", "population": 373, "values": ["373", "1", null, "332", "40", null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of Nawash", "population": 400, "values": ["400", null, null, "264", "136", null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas of Beausoleil", "population": 263, "values": ["263", null, null, "182", "81", null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Iroquois and Algonquins of Gibson, (Watha) Muskoka District", "population": 119, "values": ["119", null, null, "91", "5", "23", null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Moravians of the Thames", "population": 302, "values": ["302", "75", "1", "84", null, "142", null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Mississaguas of Mud Lake", "population": 165, "values": ["165", null, null, "165", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Mississaguas of Rice Lake", "population": 76, "values": ["76", null, null, "75", "1", null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Mississaguas of Scugog", "population": 38, "values": ["38", null, null, "38", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Mississaguas of Alnwick", "population": 229, "values": ["229", "10", null, "219", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Mississaguas of New Credit", "population": 244, "values": ["244", "9", "4", "201", null, "30", null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Mohawks of the Bay of Quinté", "population": 1206, "values": ["1,206", "1,206", null, null, null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Munsees of the Thames", "population": 124, "values": ["124", "54", null, "70", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Oneidas of the Thames", "population": 794, "values": ["794", "227", null, "567", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Pottawattamies of Walpole Island", "population": 187, "values": ["187", "63", null, "107", "3", null, "14"], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Pottawattamies of Aux Sables", "population": 22, "values": ["22", null, null, "22", null, null, null], "confidence": "high"}
+{"page": 598, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Ojibbewas and Ottawa of Manitoulin and Cockburn Islands at -", "population": null, "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 599, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Cockburn Island", "population": 53, "values": ["53", null, null, null, "53", null, null], "confidence": "high"}
+{"page": 599, "row_type": "total", "province": "ONTARIO", "agency": null, "band": "Carried forward", "population": 6845, "values": ["6,845", "2,311", "5", "3,558", "432", "195", "28"], "confidence": "high"}
+{"page": 600, "row_type": "total", "province": "ONTARIO", "agency": null, "band": "Brought forward", "population": 6845, "values": ["6,845", "2,311", "5", "3,588", "432", "195", "28"], "confidence": "medium"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Ojibbewas and Ottawas of Manitoulin and Cockburn Islands at -", "population": null, "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Sheshegwaning", "population": 168, "values": ["168", null, null, null, "168", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "West Bay", "population": 327, "values": ["327", null, null, null, "327", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Sucker Creek", "population": 96, "values": ["96", "52", null, null, "10", "34", null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "South Bay", "population": 65, "values": ["65", "6", null, null, "59", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Sheguiandah", "population": 106, "values": ["106", "96", null, null, "6", "4", null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Sucker Lake", "population": 15, "values": ["15", null, null, null, "15", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Wikwemikong (unceded)", "population": 998, "values": ["998", null, null, null, "998", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Wikwemikongsing (unceded)", "population": 122, "values": ["122", null, null, null, "122", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Obidgewong", "population": 10, "values": ["10", null, null, null, "4", null, "6"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Ojibbewas of Lake Superior at -", "population": null, "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Fort William", "population": 380, "values": ["380", null, null, null, "234", null, "17"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Red Rock or Lake Helen", "population": 211, "values": ["211", "23", null, null, "177", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Pays Plat", "population": 53, "values": ["53", null, null, null, "53", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Lake Nepigon", "population": 398, "values": ["398", null, null, null, "148", null, "240"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Pic River", "population": 166, "values": ["166", null, null, null, "166", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Long Lake", "population": 248, "values": ["248", "9", null, null, "227", null, "12"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Michipicoten and Big Heads", "population": 321, "values": ["321", "123", null, "3", "195", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Ojibbewas of Lake Huron at -", "population": null, "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Thessalon River", "population": 201, "values": ["201", null, null, null, "201", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Maganettawan", "population": 66, "values": ["66", null, null, null, "66", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Spanish River", "population": 557, "values": ["557", "70", null, null, "412", null, "75"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "White Fish Lake", "population": 141, "values": ["141", "4", null, "1", "125", null, "11"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Mississagua River", "population": 172, "values": ["172", null, null, null, "163", null, "9"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Point Grondin", "population": 54, "values": ["54", null, null, "8", "43", null, "3"], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Serpent River", "population": 120, "values": ["120", null, null, null, "120", null, null], "confidence": "high"}
+{"page": 600, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "French River", "population": null, "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 601, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Tagawinini", "population": 118, "values": ["118", null, null, null, "118", null, null], "confidence": "high"}
+{"page": 601, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "White Fish River", "population": 92, "values": ["92", "51", null, null, "35", "6", null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Parry Island", "population": 100, "values": ["100", null, null, "48", "28", null, "24"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Shawanaga", "population": 111, "values": ["111", null, null, "80", "31", null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Henvey's Inlet", "population": 197, "values": ["197", null, null, "43", "154", null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Lake Nipissing", "population": 193, "values": ["193", null, null, null, "193", null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Temogamingue", "population": 75, "values": ["75", null, null, null, "75", null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Dokis", "population": 75, "values": ["75", null, null, null, "75", null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Garden River", "population": 464, "values": ["464", "147", null, "6", "311", null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Batchewana Bay", "population": 364, "values": ["364", "4", null, "8", "352", null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Six Nations on the Grand River", "population": 3703, "values": ["3,703", "1,527", null, "409", null, "964", "803"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Wyandottes of Anderdon", "population": 10, "values": ["10", null, null, null, null, null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Chippewas and Saulteaux of Treaty No. 3 at -", "population": null, "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Hungry Hall No. 1", "population": 43, "values": ["43", null, null, null, null, null, "43"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Hungry Hall No. 2", "population": 22, "values": ["22", null, null, null, null, null, "22"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Long Sault No. 1", "population": 39, "values": ["39", "6", null, null, null, null, "33"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Long Sault No. 2", "population": 62, "values": ["62", "6", null, null, null, null, "56"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Manitou Rapids No. 1", "population": 87, "values": ["87", "4", null, null, null, null, "83"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Manitou Rapids No. 2", "population": 36, "values": ["36", "5", null, null, null, null, "31"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Little Forks", "population": 52, "values": ["52", "4", null, null, null, null, "48"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Coutcheeching", "population": 133, "values": ["133", "5", null, null, "102", null, "26"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Stangecoming", "population": 47, "values": ["47", null, null, null, null, null, "47"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Niacatchewenin", "population": 53, "values": ["53", null, null, null, null, null, "53"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Nickickenesemenecaning", "population": 70, "values": ["70", null, null, null, null, null, "70"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Rivière la Seine", "population": 142, "values": ["142", null, null, null, null, null, "142"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Lac la Croix", "population": 105, "values": ["105", null, null, null, null, null, "105"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Lac des Mille Lacs", "population": 86, "values": ["86", null, null, null, null, null, "86"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Kawaiagamot (Sturgeon Lake)", "population": 27, "values": ["27", null, null, null, null, null, "27"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Wabigoon", "population": 86, "values": ["86", null, null, null, null, null, "86"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Frenchman's Head", "population": 190, "values": ["190", "133", null, null, "54", null, "3"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Lac Seul", "population": 331, "values": ["331", "280", null, null, "2", null, "49"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Wabuskang", "population": 65, "values": ["65", "27", null, null, "5", null, "33"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Grassy Narrows", "population": 98, "values": ["98", "10", null, null, "54", null, "34"], "confidence": "high"}
+{"page": 602, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Eagle Lake", "population": 61, "values": ["61", null, null, null, null, null, "61"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "The Dalles", "population": 64, "values": ["64", "47", null, null, "14", null, "3"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Islington", "population": 157, "values": ["157", "129", null, null, "4", null, "24"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Rat Portage", "population": 88, "values": ["88", null, null, null, null, null, "88"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "North West Angle No. 37", "population": 119, "values": ["119", null, null, null, null, null, "119"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "North West Angle No. 33", "population": 54, "values": ["54", null, null, null, null, null, "54"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "North West Angle No. 34", "population": 22, "values": ["22", null, null, null, null, null, "22"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Big Island", "population": 141, "values": ["141", null, null, null, null, null, "141"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Assabasca", "population": 192, "values": ["192", null, null, null, null, null, "192"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "White Fish Bay", "population": 51, "values": ["51", null, null, null, "6", null, "45"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Shoal Lake No. 40", "population": 62, "values": ["62", null, null, null, null, null, "62"], "confidence": "high"}
+{"page": 603, "row_type": "band", "province": "ONTARIO", "agency": null, "band": "Shoal Lake No. 39", "population": 81, "values": ["81", null, null, null, null, null, "81"], "confidence": "high"}
+{"page": 603, "row_type": "total", "province": "ONTARIO", "agency": null, "band": "Totals", "population": 20208, "values": ["20,208", "5,079", "5", "4,194", "6,084", "1,203", "3,197"], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Abenakis of St. Francis", "population": 333, "values": ["333", "67", null, null, "252", "14", null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Abenakis of Becancour", "population": 52, "values": ["52", null, null, null, "52", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Algonquins of River Desert", "population": 356, "values": ["356", null, null, null, "356", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Algonquins of Temiscamingue", "population": 162, "values": ["162", null, null, null, "162", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Pontiac, unorganized", "population": 230, "values": ["230", null, null, null, null, null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "County of Ottawa", "population": 1063, "values": ["1,063", null, null, null, null, null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Champlain, St. Maurice Territory", "population": 261, "values": ["261", null, null, null, null, null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "St. Maurice", "population": 125, "values": ["125", null, null, null, null, null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Amalecites of Viger", "population": 121, "values": ["121", null, null, null, "121", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Hurons of Lorette", "population": 432, "values": ["432", "1", "4", null, "427", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Iroquois of Caughnawaga", "population": 1879, "values": ["1,879", null, null, "33", "1,846", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Iroquois of St. Regis", "population": 1297, "values": ["1,297", null, null, "139", "1,158", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Iroquois of and Algonquins of the Lake of Two Mountains", "population": 443, "values": ["443", null, null, "279", "164", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Micmacs of Maria", "population": 86, "values": ["86", null, null, null, "86", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Micmacs of Restigouche", "population": 521, "values": ["521", null, null, null, "521", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Indians of the Labrador Peninsula, viz.: -", "population": null, "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Betsiamits", "population": 428, "values": ["428", null, null, null, "428", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Escoumains", "population": 54, "values": ["54", null, null, null, "54", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Godbout", "population": 40, "values": ["40", null, null, null, "40", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Grand Romaine", "population": 304, "values": ["304", null, null, null, "304", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Lake St. John", "population": 425, "values": ["425", "41", null, null, "384", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Mingan", "population": 158, "values": ["158", null, null, null, "158", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Seven Islands", "population": 353, "values": ["353", null, null, null, "353", null, null], "confidence": "high"}
+{"page": 604, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "St. Anne du Labrador, Chicoutimi", "population": 45, "values": ["45", null, null, null, null, null, null], "confidence": "high"}
+{"page": 605, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Unorganized territories", "population": 1387, "values": ["1,387", null, null, null, null, null, null], "confidence": "high"}
+{"page": 605, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Amalecites in County of Quebec", "population": 31, "values": ["31", null, null, null, "31", null, null], "confidence": "high"}
+{"page": 605, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Abenakis in County of Quebec", "population": 17, "values": ["17", null, null, null, "17", null, null], "confidence": "high"}
+{"page": 605, "row_type": "band", "province": "QUEBEC", "agency": null, "band": "Algonquins in County of Quebec", "population": 1, "values": ["1", null, null, null, "1", null, null], "confidence": "high"}

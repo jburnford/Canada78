@@ -1,0 +1,94 @@
+{"row_type": "headers", "title": "Indians", "columns": ["Grant ($ cts.)", "Expenditure ($ cts.)", "Grant not used ($ cts.)", "Grant exceeded ($ cts.)"]}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Salaries", "values": ["20,840 00", "19,083 64", "1,756 36", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Relief", "values": ["9,000 00", "8,767 67", "232 33", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Seed and implements", "values": ["1,000 00", "153 20", "846 80", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Medical attendance and medicines", "values": ["18,500 00", "18,341 45", "158 55", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Day schools", "values": ["9,400 00", "8,907 83", "492 17", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Industrial and boarding schools", "values": ["77,850 00", "66,248 92", "11,601 08", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Travelling expenses", "values": ["5,600 00", "4,676 63", "923 37", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Miscellaneous and office expenses", "values": ["10,620 00", "7,383 23", "3,236 77", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA", "label": "Surveys and reserve commission", "values": ["7,000 00", "4,653 71", "2,346 29", null], "confidence": "high"}
+{"page": 1071, "row_type": "total", "section": "BRITISH COLUMBIA", "label": "...", "values": ["159,810 00", "138,21628", "21,593 72", null], "confidence": "medium"}
+{"page": 1071, "row_type": "row", "section": "GENERAL", "label": "Salaries of inspectors", "values": ["3,000 00", "3,000 00", null, null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "GENERAL", "label": "Travelling expenses of inspectors and clerical assistance", "values": ["1,900 00", "1,658 69", "241 31", null], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "GENERAL", "label": "Printing, stationery and school material", "values": ["6,000 00", "3,765 13", "2,234 87", null], "confidence": "high"}
+{"page": 1071, "row_type": "total", "section": "GENERAL", "label": "...", "values": ["10,900 00", "8,1423 82", "2,476 18", null], "confidence": "medium"}
+{"row_type": "headers", "title": "RETURN C showing transactions in connection with the Fund during the year ended June 30, 1903.", "columns": ["Debit ($ cts.)", "Credit ($ cts.)"]}
+{"page": 1071, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Balance, June 30, 1902", "values": [null, "4,045,945 86"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Collections on land sales; timber and stone dues; rents, fines and fees", "values": [null, "217,482 49"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Interest for year ended June 30, 1903, on above balance", "values": [null, "166,146 82"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Legislative grants to supplement the Funds", "values": [null, "26,826 65"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Amount award of arbitrators charged Province, Canada account", "values": [null, "248,712 18"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Outstanding cheques for 1900 - 01", "values": [null, "16 22"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Expenditure during the year 1902 - 03", "values": ["296,217 65", null], "confidence": "high"}
+{"page": 1071, "row_type": "total", "section": "INDIAN TRUST FUND", "label": "Balance, June 30, 1903", "values": ["4,408,130 22", "4,705,130 22"], "confidence": "high"}
+{"row_type": "headers", "title": "Summary of Expenditure", "columns": ["...", "Amount ($ cts.)", "Total ($ cts.)"]}
+{"page": 1073, "row_type": "row", "section": null, "label": "Civil Government - Salaries", "values": ["(Page J - 3)", "52,582 02", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": null, "label": "Civil Government - Contingencies", "values": ["(J - 20)", "10,002 05", null], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": null, "label": "Indians - Ontario and Quebec -", "values": [null, null, "62,584 07"], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief and seed grain, Quebec", "values": ["(J - 21)", "6,861 17", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief and medical attendance, Ontario", "values": ["(J - 22)", "2,821 56", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Ontario and Quebec - Blankets and clothing", "values": ["(J - 22)", "481 43", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Schools - Ontario, Quebec and Maritime Provinces", "values": ["(J - 22)", "44,214 51", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Salaries of chiefs and of agent at St. Régis", "values": ["(J - 24)", "90 00", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Payment of Robinson Treaty annuities", "values": ["(J - 24)", "16,790 40", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Surveys of Indian Reserves", "values": ["(J - 24)", "0 30", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Grant to Indian Land Management Fund", "values": ["(J - 24)", "14,000 00", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Grant to Agricultural Society", "values": ["(J - 24)", "90 00", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Legal and Liquor prosecution expenses", "values": ["(J - 24)", "2,955 08", null], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": "Indians - Ontario and Quebec -", "label": "...", "values": [null, null, "88,364 45"], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": null, "label": "Indians - Nova Scotia", "values": ["(J - 25)", null, "7,620 51"], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": null, "label": "Indians - New Brunswick", "values": ["(J - 26)", null, "6,891 13"], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": null, "label": "Indians - Prince Edward Island", "values": ["(J - 27)", null, "1,574 22"], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": null, "label": "Indians - Manitoba and Northwest Territories -", "values": [null, null, null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Manitoba and Northwest Territories -", "label": "Schools and subdivision of expenditure by agencies", "values": ["(J 28)", "809,363,07", null], "confidence": "medium"}
+{"page": 1073, "row_type": "row", "section": "Indians - Manitoba and Northwest Territories -", "label": "Sioux", "values": ["(J - 77)", "4,214 32", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - Manitoba and Northwest Territories -", "label": "Surveys", "values": ["(J - 77)", "4,999 15", null], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": "Indians - Manitoba and Northwest Territories -", "label": "...", "values": [null, null, "8,148 06"], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": null, "label": "Indians - Yukon", "values": ["(J - 78)", null, "8,148 06"], "confidence": "high"}
+{"page": 1073, "row_type": "total", "section": null, "label": "Indians - British Columbia -", "values": [null, null, null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Victoria Office", "values": ["(J - 78)", "10,040 54", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Babine Agency", "values": ["(J - 79)", "3,110 40", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Cowichan Agency", "values": ["(J - 79)", "6,992 20", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Fraser Agency", "values": ["(J - 80)", "11,857 94", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Kamloops and Okanagan Agencies", "values": ["(J - 81)", "6,208 44", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Kootenay Agency", "values": ["(J - 81)", "2,247 25", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Kwawkewlth Agency", "values": ["(J - 82)", "4,909 29", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Northwest Coast Agency", "values": ["(J - 82)", "9,231 25", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "West Coast Agency", "values": ["(J - 83)", "7,622 48", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Williams Lake Agency", "values": ["(J - 84)", "5,093 86", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Alberni Girls' Home", "values": ["(J - 85)", "1,802 75", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Albert Bay, Girls' Home", "values": ["(J - 85)", "357 50", null], "confidence": "high"}
+{"page": 1073, "row_type": "row", "section": "Indians - British Columbia -", "label": "Alert Bay Industrial School", "values": ["(J - 85)", "2,589 14", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "All Hallows Boarding School", "values": ["(J - 85)", "1,699 58", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Clayoquot Boarding School", "values": ["(J - 85)", "3,059 00", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Coqualeetza Home", "values": ["(J - 86)", "8,876 78", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Kamloops Industrial School", "values": ["(J - 85)", "6,497 93", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Kootenay Industrial School", "values": ["(J - 85)", "6,502 29", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Kuper Island Industrial School", "values": ["(J - 85)", "6,500 00", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Lytton Industrial School", "values": ["(J - 85)", "400 86", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Metlakahtla Industrial School", "values": ["(J - 85)", "5,579 64", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Metlakahtla Girls' Home", "values": ["(J - 86)", "8,861 54", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Port Simpson Girls' Home", "values": ["(J - 86)", "1,200 00", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Port Simpson Boys' Boarding School", "values": ["(J - 86)", "550 00", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Squamish Boarding School", "values": ["(J - 86),", "2,760 00", null], "confidence": "medium"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "St. Mary's Boarding School", "values": ["(J - 86)", "3,600 75", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Williams Lake Industrial School", "values": ["(J - 86)", "44,650 00", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Schools - General", "values": ["(J - 86)", "760 03", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - British Columbia -", "label": "Indian Reserve Survey and Commission", "values": ["(J - 86)", "3,000 00", null], "confidence": "high"}
+{"page": 1074, "row_type": "total", "section": "Indians - British Columbia -", "label": "...", "values": [null, null, "138,216 28"], "confidence": "high"}
+{"page": 1074, "row_type": "total", "section": null, "label": "Indians - General", "values": [null, null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - General", "label": "Salaries of Inspectors", "values": ["(J - 87)", "3,000 00", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - General", "label": "Travelling expenses of Inspectors and clerical assistance", "values": ["(J - 87)", "1,658 69", null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indians - General", "label": "Printing and Stationery", "values": ["(J - 87)", "3,765 13", null], "confidence": "high"}
+{"page": 1074, "row_type": "total", "section": "Indians - General", "label": "...", "values": [null, null, "8,423 82"], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": null, "label": "Miscellaneous - Unforeseen expenses", "values": ["(J - 88)", null, "700 00"], "confidence": "high"}
+{"page": 1074, "row_type": "total", "section": null, "label": "...", "values": [null, null, "1,141,090 08"], "confidence": "high"}
+{"page": 1074, "row_type": "total", "section": null, "label": "Indian Trust Fund -", "values": [null, null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indian Trust Fund -", "label": "Summary of balances", "values": ["(J - 89)", null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indian Trust Fund -", "label": "Summary of accounts", "values": ["(J - 90)", null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indian Trust Fund -", "label": "Land Management Fund", "values": ["(J - 170)", null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indian Trust Fund -", "label": "Quebec Indian Fund", "values": ["(J - 170)", null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indian Trust Fund -", "label": "Superannuation account", "values": ["(J - 173)", null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indian Trust Fund -", "label": "Indian Savings account", "values": ["(J - 173)", null, null], "confidence": "high"}
+{"page": 1074, "row_type": "row", "section": "Indian Trust Fund -", "label": "Salaries and travel, outside service", "values": ["(J - 5)", null, null], "confidence": "high"}

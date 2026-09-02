@@ -1,0 +1,72 @@
+{"row_type": "headers", "title": "RECAPITULATION", "columns": ["Value of Farm Products, also including Hay", "Value of Beef sold used for Food", "Value of Wages Earned", "Received from Land Rentals and Timber", "Earned by Fishing and Trapping", "Earned by Hunting", "Earned by other Industries and Occupations", "Annuities paid and Interest on Indian Trust Funds", "Total Income of Indians"]}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Caradoc", "values": ["39,025", "2,700", "101,500", "10,730", null, "900", "1,835", "3,610 19", "160,300 19"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Chapleau", "values": ["1,000", null, "5,000", null, "600", "30,000", null, "12,968 00", "49,568 00"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Christian Island", "values": ["2,250", "300", "4,000", null, "400", "100", "2,500", "9,028 45", "18,578 45"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Fort Frances", "values": ["5,100", "160", "36,000", "388", "41,400", "41,000", "4,500", "8,019 99", "136,567 99"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Fort William", "values": ["1,700", "1,500", "38,000", "155", "9,000", "30,000", null, "11,199 34", "91,554 34"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Georgina Island", "values": ["3,200", "700", "7,500", "300", "450", "300", "600", "1,649 99", "14,699 99"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Golden Lake", "values": ["1,000", "600", "4,000", "05", null, "1,000", "3,000", "9 90", "9,704 90"], "confidence": "medium"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Gore Bay", "values": ["15,975", "325", "29,500", "6,000", "40", "54", "3,700", "10,094 76", "65,688 76"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Kenora", "values": ["8,701", "360", "47,350", "55", "40,640", "56,585", "31,530", "15,194 28", "200,415 28"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Manitowaning", "values": ["63,180", "20,495", "284,000", "4,165", "10,595", "11,500", "25,050", "22,529 73", "441,514 73"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Moravian", "values": ["17,150", "1,100", "30,000", "425", "200", "200", "200", "7,348 11", "56,623 11"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "New Credit", "values": ["26,519", "3,300", "28,000", "425", "100", "475", "3,300", "5,510 67", "67,629 67"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Parry Sound", "values": ["8,450", "2,100", "38,500", null, null, "3,300", null, "12,123 12", "64,473 12"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Rama", "values": ["9,520", null, "20,000", "300", "2,200", "4,000", "5,000", "3,295 76", "44,315 76"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Rice Lake", "values": ["16,435", "5,750", "19,000", "800", "1,600", "8,500", "5,750", "3,063 62", "60,898 62"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Sarnia", "values": ["43,920", "4,700", "54,750", "3,600", "1,100", "1,200", "9,400", "14,734 85", "133,404 85"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Saugeen", "values": ["7,000", "800", "20,000", "6,000", "1,000", "1,200", "3,500", "17,502 84", "57,002 84"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Sault Ste. Marie", "values": ["15,700", "2,000", "16,000", null, "11,500", "26,000", "7,300", "14,527 95", "93,027 95"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Savanne", "values": ["3,174", null, "39,043", null, "39,940", "82,958", "10,614", "5,905 00", "181,634 00"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Scugog", "values": ["1,198", "600", "800", "80", "50", "800", "1,050", "704 15", "5,282 15"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Six Nations", "values": ["460,900", null, "175,000", "5,100", null, null, null, "43,503 38", "684,503 38"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Sturgeon Falls", "values": ["10,100", "1,300", "28,500", "11,000", "4,000", "135,000", "7,000", "58,172 69", "255,072 69"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Thessalon", "values": ["10,872", null, "40,500", "9,500", "1,320", "11,500", "1,220", "6,528 05", "81,440 05"], "confidence": "high"}
+{"page": 93, "row_type": "row", "section": "ONTARIO", "label": "Tyendinaga", "values": ["100,000", "4,500", "48,000", "9,123", "3,000", "1,500", "1,000", "6,142 85", "173,265 85"], "confidence": "high"}
+{"page": 93, "row_type": "total", "section": "ONTARIO", "label": "Total", "values": ["883,819", "55,890", "1,131,043", "77,591", "176,235", "452,422", "129,449", "323,683 94", "3,230,132 94"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "PRINCE EDWARD ISLAND", "label": "PRINCE EDWARD ISLAND", "values": ["3,000", "500", "1,500", null, "1,000", "100", "7,000", null, "13,100 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "QUEBEC", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Becancourt", "values": ["1,500", "80", "500", null, "45", "60", null, "385 75", "2,570 75"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Bersimis", "values": ["700", "150", "1,350", "2,500", "500", "40,000", "25,000", "3,149 07", "73,349 07"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Cacouna", "values": [null, null, "2,400", null, "100", "460", "1,600", "463 74", "4,963 74"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Caughnawaga", "values": ["192,400", "15,000", "250,000", "7,600", "400", "500", "15,000", "1,023 22", "481,923 22"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Jeune Lorette", "values": [null, null, "30,000", null, null, "1,500", "23,000", "875 77", "55,375 77"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Maniwaki", "values": ["10,920", "245", "38,483", "11,287", "75", "26,605", "1,426", "2,891 76", "91,932 76"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Maria", "values": ["1,000", "200", "4,500", null, "500", "700", "2,000", null, "8,900 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Mingan", "values": [null, null, "100", null, null, "8,000", null, null, "8,100 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Oka", "values": ["8,000", "2,000", "20,000", null, "100", "100", "600", "438 29", "31,238 29"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Pierreville", "values": ["2,500", "2,000", "1,000", null, null, "1,100", "15,000", "269 50", "21,869 80"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Pointe Bleue", "values": ["15,000", "3,000", "12,000", null, "1,200", "35,000", "3,000", "498 53", "69,698 53"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Restigouche", "values": ["15,800", "900", "3,700", "3,500", "600", "1,000", "8,000", "108 10", "33,608 10"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Seven Islands", "values": [null, null, "1,000", null, "1,000", "13,000", "1,000", null, "16,000 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "St. Regis", "values": ["65,000", "15,000", "83,000", "750", "3,550", "2,500", "15,000", "3,330 95", "188,130 95"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "QUEBEC", "label": "Timiskaming", "values": ["4,000", "200", "13,000", null, "200", "3,000", "100", "2,098 33", "22,598 33"], "confidence": "high"}
+{"page": 94, "row_type": "total", "section": "QUEBEC", "label": "Total", "values": ["316,820", "38,775", "461,033", "25,637", "8,270", "133,465", "110,726", "15,533 31", "1,110,259 31"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "SASKATCHEWAN", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Assiniboine", "values": ["36,400", "10,730", "1,840", null, null, "50", "11,785", "1,769 21", "62,574 21"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Battleford", "values": ["77,275", "8,068", "19,175", "17,180", "6,000", "7,150", "3,200", "11,710 36", "149,758 36"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Carlton", "values": ["54,050", "10,180", "5,595", null, "1,505", "9,670", "14,430", "16,279 77", "111,709 77"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Crooked Lake", "values": ["131,236", "7,063", "17,640", null, "6,000", null, null, "29,465 27", "191,404 27"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Duck Lake", "values": ["80,207", "18,568", "15,453", null, null, "4,071", "33,379", "8,066 07", "159,744 07"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "File Hills Agency", "values": ["13,500", "3,700", "450", null, null, "400", "3,500", "1,705 00", "23,255 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "File Hills Colony", "values": ["30,000", "4,500", "1,000", null, null, null, "2,000", null, "37,500 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Moose Mountain", "values": ["22,783", "3,200", "800", "1,600", "300", "1,600", "4,000", "3,180 00", "37,463 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Moose Woods", "values": ["8,500", "10,000", "1,750", null, null, "750", "1,500", "3,675 00", "26,175 00"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Onion Lake", "values": ["36,065", "12,200", "17,300", "715", "9,200", "14,400", "6,900", "4,973 60", "101,753 60"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Pelly", "values": ["44,900", "5,453", "16,700", "3,000", null, "9,700", "2,700", "11,818 28", "94,271 28"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Qu'Appelle", "values": ["130,000", "85,000", "11,000", "750", "1,200", "2,500", "9,000", "25,792 55", "188,74255"], "confidence": "medium"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Touchwood", "values": ["100,000", "17,000", "16,000", "3,500", "10,000", "42,000", "20,000", "10,992 80", "219,492 80"], "confidence": "high"}
+{"page": 94, "row_type": "row", "section": "SASKATCHEWAN", "label": "Isle à la Crosse", "values": [null, null, null, null, null, null, null, "11,000 00", "11,000 00"], "confidence": "high"}
+{"page": 95, "row_type": "row", "section": "SASKATCHEWAN", "label": "Wood Mountain", "values": [null, null, null, null, null, null, null, "6,500 00", "6,500 00"], "confidence": "high"}
+{"page": 95, "row_type": "total", "section": "SASKATCHEWAN", "label": "Total", "values": ["764,916", "119,162", "124,703", "26,745", "34,205", "92,291", "112,394", "146,927 91", "1,421,343 91"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "PROVINCES", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "Alberta", "values": ["508,977", "57,753", "140,014", "105,042", "4,140", "26,315", "96,770", "121,881 53", "1,060,892 53"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "British Columbia", "values": ["854,899", "72,990", "591,020", "43,502", "731,435", "233,932", "293,080", "22,051 23", "2,842,909 23"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "Manitoba", "values": ["212,338", "17,715", "168,310", "1,026", "81,175", "153,985", "61,295", "69,299 66", "765,143 66"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "New Brunswick", "values": ["9,900", "260", "31,200", "5,320", "3,260", "2,450", "7,875", "2,190 65", "62,455 65"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "Nova Scotia", "values": ["22,450", "5,010", "77,950", null, "7,040", "8,950", "41,905", "1,007 53", "164,312 53"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "Ontario", "values": ["883,819", "55,890", "1,131,043", "77,591", "176,235", "452,422", "120,449", "323,683 94", "3,230,132 94"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "Prince Edward Island", "values": ["3,000", "500", "1,500", null, "1,000", "100", "7,000", null, "13,100 00"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "Quebec", "values": ["316,820", "38,775", "461,033", "25,637", "8,270", "133,465", "110,726", "15,533 31", "1,110,259 31"], "confidence": "high"}
+{"page": 96, "row_type": "row", "section": "RECAPITULATION", "label": "Saskatchewan", "values": ["764,916", "119,162", "124,703", "26,745", "34,205", "92,291", "112,394", "146,927 91", "1,421,343 91"], "confidence": "high"}
+{"page": 96, "row_type": "total", "section": "RECAPITULATION", "label": "Total", "values": ["3,577,119", "368,055", "2,726,773", "284,863", "1,046,760", "1,103,910", "860,494", "702,575 76", "10,670,549 76"], "confidence": "high"}

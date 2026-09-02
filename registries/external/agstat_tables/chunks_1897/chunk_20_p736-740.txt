@@ -1,0 +1,169 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 637 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+POPULATION.
+                                                                                                                 Post Office
+Province,        Name of        Resident                 From 6 to 15  From 16 to 20 From 21 to 65
+                                            Under 6                                                From 65 years Address of
+Agency or        Superintendent Indian                   Yrs.,         Yrs.,         Yrs.,
+                                            Years.                                                 Upwards.      Superintendent
+Band.            or Agent.      Population.              Inclusive.    Inclusive.    Inclusive.
+                                                                                                                 or Agent
+...              ...            ...        Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...            ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+ONTARIO
+Grand River
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,703       214   261     385   359      186   143    1,008 978     83    86      Brantford.
+                 Supt
+Missisaguas,     Hugh Stewart,
+                               244         16    5       40    17       10    8      63    72      5     8       Hagersville.
+New Credit       Agent
+                Alex.
+Walpole Island McKelvey         822        54    67      95    97       32    40     225   212     ...   ...     Wallaceburg.
+                Agent
+Western
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 Adam,
+1st Division                    (*)468     24    41      38    34       30    15     125   120     10    9       Sarnia.
+                 English, Agent
+                 A.S.
+2nd Division     McDougall      1,353      81    79      156   128      72    67     392   319     32    27      Melbourne
+                 Agent
+                 John Beattie
+3rd Division                    302        29    23      35    35       11    10     81    76      2     ...     Highgate.
+                 Agent
+Northern
+Superintendency ...             ...        ..
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+A.
+Clandeboye    E. McColl,
+                             58      58        ...    ...        ...     70       ...      70     ...      ...       3       618         39       13    115      25       2         31      11,750 00   ...
+Agency        Inspector
+Portage la  Francis
+Prairie     Ogletree,        14      12        2      ...        ...     6        2        2      2        ...       5       140         7        25    7        20       7         10      1,930 00    ...
+Agency      Agent
+Manotowapah H. Martineau
+                             30      22        ...    ...        ...     20       ...      18     ...      ...       7       2           19       110   106      65       ...       31      3,296 00    ...
+Agency      Agent
+Rat Portage  R.N.J. Pither
+                             ...     1         ...    ...        ...     ...      ...      ...    ...      ...       ...     15          ...      ...   ...      ...      ...       ...     Not given   ...
+Agency       Agent
+Berens River E. McColl,
+                             32      30        ...   ...         ...     1        ...      ...    ...      ...       12      1,040       3        2     37       ...      ...       1       2,563 00    ...
+Agency       Inspector
+The Pas       Joseph
+                            23       32        ...   ...         ...     ...      ...      ...    2        ...       2       260         ...      1     ...      ...      ...       ...     295 00      ...
+Agency        Reader, Agent
+
+
+
+=== EXTRACT FROM HERE (pages 736-740) ===
+<!-- page 736 -->
+...   Totals   157   155   2   ...   ...   97   2   90   4   ...   29   2,075   68   151   265   110   9   73   19,834 00   `
+
+<!-- page 737 -->
+Table, see page 426.
+
+<!-- page 738 -->
+                                                                                                                                                               Value of
+Province,    Name of                                                                                                                                           Live
+Agency or    Superintendent LIVE STOCK AND POULTRY.                                                                                                            Stock    Remarks.
+Band.        or Agent.                                                                                                                                         and
+                                                                                                                                                               Poultry.
+...          ...            Horses.                Cattle.                            Other Stock.                             Poultry.                        ...      ...
+                                             Colts,
+                            Stallions                                                                                                                  Cocks
+                                             Fillies        Oxen,         Cows, Young                 Boars,    Sows,
+...          ...            and       Mares.         Bulls.       Steers.               Sheep. Lambs.                     Pigs. Turkeys. Geese. Ducks. and   ...          ...
+                                             and            Work.         Milch. Stock.               Breeding. Breeding.
+                            Geldings.                                                                                                                  Hens.
+                                             Foals.
+
+BRITISH   ...               ...       ...    ...   ...       ...   ...   ...   ...    ...    ...     ...       ...       ...   ...        ...   ...    ...     $ cts.     ...
+COLUMBIA.
+Cowichan  W.H. Lomas,
+                            124       136    75    9         58    4     339   307    622    265     1         4         55    50         140   276    2,620 22,890 00 ...
+Agency    Agent
+West Coast   Harry Guillod
+                           12         6      2     3         ...   ...   15    10     11     4       ...       ...       ...   ...        21    26     638     1,760 50 ...
+Agency       Agent
+Kwawkewlth R.H. Pidcock
+                            1         ...    ...   1         ...   ...   5     5      2      ...     ...       ...       15    ...        ...   ...    399     594 75     ...
+Agency     Agent
+Lower Fraser Frank Devlin
+                            320       314    88    42        84    85    694   472    184    312     44        217       1,848 ...        ...   834    2,653 61,622.25 ...
+Agency       Agent
+Williams    Ewen Bell
+                            2,092     ...    ...   36        ...   393   400   201    ...    ...     18        32        308    ...       5     5      1,855 87,525 00 ...
+Lake Agency Agent
+             Jas. B.
+Kamloops
+             Leighton       1,665     1,756 1,284 37         ...   50    296   411    30     40      19        58        230    ...       10    ...    1,510 53,982 50 ...
+Agency
+             Agent
+             Jas. B.
+Okanagan
+             Leighton       820       850    690   24        ...   107   148   400    5      2       15        57        215    ...       ...   ...    400     30,753 00 ...
+Agency
+             Agent
+             R.L.T.
+Kootenay
+             Galbraith      725       585    490   25        ...   95    395   322    ...    ...     ...       ...       ...    ...       ...   ...    ...     70,050 00 ...
+Agency
+             Agent
+North-west   Chas. Todd
+                            14        14     7     6         ...   14    19    29     ...    ...     ...       ...       15     ...       3     15     2,797 4,546 00 ...
+Coast Agency Agent
+                                                                                                                                                               333,724
+...          Totals         6,273     3,661 2,636 183        142   748   2,311 2,154 854     623     97        368       2,686 50         179   1,156 12,872              ...
+                                                                                                                                                               50
+
+             ...            ...       ...    ...   ...       ...   ...   ...   ...    ...    ...     ...       ...       ...    ...       ...   ...    ...     ...        ...
+MANITOBA.
+                                                                                                                                                                         In St.
+                                                                                                                                                                         Peter's
+                                                                                                                                                                         Band
+                                                                                                                                                                         there are
+Clandeboye   E. McColl,                                                                                                                                                  156
+                            29        8      2     9         285   22    301   389    4      ...     ...       ...       189    ...       ...   ...    ...     25,225 00
+Agency       Inspector                                                                                                                                                   stallions,
+                                                                                                                                                                         geldings,
+                                                                                                                                                                         mares
+                                                                                                                                                                         and
+                                                                                                                                                                         foals.
+
+<!-- page 739 -->
+Portage la  Francis
+Prairie     Ogletree,         37    29    23    2     28    9     15    16    ...   ...   ...   ...   ...   ...   ...   ...   ...   3,400 00 ...
+Agency      Agent
+Manotowapah H. Martineau
+                              91    56    24    27    119   117   312   436   3     1     18    19    38    ...   4     10    256   19,955 00 ...
+Agency      Agent
+Rat Portage   R.J.N. Pither                                                                                                         Not
+                              4     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...              ...
+Agency        Agent                                                                                                                 given.
+Berens River E. McColl,
+                              2     1     ...   17    68    42    166   141   ...   ...   ...   ...   29    ...   ...   ...   40    8,925 00 ...
+Agency       Inspector
+The Pas       Joseph
+                            7       8     5     11    26    50    92    127   ...   ...   ...   ...   ...   ...   ...   ...   ...   5,290 00 ...
+Agency        Reader, Agent
+...           Totals          170   102   54    66    526   240   886   1,109 7     1     18    19    256   ...   4     10    296   65,795 00 ...
+
+<!-- page 740 -->
+Table, see page 428.
+

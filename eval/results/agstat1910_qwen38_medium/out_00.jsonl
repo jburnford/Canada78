@@ -1,0 +1,105 @@
+{"row_type": "headers", "title": "AGRICULTURAL AND INDUSTRIAL STATISTICS. NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.", "columns": ["Number of Indians", "Cleared but not under cultivation (Acres)", "Under actual cultivation (Acres)", "Number engaged in farming", "Number engaged in stock-raising", "Number engaged in hunting, trapping and fishing", "Number engaged in other industries"]}
+{"page": 794, "row_type": "note", "section": "ALBERTA.", "label": "BRITISH COLUMBIA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Blackfoot", "values": ["768", "299,950", "250", "24", "132", null, null], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Blood", "values": ["1,149", "347,641", "2,392", "27", "318", null, "10"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Edmonton", "values": ["683", "33,655", "1,280", "29", "68", "73", "49"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Hobbema", "values": ["785", "75,778", "642", "71", "79", "62", "26"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Lesser Slave Lake", "values": ["224", "11,450", "50", null, "24", "47", "1"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Piegan", "values": ["462", "93,429", "109", "10", "82", null, "56"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Saddle Lake", "values": ["798", "79,641", "1,424", "116", null, "157", null], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Sarcee", "values": ["211", "58,120", "218", "20", "23", "16", "6"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "ALBERTA.", "label": "Stony", "values": ["667", "44,480", "240", "10", "65", "35", "100"], "confidence": "high"}
+{"page": 794, "row_type": "total", "section": "ALBERTA.", "label": "Total", "values": ["5,747", "1,044,144", "6,605", "307", "791", "390", "248"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Babine and Upper Skeena", "values": ["3,113", "18,878", "750", "47", "900", "169", null], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Coola", "values": ["1,266", "70", "25", null, null, "405", null], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cassiar", "values": ["305", "325", null, null, null, "168", "69"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan", "values": ["1,758", "5,400", "3,202", "7", null, "94", "208"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Fraser River", "values": ["2,846", "3,498", "3,713", "509", null, "319", "289"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kamloops-Okanagan", "values": ["3,862", "241,643", "17,046", "893", "l6", "537", "53"], "confidence": "medium"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kootenay", "values": ["573", "38,356", "1,640", "129", null, null, "71"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kwawkewlth", "values": ["1,227", "314", "13", null, null, "262", "88"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Nass", "values": ["1,900", "305", "110", null, null, "526", "81"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "*Queen Charlotte", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "West Coast", "values": ["2,016", "314", "54", null, null, "649", "27"], "confidence": "high"}
+{"page": 794, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Williams Lake", "values": ["2,063", "25,219", "1,710", "271", "111", "216", "87"], "confidence": "high"}
+{"page": 794, "row_type": "total", "section": "BRITISH COLUMBIA.", "label": "Total", "values": ["20,929", "334,322", "28,263", "1,809", "174", "4,076", "1,142"], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "MANITOBA", "label": "Birtle", "values": ["472", "18,013", "2,355", "57", "17", "59", "17"], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "MANITOBA", "label": "Clandeboye", "values": ["1,848", "12,515", "488", "234", "1", "236", "94"], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "MANITOBA", "label": "Griswold", "values": ["412", "10,015", "1,995", "69", "28", "59", "27"], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "MANITOBA", "label": "Manitowapah", "values": ["1,493", "35,870", "381", null, null, null, null], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "MANITOBA", "label": "Portage la Prairie", "values": ["540", "15,358", "1,317", "43", null, "43", "32"], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "MANITOBA", "label": "Valley River Band", "values": ["76", "9,190", "90", "11", null, "12", "3"], "confidence": "high"}
+{"page": 795, "row_type": "total", "section": "MANITOBA", "label": "Total", "values": ["4,841", "100,961", "6,626", "414", "46", "409", "173"], "confidence": "high"}
+{"page": 795, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "Northeastern Division: -", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Gloucester, Kent, Northumberland, Restigouche and Westmorland Counties", "values": ["998", "1,370", "980", "22", null, "54", "209"], "confidence": "high"}
+{"page": 795, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "Northern Division: -", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Madawaska and Victoria Counties", "values": ["208", "167", "270", "27", null, "20", "9"], "confidence": "high"}
+{"page": 795, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "Southwestern Division: -", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 795, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Carleton, Charlotte, Kings, Queens, Sunbury, St. Johns and York Counties", "values": ["553", "138", "27", "26", null, "24", "104"], "confidence": "high"}
+{"page": 795, "row_type": "total", "section": "NEW BRUNSWICK.", "label": "Total", "values": ["1,759", "1,675", "1,277", "75", null, "98", "322"], "confidence": "high"}
+{"page": 795, "row_type": "note", "section": null, "label": "[*No returns.]", "values": [], "confidence": "high"}
+{"page": 796, "row_type": "note", "section": null, "label": "REALTY OF INDIANS.", "values": [], "confidence": "high"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Blackfoot", "values": [null, null, null, null, null, null, null, null, null, "*5", null, "3,100 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Blood", "values": [null, null, null, null, "37", null, null, "3", null, "7", null, "30,700 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Edmonton", "values": ["2", null, "1", "1", null, null, null, "2", null, "(t)4", null, "16,165 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Hobbema", "values": ["1", null, null, "1", "1", null, null, "1", null, null, null, "11,761 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Lesser Slave Lake.", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Peigan", "values": ["1", null, null, null, "1", "1", null, "1", null, "3", null, "14,150 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Saddle Lake", "values": [null, "1", null, null, null, null, null, "4", null, null, null, "5,800 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Sarcee", "values": [null, null, null, null, null, "1", "1", "1", "1", null, null, "11,000 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "ALBERTA.", "label": "Stony", "values": [null, null, null, null, null, "1", null, "2", "1", null, null, "1,100 00"], "confidence": "low"}
+{"page": 796, "row_type": "total", "section": "ALBERTA.", "label": "Total", "values": ["4", "1", "1", "2", "39", "3", "1", "14", "2", "19", null, "93,776 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Babine, and Upper Skeena", "values": ["2", null, null, null, null, null, "1", null, null, "2", null, "10,450 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Coola", "values": [null, null, null, null, null, null, null, "2", null, null, null, "2,500 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cassiar", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan", "values": [null, null, null, null, null, "4", null, "7", null, null, null, "10,245 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Fraser River", "values": [null, null, null, null, null, "43", "5", "3", null, null, null, "57,500 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kamloops-Okanagan", "values": [null, null, null, null, null, "32", "3", null, null, null, null, "28,230 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kootenay", "values": [null, null, null, null, "1", "5", null, "1", null, null, null, "25,180 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kwawkewlth", "values": [null, null, null, null, null, null, null, "4", null, null, null, "2,250 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Nass", "values": ["3", null, null, null, null, "7", "3", "7", null, "14", null, "43,700 00"], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "(tt)Queen Charlotte", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "West Coast", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 796, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Williams Lake", "values": [null, null, null, null, null, "25", null, null, null, null, null, "39,050 00"], "confidence": "low"}
+{"page": 796, "row_type": "total", "section": "BRITISH COLUMBIA.", "label": "Total", "values": ["5", null, null, null, "1", "116", "12", "24", null, "16", null, "219,105 00"], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "MANITOBA.", "label": "Birtle", "values": [null, null, null, null, null, "3", null, "2", "3", "1", null, "1,815 00"], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "MANITOBA.", "label": "Clandeboye", "values": [null, null, null, null, null, "5", "1", "9", null, null, "2", "38,000 00"], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "MANITOBA.", "label": "Griswold", "values": [null, null, null, null, "4", "2", null, "1", null, null, null, "5,000 00"], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "MANITOBA.", "label": "Manitowapah", "values": [null, null, null, null, null, "8", null, "10", null, "12", null, "7,025 00"], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "MANITOBA.", "label": "Portage la Prairie", "values": [null, null, null, null, null, "1", "1", "3", "1", "5", null, "2,200 00"], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "MANITOBA.", "label": "Valley River Band", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 797, "row_type": "total", "section": "MANITOBA.", "label": "Total", "values": [null, null, null, null, "4", "19", "2", "24", "4", "18", "2", "54,040 00"], "confidence": "low"}
+{"page": 797, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "Northeastern Division: -", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Gloucester, Kent, Northumberland, Restigouche and Westmorland Counties", "values": [null, null, null, null, null, "5", "3", "3", null, "4", null, "7,100 00"], "confidence": "low"}
+{"page": 797, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "Northern Division: -", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Madawaska and Victoria Counties", "values": [null, null, null, null, null, "1", "1", "1", null, "3", "1", "8,200 00"], "confidence": "low"}
+{"page": 797, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "Southwestern Division: -", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 797, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Carleton, Charlotte, Kings, Queens, Sunbury, St Johns and York Counties", "values": [null, null, null, null, null, null, "1", "4", null, null, null, "1,000 00"], "confidence": "low"}
+{"page": 797, "row_type": "total", "section": "NEW BRUNSWICK.", "label": "Total", "values": [null, null, null, null, null, "6", "5", "8", null, "7", "1", "16,300 00"], "confidence": "low"}
+{"page": 797, "row_type": "note", "section": null, "label": "[*Boundary fence 30 mls.; 4 branding corrals.]", "values": [], "confidence": "high"}
+{"page": 797, "row_type": "note", "section": null, "label": "[(t)Includes 1 fence 76 1/2 mls.]", "values": [], "confidence": "high"}
+{"page": 797, "row_type": "note", "section": null, "label": "[(tt)No returns.]", "values": [], "confidence": "high"}
+{"page": 798, "row_type": "note", "section": null, "label": "PRIVATE FENCING AND BUILDING.", "values": [], "confidence": "high"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Blackfoot", "values": ["13,220", null, null, "39", "133", null, null, "71", "3", "46", "1", "3", "6", "1", null, "1,100 00", "19,550 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Blood", "values": ["3,392", null, null, "6", "210", null, null, "70", null, "100", null, null, "18", null, null, "3,392 00", "14,482 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Edmonton", "values": ["3,457", null, null, "10", "63", "38", "3", "71", "17", "40", "6", "31", "7", "4", "3", "2,905 00", "19,820 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Hobbema", "values": ["1,330", null, null, null, "79", "44", null, "94", null, "31", "19", "6", null, null, "13", "1,115 00", "15,150 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Lesser Slave Lake", "values": ["197", null, null, null, "34", null, null, "30", null, "18", null, "7", "3", null, null, "448 00", "5,275 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Peigan.", "values": ["4,700", null, null, "25", "103", "3", "1", "41", null, "25", null, null, "20", null, null, "9,400 00", "8,490 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Saddle Lake", "values": ["2,770", null, null, null, "191", null, null, "36", null, "159", null, "10", "2", null, null, "7,350 00", "13,560 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Sarcee", "values": ["69,120", null, null, "2", "50", null, null, "28", "1", "18", null, "2", "1", "2", null, "7,000 00", "4,000 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "ALBERTA.", "label": "Stony", "values": ["11,000", null, null, null, "130", null, null, "44", null, "25", null, null, "17", null, null, "7,500 00", "13,010 00"], "confidence": "low"}
+{"page": 798, "row_type": "total", "section": "ALBERTA.", "label": "Total", "values": ["109,186", null, null, "82", "993", "85", "4", "485", "21", "462", "26", "59", "74", "7", "48", "40,210 00", "113,327 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Babine and Upper Skeena", "values": ["1,025", null, null, "399", "512", "173", null, "67", null, "67", null, "25", "138", null, null, "14,960 00", "129,870 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Coola", "values": ["27", null, null, "261", null, "110", "1", "4", null, "5", "2", null, "8", null, null, "1,400 00", "65,500 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cassiar", "values": [null, null, null, "10", "27", "2", null, null, null, null, null, null, null, null, null, null, "12,525 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan", "values": ["5,439", null, null, "587", "10", "22", "208", "5", null, "71", null, null, null, null, null, "105,350 00", "87800 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Fraser", "values": ["4,823", null, null, "762", "62", "301", "299", "274", "1", "29", "92", "8", "51", "1", null, "15,007 00", "150,596 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kamloops-Okanagan", "values": ["119,695", null, null, "197", "782", "13", "24", "599", "2", "105", "81", "91", "298", "4", null, "119,390 00", "256,665 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kootenay", "values": ["1,640", null, null, "35", "142", "86", "33", "23", null, "23", null, null, "23", null, null, "9,825 00", "23,285 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kwawkewlth", "values": ["22", null, null, "87", "1", "161", null, "1", null, null, "1", "1", null, null, null, "400 00", "28,815 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Nass", "values": ["44", null, null, "482", "15", "5", "2", "2", null, "2", null, null, "125", null, null, "875 00", "182,750 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "*Queen Charlotte", "values": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "West Coast", "values": ["64", null, null, "435", null, "259", "2", "3", null, null, null, null, null, null, null, "2,000 00", "98,700 00"], "confidence": "low"}
+{"page": 798, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Williams Lake", "values": ["6,375", null, null, "6", "433", null, "14", "216", null, null, "4", null, "258", null, null, "15,193 00", "44,500 00"], "confidence": "low"}
+{"page": 798, "row_type": "total", "section": "BRITISH COLUMBIA.", "label": "Total", "values": ["139,154", null, null, "3,261", "1,984", "1,132", "583", "1,194", "3", "542", "180", "125", "901", "5", null, "284,400 00", "1,081,006 00"], "confidence": "low"}

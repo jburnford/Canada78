@@ -1,0 +1,203 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+Agency      LAND                   PUBLIC BUILDINGS, PROPERTY OF BAND.              PRIVATE FENCING AND BUILDINGS
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log.
+                pasturage pasturage.
+ONTARIO.        Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+Grand River
+Superintendency 23,974   10,722    14        1      11      7      1         ...    41,696 1          15         201       365
+- Six Nations
+Parry Sound
+                1,476    ...       7         ...    6       1      5         ...    1,456   ...       ...        23        119
+Superintendency
+New Credit
+(Mississaguas) 1,010     2,950     2         1      1       3      3         ...    5,100   ...       3          45        20
+Agency
+Walpole Island
+               8,200     2,991     2         1      3       2      2         4      2,991   ...       ...        101       131
+Agency
+Sarnia Agency 3,612      680       4         2      3       1      1         ...    5,472 ...         2          111       8
+Caradoc Agency 7,669     6,434     ...       3      6       1      13        ...    15,420 ...        6          107       138
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        57
+Agency
+Manitowaning
+                1,517    3,864     7        3       9       2      ...       ...    2,216   ...       ...        27        280
+Agency
+Gore Bay        3,859    1,390     3        ...     2       ...    2         ...    1,329   ...       ...        7         99
+Thessalon
+                350      260       2        ...     4       ...    ...       ...    260     ...       ...        28        57
+Agency
+Sault Ste. Marie ...     ...       ...      ...     ...     ...    ...       ...    ...     ...       ...        ...       ...
+Port Arthur      786     543       3        2       6       1      2         ...    325     ...       ...        20        186
+Golden Lake
+                 185     25        1        ...     1       ...    1         ...    82      ...      
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+    ...     ...    ...   ...    ...     ...     ...   100 00     125 00   225 00
+No. 4
+Crooked Lakes
+Agency, Treaty ...        ...        ...        1          ...     ...   2       ...     ...    ...   ...    ...     ...     ...   395 00     100 00   495 00
+No. 4
+Moose
+Mountain
+               ...        ...        ...        ...        ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   ...        ...      ...
+Agency, Treaty
+No. 4
+Pine Creek
+Agency, Treaty ...        ...        ...        ...        ...     ...   ...     ...     2      ...   ...    ...     ...     ...   15 00      40 00    55 00
+No. 4
+Saddle Lake
+Agency, Treaty ...        ...        ...        3          ...     ...   ...     ...     17     ...   ...    ...     ...     ...   57 00      380 00   437 00
+No. 6
+Hobbema
+Agency, Treaty ...        ...        ...        7          ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   150 00     200 00   350 00
+No. 6
+Battleford
+Agency, Treaty ...        ...        ...        10         ...     ...   2       ...     11     31    5      14      ...     ...   1,526 00   1,235 00 2,761 00
+No. 6
+Onion Lake
+Agency, Treaty ...        ...        ...        1          ...     ...   ...     ...     ...    ...   ...    ...     ...     ...   30 00      50 00    80 00
+No. 6
+Duck Lake
+Agency, Treaty ...        ...        ...        14         ...     ...   ...     ...     6      ...   ...    ...     ...     ...   282 00     2,230 00 2,512 00
+
+
+
+=== EXTRACT FROM HERE (pages 1052-1055) ===
+<!-- page 1052 -->
+No. 6
+Edmonton
+Agency, Treaty ...    ...   ...   8     ...   ...   ...   ...   5     ...   ...   ...   ...   ...   1,306 00   1,110 00 2,416 00
+No. 6
+Carlton
+Agency, Treaty ...    ...   ...   3     6     ...   1     ...   4     ...   2     ...   ...   ...   356 00     560 00   916 00
+No. 6
+Sarcee Agency,
+               ...    ...   ...   4     ...   ...   3     ...   2     ...   ...   ...   ...   ...   300 00     700 00   1,000 00
+Treaty No. 7
+Blood Agency,
+              ...     ...   ...   10    ...   ...   5     ...   6     ...   ...   ...   ...   ...   ...        510 00   510 00
+Treaty No. 7
+Blackfoot
+Agency, Treaty ...    ...   ...   7     ...   ...   2     2     6     ...   ...   ...   ...   ...   42 00      158 00   200 00
+No. 7
+Peigan Agency,
+               ...    ...   7     ...   ...   ...   1     ...   ...   ...   ...   ...   ...   ...   ...        1,400 00 1,400 00
+Treaty No. 7
+Stony Agency,
+              ...     ...   ...   10    ...   ...   15    ...   ...   ...   ...   20    ...   ...   300 00     1,675 00 1,975 00
+Treaty No. 7
+                                                                                                               15,293
+Total           ...   ...   8     128   10    1     49    2     110   34    20    37    1     ...   9,439 00            24,732 00
+                                                                                                               00
+
+<!-- page 1053 -->
+SOURCES AND VALUE OF INCOME
+                                                                                                  Total
+                Value of Farm        Received THE ESTIMATED VALUE OF FISH              Earned
+                              Wages                                                               Income
+Agency          Products,            from Land AND MEAT USED FOR FOOD IS               by other
+                              Earned                                                              of
+                Including Hay        Rentals   INCLUDED IN THESE COLUMNS               Industries
+                                                                                                  Indians
+...         ...             ...     ...        Earned by Fishing   Earned by Hunting   ...        ...
+NORTHWEST
+            $ cts           $ cts   $ cts      $ cts               $ cts               $ cts       $ cts
+TERRITORIES
+Touchwood
+                            1,350                                                                  29,256
+Hills Agency,   9,059 50            ...        185 00              16,950 00           1,712 00
+                            00                                                                     50
+Treaty No. 4
+Birtle Agency,              13,825                                                                 35,734
+               11,909 60           ...         865 00              4,575 00            4,559 85
+Treaty No. 4                00                                                                     45
+Pelly Agency,               3,739                                                                  28,033
+                5,154 80            ...        3,975 00            9,950 00            5,213 35
+Treaty No. 4                85                                                                     00
+Qu'Appelle
+                            6,243                                                                  39,518
+Agency, Treaty 18,440 00            ...        1,505 00            2,085 00            11,245 86
+                            00                                                                     86
+No. 4
+Crooked Lakes
+                                                                                                   10,497
+Agency, Treaty 4,556 00     150 00 ...         600 00              ...                 5,191 00
+                                                                                                   00
+No. 4
+Moose
+Mountain                                                                                           12,020
+               4,670 00     900 00 ...         200 00              1,550 00            4,700 00
+Agency, Treaty                                                                                     00
+No. 4
+Pine Creek
+Agency, Treaty 360 00       500 00 ...         1,000 00            400 00              ...         2,260 00
+No. 4
+Saddle Lake
+                                                                                                   17,771
+Agency, Treaty 10,255 00    604 50 ...         615 00              2,740 00            3,557 43
+                                                                                                   93
+No. 6
+Hobbema
+                                                                                                   12,575
+Agency, Treaty 9,750 00     825 00 ...         850 00              675 00              475 00
+                                                                                                   00
+No. 6
+Battleford
+                            1,510                                                                  34,266
+Agency, Treaty 29,356 00            ...        425 00              1,025 00            1,950 00
+                            00                                                                     00
+No. 6
+Onion Lake
+                            1,530                                                                  31,507
+Agency, Treaty 11,377 00            ...        2,600 00            9,500 00            6,500 00
+                            00                                                                     00
+No. 6
+Duck Lake
+                            2,339                                                                  27,772
+Agency, Treaty 14,222 52            ...        3,300 00            6,127 50            1,782 74
+                            79                                                                     55
+No. 6
+Edmonton
+                            1,350                                                                  26,930
+Agency, Treaty 2,880 00             2,000 00   2,100 00            5,800 00            12,800 00
+                            00                                                                     00
+No. 6
+Carlton
+
+<!-- page 1054 -->
+                            2,916                                                  70,624
+Agency, Treaty 12,300 20            ...       9,868 00    43,846 60    1,693 90
+                            10                                                     80
+No. 6
+Sarcee Agency,
+               4,990 00     700 00 ...        ...         700 00       3,500 00 9,890 00
+Treaty No. 7
+Blood Agency,               4,905                                                  29,321
+              15,929 51             658 00    ...         500 00       7,329 24
+Treaty No. 7                00                                                     75
+Blackfoot
+                            7,400                                                  21,848
+Agency, Treaty 4,368 00             ...       30 00       500 00       9,550 00
+                            00                                                     00
+No. 7
+Peigan Agency
+              2,520 00      300 00 ...        40 00       60 00        6,135 75 9,055 75
+Treaty No. 7
+Stony Agency,               3,000                                                  15,440
+              1,300                 ...       300 00      4,000 00     6,840 95
+Treaty No. 7                00                                                     95
+                            55,093                                                 471,778
+Total          176,898 13          2,658 00   28,458 00   111,884 10   96,787 07
+                            24                                                     54
+
+<!-- page 1055 -->
+INDIAN WOMEN WHO HAVE COMMUTED THEIR ANNUITY BY A TEN YEARS' PURCHASE ($50)
+UNDER SECTION 11 OF THE INDIAN ACT.

@@ -1,0 +1,387 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+CENSUS RETURN.
+
+CENSUS RETURN of Resident and Nomadic Indians; Denominations to which they belong, with approximate number belonging to each Denomination, as well as the number of Pagans in the
+Dominion of Canada, by Provinces, for the year ended June, 30, 1906.
+
+PROVINCE OF ONTARIO.
+                                                                                                                             FROM 6 TO FROM 16 TO             FROM 65
+              Census                                                                                          UNDER 6                              FROM 21 TO
+Indians.              RELIGION.                                                                                              15 YRS.,   20 YRS.               YEARS.
+              Return.                                                                                         YEARS.                               65 YRS.
+                                                                                                                             INCLUSIVE. INCLUSIVE.            UPWARDS.
+                                                                                                 Other
+                                                          Roman
+...           ...    Anglican. Presbyterian. Methodist.             Baptist. Congregationalists. Christian Pagan. Male. Female. Male. Female. Male. Female. Male. Female. Male. Female.
+                                                          Catholic.
+                                                                                                 Beliefs.
+Algonquins,
+            101      ...       ...          ...           101      ...     ...                ...      ...    14     13      11    13       18    14      12    3        2     1
+Golden Lake
+Algonquins,
+Renfrew,      198    *         ...          ...           ...      ...     ...                ...      ...    ...    ...     ...   ...      ...   ...     ...   ...      ...   ...
+North
+Chippewas
+of the        474    216       1            255           ...      2       ...                ...      ...    29     42      39    43       14    19      141   138      3     6
+Thames
+Chippewas
+of Walpole    594    297       ...          277           10       ...     ...                ...      10     25     23      52    60       40    37      162   154      18    23
+Island
+Chippewas
+              340    46        ...          294           ...      ...     ...   
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ Grand
+Rapids (Berens   143      ...     ...   43      ...   ...   ...   ...   100   11    14    23    16    12    7     25    29    2     4
+River)
+Pekangekum       129      ...     ...   ...     ...   ...   ...   ...   129   14    19    13    19    9     8     19    25    1     2
+Grand Rapids
+(Crees and       118      118     ...   ...     ...   ...   ...   ...   ...   11    18    10    13    4     4     31    24    1     2
+Saulteaux)
+Chemawawin
+                 161      161     ...   ...     ...   ...   ...   ...   ...   21    22    18    12    4     5     36    41    ...   2
+(Crees)
+Moose Lake
+(Crees and       135      134     ...   ...     ...   ...   ...   ...   1     14    16    12    9     7     8     26    32    5     6
+Saulteaux)
+The Pas          416      396     ...   ...     8     ...   ...   12    ...   36    43    31    42    29    29    81    92    15    18
+Shoal Lake
+                 70       70      ...   ...     ...   ...   ...   ...   ...   6     5     12    13    4     4     14    12    ...   ...
+(Crees)
+Red Earth
+                 126      95      ...   ...     ...   ...   ...   ...   31    15    15    17    12    8     1     24    21    5     8
+(Crees)
+Cumberland
+                 166      153     ...   ...     13    ...   ...   ...   ...   10    24    18    24    6     5     32    41    3     3
+(Crees)
+Total, Treaty No.
+                  3,479   1,282   ...   1,673   157   ...   ...   12    355   316   330   409   387   226   194   674   788   69    86
+5
+
+
+
+=== EXTRACT FROM HERE (pages 885-892) ===
+<!-- page 885 -->
+PROVINCE OF SASKATCHEWAN.
+                                                                                                                            FROM 6 TO FROM 16      FROM 21 TO FROM 65
+                Census                                                                                        UNDER 6
+Indians.                RELIGION.                                                                                           15 YEARS,  TO 20 YRS., 65 YRS.,   YEAR
+                return.                                                                                       YEARS.
+                                                                                                                            INCLUSIVE. INCLUSIVE. INCLUSIVE. UPWARDS.
+                                                                                                Other
+                                                            Roman
+...             ...    Anglican. Presbyterian. Methodist.            Baptist. Congregationalist Christian Pagan. Male. Female. Male. Female. Male. Female Male. Female. Male. Female.
+                                                            Catholic
+                                                                                                Beliefs.
+PELLY
+                ...    ...       ...          ...           ...     ...     ...              ...       ...    ...   ...     ...   ...      ...   ...     ...   ...     ...   ...
+AGENCY.
+Coté             250   1         160          ...           23      ...     ...              ...       66     20    17      37    44       8     7       52    56      4     5
+Key's            89    38        1            ...           6       ...     ...              ...       44     8     9       11    17       2     3       17    19      3     ...
+Keeseekoose      136   10        15           ...           60      ...     ...              ...       51     15    13      11    22       4     1       29    35      3     3
+Valley River     72    ...       25           ...           29      ...     ...              ...       18     6     8       8     12       4     3       13    14      2     2
+Fishing Lake     81    ...       ...          ...           ...     ...     ...              ...       81     8     8       10    15       3     2       14    15      3     3
+Total            628   49        201          ...           118     ...     ...              ...       260    57    55      77    110      21    16      125   139     15    13
+MOOSE
+MOUNTAIN ...           ...       ...          ...           ...     ...     ...              ...       ...    ...   ...     ...   ...      ...   ...     ...   ...     ...   ...
+AGENCY.
+White Bear       189   3         50           ...           22      ...     ...              ...       114    14    20      17    19       7     3       49    51      2     7
+CROOKED
+LAKE             ...   ...       ...          ...           ...     ...     ...              ...       ...    ...   ...     ...   ...      ...   ...     ...   ...     ...   ...
+AGENCY.
+Ochapowace       102   ...       19           ...           22      ...     ...              ...       61     7     10      12    7        5     3       26    29      1     2
+Kahkewistahaw 88       ...       20           ...           15      ...     ...              ...       53     5     9       9     9        3     3       22    24      1     3
+Cowessess        186   ...       21           ...           154     ...     ...              ...       11     19    19      18    21       8     8       33    50      5     5
+Sakimay          158   ...       10           ...           13      ...     ...              ...       135    10    14      20    13       9     7       36    35      2     9
+Leech Lake
+(Little Bone's). ...   ...       ...          ...           ...     ...     ...              ...       ...    ...   ...     ...   ...      ...   ...     ...   ...     ...   ...
+Unoccupied.
+Total            534   ...       70           ...           204     ...     ...              ...       260    41    52      59    50       25    21      117   141     9     19
+
+<!-- page 886 -->
+                                                                                                                          FROM 6 TO FROM 16      FROM 21 TO FROM 65
+                Census                                                                                     UNDER 6
+Indians.                RELIGION.                                                                                         15 YEARS,  TO 20 YRS., 65 YRS.,   YEAR
+                return.                                                                                    YEARS.
+                                                                                                                          INCLUSIVE. INCLUSIVE. INCLUSIVE. UPWARDS.
+                                                                                              Other
+                                                          Roman
+...             ...    Anglican. Presbyterian. Methodist.          Baptist. Congregationalist Christian Pagan. Male. Female. Male. Female. Male. Female Male. Female. Male. Female.
+                                                          Catholic
+                                                                                              Beliefs.
+QU'APPELLE
+                ...    ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Piapot          165    ...      30           ...        90       ...     ...               ...      45     19    15       13    10      10     5      33     53      5     2
+Standing
+                220    ...      ...          ...        100      ...     ...               ...      120    23    22       19    20      8      10     46     58      9     5
+Buffalo (Sioux)
+Pasquah      131       ...      27           ...        89       ...     ...               ...      15     17    15       8     16      4      2      27     30      2     10
+Muscowpetung 85        ...      24           ...        14       ...     ...               ...      47     11    19       4     3       4      4      11     21      6     2
+Peepeekeesis    102    ...      20           ...        46       ...     ...               ...      36     12    14       3     8       5      5      27     23      2     3
+Okanase         58     ...      18           ...        26       ...     ...               ...      14     1     14       10    7       2      1      9      11      2     1
+Star Blanket    39     ...      5            ...        10       ...     ...               ...      24     4     6        3     4       3      3      6      5       2     3
+Little Black
+                60     ...      11           ...        27       ...     ...               ...      22     6     8        4     8       3      3      13     11      3     1
+Bear
+Total       860        ...      135          ...        402      ...     ...               ...      323    93    113      64    76      39     33     172    212     31    27
+ASSINIBOINE
+            ...        ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Carry-the-kettle 203   ...      116          ...        33       ...     ...               ...      54     15    16       14    12      17     19     43     51      6     10
+Sioux at
+Moosejaw
+                 110   ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+(non-treaty).
+No details
+Total         313      ...      116          ...        33       ...     ...               ...      54     15    16       14    12      17     19     43     51      6     10
+TOUCHWOOD
+HILLS         ...      ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Muscowequan 140        1        ...          ...        76       ...     ...               ...      63     16    14       16    10      5      9      30     35      1     4
+George Gordon 196      121      ...          ...        19       ...     ...               ...      56     21    17       16    15      9      7      54     47      4     6
+Day Star      75       ...      ...          ...        ...      ...     ...               ...      75     10    9        7     9       2      ...    16     16      3     3
+Poor Man      109      7        ...          ...        8        ...     ...               ...      94     13    25       5     7       2      2      22     26      3     4
+Total         520      129      ...          ...        103      ...     ...               ...      288    60    65       44    41      18     18     122    142     11    17
+Treaty No. 6. ...      ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+DUCK LAKE
+              ...      ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Nut Lake
+               217     ...      ...          ...        2        ...     ...               ...      215    17    26       35    19      14     12     43     45      3     3
+(Yellow Quill)
+One Arrow       95     ...      ...          ...        75       ...     ...               ...      20     7     7        21    4       9      4      17     20      2     4
+Okemasis        27     5        ...          ...        19       ...     ...               ...      3      5     3        1     4       ...    ...    5      9       ...   ...
+Beardy          144    ...      17           ...        102      ...     ...               ...      25     9     17       24    17      2      7      25     35      5     3
+John Smith      148    148      ...          ...        ...      ...     ...               ...      ...    10    18       16    18      9      5      33     34      3     2
+
+<!-- page 887 -->
+James Smith     237   222   ...   ...   2     ...   ...   ...   13    26    24    24    25    13    9     49    54    7     6
+Kinistino       77    ...   ...   ...   ...   ...   ...   ...   77    10    9     10    10    3     5     14    15    ...   1
+Total           945   375   17    ...   200   ...   ...   ...   353   84    104   131   97    50    42    186   212   20    19
+CARLTON
+                ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+AGENCY.
+William Twatt   151   30    2     ...   7     ...   ...   ...   112   20    10    19    8     10    7     31    40    3     3
+Petequakey      107   ...   5     ...   102   ...   ...   ...   ...   11    11    10    14    5     6     24    24    1     1
+Mistawasis      129   6     86    ...   37    ...   ...   ...   ...   12    13    14    11    3     3     34    36    1     2
+Ahtahkahoop     213   194   1     ...   14    ...   ...   ...   4     18    27    26    27    8     11    40    49    3     4
+Kenemotayoo     120   63    ...   ...   23    ...   ...   ...   34    13    10    14    10    8     7     25    28    1     4
+
+<!-- page 888 -->
+                                                                                                                             FROM 6 TO FROM 16      FROM 21 TO FROM 65
+                  Census                                                                                      UNDER 6
+Indians.                  RELIGION.                                                                                          15 YEARS,  TO 20 YRS., 65 YRS.,   YEAR
+                  return.                                                                                     YEARS.
+                                                                                                                             INCLUSIVE. INCLUSIVE. INCLUSIVE. UPWARDS.
+                                                                                                 Other
+                                                             Roman
+...               ...     Anglican. Presbyterian. Methodist.          Baptist. Congregationalist Christian Pagan. Male. Female. Male. Female. Male. Female Male. Female. Male. Female.
+                                                             Catholic
+                                                                                                 Beliefs.
+Pelican Lake
+                  65      9         ...         ...        4        ...     ...               ...      52     10    4        6     4       4      9      9      15      2     2
+Indians
+Wahspaton (Sioux,
+                  103     27        ...         ...        ...      ...     ...               ...      72     2     3        15    13      2      3      25     30      6     4
+non-treaty)
+James Roberts             No
+                  523               ...         ...        ...      ...     ...               ...      ...    46    66       79    88      25     24     80     102     6     7
+(Lac la Ronge)            details
+William Charles           No
+                  197               ...         ...        ...      ...     ...               ...      ...    18    10       28    27      10     8      40     50      3     3
+(Montreal Lake)           details
+Total             1,608   329       94          ...        187      ...     ...               ...      278    150   154      211   202     75     78     308    374     26    30
+BATTLEFORD
+                  ...     ...       ...         ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Mosquito Stony    54      6         ...         ...        6        ...     ...               ...      65     4     7        6     4       4      4      19     24      3     2
+Bear's Head Stony 22      ...       ...         ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Lean Man Stony 1          ...       ...         ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Red Pheasant      158     107       ...         ...        43       ...     ...               ...      8      10    16       16    13      10     9      37     38      6     3
+Sweet Grass       87      35        ...         ...        40       ...     ...               ...      12     6     8        6     6       3      3      23     28      1     3
+Poundmaker's      108     8         ...         ...        98       ...     ...               ...      2      8     11       12    11      5      7      27     19      4     4
+Little Pine and
+                  122     49        ...          ...       46       ...     ...               ...      27     8     8        10    6       9      8      28     36      5     4
+Luckyman
+Moosomin       133        38        ...          ...       60       ...     ...               ...      35     12    9        8     10      10     8      34     36      3     3
+Thunderchild   117        40        ...          ...       56       ...     ...               ...      21     6     8        9     8       5      9      32     32      5     3
+Kopwayawakenum 84         ...       ...          ...       71       ...     ...               ...      13     13    8        9     5       4      4      13     23      2     3
+Total          886        283       ...          ...       420      ...     ...               ...      183    67    75       76    63      50     52     213    236     29    25
+ONION LAKE
+               ...        ...       ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Seekaskootch   286        56        ...         ...        140      ...     ...               ...      90     37    45       18    19      7      9      64     70      4     13
+Sweet Grass
+               25         25        ...         ...        ...      ...     ...               ...      ...    2     5        2     ...     ...    ...    5      8       1     2
+(attached)
+
+<!-- page 889 -->
+                                                                                                                                 FROM 6 TO FROM 16      FROM 21 TO FROM 65
+                        Census                                                                                    UNDER 6
+Indians.                        RELIGION.                                                                                        15 YEARS,  TO 20 YRS., 65 YRS.,   YEAR
+                        return.                                                                                   YEARS.
+                                                                                                                                 INCLUSIVE. INCLUSIVE. INCLUSIVE. UPWARDS.
+                                                                                                     Other
+                                                                 Roman
+...                     ...   Anglican. Presbyterian. Methodist.          Baptist. Congregationalist Christian Pagan. Male. Female. Male. Female. Male. Female Male. Female. Male. Female.
+                                                                 Catholic
+                                                                                                     Beliefs.
+Weemisticooseahwasis 87       18        ...           ...        66       ...      ...               ...       3      4     6       8     10      4     2      23    27      ...   3
+Ooneepowhayo         105      38        ...           ...        49       ...      ...               ...       18     10    10      12    7       1     2      25    29      4     5
+Puskeeahkeewein         29    6        ...          ...        23       ...     ...               ...      ...    3     2        2     4       ...    1      4      8       1     4
+Keeheewin               135   4        ...          ...        131      ...     ...               ...      ...    9     21       15    4       11     7      31     30      1     6
+Kinoosayo
+                        275   ...      ...          ...        275      ...     ...               ...      ...    35    30       23    17      10     20     57     73      3     7
+(Chipewyan)
+Total          942   147               ...          ...        684      ...     ...               ...      111    100   119      80    61      33     41     209    245     14    40
+PROVINCE OF ALBERTA.
+EDMONTON
+               ...   ...               ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Enoch                   111   ...       ...         15         96       ...     ...               ...      ...    8     11       8     10      3      4      34     25      1     7
+Michel                  94    ...       ...         ...        94       ...     ...               ...      ...    9     6        11    10      3      9      15     24      3     4
+Alexander               177   ...       ...         ...        177      ...     ...               ...      ...    22    18       14    12      8      8      41     48      3     3
+Joseph                  147   ...       ...         ...        147      ...     ...               ...      ...    15    20       16    17      8      7      28     27      3     6
+Paul (White Whale
+                        164   ...       ...          164       ...      ...     ...               ...      ...    21    20       14    11      12     10     30     33      4     9
+Lake)
+Orphans at St. Albert   1     ...       ...          ...       1        ...     ...               ...      ...    ...   ...      ...   ...     1      ...    ...    ...     ...   ...
+Total                   694   ...       ...          179       515      ...     ...               ...      ...    75    75       63    60      35     38     148    157     14    29
+SADDLE LAKE
+                        ...   ...       ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Saddle Lake             144   ...      ...          101        43       ...     ...               ...      ...    11    13       15    12      14     10     32     33      2     2
+Blue Quill              113   ...      ...          8          105      ...     ...               ...      ...    7     12       8     9       12     11     24     28      1     1
+James Seenum            335   ...      ...          253        82       ...     ...               ...      ...    39    35       23    24      24     32     73     79      3     3
+Lac La Biche            9     ...      ...          ...        9        ...     ...               ...      ...    1     ...      2     1       2      ...    2      1       ...   ...
+Chipewyan               81    ...      ...          ...        81       ...     ...               ...      ...    7     7        10    6       8      4      15     20      2     2
+Beaver Lake             105   ...      ...          ...        105      ...     ...               ...      ...    11    14       11    5       7      6      26     23      ...   2
+Total                   787   ...      ...          362        425      ...     ...               ...      ...    76    81       69    57      67     63     172    184     8     10
+HOBBEMA
+                        ...   ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Samson                  373   ...      ...          241        123      ...     ...               ...      9      58    54       37    29      8      5      80     91      2     9
+Ermineskin              175   ...      ...          ...        175      ...     ...               ...      ...    20    31       17    10      3      ...    40     50      3     1
+Louis Bull              80    ...      ...          66         14       ...     ...               ...      ...    18    13       4     5       3      ...    16     19      ...   2
+Montana (Little Bear)   63    ...      ...          16         1        ...     ...               ...      46     10    3        8     3       4      1      13     19      1     1
+Total                   691   ...      ...          323        313      ...     ...               ...      55     106   101      66    47      18     6      149    179     6     13
+Treaty No.7             ...   ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+BLACKFOOT
+                        ...   ...       ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+
+<!-- page 890 -->
+AGENCY.
+Running Rabbit   371   ...   ...   ...   250   ...   ...   ...   121   26   24   31   18   28   19   92    109   2    16
+Yellow Horse     432   150   ...   ...   ...   ...   ...   ...   282   30   18   40   40   52   33   98    100   8    13
+Total            803   150   ...   ...   250   ...   ...   ...   403   56   42   71   58   80   52   190   209   16   29
+
+<!-- page 891 -->
+                                                                                                                    FROM 6 TO FROM 16      FROM 21 TO FROM 65
+           Census                                                                                    UNDER 6
+Indians.           RELIGION.                                                                                        15 YEARS,  TO 20 YRS., 65 YRS.,   YEAR
+           return.                                                                                   YEARS.
+                                                                                                                    INCLUSIVE. INCLUSIVE. INCLUSIVE. UPWARDS.
+                                                                                        Other
+                                                    Roman
+...        ...   Anglican. Presbyterian. Methodist.          Baptist. Congregationalist Christian Pagan. Male. Female. Male. Female. Male. Female Male. Female. Male. Female.
+                                                    Catholic
+                                                                                        Beliefs.
+SARCEE
+        ...      ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Bull Head 230    32       ...          ...        10       ...     ...               ...      161    13    9        18    11      8      9      57     62      6     10
+STONY
+          ...    ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Stony
+           660   ...      ...          660        ...      ...     ...               ...      ...    68    66       77    79      20     17     144    164     8     17
+Reserve
+PEIGAN
+        ...      ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Peigans 493      68       ...          ...        145      ...     ...               ...      280    56    51       43    44      21     14     116    113     12    23
+BLOOD
+        ...      ...      ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+AGENCY.
+Bloods 1,181 150    ...                ...        150      ...     ...               ...      881    103   101      123   113     52     45     280    307     11    46
+NORTHWEST TERRITORIES.
+Treaty
+       ...   ...    ...                 ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+No. 8.
+Crees &
+Chipewyans
+           169   *         ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+at Fort
+McMurray
+Chipewyans
+at Fond du 355   *         ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Lac
+Beavers at
+           110   *         ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Dunvegan
+Crees at
+Little Red 39    *         ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+River
+Chipewyans
+at Fort    334   *         ...          ...       ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Chipewyan
+
+<!-- page 892 -->
+                                                                                                                         FROM 6 TO FROM 16      FROM 21 TO FROM 65
+                Census                                                                                    UNDER 6
+Indians.                RELIGION.                                                                                        15 YEARS,  TO 20 YRS., 65 YRS.,   YEAR
+                return.                                                                                   YEARS.
+                                                                                                                         INCLUSIVE. INCLUSIVE. INCLUSIVE. UPWARDS.
+                                                                                             Other
+                                                         Roman
+...             ...   Anglican. Presbyterian. Methodist.          Baptist. Congregationalist Christian Pagan. Male. Female. Male. Female. Male. Female Male. Female. Male. Female.
+                                                         Catholic
+                                                                                             Beliefs.
+Crees at Fort
+              202     *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Chipewyan
+Chipewyans
+at Smith   158        *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Landing
+Crees at
+           210        *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Wabiscow
+Crees at
+Peace River     64    *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Landing
+Beavers at
+Vermilion,      129   *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Peace River
+Crees at
+Vermilion,      118   *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Peace River
+Crees at
+Lesser Slave    309   *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Lake
+Crees at
+Sturgeon        150   *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Lake
+Beavers at
+                98    *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Fort St. John
+Crees at
+Whitefish    73       *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Lake
+Slaves of
+Upper Hay    228      *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+River
+Slaves of
+Lower Hay 112         *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+River
+Chipewyans
+at Fort      105      *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Resolution
+Yellowknives
+at Fort      171      *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Resolution
+Dogribs at
+Fort         174      *        ...          ...        ...      ...     ...               ...      ...    ...   ...      ...   ...     ...    ...    ...    ...     ...   ...
+Resolution
+

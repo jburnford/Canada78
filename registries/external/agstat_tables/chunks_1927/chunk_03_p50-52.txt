@@ -1,0 +1,105 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 3. - LAND: PRIVATE AND PUBLIC BUILDINGS AND PROPERTY
+
+                                                                   Private Property                                                                      Public Property
+                                      Acres      Acres                                                          Mowers,
+                              Acres                                                                    Ploughs,            Carts,
+               Total Area of          Cleared under          Acres Stone,Brick                                  Reapers,                        Tools and                                         Engines
+Agencies                      under                                            Other     Outbuildings, Harrows,            Wagons                                   Council School Saw Other
+               Reserve(Acres)         but not    Actual      Fenced and Frame                                   Binder              Automobiles Small      Churches                               and
+                              Wood                                             Dwellings etc.          Drills,             and                                      Houses Houses Mills Buildings
+                                      Cultivated Cultivation        Dwellings                                   Threshers,                      Implements                                        Machinery
+                                                                                                       etc.                Vehicles
+                                                                                                                etc.
+ALBERTA        ...           ...      ...       ...       ...      ...         ...      ...          ...      ...        ...     ...          ...        ...       ...     ...    ...   ...      ...
+Blackfoot      175,580       3,300    141,014   31,266    68,396   153         92       623          548      314        330     1            626        2         1       2      ...   22       185
+Blood          354,086       4,700    332,050   17,336    75,000   94          320      525          425      256        570     8            3,500      ...       2       2      ...   67       76
+Edmonton       82,101        33,431   43,615    5,055     39,521   32          139      215          270      190        236     11           1,243      2         ...     ...    1     9     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+5        184      9           375         2        ...      1      ...   1        6
+Restigouche   8,856             8,426 128          302       430      102         11       192          32       5         88       3           280         1        1        1      1     5        3
+Seven Islands 160               150     10         ...       10       60          ...      ...          ...      ...       ...      ...         ...         1        ...      ...    ...   ...      ...
+St. Regis     7,384             190     5,436      1,758     650      238         35       258          497      201       313      2           1,510       2        ...      6      ...   14       27
+Timiskaming   34,136            1540    2,175      421       410      16          30       48           20       6         30       ...         300         ...      ...      1      ...   3        3
+Total         177,420           148,622 17,735     11,063    10,708   1,380       269      2,270        1,009    485       2,193    58          5,927       14       5        25     2     35       56
+SASKATCHEWAN
+              40,897            27,264 11,529      2,104     15,350 12            35       78           56       60         116     1            427        ...       2       1      ...   4        5
+Assiniboine
+Battleford        181,781       23,250 152,837     5,694     52,120 3             360      408          388      329        444     1            1,985      1         5       1      1     4        9
+
+
+
+=== EXTRACT FROM HERE (pages 50-52) ===
+<!-- page 50 -->
+                                                                      Private Property                                                                      Public Property
+                                      Acres      Acres                                                             Mowers,
+                             Acres                                                                        Ploughs,            Carts,
+              Total Area of           Cleared under          Acres    Stone,Brick                                  Reapers,                        Tools and                                         Engines
+Agencies                     under                                                Other     Outbuildings, Harrows,            Wagons                                   Council School Saw Other
+              Reserve(Acres)          but not    Actual      Fenced   and Frame                                    Binder              Automobiles Small      Churches                               and
+                             Wood                                                 Dwellings etc.          Drills,             and                                      Houses Houses Mills Buildings
+                                      Cultivated Cultivation          Dwellings                                    Threshers,                      Implements                                        Machinery
+                                                                                                          etc.                Vehicles
+                                                                                                                   etc.
+Carlton       193,153       81,824    106,473   4,856       20,429    ...         213      267          192      158       210      2            882        6         ...     6      1     15       5
+Crooked
+              112,442       38,000    69,690    4,752       19,700    7           151      300          259      198       265      3           1,740       1         ...     ...    ...   ...      ...
+Lakes
+Duck Lake     119,098       25,991    89,294    3,813       10,140    9           185      338          317      209       394      ...         577         3         1       3      ...   1        7
+File Hills
+              57,868        20,000    37,113    755         11,000    5           29       47           36       28        71       1           290         1         ...     1      ...   ...      ...
+Agency
+File Hills
+              26,631        7,000     15,695    3,936       4,500     18          12       112          125      70        98       ...         350         2         ...     ...    ...   2        2
+Colony
+Isle à la
+              105,822       104,297   1,525     ...         30        ...         309      126          ...      ...       ...      ...         232         ...       ...     1      ...   ...      ...
+Crosse
+Moose
+              30,088        25,035    4,012     1,041       30,088    1           50       76           76       45        115      ...         200         ...       1       1      ...   ...      2
+Mountain
+Moose
+              4,160         1,368     2,619     173         170       1           20       34           36       31        47       ...         44          ...      ...      1      ...   1        ...
+Woods
+Onion Lake    197,834       53,218    142,319   2,297       11,400    3           190      151          98       110       332      4           2,000       ...      ...      1      2     ...      3
+Pelly         55,472        19,150    33,154    3,168       7,480     9           109      184          146      121       261      ...         770         4        ...      3      ...   4        3
+Qu'Appelle    63,961        6,940     45,146    11,875      33,347    42          141      280          276      216       502      3           1,100       4        3        ...    ...   ...      8
+Touchwood     109,713       60,172    45,066    4,475       49,912    5           205      359          351      284       354      ...         1,338       3        ...      4      ...   22       13
+Wood
+Mountain      6,720         1,160     5,200     360         800       ...         14       16           12       11        19       1           90          ...      1        ...    ...   ...      ...
+Reserve
+Total     1,305,640         494,669   761,672   49,299      266,466   115         2,023    2,776        2,368    1,870     3,228    16          12,025      25       13       23     4     53       57
+YUKON
+          ...               ...       ...       ...         ...       ...         ...      ...          ...      ...       ...      ...         ...         ...      ...      ...    ...   ...      ...
+TERRITORY
+Yukon     2,211             2,207     ...       4           22        ...         ...      ...          ...      ...       ...      ...         ...         1        ...      1      ...   4        2
+RECAPITULATION
+PROVINCES ...               ...       ...       ...         ...       ...         ...      ...          ...      ...       ...      ...         ...         ...      ...      ...    ...   ...      ...
+Alberta   1,278,858         349,841   861,397   67,620      497,601   352         1,393    2,483        2,165    1,493     2,556    21          10,694      10       8        7      1     113      325
+British
+          740,360           464,001   251,645   24,714      227,222   4,172       2,752    4,365        3,324    1,079     2,855    250          29,905     151       49      48     6     54       55
+Columbia
+Manitoba      465,240       331,877   119,432   13,931      25,971    134         2,206    1,745        823      679       1,453    9           7,334       47        6       47     2     73       14
+New
+              34,507        33,076    1,056     375         1,213     345         49       184          77       25        99       2           970         6         4       11     ...   9        1
+Brunswick
+Northwest
+              ...           ...       ...       ...         ...       ...         198      88           ...      ...       ...      ...         ...         ...       ...     ...    ...   ...      ...
+Territories
+Nova Scotia   21,289        16,699    3,596     994         2,516     392         61       153          96       17        140      89          1,360       25        2       12     ...   10       4
+Ontario       1,017,014     877,200   76,254    63,560      122,244   2,079       2,268    6,101        5,688    1,736     5,337    233         39,421      100       32      84     9     100      112
+Prince
+
+<!-- page 51 -->
+Edward       1,527       726       404       397       397       52      15       25       30       4       10       ...   410       1     1     1     ...   3     2
+Island
+Quebec       177,420     148,622   17,735    11,063    10,708    1,380   269      2,270    1,009    485     2,193    58    5,927     14    5     25    2     35    56
+Saskatchewan 1,305,640   494,669   761,672   49,299    266,466   115     2,023    2,776    2,368    1,870   3,228    16    12,025    25    13    23    4     53    57
+Yukon
+             2,211       2,207     ...       4         22        ...     ...      ...      ...      ...     ...      ...   ...       1     ...   1     ...   4     2
+Territory
+Total        5,044,066   2,718,918 2,093,191 231,957   1,154,363 9,021   11,237   20,190   15,580   7,388   17,871   678   108,046   380   120   259   24    454   628
+
+<!-- page 52 -->

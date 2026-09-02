@@ -1,0 +1,321 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+<!-- page 882 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+Agency      LAND.                    PUBLIC BUILDINGS, PROPERTY OF THE BAND.             PRIVATE FENCING AND BUILDINGS.
+                Cleared, Cultivated,
+                including including             Council School Driving Other               Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                   Churches.                                   Ferries.
+                natural    made                 Houses. Houses. Sheds. Buildings.          Fenced. Stone.   Brick.     Frame      Log.
+                pasturage. pasturage.
+ONTARIO.        Acres.    Acres.     ...       ...     ...     ...     ...       ...     ...     ...        ...        ...        ...
+Grand River
+Superintendency 23,974    10,722     14        1       11      9       1         ...     42,696 1           16         208        370
+- Six Nations
+Parry Sound
+                1,260     ...        6         1       5       1       7         ...     1,260   ...        ...        23         90
+Superintendency
+New Credit
+(Mississaguas) 1,900      3,750      2         1       1       2       3         ...     5,700   ...        3          47         16
+Agency
+Walpole Island
+               9,180      1,730      2         1       3       2       2         4       3,071   ...        ...        86         77
+Agency
+Sarnia Agency 2,259       1,563      4         2       3       2       1         ...     5,435 ...          3          121        15
+Caradoc Agency 4,334      10,637     ...       3       6       1       13        ...     14,314 ...         6          148        147
+Moravian
+               1,194      966        ...       1       1       ...     ...       ...     2,240   ...        1          28         61
+Agency
+Manitowaning
+                1,502     3,724      7         3       9       2       ...       ...     2,275   ...        ...        29         280
+Agency
+Gore Bay
+                ...       ...        ...       ...     ...     ...     ...       ...     ...     ...        ...        ...        ...
+Agency
+Thessalon
+                350       269        3         ...     5       ...     ...       ...     269     ...        ...        28         66
+Agency
+Sault Ste. Marie
+                 1,566    7,764      6         1       2       ...     1         ...     2,497   ...        ...        37         123
+Agency
+Port Arthur
+                .
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+  750
+Viger Agency     ...   ...       ...     ...      ...       ...      ...     ...        ...      ...
+St. Francis
+                 ...   ...       63      547      ...       ...      5       83         3 1/2    32
+Agency
+Lake St. John
+                 62    500       350     4,500    32        270      ...     ...        40       395
+Agency
+Maria Agency     3     40        30      500      ...       ...      ...     ...        ...      ...
+Restigouche
+                 12    218       162     4,226    8         242      ...     ...        3        124
+Agency
+River Desert
+                 7     125       150     3,000    ...       ...      1 1/2   40         15       400
+Agency
+Jeune Lorette
+                 ...   ...       12      300      ...       ...      1       12         1/2      12
+Agency
+Becancour
+                 ...   ...       ...     ...      ...       ...      ...     ...        ...      ...
+Agency
+Timiskaming
+                 ...   ...       44      910      ...       ...      ...     ...        4        35
+Agency
+Bersimis Agency ...    ...       ...     ...      ...       ...      ...     ...        ...      ...
+Mingan Agency ...      ...       ...     ...      ...       ...      ...     ...        ...      ...
+                                                                     438
+Total            254   3,728     2,383   52,761   145       2,753            9,854      141      2,169
+                                                                     1/2
+
+
+
+=== EXTRACT FROM HERE (pages 901-905) ===
+<!-- page 901 -->
+Agency.                GRAIN, ROOTS AND FODDER.
+...                    Rye.          Buckwheat.          Beans.           Potatoes.       Carrots.
+                       Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+...
+                       Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+ONTARIO.               ...   ...        ...   ...        ...   ...        ...   ...        ...   ...
+Grand River
+Superintendency - Six 172    2,209     43       514      38       662     179    11,479   1 3/4 180
+Nations
+Parry Sound
+                      ...    ...       ...      ...      ...      150     ...    4,175    ...     115
+Superintendency
+New Credit
+                      ...    ...       ...      ...      2        60      14 1/2 1,600    1       70
+(Mississaguas) Agency
+Walpole Island Agency ...    ...       19       334      29       242     223    2,623    6       97
+                                                         Not
+Sarnia Agency          ...   ...       ...      ...            162        70     2,341    ...     ...
+                                                         givn.
+Caradoc Agency         ...   ...       47       645      35       667     92     8,078    6       881
+Moravian Agency        20    600       35       700      50       1,000   38     1,200    ...     ...
+Manitowaning Agency    ...   ...       ...      ...      7 1/4    200     345    19,479   5 3/4   276
+Gore Bay Agency        ...   ...       ...      ...      ...      ...     ...    ...      ...     ...
+Thessalon Agency       ...   ...       ...      ...      ...      ...     77     6,626    ...     ...
+Sault Ste. Marie
+                       ...   ...       1        15       1 1/2 36         178    4,350    3       85
+Agency
+Port Arthur Agency     ...   ...       ...      ...      ...      ...     ...    ...      ...     ...
+Golden Lake Agency     ...   ...       1        35       ...      ...     5      315      ...     ...
+Tyendinaga Agency      390   8,190      500     12,500   15       450     200 10,000      1       75
+Lake Simcoe Agency     ...   ...        11      200      3/4      ...     8      200      ...     ...
+Cape Croker Agency     ...   ...        ...     ...      6        120     40     1,500    2 1/2   90
+Saugeen Agency         ...   ...        ...     ...      5        150     55     2,000    1/2     75
+Alnwick Agency         20    300        6 1/2   240      1/4      8 1/2   20 1/4 1,920    ...     ...
+Mud Lake Agency        ...   ...        16      175      1        20      30     3,000    1       200
+Rice Lake Agency       5     100        5       50       ...      ...     12     1,200    ...     ...
+Rama Agency            ...   ...        ...     ...      2        21      47     2,000    2       120
+Christian Island
+                       ...   ...        ...     ...      5        75      100    3,500    ...     ...
+Agency
+Scugog Agency          8     130        6       300      1/4      2       3      155      ...     ...
+Indians of Christian
+Island Band residing   ...   ...        ...     ...      1        15      8      500      1/4     8
+on Manitoulin Island
+Rat Portage Agency     ...   ...        ...     ...      ...      ...     8 3/4 1,573     ...     ...
+Fort Frances Agency    ...   ...        ...     ...      ...      ...     17    2,145     ...     ...
+Savanne Agency         ...   ...        ...     ...      ...      ...     26    1,870     ...     ...
+
+<!-- page 902 -->
+Agency.           GRAIN, ROOTS AND FODDER.
+...               Rye.          Buckwheat.         Beans.               Potatoes.        Carrots.
+                  Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+...
+                  Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+Sturgeon Falls                                                          Not
+                  ...   ...       ...    ...       ...      ...                1,250     ...        5
+Agency                                                                  given.
+                                  690                                   1796
+Total             615   11,529           15,708    199      4,040 1/2           95,079   30 3/4 2,277
+                                  1/2                                   1/2
+QUEBEC.           ...   ...       ...    ...       ...      ...         ...     ...      ...        ...
+Lake of Two
+Mountains         ...   ...       41     902       10 1/4 164           55      6,048    1/4        10
+Agency
+Caughnawaga
+                  ...   ...       90     23,400    7        200         125     2,500    ...        ...
+Agency
+St. Regis Agency 8      144       50     950       12 1/2 340           200     8,500    9          400
+Viger Agency     ...    ...       ...    ...       ...    ...           ...     ...      ...        ...
+St. Francis
+                 ...    ...       12     75        4        37          30      1,150    1/2        6
+Agency
+Lake St. John
+                  ...   ...       60     1,100     3        42          325     6,700    1/2        30
+Agency
+Maria Agency      ...   ...       ...    ...       ...      ...         6       500      ...        ...
+Restigouche
+                  ...   ...       15     416       1        19          50      3,240    1          45
+Agency
+River Desert
+                  ...   ...       12     400       1        25          30      3,000    1/2        30
+Agency
+Jeune Lorette
+                  ...   ...       1      10        1        16          5       300      1/2        30
+Agency
+Bécancourt
+                  ...   ...       ...    ...       ...      ...         ...     ...      ...        ...
+Agency
+Timiskaming
+                  ...   ...       ...    ...       ...      ...         8       630      ...        ...
+Agency
+Bersimis Agency ...     ...       ...    ...       ...    ...           13     500       ...    ...
+Mingan Agency ...       ...       ...    ...       ...    ...           ...    ...       ...    ...
+Total           8       144       281    27,253    39 3/4 843           847    33,068    12 3/4 621
+
+<!-- page 903 -->
+                                                                       Other
+Agency            GRAIN, ROOTS AND FODDER - Concluded.                         NEW LAND IMPROVEMENTS.
+                                                                       Fodder.
+...               Turnips.         Other Roots.      Hay.              ...     ...     ...      ...      ...
+                                                                                                Land
+                  Acres Bushes     Acres Bushes                                Land     Land    Cropped Land
+...                                                 Cultivated. Wild. ...
+                  Sown. Harvested. Sown. Harvested.                            Cleared. Broken. for first Fenced.
+                                                                                                time.
+ONTARIO.        ...   ...          ...    ...        Tons.       Tons. Tons.   Acres. Acres. Acres. Acres.
+Grand River
+Superintendency 3 3/4 400          12     2,705      4,324       ...   2,886   ...     ...      ...      ...
+- Six Nations
+Parry Sound
+                ...   405          ...    180        270         130   ...     30      ...      ...      ...
+Superintendency
+New Credit
+(Mississaguas) 1/2      50         5      300        486         ...   175     ...     20       15       75
+Agency
+Walpole Island
+               14       525        ...    ...        295         400   800     ...     15       15       ...
+Agency
+Sarnia Agency ...       ...        ...    ...        531         1     669     2       2        2        ...
+Caradoc Agency 7        801        14     3,390      1,365       41    1,208   33      ...      31       1,830
+Moravian
+               3        600        10     4,000      500         ...   700     6       6        6        6
+Agency
+Manitowaning
+                  17 3/4 1,129     6 1/4 118         1,514       39    653     5       ...      5        ...
+Agency
+Gore Bay
+                  ...   ...        ...    ...        ...         ...   ...     ...     ...      ...      ...
+Agency
+Thessalon
+                  ...   ...        ...    ...        100         42    11      5       ...      ...      5
+Agency
+Sault St. Marie
+                  10    660        8      170        370         210   ...     2       ...      ...      ...
+Agency
+Port Arthur
+                  ...   ...        ...    ...        ...         ...   ...     ...     ...      ...      ...
+Agency
+Golden Lake
+                  ...   50         ...    ...        12          15    15      2       ...      ...      ...
+Agency
+Tyendinaga
+                  10    2,000      5      1,000      1,000       ...   850     ...     ...      ...      ...
+Agency
+Lake Simcoe
+                  3     2,000      ...    ...        70          12    4       3       3        3        3
+Agency
+Cape Croker
+                  3     420        ...    ...        300         50    60      5       10       10       ...
+Agency
+Saugeen
+                  2     600        15     1,000      200         10    140     45      25       16       ...
+Agency
+Alnwick
+                  13 1/2 4,775     ...    1          109         ...   172     ...     ...      ...      ...
+Agency
+Mud Lake
+                  5     1,500      3      400        70          ...   30      ...     ...      ...      ...
+Agency
+
+<!-- page 904 -->
+Rice Lake
+                10    2,000   3     500   60    ...   30    ...   ...   ...   2
+Agency
+Rama Agency 3         480     3     210   310   16    13    5     5     5     5
+Christian Island
+                 5    500     ...   ...   200   75    ...   50    50    50    50
+Agency
+Scugog Agency ...      ...    ...   ...   21    ...   ...   ...   ...   ...   ...
+Indians of
+Christian Island
+band residing on 6     400    1 1/2 75    20    5     6     ...   ...   ...   ...
+Manitoulin
+Island
+Rat Portage
+                 1 1/2 140    ...   ...   ...   373   ...   ...   ...   ...   ...
+Agency
+
+<!-- page 905 -->
+                                                                     Other
+Agency          GRAIN, ROOTS AND FODDER - Concluded.                         NEW LAND IMPROVEMENTS.
+                                                                     Fodder.
+...             Turnips.         Other Roots.      Hay.              ...     ...     ...      ...      ...
+                                                                                              Land
+                Acres Bushes     Acres Bushes                                Land     Land    Cropped Land
+...                                               Cultivated. Wild. ...
+                Sown. Harvested. Sown. Harvested.                            Cleared. Broken. for first Fenced.
+                                                                                              time.
+Fort Frances
+                ...    ...       3 1/2   255       ...         35    178     ...     ...      ...      ...
+Agency
+Savanne
+                ...    ...       3 3/4   115       ...         110   ...     ...     ...      ...      ...
+Agency
+Sturgeon Falls
+               ...     150       ...     25        30          180   ...     20      ...      ...      ...
+Agency
+Total           120    19,585    93      14,444    12,157      1,744 8,600   213     136      158      1,984
+QUEBEC.         ...    ...       ...     ...       ...         ...   ...     ...     ...      ...      ...
+Lake of Two
+Mountains   3          250       ...     ...       301         40    323     22      25       ...      5
+Agency
+Caughnawaga
+            ...        ...       ...     ...       3,000       ...   ...     30      22       10       75
+Agency
+St. Regis
+                13     900       9       950       1,500       500   750     ...     10       10       8
+Agency
+Viger Agency ...       ...       ...     ...       ...         ...   ...     ...     ...      ...      ...
+St. Francis
+             ...       ...       ...     ...       150         ...   ...     7       ...      3        5
+Agency
+Lake St. John
+                4      75        ...     ...       140         ...   75      11      3        7        5
+Agency
+Maria Agency 1         30        ...     ...       25          ...   15      ...     ...      ...      ...
+Restigouche
+             3         168       ...     ...       356         24    290     6       4        4        4
+Agency
+River Desert
+                10     3,500     3       75        125         10    140     7       45       7        7
+Agency
+Jeune Lorette
+                1      72        4       300       140         120   120     ...     ...      ...      ...
+Agency
+Becancour
+                ...    ...       ...     ...       ...         ...   ...     ...     ...      ...      ...
+Agency
+Timiskaming
+                ...    ...       ...     ...       52          ...   25      4       4        6        ...
+Agency
+Bersimis
+                ...    ...       ...     ...       10          15    ...     ...     ...      ...      ...
+Agency
+Mingan
+                ...    ...       ...     ...       ...         ...   ...     ...     ...      ...      ...
+Agency
+Total           35     4,995     16      1,325     5,799       709   1,738   87      113      47       109
+

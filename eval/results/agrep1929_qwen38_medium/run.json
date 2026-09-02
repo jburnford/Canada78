@@ -1,0 +1,719 @@
+{
+ "00": {
+  "seconds": 270.9,
+  "pages": "174\u2013177",
+  "windows": [
+   {
+    "window": [
+     174,
+     177
+    ],
+    "rows": 19,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 270.9,
+    "finish_reason": "stop",
+    "completion_tokens": 9936
+   }
+  ],
+  "rows": 19,
+  "complete": true
+ },
+ "02": {
+  "seconds": 347.5,
+  "pages": "182\u2013185",
+  "windows": [
+   {
+    "window": [
+     182,
+     185
+    ],
+    "rows": 50,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 347.5,
+    "finish_reason": "stop",
+    "completion_tokens": 12674
+   }
+  ],
+  "rows": 50,
+  "complete": true
+ },
+ "01": {
+  "seconds": 562.3,
+  "pages": "178\u2013181",
+  "windows": [
+   {
+    "window": [
+     178,
+     181
+    ],
+    "rows": 126,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 562.3,
+    "finish_reason": "stop",
+    "completion_tokens": 20447
+   }
+  ],
+  "rows": 126,
+  "complete": true
+ },
+ "03": {
+  "seconds": 431.2,
+  "pages": "186\u2013189",
+  "windows": [
+   {
+    "window": [
+     186,
+     189
+    ],
+    "rows": 50,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 431.2,
+    "finish_reason": "stop",
+    "completion_tokens": 15464
+   }
+  ],
+  "rows": 50,
+  "complete": true
+ },
+ "04": {
+  "seconds": 452.9,
+  "pages": "190\u2013193",
+  "windows": [
+   {
+    "window": [
+     190,
+     193
+    ],
+    "rows": 29,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 452.9,
+    "finish_reason": "stop",
+    "completion_tokens": 16214
+   }
+  ],
+  "rows": 29,
+  "complete": true
+ },
+ "07": {
+  "seconds": 183.0,
+  "pages": "202\u2013205",
+  "windows": [
+   {
+    "window": [
+     202,
+     205
+    ],
+    "rows": 15,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 183.0,
+    "finish_reason": "stop",
+    "completion_tokens": 6502
+   }
+  ],
+  "rows": 15,
+  "complete": true
+ },
+ "05": {
+  "seconds": 495.7,
+  "pages": "194\u2013197",
+  "windows": [
+   {
+    "window": [
+     194,
+     197
+    ],
+    "rows": 37,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 495.7,
+    "finish_reason": "stop",
+    "completion_tokens": 17561
+   }
+  ],
+  "rows": 37,
+  "complete": true
+ },
+ "08": {
+  "seconds": 220.3,
+  "pages": "206\u2013209",
+  "windows": [
+   {
+    "window": [
+     206,
+     209
+    ],
+    "rows": 17,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 220.3,
+    "finish_reason": "stop",
+    "completion_tokens": 7863
+   }
+  ],
+  "rows": 17,
+  "complete": true
+ },
+ "06": {
+  "seconds": 511.4,
+  "pages": "198\u2013201",
+  "windows": [
+   {
+    "window": [
+     198,
+     201
+    ],
+    "rows": 11,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 511.4,
+    "finish_reason": "stop",
+    "completion_tokens": 18138
+   }
+  ],
+  "rows": 11,
+  "complete": true
+ },
+ "09": {
+  "seconds": 503.0,
+  "pages": "210\u2013213",
+  "windows": [
+   {
+    "window": [
+     210,
+     213
+    ],
+    "rows": 39,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 503.0,
+    "finish_reason": "stop",
+    "completion_tokens": 18125
+   }
+  ],
+  "rows": 39,
+  "complete": true
+ },
+ "10": {
+  "seconds": 481.0,
+  "pages": "214\u2013217",
+  "windows": [
+   {
+    "window": [
+     214,
+     217
+    ],
+    "rows": 22,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 481.0,
+    "finish_reason": "stop",
+    "completion_tokens": 17237
+   }
+  ],
+  "rows": 22,
+  "complete": true
+ },
+ "11": {
+  "seconds": 611.7,
+  "pages": "218\u2013221",
+  "windows": [
+   {
+    "window": [
+     218,
+     221
+    ],
+    "rows": 74,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 611.7,
+    "finish_reason": "stop",
+    "completion_tokens": 21983
+   }
+  ],
+  "rows": 74,
+  "complete": true
+ },
+ "12": {
+  "seconds": 589.7,
+  "pages": "222\u2013225",
+  "windows": [
+   {
+    "window": [
+     222,
+     225
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 12762
+   },
+   {
+    "window": [
+     222,
+     225
+    ],
+    "rows": 76,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 231.3,
+    "finish_reason": "stop",
+    "completion_tokens": 8385
+   }
+  ],
+  "rows": 76,
+  "complete": true
+ },
+ "13": {
+  "seconds": 510.6,
+  "pages": "226\u2013229",
+  "windows": [
+   {
+    "window": [
+     226,
+     229
+    ],
+    "rows": 29,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 510.6,
+    "finish_reason": "stop",
+    "completion_tokens": 18303
+   }
+  ],
+  "rows": 29,
+  "complete": true
+ },
+ "14": {
+  "seconds": 447.1,
+  "pages": "230\u2013233",
+  "windows": [
+   {
+    "window": [
+     230,
+     233
+    ],
+    "rows": 24,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 447.1,
+    "finish_reason": "stop",
+    "completion_tokens": 16040
+   }
+  ],
+  "rows": 24,
+  "complete": true
+ },
+ "15": {
+  "seconds": 538.4,
+  "pages": "234\u2013237",
+  "windows": [
+   {
+    "window": [
+     234,
+     237
+    ],
+    "rows": 24,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 538.3,
+    "finish_reason": "stop",
+    "completion_tokens": 19161
+   }
+  ],
+  "rows": 24,
+  "complete": true
+ },
+ "16": {
+  "seconds": 506.8,
+  "pages": "238\u2013241",
+  "windows": [
+   {
+    "window": [
+     238,
+     241
+    ],
+    "rows": 49,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 506.8,
+    "finish_reason": "stop",
+    "completion_tokens": 18027
+   }
+  ],
+  "rows": 49,
+  "complete": true
+ },
+ "17": {
+  "seconds": 557.3,
+  "pages": "242\u2013245",
+  "windows": [
+   {
+    "window": [
+     242,
+     245
+    ],
+    "rows": 52,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 557.3,
+    "finish_reason": "stop",
+    "completion_tokens": 19852
+   }
+  ],
+  "rows": 52,
+  "complete": true
+ },
+ "18": {
+  "seconds": 472.1,
+  "pages": "246\u2013249",
+  "windows": [
+   {
+    "window": [
+     246,
+     249
+    ],
+    "rows": 49,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 472.1,
+    "finish_reason": "stop",
+    "completion_tokens": 16830
+   }
+  ],
+  "rows": 49,
+  "complete": true
+ },
+ "19": {
+  "seconds": 483.2,
+  "pages": "250\u2013253",
+  "windows": [
+   {
+    "window": [
+     250,
+     253
+    ],
+    "rows": 54,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 483.2,
+    "finish_reason": "stop",
+    "completion_tokens": 17250
+   }
+  ],
+  "rows": 54,
+  "complete": true
+ },
+ "20": {
+  "seconds": 438.6,
+  "pages": "254\u2013257",
+  "windows": [
+   {
+    "window": [
+     254,
+     257
+    ],
+    "rows": 59,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 438.6,
+    "finish_reason": "stop",
+    "completion_tokens": 15648
+   }
+  ],
+  "rows": 59,
+  "complete": true
+ },
+ "21": {
+  "seconds": 528.8,
+  "pages": "258\u2013261",
+  "windows": [
+   {
+    "window": [
+     258,
+     261
+    ],
+    "rows": 73,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 528.8,
+    "finish_reason": "stop",
+    "completion_tokens": 18828
+   }
+  ],
+  "rows": 73,
+  "complete": true
+ },
+ "22": {
+  "seconds": 848.4,
+  "pages": "262\u2013265",
+  "windows": [
+   {
+    "window": [
+     262,
+     265
+    ],
+    "rows": 68,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 848.4,
+    "finish_reason": "stop",
+    "completion_tokens": 30060
+   }
+  ],
+  "rows": 68,
+  "complete": true
+ },
+ "23": {
+  "seconds": 862.8,
+  "pages": "266\u2013269",
+  "windows": [
+   {
+    "window": [
+     266,
+     269
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 20008
+   },
+   {
+    "window": [
+     266,
+     269
+    ],
+    "rows": 66,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 297.3,
+    "finish_reason": "stop",
+    "completion_tokens": 10505
+   }
+  ],
+  "rows": 66,
+  "complete": true
+ },
+ "24": {
+  "seconds": 620.2,
+  "pages": "270\u2013273",
+  "windows": [
+   {
+    "window": [
+     270,
+     273
+    ],
+    "rows": 73,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 620.2,
+    "finish_reason": "stop",
+    "completion_tokens": 21865
+   }
+  ],
+  "rows": 73,
+  "complete": true
+ },
+ "27": {
+  "seconds": 855.3,
+  "pages": "282\u2013285",
+  "windows": [
+   {
+    "window": [
+     282,
+     285
+    ],
+    "rows": 78,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 855.3,
+    "finish_reason": "stop",
+    "completion_tokens": 29665
+   }
+  ],
+  "rows": 78,
+  "complete": true
+ },
+ "26": {
+  "seconds": 1102.0,
+  "pages": "278\u2013281",
+  "windows": [
+   {
+    "window": [
+     278,
+     281
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 26255
+   },
+   {
+    "window": [
+     278,
+     281
+    ],
+    "rows": 84,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 348.0,
+    "finish_reason": "stop",
+    "completion_tokens": 12160
+   }
+  ],
+  "rows": 84,
+  "complete": true
+ },
+ "28": {
+  "seconds": 870.4,
+  "pages": "286\u2013289",
+  "windows": [
+   {
+    "window": [
+     286,
+     289
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 19357
+   },
+   {
+    "window": [
+     286,
+     289
+    ],
+    "rows": 80,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 322.6,
+    "finish_reason": "stop",
+    "completion_tokens": 11645
+   }
+  ],
+  "rows": 80,
+  "complete": true
+ },
+ "29": {
+  "seconds": 845.4,
+  "pages": "290\u2013293",
+  "windows": [
+   {
+    "window": [
+     290,
+     293
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 17893
+   },
+   {
+    "window": [
+     290,
+     293
+    ],
+    "rows": 86,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 339.4,
+    "finish_reason": "stop",
+    "completion_tokens": 12191
+   }
+  ],
+  "rows": 86,
+  "complete": true
+ },
+ "25": {
+  "seconds": 2058.3,
+  "pages": "274\u2013277",
+  "windows": [
+   {
+    "window": [
+     274,
+     277
+    ],
+    "truncated_split": [
+     [
+      274,
+      275
+     ],
+     [
+      276,
+      277
+     ]
+    ],
+    "completion_tokens": 31938
+   },
+   {
+    "window": [
+     274,
+     275
+    ],
+    "rows": 47,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 631.5,
+    "finish_reason": "stop",
+    "completion_tokens": 22335
+   },
+   {
+    "window": [
+     276,
+     277
+    ],
+    "rows": 34,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 509.9,
+    "finish_reason": "stop",
+    "completion_tokens": 18080
+   }
+  ],
+  "rows": 81,
+  "complete": true
+ },
+ "31": {
+  "seconds": 692.6,
+  "pages": "298\u2013301",
+  "windows": [
+   {
+    "window": [
+     298,
+     301
+    ],
+    "rows": 68,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 692.6,
+    "finish_reason": "stop",
+    "completion_tokens": 25929
+   }
+  ],
+  "rows": 68,
+  "complete": true
+ },
+ "30": {
+  "seconds": 763.5,
+  "pages": "294\u2013297",
+  "windows": [
+   {
+    "window": [
+     294,
+     297
+    ],
+    "retry": "parse failed (Extra data: line 3 column 1 (char 99)) \u2192 retry with thinking off",
+    "completion_tokens": 17973
+   },
+   {
+    "window": [
+     294,
+     297
+    ],
+    "rows": 79,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 281.2,
+    "finish_reason": "stop",
+    "completion_tokens": 10535
+   }
+  ],
+  "rows": 79,
+  "complete": true
+ }
+}

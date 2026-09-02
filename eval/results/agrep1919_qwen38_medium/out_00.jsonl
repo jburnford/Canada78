@@ -1,0 +1,59 @@
+{"row_type": "headers", "title": "RECAPITULATION. APPROPRIATION ACCOUNTS. 1918 - 1919.", "columns": ["Grant ($ cts.)", "Expenditure ($ cts.)", "Grant not used ($ cts.)"]}
+{"page": 155, "row_type": "row", "section": null, "label": "Civil Government", "values": ["152,075 00", "133,790 79", "18,430 19"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Annuities", "values": ["205,290 00", "184,471 00", "20,819 00"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Prince Edward Island", "values": ["3,225 00", "3,217 39", "7 61"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["24,300 00", "24,298 45", "1 55"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "New Brunswick", "values": ["18,284 00", "18,282 83", "1 17"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Ontario and Quebec", "values": ["81,775 00", "81,653 68", "121 32"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Manitoba and North West Territories", "values": ["536,149 00", "535,899 26", "249 74"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "British Columbia", "values": ["176,050 00", "175,239 02", "810 98"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Yukon", "values": ["17,000 00", "14,703 90", "2,296 10"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "General", "values": ["198,000 00", "197,999 38", "0 62"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Indian education", "values": ["735,515 00", "735,504 90", "10 10"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "War Appropriation (Greater Production)", "values": ["300,000 00", "251,700 43", "48,299 57"], "confidence": "high"}
+{"page": 155, "row_type": "total", "section": null, "label": "Total", "values": ["2,295,588 00", "2,222,970 24", "72,617 76"], "confidence": "high"}
+{"page": 155, "row_type": "row", "section": null, "label": "Balance, March 31, 1918", "values": [null, "8,665,137 35"], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Collection on land sales, timber and stone dues, rents, fines and fees", "values": [null, "1,122,254 09"], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Interest for year ending March 31, 1918", "values": [null, "444,155 30"], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Legislative grants to supplement the funds", "values": [null, "3,000 00"], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Outstanding cheques,", "values": [null, "168 60"], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Credit transfers during the year", "values": [null, "85 55"], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Debit transfers during the year", "values": ["7,473 65", null], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Expenditure during the year", "values": ["988,540 57", null], "confidence": "medium"}
+{"page": 155, "row_type": "row", "section": null, "label": "Balance, March 31, 1919", "values": ["9,238,786 67", null], "confidence": "medium"}
+{"page": 155, "row_type": "total", "section": null, "label": null, "values": ["10,234,800 89", "10,234,800 89"], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": null, "label": "Expenditure - Dépenses.", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": "Expenditure - Dépenses.", "label": "Civil Government -", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Civil Government -", "label": "Salaries", "values": ["3", null, "119,820 22", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Civil Government -", "label": "Contingencies", "values": ["5", null, "13,976 29", "133,796 51"], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Civil Government -", "label": "Annuities paid under statute", "values": ["5", null, null, "184,471 00"], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": "Expenditure - Dépenses.", "label": "Ontario and Quebec -", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Ontario and Quebec -", "label": "Relief medical attendance and medicines", "values": ["6", null, "29,412 72", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Ontario and Quebec -", "label": "Repairs to roads and bridges and drainage", "values": ["9", null, "445 30", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Ontario and Quebec -", "label": "General expenses", "values": ["9", null, "51,795 66", null], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": "Expenditure - Dépenses.", "label": "New Brunswick -", "values": [null, null, "81,653 68", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "New Brunswick -", "label": "Salaries", "values": ["11", null, "1,546 22", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "New Brunswick -", "label": "Relief", "values": ["11", null, "11,350 05", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "New Brunswick -", "label": "Aid to agriculture", "values": ["11", null, "1,016 95", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "New Brunswick -", "label": "Medical attendance and medicines", "values": ["11", null, "3,330 30", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "New Brunswick -", "label": "Repairs to roads", "values": ["11", null, "74 50", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "New Brunswick -", "label": "Miscellaneous and unforeseen", "values": ["11", null, "964 81", null], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": "Expenditure - Dépenses.", "label": "Prince Edward Island -", "values": [null, null, "18,282 83", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Prince Edward Island -", "label": "Salaries", "values": ["11", null, "600 00", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Prince Edward Island -", "label": "Relief and seed grain", "values": ["11", null, "1,640 29", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Prince Edward Island -", "label": "Medical attendance and medicines", "values": ["12", null, "802 69", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Prince Edward Island -", "label": "Miscellaneous", "values": ["12", null, "174 41", null], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": "Expenditure - Dépenses.", "label": "Nova Scotia -", "values": [null, null, "3,217 39", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Nova Scotia -", "label": "Salaries", "values": ["12", null, "4,404 66", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Nova Scotia -", "label": "Relief", "values": ["12", null, "10,181 27", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Nova Scotia -", "label": "Aid to agriculture", "values": ["12", null, "1,441 45", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Nova Scotia -", "label": "Medical attendance and medicines", "values": ["12", null, "6,211 31", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Nova Scotia -", "label": "Repairs to roads and dyking", "values": ["13", null, "279 10", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Nova Scotia -", "label": "Miscellaneous and unforeseen", "values": ["13", null, "1,780 66", null], "confidence": "medium"}
+{"page": 158, "row_type": "total", "section": "Nova Scotia -", "label": null, "values": [null, null, null, "24,298 45"], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": "Expenditure - Dépenses.", "label": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "values": [null, null, null, null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Expenses of agencies", "values": ["14", null, "518,743 34", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Sioux", "values": ["30", null, "9,086 58", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Surveys", "values": ["31", null, "8,069 34", null], "confidence": "medium"}
+{"page": 158, "row_type": "note", "section": "Expenditure - Dépenses.", "label": "British Columbia -", "values": [null, null, "535,899 26", null], "confidence": "medium"}
+{"page": 158, "row_type": "row", "section": "British Columbia -", "label": "Expenses of agencies", "values": ["32", null, "173,443 07", null], "confidence": "medium"}

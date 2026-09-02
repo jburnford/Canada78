@@ -1,0 +1,73 @@
+{"row_type": "headers", "title": "DETAILS OF REVENUE AND EXPENDITURE", "columns": ["Debit ($ cts.)", "Credit ($ cts.)"]}
+{"page": 309, "row_type": "row", "section": "129 - MATSQUIASHHAHCOM BAND, B.C.", "label": "Relief, $13.15; erecting four cottages, $1,000", "values": ["1,013 15", null], "confidence": "high"}
+{"page": 309, "row_type": "row", "section": "129 - MATSQUIASHHAHCOM BAND, B.C.", "label": "Balance, March 31, 1926", "values": ["1,049 36", null], "confidence": "high"}
+{"page": 309, "row_type": "total", "section": "129 - MATSQUIASHHAHCOM BAND, B.C.", "label": "...", "values": ["$2,175 51", "$2,175 51"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Capital - Balance, April 1, 1925", "values": [null, "3,108 10"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Collections: timber dues, $436.87; gravel, $933.95", "values": [null, "1,370 82"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Balance, March 31, 1926", "values": ["4,478 92", null], "confidence": "high"}
+{"page": 310, "row_type": "total", "section": "130 - COUCHICHING BAND, ONT.", "label": "...", "values": ["$4,478 92", "$4,478 92"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Interest - Intérêt - Balance, April 1, 1925", "values": [null, "685 56"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Interest, 5 p.c. on $3,793.66", "values": [null, "189 68"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Collections: rent, $1,338.18; miscellaneous, $186.61", "values": [null, "1,524 79"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Medical services, $162.75; relief, $46.20; burials, $85", "values": ["293 95", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Building material, $447.63; sundry items, $28.07", "values": ["475 70", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "130 - COUCHICHING BAND, ONT.", "label": "Balance, March 31, 1926", "values": ["1,630 38", null], "confidence": "high"}
+{"page": 310, "row_type": "total", "section": "130 - COUCHICHING BAND, ONT.", "label": "...", "values": ["$2,400 03", "$2,400 03"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "131 - NEW BRUNSWICK HOUSE RESERVE, ONT.", "label": "Capital - Timber dues, $1,423.50; cruising timber, $234.57", "values": ["234 57", "1,423 50"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "131 - NEW BRUNSWICK HOUSE RESERVE, ONT.", "label": "Advertising", "values": ["33 00", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "131 - NEW BRUNSWICK HOUSE RESERVE, ONT.", "label": "Balance, March 31, 1926", "values": ["1,155 93", null], "confidence": "high"}
+{"page": 310, "row_type": "total", "section": "131 - NEW BRUNSWICK HOUSE RESERVE, ONT.", "label": "...", "values": ["$1,423 50", "$1,423 50"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "131 - NEW BRUNSWICK HOUSE RESERVE, ONT.", "label": "Interest - Intérêt - Rent and fee collected", "values": [null, "185 00"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "131 - NEW BRUNSWICK HOUSE RESERVE, ONT.", "label": "Balance, March 31, 1926", "values": ["185 00", null], "confidence": "high"}
+{"page": 310, "row_type": "total", "section": "131 - NEW BRUNSWICK HOUSE RESERVE, ONT.", "label": "...", "values": ["$185 00", "$185 00"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Capital - Balance, April 1, 1925", "values": [null, "32,870 11"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Timber dues, $16.30; material and repairs, $503.20", "values": ["503 20", "16 30"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Balance, March 31, 1926", "values": ["32,383 21", null], "confidence": "high"}
+{"page": 310, "row_type": "total", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "...", "values": ["$32,886 41", "$32,886 41"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Interest - Intérêt - Debit balance, April 1, 1925", "values": ["33 52", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Interest, 5 p.c. on $32,836.59, $1,641.83; rent, $173.20", "values": [null, "1,815 03"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Transfer from Trust Acct. 441, credited in error in 1924 - 25", "values": ["25 00", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Interest distributed, $1,065; medical attendance, $132", "values": ["1,197 00", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Hospital treatment, $186.42; burials, $105.50; drugs, $41.05", "values": ["332 97", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Mothers' allowance, $233; binder, $236.68; sundry items, $31.85", "values": ["501 53", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Legal services, Cross, Jonah, Huggs and Forbes, Regina", "values": ["8 40", null], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "Debit balance, March 31, 1926", "values": [null, "283 39"], "confidence": "high"}
+{"page": 310, "row_type": "total", "section": "132 - WAYWAYSEECAPPO'S BAND, MAN.", "label": "...", "values": ["$2,098 42", "$2,098 42"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C.", "label": "Capital - Balance, April 1, 1925", "values": [null, "42,656 32"], "confidence": "high"}
+{"page": 310, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C.", "label": "Timber dues, $2,130.20; timber money distributed, $1,657.50", "values": ["1,657 50", "2,130 20"], "confidence": "high"}
+{"page": 311, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C.", "label": "Scaling timber, $149.28; fighting fire, $16", "values": ["165 28", null], "confidence": "high"}
+{"page": 311, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C.", "label": "Balance, March 31, 1926", "values": ["42,963 74", null], "confidence": "high"}
+{"page": 311, "row_type": "total", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C.", "label": "...", "values": ["$44,786 52", "$44,786 52"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C. - Conc.", "label": "Interest - Intérêt - Balance, April 1, 1925", "values": [null, "2,291 04"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C. - Conc.", "label": "Interest, 5 p.c. on $44,947.36, $2,247.37; rent, $1,034.80", "values": [null, "3,282 17"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C. - Conc.", "label": "Rent distributed, $150; hospitals, $930; burials, $82.10", "values": ["1,162 10", null], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C. - Conc.", "label": "Relief, $1,648.51; supplies and repairs to hall, $426.03", "values": ["2,074 54", null], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C. - Conc.", "label": "Repairs to culvert, $326.18; sundry items, $36.50", "values": ["362 68", null], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C. - Conc.", "label": "Balance, March 31, 1926", "values": ["1,973 89", null], "confidence": "high"}
+{"page": 312, "row_type": "total", "section": "133 - TSOOAHDIE (SEECHELT) BAND, B.C. - Conc.", "label": "...", "values": ["$5,573 21", "$5,573 21"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "Capital - Balance, April 1, 1925", "values": [null, "4,217 48"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "Balance, March 31, 1926", "values": ["$4,217 48", null], "confidence": "high"}
+{"page": 312, "row_type": "total", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "...", "values": ["$4,217 48", "$4,217 48"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "Interest - Intérêt - Balance, April 1, 1925", "values": [null, "12,116 08"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "Interest, 5 p.c. on $16,333.56, $816.68; rent, $3,331", "values": [null, "4,147 68"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "Hospital treatment, $99.90; relief supplies,", "values": ["144 55", null], "confidence": "medium"}
+{"page": 312, "row_type": "row", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "Balance, March 31, 1926", "values": ["16,119 21", null], "confidence": "high"}
+{"page": 312, "row_type": "total", "section": "134 - NEW WESTMINSTER BAND, B.C.", "label": "...", "values": ["$16,263 76", "$16,263 76"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "Capital - Balance, April 1, 1925", "values": [null, "348 23"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "Share of funds paid to enfranchised Indians", "values": ["2 22", null], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "Balance, March 31, 1926", "values": ["346 01", null], "confidence": "high"}
+{"page": 312, "row_type": "total", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "...", "values": ["$348 23", "$348 23"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "Interest - Intérêt - Balance, April 1, 1925", "values": [null, "3 89"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "Interest, 5 p.c. on $352.12, $17.61; relief, $16.90", "values": ["16 90", "17 61"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "Balance, March 31, 1926", "values": ["4 60", null], "confidence": "high"}
+{"page": 312, "row_type": "total", "section": "135 - JOHN SMITH'S BAND, SASK.", "label": "...", "values": ["$21 50", "$21 50"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Capital - Balance, April 1, 1925", "values": [null, "89,955 10"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "R.E. Maloney, timber scaler, 12 m. to Feb. 28", "values": ["1,440 00", null], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Half cost of fire patrol, $456.72; fire ranger, $450", "values": ["906 72", null], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Repairs to Catholic Church, $2,086.50 less $86.50 paid in 1924 - 25", "values": ["2,000 00", null], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Balance, March 31, 1926", "values": ["85,608 38", null], "confidence": "high"}
+{"page": 312, "row_type": "total", "section": "137 - BETSIAMITS BAND, QUE.", "label": "...", "values": ["$89,955 10", "$89,955 10"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Interest - Intérêt - Balance, April 1, 1925", "values": [null, "6,658 87"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Interest, 5 p.c. on $96,613.97", "values": [null, "4,830 70"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Collections: sale of fish, $1,935.77; loan, $112; rent and fees, $1,103", "values": [null, "3,150 77"], "confidence": "high"}
+{"page": 312, "row_type": "row", "section": "137 - BETSIAMITS BAND, QUE.", "label": "Refund to Casual Revenue for bonuses paid in 1924 - 25", "values": ["315 00", null], "confidence": "high"}

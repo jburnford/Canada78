@@ -1,0 +1,8 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0847-return-a-1	RETURN A (1)	847	850
+01	p0851-return-a-1-ontario	RETURN A (1) — Ontario	851	853
+02	p0854-return-a-1-quebec	RETURN A (1) — Quebec	854	854
+03	p0855-return-a-1-new-brunswick	RETURN A (1) — New Brunswick	855	856
+04	p0857-return-a-1-nova-scotia	RETURN A (1) — Nova Scotia	857	857
+05	p0858-return-a-1-prince-edward-islan	RETURN A (1) — Prince Edward Island	858	863
+06	p0858-return-a-1-prince-edward-islan	RETURN A (1) — Prince Edward Island	864	868

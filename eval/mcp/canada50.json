@@ -1,0 +1,1 @@
+{"mcpServers": {"canada50": {"command": "python3", "args": ["-m", "canada50_mcp.server"], "cwd": "/home/jic823/Canada50"}}}

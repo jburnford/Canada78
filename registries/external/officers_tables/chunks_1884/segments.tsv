@@ -1,0 +1,9 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0376-return-a-1	RETURN A (1)	376	378
+01	p0379-return-a-2	RETURN A (2)	379	380
+02	p0380-return-a-2-quebec	RETURN A (2) — Quebec	380	380
+03	p0384-return-a-2-british-columbia	RETURN A (2) — British Columbia	384	384
+04	p0384-return-a-2-nova-scotia	RETURN A (2) — Nova Scotia	384	385
+05	p0386-return-a-2-new-brunswick	RETURN A (2) — New Brunswick	386	386
+06	p0386-return-a-2-prince-edward-islan	RETURN A (2) — Prince Edward Island	386	390
+07	p0506-return-a-2-cont	RETURN A (2) (cont.)	506	507

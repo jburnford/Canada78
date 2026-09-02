@@ -1,0 +1,329 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province, Name of     Resident                                                                              From 65
+                                                  From 6 to 15,                           From 21 to 65,
+ Agency Superintendent Indian      Under 6 years.               From 16 to 20, inclusive.                    years    ... ... Male. Female.
+                                                  inclusive.                              inclusive.
+ or Band. or Agent.    Population.                                                                           upwards.
+
+Male.     Female.       Male.       Female. Male. Female. Male. Female.                    ...         ...   ...   ...
+                                                                          ONTARIO.
+                                                                          Grand River
+...       ...           ...         ...     ...   ...     ...    ...      Superintendency ...          ...   ...   ...
+                                                                          -
+                                                                                          E.D.
+...       ...           ...         ...     ...   ...     ...    ...      Six Nations     Cameron,     3,988 220 292
+                                                                                          Supt.
+                                                                                           W.B.
+                                                                          Parry (Sound
+408       398           208         199     1,094 1,023   69     77                        Maclean,    859   63    64
+                                                                          )Superintendency
+                                                                                           Supt.
+                                                                          New Credit       Hugh
+94        90            38          43      206   255     3      3        (Mississaguas) Stewart,      248   20    14
+                                                                          Agency           Agent
+                                                                                           Alex.
+                                                                          Walpole Island
+34        18            8           9       62    66      11     6                     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+Aspdin,
+Agency, Treaty No. Farmer in        ...        20       10    15       ...     ...       ...     2,100 00
+4.                 charge.
+Crooked Lakes
+                   P. Wright,
+Agency, Treaty No.                  692        55       32    43       ...     1         38      11,943 00
+                   Agent
+4
+Moose Mountain     R. Halpin,
+Agency, Treaty No. Farmer in        408        19       11    27       ...     2         12      2,850 00
+4                  charge
+Pine Creek Agency, S. Swinford,
+                                    41         4        3     3        6       1         3       230 00
+Treaty No. 4       Agent
+Saddle Lake
+                   Geo. G. Mann,
+Agency, Treaty No.               196           50       27    52       ...     1         14      5,852 00
+                   Agent
+6
+Hobbema Agency, W.S. Grant,
+                                    726        62       59    69       81      ...       9       8,275 00
+Treaty No. 6    Agent
+Battleford Agency, C.M. Daunais,
+                                 1,180         54       21    66       14      6         17      9,590 00
+Treaty No. 6       Agent
+Onion Lake
+                   W. Sibbald,
+Agency, Treaty No.                  650        20       11    24       ...     ...       ...     3,011 00
+                   Agent
+6
+                  R.S.
+Duck Lake Agency,
+                  McKenzie,         1,246      49       38    35       44      1         24      9,804 90
+Treaty No. 6
+                  Agent
+
+
+
+=== EXTRACT FROM HERE (pages 1145-1149) ===
+<!-- page 1145 -->
+                 James
+Edmonton Agency,
+                 Gibbons,           221      25      27    11    4     ...   10    4,837 00
+Treaty No. 6
+                 Agent
+                    W.B.
+Carlton Agency,
+                    Goodfellow,     733      49      54    69    76    6     21    7,747 50
+Treaty No. 6
+                    Agent
+Sarcee Agency,      A.J. McNeill,
+                                    130      5       3     7     4     1     3     755 00
+Treaty No. 7        Agent
+Blood Agency,       James Wilson,
+                                  2,000      153     ...   ...   70    7     19    26,035 00
+Treaty No. 7        Agent
+Blackfoot Agency, G.H. Wheatley,
+                                 250         63      ...   17    37    1     13    6,924 00
+Treaty No. 7      Agent
+Peigan Agency,      R.N. Wilson,
+                                    295      78      ...   ...   ...   8     8     6,574 00
+Treaty No. 7        Agent
+                    H.E. Sibbald,
+Stony Agency,
+                    Farmer in       40       25      ...   30    ...   1     5     2,993 00
+Treaty No. 7
+                    charge.
+Indians in Treaty
+                    No Agent        ...      ...     ...   ...   ...   ...   ...   ...
+No. 8
+Total               ...             12,100   1,056   426   722   405   121   321   152,557 80
+
+<!-- page 1146 -->
+                   Name of
+Province, Agency
+                   Superintendent LIVE STOCK AND POULTRY.
+or Band.
+                   or Agent.
+                                                                                                 OTHER
+...                ...              HORSES.                  CATTLE.
+                                                                                                 STOCK.
+                                    Colts,
+Stallions and                       Fillies            Oxen,         Cows, Young                 Boars,
+                   Mares.                     Bulls.         Steers.               Sheep. Lambs.
+Geldings.                           and                Work.         Milch. Stock.               Breeding.
+                                    Foals.
+
+NORTHWEST
+              ...                   ...       ...      ...   ...    ...    ...    ...    ...     ...         ... ...
+TERRITORIES -
+Continued.
+Touchwood Hills
+                   H. Martineau,
+Agency, Treaty                      10        243      31    12     36     221    318    328     ...         ... ...
+                   Agent
+No. 4
+Muskowpetung's
+                   J.A. Mitchell,
+Agency, Treaty                      299       205      58    4      42     63     154    316     ...         ... ...
+                   Agent
+No. 4
+Birtle Agency,     J.A. Markle,
+                                    157       253      115   9      34     181    260    287     20          ... ...
+Treaty No. 4       Agent
+Swan River
+                   W.E. Jones,
+Agency, Treaty                      97        47       58    15     37     194    262    383     152         ... ...
+                   Agent
+No. 4
+File Hills Agency, W.M. Graham,
+                                92            75       ...   9      25     178    203    252     6           ... ...
+Treaty No. 4       Agent
+Assiniboine        W. Aspdin,
+Agency, Treaty     Farmer in        20        35       16    1      39     18     20     42      ...         ... ...
+No. 4.             charge.
+Crooked Lakes
+                   P. Wright,
+Agency, Treaty                      103       122      45    9      72     162    236    468     28          ... ...
+                   Agent
+No. 4
+Moose Mountain     R. Halpin,
+Agency, Treaty     Farmer in        86        49       35    2      23     61     63     159     ...         ... ...
+No. 4              charge
+Pine Creek
+                   S. Swinford,
+Agency, Treaty                      10        12       9     1      ...    4      15     16      ...         ... ...
+                   Agent
+No. 4
+Saddle Lake
+                   Geo. G. Mann,
+Agency, Treaty                   145          128      36    ...    77     198    298    327     70          44 1
+                   Agent
+No. 6
+Hobbema Agency, W.S. Grant,
+                                    ...       (*)740 ...     1      23     192    375    292     ...         ... ...
+Treaty No. 6    Agent
+Battleford Agency, C.M. Daunais,
+                                 ...          (*)407 ...     17     159    320    534    552     70          40 3
+Treaty No. 6       Agent
+Onion Lake
+                   W. Sibbald,
+Agency, Treaty                      107       105      57    2      73     172    256    313     ...         ... ...
+                   Agent
+No. 6
+
+<!-- page 1147 -->
+Duck Lake
+                    R.S. McKenzie,
+Agency, Treaty                     193         10       49     21      89     327     365     461      18    ... ...
+                    Agent
+No. 6
+Edmonton Agency, James Gibbons,
+                                69             77       41     8       52     71      166     194      83    ... ...
+Treaty No. 6     Agent
+                     W.B.
+Carlton Agency,
+                     Goodfellow,     108       121      33     12      117    128     283     303      ...   ... 2
+Treaty No. 6
+                     Agent
+Sarcee Agency,       A.J. McNeill,
+                                     400       400      200    ...     3      ...     17      34       ...   ... ...
+Treaty No. 7         Agent
+Blood Agency,        James Wilson,
+                                   ...         (*)3500 ...     45      ...    356     656     909      ...   ... ...
+Treaty No. 7         Agent
+Blackfoot Agency, G.H. Wheatley,
+                                 (t)2797 ...            220    16      ...    134     214     227      ...   ... ...
+Treaty No. 7      Agent
+Peigan Agency,       R.N. Wilson,
+                                     265       485      490    ...     ...    80      330     497      ...   ... ...
+Treaty No. 7         Agent
+                     H.E. Sibbald,
+Stony Agency,
+                     Farmer in       ...       (*)1000 ...     11      ...    67      210     269      ...   ... ...
+Treaty No. 7
+                     charge.
+Indians in Treaty
+                     No Agent        ...       ...      ...    ...     ...    ...     ...     ...      ...   ... ...
+No. 8
+ Total               ...               3,958      8,014 1,496 195          901     3,127 5,205 6,629   447   84 6
+[(*)These figures include all kinds of horses. [(t)This includesall stallions, geldings and mares.]
+
+<!-- page 1148 -->
+                                                                     Value of
+                 Name of                                             Live
+Province, Agency                                                              GENERAL
+                 Superintendent LIVE STOCK AND POULTRY. - Concluded. Stock
+or Band.                                                                      EFFECTS.
+                 or Agent.                                           and
+                                                                     Poultry
+Other Stock.                    Poultry.                ...
+                                                                          Cocks
+                                   Sows,                                                 Sail Row
+...               ...                        Pigs. Turkeys. Geese. Ducks. and ...                      Canoes.
+                                   Breeding.                                             Boats. Boats.
+                                                                          Hens.
+
+NORTHWEST
+              ...                  ...      ...   ...     ...    ...    ...    $ cts.    ...   ...    ...
+TERRITORIES -
+Continued.
+Touchwood Hills
+                  H. Martineau,                                                34,461
+Agency, Treaty                     ...      ...   ...     8      ...    75               ...   ...    ...
+                  Agent                                                        00
+No. 4
+Muskowpetung's
+                  J.A. Mitchell,                                               35,301
+Agency, Treaty                     ...      6     ...     ...    ...    75               ...   6      ...
+                  Agent                                                        00
+No. 4
+Birtle Agency,    J.A. Markle,                                                 28,976
+                                   4        18    ...     ...    ...    883              ...   3      1
+Treaty No. 4      Agent                                                        00
+Swan River
+                  W.E. Jones,                                                  33,853
+Agency, Treaty                     ...      ...   ...     4      ...    130              2     ...    46
+                  Agent                                                        00
+No. 4
+File Hills Agency, W.M. Graham,                                                18,050
+                                ...         ...   ...     ...    ...    60               ...   ...    ...
+Treaty No. 4       Agent                                                       00
+Assiniboine       W. Aspdin,
+Agency, Treaty    Farmer in        ...      ...   ...     ...    ...    ...    4,290 00 ...    ...    ...
+No. 4.            charge.
+Crooked Lakes
+                  P. Wright,                                                   19,527
+Agency, Treaty                     ...      3     ...     ...    ...    ...              ...   ...    ...
+                  Agent                                                        00
+No. 4
+Moose Mountain    R. Halpin,
+                                                                               10,440
+Agency, Treaty    Farmer in        ...      ...   ...     ...    ...    ...              ...   ...    ...
+                                                                               00
+No. 4             charge
+Pine Creek
+                  S. Swinford,
+Agency, Treaty                     ...      ...   ...     ...    ...    ...    1,360 00 2      2      7
+                  Agent
+No. 4
+Saddle Lake
+                  Geo. G. Mann,                                                31,440
+Agency, Treaty                  4           11    ...     ...    ...    ...              1     19     60
+                  Agent                                                        00
+No. 6
+Hobbema Agency, W.S. Grant,                                                    26,120
+                                   ...      4     ...     ...    ...    ...              ...   ...    3
+Treaty No. 6    Agent                                                          00
+Battleford Agency, C.M. Daunais,                                               51,383
+                                 24         79    ...     ...    ...    135              ...   4      ...
+Treaty No. 6       Agent                                                       00
+Onion Lake
+                  W. Sibbald,                                                  27,095
+Agency, Treaty                     ...      ...   ...     ...    ...    60               ...   ...    20
+                  Agent                                                        00
+No. 6
+
+<!-- page 1149 -->
+Duck Lake           R.S.
+                                                                          34,182
+Agency, Treaty      McKenzie,       ...   8     ...   ...   ...   450               ...   3     8
+                                                                          00
+No. 6               Agent
+Edmonton            James
+                                                                          22,683
+Agency, Treaty      Gibbons,        ...   67    15    ...   10    130               ...   ...   8
+                                                                          00
+No. 6               Agent
+                    W.B.
+Carlton Agency,                                                           25,127
+                    Goodfellow,     6     12    ...   ...   ...   201               ...   14    106
+Treaty No. 6                                                              00
+                    Agent
+Sarcee Agency,      A.J. McNeill,
+                                    ...   ...   ...   ...   ...   40      8,000 00 ...    ...   ...
+Treaty No. 7        Agent
+Blood Agency,       James Wilson,                                         80,162
+                                  ...     ...   ...   ...   ...   50                ...   ...   ...
+Treaty No. 7        Agent                                                 00
+Blackfoot Agency, G.H. Wheatley,                                          28,023
+                                 ...      ...   ...   ...   ...   ...               ...   9     ...
+Treaty No. 7      Agent                                                   00
+Peigan Agency,      R.N. Wilson,                                          30,175
+                                    ...   ...   ...   ...   ...   ...               ...   ...   ...
+Treaty No. 7        Agent                                                 00
+                    H.E. Sibbald,
+Stony Agency,                                                             25,643
+                    Farmer in       ...   ...   ...   ...   ...   ...               ...   ...   ...
+Treaty No. 7                                                              00
+                    charge.
+Indians in Treaty
+                    No Agent        ...   ...   ...   ...   ...   ...     ...       ...   ...   ...
+No. 8
+                                                                          576,292
+Total               ...             38    208 15      12    10    2,289           5       60    259
+                                                                          00
+

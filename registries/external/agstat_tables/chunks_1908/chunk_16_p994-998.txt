@@ -1,0 +1,266 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS. REALTY OF INDIANS
+
+Agency             LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                   Cleared but  Under        Number     Number engaged in Number                Number
+...                not under    actual       engaged in hunting, trapping and engaged in        engaged in
+                   cultivation. cultivation. farming.   fishing.              other industries. stock-raising
+ONTARIO.           Acres.       Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency - 23,476          11,220     412          ...                   ...             412
+Six Nations
+Parry Sound
+                  839             485        55           43                    51              ...
+Superintendency
+New Credit
+(Mississaguas)     1,965          3,725      42           2                     35              ...
+Agency
+Walpole Island
+                   33,425         1,005      57           35                    ...             40
+Agency
+Sarnia             1,584         3,215       110          42                    45              52
+Caradoc Agency     4,459         10,512      63           ...                   ...             ...
+Moravian Agency    1,195         970         75           30                    20              60
+Manitowaning
+                   6,025         2,710       105          66                    114             ...
+Agency
+Gore Bay Agency 3,813 1/2        1,845 1/2   254          13                    291             ...
+Thessalon Agency 260             401         ...          2                     132             ...
+Sault Ste. Marie
+                 2,448           1,570       39           80                    153             ...
+Agency
+Port Arthur
+                   236           276         ...          276                   50              ...
+Agency
+Sturgeon Falls
+                   ...           375         ...          ...                   ...             ...
+Agency
+Golden Lake
+                   200           50          6            4                     ...             ...
+Agency
+Tyendinaga
+                   9,600         6,300       264          1                     231             ...
+Agency
+Lake Simcoe
+                   539           234         10           90                    9               9
+Agency
+Cape Croker
+                   3,500         1,500       145          25                    100             145
+Ag
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+onton Agency,
+                      87       75       14       13      ...         11         11        ...    5        8       1     ...      ...     ...
+Treaty No. 6
+Hobbema Agency,
+                      ...      ...      ...      ...     ...         15         ...       ...    ...      3       ...   1        ...     ...
+Treaty No. 6
+Saddle Lake Agency,
+                    ...        150      105      ...     ...         ...        ...       ...    ...      ...     ...   ...      ...     ...
+Treaty No. 6
+Stony Agency, Treaty
+                     ...       ...      ...      ...     ...         ...        ...       ...    ...      ...     ...   ...      ...     ...
+No. 7
+Sarcee Agency,
+                      ...      10       ...      60      ...         4          ...       ...    4        6       ...   ...      ...     ...
+Treaty No. 7
+Blackfoot Agency,
+                      ...      ...      12       750     2           3          ...       1      6        10      ...   ...      2       ...
+Treaty No. 7
+Blood Agency,
+                      ...      820      680      820     ...         ...        ...       ...    ...      ...     ...   ...      ...     ...
+Treaty No. 7
+Peigan Agency,
+                      ...      ...      78       ...     2           2          ...       ...    ...      ...     ...   ...      ...     ...
+Treaty No. 7
+Total                 87       1,055    889      1,643   4           35         11        1      15       27      1     1        2       ...
+
+
+
+=== EXTRACT FROM HERE (pages 994-998) ===
+<!-- page 994 -->
+
+<!-- page 995 -->
+PROGRESS, SOURCES AND VALUE OF INCOME.
+
+                                                                                                     THE ESTIMATED
+                                                                                                     VALUE OF FISH
+                                                                                                     AND MEAT USED
+                                                                       Value of                      FOR FOOD IS
+                                              Total Value Value of
+                                                                       Beef                 Received INCLUDED IN
+                      Value of New Value of of New Land farm                                         THESE              Earned by Total
+                                                                       Sold, also Wages     from
+Agency.               Land          Buildings Improvements Products,                                 COLUMNS.           other       Income of
+                                                                       of that    Earned.   Land
+                      Improvements. Erected. and           including                                                    Industries. Indians.
+                                                                       used for             Rentals.          Earned
+                                              Buildings.   Hay.
+                                                                       Food.                         Earned   by
+                                                                                                     by       Hunting
+                                                                                                     Fishing. and
+                                                                                                              Trapping.
+SASKATCHEWAN. $ cts.                $ cts.   $ cts.        $ cts.      $ cts.    $ cts.     $ cts.   $ cts.    $ cts.    $ cts.     $ cts.
+Pelly Agency, Treaty
+                     846 00         2,650 00 3,496 00      15,573 50 6,108 74 2,590 00 23,408 00 120 00        4,645 00 3,575 00    56,020 24
+No. 4
+Assiniboine Agency,
+                    630 00          300 00   930 00        5,557 70    859 60    625 00     ...      100 00    125 00    1,030 30   8,297 60
+Treaty No. 4
+Moose Mountain
+                     120 00         750 00   870 00        3,611 40    1,722 30 300 00      ...      500 00    600 00    2,787 60   9,521 30
+Agency, Treaty No. 4
+Qu'Appelle Agency,
+                      6,950 00      4,250 00 11,200 00     34,713 40 9,030 00 9,100 00 ...           2,300 00 2,950 00 13,846 60 71,940 00
+Treaty No. 4
+Crooked Lakes
+                     1,413 00       2,390 00 3,803 00      9,704 85    4,170 00 2,375 00 2,182 65 750 00       2,600 00 6,575 00    28,357 50
+Agency, Treaty No. 4
+Touchwood Hills
+                     1,340 00       760 00   2,100 00      14,437 15 7,626 29 6,932 25 13,835 00 1,000 00 15,596 00 7,401 65        66,828 34
+Agency, Treaty No. 4
+Battleford Agency,
+                      571 00        1,375 00 1,946 00      23,421 00 18,288 00 4,887 00 192 00       1,610 00 5,152 00 8,860 00     62,410 00
+Treaty No. 6
+Carlton Agency,
+                      833 50        2,395 00 3,223 50      6,194 15    6,042 20 10,251 95 ...        12,171 55 28,572 84 6,041 00   69,273 69
+Treaty No. 6
+Duck Lake Agency,
+                      7,757 00      6,075 00 13,732 00     9,291 55    9,051 00 12,721 34 ...        5,300 00 11,516 00 5,275 15    53,155 04
+Treaty No. 6
+Onion Lake Agency,
+                   252 00           400 00   652 00        13,519 00 9,517 00 7,575 00 ...           3,900 00 8,441 00 2,275 00     45,227 00
+Treaty No. 6
+Total                 20,612 50     21,345 00 41,957 50    136,023 70 72,415 13 57,357 54 39,617 65 27,751 55 80,107 84 57,667 30 471,030 71
+ALBERTA.              ...           ...       ...          ...        ...       ...       ...       ...       ...       ...       ...
+Edmonton Agency,
+                      795 00        3,780 00 4,575 00      11,500 00 1,690 00 5,430 00 ...           390 00    2,900 00 8,700 00    30,610 00
+Treaty No. 6
+Hobbema Agency,
+                      ...           840 00   840 00        11,778 80 2,511 12 1,650 00 ...           2,700 00 2,770 00 2,250 00     23,659 92
+Treaty No. 6
+Saddle Lake Agency,
+                    450 00          ...      450 00        16,468 00 937 32      1,743 00 ...        2,450 00 4,579 00 1,233 00     27,410 32
+Treaty No. 6
+Stony Agency, Treaty
+                     ...            ...      ...           2,500 00    3,400 00 550 00      ...      ...       61,622 00 12,676 50 25,748 50
+No. 7
+Sarcee Agency,
+                      400 00        1,200 00 1,600 00      5,000 00    800 00    3,000 00 ...        ...       ...       200 00     9,000 00
+Treaty No. 7
+
+<!-- page 996 -->
+Blackfoot Agency,
+                    1,500 00   2,350 00 3,850 00    6,100 00   4,404 91 5,800 00 ...       150 00   600 00    19,800 00 36,854 91
+Treaty No. 7
+Blood Agency,
+                    4,100 00   ...      4,100 00    7,740 00   10,690 36 15,643 00 ...     ...      ...       5,410 00   39,483 36
+Treaty No. 7
+Peigan Agency,
+                    390 00     550 00   940 00      5,673 60   4,825 86 6,000 00 1,500 00 ...       ...       10,526 74 28,526 20
+Treaty No. 7
+Total               7,635 00   8,720 00 16,355 00   66,760 40 29,259 57 39,816 00 1,500 00 5,690 00 17,471 00 60,796 24 221,293 21
+
+<!-- page 997 -->
+INDIAN WOMEN WHO HAVE COMMUTED THEIR ANNUITY BY A TEN YEARS' PURCHASE ($50)
+UNDER SECTIONS 14 - 5 OF THE INDIAN ACT. Commutations 1907 - 8.
+
+Clandeboye Agency.
+
+Margaret Lavalle, No. 473 - St. Peter's Band.
+
+Norway House Agency.
+
+Mary Mason Shed, No. 273 - Fisher River Band.
+
+No. 354 - Norway House Band.
+
+No. 50 - Grand Rapids Band.
+
+Pas Agency.
+
+Mrs. Jos. Flett, No. 211 - Pas Band.
+
+No. 304 - Pas Band.
+
+Portage la Prairie Agency.
+
+Mrs. John Contois, No. 75 - Fairford Band.
+
+Annabella Campbell, No. 65 - Waterhen River Band.
+
+Margaret Munro, No. 89 - Shoal River Band.
+
+Birtle Agency.
+
+Mrs. G. Chaboyer, née R. Morrisseau, No. 151 - Gambler's Band.
+
+Duck Lake Agency.
+
+Maggie Burns, No. 79 - James Smith's Band.
+
+Pelly Agency.
+
+Julia Ann Chartrand, No. 3 - Key Band.
+
+Qu'Appelle Agency.
+
+Lily Voden, No. 36 - Peepeekesis Band.
+
+<!-- page 998 -->
+RETURN A (1) of Officers and Employees of the Department of Indian Affairs on April 1, 1908.
+HEADQUARTERS - INSIDE SERVICE.
+
+                                                      Annual    Date of Present Date of First Appointment to
+Name.            Rank.
+                                                      Salary.   Rank.           Civil Service.
+...              ...                                  $         ...             ...
+Hon. Frank                                                      Holds this office combined with that of Minister
+                 Superintendent General               ...
+Oliver                                                          of the Interior.
+Frank Pedley    Deputy Superintendent General         4,000     Nov. 21, 1902 Sept. 1, 1897
+John D. McLean Chief Clerk and Secretary              2,700     July 19, 1897     Oct. 1,1876
+Samuel Stewart Chief Assistant Secretary              2,200     Dec. 30, 1898 Aug. 5, 1878
+Duncan C. Scott Chief Clerk and Accountant            2,500     July 6, 1893      Dec. 15, 1879
+Fred'k H. Paget Chief Assistant Accountant            2,050     July 1, 1904      June 1, 1882
+Samuel Bray,
+                Chief Surveyor                        2,000     July 1, 1905    June 14, 1884
+D.L.S.
+                 Chief Clerk, in charge of Land and
+William A. Orr                                        2,000     Feb. 6, 1906    Nov. 24, 1883
+                 Timber Branch
+John McGirr      First Class Clerk                    1,900     Oct. 14, 1891   Aug. 1, 1877
+Alfred E. Kemp   First Class Clerk                    1,700     Aug. 2, 1902    Feb. 1, 1884
+Hiram McKay      First Class Clerk                    1,600     July 1, 1905    July 9, 1880
+James J. Camp    First Class Clerk                    1,550     May 10, 1906    Dec. 30, 1886
+Henry C. Ross    First Class Clerk                    1,550     Aug. 1, 1906    Jan. 10, 1883
+Martin Benson    First Class Clerk                    1,500     May 28, 1907    April 1, 1870
+John D.
+                 Second Class Clerk                   1,450     Jan. 11, 1899   Dec. 29, 1896
+Sutherland
+John W. Shore    Second Class Clerk                   1,450     July 1, 1899    Mar. 24, 1884
+Geo, M.
+                 Second Class Clerk                   1,450     Jan. 30, 1903   June 21, 1888
+Matheson
+Robert B. E.
+                 Second Class Clerk.                  1,450     Jan. 30, 1903   Feb. 7, 1891
+Moffat
+Joseph de Lisle Second Class Clerk                    1,350     Feb. 1, 1905    June 23, 1880
+Peter Joseph
+                Second Class Clerk                    1,300     July 1, 1905    Feb. 15, 1898
+O'Connor
+Robert M.
+                 Second Class Architect               1,300     Aug. 25, 1905   Aug. 25, 1905
+Ogilvie
+James Guthrie Second Class Architect                  1,250     May 10, 1906    July 21, 1891
+D. Maxwell       Second Class Architect               1,250     Aug. 1, 1906    May 31, 1890
+Thos. P. Moffatt Second Class Architect               1,250     Aug. 1, 1906    Oct. 14, 1891
+Sidney Wm.
+                 Second Class Architect               1,200     May 28, 1907    Jan. 2, 1900
+Hobart
+Fannie Yeilding Junior Second Class Clerk             1,100     July 1, 1900    April 3, 1882
+Helen G. Ogilvy Junior Second Class Clerk             1,100     July 1, 1900    July 30, 1890
+Floretta K.
+                Junior Second Class Clerk             1,100     July 1, 1900    Jan. 31, 1891
+

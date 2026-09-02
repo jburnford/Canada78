@@ -1,0 +1,283 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+               Number Cleared but    Under        Number     Number        Number in engaged in Number
+...            of       not under    actual       engaged in engaged in    hunting, trapping and engaged other
+               Indians. cultivation. cultivation. farming.   stock-raising fishing.              industries.
+
+               ...     Acres.        Acres.      ...         ...           ...                  ...
+ALBERTA.
+Blackfoot      768     299,950       250         24          132           ...                  ...
+Blood          1,149   347,641       2,392       27          318           ...                  10
+Edmonton       683     33,655        1,280       29          68            73                   49
+Hobbema        785     75,778        642         71          79            62                   26
+Lesser Slave
+               224     11,450        50          ...         24            47                   1
+Lake
+Piegan         462     93,429        109         10          82            ...                  56
+Saddle Lake    798     79,641        1,424       116         ...           157                  ...
+Sarcee         211     58,120        218         20          23            16                   6
+Stony          667     44,480        240         10          65            35                   100
+Total          5,747   1,044,144     6,605       307         791           390                  248
+
+BRITISH      ...       ...           ...         ...         ...           ...                  ...
+COLUMBIA.
+Babine and
+             3,113     18,878        750         47          900           169                  ...
+Upper Skeena
+Bella Coola    1,266   70            25          ...         ...           405                  ...
+Cassiar        305     325           ...         ...         ...           168                  69
+Cowichan       1,758   5,400         3,202       7           ...           94                   208
+Fraser River   2,846   3,498         3,713       509         ...           319                  289
+Kamloops-
+               3,862   241,643       17,046      893         l6            537                  53
+Okanagan
+Kootenay       573     38,356        1,640       129         ...           ...                  71
+Kwawkewlth     1,227   314    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+...      ...     ...     ...   ...     ...      ...     ...   1,050 00       2,625 00   3,675 00
+Kamloops-
+               ...       ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   1,460 00       1,500 00 2,960 00
+Okanagan
+Kootenay       ...       ...        1          2          ...       4     ...      ...     ...     ...   ...     1        ...     ...   700 00         550 00    1,250 00
+Kwawkewlth     ...       ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            ...       ...
+Nass           ...       ...        41         2          ...       ...   ...      ...     ...     ...   ...     8        ...     ...   225 00         18,965 00 19,190 00
+*Queen
+               *         ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            ...        ...
+Charlotte
+West Coast     ...       ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   50 00          2,460 00 2,510 00
+Williams
+               ...       ...        ...        1          ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   3,970 00       200 00     4,170 00
+Lake
+Total          ...       ...        74         28         9         7     1        ...     ...     ...   ...     11       ...     ...   16,455 00      36,400 00 52,855 00
+
+
+
+=== EXTRACT FROM HERE (pages 814-818) ===
+<!-- page 814 -->
+Agency.          BUILDINGS ERECTED.                                                                                                       INCREASE IN VALUE.
+                                                                                                                                                                     Total Value
+                                                                                                                                             Value of New Value of of New Land
+                 Dwellings, Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle Pig Store          Root    Milk    Corn
+...                                                          Shanties. Barns.                                                                Land          Buildings Improvements
+                 Stone.     Brick.     Frame.     Log.                        Stables. Sheds. Stables. Sties. Houses. Houses. Houses. Cribs.
+                                                                                                                                             Improvements. Erected. and
+                                                                                                                                                                     Buildings.
+
+                 ...       ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   $ cts.         $ cts.     $ cts.
+MANITOBA.
+Birtle           ...       ...        1          4          ...       2     ...      ...     2       ...   3       1        ...     ...   619 00         855 00     1,474 00
+Clandeboye       ...       ...        ...        3          ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            1,300 00   1,300 00
+Griswold         ...       ...        2          ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   380 00         670 00     1,650 00
+Manitowapah      ...       ...        ...        14         ...       ...   11       ...     5       ...   9       ...      ...     ...   85 00          1,600 00   1,685 00
+Portage la
+                 ...       ...        ...        6          1         ...   8        ...     ...     ...   ...     ...      ...     ...   275 00         600 00     875 00
+Prairie
+Valley River
+                 ...       ...        ...        5          ...       ...   1        ...     1       ...   ...     ...      ...     ...   385 00         695 00     1,080 00
+Band
+Total            ...       ...        3          32         1         2     20       ...     8       ...   12      1        ...     ...   1,744 00       5,720 00 7,464 00
+
+NEW          ...           ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            ...        ...
+BRUNSWICK
+Northeastern
+             ...           ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            ...        ...
+Division: -
+Gloucester,
+Kent,
+Northumberland,
+                ...        ...        4          ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   90 00          650 00     740 00
+Restigouche and
+Westmorland
+Counties
+Northern
+                ...        ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            ...        ...
+Division: -
+Madawaska and
+Victoria      ...          ...        2          l          ...       ...   1        ...     ...     1     ...     ...      ...     ...   50 00          275 00     325 00
+Counties
+Southwestern
+              ...          ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            ...        ...
+Division: -
+Carleton,
+Charlotte,
+Kings, Queens,
+               ...         ...        ...        ...        ...       ...   ...      ...     ...     ...   ...     ...      ...     ...   ...            60 00      60 00
+Sunbury, St.
+Johns and York
+Counties
+Total          ...         ...        6          1          ...       ...   1        ...     ...     1     ...     ...      ...     ...   140 00         985 00     1,125 00
+
+[*No returns.]
+
+<!-- page 815 -->
+SOURCES AND VALUE OF INCOME.
+
+               Value of    Value of                         THE ESTIMATED
+                                                   Received
+               Farm        Beef Sold                        VALUE OF FISH AND    Earned by Total
+                                        Wages      from
+Agency         Products,   also of that                     MEAT USED FOR FOOD other         Income of
+                                        Earned.    Land
+               including   used for                         IS INCLUDED IN THESE Industries. Indians.
+                                                   Rentals.
+               Hay.        Food.                            COLUMNS.
+                                                                       Earned by
+                                                             Earned by
+...            ...         ...         ...         ...                 Hunting and   ...         ...
+                                                             Fishing.
+                                                                       Trapping.
+
+               $ cts.      $ cts.      $ cts.      $ cts.    $ cts.     $ cts.       $ cts.      $ cts.
+ALBERTA.
+Blackfoot      8,000 00    12,000 00   13,000 00   ...       150 00     900 00       45,000 00   79,050 00
+Blood          29,645 00   11,549 00   13,432 00   ...       ...        ...          2,114 00    56,740 00
+Edmonton       25,015 00   32,886 00   10,315 00   ...       1,540 00   15,285 00    9,485 00    94,526 00
+Hobbema        11,243 00   2,947 00    1,320 00    12,713 00 425 00     2,450 00     3,125 00    34,223 00
+Lesser Slave
+               4,096 00    200 00      20,350 00 ...         347 00     1,138 00     175 00      26,306 00
+Lake
+Peigan         9,500 00   6,125 00     5,000 00    1,000 00 ...         ...          4,000 00    25,625 00
+Saddle Lake    14,908 00 7,750 00      1,600 00    ...       1,150 00   3,600 00     900 00      29,908 00
+Sarcee         5,000 00   1,710 00     3,000 00    ...       ...        ...          900 00      10,610 00
+Stony          3,000 00   2,054 00     2,039 00    ...       ...        7,070 00     19,180 00   33,343 00
+Total          110,407 00 77,221 00    70,056 00   13,713 00 3,612 00   30,443 00    84,879 00   390,331 00
+
+BRITISH      ...           ...         ...         ...      ...         ...          ...         ...
+COLUMBIA.
+Babine and
+             67,000 00     1,200 00    47,400 00 ...        18,300 00   56,200 00    31,20000    221,300 00
+Upper Skeena
+Bella Coola    2,460 00    300 00      17,150 00   ...      54,950 00 10,900 00      13,200 00   98,960 00
+Cassiar        75 00       ...         5,000 00    ...      100 00    12,000 00      6,500 00    23,675 00
+Cowichan       21,775 00   3,875 00    27,550 00   ...      27,800 00 1,340 00       1,100 00    83,440 00
+Fraser         50,896 00   6,475 00    74,209 00   ...      66,209 00 36,310 00      65,959 00   300,058 00
+Kamloops-
+               146,918 00 11,253 00    185,600 00 1,500 00 32,150 00    19,700 00    12,800 00 409,921 00
+Okanagan
+Kootenay       29,350 00   5,150 00    14,400 00 ...        1,605 00  5,750 00       2,925 00 59,180 00
+Kwawkewlth     ...         ...         7,980 00 ...         44,200 00 5,800 00       15,700 00 73,680 00
+Nass           7,300 00    550 00      31,250 00 ...        55,000 00 5,200 00       11,450 00 110,750 00
+*Queen
+               ...         ...         ...         ...      ...         ...          ...         ...
+Charlotte
+West Coast     503 00      250 00      20,100 00 ...        39,400 00   4,150 00     21,300 00 85,703 00
+Williams
+               32,723 00   4,760 00    13,900 00 ...        10,800 00   22,840 00    8,450 00    93,473 00
+Lake
+Total          359,000 00 33,813 00    444,539 00 1,500 00 350,514 00 180,190 00     190,584 00 1,560,140 00
+
+<!-- page 816 -->
+                     Value of    Value of                        THE ESTIMATED
+                                                        Received
+                     Farm        Beef Sold                       VALUE OF FISH AND Earned by Total
+                                              Wages     from
+Agency               Products,   also of that                    MEAT USED FOR       other       Income of
+                                              Earned.   Land
+                     including   used for                        FOOD IS INCLUDED IN Industries. Indians.
+                                                        Rentals.
+                     Hay.        Food.                           THESE COLUMNS.
+                                                                           Earned by
+                                                                 Earned by
+...                  ...         ...         ...        ...                Hunting and   ...        ...
+                                                                 Fishing.
+                                                                           Trapping.
+
+                     $ cts.      $ cts.      $ cts.     $ cts.   $ cts.     $ cts.       $ cts.     $ cts.
+MANITOBA.
+Birtle               26,979 00   6,171 00    4,455 00 ...        565 00    3,390 00      2,600 00   44,160 00
+Clandeboye           24,030 00   6,630 00    21,800 00 30 00     3,450 00 17,500 00      7,600 00   81,040 00
+Griswold             35,983 00   955 00      1,450 00 ...        400 00    3,200 00      170 00     42,158 00
+Manitowapah          9,100 00    3,050 00    10,270 00 ...       14,375 00 14,510 00     3,200 00   54,505 00
+Portage la Prairie   14,168 00   475 00      3,000 00 ...        900 00    5,300 00      2,200 00   26,043 00
+Valley River Band    1,217 00   280 00       765 00    ...       ...       1,059 00      548 00    3,869 00
+Total                111,477 00 17,561 00    41,740 00 30 00     19,690 00 44,959 00     16,318 00 251,775 00
+
+NEW                  ...         ...         ...        ...      ...        ...          ...        ...
+BRUNSWICK.
+Northeastern
+                     ...         ...         ...        ...      ...        ...          ...        ...
+Division: -
+Gloucester, Kent,
+Northumberland,
+Restigouche and    3,750 00      ...         26,200 00 ...       9,075 00   345 00       9,400 00   48,770 00
+Westmorland
+Counties
+Northern Division:
+                   ...           ...         ...        ...      ...        ...          ...        ...
+-
+Madawaska and
+                     2,172 00    650 00      9,250 00 21 00      170 00     450 00       650 00     13,363 00
+Victoria Counties
+Southwestern
+                     ...         ...         ...        ...      ...        ...          ...        ...
+Division: -
+Carleton, Charlotte,
+Kings, Queens,
+                     568 00      3,150 00    15,650 00 ...       165 00     4,100 00     10,600 00 34,233 00
+Sunbury, St. Johns
+and York Counties
+Totals               6,490 00    3,800 00    51,100 00 21 00     9,410 00   4,895 00     20,650 00 96,366 00
+
+[*No returns.]
+
+<!-- page 817 -->
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                                                                                                Number
+               Number Cleared but      Under        Number     Number         Number engaged in
+                                                                                                engaged in
+...            of       not under      actual       engaged in engaged in hunting, trapping
+                                                                                                other
+               Indians. cultivation.   cultivation. farming.   stock raising. and fishing.
+                                                                                                industries.
+
+NORTHWEST ...           Acres.         Acres.     ...         ...           ...                 ...
+TERRITORIES.
+Norway House 2,033      12,069         1,582      ...         ...           581                 ...
+The Pas      1,028      7,912          43         ...         11            250                 45
+...          3,061      19,981         1,625      ...         11            831                 45
+
+NOVA           ...      ...            ...        ...         ...           ...                 ...
+SCOTIA.
+Annapolis
+               67       222            ...        ...         ...           ...                 20
+County
+Antigonish and
+Guysborough     217     205            185        4           ...           3                   45
+Counties
+Cape Breton
+(Eskasoni)      117     300            600        12          ...           ...                 21
+County
+Cape Breton
+                127     18             ...        ...         ...           ...                 37
+(Sydney) County
+Colchester     93       20             15         ...         ...           3                   24
+Cumberland     103      240            10         2           ...           6                   15
+Digby          98       220            48         ...         ...           ...                 ...
+Halifax        211      4              22         ...         ...           ...                 60
+Hants          85       212            88         9           ...           5                   10
+Inverness      160      595            490        14          ...           3                   29
+Kings          78       29             2          1           ...           12                  12
+Lunenburg      86       300            450        8           ...           6                   12
+Pictou         172      90             140        2           ...           1                   46
+Queens         78       200            200        11          ...           ...                 11
+Richmond       104      150            180        ...         ...           18                  18
+Shelburne      34       ...            ...        ...         ...           ...                 10
+Victoria       97       210            60         24          ...           3                   13
+Yarmouth       65       4              1          2           ...           ...                 17
+...            1,992    3,019          2,491      89          ...           60                  400
+
+               ...      ...            ...        ...         ...           ...                 ...
+ONTARIO.
+Alnwick        259      100            2,527      9           ...           ...                 65
+
+<!-- page 818 -->
+Cape Croker   382     3,500   1,500   31   17    7     20
+Caradoc       1,366   3,533   4,644   83   ...   ...   307
+

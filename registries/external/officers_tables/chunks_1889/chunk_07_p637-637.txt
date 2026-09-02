@@ -1,0 +1,75 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+QUEBEC.
+                                Annual
+Names.            Address.                 Denomination. Remarks.
+                                Allowance.
+...               ...           $ cts.    ...           ...
+                                          Roman
+Rev. T. Quinn     Pierreville   235 00                  Abenakis of St. Francis.
+                                          Catholic
+Rev. John Tucker Pierreville    140 00    Protestant    Abenakis of St. Francis.
+                                                        Iroquois of St. Régis. $100 of this amount and an
+Rev. M.                                   Roman
+                  St. Régis     303 32                  additional $25 for fuel is paid by Iroquois of St.
+Mainville                                 Catholic
+                                                        Régis.
+Rev. A.G. Smith Munceytown 400 00         Protestant    Chippewas of Thames.
+Rev. John Jacobs Baby's Point   400 00    Protestant    Chippewas of Walpole Island.
+                                          Roman
+Rev. G. Giroux    Lorette       225 96                  Hurons of Lorette.
+                                          Catholic
+Rev. G.A.
+                  Tyendinaga    400 00    Protestant    Paid by the Mohawks of the Bay of Quinté.
+Anderson
+                                          Roman
+Rev. N.V. Burtin Caughnawaga 225 96                     ...
+                                          Catholic
+
+<!-- page 638 -->
+MEDICAL MEN employed by the Department of Indian Affairs, to the 30th June, 1889, showing the Tribes
+which they attend.
+
+ONTARIO AND QUEBEC.
+                                             Annual
+Name.           Name of Tribe they Attend.              Remarks.
+                                             Salary.
+...             ...                          $ cts.     ...
+P.H. Spohn      Chippewas of Beausoleil      150 00     Paid by the Band.
+G.H. Corbett Chippewas of Rama               150 00     Paid by the Band.
+Clerk Lapp      Mississaguas of Alnwick      200 00     Paid by the Band.
+P.E. Jones      Mississaguas of Credit       250 90     Paid by the Band.
+                Mohawks of the Bay of
+A.D. Walker                                  250 00     Part borne by Management Fund.
+                Quinté
+                Mohawks of the Bay of
+J. Newton                                    250 00     Part borne by Management Fund.
+                Quinté
+                                                      
+
+=== EXTRACT FROM HERE (pages 637-637) ===
+QUEBEC.
+                                Annual
+Names.            Address.                 Denomination. Remarks.
+                                Allowance.
+...               ...           $ cts.    ...           ...
+                                          Roman
+Rev. T. Quinn     Pierreville   235 00                  Abenakis of St. Francis.
+                                          Catholic
+Rev. John Tucker Pierreville    140 00    Protestant    Abenakis of St. Francis.
+                                                        Iroquois of St. Régis. $100 of this amount and an
+Rev. M.                                   Roman
+                  St. Régis     303 32                  additional $25 for fuel is paid by Iroquois of St.
+Mainville                                 Catholic
+                                                        Régis.
+Rev. A.G. Smith Munceytown 400 00         Protestant    Chippewas of Thames.
+Rev. John Jacobs Baby's Point   400 00    Protestant    Chippewas of Walpole Island.
+                                          Roman
+Rev. G. Giroux    Lorette       225 96                  Hurons of Lorette.
+                                          Catholic
+Rev. G.A.
+                  Tyendinaga    400 00    Protestant    Paid by the Mohawks of the Bay of Quinté.
+Anderson
+                                          Roman
+Rev. N.V. Burtin Caughnawaga 225 96                     ...
+                                          Catholic
+

@@ -1,0 +1,99 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 4 - LIVE STOCK AND POULTRY: GENERAL EFFECTS
+
+               Horses                  Cattle                                   General Effects
+                                              Steers                        Motor Row Rifles
+Agencies                 Geldings
+                                              and Milch Young Other Poultry and Boats and Steel
+               Stallions and      Foals Bulls                                                       Nets Tents
+                                              Work Cows Stock Stock         Sail and     Shot Traps
+                         Mares
+                                              Oxen                          Boats Canoes Guns
+ALBERTA
+               693      2,929    ...   28       395   679   705   15    350     ...   ...     ...       30      ...   170
+Blackfoot
+Blood          15       5,500    35    24       601   787   349   25    1,200   ...   ...     25        275   ...     475
+Edmonton       ...      533      ...   11       51    240   140   109   1,780   ...   17      152       1,010 73      124
+Hobbema        ...      1,033    151   ...      176   256   106   20    1,000   ...   ...     203       770   54      133
+Lesser Slave
+               34       1,086    230   9        53    142   123   ...   ...     ...   283     728       6,937 474     556
+Lake
+Peigan         2        2,069    ...   21       204   ...   768   73    200     ...   ...     48        ...     ...   119
+Saddle Lake 2           511      ...   2   4     239 247          51    530     ...   75      182 2,005 183           128
+Sarcee      5           635      ...   11  42    155 146          ...   200     ...   ...     25    300    ...        40
+Stony       25          1,450    300   ... ...   15    351        285   200     ...   ...     162 800      ...        200
+Total       776         15,746   716   106 1,526 2,513 2,935      578   5,460   ...   375     1,525 12,127 784        1,945
+BRITISH
+COLUMBIA 4              537      56    10       308   246   133   48    375     32    114         1,316 24,500 255    206
+Babine
+Bella CooIa 4           170      30    6        25    78    55    30    350     195   185         550   4,700 105     100
+Cowichan    ...         188      35    3        ...   125   34    762   9,700   216   333         537   24    106     187
+Kamloops     29         2,480    252   39       160   825   357   440   1,550   ...   51          280   105     ...   292
+Kootenay     13         1,560
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+        ...            400     27    ...      16    72    95    ...   595     ...    ...        35    244    ...   31
+Assiniboine
+Battleford          5        1,299   ...   17       241   418   244   19    2,380   ...   66      425      4,240   241   339
+Carlton             ...      589     ...   ...      318   741   568   ...   686     ...   32      172      2,227   73    153
+Crooked Lakes       ...      572     ...   7        28    221   334   70    1,350   ...   ...     195      900     19    145
+Duck Lake           2        ...     525   ...      ...   97    347   484   29      468   ...     194      2,116   14    87
+File Hills Agency   ...      139     11    3        19    14    36    48    200     ...   ...     35       80      ...   30
+File Hills Colony   1        224     22    2        44    50    74    85    600     ...   ...     20       30      ...   10
+Isle à la Crosse    ...      ...     ...   ...      ...   ...   ...   ...   ...     ...   378     480      8,300   640   335
+Moose Mountain      1        152     ...   2        ...   43    113   ...   70      ...   ...     55       700     3     60
+Moose Woods         2        91      ...   ...      36    76    115   4     52      ...   2       16       98      1     14
+Onion Lake          ...      710     ...   10       205   380   126   122   1,400   ...   81      335      9,800   150   146
+Pelly               ...      271     ...   8        38    179   308   ...   950     ...   ...     140      1,000   ...   88
+
+
+
+=== EXTRACT FROM HERE (pages 57-59) ===
+<!-- page 57 -->
+Qu'Appelle      4     600     48    10    15    285   416    ...   1,200   ...   4     122   625   17     155
+Touchwood       ...   409     ...   9     44    272   315    140   1,080   ...   ...   231   4,700 ...    170
+Wood Mountain
+                1     74      16    ...   ...   1     1      ...   253     ...   ...   14    24     ...   15
+Reserve
+Total           16    6,055   124   68    1,104 3,099 3,229 ...    11,284 ...    572   2,469 35,084 1,158 1,778
+YUKON
+TERRITORY       ...   1       ...   ...   ...   2     1      ...   35      2     ...   4     ...    ...   2
+Yukon
+
+<!-- page 58 -->
+RECAPITULATION
+
+              Horses                  Cattle                                     General Effects
+                                             Steers                        Motor Row Rifles
+Agencies                Geldings
+                                             and Milch Young Other Poultry and Boats and     Steel
+              Stallions and      Foals Bulls                                                                  Nets   Tents
+                                             Work Cows Stock Stock         Sail and     Shot Traps
+                        Mares
+                                             Oxen                          Boats Canoes Guns
+PROVINCES ...          ...      ...   ...      ...   ...   ...   ...     ...     ...    ...     ...   ...    ...     ...
+Alberta   776          15,746   716   106      1,526 2,513 2,935 578     5,460   ...    375     1,525 12,127 784     1,945
+British
+          213          10,152   1,715 254      2,183 3,097 2,860 5,533 30,327 1,390 3,669       7,104 61,534 1,942 2,471
+Columbia
+Manitoba      13       2,050    169   57       387   1,604 2,004 83      4,577   43     2,245   3,368 43,947 6,283 2,192
+New
+              ...      35       1     1        3     28     21    6      398     71     154     277   1,298   185    74
+Brunswick
+Northwest
+              ...      ...      ...   ...      ...   ...    ...   ...    1,850   53     640     735   9,080   870    391
+Territories
+Nova Scotia ...        64       ...   5        13    115   75    38    719    13        89      277   1,678 32     34
+Ontario      46        3,766    414   135      1,069 3,704 3,527 5,000 72,633 380       2,386   4,161 76,937 2,842 1,679
+Prince
+Edward       ...       16       1     ...      16    16     8     ...    120     4      8       27    50      25     ...
+Island
+Quebec       12        738      157   255 37    1,962 662   1,362 14,135 99             1,311   2,122 32,578 651   995
+Saskatchewan 16        6,055    124   68  1,104 3,099 3,220 517   11,284 ...            572     2,469 35,084 1,158 1,778
+Yukon
+             ...       1        ...   ...      ...   2      1     ...    35      2      ...     4     ...     ...    2
+Territory
+Total         1,076    38,623   3,297 881      6,338 16,140 15,332 13,117 141,538 2,061 11,449 22,069 274,313 14,772 11,561
+
+<!-- page 59 -->

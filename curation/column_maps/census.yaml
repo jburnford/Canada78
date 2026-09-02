@@ -1,0 +1,202 @@
+# Column-semantics map — DIA band census, 1881-1929 (KG_BUILD_PLAN §2)
+#
+# The extractor emits a `headers` row carrying the printed column labels and
+# then data rows whose `values` are positionally aligned to them, so a map from
+# *label* to series is enough; it does not need to be cut per format era the way
+# the plan first assumed.  Where a label really did change meaning between eras,
+# a rule may carry `years: [a, b]` and only applies inside that span.
+#
+# Matching: the label is lower-cased, punctuation becomes spaces, runs of space
+# collapse, and `match` (a Python regex) is tried against the whole result.
+# Rules are tried in order; first hit wins.  Anything unmatched is counted and
+# listed in the coverage report — it is never silently dropped.
+#
+# 707 distinct normalised labels appear across the 38 census volumes; these
+# rules cover the census table proper.  Agricultural columns that share a chunk
+# with the census (1886-95 and the 1920s straddle chunks) belong to the agstat
+# map and are deliberately left unmatched here.
+
+family: census
+entity_type: band
+
+series:
+
+  # --- population ---------------------------------------------------------
+  - id: population
+    label: Number in band
+    unit: persons
+    match: '^(number|no|nos)( in| on)? band$|^census returns?$|^population$|^total (population|in band)$|^number$|^indians$|^census returns? indians$'
+
+  # --- religion (as printed; the department's own categories) --------------
+  - id: religion_anglican
+    label: Anglican
+    unit: persons
+    match: '^anglicans?$|^church of england$|^episcopalian$'
+  - id: religion_roman_catholic
+    label: Roman Catholic
+    unit: persons
+    match: '^roman catholics?$|^r c$|^catholics?$'
+  - id: religion_presbyterian
+    label: Presbyterian
+    unit: persons
+    match: '^presbyterians?$'
+  - id: religion_methodist
+    label: Methodist
+    unit: persons
+    match: '^methodists?$'
+  - id: religion_baptist
+    label: Baptist
+    unit: persons
+    match: '^baptists?$'
+  - id: religion_congregationalist
+    label: Congregationalist
+    unit: persons
+    match: '^congregationalists?$'
+  # 1905-10 volumes print the Congregationalist / Other Christian Beliefs pair
+  # as "Other Congregations" and "Christian Beliefs"; the column *order* is
+  # unchanged, which is what identifies them.
+  - id: religion_congregationalist
+    label: Congregationalist
+    unit: persons
+    years: [1905, 1910]
+    match: '^other congregations$'
+  - id: religion_united_church
+    label: United Church
+    unit: persons
+    match: '^united church( of canada)?$'
+  - id: religion_salvation_army
+    label: Salvation Army
+    unit: persons
+    match: '^salvation army$'
+  - id: religion_other_christian
+    label: Other Christian beliefs
+    unit: persons
+    match: '^other christian( beliefs?| denominations?)?$|^other denominations?$|^other creeds?$'
+  - id: religion_other_christian
+    label: Other Christian beliefs
+    unit: persons
+    years: [1905, 1910]
+    match: '^christian beliefs$'
+  # printed as "Pagan" to 1912 and "Aboriginal Beliefs" from 1902; the same
+  # column, and the department's label, not ours — kept distinct so the wiki can
+  # show what the page actually said.
+  - id: religion_aboriginal_beliefs
+    label: Aboriginal beliefs (printed "Pagan" before 1913)
+    unit: persons
+    match: '^pagans?$|^pagan beliefs?$|^aboriginal beliefs?$|^heathen$'
+  - id: religion_protestant
+    label: Protestant
+    unit: persons
+    match: '^protestants?$|^acknowledged (and claimed as )?being protestant$|^and claimed as protestant$|^acknowledged and claimed as (being )?protestant$|^census returns? protestant$'
+  - id: religion_claimed_roman_catholic
+    label: Claimed as Roman Catholic
+    unit: persons
+    match: '^(and claimed as|acknowledged and claimed as( being)?) roman catholic$'
+
+  # --- age and sex --------------------------------------------------------
+  # printed every which way: "Male Under 6", "Under 6 years Male",
+  # "Male from 21 to 65 yrs inclusive", "From 6 to 15 inclusive Male".
+  - id: age_male_under_6
+    label: Males under 6
+    unit: persons
+    match: '^(males?|m)\s*(under 6( years?)?)$|^(under 6( years?)?)\s*(males?|m)$'
+  - id: age_female_under_6
+    label: Females under 6
+    unit: persons
+    match: '^(females?|f)\s*(under 6( years?)?)$|^(under 6( years?)?)\s*(females?|f)$'
+  - id: age_male_6_15
+    label: Males 6-15
+    unit: persons
+    match: '^(males?|m)\s*(from )?6 (to )?15( yrs| years)?( inclusive)?$|^(from )?6 (to )?15( yrs| years)?( inclusive)?\s*(males?|m)$'
+  - id: age_female_6_15
+    label: Females 6-15
+    unit: persons
+    match: '^(females?|f)\s*(from )?6 (to )?15( yrs| years)?( inclusive)?$|^(from )?6 (to )?15( yrs| years)?( inclusive)?\s*(females?|f)$'
+  # 1904 and 1909 printed the upper bound as 21, not 20; it is the same
+  # column of the same table, so it stays one series rather than splitting the
+  # age profile in two — the printed bound is noted in the label.
+  - id: age_male_16_20
+    label: Males 16-20 (printed 16-21 in 1904 and 1909)
+    unit: persons
+    match: '^(males?|m)\s*(from )?16 (to )?2[01]( yrs| years)?( inclusive)?$|^(from )?16 (to )?2[01]( yrs| years)?( inclusive)?\s*(males?|m)$'
+  - id: age_female_16_20
+    label: Females 16-20 (printed 16-21 in 1904 and 1909)
+    unit: persons
+    match: '^(females?|f)\s*(from )?16 (to )?2[01]( yrs| years)?( inclusive)?$|^(from )?16 (to )?2[01]( yrs| years)?( inclusive)?\s*(females?|f)$'
+  - id: age_male_21_65
+    label: Males 21-65
+    unit: persons
+    match: '^(males?|m)\s*(from )?21 (to )?65( yrs| years)?( inclusive)?$|^((from|to) )?21 (to )?65( yrs| years)?( inclusive)?\s*(males?|m)$|^(males?|m) to (21 to )?65( yrs| years)?( inclusive)?$'
+  - id: age_female_21_65
+    label: Females 21-65
+    unit: persons
+    match: '^(females?|f)\s*(from )?21 (to )?65( yrs| years)?( inclusive)?$|^((from|to) )?21 (to )?65( yrs| years)?( inclusive)?\s*(females?|f)$|^(females?|f) to (21 to )?65( yrs| years)?( inclusive)?$'
+  - id: age_male_65_up
+    label: Males 65 and over
+    unit: persons
+    match: '^(males?|m)\s*(from |over |above )?65( yrs)?( years?)?( upwards?| and over| and up(wards?)?)?$|^(from |over )?65( yrs)?( years?)?( upwards?)?\s*(males?|m)$'
+  - id: age_female_65_up
+    label: Females 65 and over
+    unit: persons
+    match: '^(females?|f)\s*(from |over |above )?65( yrs)?( years?)?( upwards?| and over| and up(wards?)?)?$|^(from |over )?65( yrs)?( years?)?( upwards?)?\s*(females?|f)$'
+  - id: age_male_65_up
+    label: Males 65 and over
+    unit: persons
+    years: [1907, 1907]
+    match: '^males? years upwards?$'
+  - id: age_female_65_up
+    label: Females 65 and over
+    unit: persons
+    years: [1907, 1907]
+    match: '^females? years upwards?$'
+  - id: sex_male_total
+    label: Males (total)
+    unit: persons
+    match: '^males?( total)?$|^total males?$'
+  - id: sex_female_total
+    label: Females (total)
+    unit: persons
+    match: '^females?( total)?$|^total females?$'
+
+  # --- vital statistics ---------------------------------------------------
+  # 1914-17 print these under a two-level "Cause of increase / Cause of decrease"
+  # spanner, which the extractor flattens into the label.
+  - id: births
+    label: Births
+    unit: persons
+    match: '^births?$|^number of births$|^cause of increase births?$'
+  - id: deaths
+    label: Deaths
+    unit: persons
+    match: '^deaths?$|^number of deaths$|^cause of decrease deaths?$'
+  - id: migration_in
+    label: Migration in
+    unit: persons
+    match: '^cause of increase migration$|^migration increase$'
+  - id: migration_out
+    label: Migration out
+    unit: persons
+    match: '^cause of decrease migration$|^migration decrease$'
+  - id: migration_net
+    label: Migration
+    unit: persons
+    match: '^migration$'
+  - id: population_increase
+    label: Increase during year
+    unit: persons
+    match: '^increase$|^change in population( during (the )?year)? increase$|^increase during (the )?year$'
+  - id: population_decrease
+    label: Decrease during year
+    unit: persons
+    match: '^decrease$|^change in population( during (the )?year)? decrease$|^decrease during (the )?year$'
+
+# Labels that are real columns of the census table but carry no series (free
+# text, or a repeat of an identity column already on the row).  Matching one
+# suppresses it from the unmapped report instead of counting as a gap.
+ignore:
+  - '^remarks?$'
+  - '^name of band$|^bands?$|^tribe( or band)?$|^name$'
+  - '^agency$|^province$|^inspectorate$|^district$'
+  - '^reserve( no| number)?$|^number of reserve$'
+  - '^denominations? (of|on) schools?$|^schools?$'
+  - '^\.+$|^$'

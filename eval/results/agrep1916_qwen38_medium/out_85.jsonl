@@ -1,0 +1,40 @@
+{"row_type": "headers", "title": "Summary of Expenditure.", "columns": ["Page in Part H.", "$ cts.", "$ cts."]}
+{"page": 649, "row_type": "note", "section": "Civil Government -", "label": "Civil Government -", "values": [null, null, null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Civil Government -", "label": "Salaries", "values": ["3", "114,454 82", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Civil Government -", "label": "Contingencies", "values": ["5", "17,883 03", null], "confidence": "high"}
+{"page": 649, "row_type": "total", "section": "Civil Government -", "label": "...", "values": [null, null, "132,337 85"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Civil Government -", "label": "Annuities paid under Statute", "values": ["6", null, "209,549 00"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Civil Government -", "label": "Ontario", "values": ["7", null, "10,996 82"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Civil Government -", "label": "Quebec", "values": ["7", null, "16,999 35"], "confidence": "high"}
+{"page": 649, "row_type": "note", "section": "Ontario and Quebec -", "label": "Ontario and Quebec -", "values": [null, null, null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Ontario and Quebec -", "label": "General legal expenses", "values": ["8", "6,417 42", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Ontario and Quebec -", "label": "Repairs to roads and bridges and drainage", "values": ["8", "21,770 34", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Ontario and Quebec -", "label": "General expenses", "values": ["9", "49,739 303", null], "confidence": "medium"}
+{"page": 649, "row_type": "total", "section": "Ontario and Quebec -", "label": "...", "values": [null, null, "77,927 09"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Ontario and Quebec -", "label": "New Brunswick", "values": ["11", null, "16,283 56"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Ontario and Quebec -", "label": "Nova Scotia", "values": ["11", null, "28,599 19"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Ontario and Quebec -", "label": "Prince Edward Island", "values": ["13", null, "2,919 95"], "confidence": "high"}
+{"page": 649, "row_type": "note", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "values": [null, null, null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Expenses of agencies", "values": ["14", "543,265 16", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Sioux", "values": ["33", "5,794 51", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Surveys", "values": ["33", "9,227 51", null], "confidence": "high"}
+{"page": 649, "row_type": "total", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "...", "values": [null, null, "558,287 18"], "confidence": "high"}
+{"page": 649, "row_type": "note", "section": "British Columbia -", "label": "British Columbia -", "values": [null, null, null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "British Columbia -", "label": "Expenses of agencies", "values": ["35", "172,983 88", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "British Columbia -", "label": "Surveys", "values": ["42", "869 10", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "British Columbia -", "label": "Cleansing Indian orchards", "values": ["42", "4,047 30", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "British Columbia -", "label": "British Columbia Land Commission", "values": ["42", "44,301 02", null], "confidence": "high"}
+{"page": 649, "row_type": "total", "section": "British Columbia -", "label": "...", "values": [null, null, "222,201 30"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "British Columbia -", "label": "Yukon", "values": ["44", null, "17,734 86"], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "British Columbia -", "label": "Indian Education", "values": ["45", null, "911,377 89"], "confidence": "high"}
+{"page": 649, "row_type": "note", "section": "General -", "label": "General -", "values": [null, null, null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Payments to Indians on surrender of lands", "values": ["59", "5,660 00", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Relief to destitute Indians in remote districts", "values": ["59", "75,242 72", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Prevention of the spread of tuberculosis", "values": ["60", "11,331 62", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Epidemics of smallpox and other diseases", "values": ["61", "7,199 39", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Surveys, Ontario, Quebec and Maritime Provinces", "values": ["62", "8,014 80", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Suppression of the Liquor Traffic", "values": ["62", "3,000 00", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Registration fees re births, deaths and marriages", "values": ["62", "138 00", null], "confidence": "high"}
+{"page": 649, "row_type": "row", "section": "General -", "label": "Printing, stationery, etc., outside service", "values": ["62", "6,870 76", null], "confidence": "high"}
+{"page": 649, "row_type": "total", "section": "General -", "label": "...", "values": [null, null, "117,457 29"], "confidence": "high"}
+{"page": 649, "row_type": "note", "section": "Miscellaneous -", "label": "Miscellaneous -", "values": [null, null, null], "confidence": "high"}

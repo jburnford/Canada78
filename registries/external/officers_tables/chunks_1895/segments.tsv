@@ -1,0 +1,8 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0768-return-a-1	RETURN A (1)	768	770
+01	p0771-return-a-2	RETURN A (2)	771	772
+02	p0773-return-a-2-quebec	RETURN A (2) — Quebec	773	773
+03	p0775-return-a-2-nova-scotia	RETURN A (2) — Nova Scotia	775	776
+04	p0777-return-a-2-new-brunswick	RETURN A (2) — New Brunswick	777	777
+05	p0777-return-a-2-prince-edward-islan	RETURN A (2) — Prince Edward Island	777	782
+06	p0777-return-a-2-prince-edward-islan	RETURN A (2) — Prince Edward Island	783	787

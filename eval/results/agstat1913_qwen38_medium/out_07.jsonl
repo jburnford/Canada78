@@ -1,0 +1,16 @@
+{"row_type": "headers", "title": "AGRICULTURAL AND INDUSTRIAL STATISTICS", "columns": ["Cleared but not under Cultivation. Acres.", "Under actual Cultivation. Acres.", "Total Value of Lands in Reserve. $ cts.", "Number engaged in Farming.", "Number engaged in Hunting, Trapping and Fishing.", "Number engaged in other Industries.", "Number engaged in Stock Raising."]}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Blackfoot", "values": ["170,330", "1,950", "2,797,280 00", "70", "...", "...", "125"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Blood", "values": ["345,426", "3,900", "5,306,990 00", "51", "...", "...", "305"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Edmonton", "values": ["36,888", "1,842", "1,176,928 00", "58", "70", "43", "67"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Hobbema", "values": ["138", "1,156", "408,155 00", "98", "102", "50", "2"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Lesser Slave Lake", "values": ["11,460", "40", "152,000 00", "...", "40", "1", "24"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Peigan", "values": ["90,516", "3,022", "972,600 00", "70", "...", "...", "125"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Saddle Lake", "values": ["78,631", "1,569", "565,478 00", "112", "192", "...", "125"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Sarcee", "values": ["58,120", "218", "1,099,596 00", "10", "16", "6", "23"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "ALBERTA.", "label": "Stony", "values": ["44,365", "355", "207,905 00", "50", "100", "100", "82"], "confidence": "high"}
+{"page": 1071, "row_type": "total", "section": "ALBERTA.", "label": "Total", "values": ["835,874", "14,052", "12,686,932 00", "519", "520", "200", "948"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Babina and Upper Skeena", "values": ["7,711", "790", "56,308 00", "...", "81", "520", "28"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Coola", "values": ["230", "34", "183,460 00", "10", "396", "249", "5"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cassiar (Stickine)*", "values": ["...", "400", "...", "...", "151", "...", "7"], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan", "values": ["5,403", "3,272", "1,652,375 00", "57", "...", "382", "..."], "confidence": "high"}
+{"page": 1071, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kam", "values": [null, null, null, null, null, null, null], "confidence": "low"}

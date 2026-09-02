@@ -1,0 +1,90 @@
+{
+ "02": {
+  "seconds": 695.8,
+  "pages": "91\u201396",
+  "windows": [
+   {
+    "window": [
+     91,
+     96
+    ],
+    "rows": 103,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 695.8,
+    "finish_reason": "stop",
+    "completion_tokens": 24483
+   }
+  ],
+  "rows": 103,
+  "complete": true
+ },
+ "00": {
+  "seconds": 775.0,
+  "pages": "79\u201384",
+  "windows": [
+   {
+    "window": [
+     79,
+     84
+    ],
+    "rows": 80,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 775.0,
+    "finish_reason": "stop",
+    "completion_tokens": 27218
+   }
+  ],
+  "rows": 80,
+  "complete": true
+ },
+ "01": {
+  "seconds": 963.1,
+  "pages": "85\u201390",
+  "windows": [
+   {
+    "window": [
+     85,
+     90
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 17046
+   },
+   {
+    "window": [
+     85,
+     90
+    ],
+    "rows": 106,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 482.1,
+    "finish_reason": "stop",
+    "completion_tokens": 17261
+   }
+  ],
+  "rows": 106,
+  "complete": true
+ },
+ "03": {
+  "seconds": 730.0,
+  "pages": "97\u2013102",
+  "windows": [
+   {
+    "window": [
+     97,
+     102
+    ],
+    "rows": 86,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 730.0,
+    "finish_reason": "stop",
+    "completion_tokens": 27967
+   }
+  ],
+  "rows": 86,
+  "complete": true
+ }
+}

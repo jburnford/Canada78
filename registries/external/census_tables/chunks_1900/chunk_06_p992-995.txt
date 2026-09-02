@@ -1,0 +1,177 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+CENSUS RETURN.
+CENSUS RETURN of Resident and Nomadic Indians; Denominations to which they belong, with approximate number
+belonging to each Denomination, as well as the number of Pagans in the Dominion of Canada, by Provinces, for the Year
+ended June 30, 1900.
+PROVINCE OF ONTARIO.
+                 Census
+ INDIANS.                RELIGION.                                                                               Remarks.
+                 Return.
+                                                                                                 Other
+                                                           Roman
+...             ...     Anglican. Presbyterian. Methodist.           Baptist. Congregationalist. Christian Pagan. ...
+                                                           Catholic.
+                                                                                                 Beliefs.
+Algonquins,
+                86      ...       ...           ...        86        ...      ...                ...       ...     ...
+Golden Lake
+Algonquins,
+                                                                                                                   Religion
+Renfrew,        286     ...       ...           ...        ...       ...      ...                ...       ...
+                                                                                                                   unknown.
+North
+Chippewas of
+                472     245       ...           225        ...       2        ...                ...       ...     ...
+the Thames
+Chippewas of
+               616      420       ...           174        14        ...      ...                ...       8       ...
+Walpole Island
+Chippewas and
+Pottawattamies
+of Sarnia,
+Kettle Point   454      95        ...           353        6         ...      ...                ...       ...     ...
+and Stony
+Point or Aux
+Sables
+Chippewas of
+Georgina and    116     ...       ...           116        ...       ...      ...                ...       ...     ...
+Snake Islands
+Chippewas of
+                230     3         ...           213        14        ...      ...                ...       ...     ...
+Rama
+Chippewas of
+                368     2         ...           256        30        ...      80                 ...       ...     ...
+Saugeen
+                                                                                                                   31
+                                             
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+Treaty No. 3 33    ...   ...       ...     ...      ...   ...   ...   33     ...
+Treaty No. 5 3,332 1,208 ...       1,439   53       ...   ...   17    615    ...
+Sioux at
+Portage la   131   ...   88        ...     ...      ...   ...   ...   43     ...
+Prairie
+Grand total 6,754 2,823  88        1,440   997      110   ...   27    1,269 ...
+
+NORTHWEST TERRITORIES - RECAPITULATION.
+Treaty No. 4 4,339 567   664   ...    983           ...   ...   ...   2,185 ...
+Treaty No. 6 6,054 1,732 143   1,465  1,961         ...   ...   ...   753   ...
+Treaty No. 7 3,633 262   ...   626    248           ...   ...   ...   2,497 ...
+                                                                            Religion
+Treaty No. 8 3,323    ...    ...   ...     ...      ...   ...   ...   ...   not
+                                                                            given.
+Non-treaty
+              305     ...    ...   44      ...      ...   ...   ...   261    ...
+Indians
+Grand Total 17,714 2,561     807   2,135   3,192    ...   ...   ...   5,696 ...
+                                                                             Religion
+Ungava        4,016   ...    ...   ...     ...      ...   ...   ...   ...
+                                                                             unknown
+Labrador,
+Canadian      1,000   ...    ...   ...     ...      ...   ...   ...   ...    ...
+Interior
+Arctic Coast,
+              1,000   ...    ...   ...     ...      ...   ...   ...   ...    ...
+Esquimaux
+
+
+
+=== EXTRACT FROM HERE (pages 992-995) ===
+<!-- page 992 -->
+                Census
+INDIANS.                  RELIGION.                                                                                              Remarks.
+                Return.
+                                                     Roman                                     Other Christian
+...             Anglican. Presbyterian. Methodist.               Baptist. Congregationalist.                     Pagan.   ...    ...
+                                                     Catholic.                                 Beliefs.
+
+GRAND RECAPITULATION.
+PROVINCES, Census
+                   RELIGION.                                                                                                     Remarks.
+& c.       Return.
+                                                                                                                  Other
+                                                                 Roman
+...             ...       Anglican.    Presbyterian Methodist.             Baptist.            Congregationalist. Christian Pagan. ...
+                                                                 Catholic.
+                                                                                                                  Beliefs.
+                                                                                                                                   Religion
+Ontario         20,703    5,184        151           4,152       6,561     815                 84                 417       3,047 of 292
+                                                                                                                                   unknown.
+                                                                                                                                   Religion
+Quebec          10,785    100          3             431         7,491     ...                 4                  31        ...    of 2,725
+                                                                                                                                   unknown.
+Nova Scotia     2,018     ...          ...           ...         2,018     ...                 ...                ...       ...    ...
+New
+                1,639     ...          ...           ...         1,639     ...                 ...               ...      ...    ...
+Brunswick
+Prince
+Edward          308       ...          ...           ...         308       ...                 ...               ...      ...    ...
+Island
+                                                                                                                                Religion
+British
+                24,523    4,255        386           3,061       11,838    ...                 ...               ...      2,483 of 2,500
+Columbia
+                                                                                                                                unknown
+Manitoba        6,754     2,823        88            1,440       997       110                 ...               27       1,269 ...
+                                                                                                                                Religion
+Northwest
+                17,714    2,561        807           2,135       3,192     ...                 ...               ...      5,696 of 3,323
+Territories
+                                                                                                                                unknown
+Upper
+Mackenzie       400       400          ...           ...         ...       ...                 ...               ...      ...    ...
+District
+Eastern
+Athabasca       881       ...          ...           ...         738       ...                 ...               ...      143    ...
+District
+Lower
+Mackenzie       2,058     700          ...           ...         1,358     ...                 ...               ...      ...    ...
+District
+Great Slave
+                1,382     100          ...           ...         1,282     ...                 ...               ...      ...    ...
+Lake District
+Rivière Aux
+                377       ...          ...           ...         377       ...                 ...               ...      ...    ...
+Liards District
+Yukon
+                2,600     600          ...           ...         ...       ...                 ...               ...      2,000 ...
+District
+Nelson and
+Churchill
+
+<!-- page 993 -->
+              852      ...      ...     ...      852      ...   ...   ...   ...    ...
+Rivers
+District
+                                                                                   Religion
+Ungava        4,016    ...      ...     ...      ...      ...   ...   ...   ...
+                                                                                   unknown.
+Labrador,
+Canadian      1,000    ...      ...     ...      ...      ...   ...   ...   ...    ...
+Interior
+Arctic Coast,
+              1,000    ...      ...     ...      ...      ...   ...   ...   ...    ...
+Esquimaux
+                                                                                   Religion
+Grand total   99,010   16,723   1,435   11,219   38,651   925   88    475   14,638 of 14,856
+                                                                                   unknown
+
+<!-- page 994 -->
+CENSUS of Sioux and Straggling Indians in the Northwest Territories, 1900.
+...                                                         Number.
+
+                                                             ...
+WHITE CAP SIOUX, MOOSE WOODS.
+44 Methodists, 6 Pagans                                      50
+
+                                                             ...
+MOOSE JAW, WOOD MOUNTAIN AND REGINA SIOUX.
+All Pagans                                                   127
+
+                                                             ...
+MAPLE CREEK, SWIFT CURRENT AND MEDICINE HAT.
+124 Crees, 4 Saulteaux. All Pagans                           128
+Total                                                        305
+
+<!-- page 995 -->

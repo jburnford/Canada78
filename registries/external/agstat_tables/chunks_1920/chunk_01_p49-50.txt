@@ -1,0 +1,84 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 2. - GRAIN, VEGETABLE AND ROOT PRODUCTION
+
+Agencies.     Wheat.            Oats.             Other Grains.   Peas, Beans, etc. Potatoes.       Other Roots.    Fodder.
+              Acres Bush       Acres Bush       Acres Bush       Acres Bush       Acres Bush       Acres Bush      Hay        Hay     Other
+...
+              Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested Cultivat'd Wild.   Fodder.
+...           ...   ...        ...   ...        ...   ...        ...   ...        ...   ...        ...   ...       Tons.      Tons.   Tons.
+ALBERTA.      ...   ...        ...   ...        ...   ...        ...   ...        ...   ...        ...   ...       ...        ...     ...
+Blackfoot1    3,400 1,000      1,200 300        ...   ...        ...   ...        3     20         ...   ...       ...        275     ...
+Blood1        3,489 992        1,220 ...        ...   ...        ...   ...        ...   ...        ...   ...       ...        1,500   10
+Edmonton      31    570        2,773 75,588     361 8,918        ...   ...        27    1,589      ...   ...       198        1,759   336
+Hobbema       53    941        2,620 71,689     144 3,264        ...   ...        25    1,811      26    43        ...        3,439   2,375
+Lesser Slave
+             ...       ...      111     955       ...   ...       ...    ...        51     2,955    1/2   49        1,586     2,847 14,5
+Lake
+Peigan1        996 ...            668 ...         ...   ...       ...    ...        30     ...      ...   ...       ...       ...    ...
+Saddle Lake 334 1,913             743 6,539       14    127       ...    ...        11     1,120    5     60        ...       3,505 ...
+Sarcee1        44     146         318 ...         7     15        ...    ...        2      50       ...   ...       20        191    244
+Stoney         ...    ...         ...   ...       ...   ...       ...    ...        3      ...      10    ...       15        200    ...
+Total          8,347 5,562        9,653 155,071   526   12,324    ...    ...        152    7,545    411   152       1,819     13,716 3,110
+[1Drought, hail and frost ruined crop.]
+BRITISH
+               ...    ...         ...   ...       ...   ...       ...    ...        ...    ...      ...   ...       ...       ...     ...
+COLUMBIA.
+Babine        ...      ...      50    800         ...   ...       ...   ...         400    60,000   75    12,000    500       500     100
+Bella Coola   ...      ...    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+57    1       42      ...       4,355   134
+File Hills Agency 128      856      344     10,416   ...   ...       ...    ...        5      570      7 1/4   900     ...       1,250   160
+File Hills Colony 632      3,122    2,031   26,807   113   763       ...    ...        2 1/2 275       1       75      175       310     420
+Moose Mountain    800      7,500    300     2,800    ...   ...       ...    ...        10     700      ...     ...     ...       690     675
+Moose Woods       40       590      75      975      ...   ...       ...    ...        10     550      ...     ...     ...       1,000   50
+Onion Lake        173      822      558     3,991    7     ...       ...    ...        11     311      1/4     60      ...       3,641   435
+Pelly             12       230      2,118   57,920   61    1,360     ...    ...        9      450      ...     ...     ...       1,825   1,000
+Qu'Appelle        2,101    30,360   1,614   31,657   9     360       ...    ...        9 1/2 1,102     4       179     ...       2,648   235
+Touchwood         1,476    19,878   2,087   51,170   18    447       ...    ...        11 1/2 1,737    8 1/2   756     ...       3,608   3,894
+                                                                                       128
+Total             12,536 112,740    14,466 240,061   656   5,204     ...    ...               9,454    27 3/4 2,116    175       57,100 8,191
+                                                                                       1/2
+
+
+
+=== EXTRACT FROM HERE (pages 49-50) ===
+<!-- page 49 -->
+RECAPITULATION.
+
+Agencies.       Wheat.             Oats.            Other Grains.   Peas, Beans, etc. Potatoes.       Other Roots.   Fodder.
+                Acres Bush.     Acres Bush.     Acres Bush.     Acres Bush.     Acres Bush.      Acres Bush.      Hay        Hay Other
+...
+                Sown. Harvested Sown. Harvested Sown. Harvested Sown. Harvested Sown. Harvested. Sown. Harvested. Cultivat'd Wild. Fodder.
+...             ...   ...       ...   ...       ...   ...       ...   ...       ...   ...        ...    ...       Tons.      Tons. Tons.
+Alberta*        8,347 5,562     9,653 155,071 526 12,324        ...   ...       152 7,545        41 1/2 152       1,819      13,716 3,110
+British
+                1,564 36,438       3,950 101,920    284   7,182     1,006 23,292      2,738 308,011   1,005 42,273   15,998    6,479 1,600
+Columbia
+                                   3,082                                              470
+Manitoba        4,705 46,515             44,060     1,420 19,898    3,424 380                35,081   34 1/2 502     100       15,341 1,664
+                                   1/2                                                1/2
+New                                116
+                29 1/4 255                 1,900    20 1/2 270      13 3/4 211        69 1/4 4,000    10 1/2 775     155       66    250
+Brunswick                          1/2
+                                                                                      118
+Nova Scotia     4        65        39      1,235    12    201       8      123               5,753    27 1/4 1,321   528       202   40
+                                                                                      1/4
+Ontario         *3,906 47,103      11,406 230,470   3,034 56,675    663    6,120      1,836 61,517    1,486 28,853   22,569    2,198 10,721
+Prince
+Edward          9        102       31      585      2     7         ...    ...        8      825      1/4   40       55        40    ...
+Island
+                                                                                      981
+Quebec          336      5,064     2,835 41,186     1,169 11,317    228    3,865             53,421   120   6,007    5,378     513   976
+                                                                                      1/4
+                                                                                      128
+Saskatchewan 12,536 112,740        14,466 240,061   656   5,204     ...    ...               9,454    27 3/4 2,116   175       57,100 8,191
+                                                                                      1/2
+                31,436                              7,123           1,963             6,501           2,752
+Total                  253,844     45,579 816,488         113,078         33,991            485,607         82,039   46,777    95,655 26,336
+                1/4                                 1/2             1/2               3/4             3/4
+
+[*Drought, hail and frost ruined crop.]
+
+<!-- page 50 -->

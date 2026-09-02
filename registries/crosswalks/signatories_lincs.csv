@@ -1,0 +1,413 @@
+person_id,name,first_year,last_year,n_signatures,status,lincs_agent,candidates
+PERSON-ebenezer-watson,EBENEZER WATSON,1880,1882,2,linked,http://id.lincsproject.ca/PPCZyMsNJUL,E. Watson 1.00; Louis Watson 0.65; John Watson 0.65
+PERSON-thomas-gordon,THOMAS GORDON,1880,1894,15,no_candidate,,"Thos. Gordon 0.69; Gordon, W. 0.65; A.R. Gordon 0.65"
+PERSON-john-beattie,JOHN BEATTIE,1880,1897,17,linked,http://id.lincsproject.ca/hdDo195MdK9,John Beattie 1.00; Jas. Beattie 0.69; W.W. Beattie 0.65
+PERSON-amos-wright,AMOS WRIGHT,1880,1882,3,linked,http://www.wikidata.org/entity/Q2843935,Amos Wright 1.00; J.E. Wright 0.65; Thos. Wright 0.65
+PERSON-henry-george,HENRY GEORGE,1880,1881,2,no_candidate,,
+PERSON-geo-e-cherrier,GEO. E. CHERRIER,1880,1883,2,linked,http://id.lincsproject.ca/1gWIPhschLk,G.E. Cherrier 1.00
+PERSON-john-davidson,JOHN DAVIDSON,1880,1884,5,linked,http://id.lincsproject.ca/JIZct5FngRs,"John Davidson 1.00; Davis, Dr 0.79; David 0.79"
+PERSON-ant-lebel,ANT. LEBEL,1880,1881,2,linked,http://id.lincsproject.ca/DDy223qGg6F,A. LeBel 1.00; N. LeBel 0.65
+PERSON-l-e-otis,L.E. OTIS,1880,1896,12,linked,http://id.lincsproject.ca/KKTAYFQZc1L,L.E. Otis 1.00; D.E. Otis 0.70
+PERSON-chas-logue,CHAS. LOGUE,1880,1884,3,linked,http://id.lincsproject.ca/8PG72Of2vsi,Chas. Logue 1.00
+PERSON-l-f-boucher,L.F. BOUCHER,1880,1891,5,linked,http://id.lincsproject.ca/Dut48Z2iAM7,Louis Boucher 0.98; L.P.Boucher 0.91; F. Boucher 0.70
+PERSON-john-harlow,JOHN HARLOW,1880,1880,1,ambiguous,,"J. Harlow 1.00; John Harlow 1.00; Harlow, Chas 0.65"
+PERSON-j-e-beckwith,J.E. BECKWITH,1880,1887,5,linked,http://id.lincsproject.ca/gyYoWLgYnrN,J.E. Beckwith 1.00; C.E. Beckwith 0.70; O.B. Beckwith 0.65
+PERSON-james-gass,JAMES GASS,1880,1896,10,no_candidate,,
+PERSON-a-t-clarke,A.T. CLARKE,1880,1882,3,ambiguous,,"A.T. Clark 0.99; Clare, A 0.97; C.A. Clarke 0.70"
+PERSON-m-mckenzie,M. MCKENZIE,1880,1880,1,ambiguous,,M. McKenzie 1.00; M. McKenzie 1.00; McKenna 0.75
+PERSON-moses-craig,MOSES CRAIG,1880,1887,9,ambiguous,,M. Craig 1.00; Moses Craig 1.00; Lottie Craig 0.65
+PERSON-john-o-arsenault,JOHN O. ARSENAULT,1880,1912,23,linked,http://id.lincsproject.ca/UwUXs4g9aEc,John Arsenault 0.99
+PERSON-james-f-graham,JAMES F. GRAHAM,1880,1882,2,below_gate,,J.V. Graham 0.91; J.A. Graham 0.91; Jas. F. Graham 0.69
+PERSON-r-j-h-pither,R.J.H. PITHER,1880,1881,2,linked,http://id.lincsproject.ca/PL0YCSYgaSR,R. Pither 0.98
+PERSON-h-martineau,H. MARTINEAU,1880,1904,21,linked,http://id.lincsproject.ca/9uq67I4BKcW,H. Martineau 1.00; A. Martineau 0.65; Jas. Martin 0.62
+PERSON-francis-ogletree,FRANCIS OGLETREE,1880,1896,19,linked,http://id.lincsproject.ca/uznoBgWEn4E,F. Ogletree 1.00; Archibald Ogletree 0.65
+PERSON-l-w-herchmer,L.W. HERCHMER,1880,1885,6,linked,http://www.wikidata.org/entity/Q6504144,L. Herchmer 0.98; L.E. Herchmer 0.91
+PERSON-a-mackay,A. MACKAY,1880,1896,13,ambiguous,,A. McKay 0.94; A.J. McKay 0.92; Mackay 0.82
+PERSON-w-palmer-clarke,W. PALMER CLARKE,1880,1880,1,ambiguous,,W. Palmer Clark 0.99; Willoughby Clark 0.97; W.B. Clarke 0.91
+PERSON-edwin-allen,EDWIN ALLEN,1880,1880,1,linked,http://id.lincsproject.ca/ejpEKlCs6Zc,E. Allen 1.00; R.A. Allen 0.65; Jas. Allen 0.65
+PERSON-hayter-reed,HAYTER REED,1881,1882,4,linked,http://www.wikidata.org/entity/Q16025204,H. Reed 1.00; J.A. Reed 0.65
+PERSON-e-watson,E. WATSON,1881,1881,1,linked,http://id.lincsproject.ca/PPCZyMsNJUL,E. Watson 1.00; Louis Watson 0.65; John Watson 0.65
+PERSON-g-e-cherrier,G.E. CHERRIER,1881,1882,2,linked,http://id.lincsproject.ca/1gWIPhschLk,G.E. Cherrier 1.00
+PERSON-charles-logue,CHARLES LOGUE,1881,1882,2,no_candidate,,Chas. Logue 0.69
+PERSON-l-boucher,L. BOUCHER,1881,1881,1,ambiguous,,Louis Boucher 1.00; L.P.Boucher 0.98; Alex Boucher 0.65
+PERSON-r-macdonald,R. MACDONALD,1881,1881,1,ambiguous,,Rev. R. McDonald 0.99; R. McDonald 0.99; R. McDonald 0.99
+PERSON-william-fisher,WILLIAM FISHER,1881,1883,3,linked,http://id.lincsproject.ca/NqsWjpx7msD,Wm. Fisher 1.00; F. Fisher 0.65; R.M. Fisher 0.65
+PERSON-jas-f-graham,JAS. F. GRAHAM,1881,1881,1,linked,http://id.lincsproject.ca/V3KOoJ4f43b,Jas. F. Graham 1.00; J.V. Graham 0.91; J.A. Graham 0.91
+PERSON-a-m-muckle,A.M. MUCKLE,1881,1896,15,linked,http://id.lincsproject.ca/RqTT8XhoYyp,A.M. Muckle 1.00
+PERSON-h-reed,H. REED,1881,1881,1,linked,http://www.wikidata.org/entity/Q16025204,H. Reed 1.00; J.A. Reed 0.65
+PERSON-j-m-rae,J.M. RAE,1881,1887,8,linked,http://id.lincsproject.ca/vhxxdCXWRKS,J.M. Rae 1.00
+PERSON-w-anderson,W. ANDERSON,1881,1887,5,ambiguous,,W. Anderson 1.00; W.P. Anderson 0.98; W.J. Anderson 0.98
+PERSON-i-w-powell,I.W. POWELL,1881,1887,7,no_candidate,,J.W. Powell 0.70; Charles Powell 0.65
+PERSON-w-h-lomas,W.H. LOMAS,1881,1899,17,linked,http://id.lincsproject.ca/ibe5dMXiwBt,W.H. Lomas 1.00; W.R. Lomas 0.91
+PERSON-henry-p-cornwall,HENRY P. CORNWALL,1881,1883,3,linked,http://id.lincsproject.ca/AtbBDPAiblL,H. Cornwall 0.98
+PERSON-a-g-howse,A.G. HOWSE,1881,1881,1,below_gate,,A.E. Howse 0.91
+PERSON-james-paul,JAMES PAUL,1882,1887,5,linked,http://id.lincsproject.ca/pfvOKs5iHNG,James Paul 1.00; Joshua Paul 0.69; John Peter Paul 0.69
+PERSON-ant-p-lebel,ANT. P. LEBEL,1882,1882,1,linked,http://id.lincsproject.ca/DDy223qGg6F,A. LeBel 0.98; N. LeBel 0.65
+PERSON-l-b-otis,L.B. OTIS,1882,1882,1,below_gate,,L.E. Otis 0.91; D.E. Otis 0.65
+PERSON-d-c-o-connor,D.C. O'CONNOR,1882,1883,2,linked,http://id.lincsproject.ca/JIgL0sWezHQ,D.C. O'Connor 1.00; Rev. Mr. O'Connor 0.82; Peter J. O'Connor 0.65
+PERSON-w-m-chisholm,W.M. CHISHOLM,1882,1882,1,below_gate,,"W.C. Chisholm 0.91; Chisolm, W.J. 0.91; W.C. Chisolm 0.91"
+PERSON-r-grant,R. GRANT,1882,1882,1,linked,http://id.lincsproject.ca/QKRy8VaV1xC,R. Grant 1.00; W.R. Grant 0.70; J.S. Grant 0.65
+PERSON-joseph-kent,JOSEPH KENT,1882,1882,1,linked,http://id.lincsproject.ca/UhQQuXbO9bO,J. Kent 1.00; H.V. Kent 0.65
+PERSON-j-w-herchimer,J.W. HERCHIMER,1882,1882,1,no_candidate,,L. Herchmer 0.65; L.E. Herchmer 0.65
+PERSON-harry-guillod,HARRY GUILLOD,1882,1903,20,ambiguous,,H. Guillod 1.00; Harry Guillod 1.00; M. Guilloux 0.61
+PERSON-geo-blenkinsop,GEO. BLENKINSOP,1882,1883,2,linked,http://www.wikidata.org/entity/Q5537047,"G. Belnkinsop 0.99; Blenkin, Thos 0.62"
+PERSON-a-e-howse,A.E. HOWSE,1882,1882,1,linked,http://id.lincsproject.ca/2Ol8BLlUsk8,A.E. Howse 1.00
+PERSON-r-j-n-pither,R.J.N. PITHER,1882,1897,20,linked,http://id.lincsproject.ca/PL0YCSYgaSR,R. Pither 0.98
+PERSON-h-vassal,H. VASSAL,1882,1887,4,linked,http://id.lincsproject.ca/CtwTh4mzPWV,H. Vassal 1.00
+PERSON-j-w-powell,J.W. POWELL,1882,1882,1,linked,http://id.lincsproject.ca/4wjfC8s424E,J.W. Powell 1.00; Charles Powell 0.65
+PERSON-c-e-denny,C.E. DENNY,1882,1883,3,linked,http://id.lincsproject.ca/l896FIOdOZ1,C.E. Denny 1.00; Chas. Dennhy 0.97; C.B. Denny 0.91
+PERSON-a-macdonald,A. MACDONALD,1882,1883,2,ambiguous,,A. Macdonald 1.00; A. McDonald 0.99; A. McDonald 0.99
+PERSON-new-brunswick,NEW BRUNSWICK,1883,1883,1,no_candidate,,T. Brunskill 0.59
+PERSON-ebeneezer-watson,EBENEEZER WATSON,1883,1883,1,linked,http://id.lincsproject.ca/PPCZyMsNJUL,E. Watson 1.00; Louis Watson 0.65; John Watson 0.65
+PERSON-j-p-donnelly,J.P. DONNELLY,1883,1897,13,linked,http://id.lincsproject.ca/AquB5tE7jKH,"J.P. Donnelly 1.00; R.S. Donnelly 0.65; Donnelly, Thos. 0.65"
+PERSON-j-r-stevenson,J.R. STEVENSON,1883,1891,9,linked,http://id.lincsproject.ca/h5XMHE1f1hY,J.R. Stevenson 1.00; F.G. Stevens 0.63; P. Stevens 0.63
+PERSON-wm-bull,WM. BULL,1883,1883,1,ambiguous,,Wm. Bull 1.00; White Bull' 1.00; Joe Bullshield 0.59
+PERSON-john-creighton,JOHN CREIGHTON,1883,1884,2,linked,http://id.lincsproject.ca/XqFrfDOatBv,J. Creighton 1.00
+PERSON-john-thackeray,JOHN THACKERAY,1883,1905,18,linked,http://id.lincsproject.ca/RzuTdzl8CkT,J. Thackeray 1.00
+PERSON-edwin-harris,EDWIN HARRIS,1883,1892,10,linked,http://id.lincsproject.ca/kfaxYVbKUJa,E. Harris 1.00; E.H. Harrison 0.96; T.W. Harris 0.65
+PERSON-h-h-thompson,H.H. THOMPSON,1883,1891,5,linked,http://id.lincsproject.ca/q0xzJJPSREZ,H.H Thompson 1.00; J.H. Thomson 0.70; T. Thompson 0.65
+PERSON-a-p-lebel,A.P. LEBEL,1883,1883,1,linked,http://id.lincsproject.ca/DDy223qGg6F,A. LeBel 0.98; N. LeBel 0.65
+PERSON-geo-wells,GEO. WELLS,1883,1883,1,linked,http://id.lincsproject.ca/PDlPU1KSNMN,G. Wells 1.00; J.H. Walls 0.59
+PERSON-thomas-j-butler,THOMAS J. BUTLER,1883,1897,6,linked,http://id.lincsproject.ca/2UcWSxJ1c7p,"Thomas J. Butler 1.00; J.B. Butler 0.70; Butlin, Jos 0.58"
+PERSON-a-english,A. ENGLISH,1884,1906,21,linked,http://id.lincsproject.ca/1smijfYkILL,"A. English 1.00; H.A. English 0.70; English, J. 0.65"
+PERSON-mathew-hill,MATHEW HILL,1884,1885,2,linked,http://id.lincsproject.ca/v0h4L6KURYu,Mathew Hill 1.00; H.M. Hill 0.70; E.M. Hill 0.70
+PERSON-h-thompson,H. THOMPSON,1884,1889,2,linked,http://id.lincsproject.ca/q0xzJJPSREZ,H.H Thompson 0.98; J.H. Thomson 0.70; T. Thompson 0.65
+PERSON-r-ashton,R. ASHTON,1884,1909,18,no_candidate,,
+PERSON-jean-o-arsenault,JEAN O. ARSENAULT,1884,1903,8,no_candidate,,John Arsenault 0.69
+PERSON-joseph-reader,JOSEPH READER,1884,1897,6,linked,http://id.lincsproject.ca/0gm8EJgp4qe,J. Reader 1.00; Harriet Read 0.62
+PERSON-j-ansdell-macrae,J. ANSDELL MACRAE,1884,1884,1,linked,http://id.lincsproject.ca/6O1ghRdppJJ,J.A. Macrae 1.00; J. McRae 0.92; A.E. MacRitchie 0.63
+PERSON-george-blenkensop,GEORGE BLENKENSOP,1884,1884,1,linked,http://www.wikidata.org/entity/Q5537047,"G. Belnkinsop 0.95; Blenkin, Thos 0.59"
+PERSON-wm-laing-mason,WM. LAING MASON,1884,1884,1,linked,http://id.lincsproject.ca/qdQBbeEkyqS,W.L Meason 0.98; W.R. Mason 0.91; P. Mason 0.65
+PERSON-thomas-s-walton,THOMAS S. WALTON,1885,1887,2,linked,http://id.lincsproject.ca/RjNZDJgdwv7,Thomas S. Walton 1.00
+PERSON-james-telfer-conaway,JAMES TELFER CONAWAY,1885,1887,3,linked,http://id.lincsproject.ca/BBslKXEg9yP,J.T. Conaway 1.00
+PERSON-john-thackery,JOHN THACKERY,1885,1885,1,linked,http://id.lincsproject.ca/RzuTdzl8CkT,J. Thackeray 1.00
+PERSON-robert-ashton,ROBERT ASHTON,1885,1885,1,no_candidate,,
+PERSON-a-brosseau,A. BROSSEAU,1885,1902,20,linked,http://id.lincsproject.ca/HsxWqmYiN9A,A. Brosseau 1.00; J.M. Brosseau 0.65
+PERSON-charles-guay,CHARLES GUAY,1885,1886,2,linked,http://id.lincsproject.ca/tRHPQnBUQgw,Charles Guay 1.00; Chas. Guay 0.69
+PERSON-james-martin,JAMES MARTIN,1885,1896,10,no_candidate,,Jas. Martin 0.69; Eva Martin 0.65; D.A. Martin 0.65
+PERSON-james-farrell,JAMES FARRELL,1885,1908,34,linked,http://id.lincsproject.ca/nkQI1n68M5N,J.V. Farrell 0.98; Jas. Farrell 0.69
+PERSON-j-reader,J. READER,1885,1896,7,linked,http://id.lincsproject.ca/0gm8EJgp4qe,J. Reader 1.00; Harriet Read 0.62
+PERSON-wm-pocklington,WM. POCKLINGTON,1885,1890,6,ambiguous,,W. Pocklington 1.00; W. Pocklington 1.00
+PERSON-magnus-begg,MAGNUS BEGG,1885,1903,19,linked,http://id.lincsproject.ca/5vzrWmnDQsA,M. Begg 1.00; W. Begg 0.65; J.W. Begg 0.65
+PERSON-george-blenkinsop,GEORGE BLENKINSOP,1885,1885,1,linked,http://www.wikidata.org/entity/Q5537047,"G. Belnkinsop 0.99; Blenkin, Thos 0.62"
+PERSON-wm-laing-meason,WM. LAING MEASON,1885,1893,8,linked,http://id.lincsproject.ca/qdQBbeEkyqS,W.L Meason 1.00; W.R. Mason 0.89; P. Mason 0.63
+PERSON-j-b-lash,J.B. LASH,1885,1898,13,linked,http://id.lincsproject.ca/ygO3smNe6Ct,J.B. Lash 1.00
+PERSON-thos-s-walton,THOS. S. WALTON,1886,1896,7,no_candidate,,Thomas S. Walton 0.69
+PERSON-matthew-hill,MATTHEW HILL,1886,1892,7,no_candidate,,H.M. Hill 0.70; E.M. Hill 0.70; Mathew Hill 0.69
+PERSON-j-w-jermyn,J.W. JERMYN,1886,1896,10,linked,http://id.lincsproject.ca/SGKi10Tauw8,J.W. Jermyn 1.00
+PERSON-h-r-thompson,H.R. THOMPSON,1886,1886,1,linked,http://id.lincsproject.ca/q0xzJJPSREZ,H.H Thompson 0.95; J.H. Thomson 0.70; T. Thompson 0.65
+PERSON-robt-ashton,ROBT. ASHTON,1886,1886,1,no_candidate,,
+PERSON-chas-sargeant,CHAS. SARGEANT,1886,1891,5,linked,http://id.lincsproject.ca/vqXVu7gEkMA,C. Sargeant 1.00
+PERSON-j-a-markle,J.A. MARKLE,1886,1909,26,linked,http://id.lincsproject.ca/spFtJPSPP99,J.A. Markle 1.00
+PERSON-john-a-mitchell,JOHN A. MITCHELL,1886,1887,2,linked,http://id.lincsproject.ca/dTBjuxoC83g,J.A. Mitchell 1.00; G. Mitchell 0.65; R.M. Mitchell 0.65
+PERSON-saml-b-lucas,SAML. B. LUCAS,1886,1896,4,linked,http://id.lincsproject.ca/JfXN3SAqk59,"S.B. Lucas 1.00; Lucas,I.W. 0.65; T.W. Lucas 0.65"
+PERSON-g-long,G. LONG,1887,1888,2,linked,http://id.lincsproject.ca/8skXzA4Ru9k,Geor Long 1.00; H.G. Long 0.70
+PERSON-r-martineau,R. MARTINEAU,1887,1887,2,no_candidate,,H. Martineau 0.65; A. Martineau 0.65; Jas. Martin 0.62
+PERSON-h-keith,H. KEITH,1887,1888,2,linked,http://id.lincsproject.ca/FxwRddFmsW9,H. Keith 1.00; Sylvanus Keith 0.65
+PERSON-p-j-williams,P.J. WILLIAMS,1887,1896,10,linked,http://id.lincsproject.ca/1RT1RgRDT4T,"P.J. Williams 1.00; William, Jos 0.70; H.A. Williams 0.65"
+PERSON-w-s-grant,W.S. GRANT,1887,1910,23,linked,http://id.lincsproject.ca/6HHssWY5TiL,W.S. Grant 1.00; W.R. Grant 0.91; W.J. Grant 0.91
+PERSON-j-j-campbell,J.J. CAMPBELL,1887,1896,8,ambiguous,,John J. Campbell 1.00; J.J. Campbell 1.00; J. Campbell 0.98
+PERSON-samuel-b-lucas,SAMUEL B. LUCAS,1887,1895,6,linked,http://id.lincsproject.ca/JfXN3SAqk59,"S.B. Lucas 1.00; Lucas,I.W. 0.65; T.W. Lucas 0.65"
+PERSON-wm-carnegy-de-balinhard,WM. CARNEGY DE BALINHARD,1887,1887,1,linked,http://id.lincsproject.ca/stVgPfrRj1G,W.C. DeBalinhard 1.00
+PERSON-r-h-pidcock,R.H. PIDCOCK,1887,1900,13,linked,http://id.lincsproject.ca/ZIYkcepsHTT,R.H. Pidcock 1.00
+PERSON-w-powell,W. POWELL,1887,1887,1,no_candidate,,J.W. Powell 0.70; Charles Powell 0.65
+PERSON-alex-mckelvey,ALEX. MCKELVEY,1888,1888,1,ambiguous,,A. McKelvey 1.00; Alex McKelvey 1.00; A.G.F. McKenzie 0.90
+PERSON-edmund-bennett,EDMUND BENNETT,1888,1893,4,linked,http://id.lincsproject.ca/SyBFSXMUZjj,E. Bennett 1.00; A.E.H. Bennett 0.70
+PERSON-jas-allen,JAS. ALLEN,1888,1893,5,linked,http://id.lincsproject.ca/alaZLQdmELP,Jas. Allen 1.00; E. Allen 0.65; R.A. Allen 0.65
+PERSON-geo-b-mcdermot,GEO. B. MCDERMOT,1888,1888,1,linked,http://id.lincsproject.ca/M6D8pZZ8j9F,G.B. McDermot 1.00; J.C. McDevitt 0.57
+PERSON-p-e-jones,P. E. JONES,1888,1894,5,linked,http://viaf.org/viaf/223467275,P.E. Jone 0.99; Evan Jones 0.70; Jones A.E. 0.70
+PERSON-narcisse-lebel,NARCISSE LEBEL,1888,1913,8,linked,http://id.lincsproject.ca/6msNpRrESeJ,N. LeBel 1.00; A. LeBel 0.65
+PERSON-e-otis,E. OTIS,1888,1888,1,no_candidate,,L.E. Otis 0.70; D.E. Otis 0.70
+PERSON-simon-poirier,SIMON POIRIER,1888,1888,1,no_year_overlap,,S. Poirier 1.00; Cassimir J. Poirer 0.64
+PERSON-antoine-o-bastien,ANTOINE O. BASTIEN,1888,1911,18,linked,http://id.lincsproject.ca/8xdEcbDgQUC,A. Bastien 0.98
+PERSON-a-mcbride,A. MCBRIDE,1888,1894,2,linked,http://id.lincsproject.ca/CCo33ubRsqd,A. McBride 1.00; W.P. McBride 0.65
+PERSON-g-mcpherson,G. MCPHERSON,1888,1888,1,linked,http://id.lincsproject.ca/RYkhGanwxNX,G. McPherson 1.00; D. McPherson 0.65; Donald MacPherson 0.64
+PERSON-john-mcintyre,JOHN MCINTYRE,1888,1888,2,linked,http://id.lincsproject.ca/EYvbscAcpUR,J. McIntyre 1.00; J.W. McIntosh 0.90; D.K. McIntyre 0.65
+PERSON-w-l-reynolds,W.L. REYNOLDS,1888,1888,1,no_candidate,,H.L. Reynolds 0.70
+PERSON-a-mcdonald,A. MCDONALD,1888,1888,1,ambiguous,,A. McDonald 1.00; A. McDonald 1.00; Allan McDonald 1.00
+PERSON-r-s-mckenzie,R.S. MCKENZIE,1888,1909,8,ambiguous,,McKenzie R.S. 1.00; Robt. McKenzie 0.98; R.E. McKechnie 0.88
+PERSON-geo-g-mann,GEO. G. MANN,1888,1913,25,linked,http://id.lincsproject.ca/X9upRnYfbSi,G.G. Mann 1.00; B.M. Mann 0.65; Mann B.E. 0.65
+PERSON-jno-a-mitchell,JNO. A. MITCHELL,1888,1888,1,linked,http://id.lincsproject.ca/dTBjuxoC83g,J.A. Mitchell 1.00; G. Mitchell 0.65; R.M. Mitchell 0.65
+PERSON-j-finlayson,J. FINLAYSON,1888,1894,7,ambiguous,,J. Finlayson 1.00; J.D. Finlayson 0.98; R. Finlayson 0.65
+PERSON-f-c-cornish,F. C. CORNISH,1888,1896,7,below_gate,,"F.O. Cornish 0.91; Cornes, J. 0.60"
+PERSON-a-r-springett,A. R. SPRINGETT,1888,1891,4,linked,http://id.lincsproject.ca/nD5o6LBvxgI,A.R. Springett 1.00
+PERSON-j-t-gilkinson,J.T. GILKINSON,1888,1888,1,linked,http://id.lincsproject.ca/ILrPGaHzgsH,J.T. Gilkison 0.98
+PERSON-j-t-gilkison,J.T. GILKISON,1888,1888,1,linked,http://id.lincsproject.ca/ILrPGaHzgsH,J.T. Gilkison 1.00
+PERSON-grant,GRANT,1888,1888,1,no_candidate,,"W.R. Grant 0.82; J.S. Grant 0.82; Grant, L 0.82"
+PERSON-wm-c-debalinard,WM. C. DEBALINARD,1888,1888,1,linked,http://id.lincsproject.ca/stVgPfrRj1G,W.C. DeBalinhard 1.00
+PERSON-wm-c-debalinhard,WM. C. DEBALINHARD,1888,1889,2,linked,http://id.lincsproject.ca/stVgPfrRj1G,W.C. DeBalinhard 1.00
+PERSON-e-bennett,E. BENNETT,1889,1901,10,linked,http://id.lincsproject.ca/SyBFSXMUZjj,E. Bennett 1.00; A.E.H. Bennett 0.70
+PERSON-geo-long,GEO. LONG,1889,1910,6,linked,http://id.lincsproject.ca/8skXzA4Ru9k,Geor Long 1.00; H.G. Long 0.70
+PERSON-s-poirier,S. POIRIER,1889,1891,3,linked,http://id.lincsproject.ca/aYTJmAFoeu5,S. Poirier 1.00; Cassimir J. Poirer 0.64
+PERSON-j-o-arsenault,J.O. ARSENAULT,1889,1889,1,linked,http://id.lincsproject.ca/UwUXs4g9aEc,John Arsenault 0.98
+PERSON-hilton-keith,HILTON KEITH,1889,1897,8,linked,http://id.lincsproject.ca/FxwRddFmsW9,H. Keith 1.00; Sylvanus Keith 0.65
+PERSON-j-a-mitchell,J.A. MITCHELL,1889,1900,2,linked,http://id.lincsproject.ca/dTBjuxoC83g,J.A. Mitchell 1.00; G. Mitchell 0.65; R.M. Mitchell 0.65
+PERSON-j-c-cornish,J.C. CORNISH,1889,1889,1,no_year_overlap,,"Cornes, J. 0.94; F.O. Cornish 0.65"
+PERSON-w-pocklington,W. POCKLINGTON,1889,1892,3,ambiguous,,W. Pocklington 1.00; W. Pocklington 1.00
+PERSON-r-e-robillard,R.E. ROBILLARD,1889,1889,1,no_candidate,,P.E. Robillard 0.70
+PERSON-markle,MARKLE,1889,1889,1,no_candidate,,J.A. Markle 0.82
+PERSON-reynolds,REYNOLDS,1889,1889,1,no_candidate,,H.L. Reynolds 0.82
+PERSON-geo-b-mcdermott,GEO. B. MCDERMOTT,1889,1889,1,linked,http://id.lincsproject.ca/M6D8pZZ8j9F,G.B. McDermot 1.00; J.C. McDevitt 0.59
+PERSON-george-long,GEORGE LONG,1890,1905,16,linked,http://id.lincsproject.ca/8skXzA4Ru9k,Geor Long 1.00; H.G. Long 0.70
+PERSON-p-e-robillard,P.E. ROBILLARD,1890,1894,5,linked,http://id.lincsproject.ca/GG7c8KYY1it,P.E. Robillard 1.00
+PERSON-e-t-ferguson,E.T. FERGUSON,1890,1892,3,linked,http://id.lincsproject.ca/ZB51etA9LxN,"E.T. Ferguson 1.00; Ferguson, Geo 0.65; A.D. Ferguson 0.65"
+PERSON-thomas-s-butler,THOMAS S. BUTLER,1890,1890,1,linked,http://id.lincsproject.ca/2UcWSxJ1c7p,"Thomas J. Butler 0.92; J.B. Butler 0.65; Butlin, Jos 0.58"
+PERSON-a-martineau,A. MARTINEAU,1890,1891,2,no_year_overlap,,A. Martineau 1.00; D.A. Martin 0.67; H. Martineau 0.65
+PERSON-h-l-reynolds,H.L. REYNOLDS,1890,1890,1,linked,http://id.lincsproject.ca/U0QfazKwjMF,H.L. Reynolds 1.00
+PERSON-j-campbell,J. CAMPBELL,1890,1890,1,ambiguous,,J. Campbell 1.00; John J. Campbell 0.98; J.J. Campbell 0.98
+PERSON-chs-decazes,CHS. DECAZES,1890,1890,1,linked,http://id.lincsproject.ca/issK33Jt3Ol,C. DeCazes 1.00
+PERSON-j-w-mackay,J. W. MACKAY,1890,1893,4,linked,http://id.lincsproject.ca/oa5ynhoxel4,"J.W. Mackay 1.00; J.W. McKay 0.94; McKay, Jos. 0.92"
+PERSON-michael-phillipps,MICHAEL PHILLIPPS,1890,1893,3,linked,http://id.lincsproject.ca/gea75vYBKkE,M. Phillips 1.00; A.C. Phillips 0.65; A.J. Phillipson 0.62
+PERSON-c-todd,C. TODD,1890,1890,1,ambiguous,,"Todd, Chas 1.00; C. Todd 1.00; H. Todd 0.65"
+PERSON-r-c-loring,R.C. LORING,1890,1891,2,below_gate,,R.E. Loring 0.91
+PERSON-n-lebel,N. LEBEL,1890,1892,2,linked,http://id.lincsproject.ca/6msNpRrESeJ,N. LeBel 1.00; A. LeBel 0.65
+PERSON-w-h-lotatas,W.H. LOTATAS,1890,1890,1,no_candidate,,
+PERSON-g-w-boggs,G.W. BOGGS,1890,1890,1,linked,http://id.lincsproject.ca/jfN27jvvJjB,G.W. Boggs 1.00
+PERSON-jas-c-phipps,JAS. C. PHIPPS,1891,1893,3,linked,http://id.lincsproject.ca/n9NeCeEb2Ux,J.C. Phipps 1.00
+PERSON-thos-f-walton,THOS. F. WALTON,1891,1891,1,no_candidate,,Thomas S. Walton 0.69
+PERSON-h-desilets,H. DESILETS,1891,1903,12,linked,http://id.lincsproject.ca/hRp2O60Uoaz,H. Desilets 1.00
+PERSON-geo-r-smith,GEO. R. SMITH,1891,1897,6,ambiguous,,"George R. Smith 1.00; G.R. Smith 1.00; Smith, G.J. 0.91"
+PERSON-thomas-butler,THOMAS BUTLER,1891,1896,2,linked,http://id.lincsproject.ca/2UcWSxJ1c7p,"Thomas J. Butler 0.99; J.B. Butler 0.65; Butlin, Jos 0.58"
+PERSON-d-h-muir,D.H. MUIR,1891,1893,3,linked,http://id.lincsproject.ca/4eyQbAlhUCP,D.H. Muir 1.00; A. Muirhead 0.60
+PERSON-f-a-rand,F.A. RAND,1891,1912,20,linked,http://id.lincsproject.ca/Fkf1GtVxhPv,Fred A. Rand 1.00
+PERSON-a-k-muckle,A.K. MUCKLE,1891,1891,1,below_gate,,A.M. Muckle 0.91
+PERSON-w-e-jones,W.E. JONES,1891,1903,13,linked,http://id.lincsproject.ca/SKQ8u6Y5Le3,W.E. Jones 1.00; W.H. Jones 0.91; Evan Jones 0.70
+PERSON-chas-de-cazes,CHAS. DE CAZES,1891,1897,5,linked,http://id.lincsproject.ca/issK33Jt3Ol,C. DeCazes 1.00
+PERSON-thos-j-walton,THOS. J. WALTON,1892,1892,1,no_candidate,,Thomas S. Walton 0.69
+PERSON-s-r-stevenson,S.R. STEVENSON,1892,1892,1,no_candidate,,J.R. Stevenson 0.70; F.G. Stevens 0.63; P. Stevens 0.63
+PERSON-james-allen,JAMES ALLEN,1892,1894,2,no_candidate,,Jas. Allen 0.69; E. Allen 0.65; R.A. Allen 0.65
+PERSON-john-thackray,JOHN THACKRAY,1892,1892,1,linked,http://id.lincsproject.ca/RzuTdzl8CkT,J. Thackeray 1.00
+PERSON-v-i-a-venner,V.I.A. VENNER,1892,1892,1,below_gate,,"V.J.A. Vennor 0.88; Venn, W. 0.62"
+PERSON-a-o-bastien,A.O. BASTIEN,1892,1910,4,linked,http://id.lincsproject.ca/8xdEcbDgQUC,A. Bastien 0.98
+PERSON-charles-sargeant,CHARLES SARGEANT,1892,1892,1,linked,http://id.lincsproject.ca/vqXVu7gEkMA,C. Sargeant 1.00
+PERSON-george-r-smith,GEORGE R. SMITH,1892,1892,1,ambiguous,,"George R. Smith 1.00; G.R. Smith 1.00; Smith, G.J. 0.91"
+PERSON-charles-e-beckwith,CHARLES E. BECKWITH,1892,1900,7,linked,http://id.lincsproject.ca/eNBA67HWkjk,C.E. Beckwith 1.00; J.E. Beckwith 0.70; O.B. Beckwith 0.65
+PERSON-d-o-sullivan,D. O'SULLIVAN,1892,1897,5,linked,http://id.lincsproject.ca/ISWzDRocv1Y,Daniel O'Sullivan 1.00; J.J. Sullivan 0.65
+PERSON-f-ogletree,F. OGLETREE,1892,1892,1,linked,http://id.lincsproject.ca/uznoBgWEn4E,F. Ogletree 1.00; Archibald Ogletree 0.65
+PERSON-f-cornish,F. CORNISH,1892,1892,1,linked,http://id.lincsproject.ca/Tmm4sawAQkH,"F.O. Cornish 0.98; Cornes, J. 0.60"
+PERSON-a-g-irvine,A.G. IRVINE,1892,1892,1,linked,http://id.lincsproject.ca/yCLeqAtxj6V,A.G. Irvine 1.00; R.A. Irving 0.67; M. Irvine 0.65
+PERSON-michael-phillips,MICHAEL PHILLIPS,1892,1892,1,linked,http://id.lincsproject.ca/gea75vYBKkE,M. Phillips 1.00; A.C. Phillips 0.65; A.J. Phillipson 0.64
+PERSON-r-e-loring,R.E. LORING,1892,1913,21,linked,http://id.lincsproject.ca/nM57PoWntve,R.E. Loring 1.00
+PERSON-mann,MANN,1892,1892,1,no_candidate,,B.M. Mann 0.82; G.G. Mann 0.82; Mann B.E. 0.82
+PERSON-e-d-cameron,E.D. CAMERON,1893,1906,14,linked,http://id.lincsproject.ca/KbbIByrMtI5,E.D. Cameron 1.00; Angus Cameron 0.65; A.L. Cameron 0.65
+PERSON-j-h-sargeant,J.H. SARGEANT,1893,1893,1,no_candidate,,C. Sargeant 0.65
+PERSON-james-farrel,JAMES FARREL,1893,1893,1,linked,http://id.lincsproject.ca/nkQI1n68M5N,J.V. Farrell 0.98; Jas. Farrell 0.68
+PERSON-chas-e-beckwith,CHAS. E. BECKWITH,1893,1893,1,linked,http://id.lincsproject.ca/eNBA67HWkjk,C.E. Beckwith 1.00; J.E. Beckwith 0.70; O.B. Beckwith 0.65
+PERSON-john-c-chisholm,JOHN C. CHISHOLM,1893,1894,2,ambiguous,,J.C. Chisholm 1.00; John Chisholm 0.99; Rev. J.J. Chisholm 0.95
+PERSON-d-o-sulllvan,D. O'SULLLVAN,1893,1893,1,linked,http://id.lincsproject.ca/ISWzDRocv1Y,Daniel O'Sullivan 0.98; J.J. Sullivan 0.62
+PERSON-george-g-mann,GEORGE G. MANN,1893,1893,1,linked,http://id.lincsproject.ca/X9upRnYfbSi,G.G. Mann 1.00; B.M. Mann 0.65; Mann B.E. 0.65
+PERSON-d-l-clink,D.L. CLINK,1893,1896,3,linked,http://id.lincsproject.ca/u8njGAEt1Tw,D.L. Clink 1.00; A. Clink 0.65
+PERSON-jas-wilson,JAS. WILSON,1893,1903,9,ambiguous,,Jas. Wilson 1.00; J. Wilson 1.00; Jas. D. Wilson 0.99
+PERSON-h-h-nash,H.H. NASH,1893,1897,5,linked,http://id.lincsproject.ca/hMyclrPPCiV,H. Nash 0.98; Nash 0.82; L.R. Nash 0.65
+PERSON-henry-guillod,HENRY GUILLOD,1893,1893,1,linked,http://id.lincsproject.ca/zceMGWqc4Fy,H. Guillod 1.00; Harry Guillod 0.69; M. Guilloux 0.61
+PERSON-frank-devlin,FRANK DEVLIN,1893,1902,7,linked,http://id.lincsproject.ca/he4Hf4VrRtO,F. Devlin 1.00
+PERSON-v-j-a-venner,V.J.A. VENNER,1893,1893,1,linked,http://id.lincsproject.ca/uRmXIlusQyw,"V.J.A. Vennor 0.97; Venn, W. 0.62"
+PERSON-a-w-vowell,A.W. VOWELL,1893,1905,8,linked,http://www.wikidata.org/entity/Q4800642,A.W. Vowell 1.00
+PERSON-w-geo-egar,W. GEO. EGAR,1893,1896,3,linked,http://id.lincsproject.ca/DfvfZJx0yXm,W.G. Egar 1.00
+PERSON-w-g-egar,W.G. EGAR,1894,1894,1,linked,http://id.lincsproject.ca/DfvfZJx0yXm,W.G. Egar 1.00
+PERSON-a-cameron,A. CAMERON,1894,1903,2,ambiguous,,Angus Cameron 1.00; Agnes Cameron 1.00; A. Cameron 1.00
+PERSON-w-l-clink,W.L. CLINK,1894,1894,1,no_candidate,,D.L. Clink 0.70; A. Clink 0.65
+PERSON-james-wilson,JAMES WILSON,1894,1895,2,ambiguous,,J. Wilson 1.00; J.C. Wilson 0.98; J.H. Wilson 0.98
+PERSON-r-l-t-galbraith,R.L.T. GALBRAITH,1894,1913,18,linked,http://id.lincsproject.ca/ChxNpHhbqHb,R.L.T. Galbraith 1.00
+PERSON-wentworth-f-wood,WENTWORTH F. WOOD,1894,1896,3,ambiguous,,Wentworth F. Wood 1.00; W.F. Wood 1.00; W.H. Woods 0.90
+PERSON-e-bell,E. BELL,1894,1908,15,linked,http://id.lincsproject.ca/AQmMo2TS80C,Ewen Bell 1.00; A.J. Bell 0.65; Wm. Bell 0.65
+PERSON-g-mann,G. MANN,1894,1894,1,linked,http://id.lincsproject.ca/X9upRnYfbSi,G.G. Mann 0.98; B.M. Mann 0.65; Mann B.E. 0.65
+PERSON-finlayson,FINLAYSON,1894,1894,1,no_candidate,,J. Finlayson 0.82; R. Finlayson 0.82; J.D. Finlayson 0.82
+PERSON-a-s-mcdougall,A.S. MCDOUGALL,1895,1895,1,linked,http://id.lincsproject.ca/80IKVuhCNQu,Alex S. McDougall 1.00; A. McDonald 0.92; A. McDonald 0.92
+PERSON-s-p-donnelly,S.P. DONNELLY,1895,1895,1,no_candidate,,"R.S. Donnelly 0.70; J.P. Donnelly 0.70; Donnelly, Thos. 0.65"
+PERSON-t-w-jermyn,T.W. JERMYN,1895,1895,1,no_candidate,,J.W. Jermyn 0.70
+PERSON-john-crowe,JOHN CROWE,1895,1896,2,linked,http://id.lincsproject.ca/Q5E0sObbPdO,John Crowe 1.00; H.S. Crowe 0.65
+PERSON-a-a-mondou,A.A. MONDOU,1895,1896,2,linked,http://id.lincsproject.ca/xf8vyp6tNrc,A.A. Mondou 1.00
+PERSON-j-c-chisholm,J.C. CHISHOLM,1895,1895,1,ambiguous,,J.C. Chisholm 1.00; John Chisholm 0.98; Rev. J.J. Chisholm 0.95
+PERSON-john-e-campbell,JOHN E. CAMPBELL,1895,1896,2,ambiguous,,John E. Campbell 1.00; J. Campbell 0.98; John J. Campbell 0.96
+PERSON-john-j-e-de-molitor,JOHN J.E. DE MOLITOR,1895,1902,8,linked,http://id.lincsproject.ca/f1g3NrWR3O1,J.J.E. de Molitor 1.00
+PERSON-wm-d-carter,WM. D. CARTER,1895,1907,12,linked,http://id.lincsproject.ca/zQEoxd9tdk6,"W.D. Carter 1.00; B.G. Carter 0.65; Carter, Thos. H. 0.65"
+PERSON-jno-p-wright,JNO. P. WRIGHT,1895,1912,13,linked,http://id.lincsproject.ca/GoF90WjQW0z,J.P. Wright 1.00; J.E. Wright 0.91; J.H. Wright 0.91
+PERSON-wm-van-abbott,WM. VAN ABBOTT,1895,1900,6,linked,http://id.lincsproject.ca/tHnZP9hiacq,Wm. Van Abbot 1.00
+PERSON-w-c-chisholm,W.C. CHISHOLM,1895,1895,1,ambiguous,,"W.C. Chisholm 1.00; W.C. Chisolm 1.00; Chisolm, W.J. 0.91"
+PERSON-lucas,LUCAS,1895,1895,1,no_candidate,,"Lucas,I.W. 0.82; S.B. Lucas 0.82; T.W. Lucas 0.82"
+PERSON-wm-bateman,WM. BATEMAN,1896,1896,1,linked,http://id.lincsproject.ca/EcndHihsMGM,Wm. Bateman 1.00
+PERSON-william-c-chisholm,WILLIAM C. CHISHOLM,1896,1913,2,ambiguous,,"W.C. Chisholm 1.00; W.C. Chisolm 1.00; Chisolm, W.J. 0.91"
+PERSON-c-e-beckwith,C.E. BECKWITH,1896,1913,14,linked,http://id.lincsproject.ca/eNBA67HWkjk,C.E. Beckwith 1.00; J.E. Beckwith 0.70; O.B. Beckwith 0.65
+PERSON-h-b-martineau,H.B. MARTINEAU,1896,1896,1,linked,http://id.lincsproject.ca/9uq67I4BKcW,H. Martineau 0.98; A. Martineau 0.65; Jas. Martin 0.62
+PERSON-john-mciver,JOHN MCIVER,1897,1909,2,linked,http://id.lincsproject.ca/psO5Hxz1sC3,John McIver 1.00
+PERSON-d-j-mcphee,D.J. MCPHEE,1897,1897,1,linked,http://id.lincsproject.ca/ENILWevR9AC,D.J. McPhee 1.00; D. McPherson 0.92; Wm. McPhee 0.65
+PERSON-john-scoffield,JOHN SCOFFIELD,1897,1912,16,linked,http://id.lincsproject.ca/GV1l7EeBQIg,John Scoffield 1.00
+PERSON-hugh-stewart,HUGH STEWART,1897,1900,4,linked,http://id.lincsproject.ca/ce8rKUn558o,Hugh Stewart 1.00; A.B. Stewart 0.65; J.A. Stewart 0.65
+PERSON-w-c-boucher,W.C. BOUCHER,1897,1897,1,linked,http://id.lincsproject.ca/4RNDX7F4uGB,Wilfrid C. Boucher 1.00; Alex Boucher 0.65; F. Boucher 0.65
+PERSON-p-l-marcotte,P.L. MARCOTTE,1897,1898,2,linked,http://id.lincsproject.ca/s292y1hollX,Pierre L. Marcotte 1.00; F. Marcoux 0.58; A. Marcoux 0.58
+PERSON-john-r-mcdonald,JOHN R. MCDONALD,1897,1897,1,linked,http://id.lincsproject.ca/VW4iSfcNWDB,John R. McDonald 1.00; J. Macdonald 0.97; J. McDougall 0.92
+PERSON-thomas-b-smith,THOMAS B. SMITH,1897,1897,1,no_candidate,,M.A.B. Smith 0.70; W.B. Smith 0.70; Smith Thos. B. 0.69
+PERSON-alonzo-wallace,ALONZO WALLACE,1897,1913,15,ambiguous,,Alonzo Wallace 1.00; A.H. Wallace 0.98; J.T. Wallace 0.65
+PERSON-john-fraser,JOHN FRASER,1897,1908,10,ambiguous,,John Fraser 1.00; J.G. Fraser 0.98; J.A. Fraser 0.98
+PERSON-archd-j-macdonald,ARCHD. J. MACDONALD,1897,1897,1,ambiguous,,Arch J. McDonald 0.99; A. Macdonald 0.98; A. McDonald 0.97
+PERSON-r-f-loring,R.F. LORING,1897,1897,1,below_gate,,R.E. Loring 0.91
+PERSON-frank-devin,FRANK DEVIN,1897,1897,1,no_candidate,,
+PERSON-j-mcintyre,J. MCINTYRE,1897,1897,1,linked,http://id.lincsproject.ca/EYvbscAcpUR,J. McIntyre 1.00; J.W. McIntosh 0.90; D.K. McIntyre 0.65
+PERSON-c-m-daunais,C.M. DAUNAIS,1897,1900,4,ambiguous,,C.M. Daunais 1.00; C. D'Aunais 0.98; A.O. Daunt 0.58
+PERSON-g-h-wheatley,G.H. WHEATLEY,1897,1913,16,linked,http://id.lincsproject.ca/iS3Bg9PZmCF,G.H. Wheatly 1.00
+PERSON-w-sibbald,W. SIBBALD,1897,1913,13,linked,http://id.lincsproject.ca/triEYYBzHje,W. Sibbald 1.00; H.E. Sibbald 0.65
+PERSON-george-anderson,GEORGE ANDERSON,1897,1901,5,ambiguous,,George Anderson 1.00; G.A. Anderson 0.98; P. Anderson 0.65
+PERSON-thos-b-smith,THOS. B. SMITH,1898,1904,7,linked,http://id.lincsproject.ca/pyKp4iWWhDu,Smith Thos. B. 1.00; M.A.B. Smith 0.70; W.B. Smith 0.70
+PERSON-j-j-sullivan,J.J. SULLIVAN,1898,1898,1,linked,http://id.lincsproject.ca/PYl4XGsw6gu,J.J. Sullivan 1.00; Daniel O'Sullivan 0.65
+PERSON-a-j-macdonald,A.J. MACDONALD,1898,1912,14,ambiguous,,Arch J. McDonald 0.99; A. Macdonald 0.98; A. McDonald 0.97
+PERSON-geo-r-smite,GEO. R. SMITE,1898,1898,1,ambiguous,,"George R. Smith 0.96; G.R. Smith 0.96; Smith, G.J. 0.87"
+PERSON-r-n-wilson,R.N. WILSON,1898,1910,9,linked,http://id.lincsproject.ca/FhIMZee6mPv,R.N. Wilson 1.00; R.D. Wilson 0.91; Jas. Wilson 0.65
+PERSON-s-swinford,S. SWINFORD,1898,1904,7,linked,http://id.lincsproject.ca/B9Vzk7t5y2Y,S. Swinford 1.00
+PERSON-a-irwin,A. IRWIN,1898,1910,13,linked,http://id.lincsproject.ca/rpjxalDSDX3,Archibald Irwin 1.00; R.G. Irwin 0.65
+PERSON-w-b-maclean,W.B. MACLEAN,1898,1906,9,linked,http://id.lincsproject.ca/j0TbRUUdqHy,"William Brown Maclean 1.00; W. MacLauhlin 0.92; McAllen, W 0.91"
+PERSON-john-yates,JOHN YATES,1899,1910,12,linked,http://id.lincsproject.ca/UhbOAKzGLEA,John Yates 1.00
+PERSON-a-sinclair,A. SINCLAIR,1899,1900,2,linked,http://id.lincsproject.ca/iOhNkmfuhgO,A. Sinclair 1.00; J. Sinclair 0.65; C. Sinclair 0.65
+PERSON-c-l-d-sims,C.L.D. SIMS,1899,1912,13,linked,http://id.lincsproject.ca/fzOgTPwBl2E,C.L.D. Sims 1.00; H.S. Sims 0.65
+PERSON-samuel-hagan,SAMUEL HAGAN,1899,1912,12,ambiguous,,Samuel Hagan 1.00; S. Hagan 1.00; M. Hagan 0.65
+PERSON-a-o-comire,A. O. COMIRE,1899,1911,10,linked,http://id.lincsproject.ca/aIYrcKOpn4f,A.O. Comire 1.00
+PERSON-jeremie-pitre,JEREMIE PITRE,1899,1902,4,linked,http://id.lincsproject.ca/MUn5iiYpeaA,Jeremie Pitre 1.00
+PERSON-adolphe-gagnon,ADOLPHE GAGNON,1899,1907,9,linked,http://id.lincsproject.ca/VFU3fz0weOv,Adolphe Gagnon 1.00; J. Gagne 0.59
+PERSON-alonzo-walace,ALONZO WALACE,1899,1899,1,linked,http://id.lincsproject.ca/Ho0sOp83ViR,Alonzo Wallace 1.00; A.H. Wallace 0.97; J.T. Wallace 0.64
+PERSON-joseph-courtney,JOSEPH COURTNEY,1899,1906,8,linked,http://id.lincsproject.ca/gy5U3NiTlSv,Joseph Courtney 1.00
+PERSON-w-b-goodfellow,W.B. GOODFELLOW,1899,1901,3,linked,http://id.lincsproject.ca/cEnNQAAFqnW,W.B. Goodfellow 1.00
+PERSON-john-p-wright,JOHN P. WRIGHT,1899,1902,3,linked,http://id.lincsproject.ca/GoF90WjQW0z,J.P. Wright 1.00; J.E. Wright 0.91; J.H. Wright 0.91
+PERSON-jas-gibbons,JAS. GIBBONS,1899,1907,8,no_candidate,,James Gibbons 0.69
+PERSON-henry-ross-halpin,HENRY ROSS HALPIN,1899,1899,1,linked,http://id.lincsproject.ca/dVVj6nhcEzv,H.R. Halpin 1.00; H.W. Halpin 0.91; Adjutant Halpenny 0.59
+PERSON-john-a-mitchelll,JOHN A. MITCHELLL,1899,1899,1,linked,http://id.lincsproject.ca/dTBjuxoC83g,J.A. Mitchell 1.00; G. Mitchell 0.65; R.M. Mitchell 0.65
+PERSON-l-d-sims,L.D. SIMS,1900,1900,1,no_candidate,,C.L.D. Sims 0.70; H.S. Sims 0.65
+PERSON-joseph-perillard,JOSEPH PERILLARD,1900,1907,7,linked,http://id.lincsproject.ca/qokRywDBnSR,Joseph Perillard 1.00
+PERSON-w-t-a-donohue,W.T.A. DONOHUE,1900,1901,2,linked,http://id.lincsproject.ca/8Zzgzkcf5ND,W.T.A. Donahue 0.97; D.P. Donoghue 0.65; Helen M. O'Donohoe 0.61
+PERSON-j-w-short,J.W. SHORT,1900,1900,1,linked,http://id.lincsproject.ca/ufUEfk9pbyV,J.W. Short 1.00; J.W. Shore 0.96; Iron Shirt 0.59
+PERSON-r-s-mackenzie,R.S. MACKENZIE,1900,1900,1,ambiguous,,McKenzie R.S. 0.99; Robt. McKenzie 0.97; D.J. Mackenzie 0.65
+PERSON-e-n-wilson,E.N. WILSON,1900,1900,1,no_candidate,,R.N. Wilson 0.70; Jas. Wilson 0.65; J. Wilson 0.65
+PERSON-w-r-robertson,W.R. ROBERTSON,1900,1913,12,ambiguous,,W.R. Robertson 1.00; W. Robertson 0.98; W.E. Robertson 0.91
+PERSON-j-thackeray,J. THACKERAY,1901,1911,7,linked,http://id.lincsproject.ca/RzuTdzl8CkT,J. Thackeray 1.00
+PERSON-daniel-j-lynch,DANIEL J. LYNCH,1901,1902,2,linked,http://id.lincsproject.ca/TiqC9lHG6su,D.J. Lynch 1.00
+PERSON-adam-burwash,ADAM BURWASH,1901,1909,9,linked,http://id.lincsproject.ca/OWW4GUl0oYF,Adam Burwash 1.00
+PERSON-john-d-mcleod,JOHN D. MCLEOD,1901,1903,2,linked,http://id.lincsproject.ca/qRkjbytCPwM,John D. McLeod 1.00; J.D. McLean 0.93; John McLean 0.92
+PERSON-john-semmens,JOHN SEMMENS,1901,1904,5,linked,http://id.lincsproject.ca/qhWOBD9nrQ4,John Semmens 1.00
+PERSON-w-m-graham,W.M.GRAHAM,1901,1901,1,ambiguous,,"Graham, W.M. 1.00; W. Graham 0.98; W. Graham 0.98"
+PERSON-h-e-sibbald,H.E. SIBBALD,1901,1906,6,linked,http://id.lincsproject.ca/VFDcydVsECL,H.E. Sibbald 1.00; W. Sibbald 0.65
+PERSON-joseph-perillaru,JOSEPH PERILLARU,1902,1902,1,linked,http://id.lincsproject.ca/qokRywDBnSR,Joseph Perillard 0.99
+PERSON-john-lacy,JOHN LACY,1902,1912,10,linked,http://id.lincsproject.ca/nBPT1KiNoIG,John Lacy 1.00
+PERSON-john-eraser,JOHN ERASER,1902,1902,1,no_candidate,,
+PERSON-thos-w-aspdix,THOS. W. ASPDIX,1902,1902,1,linked,http://id.lincsproject.ca/EoRtsNhMe15,"Aspdin, Thos.W. 0.98"
+PERSON-w-murison,W. MURISON,1902,1913,12,linked,http://id.lincsproject.ca/rawhoZ0WIyK,W. Murison 1.00; Jas. Morrison 0.59
+PERSON-r-w-wilson,R. W.   WILSON,1902,1905,2,below_gate,,R.N. Wilson 0.91; R.D. Wilson 0.91; C.W. Wilson 0.70
+PERSON-e-ashton,E.    ASHTON,1902,1902,1,no_candidate,,
+PERSON-martin-mullin,MARTIN MULLIN,1903,1911,8,linked,http://id.lincsproject.ca/hlGD2yak8d1,"M. Mullin 1.00; Mullen, M. 0.97; B.M. Mulligan 0.68"
+PERSON-robert-thorburn,ROBERT THORBURN,1903,1912,6,linked,http://id.lincsproject.ca/y2v9GabPgcd,"Thorburn R. 1.00; Thorburn, J. 0.65; Thorson, Jos. 0.58"
+PERSON-wm-l-nichols,WM. L. NICHOLS,1903,1910,7,linked,http://id.lincsproject.ca/tgInpQb2Wp9,W.L. Nichols 1.00; Frank Nicholas 0.65
+PERSON-j-blain,J. BLAIN,1903,1911,8,linked,http://id.lincsproject.ca/B6IleR2Q0q8,Jean Blain 1.00; J. Blair 0.96; J.K. Blair 0.94
+PERSON-j-pitre,J. PITRE,1903,1911,8,linked,http://id.lincsproject.ca/MUn5iiYpeaA,Jeremie Pitre 1.00
+PERSON-alphonse-marcoux,ALPHONSE MARCOUX,1903,1908,6,linked,http://id.lincsproject.ca/Mxn53MguZjA,A. Marcoux 1.00; F. Marcoux 0.65; Pierre L. Marcotte 0.58
+PERSON-w-d-b-scott,W.D.B. SCOTT,1903,1906,3,ambiguous,,W.D.B. Scott 1.00; Rev. W. Scott 0.98; D.C. Scott 0.70
+PERSON-j-r-mcdonald,J.R. MCDONALD,1903,1903,1,ambiguous,,"John R. McDonald 1.00; McDonald, Jas 0.98; J. Macdonald 0.97"
+PERSON-r-g-irvin,R.G. IRVIN,1903,1903,1,below_gate,,R.B. Irvine 0.90; R.A. Irving 0.90; A.G. Irvine 0.69
+PERSON-d-m-macdam,D.M. MACDAM,1903,1903,1,ambiguous,,D. MacAdam 0.95; D.M. MacDonald 0.93; D.F. Macdonald 0.85
+PERSON-james-gibbons,JAMES GIBBONS,1903,1903,1,linked,http://id.lincsproject.ca/naI7ZabVCGa,James Gibbons 1.00
+PERSON-h-a-carruthers,H.A. CARRUTHERS,1903,1906,4,linked,http://id.lincsproject.ca/2hTsZNb3UJj,H.A. Carruthers 1.00; John Carruthers 0.65; Wolf Carrier 0.59
+PERSON-a-j-mcneill,A.J. MCNEILL,1903,1903,1,linked,http://id.lincsproject.ca/iW7DkF6Jtf3,A.J. McNeil 0.99; A.N. McNeil 0.91; E. McNeil 0.64
+PERSON-h-a-martineau,H.A. MARTINEAU,1903,1903,1,linked,http://id.lincsproject.ca/9uq67I4BKcW,H. Martineau 0.98; A. Martineau 0.70; D.A. Martin 0.67
+PERSON-r-o-mcdonald,R.O. MCDONALD,1903,1903,1,ambiguous,,Rev. R. McDonald 0.98; R. McDonald 0.98; R. McDonald 0.98
+PERSON-g-w-debeck,G.W. DEBECK,1903,1905,3,linked,http://id.lincsproject.ca/LgKc0S1pbtz,G.W. DeBeck 1.00
+PERSON-geo-w-morrow,GEO. W. MORROW,1903,1907,5,linked,http://id.lincsproject.ca/CQRXZuCJCXK,Morrow G.W. 1.00; Jas. Morrison 0.59; Fred Morris 0.58
+PERSON-t-t-george,T.T. GEORGE,1903,1903,1,no_candidate,,
+PERSON-w-c-van-loon,W.C. VAN LOON,1904,1913,9,linked,http://id.lincsproject.ca/DEO5TQ47wSt,W.C. Van Loon 1.00
+PERSON-l-u-bonin,L.U. BONIN,1904,1904,1,below_gate,,Louis N. Bonin 0.91; Euclid Bonin 0.65
+PERSON-geo-p-cockburn,GEO. P. COCKBURN,1904,1913,9,linked,http://id.lincsproject.ca/6dduQWBIJqu,G.P. Cockburn 1.00; A.P.S. Cocks 0.62
+PERSON-rob-g-irwin,ROB. G. IRWIN,1904,1904,1,linked,http://id.lincsproject.ca/GeZtUolZzgZ,R.G. Irwin 1.00; Archibald Irwin 0.65
+PERSON-t-j-fleetham,T.J. FLEETHAM,1904,1913,10,linked,http://id.lincsproject.ca/5VIbAL9aZhh,Fleetham T.J. 1.00; Kate Fleetham 0.65
+PERSON-j-h-gooderham,J.H. GOODERHAM,1904,1913,9,linked,http://id.lincsproject.ca/DhDWRsrALxH,J.H. Gooderham 1.00; Maggie Gooderham 0.65
+PERSON-r-l-ashdown,R.L. ASHDOWN,1904,1904,1,linked,http://id.lincsproject.ca/rPOerluNW6W,R.L. Ashdown 1.00; L. Ashdown 0.70
+PERSON-alan-w-neil,ALAN W. NEIL,1904,1904,1,linked,http://id.lincsproject.ca/rnRKNUKdJA6,Alan W. Neill 1.00; R.W. Neilson 0.66; Marion O. Neilson 0.61
+PERSON-jules-r-dube,JULES R. DUBE,1905,1909,4,linked,http://id.lincsproject.ca/ZBZ0iL72dSQ,J.R. Dube 1.00
+PERSON-b-smith,B. SMITH,1905,1905,1,no_candidate,,Smith Thos. B. 0.70; M.A.B. Smith 0.70; W.B. Smith 0.70
+PERSON-neil-gilmour,NEIL GILMOUR,1905,1906,2,linked,http://id.lincsproject.ca/GTWvG53TrXC,Neil Gilmour 1.00
+PERSON-matthew-millar,MATTHEW MILLAR,1905,1905,1,linked,http://id.lincsproject.ca/UcAdQt4cvZ0,M. Millar 1.00; M. Miller 0.97; H.P. Millard 0.64
+PERSON-s-m-dickinson,S.M. DICKINSON,1905,1905,1,linked,http://id.lincsproject.ca/KqKVg9dVqUA,S.M. Dickinson 1.00; M.G. Dickieson 0.67
+PERSON-alan-w-neill,ALAN W. NEILL,1905,1910,5,linked,http://id.lincsproject.ca/rnRKNUKdJA6,Alan W. Neill 1.00; R.W. Neilson 0.63; Marion O. Neilson 0.58
+PERSON-a-e-green,A.E. GREEN,1905,1909,3,linked,http://id.lincsproject.ca/SHeMXQDtSNE,A.E. Green 1.00; A.H. Green 0.91; T.D. Green 0.65
+PERSON-w-r,W.R,1905,1905,1,no_candidate,,
+PERSON-neil-mcdougall,NEIL MCDOUGALL,1906,1909,3,linked,http://id.lincsproject.ca/H1hgd1H9yDg,Neil McDougall 1.00; N. McDonald 0.94; N. McDonald 0.94
+PERSON-j-b-mcdougall,J.B. MCDOUGALL,1906,1909,3,ambiguous,,J.B. McDougall 1.00; J. McDougall 0.98; J. McDougall 0.98
+PERSON-robert-h-smith,ROBERT H. SMITH,1906,1913,8,ambiguous,,R.H. Smith 1.00; Robert H. Smith 1.00; H.C. Smith 0.70
+PERSON-daniel-chisholm,DANIEL CHISHOLM,1906,1913,8,linked,http://id.lincsproject.ca/E3AD7WsLa7n,Daniel Chisholm 1.00; Rev. J.J. Chisholm 0.65; H.G. Chisholm 0.65
+PERSON-j-d-macleod,J.D. MACLEOD,1906,1912,6,linked,http://id.lincsproject.ca/qRkjbytCPwM,"John D. McLeod 0.99; J.A. McLeod 0.90; McLeod, J.C. 0.90"
+PERSON-john-hipson,JOHN HIPSON,1906,1913,8,linked,http://id.lincsproject.ca/seddjvlFxL0,John Hipson 1.00
+PERSON-j-o-lewis,J.O. LEWIS,1906,1910,4,ambiguous,,J.O. Lewis 1.00; J.O. Lewis 1.00; R.J. Lewis 0.70
+PERSON-m-millar,M. MILLAR,1906,1913,7,linked,http://id.lincsproject.ca/UcAdQt4cvZ0,M. Millar 1.00; M. Miller 0.97; H.P. Millard 0.64
+PERSON-j-batty,J. BATTY,1906,1912,7,linked,http://id.lincsproject.ca/u2B2qS5xfq3,J. Batty 1.00; R. Beatty 0.63
+PERSON-j-frank-callbreath,J. FRANK CALLBREATH,1906,1906,1,linked,http://id.lincsproject.ca/7Cwz8Qi5lZw,J.F. Callbreath 1.00
+PERSON-w-m-halliday,W.M. HALLIDAY,1906,1913,8,linked,http://id.lincsproject.ca/IRTCJ3HPY2A,"W.M. Halliday 1.00; Hall, W. M.D. 0.93; Dr. Hall 0.77"
+PERSON-a-w-neill,A.W. NEILL,1906,1912,2,linked,http://id.lincsproject.ca/rnRKNUKdJA6,Alan W. Neill 1.00; R.W. Neilson 0.63; Marion O. Neilson 0.58
+PERSON-william-nisbet,WILLIAM NISBET,1907,1910,4,linked,http://id.lincsproject.ca/a8L4wzTIRzt,William Nisbet 1.00
+PERSON-d-j-macdonald,D. J. MACDONALD,1907,1907,1,ambiguous,,D.J. McDonald 0.99; D. McDonald 0.97; Daniel McDonald 0.97
+PERSON-c-c-calverley,C.C. CALVERLEY,1907,1912,6,linked,http://id.lincsproject.ca/3fsJtGMCw7m,C.C. Calverley 1.00
+PERSON-r-c-mcdonald,R.C. MCDONALD,1907,1907,1,ambiguous,,R.C. Macdonald 0.99; Rev. R. McDonald 0.98; R. McDonald 0.98
+PERSON-h-a-west,H. A. WEST,1908,1913,6,linked,http://id.lincsproject.ca/yBbel67DTem,H.A. West 1.00; C.H. West 0.70
+PERSON-r-thorburn,R.THORBURN,1908,1911,4,linked,http://id.lincsproject.ca/y2v9GabPgcd,"Thorburn R. 1.00; Thorburn, J. 0.65; Thorson, Jos. 0.58"
+PERSON-wal-l-nichols,WAL L. NICHOLS,1908,1908,1,linked,http://id.lincsproject.ca/tgInpQb2Wp9,W.L. Nichols 1.00; Frank Nicholas 0.65
+PERSON-d-f-macdonald,D.F. MACDONALD,1908,1912,5,linked,http://id.lincsproject.ca/wVQf5YB5FD7,D.F. Macdonald 1.00; D. McDonald 0.97; Daniel McDonald 0.97
+PERSON-j-perillard,J. PERILLARD,1908,1908,1,linked,http://id.lincsproject.ca/qokRywDBnSR,Joseph Perillard 1.00
+PERSON-a-gagnon,A. GAGNON,1908,1911,3,linked,http://id.lincsproject.ca/VFU3fz0weOv,Adolphe Gagnon 1.00; J. Gagne 0.59
+PERSON-a-j-boyd,A. J. BOYD,1908,1912,5,linked,http://id.lincsproject.ca/bwPKhyjlR8d,A.J. Boyd 1.00; C.A. Boyd 0.70
+PERSON-t-o-lewis,T.O. LEWIS,1908,1908,1,no_candidate,,J.O. Lewis 0.70; J.O. Lewis 0.70; L.P. Lewis 0.65
+PERSON-e-lorenz,E. LORENZ,1908,1909,2,linked,http://id.lincsproject.ca/CSRiyOhMxwG,Ernest Lorenz 1.00
+PERSON-g-d-cox,G.D. COX,1908,1911,4,linked,http://id.lincsproject.ca/PvEEcSMkStc,G.D. Cox 1.00; Grace Cox 0.82; W.R. Cox 0.65
+PERSON-t-dowler,T. DOWLER,1908,1908,1,no_candidate,,
+PERSON-d-graham,D.GRAHAM,1909,1910,2,linked,http://id.lincsproject.ca/bVRzAsP59qH,"Duncan Graham 1.00; W. Graham 0.65; Graham, Thos 0.65"
+PERSON-jos-perillard,JOS. PERILLARD,1909,1912,4,linked,http://id.lincsproject.ca/qokRywDBnSR,Joseph Perillard 1.00
+PERSON-j-e-tremblay,J.E. TREMBLAY,1909,1910,2,linked,http://id.lincsproject.ca/C0aGyPTe4Dy,J.E. Tremblay 1.00; H.E. Tremayne 0.65
+PERSON-r-a-irving,R.A. IRVING,1909,1913,5,linked,http://id.lincsproject.ca/8xRkYbaKT6q,R.A. Irving 1.00; R.B. Irvine 0.88; A.G. Irvine 0.67
+PERSON-jas-farrell,JAS. FARRELL,1909,1909,1,ambiguous,,Jas. Farrell 1.00; J.V. Farrell 0.98
+PERSON-w-c-blewett,W. C. BLEWETT,1909,1912,2,below_gate,,"Blewtt, W.G. 0.91"
+PERSON-h-nichol,H. NICHOL,1909,1912,3,no_candidate,,W.L. Nichols 0.64; Frank Nicholas 0.63
+PERSON-urbain-verreau,URBAIN VERREAU,1909,1912,4,linked,http://id.lincsproject.ca/j77QAb0MEGQ,Urbain Verreau 1.00; J.E. Verret 0.60
+PERSON-w-b-l-donald,W.B.L. DONALD,1909,1913,4,linked,http://id.lincsproject.ca/yJIoJO9iaUp,W.B.L. Donald 1.00; John Donaldson 0.62
+PERSON-e-h-yeomans,E.H. YEOMANS,1909,1912,4,linked,http://id.lincsproject.ca/1ek2ngDMYrR,E.H. Yeomans 1.00
+PERSON-dos-laferriere,DOS. LAFERRIERE,1909,1909,1,no_candidate,,
+PERSON-geo-e-baxter,GEO. E. BAXTER,1910,1911,2,linked,http://id.lincsproject.ca/PD8b5Kk5Gno,George E. Baxter 1.00; Frank W. Baxter 0.65; J. Baxter 0.65
+PERSON-james-white,JAMES WHITE,1910,1911,2,ambiguous,,"James White 1.00; White, J. 1.00; Thomas White 0.65"
+PERSON-john-lucy,JOHN LUCY,1910,1910,1,linked,http://id.lincsproject.ca/nBPT1KiNoIG,John Lacy 0.93
+PERSON-w-g-blewett,W.G. BLEWETT,1910,1913,3,linked,http://id.lincsproject.ca/cWlnIA4sFM6,"Blewtt, W.G. 0.99"
+PERSON-iver-fougner,IVER FOUGNER,1910,1913,4,linked,http://id.lincsproject.ca/Il81w9hpqaF,Iver Fougner 1.00
+PERSON-isaac-ogden,ISAAC OGDEN,1910,1913,4,linked,http://id.lincsproject.ca/0M1OVqcdG7T,Isaac Ogden 1.00
+PERSON-c-e-e-parke,C.E.E. PARKE,1911,1911,1,linked,http://id.lincsproject.ca/7AS4WKd0Yyj,"C.E.E. Parke 1.00; Parker, C.C. 0.94; W. Parker 0.64"
+PERSON-hamilton-todd,HAMILTON TODD,1911,1911,1,linked,http://id.lincsproject.ca/NI2HN8wAV2B,"H. Todd 1.00; Todd, Chas 0.65; C. Todd 0.65"
+PERSON-murdoch-mackenzie,MURDOCH MACKENZIE,1911,1912,2,ambiguous,,M. McKenzie 0.99; M. McKenzie 0.99; J.M. McKenzie 0.69
+PERSON-j-d-mcdougall,J.D. MCDOUGALL,1911,1911,1,ambiguous,,"J. McDougall 0.98; J. McDougall 0.98; McDonald, Jas 0.92"
+PERSON-donald-macpherson-p-p,DONALD MACPHERSON. P.P,1911,1911,1,no_candidate,,W.B.L. Donald 0.65; John Donaldson 0.62
+PERSON-e-b-drummond,E.B. DRUMMOND,1911,1911,1,linked,http://id.lincsproject.ca/VY1dlO1rpPd,E.B. Drummond 1.00
+PERSON-j-robert-brown,J. ROBERT BROWN,1911,1913,3,ambiguous,,J.R. Brown 1.00; John Brown 0.98; W.R. Brown 0.70
+PERSON-s-sutherland,S.SUTHERLAND,1912,1912,1,linked,http://id.lincsproject.ca/zbRPskdy3lu,"Sutherland, S 1.00; John D. Sutherland 0.65; Jane Sutherland 0.65"
+PERSON-a-j-duncan,A.J. DUNCAN,1912,1913,2,linked,http://id.lincsproject.ca/ZFozYHCdHqW,Duncan A.J. 1.00; James D. Duncan 0.70; G.M. Duncan 0.65
+PERSON-john-r-bourchier,JOHN R. BOURCHIER,1912,1912,1,linked,http://id.lincsproject.ca/yj3tmDLMDll,John R. Bourchier 1.00; Sister Bourret 0.74; F.W.J. Bourget 0.62
+PERSON-murdoch-maclennan,MURDOCH MACLENNAN,1912,1912,1,linked,http://id.lincsproject.ca/ibKJPaX4YVV,M. McLennan 0.99; William Brown Maclean 0.62; Amelia MacLean 0.62
+PERSON-joseph-cote,JOSEPH COTE,1912,1913,2,linked,http://id.lincsproject.ca/md1JPSzzcf2,Joseph Cote 1.00; C.H. Cote 0.65; Robert Cote 0.65
+PERSON-j-a-pitre,J.A. PITRE,1912,1913,2,linked,http://id.lincsproject.ca/MUn5iiYpeaA,Jeremie Pitre 0.98
+PERSON-frank-doyle,FRANK DOYLE,1912,1913,2,linked,http://id.lincsproject.ca/CBz85RFo5wL,Frank Doyle 1.00; P.E. Doyle 0.65; Annie Doyle 0.65
+PERSON-s-p-waite,S.P. WAITE,1912,1913,2,linked,http://id.lincsproject.ca/5D8S1VU1TZM,S.P. Waite 1.00
+PERSON-n-j-smith,N.J. SMITH,1912,1913,2,linked,http://id.lincsproject.ca/1XM5NT7AJkE,"N.J. Smith 1.00; J.W. Smith 0.70; Smith, G.J. 0.70"
+PERSON-john-watson,JOHN WATSON,1912,1912,1,linked,http://id.lincsproject.ca/drha4bUKlDL,John Watson 1.00; Louis Watson 0.65; A.M. Watson 0.65
+PERSON-f-hollies,F. HOLLIES,1912,1912,1,no_candidate,,"M.D. Hollies 0.65; Hollies, J. 0.65"
+PERSON-gerald-card,GERALD CARD,1912,1912,1,linked,http://id.lincsproject.ca/EjaNhVCdFo6,"Gerald Card 1.00; Cardinal, Jas. 0.60"
+PERSON-a-j-bell,A.J. BELL,1912,1913,2,linked,http://id.lincsproject.ca/qvzkuAzoyNn,A.J. Bell 1.00; J.K.R. Bell 0.70; John Bell 0.70
+PERSON-j-a-rowland,J.A. ROWLAND,1912,1913,2,linked,http://id.lincsproject.ca/vWff7b3JfYE,J.A. Rowland 1.00
+PERSON-province-of-saskatchewan,PROVINCE OF SASKATCHEWAN,1912,1912,1,no_candidate,,
+PERSON-w-julius-hyde,W. JULIUS HYDE,1912,1913,2,linked,http://id.lincsproject.ca/d8d4pd6ko4P,W.J. Hyde 1.00
+PERSON-j-w-waddy,J.W. WADDY,1912,1913,2,linked,http://id.lincsproject.ca/OlLjhdggFzt,J.W. Waddy 1.00
+PERSON-peter-byrne,PETER BYRNE,1912,1913,2,linked,http://id.lincsproject.ca/ujG2yMWCPgI,Peter Byrne 1.00
+PERSON-w-scott-simpson,W. SCOTT SIMPSON,1912,1913,2,ambiguous,,W.S. Simpson 1.00; Wm. Simpson 0.98; S.S. Simpson 0.70
+PERSON-j-r-bourchier,J.R. BOURCHIER,1913,1913,1,linked,http://id.lincsproject.ca/yj3tmDLMDll,John R. Bourchier 1.00; Sister Bourret 0.74; F.W.J. Bourget 0.62
+PERSON-chas-w-meyers,CHAS. W. MEYERS,1913,1913,1,linked,http://id.lincsproject.ca/i4dlG33TOA4,"Myers, Chas. W 0.95"
+PERSON-patrick-rankins,PATRICK RANKINS,1913,1913,1,linked,http://id.lincsproject.ca/3XONZVhvKkC,Patrick Rankins 1.00
+PERSON-f-w-baxter,F.W. BAXTER,1913,1913,1,linked,http://id.lincsproject.ca/XU7cPWUWyw7,Frank W. Baxter 1.00; J. Baxter 0.65; George E. Baxter 0.65
+PERSON-c-a-macdougal,C.A. MACDOUGAL,1913,1913,1,linked,http://id.lincsproject.ca/u9Hvm29GUBk,Charles A. MacDougal 1.00; C.A. McDougall 0.97; H.A.J. Macdougall 0.70
+PERSON-a-r-macdonald,A.R. MACDONALD,1913,1913,1,ambiguous,,A.R. McDonald 0.99; A.R. McDonald 0.99; A. Macdonald 0.98
+PERSON-c-j-sparrow,C.J. SPARROW,1913,1913,1,linked,http://id.lincsproject.ca/WJYVlTvLLiY,C.J. Sparrow 1.00
+PERSON-j-a-johnson,J.A. JOHNSON,1913,1913,1,linked,http://id.lincsproject.ca/uW2sz2rOBfd,J.A. Johnson 1.00; J. Johnston 0.98; J. Johnston 0.98
+PERSON-n-p-freeman,N.P.FREEMAN,1913,1913,1,linked,http://id.lincsproject.ca/ca2tcRJpuod,N.P. Freeman 1.00; F.D. Freeman 0.65
+PERSON-j-p-wright,J.P. WRIGHT,1913,1913,1,linked,http://id.lincsproject.ca/GoF90WjQW0z,J.P. Wright 1.00; J.E. Wright 0.91; J.H. Wright 0.91
+PERSON-w-r-taylor,W.R. TAYLOR,1913,1913,1,ambiguous,,W.R. Taylor 1.00; W. Taylor 0.98; Ruth Taylor 0.70
+PERSON-geo-h-race,GEO. H. RACE,1913,1913,1,linked,http://id.lincsproject.ca/n4SZYhcb2i9,Race G.H. 1.00
+PERSON-chas-e-hughes,CHAS.E. HUGHES,1913,1913,1,linked,http://id.lincsproject.ca/nc9gz21ODka,C.E. Hughes 1.00; J.C. Hughes 0.70; W. Hughes 0.65
+PERSON-john-f-smith,JOHN F.SMITH,1913,1913,1,linked,http://id.lincsproject.ca/OjeQmSDqokp,"Smith, J.F. 1.00; J.W. Smith 0.91; J.W. Smith 0.91"
+PERSON-h-graham,H. GRAHAM,1913,1913,1,ambiguous,,H. Graham 1.00; Hugh M. Graham 0.98; W. Graham 0.65
+PERSON-chas-a-cox,CHAS. A. COX,1913,1913,1,linked,http://id.lincsproject.ca/ftIWFXnaJcf,C.A. Cox 1.00; Grace Cox 0.82; W.R. Cox 0.65

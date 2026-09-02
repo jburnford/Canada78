@@ -1,0 +1,54 @@
+{"row_type": "headers", "title": null, "columns": ["Voted", "Expenditure", "Difference", "Transfer"]}
+{"page": 117, "row_type": "row", "section": null, "label": "Yukon", "values": ["21,000 00", "20,430 71", "569,29", null], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": null, "label": "General", "values": ["153,500 00", "153,468 82", "31 18", null], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": null, "label": "Indian Education", "values": ["1,854,977 00", "1,854,608 86", "368 14", null], "confidence": "high"}
+{"page": 117, "row_type": "total", "section": null, "label": "Total", "values": ["3,833,058 05", "3,821,556 27", "20,571 78", "9,070 00"], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": null, "label": "Bonus", "values": [null, null, "557,891 76", null], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": null, "label": "Retirement Act, 1920", "values": [null, null, "6,003 23", null], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": null, "label": "Miscellaneous gratuities", "values": [null, null, "41 66", null], "confidence": "high"}
+{"row_type": "headers", "title": "INDIAN TRUST FUND SHOWING transaction in connection with the Fund during the year ended March 31, 1925", "columns": ["Debit ($ cts.)", "Credit ($ cts.)"]}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Balance, March 31, 1924", "values": [null, "11,931,368 74"], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Collections on land sales, timberland stone dues, rents, fines and fees", "values": [null, "872,448 74"], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Interest for year ending March 31, 1925", "values": [null, "607,466 87"], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Legislative grants to supplement the funds", "values": [null, "7,500 00"], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Outstanding cheques, 1922 - 23", "values": [null, "194 95"], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Credit transfers during the year", "values": [null, "117 00"], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Expenditure during the year", "values": ["1,294,707 13", null], "confidence": "high"}
+{"page": 117, "row_type": "row", "section": "INDIAN TRUST FUND", "label": "Balance, March 31, 1925", "values": ["12,124,389 17", null], "confidence": "high"}
+{"page": 117, "row_type": "total", "section": "INDIAN TRUST FUND", "label": "...", "values": ["13,419,096 30", "13,419,096 30"], "confidence": "high"}
+{"page": 117, "row_type": "note", "section": null, "label": "Department of Indian Affairs, Ottawa, July 13, 1925.", "values": [], "confidence": "high"}
+{"row_type": "headers", "title": "SUMMARY - SOMMAIRE REVENUE AND EXPENDITURE - REVENUS ET DÉPENSES", "columns": ["Vote", "Page", "Detail/Service", "Amount 1", "Amount 2", "Amount 3"]}
+{"page": 119, "row_type": "row", "section": null, "label": "...", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 119, "row_type": "note", "section": "REVENUE - REVENUS", "label": "REVENUE - REVENUS", "values": [], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "REVENUE - REVENUS", "label": "...", "values": ["I-3", null, "Casual Revenue - Revenu casuel", null, null, "$17,581 24"], "confidence": "high"}
+{"page": 119, "row_type": "note", "section": "EXPENDITURE - DÉPENSES", "label": "EXPENDITURE - DÉPENSES", "values": [], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "EXPENDITURE - DÉPENSES", "label": "9", "values": ["I-4", null, "Civil Government Salaries - Traitements du Gouvernement civil -", null, null, null], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "Deputy Superintendent General", null, "$8,000 00", null], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "Assistant Deputy and Secretary", null, "4,500 00", null], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "Staff", null, "132,455 97", null], "confidence": "high"}
+{"page": 119, "row_type": "total", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "...", null, "144,955 97", null], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "EXPENDITURE - DÉPENSES", "label": "9", "values": ["I-5", null, "Civil Government Contingencies - Dépenses contingentes du Gouvernement civil -", null, null, null], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "Salaries", "$1,689 29", null, null], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "Miscellaneous", "16,326 97", "18,016 26", "162,972 23"], "confidence": "high"}
+{"page": 119, "row_type": "total", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "...", null, null, "162,972 23"], "confidence": "high"}
+{"page": 119, "row_type": "note", "section": "Indians - Indiennes -", "label": "Indians - Indiennes -", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "278,465", "values": ["I-6", null, "Annuities paid under Statute - Annuités payées en vertu de la loi", null, null, "214,360 00"], "confidence": "medium"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "279", "values": ["I-7", null, "Nova Scotia - Nouvelle-Ecosse", null, null, "54,337 62"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "280", "values": ["I-8", null, "New Brunswick - Nouveau-Brunswick", null, null, "35,573 46"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "464", "values": ["I-9", null, "Prince Edward Island - Ile du Prince-Edouard", null, null, "3,923 03"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "282", "values": ["I-9", null, "Ontario and Quebec - Ontario et Québec", null, null, "254,078 35"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "...", "values": ["I - 13", null, "Manitoba, Saskatchewan, Alberta and North West Territories - Manitoba, Saskatchewan, Alberta et Territoires du Nord-Ouest", null, null, "697,788 99"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "463", "values": ["I - 26", null, "Manitoba, Saskatchewan, Alberta and North West Territories: Amount to be placed in a Special Account for expenses in the interests of the Indians, as the Treasury Board may from time to time direct - Manitoba, Saskatchewan, Alberta et Territoires du Nord-Ouest: Montant inscrit dans un compte spécial, pour être dépensé dans l'intérêt des Sauvages, suivant les instructions données de temps en temps par le Conseil du Trésor", null, null, "79,029 03"], "confidence": "medium"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "283", "values": ["I - 26", null, "British Columbia - Colombie-Britannique", null, null, "290,685 17"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "284", "values": ["I - 30", null, "Yukon - Yukon", null, null, "20,430 71"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "285", "values": ["I - 31", null, "General - En général", null, null, "153,468 82"], "confidence": "high"}
+{"page": 119, "row_type": "row", "section": "Indians - Indiennes -", "label": "286", "values": ["I - 32", null, "Indian Education - Instruction des Indiennes", null, null, "1,854,608 86"], "confidence": "high"}
+{"page": 120, "row_type": "total", "section": "Indians - Indiennes -", "label": "...", "values": [null, null, "...", null, null, "3,658,284 04"], "confidence": "high"}
+{"page": 120, "row_type": "note", "section": "Superannuation - Pensions -", "label": "Superannuation - Pensions -", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Superannuation - Pensions -", "label": "...", "values": ["I - 54", null, "Public Service Retirement Act, 1920 - Loi de retraite du Service public, 1920", null, null, "6,003 33"], "confidence": "high"}
+{"page": 120, "row_type": "total", "section": "Superannuation - Pensions -", "label": "...", "values": [null, null, "...", null, null, "6,003 33"], "confidence": "high"}
+{"page": 120, "row_type": "note", "section": "Miscellaneous - Divers -", "label": "Miscellaneous - Divers -", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Miscellaneous - Divers -", "label": "...", "values": ["I - 52", null, "Gratuities paid under Statute - Gratifications payées en vertu de la loi", null, "41 66", null], "confidence": "high"}
+{"page": 120, "row_type": "row", "section": "Miscellaneous - Divers -", "label": "363", "values": ["I - 52", null, "Provisional Bonus Allowance - Boni provisoire de cherté de vie", null, "57,891 76", null], "confidence": "high"}
+{"page": 120, "row_type": "total", "section": "Miscellaneous - Divers -", "label": "...", "values": [null, null, "...", null, null, "57,933 42"], "confidence": "high"}
+{"page": 120, "row_type": "total", "section": "EXPENDITURE - DÉPENSES", "label": "...", "values": [null, null, "Total Expenditure, Consolidated Fund - Total des Dépenses, Fonds consolidé", null, null, "3,885,193 0 (last digit illegible)"], "confidence": "medium"}

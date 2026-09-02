@@ -1,0 +1,82 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 2. - GRAIN, VEGETABLE AND ROOT PRODUCTION.
+
+                                                                         Peas,
+                                                        Other                                                    Other
+Agencies.      Wheat. ...           Oats. ...                   ...      Beans, ...          Potatoes. ...              ...      Fodder.   ...     ...
+                                                        Grains.                                                  Roots.
+                                                                         etc.
+               Acres                Acres                Acres Bush.     Acres                Acres    Bush.     Acres Bush.     Hay        Hay Other
+...                  Bush.Harvested       Bush.Harvested                       Bush.Harvested
+               Sown.                Sown.                Sown. Harvested Sown.                Sown.    Harvested Sown. Harvested Cultivat'd Wild Fodder
+...            ...     ...          ...    ...          ...     ...      ...     ...         ...       ...       ...   ...       Tons.      Tons. Tons.
+
+               ...     ...          ...    ...          ...     ...      ...     ...         ...       ...       ...    ...      ...       ...     ...
+ALBERTA.
+*Blackfoot     3,338 9,756          1,018 381           ...     ...      ...     ...         1         20        ...    ...      ...       6,000 ...
+*Blood         3,100 5,000          560 340             1,120   300      ...     ...         3         350       ...    ...      ...       10,000 300
+*Edmonton      261   604            1,841 32,380        686     12,161   ...     ...         61        1,466     ...    ...      543       1,640 567
+Hobbema        101   629            2,492 37,588        335     2,822    ...     ...         23        1,240     14     574      ...       5,126 ...
+Lesser Slave
+               30      535          53     1,735        7       150      ...     ...         49        2,360     10     1,180    ...       2,494 2,973
+Lake
+*Peigan       1,798    114          860 ...             ...     ...      ...    ...          10        248       ...    ...      ...       286    ...
+Saddle Lake 264        2,426        563 10,433          23      325      ...    ...          14        840       8      80       ...       3,395 ...
+Sarcee        75       750          469 1,610           10      150      ...    ...          1/2       145       ...    ... 
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+       1,196   4,450        20      102      ...    ...          23        113      6      128      ...       10,569 496
+Carlton             606     5,323       816     5,920        39      188      ...    ...          39        396      12     92       ...       3,786 1,089
+Crooked Lake        1,822   28,514      1,054   23,369       57      412      ...    ...          16        2,570    ...    ...      ...       2,112 109
+Duck Lake           860     9,500       470     8,100        90      875      ...    ...          15        1,150    ...    ...      ...       4,455 60
+File Hills Agency   235     3,253       355     6,027        30      300      ...    ...          8         1,095    8      1,010    ...       1,563 130
+File Hills Colony   545     8,891       1,805   34,420       70      768      ...    ...          6         1,000    3      200      ...       300    585
+Moose Mountain      812     7,374       299     2,722        ...     ...      ...    ...          6         700      ...    ...      ...       674    660
+Moose Woods         35      555         72      935          ...     ...      ...    ...          10        524      ...    ...      ...       1,000 34
+Onion Lake          424     1,074       713     9,866        38      132      ...    ...          .16       310      3      169      ...       3,193 406
+Pelly               43      663         2,177   46,617       111     1,823    ...    ...          11        555      ...    ...      ...       1,956 60
+
+
+
+=== EXTRACT FROM HERE (pages 80-82) ===
+<!-- page 80 -->
+Qu'Appelle      1,774 19,544    1,254 15,379     ...   ...     ...   ...   9         1,151    3 1/2 219      ...   3,103 229
+Touchwood       1,104 12,232    1,999 23,992     92    307     ...   ...   9 1/4     1,295    14 3/4 787     ...   3,356 2,797
+Wood Mountain   ...   ...       10     ...       ...   ...     3     8     5 1/2     135      2 1/2 17       ...   260    ...
+Total           9,691 104,724   12,973 192,572   547   4,907   3     8     185 3/4   12,794   52 3/4 2,622   ...   38,172 7,395
+
+<!-- page 81 -->
+RECAPITULATION.
+
+                                                                                 Peas,
+                                                               Other                                                  Other
+Provinces.     Wheat. ...              Oats.   ...                     ...       Beans, ...       Potatoes. ...              ...      Fodder.   ...    ...
+                                                               Grains.                                                Roots.
+                                                                                 etc.
+               Acres                Acres                Acres Bush.     Acres                Acres         Bush.     Acres Bush.     Hay        Hay Other
+...                  Bush.Harvested       Bush.Harvested                       Bush.Harvested
+               Sown.                Sown.                Sown. Harvested Sown.                Sown.         Harvested Sown. Harvested Cultivat'd Wild Fodder
+...            ...     ...             ...   ...               ...     ...       ...     ...      ...       ...       ...   ...       Tons.      Tons. Tons.
+*Alberta       8,967   19,814          7,856 84,467            2,181   15,908    ...     ...      164 1/2   6,669     42    1,874     578        30,678 4,140
+British                                                                                           2,670               902
+               2,295   35,158          5,213 110,830           175     4,786     941     24,634             310,238          40,850   15,057    6,395 1,708
+Columbia                                                                                          3/4                 3/4
+Manitoba       4,781   55,791          2,369 49,866            1,363   23,788    27      507      438       36,833    45     2,459    100       14,502 1,267
+New                                    118
+               27      224                     1,878           21 1/2 268        13 3/4 209       217       3,888     10 1/2 761      161       66     25
+Brunswick                              1/2
+Nova Scotia    5       73              66 1/2 1,655            l8 1/2 300        14 1/2 122       137       6,135     47     2,091    693       196    44
+Ontario      2,494 35,140              11,850 348,755          3,695   66,478    645     7,880    1,972     90,530    1,411 33,913    26,564    1,996 12,709
+Prince
+Edward       5     75                  40      540             ...     ...       1/4    4         15        1,150     1/4    25       55        35    ...
+Island
+Quebec       379   4,885               2,681 55,853            1,136   11,413    328    4,006     944       51,214    121    5,967    3,288     377    958
+Saskatchewan 9,691 104,724             12,973 192,572          547     4,907     3      8         185 3/4   12,794    52 3/4 2,622    ...       38,172 7,395
+                                                                                 1,972                                2,632
+Total          28,644 255,884          43,167 846,416          9,137   127,848         37,430     6,744     519,451         90,562    46,496    92,417 28,246
+                                                                                 1/2                                  1/2
+
+[*Drought and frost caused almost complete failure in wheat crop.]
+
+<!-- page 82 -->

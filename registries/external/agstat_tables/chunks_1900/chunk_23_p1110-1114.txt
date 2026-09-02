@@ -1,0 +1,299 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province, Name of     Resident                                                                              From 65
+                                                  From 6 to 15,                           From 21 to 65,
+ Agency Superintendent Indian      Under 6 years.               From 16 to 20, inclusive.                    years    ... ... Male. Female.
+                                                  inclusive.                              inclusive.
+ or Band. or Agent.    Population.                                                                           upwards.
+
+Male.     Female.       Male.       Female. Male. Female. Male. Female.                    ...         ...   ...   ...
+                                                                          ONTARIO.
+                                                                          Grand River
+...       ...           ...         ...     ...   ...     ...    ...      Superintendency ...          ...   ...   ...
+                                                                          -
+                                                                                          E.D.
+...       ...           ...         ...     ...   ...     ...    ...      Six Nations     Cameron,     3,988 220 292
+                                                                                          Supt.
+                                                                                           W.B.
+                                                                          Parry (Sound
+408       398           208         199     1,094 1,023   69     77                        Maclean,    859   63    64
+                                                                          )Superintendency
+                                                                                           Supt.
+                                                                          New Credit       Hugh
+94        90            38          43      206   255     3      3        (Mississaguas) Stewart,      248   20    14
+                                                                          Agency           Agent
+                                                                                           Alex.
+                                                                          Walpole Island
+34        18            8           9       62    66      11     6                     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+       404       52       6     21        ...   27    240   108     ...         ...   ...
+                 Agent
+River Agency
+Total            ...              7,475     4,766 4,088 222          148   702   2,792 2,725   1,154       1,000 95
+
+                 ...              ...       ...      ...   ...       ...   ...   ...   ...     ...         ...   ...
+MANITOBA.
+Clandeboye       E. McColl,
+                                  127       91       14    17        102   76    181   166     10          ...   ...
+Agency           Inspector
+Portage la       S. Swinford,
+                                  66        77       31    4         30    4     31    20      ...         ...   1
+Prairie Agency   Agent
+Manitowapah      S. Swinford,
+                                  116       81       72    15        55    107   336   412     8           ...   1
+Agency           Agent
+Rat Portage      L.J.A. Leveque,
+                                 2          2        ...   ...       ...   ...   ...   ...     ...         ...   ...
+Agency           Inspector
+Berens River     J.W. Short,
+                                  ...       13       2     11        39    77    168   108     ...         ...   ...
+Agency           Agent
+               Joseph
+The Pas Agency Courtney,          10        12       6     8         16    9     86    55      ...         ...   ...
+               Agent
+Total          ...                321       276      125   55        242   273   801   761     18          ...   2
+
+
+
+=== EXTRACT FROM HERE (pages 1110-1114) ===
+<!-- page 1110 -->
+                                                                         Value of
+                Name of                                                  Live
+Province,                                                                         GENERAL
+                Superintendent      LIVE STOCK AND POULTRY. - Concluded. Stock
+Agency or Band.                                                                   EFFECTS.
+                or Agent.                                                and
+                                                                         Poultry
+Other Stock - Con.                  Poultry.                ...
+                                                                           Cocks
+                                    Sows,                                                Sail Row
+...               ...                         Pigs. Turkeys. Geese. Ducks. and ...                     Canoes.
+                                    Breeding.                                            Boats. Boats.
+                                                                           Hens.
+
+NOVA              ...               ...      ...   ...     ...    ...    ...    $ cts.   ...   ...    ...
+SCOTIA.
+Annapolis         Geo. Wells,
+                                    ...      ...   ...     ...    ...    6      90 00    ...   ...    7
+County            Agent
+Shelburne         J.E. de Molitor,
+                                   ...       ...   ...     ...    ...    32     50 00    ...   4      1
+County            Agent
+                  J.H. Purdy,
+Digby County                        ...      ...   ...     ...    ...    10     61 00    ...   ...    11
+                  Agent
+Yarmouth          W.H. Whalen,
+                                    ...      ...   ...     ...    ...    ...    ...      ...   ...    4
+County            Agent
+                  C.E. Beckwith,
+King's County                    ...         ...   ...     ...    ...    ...    50 00    ...   ...    ...
+                  Agent
+Queen's and
+                  Chas. Harlow,
+Lunenburg                           ...      6     10      12     6      25     750 00   ...   ...    10
+                  Agent
+Counties
+                  Rev. C.E.
+Halifax County    McManus,          ...      ...   ...     ...    ...    10     40 00    ...   2      ...
+                  Agent
+                  A. Wallace,
+Hants County                        1        4     ...     ...    ...    30     750 00   ...   ...    5
+                  Agent
+Colchester        Thos. B. Smith,
+                                  ...        ...   ...     ...    ...    ...    44 00    ...   ...    ...
+County            Agent
+Cumberland        F.A. Rand,
+                                    ...      2     ...     ...    ...    25     250 00   ...   1      3
+County            M.D., Agent
+                  Rev. R.
+Pictou County     McDonald,         ...      ...   ...     ...    ...    3      225 50   1     10     ...
+                  Agent
+Antigonish and
+                  J.R. McDonald,
+Guysborough                      ...         ...   ...     ...    ...    50     225 00   1     3      ...
+                  Agent
+Counties
+Richmond          Rev. J. Fraser,
+                                    ...      ...   ...     ...    ...    55     523 00   7     10     ...
+County            Agent
+Inverness         Rev. D.
+                                 ...         ...   ...     ...    2      50     600 00   3     13     ...
+County            McIsaac, Agent
+                  A.J. McDonald,
+Victoria County                  ...         2     ...     ...    ...    120    470 00   1     10     ...
+                  Agent
+Cape Breton       Rev. A.
+
+<!-- page 1111 -->
+                            ...     ...   ...   ...   ...   20      100 00   2     3     ...
+County       Cameron, Agent
+Total        ...            1       14    10    12    8     446     4,228 50 15    56    41
+
+BRITISH      ...              ...   ...   ...   ...   ...   ...     ...      ...   ...   ...
+COLUMBIA.
+Cowichan     W.R. Robertson,                                        37,385
+                             2      60    8     155   290   3,310            192   ...   430
+Agency       Agent                                                  00
+West Coast   J.J.E. de
+                              ...   ...   ...   ...   10    558     2,981 00 12    11    1,346
+Agency       Molitor, Agent
+Kwawkewlth   R.H. Pidcock,
+                              8     44    ...   ...   10    659     645 00   9     24    470
+Agency       Agent
+
+<!-- page 1112 -->
+                                                                                 Value of
+Province,        Name of                                                         Live
+                                                                                          GENERAL
+Agency or        Superintendent LIVE STOCK AND POULTRY. - Concluded.             Stock
+                                                                                          EFFECTS.
+Band.            or Agent.                                                       and
+                                                                                 Poultry
+Other Stock - Con.                Poultry.                       ...
+                                                                         Cocks
+                                  Sows,                                                    Sail Row
+...              ...                        Pigs. Turkeys. Geese. Ducks. and   ...                       Canoes.
+                                  Breeding.                                                Boats. Boats.
+                                                                         Hens.
+Lower Fraser     Frank Devlin,                                                   63,565
+                                  257        1,978 ...    20     935     2,930             61    148    453
+Agency           Agent                                                           00
+Williams Lake                                                                    85,580
+                 E. Bell, Agent   55         435    10    5      8       1,795             ...   18     105
+Agency                                                                           00
+Kamloops -
+                                                                                 131,744
+Okanagan         A. Irwin, Agent 243         555    ...   3      24      2,370           2       48     145
+                                                                                 50
+Agency
+                 R.L.T.
+Kootenay                                                                         76,465
+                 Galbraith,       ...        ...    ...   ...    ...     76                ...   ...    35
+Agency                                                                           00
+                 Agent
+Northwest Coast
+                C. Todd, Agent 6             20     ...   ...    ...     2,115 5,471 00 278      294    1,542
+Agency
+Babine and
+                 R.E. Loring,                                                    43,085
+Upper Skeena                      ...        ...    ...   ...    ...     ...               ...   ...    336
+                 Agent                                                           00
+River Agency
+                                                                                 446,921
+Total            ...              571        3,092 18     183    1,277 13,813            554     543    4,862
+                                                                                 50
+
+                 ...              ...        ...    ...   ...    ...     ...     ...       ...   ...    ...
+MANITOBA.
+Clandeboye       E. McColl,                                                      26,747
+                                  ...        78     ...   ...    ...     1,124             29    187    57
+Agency           Inspector                                                       00
+Portage la       S. Swinford,
+                                  1          2      ...   ...    ...     12      5,800 00 ...    ...    7
+Prairie Agency   Agent
+Manitowapah      S. Swinford,                                                    26,205
+                                  4          13     ...   ...    ...     200               21    71     99
+Agency           Agent                                                           00
+Rat Portage      L.J.A. Leveque,
+                                 ...         ...    ...   ...    ...     ...     80 00     ...   ...    17
+Agency           Inspector
+Berens River     J.W. Short,                                                     11,405
+                                  ...        10     ...   ...    ...     ...               18    286    223
+Agency           Agent                                                           00
+               Joseph
+The Pas Agency Courtney,          ...        ...    ...   ...    ...     ...     4,665 00 ...    18     229
+               Agent
+                                                                                 74,902
+Total            ...              5          103    ...   ...    ...     1,336             68    562    632
+                                                                                 00
+
+<!-- page 1113 -->
+                      Name of                                                                    Value of Real
+Province, Agency or                                                                    HOUSEHOLD
+                      Superintendent or    GENERAL EFFECTS.                                      and Personal
+Band.                                                                                  EFFECTS.
+                      Agent.                                                                     Property.
+                                                     Shot        Steel         Value
+...                   ...                  Rifles.         Nets.        Tents.       Value of.     ...
+                                                     Guns.       Traps.        of.
+
+                      ...                  ...       ...   ...   ...   ...    $ cts.   $ cts.      $ cts.
+NOVA SCOTIA.
+Annapolis County      Geo. Wells, Agent 4            10    8     18    ...    135 00 100 00        1,950 00
+                      J.E. de Molitor,
+Shelburne County                           3         6     ...   ...   ...    130 00 140 00        1,670 00
+                      Agent
+Digby County          J.H. Purdy, Agent    9         6     ...   20    3      340 00 300 00        2,652 00
+                      W.H. Whalen,
+Yarmouth County                            ...       8     ...   15    8      100 00 75 00         175 00
+                      Agent
+                      C.E. Beckwith,
+King's County                              ...       10    ...   ...   ...    50 00 200 00         400 00
+                      Agent
+Queen's and           Chas. Harlow,
+                                           6         12    ...   25    6      180 00 250 00        6,000 00
+Lunenburg Counties    Agent
+                      Rev. C.E.
+Halifax County                             ...       5     ...   ...   ...    60 00 155 00         Not given.
+                      McManus, Agent
+Hants County          A. Wallace, Agent 2            20    2     90    ...    700 00 200 00        4,000 00
+                      Thos. B. Smith,
+Colchester County                          3         12    ...   20    ...    78 00 150 00         1,526 50
+                      Agent
+                      F.A. Rand, M.D.,
+Cumberland County                          6         20    ...   50    ...    150 00 400 00        3,375 00
+                      Agent
+                      Rev. R. McDonald,
+Pictou County                           4            13    6     11    1      250 00 165 00        415 00
+                      Agent
+Antigonish and
+                      J.R. McDonald,                                          Not
+Guysborough                                ...       50    3     ...   ...           700 00        4,975 00
+                      Agent                                                   given.
+Counties
+                      Rev. J. Fraser,
+Richmond County                            ...       7     ...   10    ...    765 00 100 00        865 00
+                      Agent
+                      Rev. D. McIsaac,
+Inverness County                           ...       16    5     72    ...    215 00 655 00        9,385 00
+                      Agent
+                      A.J. McDonald,
+Victoria County                            ...       10    1     50    ...    360 00 500 00        11,790 00
+                      Agent
+                      Rev. A. Cameron,
+Cape Breton County                         ...       5     ...   40    ...    250 00 1,700 00      3,000 00
+                      Agent
+                                                                              3,763
+Total                 ...                  37        210   25    421   18           5,790 00       52,178 50
+                                                                              00
+
+BRITISH               ...                  ...       ...   ...   ...   ...    ...      ...         ...
+COLUMBIA.
+                      W.R. Robertson,                                         22,680
+Cowichan Agency                            346       300   55    12    117           31,675 00     788,858 00
+                      Agent                                                   00
+                      J.J.E. de Molitor,                                      35,886
+West Coast Agency                          84        425   81    218   123           34,700 00     185,148 00
+                      Agent                                                   00
+
+<!-- page 1114 -->
+                      R.H. Pidcock,                                       13,576
+Kwawkewlth Agency                         109   223   100   1,013 ...            59,220 00   124,578 00
+                      Agent                                               50
+                      Frank Devlin,                                       42,506
+Lower Fraser Agency                       428   457   146   1,237 408            57,558 00   1,065,659 50
+                      Agent                                               80
+Williams Lake                                                             12,616
+                      E. Bell, Agent      409   125   156   1,240 211            13,739 00   328,558 00
+Agency                                                                    00
+Kamloops - Okanagan                                                       21,285
+                    A. Irwin, Agent       685   277   470   1,526 1,035          45,850 00   1,996,913 00
+Agency                                                                    00
+                      R.L.T. Galbraith,                                   2,945
+Kootenay Agency                           138   18    ...   70     116          2,325 00     245,310 00
+                      Agent                                               00
+

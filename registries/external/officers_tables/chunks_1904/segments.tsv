@@ -1,0 +1,13 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0969-return-a-1	RETURN A (1)	969	971
+01	p0974-return-a-1-ontario	RETURN A (1) — Ontario	974	977
+02	p0977-return-a-1-quebec	RETURN A (1) — Quebec	977	977
+03	p0978-return-a-1-quebec	RETURN A (1) — Quebec	978	978
+04	p0978-return-a-1-new-brunswick	RETURN A (1) — New Brunswick	978	980
+05	p0980-return-a-1-nova-scotia	RETURN A (1) — Nova Scotia	980	981
+06	p0982-return-a-1-nova-scotia	RETURN A (1) — Nova Scotia	982	982
+07	p0982-return-a-1-prince-edward-islan	RETURN A (1) — Prince Edward Island	982	987
+08	p0982-return-a-1-prince-edward-islan	RETURN A (1) — Prince Edward Island	988	993
+09	p0982-return-a-1-prince-edward-islan	RETURN A (1) — Prince Edward Island	994	997
+10	p1042-return-a-1-cont	RETURN A (1) (cont.)	1042	1042
+11	p1162-return-a-1-cont	RETURN A (1) (cont.)	1162	1162

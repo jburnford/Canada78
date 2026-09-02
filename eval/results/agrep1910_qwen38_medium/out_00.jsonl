@@ -1,0 +1,63 @@
+{"row_type": "headers", "title": "INDIAN TRUST FUND. SHOWING transactions in connection with the Fund during the year ended March 31, 1910.", "columns": ["Debit ($ cts.)", "Credit ($ cts.)"]}
+{"page": 999, "row_type": "row", "section": null, "label": "Balance, March 31, 1909.", "values": [null, "6,022,187 08"], "confidence": "high"}
+{"page": 999, "row_type": "row", "section": null, "label": "Collections on land sales; timber and stone dues; rents, fines and fees.", "values": [null, "558,011 08"], "confidence": "high"}
+{"page": 999, "row_type": "row", "section": null, "label": "Interest for year ended March 31, 1909, on above balance", "values": [null, "225,768 94"], "confidence": "high"}
+{"page": 999, "row_type": "row", "section": null, "label": "Legislative grants to supplement the funds", "values": [null, "23,824 41"], "confidence": "high"}
+{"page": 999, "row_type": "row", "section": null, "label": "Outstanding cheques for 1907-8", "values": [null, "551 23"], "confidence": "high"}
+{"page": 999, "row_type": "row", "section": null, "label": "Expenditure during the year 1909-10", "values": ["546,901 48", null], "confidence": "high"}
+{"page": 999, "row_type": "row", "section": null, "label": "Balance, March 31, 1910", "values": ["6,283,441 26", null], "confidence": "high"}
+{"page": 999, "row_type": "total", "section": null, "label": "...", "values": ["6,830,342 74", "6,830,342 74"], "confidence": "high"}
+{"page": 999, "row_type": "note", "section": null, "label": "For further details of the foregoing expenditure from the Consolidated Fund and the Indian Trust Fund, see Part I of the Auditor General's report.", "values": [null, null], "confidence": "high"}
+{"row_type": "headers", "title": "Summary of Expenditure.", "columns": ["Page reference", "Amount ($ cts.)", "Total ($ cts.)"]}
+{"page": 1001, "row_type": "row", "section": null, "label": "Civil Government - Salaries", "values": ["(Page I - 3)", "106,625 34", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": null, "label": "Civil Government - Contingencies", "values": ["(Page I - 5)", "12,316 17", null], "confidence": "high"}
+{"page": 1001, "row_type": "total", "section": null, "label": "...", "values": [null, null, "118,941 51"], "confidence": "high"}
+{"page": 1001, "row_type": "note", "section": null, "label": "Indians - Ontario and Quebec -", "values": [null, null, null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief, medical attendance and medicines, Quebec", "values": ["(Page I - 5)", "11,025 63", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief, medical attendance and medicines, Ontario", "values": ["(Page I - 7", "9,677 52", null], "confidence": "medium"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Blankets and clothing, Ontario and Quebec", "values": ["(Page I - 8)", "478 59", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Salaries of chief at Gibson and agent at St. Regis", "values": ["(Page I - 8)", "100 00", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Robinson treaty annuities", "values": ["(Page I - 8)", "12,450 00", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Surveys", "values": ["(Page I - 8)", "4,295 06", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Indian Land Management Fund", "values": ["(Page I - 9)", "10,000 00", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Grant for Agricultural Society", "values": ["(Page I - 9)", "90 00", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "General legal expenses", "values": ["(Page I - 9)", "5,042 10", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Treaty 9, annuities and administration", "values": ["(Page I - 9)", "12,519 35", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Improvements on Caughnawaga Reserve", "values": ["(Page 1 - 10)", "974 52", null], "confidence": "medium"}
+{"page": 1001, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Schools, Maritime Provinces, Ontario and Quebec", "values": ["(Page I - 10)", "73,223 08", null], "confidence": "high"}
+{"page": 1001, "row_type": "total", "section": "Indians - Ontario and Quebec -", "label": "...", "values": [null, null, "139,875 85"], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": null, "label": "Indians - Nova Scotia", "values": ["(Page I - 13)", null, "12,308 29"], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": null, "label": "Indians - New Brunswick", "values": ["(Page I - 16)", null, "9,212 83"], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": null, "label": "Indians - Prince Edward Island", "values": ["(Page I - 17)", null, "1,974 82"], "confidence": "high"}
+{"page": 1001, "row_type": "note", "section": null, "label": "Indians - Manitoba, Saskatchewan, Alberta and Northwest Territories -", "values": [null, null, null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Expenses of agencies and schools", "values": ["(Page 1 - 18)", "837,357 60", null], "confidence": "medium"}
+{"page": 1001, "row_type": "row", "section": "Indians - Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Sioux", "values": ["(Page 1 - 64)", "9,097 19", null], "confidence": "medium"}
+{"page": 1001, "row_type": "row", "section": "Indians - Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Surveys", "values": ["(Page 1 - 65)", "15,108 01", null], "confidence": "medium"}
+{"page": 1001, "row_type": "total", "section": "Indians - Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "...", "values": [null, null, "861,562 80"], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": null, "label": "Indians - Yukon Territory", "values": ["(Page I - 65)", null, "8,277 66"], "confidence": "high"}
+{"page": 1001, "row_type": "note", "section": null, "label": "Indians - British Columbia -", "values": [null, null, null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - British Columbia -", "label": "Expenses of agencies and schools", "values": ["(Page I - 68)", "177,209 56", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - British Columbia -", "label": "Surveys and reserve commission", "values": ["(Page 1 - 79)", "1,109 92", null], "confidence": "medium"}
+{"page": 1001, "row_type": "row", "section": "Indians - British Columbia -", "label": "Cleansing Indian orchards", "values": ["(Page I - 79)", "1,488 05", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - British Columbia -", "label": "Partition of Northwest Coast Agency", "values": ["(Page I - 80)", "1,221,21", null], "confidence": "medium"}
+{"page": 1001, "row_type": "total", "section": "Indians - British Columbia -", "label": "...", "values": [null, null, "181,028 74"], "confidence": "high"}
+{"page": 1001, "row_type": "note", "section": null, "label": "Indians - General -", "values": [null, null, null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - General -", "label": "Salaries of superintendent and inspector", "values": ["(Page I - 80)", "2,300 00", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - General -", "label": "Travelling expenses and clerical assistance", "values": ["(Page I - 80)", "1,001 38", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - General -", "label": "Prevention of the spread of tuberculosis", "values": ["(Page I - 80)", "3,297 51", null], "confidence": "high"}
+{"page": 1001, "row_type": "row", "section": "Indians - General -", "label": "Compensation re surrender of lands by Indians", "values": ["(Page I 81)", "50,000 00", null], "confidence": "medium"}
+{"page": 1002, "row_type": "row", "section": "Indians - General -", "label": "Relief supplies to Indians in remote districts", "values": ["(Page I - 81)", "9,989 51", null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Indians - General -", "label": "Printing and stationery, & c., outside service", "values": ["(Page I 81)", "6,575 03", null], "confidence": "medium"}
+{"page": 1002, "row_type": "total", "section": "Indians - General -", "label": "...", "values": [null, null, "73,163 43"], "confidence": "high"}
+{"page": 1002, "row_type": "note", "section": null, "label": "Miscellaneous -", "values": [null, null, null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Miscellaneous -", "label": "Gratuities under statute", "values": ["(Page I - )", null, "425 00"], "confidence": "medium"}
+{"page": 1002, "row_type": "total", "section": "Miscellaneous -", "label": "...", "values": [null, null, "1,406,770 93"], "confidence": "high"}
+{"page": 1002, "row_type": "note", "section": null, "label": "Indian Trust Fund -", "values": [null, null, null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Summary of balances", "values": ["(Page 1 - 82)", null, null], "confidence": "medium"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Summary of accounts", "values": ["(Page I 83)", null, null], "confidence": "medium"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Tribal accounts", "values": ["(Page I - 93)", null, null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Five per cent Annuity Account", "values": ["(Page I - 156)", null, null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Province of Quebec Land Fund", "values": ["(Page I - 156)", null, null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Land Management Fund", "values": ["(Page I - 156)", null, null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Savings Account", "values": ["(Page I - 160)", null, null], "confidence": "high"}
+{"page": 1002, "row_type": "row", "section": "Indian Trust Fund -", "label": "Prevention of Liquor Traffic", "values": ["(Page I - 161)", null, null], "confidence": "high"}

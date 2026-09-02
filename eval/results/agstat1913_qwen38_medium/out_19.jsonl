@@ -1,0 +1,92 @@
+{"row_type": "headers", "title": "AGRICULTURAL AND INDUSTRIAL STATISTICS - REALTY OF INDIANS - STATEMENT FOR THE YEAR ENDED MARCH 31, 1913.", "columns": ["Cleared but not under Cultivation (Acres)", "Under actual Cultivation (Acres)", "Total Value of Lands in Reserve ($ cts.)", "Number engaged in Farming", "Number engaged in Hunting, Trapping and Fishing", "Number engaged in other Industries", "Number engaged in Stock Raising"]}
+{"page": 1131, "row_type": "note", "section": null, "label": "ALBERTA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Blackfoot", "values": ["170,330", "1,950", "2,797,280 00", "70", null, null, "125"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Blood", "values": ["345,426", "3,900", "5,306,990 00", "51", null, null, "305"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Edmonton", "values": ["36,888", "1,842", "1,176,928 00", "58", "70", "43", "67"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Hobbema", "values": ["138", "1,156", "408,155 00", "98", "102", "50", "2"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Lesser Slave Lake", "values": ["11,460", "40", "152,000 00", null, "40", "1", "24"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Peigan", "values": ["90,516", "3,022", "972,600 00", "70", null, null, "125"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Saddle Lake", "values": ["78,631", "1,569", "565,478 00", "112", "192", null, "125"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Sarcee", "values": ["58,120", "218", "1,099,596 00", "10", "16", "6", "23"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "ALBERTA.", "label": "Stony", "values": ["44,365", "355", "207,905 00", "50", "100", "100", "82"], "confidence": "high"}
+{"page": 1131, "row_type": "total", "section": "ALBERTA.", "label": "Total", "values": ["835,874", "14,052", "12,686,932 00", "519", "520", "200", "948"], "confidence": "high"}
+{"page": 1131, "row_type": "note", "section": null, "label": "BRITISH COLUMBIA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Babina and Upper Skeena", "values": ["7,711", "790", "56,308 00", null, "81", "520", "28"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Coola", "values": ["230", "34", "183,460 00", "10", "396", "249", "5"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cassiar (Stickine)*", "values": [null, "400", null, null, "151", null, "7"], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan", "values": ["5,403", "3,272", "1,652,375 00", "57", null, "382", null], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kam", "values": [null, null, null, null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": null, "label": "Bourget, Rev. P. (R.C.)", "values": ["Missionary", "125 00 and 25 00 for fuel", "St. Regis", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "note", "section": null, "label": "NEW BRUNSWICK.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 1131, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Ryan, Rev. J.J.", "values": ["Supt. of Indian Schools", "400 00", "St. Marys", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "...", "values": ["North Eastern Division.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Irving, R.A.", "values": ["Indian Supt.", "800 00", "Buctouche", "Eel River, Bathurst, Burnt Church, Eel Ground, Red Bank, Big Cove, Indian Island, Buctouche.", null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Coleman, H.H., M.D.", "values": ["Medical Officer", "200 00", "Moncton", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Desmond, F.J., M.D.", "values": ["Medical Officer", "300 00", "Newcastle", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Ferguson, A.C., M.D.", "values": ["Medical Officer", "50 00", "Dalhousie", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Girvan, Robt., M.D.", "values": ["Medical Officer", "300 00", "Rexton", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "King, Wallace G., M.D.", "values": ["Medical Officer", "40 00", "Buctouche", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Leger, J.A., M.D.", "values": ["Medical Officer", "200 00", "Shediac", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Michaud, J.N., M.D.", "values": ["Medical Officer", "100 00", "Bathurst", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "McKenzie, J.D., M.D.", "values": ["Medical Officer", "200 00", "Loggieville", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Teed, J.E., M.D.", "values": ["Medical Officer", "150 00", "Dorchester", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Bannon, Rev. E.J.", "values": ["Missionary (R.C.)", "100 00", "Richibucto", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Brown, Jno", "values": ["Constable", "50 00", "Buctouche", null, null, null, null], "confidence": "low"}
+{"page": 1131, "row_type": "row", "section": "North Eastern Division.", "label": "Levi, Wm. P.", "values": ["Constable", "25 00", "Big Cove", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "...", "values": ["Northeastern Division - Con.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1132, "row_type": "row", "section": "Northeastern Division - Con.", "label": "Narvie, Wm", "values": ["Constable", "20 00", "Dalhousie", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Northeastern Division - Con.", "label": "Paul, Louis P.", "values": ["Constable", "25 00", "Red Bank", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Northeastern Division - Con.", "label": "Swasson, John", "values": ["Constable", "24 00", "Burnt Church", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "...", "values": ["Northern Division", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1132, "row_type": "row", "section": "Northern Division", "label": "Waite, S.P.", "values": ["Indian Agent", "350 00", "Andover", "Edmundston and Tobique.", null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Northern Division", "label": "Guy, J.A., M.D.", "values": ["Medical Officer", "Accounts rendered", "Edmundston", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Northern Division", "label": "Willing, F.N., M.D.", "values": ["Medical Officer", "400 00", "Andover", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Northern Division", "label": "Ryan, Rev. F.C.", "values": ["Missionary (R.C.)", "350 00", "Tobique", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Northern Division", "label": "Ellis, Jos", "values": ["Constable", "180 00", "Andover", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "note", "section": "NEW BRUNSWICK.", "label": "...", "values": ["Southwestern Division", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Smith, N.J.", "values": ["Indian Agent", "450 00 and 50 00 for office rent", "Fredericton", "St. Mary's, Oromocto, Kingsclear and Woodstock.", null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Falkins, H.C., M.D.", "values": ["Medical Officer", "200 00", "Norton", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Mulligan, B.M., M.D.", "values": ["Medical Officer", "300 00", "St. Mary's Ferry", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Patterson, F.P., M.D.", "values": ["Medical Officer", "Accounts rendered", "Westfield", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Peake, J.H., M.D.", "values": ["Medical Officer", "125 00", "Fredericton", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Sprague, T.F., M.D.", "values": ["Medical Officer", "150 00", "Woodstock", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Case, Mayes, M.D.", "values": ["Medical Officer", "Accounts rendered", "St. John", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "Caswell, J.A., M.D.", "values": ["Medical Officer", "Accounts rendered", "Upper Gagetown", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Southwestern Division", "label": "McDonald, M.H., M.D.", "values": ["Medical Officer", "Accounts rendered", "Hampstead", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "note", "section": null, "label": "NOVA SCOTIA.", "values": [null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 1132, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Annapolis County.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1132, "row_type": "row", "section": "Annapolis County.", "label": "Brook, S.", "values": ["Constable", "180 00", "St. Mary's River", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Annapolis County.", "label": "Boyd, A.J.", "values": ["Inspector of Indian Agencies Maritime Provinces", "1,600 00", "Bourgeois", null, null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Annapolis County.", "label": "Hoyt, Geo", "values": ["Indian Agent", "50 00", "Lequille", "Liverpool Road, Fairy Lake.", null, null, null], "confidence": "low"}
+{"page": 1132, "row_type": "row", "section": "Annapolis County.", "label": "Miller, S.N., M.D.", "values": ["Medical Officer", "50 00", "Middleton", null, null, null, null], "confidence": "low"}
+{"page": 1133, "row_type": "row", "section": "Annapolis County.", "label": "Withers, Russell, M.D.", "values": ["Medical Officer", "50 00", "Annapolis", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Antigonish and Guysboro Counties.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1134, "row_type": "row", "section": "Antigonish and Guysboro Counties.", "label": "Chisolm, W.C.", "values": ["Indian Agent", "100 00", "Heatherton", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Antigonish and Guysboro Counties.", "label": "McKinnon, W.F., M.D.", "values": ["Medical Officer", "250 00", "Antigonish", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Antigonish and Guysboro Counties.", "label": "Buckley, C.E., M.D.", "values": ["Medical Officer", "Accounts rendered", "Guysboro", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Antigonish and Guysboro Counties.", "label": "McGarry, P.A., M.D.", "values": ["Medical Officer", "Accounts rendered", "Canso", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Antigonish and Guysboro Counties.", "label": "Prosper, Jas", "values": ["Constable", "2 00 a day", "Heatherton", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Cape Breton County.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1134, "row_type": "row", "section": "Cape Breton County.", "label": "Sparrow, C.J., M.D.", "values": ["Indian Agent", "100 00", "Sydney", "Eskasoni, Sydney, Cariboo Marsh, North Sydney.", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Cape Breton County.", "label": "Sparrow, C.J., M.D.", "values": ["Medical Officer", "350 00", null, null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Colchester County.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1134, "row_type": "row", "section": "Colchester County.", "label": "Smith, Robt. H.", "values": ["Indian Agent", "50 00", "Truro", "Millbrook", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Colchester County.", "label": "Kent, H.V., M.D.", "values": ["Medical Officer", "150 00", "Truro", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Cumberland County.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1134, "row_type": "row", "section": "Cumberland County.", "label": "Johnson, J.A.", "values": ["Indian Agent", "50 00", "Parrsboro", "Franklin Manor", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Digby County.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1134, "row_type": "row", "section": "Digby County.", "label": "Harris, Rupert A.", "values": ["Indian Agent", "100 00", "Bear River", "Bear River", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Digby County.", "label": "Archibald, C.C., M.D.", "values": ["Medical Officer", "250 00", "Bear River", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Digby County.", "label": "Hallett, E.O., M.D.", "values": ["Medical Officer", "100 00", "Weymouth", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Digby County.", "label": "Rice, F.E., M.D.", "values": ["Medical Officer", "Accounts rendered", "Sandy Cove", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Halifax County.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1134, "row_type": "row", "section": "Halifax County.", "label": "Chisolm, Daniel", "values": ["Indian Agent", "100 00", "Dutch Village", "Grand Lake, Sambro", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Halifax County.", "label": "Gourlay, J.M., M.D.", "values": ["Medical Officer", "Accounts rendered", "Sheet Harbour", "Ingram's River, Beaver", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Halifax County.", "label": "Kennedy, G.B., M.D.", "values": ["Medical Officer", "Accounts rendered", "Elmsdale", "Lake, Ship Harbour Lake.", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Halifax County.", "label": "Morton, A.McD., M.D.", "values": ["Medical Officer", "Accounts rendered", "Bedford", "Minister's Lake", null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "row", "section": "Halifax County.", "label": "Smith, M.A.B., M.D.", "values": ["Medical Officer", "Accounts rendered", "Dartmouth", null, null, null, null], "confidence": "low"}
+{"page": 1134, "row_type": "note", "section": "NOVA SCOTIA.", "label": "...", "values": ["Hants County.", null, null, null, null, null, null], "confidence": "medium"}
+{"page": 1134, "row_type": "row", "section": "Hants County.", "label": "Wallace, Alonzo", "values": ["Indian Agent", "50 00", "Shubenacadie", "Indian Brook", null, null, null], "confidence": "low"}
+{"page": 1135, "row_type": "row", "section": "Hants County.", "label": "Stephens, Jos", "values": ["Indian Agent", "50 00", "Windsor", "Windsor and vicinity", null, null, null], "confidence": "low"}
+{"page": 1135, "row_type": "row", "section": "Hants County.", "label": "Culton, A., M.D.", "values": ["Medical Officer", "150 00", "Shubenacadie", null, null, null, null], "confidence": "low"}
+{"page": 1135, "row_type": "row", "section": "Hants County.", "label": "Morris, C.H., M.D.", "values": ["Medical Officer", "75 00", "Windsor", null, null, null, null], "confidence": "low"}

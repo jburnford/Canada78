@@ -1,0 +1,60 @@
+{"row_type": "headers", "title": "MANITOBA AND NORTH-WEST TERRITORIES.", "columns": ["Names of Teachers.", "Salary per Annum", "Reserve on which situated and Fund from which Paid.", "Number of Pupils on Roll.", "Average Daily Attendance.", "Number Learning Reading and Spelling.", "Number Learning Writing.", "Number Learning Arithmetic.", "Number Learning Grammar.", "Number Learning Geography.", "Number Learning History.", "Number Learning Music and Singing.", "Number Learning Drawing.", "Remarks"]}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Alert Bay", "values": ["A.J. Hall", "$12 per capita up to $300 per annum, except in the case of Metlahkhatla (Mission) and St. Mary's School, which have special grants of $500 each per annum.", "Consolidated Fund. Some also receive salaries form other sources.", "26", "15", "8", "9", "13", null, "5", null, "8", null, null], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Bella", "values": ["George F. Hopkins", null, null, "55", "13", "55", "52", "37", null, "31", null, "55", null, "Two quarters only."], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowiehan", "values": ["G. Donckele", null, null, "25", "13", "14", "19", "17", null, "17", null, null, null, "Two quarters only."], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Fort Simpson", "values": ["D. Jennings", null, null, "88", "33", "56", "30", "62", "7", "15", null, null, "15", null], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Hesquiat", "values": ["A.J. Brant", null, null, "30", "28", "30", "30", null, null, null, null, null, null, "Two quarters only."], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kit-a-Maat", "values": ["S.M. Lawrence", null, null, "58", "21", "50", "10", null, null, null, null, null, null, "Two quarters only."], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kitwingack", "values": ["R.E. Woods", null, null, "27", "10", "21", "9", "27", null, null, null, null, null, "One quarter only."], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kincolith", "values": ["Rev. Thos. Dunn", null, null, "30", "18", "18", "23", "17", null, null, null, null, null, "Three quarters only."], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kyuquaht", "values": ["J. Nicolaye", null, null, "30", "29", "21", "26", "16", "1", "8", null, null, null, null], "confidence": "high"}
+{"page": 329, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Metlahkhatla (Mission)", "values": ["W.H. Collison", null, null, "24", "4", "20", "17", "19", null, "4", null, null, null, "Two quarters only."], "confidence": "high"}
+{"page": 330, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Metlahkhatla (Mission)", "values": ["D. Leask", null, null, "188", "97", "104", "28", "102", null, "186", null, "186", null, "One quarter only."], "confidence": "high"}
+{"page": 330, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Naas, Grenville", "values": ["M.A. Green", null, null, "46", "21", "34", "12", "29", null, "14", null, "29", null, null], "confidence": "high"}
+{"page": 330, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "St. Mary's Mission", "values": ["A.M. Carion", null, null, "45", "40", "44", "38", "42", "26", "28", null, "9", null, "Three quarters only."], "confidence": "high"}
+{"page": 330, "row_type": "total", "section": "BRITISH COLUMBIA.", "label": "Total, British Columbia", "values": [null, null, null, "672", "342", "475", "308", "381", "34", "308", null, "287", "15", null], "confidence": "high"}
+{"page": 331, "row_type": "note", "section": null, "label": "Table, see page 182.", "values": [], "confidence": "high"}
+{"page": 332, "row_type": "row", "section": "RECAPITULATION.", "label": "Ontario", "values": ["1,919"], "confidence": "low"}
+{"page": 332, "row_type": "row", "section": "RECAPITULATION.", "label": "Quebec", "values": ["462"], "confidence": "low"}
+{"page": 332, "row_type": "row", "section": "RECAPITULATION.", "label": "Nova, Scotia", "values": ["79"], "confidence": "low"}
+{"page": 332, "row_type": "row", "section": "RECAPITULATION.", "label": "New Brunswick", "values": ["71"], "confidence": "low"}
+{"page": 332, "row_type": "row", "section": "RECAPITULATION.", "label": "Prince Edward Island", "values": ["11"], "confidence": "low"}
+{"page": 332, "row_type": "row", "section": "RECAPITULATION.", "label": "Manitoba and North-West Territories", "values": ["1,180"], "confidence": "low"}
+{"page": 332, "row_type": "row", "section": "RECAPITULATION.", "label": "British Columbia", "values": ["672"], "confidence": "low"}
+{"page": 332, "row_type": "total", "section": "RECAPITULATION.", "label": "Total", "values": ["4,394"], "confidence": "low"}
+{"page": 332, "row_type": "note", "section": null, "label": "L.VANKOUGHNET, Deputy Supt.-General of Indian Affairs. DEPARTMENT OF INDIAN AFFAIRS, OTTAWA, 30th June, 1883. JOHN McGIRR, Clerk of Statistics.", "values": [], "confidence": "high"}
+{"page": 333, "row_type": "note", "section": null, "label": "TABULAR STATEMENT NO. 4. CENSUS RETURN OF RESIDENT AND NOMADIC INDIANS IN THE DOMINION OF CANADA, BY PROVINCES.", "values": [], "confidence": "high"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Algonquins of Carleton.", "values": ["26"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Algonquins of Golden Lake", "values": ["77"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Algonquins of Renfrew", "values": ["673"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas and Munsees of the Thames", "values": ["582"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas and Ottawas and Pottawattamies of Walpole Island", "values": ["789"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Sarnia, Kettle Point and Sauble", "values": ["485"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Snake Island", "values": ["135"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Rama", "values": ["247"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Saugeen", "values": ["368"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Nawash", "values": ["397"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Beausoleil", "values": ["313"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Lake Superior", "values": ["1,883"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of North Shore of Georgian Bay", "values": ["685"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Chippewas of Garden River and Batchewana Bay", "values": ["723"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Iroquois and Algonquins of Gibson", "values": ["140"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Moravians of the Thames", "values": ["268"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Mississaguas of Mud Lake", "values": ["155"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Mississaguas of Rice Lake", "values": ["93"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Mississaguas of Scugog", "values": ["41"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Mississaguas of Alnwick", "values": ["217"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Mississaguas of New Credit", "values": ["215"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Mohawks of the Bay of Quinté", "values": ["949"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Oneidas of the Thames", "values": ["760"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Ojibbewas and Ottawas of Manitoulin and Cockburn Islands", "values": ["1,673"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Ojibbewas of Lake Huron", "values": ["2,934"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Six Nations on the Grand River", "values": ["3,201"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "ONTARIO.", "label": "Wyandotts of Anderdon", "values": ["92"], "confidence": "low"}
+{"page": 333, "row_type": "total", "section": "ONTARIO.", "label": "Total", "values": ["18,121"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Abenakis of St. Francis", "values": ["269"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Abenakis of Becancour", "values": ["39"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Algonquins of Desert", "values": ["410"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Algonquins of Temiscamingue", "values": ["136"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Algonquins of South Pontiac", "values": ["1,028"], "confidence": "low"}
+{"page": 333, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Algonquins of North Pontiac", "values": [null], "confidence": "low"}

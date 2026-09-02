@@ -1,0 +1,142 @@
+{
+ "00": {
+  "seconds": 423.9,
+  "pages": "42\u201349",
+  "windows": [
+   {
+    "window": [
+     42,
+     49
+    ],
+    "rows": 147,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 423.9,
+    "finish_reason": "stop",
+    "completion_tokens": 15111
+   }
+  ],
+  "rows": 147,
+  "complete": true
+ },
+ "01": {
+  "seconds": 484.0,
+  "pages": "50\u201357",
+  "windows": [
+   {
+    "window": [
+     50,
+     57
+    ],
+    "rows": 165,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 484.0,
+    "finish_reason": "stop",
+    "completion_tokens": 17191
+   }
+  ],
+  "rows": 165,
+  "complete": true
+ },
+ "02": {
+  "seconds": 515.8,
+  "pages": "58\u201365",
+  "windows": [
+   {
+    "window": [
+     58,
+     65
+    ],
+    "rows": 147,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 515.8,
+    "finish_reason": "stop",
+    "completion_tokens": 18275
+   }
+  ],
+  "rows": 147,
+  "complete": true
+ },
+ "03": {
+  "seconds": 415.5,
+  "pages": "66\u201373",
+  "windows": [
+   {
+    "window": [
+     66,
+     73
+    ],
+    "rows": 84,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 415.5,
+    "finish_reason": "stop",
+    "completion_tokens": 14878
+   }
+  ],
+  "rows": 84,
+  "complete": true
+ },
+ "04": {
+  "seconds": 530.8,
+  "pages": "74\u201381",
+  "windows": [
+   {
+    "window": [
+     74,
+     81
+    ],
+    "rows": 140,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 530.8,
+    "finish_reason": "stop",
+    "completion_tokens": 19015
+   }
+  ],
+  "rows": 140,
+  "complete": true
+ },
+ "05": {
+  "seconds": 700.9,
+  "pages": "82\u201389",
+  "windows": [
+   {
+    "window": [
+     82,
+     89
+    ],
+    "rows": 101,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 700.9,
+    "finish_reason": "stop",
+    "completion_tokens": 25423
+   }
+  ],
+  "rows": 101,
+  "complete": true
+ },
+ "06": {
+  "seconds": 397.8,
+  "pages": "90\u201393",
+  "windows": [
+   {
+    "window": [
+     90,
+     93
+    ],
+    "rows": 34,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 397.8,
+    "finish_reason": "stop",
+    "completion_tokens": 14526
+   }
+  ],
+  "rows": 34,
+  "complete": true
+ }
+}

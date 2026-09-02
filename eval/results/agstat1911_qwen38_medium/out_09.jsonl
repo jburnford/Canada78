@@ -1,0 +1,60 @@
+{"row_type": "headers", "title": "REALTY OF INDIANS - STATEMENT FOR QUINQUENNIAL TERM ENDED MARCH 31, 1911.", "columns": ["Cleared but not under Cultivation (Acres)", "Under actual Cultivation (Acres)", "Total Value of Lands in Reserves ($ cts)", "Number engaged in farming", "Number engaged in Hunting, Trapping and fishing", "Number engaged in other Industries", "Number engaged in Stock Raising"]}
+{"page": 970, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "Prince Edward Island", "values": ["234", "392", "19,884 00", "31", "34", null, null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Becancour", "values": ["21", "90", "4,200 00", "10", null, "7", "2"], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Bersimis", "values": ["365", "62,825", "63,000 00", "160", null, null, null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Cacouna", "values": [null, null, null, null, null, "30", null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Caughnawaga", "values": ["4,927", "4,000", "211,800 00", "30", null, "478", null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Lake St. John", "values": ["456", "830", "25,790 00", "70", null, "97", null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Lorette", "values": ["26", null, "22,000 00", null, null, null, null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Maniwaki", "values": ["108", "873", "127,974 00", "155", "116", "150", null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Maria", "values": ["136", "2,500", "22,500 00", "7", "3", "16", "1"], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Mingan", "values": [null, null, null, null, null, "703", null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Oka", "values": ["355", "2,088", "4,150 00", null, null, null, null], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Pierreville", "values": ["218", "500", "80,525 00", null, "10", "313", "2"], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Restigouche", "values": [null, "682", "138,000 00", "48", "5", "65", "15"], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "St. Regis", "values": ["2,718", "3,125", "187,550 00", "173", null, null, "30"], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "QUEBEC.", "label": "Timiskaming", "values": ["128", "197", "19,110 00", "21", "10", "18", "11"], "confidence": "high"}
+{"page": 970, "row_type": "total", "section": "QUEBEC.", "label": "Total", "values": ["9,458", "77,710", "906,599 00", "674", "144", "1,877", "61"], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Assiniboine", "values": ["16,077", "1,857", "263,484 00", "26", "9", "7", "22"], "confidence": "high"}
+{"page": 970, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Battleford", "values": ["154,812", "1,124", "1,127,076 00", "117", "16", "191", "158"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Carlton", "values": ["134,044", "2,394", "522,698 00", "140", "156", "156", "184"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Crooked Lakes", "values": ["101,842", "1,853", "800,224 00", "50", null, null, "61"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Duck Lake", "values": ["93,218", "1,419", "1,267,518 00", "80", "175", "12", "144"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Moose Mountain", "values": ["3,644", "910", "205,997 00", "25", "24", null, "21"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Onion Lake", "values": ["143,127", "409", "985,252 00", "64", "147", "12", "136"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Pelly", "values": ["23,962", "1,302", "303,969 00", "51", "23", null, "76"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Qu'Appelle", "values": ["71,703", "3,204", "730,467 00", "86", "24", null, "86"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Touchwood Hills", "values": ["85,657", "2,745", "1,048,553 00", "88", "123", "181", "91"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Treaty No. 10", "values": [null, null, null, null, "365", null, "8"], "confidence": "high"}
+{"page": 971, "row_type": "row", "section": "SASKATCHEWAN.", "label": "File Hills", "values": ["53,796", "3,658", "559,206 00", "38", "18", "84", "47"], "confidence": "high"}
+{"page": 971, "row_type": "total", "section": "SASKATCHEWAN.", "label": "Total", "values": ["881,882", "20,875", "7,814,444 00", "765", "1,080", "643", "1,034"], "confidence": "high"}
+{"row_type": "headers", "title": "PUBLIC BUILDINGS, PROPERTY OF THE BAND.", "columns": ["Saw Mills", "Grist Mills", "Threshers", "Engines", "Other Machinery", "Council Houses", "School Houses", "Driving Sheds", "Other Buildings", "Ferries", "Other", "Value of Public Properties, & c. ($ cts)"]}
+{"page": 972, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "Prince Edward Island", "values": [null, null, null, null, null, "1", "1", null, null, "2", null, "7,800 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Becancour", "values": [null, null, null, null, "4", null, null, "1", null, null, null, "2,000 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Bersimis", "values": [null, null, null, null, null, "1", null, null, null, null, null, "1,000 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Cacouna", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Caughnawaga", "values": [null, null, null, "1", null, "1", "1", "4", "1", "3", null, "46,725 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Lake St. John", "values": [null, null, null, null, null, "1", null, "1", null, null, null, "5,735 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Lorette", "values": [null, null, null, null, null, "1", null, "1", null, null, null, "24,000 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Maniwaki", "values": [null, null, null, null, null, null, "1", "2", "2", null, null, "2,070 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Maria", "values": [null, null, null, null, null, "1", null, "1", null, null, null, "2,500 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Mingan", "values": [null, null, null, null, null, "3", null, null, null, null, null, "18,000 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Oka", "values": [null, null, "2", null, null, "1", null, "1", "3", null, null, "1,540 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Pierreville", "values": [null, null, null, null, null, "3", "1", "2", "8", "2", "2", "28,000 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Restigouche", "values": [null, null, null, null, null, null, "1", "1", null, null, null, "4,250 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "St. Regis", "values": [null, null, null, null, null, "2", null, "4", null, "11", null, "12,000 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "QUEBEC.", "label": "Timiskaming", "values": [null, null, "1", null, null, null, null, "1", null, "2", null, "1,500 00"], "confidence": "high"}
+{"page": 972, "row_type": "total", "section": "QUEBEC.", "label": "Total", "values": [null, null, "3", "1", "4", "14", "4", "19", "14", "18", "2", "149,320 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Assiniboine", "values": [null, null, "1", "1", "75", null, null, "1", null, "4", null, "8,217 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Battleford", "values": ["1", null, "3", "2", null, null, null, "6", null, null, null, "8,700 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Carlton", "values": ["1", "2", "1", "2", "1", "2", null, "6", null, "4", null, "8,600 00"], "confidence": "high"}
+{"page": 972, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Crooked Lakes", "values": [null, null, "1", "1", null, null, null, null, null, null, null, "2,051 00"], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Duck Lake", "values": [null, null, "3", "1", null, "3", null, "3", null, null, "1", "6,660 00"], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Moose Mountain", "values": [null, null, "1", "1", "16", null, null, "1", "1", "1", null, "4,200 00"], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Onion Lake", "values": ["1", null, null, null, null, null, null, null, null, null, null, "2,500 00"], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Pelly", "values": [null, null, "2", "1", "17", "3", null, "3", "2", "11", null, "9,110 00"], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Qu'Appelle", "values": [null, null, null, "1", null, null, null, null, null, null, null, "1,000 00"], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Touchwood Hills", "values": [null, null, "1", "1", null, "1", null, "3", null, null, null, "6,725 00"], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "Treaty No. 10", "values": [null, null, null, null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 973, "row_type": "row", "section": "SASKATCHEWAN.", "label": "File Hills", "values": [null, null, "2", "2", null, "2", null, null, "2", null, null, "8,200 00"], "confidence": "high"}
+{"page": 973, "row_type": "total", "section": "SASKATCHEWAN.", "label": "Total", "values": ["3", "2", "15", "13", "109", "11", null, "23", "5", "20", "1", "65,963 00"], "confidence": "high"}

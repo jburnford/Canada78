@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 site/
 .DS_Store
+# Qwen extraction transcripts: bulky, reproducible from the chunks; out_*.jsonl and run.json are tracked
+eval/results/**/raw_*.txt
+eval/results/**/reasoning_*.txt
+eval/results/**/vllm-server-*.log

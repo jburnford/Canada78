@@ -1,0 +1,27 @@
+{"row_type": "headers", "columns": ["Census Returns", "Protestant", "Roman Catholic", "Pagan", "Denomination of Schools"]}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kitsalass", "population": 86, "values": ["86", "44", null, "42", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kitwint-gaa", "population": 143, "values": ["143", "46", null, "97", "1 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kitse-cuhla", "population": 172, "values": ["172", "34", null, "138", "1 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kitan-man (Hayeltin)", "population": 285, "values": ["285", "42", null, "243", "1 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kish-pi-uk", "population": 398, "values": ["398", "5", null, "393", "1 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kitwint-cool", "population": 195, "values": ["195", null, null, "195", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kishke-gas", "population": 223, "values": ["223", null, null, "223", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kull-doa", "population": 46, "values": ["46", null, null, "46", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kitamatt", "population": 261, "values": ["261", "261", null, null, "1 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kitt-lope", "population": 103, "values": ["103", null, null, "103", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Kinisquitt", "population": 106, "values": ["106", null, null, "106", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Lack-al-sap (Greenville)", "population": 76, "values": ["76", "76", null, null, "1 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Metlakatla", "population": 137, "values": ["137", "137", null, null, "2 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Massett", "population": 445, "values": ["445", "445", null, null, "2 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "O-wee-kay-no", "population": 170, "values": ["170", null, null, "170", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Quish-eilla", "population": 44, "values": ["44", null, null, "44", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Skidegette and Gold Harbor", "population": 192, "values": ["192", "192", null, null, "1 Protestant."], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Tallium", "population": 46, "values": ["46", null, null, "46", null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Wil-skish-tum, Wilwilgett", "population": 25, "values": ["25", null, null, "25", null], "confidence": "high"}
+{"page": 544, "row_type": "total", "province": "NORTH-WEST COAST", "agency": null, "band": "Total", "population": 5640, "values": ["5,640", null, null, null, null], "confidence": "high"}
+{"page": 544, "row_type": "note", "province": "NORTH-WEST COAST", "agency": null, "band": "No agents have as yet been appointed for the following hands, namely: -", "population": null, "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Hiletsuck", "population": 2274, "values": ["2,274", null, null, null, null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Siccanee", "population": 500, "values": ["500", null, null, null, null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Tahelie", "population": 1000, "values": ["1,000", null, null, null, null], "confidence": "high"}
+{"page": 544, "row_type": "band", "province": "NORTH-WEST COAST", "agency": null, "band": "Bands not visited", "population": 8522, "values": ["8,522", null, null, null, null], "confidence": "high"}
+{"page": 544, "row_type": "total", "province": "NORTH-WEST COAST", "agency": null, "band": "Total", "population": 12296, "values": ["12,296", null, null, null, null], "confidence": "high"}

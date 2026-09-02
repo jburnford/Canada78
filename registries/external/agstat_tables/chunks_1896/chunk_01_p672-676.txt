@@ -1,0 +1,235 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+PROVINCE,  Resident IMMOVABLE PROPERTY, LAND                                                                                                                                                                                                                                                                                       GRAIN AND FISH, FURS
+AGENCY OR Indian       CULTIVATED, AND FRESH LAND                PERSONAL PROPERTY.                                                                                                                                        ...     ...   ...   ...        ...      ...      ...    ...     ...     ...    ...      ... ... ... ... ROOTS      AND OTHER
+BAND       Population. PLOUGHED.                                                                                                                                                                                                                                                                                                   HARVESTED. INDUSTRIES
+                                                            Land                                                                                                                               No.
+                                                Land        newly                                   Fanning- Thresh'g- Mowing-            No. of other                                         of
+...              ...    Houses. Barns. Stables.                    Ploughs. Harrows. Wagons. Carts.                              Reapers.              Horses. Cows. Oxen. Bulls. Sheep. Pigs.        Wheat. Oats.   Pease. Barley. Corn. Rye. Buckwheat. Potatoes. Turnips. Beans. Garden. Apples. Hay. Value.
+                                                cultivated. broken                                  mills.   machines. machines.          implements.                                          young
+                                                            up.                                                                                                                                stock.
+
+                 ...    ...     ...    ...     Acres      Ac     ...      ...       ...      ...   ...      ...        ...       ...      ...         ...     ...    ...   ...    ...    ...   ...   Bus     Bus     Bus   Bus     Bus   Bus Bus          Bus      Bus      Bus    Bus     Bus     Tons $ cts.
+Ontario
+Grand River
+Superintendenc
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+127        3       6       4        1        4     ...       ...       1         ...      79          4       28     ...   5      ...    4     20    ...    75     2      5      5     ...   10         500      ...      ...    ...     ...     130   1,970 00
+Victoria         94       18      6      6       148        4 1/2   ...     ...      ...      ...   ...       ...       ...       ...      ...         1       8      ...   ...    5      3     2     ...    ...    ...    2      3     ...   ...        175      ...      ...    ...     ...     60    1,410 00
+Cape Breton
+                 243      19      17     ...     950        ...     5       4        1        7     ...       ...       1         ...      ...         8       25     5     2      25     2     25    ...    200    ...    40     20    ...   ...        400      ...      ...    ...     ...     90    4,130 00
+County
+Totals           2108     400     75     33      2760 1/2   38      28      15       17       15    ...       ...       2         ...      289         31      108    13    7      53     28    88    37     864    9 1/2 67      55    100 20           5224     7        13     60      6       555   23,207 00
+
+Prince Edward ...         ...     ...    ...     ...        ...     ...     ...      ...      ...   ...       ...       ...       ...      ...         ...     ...    ...   ...    ...    ...   ...   ...    ...    ...    ...    ...   ...   ...        ...      ...      ...    ...     ...     ...   ...
+Island
+
+
+
+=== EXTRACT FROM HERE (pages 672-676) ===
+<!-- page 672 -->
+P.E.I.
+                308           51      23      23      245        5       8        10        6         2      ...      ...        ...        ...      65           16      11     ...    1      16     2      11    328     1316 ...      ...     8     ...    ...        1802      ...      ...     ...     ...      24    7,450 00
+Superintendency
+
+British          ...          ...     ...     ...     ...        ...     ...      ...       ...       ...    ...      ...        ...        ...      ...          ...     ...    ...    ...    ...     ...   ...   ...     ...    ...    ...     ...   ...    ...        ...       ...      ...     ...      ...     ...   ...
+Columbia.
+Cowichan                                                                                                                                                                                                                                                                                                                   160,000
+                 2029         543     199     120     2496       114     126      64        191       12     1        8          8          2        ...          405     432     88    24     865     82    610   80      4000 100      ...     ...   ...    ...        800       ...      ...     ...      ...     700
+Agency                                                                                                                                                                                                                                                                                                                     00
+West Coast                                                                                                                                                                                                                                                                                                                 159,220
+                 2750         461     ...     ...     80         ...     2        ...       ...       ...    ...      ...        ...        ...      ...          90      9       ...   1      3       ...   4     ...     ...    ...    ...     ...   ...    ...        1560      ...      ...     ...      ...     ...
+Agency                                                                                                                                                                                                                                                                                                                     00
+Kwawkewlth
+                 1639         224     2       ...     10 1/2     3/4     ...      ...       ...       ...    ...      ...        ...        ...      ...          ...     3       1     1      3       50    4     ...     ...    ...    ...     ...   ...    ...        ...       ...      ...     ...      ...     ...   37,250 00
+Agency
+Lower Fraser
+                 3381         1235    227     220     3705       93      113      92        76        8      1        1          ...        ...      1945         709     817     152   ...    205     2181 475    3251    11614 7125 1134       850   ...    ...        19798     ...      ...     ...      ...     1560 90,215 00
+Agency
+Williams Lake
+                 1899         403     ...     174     1265       15      102      37        28        ...    10       2          28         ...      542          2720    983     ...   38     ...     479 234     431     3195 862      260     ...   ...    ...        6290      ...      162     ...      ...     2213 31,470 00
+Agency
+Kamloops
+                  2880        490     195     ...     1424       4       127      75        49        1      16       1          12         ...      3385         2462    480     ...   8      1       314 330     3521    4630 408      322     185   ...    ...        12210     ...      410     ...      ...     1200 93,884 00
+Agency
+Okanagan
+                  651         108     77      ...     1128       ...     63       34        14        ...    11       1          4          4        1074         2450    940     ...   ...    ...     369 255     5268    1740 80       ...     ...   ...    ...        2045      ...      ...     ...      ...     300   18,970 00
+Agency
+Kootenay
+                  562         183     10      15      350        31      47       16        15        ...    2        ...        3          ...      33           1690    353     48    23     ...     ...   310   420     3110 125      ...     ...    ...   ...        1375      ...      ...     ...      ...     145   2,400 00
+Agency
+North-west                                                                                                                                                                                                                                                                                                                 345,950
+                  3994        915     18      25      147 1/2    6 1/2   ...      ...       ...       ...    ...      ...        ...        ...      845          28      10     ...    1      ...    17     25    ...     ...    ...    ...     ...   ...    ...        5050      1571     ...     760     ...      25
+Coast Agency                                                                                                                                                                                                                                                                                                               00
+Babine and
+                                                                                                                                                                                                                                                                                                                     24    108,250
+Upper Skeena     2783         894     ...     70      197        31      ...      ...       ...       ...    ...      ...        ...        ...      6170         337     172    44     14     ...     ...   59    ...     ...    ...    ...     ...   ...    ...        2330      ...      ...     ...      ...
+                                                                                                                                                                                                                                                                                                                     1/2   00
+River Agency
+                                                                 295                                                                                                                                                                                                                                                 6167 1,047,609
+Totals           22568        2456    728     624     10803              580      318       373       21     41       13         55         6        13994        10831 4199 333        110    1077    3492 2306 12971 28289 8700 1716           1035 ...     ...        51458     1571     572     760      ...
+                                                                 1/4                                                                                                                                                                                                                                                 1/2 00
+
+Note. - The North-eastern Superintendency of New Brunswick includes the Micmacs of the counties on the north-east of that province. The 1st division or South-western Superintendency of that province embraces the Amalecites of all the counties on the south and west side of the province, except Victoria and Madawaska, which form the 2nd division of the
+superintendency. [*Onions.]
+
+<!-- page 673 -->
+table, see page 422
+
+<!-- page 674 -->
+PROVINCE,       Resident                                                                                                                                                                                                                                                                                      FISH, FURS
+                            IMMOVABLE PROPERTY, LAND CULTIVATED AND
+AGENCY OR       Indian                                                             PERSONAL PROPERTY                                                                                                                GRAIN AND ROOTS HARVESTED.                                                                AND OTHER
+                            FRESH LAND PLOUGHED.
+BAND            population.                                                                                                                                                                                                                                                                                   INDUSTRIES.
+                                                                              Land                                                                                                                           No.
+                                                                                                                                                          No. of
+                                                Bob-              Land        newly                                   Fanning Thresh'g Mowing                                                                of                                                  Other
+...             ...     Houses. Barns. Stables.          buggies.                    Ploughs. Harrows. Wagons. Carts.                            Reapers. other      Horses. Cows. Oxen. Bulls. Sheep. Pigs.        Wheat. Oats. Pease. Barley. Corn. Rye. rice.        Potatoes. Turnips. Beans. Onions. Hay. Value.
+                                                sleighs.          cultivated. broken                                  mills. machines. machines.                                                             young                                               roots.
+                                                                                                                                                          implements
+                                                                              up.                                                                                                                            stock.
+
+                ...     ...     ...    ...     ...     ...      Acres.     Ac.     ...    ...       ...      ...   ...      ...       ...       ...      ...         ...     ...   ...    ...   ...    ...    ...   Bus.   Bus.   Bus.   Bus.   Bus. Bus. Bus. Bus. Bus.         Bus.     Bus.   Bus.   Tons. $ cts.
+Manitoba.
+F. Ogletree,
+Agent, Treaty   491     54      2      24      ...     ...      477        10      18     11        5        30    2        ...       ...       2        112         90      16    31     2     ...    ...    29    7958   406    ...    362    ...   ...   ...   ...   1100     ...      ...    ...    140   4,350 00
+No. 1.
+A.M. Muckle
+                1823    414     ...    304     123     14       835        33      68     69        42       28    13       ...       74        ...      1075        191     319   209    11    4      218 456      1170   2000 180      1955   310   ...   ...   ...   10150    ...      55     ...    4170 28,400 00
+Agent Treaty
+H. Martineau
+(Sandy Bay)
+                258     98      ...    30      *9      ...      43         5       3      1         10       51    ...      ...       6         ...      4           62      37    6      10    ...    12     41    ...    ...    ...    ...    8     ...   ...   ...   420      ...      ...    ...    537   1,575 00
+Agent, Treaty
+No. 1
+H. Martineau,
+Agt., Treaty    733     314     8      150     *9      ...      197        2       27     21 1/2    12       64    ...      ...       14        ...      11          103     325   120    28    3      34     535   140    225    15     205    69    ...   ...   73    4005     93       ...    111    3229 7,681 00
+No. 2.
+R.J.N. Pither
+Age, Treaty No. 1084    468     ...    37      ...     ...      110        7       10     11        ...      ...   ...      ...       ...       ...      577         51      36    22     6     ...    ...    35    ...    ...    ...    16     1169 ...    ...   ...   1774     ...      ...    ...    335   9,444 00
+3
+F.C. Cornish
+Agt., Treaty    887     241     ...    45      ...     ...      83         10 3/4 15      14        ...      ...   ...      ...       ...       ...      271         54      31    34     6     ...    ...    23    15     ...    ...    ...    465   ...   ...   ...   1170     ...      ...    ...    48    16,002 00
+No. 3.
+Jno. McIntyre
+                                                                                                                                                                                                                                                            110
+Agt., Treaty    964     330     5      11      ...     ...      142        5       15     15        ...      ...   ...      ...       ...       ...      656         ...     16     1     4     ...     ...   11    ...    ...    ...    ...    ...   ...       35      2697 1/2 80 1/2   ...    1      43     13,647 00
+                                                                                                                                                                                                                                                            1/2
+No. 3.
+H. Martineau,
+(Pine Creek)
+                58      25      ...    14      *2      ...     9           ...     2      2         2        6     ...      ...       1         ...      1           15      14    2      2     ...    ...    23    ...    ...    ...    ...    5     ...   ...   8     300      7        ...    6      123   900 00
+Agt., Treaty
+No. 4
+A. Mackay,
+Agent, Treaty   2137    652     ...    153     ...     ...      225 1/2    20 1/2 49      66        1        ...   ...      ...       ...       ...      1893        ...     139   43     16    ...    ...    137   ...    ...    ...    260    ...   ...   ...   ...   8690     ...      ...    ...    1009 40,565 00
+No. 5.
+Jos. Reader
+Agent, Treaty   1067    253     ...    91      ...     ...      66         3 1/4   24     30        ...      1     2        ...       ...       ...      262         17      95    23     10    ...    ...    180   ...    ...    ...    ...    ...   ...   ...   ...   3974     ...      ...    ...    341   21,350 00
+No. 5.
+                                                                                                                                                                                                                                                            110         34280
+Totals          9502    2849    15     859     143     14       2187 1/2   96 1/2 231     240 1/2   72       180   17       ...       95        2        4862        583     1028 491     95    7      264 1470 9283       2631 195      2798   2026 ...        116              180 1/2 55      118    9975 142,914 00
+                                                                                                                                                                                                                                                            1/2         1/2
+
+North-west      ...     ...     ...    ...     ...     ...      ...        ...     ...    ...       ...      ...   ...      ...       ...       ...      ...         ...     ...   ...    ...   ...    ...    ...   ...    ...    ...    ...    ...   ...   ...   ...   ...      ...      ...    ...    ...   ...
+Territories.
+Touchwood
+Hills Agency,   846     196     ...    89      ...     ...      483        70      64     21        15       38    ...      ...       4         1        827         1       258   73     10    ...    ...    455   328    1665 ...      59     ...   ...   ...   ...   1910     1108     ...    ...    2131 16,941 00
+Treaty No. 4
+
+<!-- page 675 -->
+Muscowpetungs
+Ag'cy, Tr'ty No. 675   245   ...   107      ...   ...   508 1/2    34 1/2 91     44       65    35    4     ...   28    3     425    488    137   129   4     ...   ...   287   3323   598   ...   322    37    ...   ...   168   1874   990    ...   ...      1955 13,275 00
+4.
+Birtle Ag'cy,
+                 924   132   4     108      ...   ...   2050 1/2   157     90    57       19    49    6     ...   2     ...   1438   243    217   105   4     48    2     382   19523 4430 ...     34     712   ...   ...   368   4306   ...    ...   ...      2484 14,334 91
+Tr'ty No. 4.
+Swan River
+Ag'cy, Tr'ty No. 646   76    ...   92       ...   ...   170 1/4    42      35    22       36    29    3     ...   14    ...   389    151    339   122   13    151   ...   465   265    915   155   440    ...   35    ...   ...   1790   ...    ...   ...      3055 12,484 79
+4.
+File Hills
+Ag'cy, Tr'ty No. 274   58    ...   105      ...   ...   164 1/2    ...     45    18       14    12    2     ...   4     1     599    8      232   52    4     16    2     373   ...    620   ...   60     ...   ...   ...   ...   760    667    ...   ...      1394 2,266 43
+4.
+Assiniboine
+Ag'cy Tr'ty No. 211    108   ...   39       ...   ...   510        20      35    8        13    9     ...   ...   1     2     39     58     26    54    ...   51    ...   59    1270   300   ...   ...    ...   ...   ...   ...   1570   1875   ...   91       650   1,189 06
+4.
+Crooked Lakes
+Ag'cy Tr'ty No. 616    109   ...   93       ...   ...   943 3/4    90      84    40       9     26    4     1     4     ...   625    193    187   103   6     34    20    375   3310   1440 ...    ...    ...   ...   ...   ...   2082   ...    ...   ...      1786 6,574 22
+4.
+Moose
+                                                                                                                                                                                                                            139
+Mountain Ag'cy 248     95    ...   41       ...   ...   471 1/2    3       31    16 1/2   12    12    1     ...   3     1     713    74     63    51    3     ...   ...   161   1280   115   ...   ...    ...   ...   ...         709    1106   ...   ...      765   3,324 00
+                                                                                                                                                                                                                            1/2
+Tr'ty No. 4.
+Saddle Lake
+Ag'cy Tr'ty No. 719    153   ...   110      ...   ...   987 1/2    133     68    35       9     35    2     1     2     1     904    225    379   80    5     ...   ...   428   442    30    ...   243    ...   ...   ...   123   594    ...    ...   ...      2427 4,535 00
+6.
+Hobbema
+Ag'cy, Tr'ty No. 531   71    9     52       ...   ...   985        95      91    42       10    50    4     1     7     2     895    600    328   93    16    ...   16    296   4570   540   ...   1950   ...   ...   ...   ...   2250   ...    ...   ...      1200 8,505 00
+6.
+Battleford
+                                                                                                                                                                                                                            102
+Ag'cy Tr'ty No. 860    206   ...   170      ...   ...   286        21      119   58       20    26    5     ...   18    ...   852    286    421   254   25    180   2     791   525    601   ...   165    ...   ...   ...         2547   1091   ...   12 1/2   3850 7,036 13
+                                                                                                                                                                                                                            1/4
+6.
+Onion Lake
+Ag'cy Tr'ty No. 679    108   ...   76       ...   ...   630        ...     47    15       20    15    2     1     5     ...   1008   116    196   97    2     88    6     582   736    36    ...   3875   ...   ...   ...   ...   1311   ...    ...   ...      2000 9,682 38
+6.
+Duck Lake
+Ag'cy Tr'ty No. 1225   97    31    106      ...   ...   659        134     70    32       20    26    4     1     11    2     1330   198    317   136   18    ...   2     635   2302   2671 ...    285    ...   ...   ...   ...   808    ...    ...   ...      3043 4,106 00
+6.
+Edmonton
+Ag'cy Tr'ty No. 739    221   ...   171      ...   ...   1132       166     38    26       11    9     4     2     5     2     189    172    128   86    7     97    28    242   1933   1186 ...    1733   ...   ...   ...   ...   3830   ...    ...   ...      1880 8,238 00
+6.
+Carlton Ag'cy
+                 905   125   23    (t)124   ...   ...   565        101     78    41       31    40    2     ...   13    ...   729    139    254   128   12    5     3     406   2882   361   ...   215    ...   ...   ...   ...   1323   ...    ...   ...      2326 7,113 00
+Tr'ty No. 6.
+Sarcee Ag'cy
+                226    78    ...   6        ...   ...   115 3/4    5 1/2   ...   ...      ...   ...   ...   ...   ...   ...   90     650    7     6     ...   ...   ...   10    ...    ...   ...   ...    292   ...   ...   ...   168    60     ...   ...      205   1,230 00
+Tr'ty No. 7.
+Blood Ag'cy
+                1410   390   ...   49       ...   ...   292 3/4    15      40    12       42    1     2     ...   6     1     2085   1828   102   7     8     ...   ...   358   85     2582 ...    126    ...   ...   ...   ...   1428   ...    ...   ...      1362 10,356 00
+Tr'ty No. 7.
+Blackfoot
+Ag'cy Tr'ty No. 1226   463   ...   (tt)35   ...   ...   218 1/2    80      40    19       19    7     2     1     5     ...   1000   2152   65    ...   1     ...   ...   483   16     150   ...   142    ...   ...   ...   62    3100   348    ...   ...      597   3,988 92
+7.
+Piegan Ag'cy
+
+<!-- page 676 -->
+I :Tr'ty
+     =====:I    :~
+                 I ILJULJLJLJI            ILJI           IULJI                      ILJUUULJUULJUULJUUUUI                                          ILJLJLJU:=      I        ~I
+                 751          83       ... 10 52
+                                               30  6   ...
+                                                      40 ... 1 ...
+                                                                 ...  12 132 1/2
+                                                                          ...   290 618 513 28 10 ... ... 506 ... 632 ... ... ... ... ... ... 1775 ... ... ... 385 2,999 19
+         No. 7.                                   II I               II  II   II
+I~            ID   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD:===                                                                                                        I        ~I
+ Stony Ag'cy
+               570  135 ... 47 ... ... 54  ... 19  8  4  6   ... ...  1   ...   250 930 144 6  10 98  ... 616 ... ... ... ... ... ... ... 36  394  ... ... ... ...   5,895 00
+ Tr'ty No. 7.
+
+Totals
+                ID DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDI
+                 14281        3149     97     1672     ...     ...       11303 1/2 1177
+
+[*Buckboards.] [(t)10 pigsties and hen-houses.] [(tt)1 pigsty and 1 fowl-house.]
+                                                                                          1115   520 1/2   409   425   48   8   145   16
+                                                                                                                                          998
+                                                                                                                                           14677   9130   4313 1610 158   768   81   7910 42790 18872 155   9649   1041 35   ...
+                                                                                                                                                                                                                                   3/4
+                                                                                                                                                                                                                                         34529   7245   ...   103 1/2 33495 144,074 03
+
+
+JOHN McGIRR,
+Clerk of Statistics.
+HAYTER REED,
+Deputy Supt. General of Indian Affairs.
+
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 30th June, 1896.
+

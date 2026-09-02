@@ -1,0 +1,26 @@
+{"row_type": "headers", "title": "Sundry Disbursements", "columns": ["Capital. $ cts.", "Interest. $ cts.", "...", "Capital. $ cts.", "Interest. $ cts."]}
+{"page": 995, "row_type": "row", "section": "INDIANS OF NOVA SCOTIA", "label": "Paid Robert P. Fraser for land adjoining reserve at Fisher's Grant, County of Pictou", "values": ["300 00", null, "By Balance on 30th June, 1888", "427 43", null], "confidence": "high"}
+{"page": 995, "row_type": "total", "section": "INDIANS OF NOVA SCOTIA", "label": "Balance on 30th June, 1889", "values": ["144 51", null, "Interest on invested capital", "17 08", null], "confidence": "high"}
+{"page": 995, "row_type": "total", "section": "INDIANS OF NOVA SCOTIA", "label": "...", "values": ["444 51", null, null, "444 51", null], "confidence": "high"}
+{"page": 995, "row_type": "note", "section": "INDIANS OF NOVA SCOTIA", "label": "...", "values": [null, null, "By Balance on 30th June, 1889", null, null], "confidence": "high"}
+{"page": 996, "row_type": "row", "section": "INDIANS OF NEW BRUNSWICK", "label": "To Legal expenses", "values": ["29 50", null, "By Balance on 30th June, 1888", "5,301 38", null], "confidence": "high"}
+{"page": 996, "row_type": "total", "section": "INDIANS OF NEW BRUNSWICK", "label": "Balance on 30th June, 1889", "values": ["5,483 96", null, "Interest on invested capital", "212 08", null], "confidence": "high"}
+{"page": 996, "row_type": "total", "section": "INDIANS OF NEW BRUNSWICK", "label": "...", "values": ["5,513 46", null, null, "5,513 46", null], "confidence": "high"}
+{"page": 996, "row_type": "note", "section": "INDIANS OF NEW BRUNSWICK", "label": "...", "values": [null, null, "By Balance on 30th June, 1889", "5,483 96", null], "confidence": "high"}
+{"page": 997, "row_type": "note", "section": "TOBIQUE INDIANS, N.B.", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 997, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "Balance on 30th June, 1888", "values": [null, "25 00", "By Balance on 30th June, 1888", "7,283 19", null], "confidence": "high"}
+{"page": 997, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "Rev. J.J. O'Leary, missionary", "values": [null, "100 00", "Interest on invested capital", null, "290 32"], "confidence": "high"}
+{"page": 997, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "Mary Hawkes, teacher", "values": [null, "67 50", "Land and timber sales", "977 96", null], "confidence": "high"}
+{"page": 997, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "10 per cent. on timber dues for distribution", "values": ["54 77", null, null, null, null], "confidence": "high"}
+{"page": 997, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["97 79", null, null, null, null], "confidence": "high"}
+{"page": 997, "row_type": "total", "section": "TOBIQUE INDIANS, N.B.", "label": "Balance on 30th June, 1889", "values": ["8,108 59", "97 82", null, null, null], "confidence": "high"}
+{"page": 997, "row_type": "total", "section": "TOBIQUE INDIANS, N.B.", "label": "...", "values": ["8,261 15", "290 32", null, "8,261 15", "290 32"], "confidence": "high"}
+{"page": 997, "row_type": "note", "section": "TOBIQUE INDIANS, N.B.", "label": "...", "values": [null, null, "By Balance on 30th June, 1889", "8,108 59", "97 82"], "confidence": "high"}
+{"page": 998, "row_type": "row", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": "To Balance on 30th June, 1889", "values": [null, "38 22", "By Balance on June 30th June, 1888", null, "36 74"], "confidence": "medium"}
+{"page": 998, "row_type": "row", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": "...", "values": [null, null, "Interest on invested capital", null, "1 48"], "confidence": "high"}
+{"page": 998, "row_type": "total", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": "...", "values": [null, "38 22", null, null, "38 22"], "confidence": "high"}
+{"page": 998, "row_type": "note", "section": "INDIANS OF PRINCE EDWARD ISLAND", "label": "...", "values": [null, null, "By Balance on 30th June, 1889", null, "38 22"], "confidence": "high"}
+{"page": 999, "row_type": "row", "section": "J.B. CLENCH", "label": "To Balance on 30th June, 1889", "values": [null, "725 06", "By Balance on June 30th June, 1888", "725 06", "719 10"], "confidence": "medium"}
+{"page": 999, "row_type": "row", "section": "J.B. CLENCH", "label": "...", "values": [null, null, "Interest on invested capital", null, "57 80"], "confidence": "high"}
+{"page": 999, "row_type": "total", "section": "J.B. CLENCH", "label": "...", "values": ["725 06", "776 90", null, "725 06", "776 90"], "confidence": "high"}
+{"page": 999, "row_type": "note", "section": "J.B. CLENCH", "label": "...", "values": [null, null, "By Balance on 30th June, 1889", "725 06", "776 90"], "confidence": "high"}

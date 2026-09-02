@@ -33,7 +33,10 @@ OUT = ROOT / "registries/documents/segments_dia"
 PAGE_RE = re.compile(r"<!-- page (\d+) -->")
 SIR_RE = re.compile(r"^\s*SIR\s?, ?[-—]", re.M)
 CAPTION_RE = re.compile(
-    r"^(TABULAR STATEMENT No\. ?\d+[A-Za-z]?\.?|RETURN [A-Z](?: ?\(\d+\))?\.?|"
+    # "RETURN, A (1)." (1891) and "RETURN A (1." (1881) are the printer's own
+    # slips; the strict form missed them, so those volumes got no Return A (1)
+    # segment and their headquarters staff never reached the officers chunker.
+    r"^(TABULAR STATEMENT No\. ?\d+[A-Za-z]?\.?|RETURN,? [A-Z],? ?(?:\(?\d+\)?)?\.?|"
     r"STATEMENT [A-Z0-9][A-Za-z0-9 ,.()'-]{0,70}|"
     r"SCHOOL STATEMENT[A-Za-z0-9 ,.()'-]{0,60}|"
     r"APPENDIX[A-Za-z0-9 ,.()'-]{0,60})\s*$",

@@ -1,0 +1,47 @@
+{"row_type": "headers", "title": "RETURN C showing transactions in connection with the Fund during the nine months ended March 31, 1907.", "columns": ["Debit ($ cts.)", "Credit ($ cts.)"]}
+{"page": 978, "row_type": "row", "section": null, "label": "Balance to June 30, 1906", "values": [null, "4,868,622 00"], "confidence": "high"}
+{"page": 978, "row_type": "row", "section": null, "label": "Collections on land sales; timber and stone dues; rents, fines and fees", "values": [null, "431,354 87"], "confidence": "high"}
+{"page": 978, "row_type": "row", "section": null, "label": "Interest for nine months ended March 31, 1907, on above balance", "values": [null, "143,003 47"], "confidence": "high"}
+{"page": 978, "row_type": "row", "section": null, "label": "Legislative grants to supplement the funds", "values": [null, "23,123 02"], "confidence": "high"}
+{"page": 978, "row_type": "row", "section": null, "label": "Outstanding cheques for 1904 - 5", "values": [null, "26 27"], "confidence": "high"}
+{"page": 978, "row_type": "row", "section": null, "label": "Expenditure during nine months ended March 31, 1907", "values": ["308,563 04", null], "confidence": "high"}
+{"page": 978, "row_type": "row", "section": null, "label": "Balance, March 31, 1907", "values": ["5,157,566 59", null], "confidence": "high"}
+{"page": 978, "row_type": "total", "section": null, "label": null, "values": ["5,466,129 63", "5,466,129 63"], "confidence": "high"}
+{"page": 978, "row_type": "note", "section": null, "label": "For further details of the above expenditure from the Indian Trust Fund and the Consolidated Fund' see Part J of the Auditor General's Report.", "values": [null, null], "confidence": "high"}
+{"row_type": "headers", "title": "Summary of Expenditure.", "columns": ["...", "Amount ($ cts.)", "Total ($ cts.)"]}
+{"page": 981, "row_type": "row", "section": null, "label": "Civil Government - Salaries", "values": ["(Page J - 4.)", "48,608 04", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": null, "label": "Civil Government - Contingencies", "values": ["(Page J - 6.)", "11, 550 48", null], "confidence": "high"}
+{"page": 981, "row_type": "total", "section": null, "label": null, "values": [null, null, "60,158 52"], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Indians - Ontario and Quebec -", "values": [null, null, null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief and medical attendance, Quebec", "values": ["(Page J - 7.)", "5,645 00", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief and medical attendance, Ontario", "values": ["(Page J - 7.)", "4,517 32", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Blankets and clothing, Ontario and Quebec", "values": ["(Page J - 7.)", "485 16", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Schools, Ontario, Quebec and Maritime Provinces", "values": ["(Page J - 7.)", "45,496 68", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Salaries of chiefs and of agent at St. Regis", "values": ["(Page J - 9.)", "112 50", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Payment of Robinson Treaty Annuities", "values": ["(Page J - 9.)", "12,450 00", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Treaty 9 - Annuities, gratuities and expenses", "values": ["(Page J - 10)", "10,757 76", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Surveys of Indian Reserves", "values": ["(Page J - 10)", "1,887 33", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Grant to Indian Land Management Fund", "values": ["(Page J - 11)", "10,000 00", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Grant to Agricultural Society", "values": ["(Page J - 11)", "90 00", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "General legal expenses", "values": ["(Page J - 11)", "872 83", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Settlement of outstanding Indian claims;", "values": ["(Page J - 11)", "4,731 19", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Repairs on Roads", "values": ["(Page J - 11)", "500 00", null], "confidence": "high"}
+{"page": 981, "row_type": "total", "section": "Indians - Ontario and Quebec -", "label": null, "values": [null, null, "97,54577"], "confidence": "medium"}
+{"page": 981, "row_type": "row", "section": null, "label": "Indians - Nova Scotia", "values": ["(Page J - 11)", null, "7,137 02"], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": null, "label": "Indians - New Brunswick", "values": ["(Page J - 12)", null, "5,876 62"], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": null, "label": "Indians - Prince Edward Island", "values": ["(Page J - 13)", null, "1,633 50"], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Manitoba and Northwest -", "label": "Indians - Manitoba and Northwest -", "values": [null, null, null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Manitoba and Northwest -", "label": "Schools and subdivisions of expenditure by agencies", "values": ["(Page J - 14)", "681,347 46", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Manitoba and Northwest -", "label": "Sioux", "values": ["(Page J - 53)", "4,504 74", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - Manitoba and Northwest -", "label": "Surveys", "values": ["(Page J - 53)", "7,423 92", null], "confidence": "high"}
+{"page": 981, "row_type": "total", "section": "Indians - Manitoba and Northwest -", "label": null, "values": [null, null, "693,276 12"], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": null, "label": "Indians - Yukon Territory", "values": ["(Page J - 54)", null, "4,854 72"], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - British Columbia -", "label": "Indians - British Columbia -", "values": [null, null, null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - British Columbia -", "label": "Schools and subdivision of expenditure by agencies", "values": ["(Page J - 55)", "121,437 00", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - British Columbia -", "label": "Surveys", "values": ["(Page J - 62)", "105 75", null], "confidence": "high"}
+{"page": 981, "row_type": "total", "section": "Indians - British Columbia -", "label": null, "values": [null, null, "121,542 75"], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - General -", "label": "Indians - General -", "values": [null, null, null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - General -", "label": "Salaries of Inspectors", "values": ["(Page J - 62)", "3,225 00", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - General -", "label": "Travelling expenses and clerical assistance of Inspectors", "values": ["(Page J - 62)", "1,088 22", null], "confidence": "high"}
+{"page": 981, "row_type": "row", "section": "Indians - General -", "label": "Printing and stationery, Outside Service", "values": ["(Page J - 62)", "4,500 00", null], "confidence": "high"}
+{"page": 981, "row_type": "total", "section": "Indians - General -", "label": null, "values": [null, null, "8,813 22"], "confidence": "high"}

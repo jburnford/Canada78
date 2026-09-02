@@ -1,0 +1,14 @@
+{"row_type": "headers", "title": "REPORT OF THE SUPERINTENDENT OF INDIAN EDUCATION AND REPORTS FROM INSPECTORS FOR THE FISCAL YEAR ENDED MARCH 31, 1915", "columns": ["Day Schools ($ cts.)", "Boarding Schools ($ cts.)", "Industrial Schools ($ cts.)", "Ex-Pupils ($ cts.)", "Travel and Salaries ($ cts.)", "Freight ($ cts.)", "Tuition ($ cts.)", "Miscellaneous ($ cts.)", "Total ($ cts.)"]}
+{"page": 505, "row_type": "row", "section": null, "label": "Ontario", "values": ["24,058 74", "41,456 44", "52,332 88", null, "7 30", "1,362 57", "579 49", "3,656 38", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "Quebec", "values": ["17,647 65", null, null, null, "2,425 07", "6,717 80", "23 35", "3,625 43", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["7,855 02", null, null, null, null, "136 50", "4 60", "754 17", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "N. Brunswick", "values": ["8,100 92", null, null, null, "510 65", "551 50", "2 91", "676 75", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "P.E. Island", "values": ["512 50", null, null, null, null, "76 52", null, "66 32", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "Manitoba", "values": ["15,605 07", "267,825 21", "52,380 42", "1,602 31", "175 80", "430 43", "370 51", "2,311 49", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "Saskatchewan", "values": ["24,896 51", "70,055 25", "35,172 11", "3,579 10", null, null, "1,287 94", "1,436 271", null], "confidence": "medium"}
+{"page": 505, "row_type": "row", "section": null, "label": "Alberta", "values": ["2,982 67", "81,784 61", "19,352 85", "186 35", null, "199 75", "1,317 67", "1,248 90", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "North West Territories", "values": ["100 00", "12,145 63", null, "219 40", null, null, "18 50", "92 72", null], "confidence": "high"}
+{"page": 505, "row_type": "row", "section": null, "label": "Brit. Columbia", "values": ["29,119 53", "36,391 66", "131,406 36", "369 07", null, "76 95", "165 34", "359 24", "2,055 05"], "confidence": "medium"}
+{"page": 505, "row_type": "row", "section": null, "label": "Yukon", "values": ["2,520 80", "11,417 64", null, "75 00", null, "45 00", "35 43", "74 58", null], "confidence": "high"}
+{"page": 505, "row_type": "total", "section": null, "label": "...", "values": ["133,399 41", "521,076 44", "290,644 62", "6,031 23", "3,195 77", "9,685 41", "3,999 64", "15,998 06", "984,030 58"], "confidence": "high"}
+{"page": 505, "row_type": "note", "section": null, "label": "To this total should be added the amounts charged against the Indian trust fund.", "values": null, "confidence": "high"}

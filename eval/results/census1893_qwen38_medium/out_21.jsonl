@@ -1,0 +1,148 @@
+{"row_type": "headers", "columns": ["Nos. of Reserves", "No. in Band", "Total No. on Reserve, Payments, 1893", "No. Absent"]}
+{"page": 709, "row_type": "note", "province": null, "agency": "Assiniboine", "band": "Assiniboine Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Assiniboine", "band": "Carry-the-Kettle", "population": 210, "values": ["76", "210", "177", "33"], "confidence": "high"}
+{"page": 709, "row_type": "note", "province": null, "agency": "File Hills", "band": "File Hills Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "File Hills", "band": "Pee-pee-kee-sis", "population": 90, "values": ["81", "90", "86", "4"], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "File Hills", "band": "Okanees", "population": 67, "values": ["82", "67", "67", null], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "File Hills", "band": "Star Blanket", "population": 51, "values": ["83", "51", "52", null], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "File Hills", "band": "Little Black Bear", "population": 77, "values": ["84", "77", "72", "5"], "confidence": "high"}
+{"page": 709, "row_type": "total", "province": null, "agency": "File Hills", "band": "...", "population": 285, "values": [null, "285", "276", "9"], "confidence": "high"}
+{"page": 709, "row_type": "note", "province": null, "agency": "Muscowpetung", "band": "Muscowpetung's Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Muscowpetung", "band": "Piapot", "population": 225, "values": ["75", "225", "213", "12"], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Muscowpetung", "band": "Muscowpetung", "population": 124, "values": ["80", "124", "115", "9"], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Muscowpetung", "band": "Pasquah", "population": 185, "values": ["79", "185", "180", "5"], "confidence": "high"}
+{"page": 709, "row_type": "total", "province": null, "agency": "Muscowpetung", "band": "...", "population": 534, "values": [null, "534", "508", "26"], "confidence": "high"}
+{"page": 709, "row_type": "note", "province": null, "agency": "Touchwood Hills", "band": "Touchwood Hills Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Touchwood Hills", "band": "Muscowequan", "population": 148, "values": ["85", "148", "148", null], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Touchwood Hills", "band": "George Gordon", "population": 152, "values": ["86", "152", "145", "7"], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Touchwood Hills", "band": "Day Star", "population": 85, "values": ["87", "85", "80", "5"], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Touchwood Hills", "band": "Poor Man", "population": 95, "values": ["88", "95", "83", "12"], "confidence": "high"}
+{"page": 709, "row_type": "band", "province": null, "agency": "Touchwood Hills", "band": "Yellow Quill", "population": 356, "values": ["89", "356", "345", "11"], "confidence": "high"}
+{"page": 709, "row_type": "total", "province": null, "agency": "Touchwood Hills", "band": "...", "population": 836, "values": [null, "836", "801", "35"], "confidence": "high"}
+{"page": 709, "row_type": "total", "province": null, "agency": null, "band": "Total in Treaty No. 4", "population": 4283, "values": [null, "4,283", "3,734", "549"], "confidence": "high"}
+{"page": 710, "row_type": "note", "province": null, "agency": null, "band": "TREATY No. 6.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 710, "row_type": "note", "province": null, "agency": "Duck Lake", "band": "Duck Lake Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 710, "row_type": "band", "province": null, "agency": "Duck Lake", "band": "One Arrow", "population": 109, "values": ["95", "109", "108", "1"], "confidence": "high"}
+{"page": 710, "row_type": "band", "province": null, "agency": "Duck Lake", "band": "Okemasis", "population": 21, "values": ["96", "21", "20", "1"], "confidence": "high"}
+{"page": 710, "row_type": "band", "province": null, "agency": "Duck Lake", "band": "Beardy", "population": 134, "values": ["97", "134", "134", null], "confidence": "high"}
+{"page": 710, "row_type": "band", "province": null, "agency": "Duck Lake", "band": "John Smith", "population": 156, "values": ["99", "156", "142", "14"], "confidence": "high"}
+{"page": 710, "row_type": "band", "province": null, "agency": "Duck Lake", "band": "James Smith", "population": 135, "values": ["100", "135", "122", "13"], "confidence": "high"}
+{"page": 710, "row_type": "band", "province": null, "agency": "Duck Lake", "band": "Big Head", "population": 41, "values": ["100a", "41", "38", "3"], "confidence": "high"}
+{"page": 710, "row_type": "band", "province": null, "agency": "Duck Lake", "band": "Cumberland", "population": 57, "values": ["100a", "57", "53", "4"], "confidence": "high"}
+{"page": 710, "row_type": "total", "province": null, "agency": "Duck Lake", "band": "...", "population": 653, "values": [null, "653", "617", "36"], "confidence": "high"}
+{"page": 710, "row_type": "note", "province": null, "agency": "Duck Lake", "band": "N.B. - There are 838 Indian children attending the various Industrial Schools who are included in Number on Reserve, 1893.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 711, "row_type": "note", "province": null, "agency": "Carlton", "band": "Carlton Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Carlton", "band": "William Twatt", "population": 146, "values": ["101", "146", "143", "3"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Carlton", "band": "Petaquakey", "population": 73, "values": ["102", "73", "73", null], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Carlton", "band": "Mistawasis", "population": 144, "values": ["103", "144", "142", "2"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Carlton", "band": "Ahtahkakoop", "population": 218, "values": ["104", "218", "213", "5"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Carlton", "band": "Kapahawekenum", "population": 66, "values": ["105", "66", "63", "3"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Carlton", "band": "Pelican Lake", "population": 91, "values": ["107", "91", "41", "50"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Carlton", "band": "Keneemotayee", "population": 100, "values": ["106", "100", "100", null], "confidence": "high"}
+{"page": 711, "row_type": "total", "province": null, "agency": "Carlton", "band": "...", "population": 838, "values": [null, "838", "775", "63"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": null, "band": "James Robert", "population": 392, "values": [null, "392", "369", "23"], "confidence": "medium"}
+{"page": 711, "row_type": "band", "province": null, "agency": null, "band": "William Charles", "population": 101, "values": [null, "101", "100", "1"], "confidence": "medium"}
+{"page": 711, "row_type": "total", "province": null, "agency": null, "band": "...", "population": 493, "values": [null, "493", "469", "24"], "confidence": "medium"}
+{"page": 711, "row_type": "note", "province": null, "agency": "Battleford", "band": "Batttleford Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Red Pheasant", "population": 135, "values": ["108", "135", "128", "7"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Mosquito", "population": 132, "values": ["109", "132", "99", "33"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Bear's Head", "population": null, "values": ["110", null, null, null], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Lean Man", "population": null, "values": ["111", null, null, null], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Moosomin", "population": 119, "values": ["112", "119", "111", "8"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Sweet Grass", "population": 139, "values": ["113", "139", "132", "7"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Poundmaker", "population": 127, "values": ["114", "127", "113", "14"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Thunderchild", "population": 175, "values": ["115", "175", "166", "9"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Battleford", "band": "Little Pine and Lucky Man", "population": 139, "values": ["116", "139", "117", "22"], "confidence": "high"}
+{"page": 711, "row_type": "total", "province": null, "agency": "Battleford", "band": "...", "population": 966, "values": [null, "966", "866", "100"], "confidence": "high"}
+{"page": 711, "row_type": "note", "province": null, "agency": "Onion Lake", "band": "Onion Lake Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Onion Lake", "band": "See-kas-kootch", "population": 199, "values": ["119", "199", "186", "13"], "confidence": "high"}
+{"page": 711, "row_type": "band", "province": null, "agency": "Onion Lake", "band": "Weemistacoosneawasis", "population": 106, "values": ["120", "106", "106", null], "confidence": "high"}
+{"page": 712, "row_type": "band", "province": null, "agency": "Onion Lake", "band": "Ooneepowhayo", "population": 67, "values": ["121", "67", "60", "7"], "confidence": "high"}
+{"page": 712, "row_type": "band", "province": null, "agency": "Onion Lake", "band": "Pus-keeah-kee-wenin", "population": 29, "values": ["122", "29", "29", null], "confidence": "high"}
+{"page": 712, "row_type": "band", "province": null, "agency": "Onion Lake", "band": "Kee-hee-win", "population": 108, "values": ["123", "108", "108", null], "confidence": "high"}
+{"page": 712, "row_type": "band", "province": null, "agency": "Onion Lake", "band": "Kinoosay", "population": 170, "values": ["124", "170", "169", "1"], "confidence": "high"}
+{"page": 712, "row_type": "total", "province": null, "agency": "Onion Lake", "band": "...", "population": 679, "values": [null, "679", "658", "21"], "confidence": "high"}
+{"page": 713, "row_type": "note", "province": null, "agency": "Saddle Lake", "band": "Saddle Lake Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Saddle Lake", "band": "Thomas Hunter", "population": 94, "values": ["125", "94", "94", null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Saddle Lake", "band": "Wahsatanow", "population": 27, "values": ["126", "27", "27", null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Saddle Lake", "band": "Blue Quill", "population": 78, "values": ["127", "78", "78", null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Saddle Lake", "band": "James Seenum", "population": 310, "values": ["128", "310", "306", "4"], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Saddle Lake", "band": "Peeaysis", "population": 14, "values": ["129", "14", "5", "9"], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Saddle Lake", "band": "Antoine", "population": 66, "values": ["130", "66", "66", null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Saddle Lake", "band": "Kaquanum", "population": 108, "values": ["131", "108", "103", "5"], "confidence": "high"}
+{"page": 713, "row_type": "total", "province": null, "agency": "Saddle Lake", "band": "...", "population": 697, "values": [null, "697", "679", "18"], "confidence": "high"}
+{"page": 713, "row_type": "note", "province": null, "agency": "Edmonton", "band": "Edmonton Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Edmonton", "band": "Michel", "population": 79, "values": ["132", "79", "79", null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Edmonton", "band": "Joseph", "population": 136, "values": ["133", "136", "129", "7"], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Edmonton", "band": "Paul", "population": 127, "values": ["133a", "127", "127", null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Edmonton", "band": "Alexander", "population": 221, "values": ["134", "221", "221", null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Edmonton", "band": "Enoch", "population": 152, "values": ["135", "152", "140", "12"], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Edmonton", "band": "Orphans", "population": 8, "values": [null, "8", "8", null], "confidence": "high"}
+{"page": 713, "row_type": "total", "province": null, "agency": "Edmonton", "band": "...", "population": 723, "values": [null, "723", "704", "19"], "confidence": "high"}
+{"page": 713, "row_type": "note", "province": null, "agency": "Hobbema", "band": "Hobbema Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Hobbema", "band": "Ermineskin", "population": 156, "values": ["137", "156", "152", "4"], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Hobbema", "band": "Sampson", "population": 289, "values": ["138", "289", "274", "15"], "confidence": "high"}
+{"page": 713, "row_type": "band", "province": null, "agency": "Hobbema", "band": "Sharphead", "population": 86, "values": ["140", "86", "2", "84"], "confidence": "high"}
+{"page": 714, "row_type": "band", "province": null, "agency": "Hobbema", "band": "Louis Bull", "population": 62, "values": ["141", "62", "60", "2"], "confidence": "high"}
+{"page": 714, "row_type": "total", "province": null, "agency": "Hobbema", "band": "...", "population": 593, "values": [null, "593", "488", "105"], "confidence": "high"}
+{"page": 714, "row_type": "total", "province": null, "agency": null, "band": "Total in Treaty No. 6", "population": 5642, "values": [null, "5,642", "5,256", "386"], "confidence": "high"}
+{"page": 714, "row_type": "note", "province": null, "agency": null, "band": "TREATY No. 7.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 714, "row_type": "note", "province": null, "agency": "Sarcee", "band": "Sarcee Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 714, "row_type": "band", "province": null, "agency": "Sarcee", "band": "Bull Head", "population": 235, "values": ["145", "235", "232", "3"], "confidence": "high"}
+{"page": 714, "row_type": "band", "province": null, "agency": "Sarcee", "band": "Bear's Paw", "population": 647, "values": ["142", "647", "550", "97"], "confidence": "high"}
+{"page": 714, "row_type": "band", "province": null, "agency": "Sarcee", "band": "Chiniquy", "population": null, "values": ["142", null, null, null], "confidence": "high"}
+{"page": 714, "row_type": "band", "province": null, "agency": "Sarcee", "band": "Jacob", "population": null, "values": ["143", null, null, null], "confidence": "high"}
+{"page": 714, "row_type": "total", "province": null, "agency": "Sarcee", "band": "...", "population": 882, "values": [null, "882", "782", "100"], "confidence": "high"}
+{"page": 714, "row_type": "note", "province": null, "agency": "Blackfoot", "band": "Blackfoot Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 714, "row_type": "band", "province": null, "agency": "Blackfoot", "band": "Running Rabbit", "population": 678, "values": ["146", "678", "662", "16"], "confidence": "high"}
+{"page": 714, "row_type": "band", "province": null, "agency": "Blackfoot", "band": "Old Sun", "population": 653, "values": ["146", "653", "647", "6"], "confidence": "high"}
+{"page": 714, "row_type": "total", "province": null, "agency": "Blackfoot", "band": "...", "population": 1331, "values": [null, "1,331", "1,309", "22"], "confidence": "high"}
+{"page": 715, "row_type": "note", "province": null, "agency": "Blood", "band": "Blood Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": "Blood", "band": "Red Crow and Day Chief", "population": 1611, "values": ["148", "1,611", "1,494", "117"], "confidence": "high"}
+{"page": 715, "row_type": "note", "province": null, "agency": "Peigan", "band": "Peigan Agency.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": "Peigan", "band": "Crow Eagle", "population": 830, "values": ["147", "830", "780", "50"], "confidence": "high"}
+{"page": 715, "row_type": "total", "province": null, "agency": null, "band": "Total in Treaty No. 7", "population": 4654, "values": [null, "4,654", "4,365", "289"], "confidence": "high"}
+{"page": 715, "row_type": "note", "province": null, "agency": null, "band": "NON-TREATY INDIANS.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "Stragglers", "population": 103, "values": [null, "103", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "Enoch", "population": 110, "values": [null, "110", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "Little Chief", "population": 250, "values": [null, "250", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "Ha-we-eda", "population": 50, "values": [null, "50", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "Padamonee", "population": 41, "values": [null, "41", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "Standing Buffalo", "population": 185, "values": [null, "185", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "White Cap", "population": 103, "values": [null, "103", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "U.S. Sioux", "population": 215, "values": [null, "215", null, null], "confidence": "high"}
+{"page": 715, "row_type": "band", "province": null, "agency": null, "band": "Cree Stragglers", "population": 180, "values": [null, "180", null, null], "confidence": "high"}
+{"page": 715, "row_type": "total", "province": null, "agency": null, "band": "Total number Non-Treaty Indians", "population": 1237, "values": [null, "1,237", null, null], "confidence": "high"}
+{"page": 716, "row_type": "note", "province": null, "agency": null, "band": "RECAPITULATION OF AGENCIES.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 716, "row_type": "note", "province": null, "agency": null, "band": "Treaty No. 4 -", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Birtle", "band": "Birtle", "population": 551, "values": [null, "551", "529", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Pelly", "band": "Pelly", "population": 647, "values": [null, "647", "646", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Moose Mountain", "band": "Moose Mountain", "population": 252, "values": [null, "252", "223", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Crooked Lake", "band": "Crooked Lake", "population": 968, "values": [null, "968", "574", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Assiniboine", "band": "Assiniboine", "population": 210, "values": [null, "210", "177", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "File Hills", "band": "File Hills", "population": 285, "values": [null, "285", "276", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Muscowpetung", "band": "Muscowpetung", "population": 534, "values": [null, "534", "508", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Touchwood Hills", "band": "Touchwood Hills", "population": 836, "values": [null, "836", "801", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Total", "population": 4283, "values": [null, "4,283", "3,734", null], "confidence": "medium"}
+{"page": 716, "row_type": "note", "province": null, "agency": null, "band": "Treaty No. 6 -", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Duck Lake", "band": "*Duck Lake", "population": 1146, "values": [null, "1,146", "1,086", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Carlton", "band": "Carlton", "population": 838, "values": [null, "838", "775", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Battleford", "band": "Battleford", "population": 966, "values": [null, "966", "866", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Onion Lake", "band": "Onion Lake", "population": 679, "values": [null, "679", "658", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Saddle Lake", "band": "Saddle Lake", "population": 697, "values": [null, "697", "679", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Edmonton", "band": "Edmonton", "population": 723, "values": [null, "723", "704", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Hobbema", "band": "Hobbema", "population": 593, "values": [null, "593", "488", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Total", "population": 5642, "values": [null, "5,642", "5,256", null], "confidence": "medium"}
+{"page": 716, "row_type": "note", "province": null, "agency": null, "band": "Treaty No. 7 -", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Sarcee and Stony", "band": "Sarcee and Stony", "population": 882, "values": [null, "882", "782", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Blackfoot", "band": "Blackfoot", "population": 1331, "values": [null, "1,331", "1,309", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Blood", "band": "Blood", "population": 1611, "values": [null, "1,611", "1,494", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": "Peigan", "band": "Peigan", "population": 830, "values": [null, "830", "780", null], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Total", "population": 4654, "values": [null, "4,654", "4,365", null], "confidence": "medium"}
+{"page": 716, "row_type": "note", "province": null, "agency": null, "band": "* Includes \"James Roberts\" and \"William Charles'\" Bands.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 716, "row_type": "note", "province": null, "agency": null, "band": "RECAPITULATION.", "population": null, "values": [null, null, null, null], "confidence": "high"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Treaty No. 4", "population": 4283, "values": [null, "4,283", "3,734", "549"], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Treaty No. 6", "population": 5642, "values": [null, "5,642", "5,256", "386"], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Treaty No. 7", "population": 4654, "values": [null, "4,654", "4,365", "289"], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Non-Treaty Indians", "population": 1237, "values": [null, "1,237", "1,151", "86"], "confidence": "medium"}
+{"page": 716, "row_type": "total", "province": null, "agency": null, "band": "Total", "population": 15816, "values": [null, "15,816", "14,506", "1,310"], "confidence": "medium"}

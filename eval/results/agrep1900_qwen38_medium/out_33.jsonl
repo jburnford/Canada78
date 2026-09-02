@@ -1,0 +1,16 @@
+{"row_type": "headers", "title": "Indian Trust Fund - Summary of Balances", "columns": ["$ cts.", "$ cts.", "$ cts."]}
+{"page": 1321, "row_type": "row", "section": null, "label": "Balance, July, 1899, as shown by A.G. Report, 1898 - 99, (page G - 61) and 1899 - 1900, page J - 76", "values": ["3,785,616 35", null, null], "confidence": "high"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Interest accrued during year on $1,097,657.70 at 6 p.c.", "values": [null, null, "65,859 46"], "confidence": "high"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Interest accrued during year on 604,564.16 at 5 p.c.", "values": [null, null, "30,228 21"], "confidence": "high"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Interest accrued during year on 2,083,394.49 at 3 p.c.", "values": [null, null, "62,501 83"], "confidence": "high"}
+{"page": 1321, "row_type": "total", "section": null, "label": "Total interest credited", "values": [null, null, "158,589 50"], "confidence": "high"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Government grants", "values": [null, null, "15,755 14"], "confidence": "high"}
+{"page": 1321, "row_type": "total", "section": null, "label": "Total Government grants and interest (page J - 76)", "values": [null, null, "174,344 64"], "confidence": "high"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Collections during year (page J - 76)", "values": [null, null, "169,550 941"], "confidence": "medium"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Refunds and transfers credited (Page J - 76)", "values": [null, "41,009 56", null], "confidence": "high"}
+{"page": 1321, "row_type": "total", "section": null, "label": "...", "values": [null, "384,905 14", null], "confidence": "high"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Expenditure during year (page J - 76)", "values": [null, null, "240,717 99"], "confidence": "high"}
+{"page": 1321, "row_type": "row", "section": null, "label": "Refunds and transfers debited (Page J - 76)", "values": [null, null, "36,180 87"], "confidence": "high"}
+{"page": 1321, "row_type": "total", "section": null, "label": "...", "values": [null, "276,898 86", null], "confidence": "high"}
+{"page": 1321, "row_type": "total", "section": null, "label": "...", "values": [null, null, "108,006 28"], "confidence": "high"}
+{"page": 1321, "row_type": "total", "section": null, "label": "Balance, June 30, 1900 (Page J - 76)", "values": [null, null, "3,893,622 63"], "confidence": "high"}

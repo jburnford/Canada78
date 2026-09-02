@@ -1,0 +1,247 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+               Number Cleared but    Under        Number     Number        Number in engaged in Number
+...            of       not under    actual       engaged in engaged in    hunting, trapping and engaged other
+               Indians. cultivation. cultivation. farming.   stock-raising fishing.              industries.
+
+               ...     Acres.        Acres.      ...         ...           ...                  ...
+ALBERTA.
+Blackfoot      768     299,950       250         24          132           ...                  ...
+Blood          1,149   347,641       2,392       27          318           ...                  10
+Edmonton       683     33,655        1,280       29          68            73                   49
+Hobbema        785     75,778        642         71          79            62                   26
+Lesser Slave
+               224     11,450        50          ...         24            47                   1
+Lake
+Piegan         462     93,429        109         10          82            ...                  56
+Saddle Lake    798     79,641        1,424       116         ...           157                  ...
+Sarcee         211     58,120        218         20          23            16                   6
+Stony          667     44,480        240         10          65            35                   100
+Total          5,747   1,044,144     6,605       307         791           390                  248
+
+BRITISH      ...       ...           ...         ...         ...           ...                  ...
+COLUMBIA.
+Babine and
+             3,113     18,878        750         47          900           169                  ...
+Upper Skeena
+Bella Coola    1,266   70            25          ...         ...           405                  ...
+Cassiar        305     325           ...         ...         ...           168                  69
+Cowichan       1,758   5,400         3,202       7           ...           94                   208
+Fraser River   2,846   3,498         3,713       509         ...           319                  289
+Kamloops-
+               3,862   241,643       17,046      893         l6            537                  53
+Okanagan
+Kootenay       573     38,356        1,640       129         ...           ...                  71
+Kwawkewlth     1,227   314    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+    22         ...         ...           ...                 60
+Hants          85       212            88         9           ...           5                   10
+Inverness      160      595            490        14          ...           3                   29
+Kings          78       29             2          1           ...           12                  12
+Lunenburg      86       300            450        8           ...           6                   12
+Pictou         172      90             140        2           ...           1                   46
+Queens         78       200            200        11          ...           ...                 11
+Richmond       104      150            180        ...         ...           18                  18
+Shelburne      34       ...            ...        ...         ...           ...                 10
+Victoria       97       210            60         24          ...           3                   13
+Yarmouth       65       4              1          2           ...           ...                 17
+...            1,992    3,019          2,491      89          ...           60                  400
+
+               ...      ...            ...        ...         ...           ...                 ...
+ONTARIO.
+Alnwick        259      100            2,527      9           ...           ...                 65
+
+<!-- page 818 -->
+Cape Croker   382     3,500   1,500   31   17    7     20
+Caradoc       1,366   3,533   4,644   83   ...   ...   307
+
+
+
+=== EXTRACT FROM HERE (pages 819-823) ===
+<!-- page 819 -->
+Agency.      LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                                                                                                Number
+             Number Cleared but      Under        Number     Number         Number engaged in
+                                                                                                engaged in
+...          of       not under      actual       engaged in engaged in     hunting, trapping
+                                                                                                other
+             Indians. cultivation.   cultivation. farming.   stock raising. and fishing.
+                                                                                                industries.
+...          ...      Acres.         Acres.     ...         ...           ...                   ...
+Chapleau     789      38             ...        ...         ...           225                   ...
+Christian
+             231      300            1,200      40          40            40                    25
+Island
+Fort Frances 861      76             134        1           20            165                   61
+Golden Lake 129       140            60         7           ...           11                    13
+Gore Bay     588      3,955          1,688      79          ...           8                     81
+Kenora       1,071    215            47         1           4             187                   102
+Lake Simcoe 101       546            205        6           ...           10                    15
+Manitowaning 1,907    31,900         3,540      135         ...           66                    114
+Moravian     338      1,190          1,000      75          ...           ...                   18
+Mud Lake     199      302            250        11          ...           59                    ...
+New Credit   279      1,890          3,810      41          ...           3                     38
+Parry Sound 552       1,174          810        67          ...           56                    40
+Port Arthur  1,497    240            240        ...         ...           291                   54
+Rama         236      419            766        12          ...           14                    28
+Carried
+             10,785   49,518         22,421     598         81            1,142                 981
+forward
+
+<!-- page 820 -->
+REALTY OF INDIANS - Continued.
+
+Agency.           PUBLIC BUILDINGS, PROPERTY OF THE BAND.
+                                                                                                                      Value of
+                  Saw Grist                         Other                Council School Driving   Other               Public
+...                             Threshers. Engines.            Churches.                                     Ferries.
+                  Mills. Mills.                     Machinery.           Houses Houses. Sheds.    Buildings.          Properties,
+                                                                                                                      & c.
+
+NORTHWEST ...           ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      $ cts.
+TERRITORIES.
+Norway House ...        ...   ...        ...     ...         8         2       10      16,500.00 ...         ...      ...
+The Pas      1          ...   ...        ...     ...         1         ...     3       ...       5           ...      2,275 00
+Total        1          ...   ...        ...     ...         9         2       13      ...       5           ...      18,775 00
+
+NOVA              ...   ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      ...
+SCOTIA.
+Annapolis
+                  ...   ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      ...
+County
+Antigonish and
+Guysborough     ...     ...   ...        ...     ...         1         ...     ...     ...        ...        ...      3,500 00
+Counties
+Cape Breton
+(Eskasoni)      ...     ...   ...        ...     ...         1         ...     1       ...        ...        ...      2,000 00
+County
+Cape Breton
+                ...     ...   ...        ...     ...         ...       ...     1       ...        ...        ...      3,000 00
+(Sydney) County
+Colchester
+                  ...   ...   ...        ...     ...         ...       ...     1       ...        1          ...      300 00
+County
+Cumberland
+                  ...   ...   ...        ...     ...         1         ...     ...     ...        ...        ...      125 00
+County
+Digby County     ...    ...   ...        ...     ...         1         ...     1       1          ...        ...      800 00
+Halifax County ...      ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      ...
+Hants County     ...    ...   ...        ...     ...         1         ...     1       ...        2          ...      1,600 00
+Inverness County ...    ...   ...        ...     ...         ...       ...     2       1          ...        ...      2,335 00
+Kings County     ...    ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      ...
+Lunenburg
+                 ...    ...   ...        ...     ...         ...       ...     1       ...        ...        ...      300 00
+County
+Pictou County     ...   ...   ...        ...     ...         1         ...     1       ...        ...        ...      4,500 00
+Queens County     ...   ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      ...
+Richmond
+                  ...   ...   ...        ...     ...         1         1       1       ...        ...        1        16,530 00
+County
+Shelburne
+                  ...   ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      ...
+County
+Victoria County   ...   ...   ...        ...     ...         ...       ...     1       ...        1          ...      850 00
+Yarmouth
+                  ...   ...   ...        ...     ...         ...       ...     ...     ...        ...        ...      ...
+
+<!-- page 821 -->
+County
+Total    ...   ...   ...   ...   ...   7   1   11   2   4   1   35,840 00
+
+<!-- page 822 -->
+Agency.       PUBLIC BUILDINGS, PROPERTY OF THE BAND.
+                                                                                                               Value of
+              Saw Grist                         Other                Council School Driving Other              Public
+...                         Threshers. Engines.            Churches.                                  Ferries.
+              Mills. Mills.                     Machinery.           Houses Houses. Sheds. Buildings.          Properties,
+                                                                                                               & c.
+
+              ...   ...   ...        ...      ...         ...       ...     ...      ...     ...       ...     $ cts.
+ONTARIO.
+Alnwick       ...   ...   ...        ...      ...         1         1       1        1       4         ...     6,250 00
+Cape Croker   ...   ...   1          1        1           2         1       2        2       5         ...     15,750 00
+Caradoc       ...   ...   ...        ...      ...         ...       3       6        1       13        ...     4,725 00
+Chapleau.     ...   ...   ...        ...      ...         ...       ...     ...      ...     ...       ...     ...
+Christian
+              ...   ...   2          1        ...         2         1       1        1       ...       ...     6,000 00
+Island
+Fort Frances ...    ...   ...        ...      ...         1         ...     6        ...     ...       ...     3,250 00
+Golden Lake. ...    ...   ...        ...      ...         1         ...     1        1       ...       ...     1,163 00
+Gore Bay     ...    ...   1          ...      ...         4         1       2        ...     ...       ...     6,90000
+Kenora       ...    ...   ...        ...      ...         ...       ...     2        ...     ...       ...     445 00
+Lake Simcoe ...     ...   1          ...      ...         1         1       1        1       1         ...     2,100 00
+Manitowaning ...    ...   ...        ...      2           8         3       9        1       2         ...     21,000 00
+Moravian     ...    ...   ...        ...      ...         ...       1       1        ...     ...       ...     4500 00
+Mud Lake     ...    ...   1          ...      ...         1         1       1        2       6         ...     10,000 00
+New Credit   ...    ...   ...        ...      4           2         1       1        2       3         ...     8,200 00
+Parry Sound 2       ...   ...        ...      1           7         2       5        1       7         ...     13,900 00
+Port Arthur  ...    ...   ...        ...      ...         ...       3       6        ...     2         ...     10,200 00
+Rama         ...    ...   ...        ...      ...         1         1       1        2       ...       ...     4,000 00
+Carried
+             2      ...   6          2        8           31        20      46       15      44        ...     118,383 00
+forward
+
+<!-- page 823 -->
+                                                                                                                                                       Value
+                                                                                                                                                                Value of
+                                                                                                                                                       of
+Agency.           PRIVATE FENCING AND BUILDINGS.                                                                                                                Private
+                                                                                                                                                       Private
+                                                                                                                                                                Buildings.
+                                                                                                                                                       Fencing.
+                  Acres Dwellings, Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle Pig          Store   Root    Milk    Corn
+...                                                                 Shanties. Barns.                                                                  ...       ...
+                  Fenced. Stone.   Brick.     Frame.     Log.                        Stables. Sheds. Stables. Stables. Houses. Houses. Houses. Cribs.
+
+NORTHWEST ...             ...        ...        ...        ...        ...      ...    ...     ...      ...     ...     ...     ...      ...     ...    $ cts.   $ cts.
+TERRITORIES.
+Norway House 342          ...        ...        ...        440        3        ...    ...     ...      155     ...     27      ...      ...     ...    1,209 00 45,975 00
+The Pas      81           ...        ...        12         127        35       ...    15      ...      41      ...     9       ...      ...     ...    952 00 23,250 00
+Total        423          ...        ...        12         567        38       ...    15      ...      196     ...     36      ...      ...     ...    2,161 00 69,225 00
+
+NOVA              ...     ...        ...        ...        ...        ...      ...    ...     ...      ...     ...     ...     ...      ...     ...    ...      ...
+SCOTIA.
+Annapolis
+                  10      ...        ...        12         ...        2        1      ...     1        ...     1       ...     ...      ...     ...    10 00    1,200 00
+County
+Antigonish and
+Guysborough       200     ...        ...        45         ...        8        10     ...     ...      ...     ...     ...     ...      ...     ...    80 00    3,700 00
+Counties
+Cape Breton
+                  600     ...        ...        20         2          5        21     13      ...      12      ...     ...     2        3       ...    600 00   5,300 00
+(Eskasoni) Co'nty
+Cape
+Breton(Sydney)    3       ...        ...        22         ...        5        1      ...     ...      ...     ...     ...     ...      ...     ...    25 00    2,650 00
+Co'nty
+Colchester
+                  15      ...        ...        20         ...        1        3      ...     ...      ...     ...     2       ...      ...     ...    20 00    1,125 00
+County
+Cumberland
+                  10      ...        ...        23         ...        6        4      4       ...      3       1       ...     ...      ...     ...    25 00    950 00
+County
+Digby County     300      ...        ...        27         ...        5        5      ...     ...      ...     ...     ...     ...      ...     ...    175 00 1,450 00
+Halifax County 33         ...        ...        24         ...        19       3      1       ...      ...     ...     ...     ...      ...     ...    231 00 905 00
+Hants County     80       ...        ...        15         1          2        7      1       ...      7       ...     ...     ...      ...     1      4,000 00 3,000 00
+Inverness County 662      ...        ...        29         ...        6        18     ...     ...      ...     ...     ...     2        2       ...    725 00 4,150 00
+Kings County     2        ...        ...        13         ...        ...      1      ...     ...      1       1       ...     ...      ...     ...    100 00 1,300 00
+Lunenburg
+                 500      ...        ...        17         ...        4        10     ...     1        ...     ...     ...      ...     ...     ...    250 00   4,400 00
+County
+Pictou County     55      ...        ...        36         ...        7        11     ...     ...      ...     ...     ...      ...     ...     ...    60 00    2,875 00
+Queens County     200     ...        ...        16         ...        5        4      ...     ...      ...     4       ...      ...     ...     ...    80 00    1,600 00
+Richmond
+                  10      ...        ...        ...        ...        3        9      5       ...      9       1       ...     ...      1       ...    100 00   1,100 00
+County
+Shelburne
+                  10      ...        ...        8          1          2        3      ...     ...      ...     1       ...     1        ...     ...    475 00   1,350 00
+County
+Victoria County   180     ...        ...        20         ...        1        12     ...     ...      8       3       ...     ...      ...     ...    500 00   4,300 00
+Yarmouth
+                  ...     ...        ...        4          ...        ...      1      ...     ...      ...     2       ...     ...      ...     ...    ...      200 00
+County
+

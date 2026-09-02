@@ -1,0 +1,84 @@
+{"row_type": "headers", "title": "TABULAR STATEMENT No. 1. SHOWING the Number of Acres of Indian Land sold during the Year ended the 30th June, 1889; the total amount of Purchase Money, and the quantity of surrendered surveyed Indian Land remaining unsold at that date in the Provinces of Ontario and Quebec.", "columns": ["Counties or Districts", "Number of Acres Sold", "Amount of Sale ($ cts.)", "Approximate Quantity remaining unsold (acres)", "Remarks"]}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Albemarle", "values": ["Bruce", "1,655.15", "2,863 71", "3,299.85", "Some of these lands were resumed by the Department, the conditions of sale not having been complied with, so that in certain cases there appears to have been more lands sold during the past fiscal year than remained unsold according to previous year's Report."], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Amabel", "values": ["Bruce", "715.00", "1,114 75", "1,115.00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Eastnor", "values": ["Bruce", "360.04", "470 00", "5,330.46", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Lindsay", "values": ["Bruce", "1,293.00", "1,089 75", "3,684.00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "St. Edmund", "values": ["Bruce", "604. 00", "453 00", "37,447.00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Bury, Town Plot", "values": ["Bruce", null, null, "1,767.25", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Hardwick Town Plot", "values": ["Bruce", null, null, "1,111 00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Oliphant Town Plot", "values": ["Bruce", null, null, "89.00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Southampton, Town Plot", "values": ["Bruce", "52.92", "417 63", "270.58", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Keppel", "values": ["Grey", "1,385.00", "1,830 50", "3,232.85", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Wiarton, Town Plot", "values": ["Grey", null, null, "36.30", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Bidwell", "values": ["Manitoulin Dist", "300 00", "150 00", "7,305.00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Howland", "values": ["Manitoulin Dist", "100.00", "20 00", "4,266.00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Sheguiandah", "values": ["Manitoulin Dist", "58.00", "29 00", "11,844.00", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Sheguiandah Town Plot", "values": ["Manitoulin Dist", null, null, "300.35", null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Billings", "values": ["Manitoulin Dist", "91.00", "45 50", "5,682.87", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Assiginack", "values": ["Manitoulin Dist", null, null, "6,787.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Campbell", "values": ["Manitoulin Dist", "100.00", "50 00", "10,486.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Manitowaning, Town Plot", "values": ["Manitoulin Dist", null, null, "34.15", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Carnarvon", "values": ["Manitoulin Dist", "100.00", "50 00", "10,831.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Tehkummah", "values": ["Manitoulin Dist", null, null, "8,707.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Sandfield", "values": ["Manitoulin Dist", null, null, "6,732.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Shaftesbury, Town Plot", "values": ["Manitoulin Dist", "4.00", "217 50", "158.87", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Mississaga Reserve", "values": ["Algoma District", "25.70", "77 10", "1,173.64", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Thessalon", "values": ["Algoma District", null, null, "5,398.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Aweres", "values": ["Algoma District", null, null, "13,584.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Serpent River Reserve", "values": ["Algoma District", "100.55", "301 65", null, "Right of way for C.P.R."], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Archibald", "values": ["Algoma District", null, null, "2,900.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Dennis", "values": ["Algoma District", "160.00", "80 00", "3,349.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Fisher", "values": ["Algoma District", null, null, "9,602.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Herrick", "values": ["Algoma District", "80.00", "40 00", "7,267.63", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Havilland", "values": ["Algoma District", null, null, "3,821.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Kars", "values": ["Algoma District", null, null, "9,479.00", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Apaquosh, Town Plot", "values": ["Algoma District", null, null, "316.91", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Laird", "values": ["Algoma District", "784.92", "583 96", "10,003.08", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Macdonald", "values": ["Algoma District", "646.40", "223 00", "2,834.60", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Meredith", "values": ["Algoma District", null, null, "7,695.70", null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Pennefather", "values": ["Algoma District", null, null, "18,131.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Tilley", "values": ["Algoma District", null, null, "12,691.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Tupper", "values": ["Algoma District", null, null, "2,800.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Fenwick", "values": ["Algoma District", "76.50", "38 25", "13,097.50", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Vankoughnet", "values": ["Algoma District", "89 00", "44 50", "10,850 50", null], "confidence": "medium"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "*Shingcouicouse", "values": ["Algoma District", null, null, "269.00", "*Includes small islands."], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Allan", "values": ["Manitoulin Dist", "596.00", "183 00", "4,617.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Burpee", "values": ["Manitoulin Dist", "202.00", "76 00", "12,171.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Barrie Island", "values": ["Manitoulin Dist", "609.00", "244 30", "3.593.00", null], "confidence": "medium"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Gordon", "values": ["Manitoulin Dist", "414.00", "207 00", "3,217.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Gore Bay", "values": ["Manitoulin Dist", "1.50", "30 00", "2.25", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Mills", "values": ["Manitoulin Dist", "668.00", "158 70", "9,799.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Cockburn Island", "values": ["Manitoulin Dist", "301.00", "150 50", "29,697.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Dawson", "values": ["Manitoulin Dist", "197.90", "98 50", "31,703.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Robinson", "values": ["Manitoulin Dist", "1,509.00", "714 50", "56,876.00", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Tolsmaville, Town Plot", "values": ["Manitoulin Dist", null, null, "1,574.75", null], "confidence": "high"}
+{"page": 485, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Neebing", "values": ["Manitoulin Dist", null, null, "3,778.00", null], "confidence": "high"}
+{"page": 485, "row_type": "total", "section": "PROVINCE OF ONTARIO.", "label": "Carried forward", "values": [null, "13,279.58", "12,052", "422,809.09", null], "confidence": "medium"}
+{"page": 486, "row_type": "total", "section": "PROVINCE OF ONTARIO.", "label": "Brought forward", "values": [null, "13,279.58", "12,052 30", "422,809.09", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Saugeen Fishing Islands", "values": ["Manitoulin Dist", "17.50", "65 00", "880.50", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Cape Hurd Islands", "values": ["Manitoulin Dist", null, null, "7 702.50", null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Sarnia", "values": ["Lambton", null, null, "70.85", "Acreage increased over last Report owing to additional surrendered lands having been added."], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Anderdon", "values": ["Essex", null, null, "145.61", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Seneca", "values": ["Haldimand", null, null, "267.90", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Cayuga", "values": ["Haldimand", "249.52", "1,445 50", "457.64", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Azoff, Village", "values": ["Haldimand", null, null, "10.00", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Caledonia, Town plot", "values": ["Haldimand", null, null, "31.23", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Oneida", "values": ["Haldimand", null, null, "378.50", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Brantford", "values": ["Brant", "*49.80", "398.40", null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Thorah Island", "values": ["Lake", "58.00", "300 00", "74.00", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Bronte", "values": ["Halton", null, null, "3.75", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Port Credit and part of Township of Toronto", "values": ["Peel", "1.07", "210 00", null, null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Islands in the River St. Lawrence", "values": ["Ontario, Province.", "167.00", "608 00", "905.90", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Islands in the Otonabee and its Lakes", "values": ["Peterboro', &c", "70.80", "727 00", "2,380.80", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Islands in Lake Simcoe and Georgian Bay", "values": ["Georgian Bay", "80.29", "785 75", null, "These Indians are surveyed as sold,"], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "White Cloud", "values": ["Georgian Bay", "828.10", "2,376 00", "327.35", null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Deseronto", "values": ["Hastings", "0.96", "2,525 00", "10.21", "Acreage increased over last Report owing to additional surrendered land having been added."], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "PROVINCE OF ONTARIO.", "label": "Sultana Island", "values": ["Rainy River Dist", "137.82", "689 10", "462.18", null], "confidence": "high"}
+{"page": 487, "row_type": "total", "section": "PROVINCE OF ONTARIO.", "label": "...", "values": [null, "14,940.44", "22,182 05", "436,918.01", null], "confidence": "high"}
+{"page": 487, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Ouiatchouan", "values": ["Chicoutimi", "382.00", "163 30", "10,200.20", null], "confidence": "high"}
+{"page": 487, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Colraine", "values": ["Megantic", null, null, "1,203.00", null], "confidence": "high"}
+{"page": 487, "row_type": "row", "section": "PROVINCE OF QUEBEC.", "label": "Dundee", "values": ["Huntingdon", null, null, "20,453.00", null], "confidence": "high"}
+{"page": 487, "row_type": "total", "section": "PROVINCE OF QUEBEC.", "label": "...", "values": [null, "382.00", "163 30", "31,856.20", null], "confidence": "high"}
+{"page": 487, "row_type": "total", "section": "RECAPITULATION.", "label": "Ontario", "values": [null, "14,940.44", "22,182 05", "436,918.01", null], "confidence": "high"}
+{"page": 487, "row_type": "total", "section": "RECAPITULATION.", "label": "Quebec", "values": [null, "382.00", "163 30", "31,956.20", null], "confidence": "high"}
+{"page": 487, "row_type": "total", "section": "RECAPITULATION.", "label": "...", "values": [null, "15,322.44", "22,345 35", "468,774.21", null], "confidence": "high"}

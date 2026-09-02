@@ -1,0 +1,265 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+Agency      LAND                   PUBLIC BUILDINGS, PROPERTY OF BAND.              PRIVATE FENCING AND BUILDINGS
+                Cleared, Cultivated,
+                including including           Council School Driving Other          Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                  Churches                               Ferries
+                natural made                  Houses Houses Sheds Buildings         Fenced Stone     Brick      Frame      Log.
+                pasturage pasturage.
+ONTARIO.        Acres    Acres     ...       ...    ...     ...    ...       ...    ...     ...       ...        ...       ...
+Grand River
+Superintendency 23,974   10,722    14        1      11      7      1         ...    41,696 1          15         201       365
+- Six Nations
+Parry Sound
+                1,476    ...       7         ...    6       1      5         ...    1,456   ...       ...        23        119
+Superintendency
+New Credit
+(Mississaguas) 1,010     2,950     2         1      1       3      3         ...    5,100   ...       3          45        20
+Agency
+Walpole Island
+               8,200     2,991     2         1      3       2      2         4      2,991   ...       ...        101       131
+Agency
+Sarnia Agency 3,612      680       4         2      3       1      1         ...    5,472 ...         2          111       8
+Caradoc Agency 7,669     6,434     ...       3      6       1      13        ...    15,420 ...        6          107       138
+Moravian
+               1,200     960       ...      1       1       ...    ...       ...    2,240   ...       1          28        57
+Agency
+Manitowaning
+                1,517    3,864     7        3       9       2      ...       ...    2,216   ...       ...        27        280
+Agency
+Gore Bay        3,859    1,390     3        ...     2       ...    2         ...    1,329   ...       ...        7         99
+Thessalon
+                350      260       2        ...     4       ...    ...       ...    260     ...       ...        28        57
+Agency
+Sault Ste. Marie ...     ...       ...      ...     ...     ...    ...       ...    ...     ...       ...        ...       ...
+Port Arthur      786     543       3        2       6       1      2         ...    325     ...       ...        20        186
+Golden Lake
+                 185     25        1        ...     1       ...    1         ...    82      ...      
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+gency
+Williams
+            11         4        19,126 25   1,148    539   488    18       ...   136   336   234   ...   ...     19      51       615
+Lake Agency
+Kamloops-
+Okanagan      39       50       50,627 00   2,994    3,241 3,158 46        ...   162   803   1,184 17    21      31      277      661
+Agency
+Kootenay
+              5        ...      9,014 00    875      745   795    30       ...   62    585   600   ...   ...     ...     ...      ...
+Agency
+Northwest
+Coast        ...       ...      5,330 00    29       30    24     12       8     28    40    29    4     5       2       7        22
+Agency
+Babine and
+Upper
+             ...       ...      1,865 00    408      53    5      21       ...   28    248   115   ...   ...     ...     ...      ...
+Skeena River
+Agency
+Total         78       157      119,889 00 5,903     5,080 4,682 201       121   565   3,198 2,958 1,271 1,035 100       595      3,213
+Manitoba      ...      ...      ...        ...       ...   ...   ...       ...   ...   ...   ...   ...   ...   ...       ...      ...
+Clandeboye
+              32       33       11,100 00   120      92    21     4        152   28    217   198   10    ...     ...     ...      55
+Agency
+Portage la
+Prairie     6          19       3,880 00    82       74    41     4        29    14    42    34    ...   ...     ...     2        9
+Agency
+Manitowapah
+            6          24       4,530 00    119      81    66     16       45    102   356   468   4     ...     2       7        15
+
+
+
+=== EXTRACT FROM HERE (pages 1017-1021) ===
+<!-- page 1017 -->
+Agency
+Rat Portage
+              ...   ...   21 50       2     2     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Agency
+Berens River
+             ...    ...   1,709 00    6     9     2     22    83    47    133   72    ...   ...   ...   ...   ...
+Agency
+The Pas
+              ...   ...   875 00      12    11    9     10    16    13    94    74    ...   ...   ...   ...   ...
+Agency
+Total         44    76    22,015 50   341   269   139   56    325   204   842   846   14    ...   2     9     79
+
+<!-- page 1018 -->
+                                             Value                                                                      Value
+                                             of Live                                                                    of Real
+                 LIVE STOCK AND                                                                               HOUSEHOLD
+Agency                                       Stock GENERAL EFFECTS                                                      and
+                 POULTRY - Con.                                                                               EFFECTS
+                                             and                                                                        Personal
+                                             Poultry                                                                    Property
+                                                      Sail Row                  Shot      Steel       Value
+...              Poultry                     ...                  Canoes Rifles      Nets       Tents       Value of.    ...
+                                                      Boats Boats               Guns      Traps       of.
+                                     Cocks
+...              Turkeys Geese Ducks and ...          ...   ...   ...    ...   ...   ...   ...   ...   ...    ...        ...
+                                     Hens
+NEW
+                 ...       ...   ...   ...   $ cts.   ...   ...   ...    ...   ...   ...   ...   ...   $ cts. $ cts.     $ cts.
+BRUNSWICK
+Richibucto                                   2,945                                                     5,850             68,435
+                ...        ...   ...   100            46    32    50     ...   153   215 151     ...         8,000 00
+Superintendency                              00                                                        00                00
+Fredericton                                  3,400                                                     3,040             70,298
+                ...        11    ...   520            ...   4     102    55    46    3     416   26          6,955 00
+Superintendency                              00                                                        00                50
+                                             6,345                                                     8,890             138,733
+Total            ...       11    ...   620            46    36    152    55    199   218 567     26          14,955 00
+                                             00                                                        00                50
+PRINCE
+EDWARD          ...        ...   ...   ...   ...      ...   ...   ...    ...   ...   ...   ...   ...   ...    ...        ...
+ISLAND
+Prince Edward
+                                             1,505                                                     520               40,425
+Island          ...        3     1     166            2     26    1      ...   13    5     19    ...          2,830 00
+                                             00                                                        00                00
+Superintendency
+NOVA
+                 ...       ...   ...   ...   ...      ...   ...   ...    ...   ...   ...   ...   ...   ...    ...        ...
+SCOTIA
+Annapolis                                                                                              220
+                 ...       ...   2     6     80 00    ...   ...   7      4     10    8     18    ...          200 00     1,803 20
+County                                                                                                 00
+Shelburne                                                                                              150
+                 ...       ...   4     30    80 00    ...   3     2      2     8     ...   ...   ...          200 00     1,780 00
+County                                                                                                 00
+                                                                                                       324
+Digby County     ...       ...   ...   10    38 00    ...   ...   10     9     6     ...   20    3            300 00     4,257 00
+                                                                                                       00
+Yarmouth                                                                                               108
+                 ...       ...   ...   ...   ...      ...   ...   6      7     2     ...   10    4            20 00      308 00
+County                                                                                                 00
+                                                                                                       150
+King's County    ...       ...   ...   10    150 00 ...     1     1      ...   20    ...   20    ...          200 00     2,450 00
+                                                                                                       00
+                                                                                                       155
+Queen's County ...         ...   ...   ...   287 00 ...     ...   6      4     6     5     10    2            150 00     2,153 00
+                                                                                                       00
+                                                                                                       100
+Halifax County ...         ...   ...   15    75 00    1     2     ...    ...   6     1     1     2            200 00     515 00
+                                                                                                       00
+                                             1,575                                                     1,500             24 970
+Hants County     ...       ...   ...   30             1     2     1      6     15    ...   100   ...         3,000 00
+                                             00                                                        00                00
+Colchester
+                 ...       ...   ...   35    44 00    ...   ...   ...    3     12    ...   20    1     85 00 216 00      1,919 50
+County
+Cumberland                                                                                             180
+                 ...       ...   ...   40    250 00 ...     1     4      9     20    ...   50    ...          500 00     3,830 00
+County                                                                                                 00
+
+<!-- page 1019 -->
+                                                                                             100
+Pictou County   ...   ...   ...   ...   250 00 ...   5    ...   ...   6    3     ...   ...         150 00     7,200 00
+                                                                                             00
+Antigonish and
+                                                                                             120
+Guysborough    ...    ...   ...   50    320 00 1     3    ...   ...   25   ...   5     ...         1,295 00   7,945 00
+                                                                                             00
+Counties
+Richmond                                                                                     792              22,091
+                ...   ...   ...   60    545 00 7     11   ...   ...   10   ...   12    ...         150 00
+County                                                                                       00               00
+Inverness                                                                                    205              15,047
+                ...   ...   ...   55    834 00 3     13   ...   ...   16   5     72    ...         880 00
+County                                                                                       00               00
+
+<!-- page 1020 -->
+                                              Value
+                                                                                                                             Value of
+                                              of Live
+              LIVE STOCK AND                                                                                       HOUSEHOLD Real and
+Agency                                        Stock GENERAL EFFECTS
+              POULTRY - Con.                                                                                       EFFECTS   Personal
+                                              and
+                                                                                                                             Property
+                                              Poultry
+                                                      Sail Row                  Shot      Steel       Value
+...           Poultry                         ...                 Canoes Rifles      Nets       Tents              Value of.    ...
+                                                      Boats Boats               Guns      Traps       of.
+                                  Cocks
+...           Turkeys Geese Ducks and         ...     ...   ...   ...     ...   ...   ...   ...    ...     ...     ...          ...
+                                  Hens
+Victoria
+              ...       ...   ...   100       500 00 1      13    ...     ...   11    1     80     ...     400 00 500 00        11,990 00
+County
+Cape Breton
+            ...         ...   ...   ...       700 00 2      3     3       7     10    ...   1      ...     153 00 300 00        13,323 00
+County
+Lunenburg
+              12        10    10    25        800 00 ...    ...   4       2     6     ...   17     4       111 00 175 00        4,968 00
+County
+                                              6,528                                                        4,853                126,549
+Total         12        10    16    466               16    57    44      53    189   23    436    16              8,436 00
+                                              00                                                           00                   70
+BRITISH
+         ...            ...   ...   ...       ...     ...   ...   ...     ...   ...   ...   ...    ...     ...     ...          ...
+COLUMBIA
+Cowichan                                      39,490                                                       25,800               819,634
+              ...       222   485   3,955            191    ...   443     347   297   53    18     122            31,625 00
+Agency                                        00                                                           00                   00
+West Coast                                    3,857                                                        35,886               192,224
+              ...       ...   12    598               12    11    1,346   85    425   81    218    123            34,700 00
+Agency                                        00                                                           00                   00
+Kwawkewlth                                                                                                 13,444               118,508
+           ...          ...   ...   321       402 50 15     19    480     117   193   109   1,037 ...             52,300 00
+Agency                                                                                                     00                   00
+Lower Fraser                                  61,413                                                       43,874               1,132,575
+             ...        20    977   2,809            77     157   464     428   457   151   1,237 408             58,766 00
+Agency                                        00                                                           00                   00
+Williams                                      88,057                                                       12,256               356,816
+            3           5     ...   1,880            ...    17    93      407   129   156   1,240 217             13,939 00
+Lake Agency                                   50                                                           00                   25
+Kamloops-
+                                              144,937                                                      21,221               2,046,721
+Okanagan      ...       18    24    2,412             4     48    146     685   277   470   1,526 1,035           45,750 00
+                                              50                                                           00                   80
+Agency
+Kootenay                                      85,740                                                       3,372                258,419
+              10        ...   ...   205              ...    ...   40      147   23    ...   107    130             2,750 00
+Agency                                        00                                                           00                   50
+Northwest
+                                              6,474                                                        104,950              739,077
+Coast         ...       ...   10    1,543             282   293   1,521   1,156 353   287   6,050 ...              92,900 00
+                                              00                                                           00                   00
+Agency
+Babine and
+Upper                                         43,730                                                       46,405               261,187
+             ...        ...   ...   ...              ...    ...   347     619   334   88    2,385 53              17,505 00
+Skeena River                                  00                                                           00                   00
+Agency
+                                              474,101                                                      307,208              5,925,161
+Total         13        265   1,508 133,723           581   545   4,880   3,991 2,488 1,395 13,818 2,088           350,235 00
+                                              50                                                           00                   00
+MANITOBA ...            ...   ...   ...       ...    ...    ...   ...     ...   ...   ...   ...    ...     ...    ...           ...
+Clandeboye                                    32,000                                                       18,000               405,151
+           ...          ...   ...   965              20     268   49      24    222   1,330 2,029 323             11,700 00
+Agency                                        00                                                           00                   90
+
+<!-- page 1021 -->
+Portage la
+                                        6,850                                                   1,150              193,613
+Prairie       ...   ...   ...   15              ...   ...   9     11    28    14    475   90            650 00
+                                        00                                                      00                 00
+Agency
+Manitowapah                             27,950                                                  3,460              169,645
+            ...     ...   ...   137            22     69    100   22    167   378   2,145 150           5,350 00
+Agency                                  00                                                      00                 00
+Rat Portage
+              ...   ...   ...   ...     80 00   1     ...   15    ...   4     6     30    3     232 00 100 00      5,421 50
+Agency
+Berens River                            14,630                                                  27,542             133,784
+             ...    ...   ...   86             11     293   355   33    365   1,417 2,267 329          19,419 00
+Agency                                  00                                                      00                 10
+The Pas                                 5,048                                                   6,140
+              ...   ...   ...   10              ...   16    234   18    201   315   2,217 103           2,875 00   91,417 00
+Agency                                  00                                                      00
+                                        86,558                                                  56,524             999,032
+Total         ...   ...   ...   1,213          54     646   762   108   987   3,460 9,162 998          40,094 00
+                                        00                                                      00                 50
+

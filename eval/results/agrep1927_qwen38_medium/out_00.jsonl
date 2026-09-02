@@ -1,0 +1,39 @@
+{"row_type": "headers", "title": "DETAILS OF REVENUE AND EXPENDITURE", "columns": ["Grant", "Expenditure", "Grant not Used", "Grant Exceeded"]}
+{"page": 108, "row_type": "note", "section": null, "label": "General -", "values": [null, null, null, null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Surrender of Land", "values": ["50,000 00", null, "50,000 00", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Relief to Eskimos", "values": [null, "34,584 18", null, "34,584 18"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Relief to Indians", "values": ["100,000 00", "102,877 28", null, "2,877 28"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Tuberculosis", "values": ["50,000 00", "68,756 95", null, "18,756 95"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Printing and stationery", "values": ["5,000 00", "7,150 49", null, "2,150 49"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Surveys", "values": ["6,000 00", "554 18", "5,445 82", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "To Assist Trust Fund account 310", "values": ["3,000 00", "3,000 00", null, null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Smallpox and other diseases", "values": ["10,000 00", "5,338 00", "4, 4662 00", null], "confidence": "medium"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Registration fees", "values": ["500 00", "232 75", "267 25", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Legal expenses", "values": ["7,000 00", "8,845 26", null, "1,845 26"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "General -", "label": "Amount unexpended", "values": [null, null, null, "160 91"], "confidence": "high"}
+{"page": 108, "row_type": "total", "section": "General -", "label": "...", "values": ["231,500 00", "231,339 09", "60,375,07", "60,375 07"], "confidence": "medium"}
+{"page": 108, "row_type": "note", "section": null, "label": "Indian Education -", "values": ["1,951,490 00", "1,951,327 42", "162 58", null], "confidence": "high"}
+{"page": 108, "row_type": "note", "section": "Indian Education -", "label": "Civil Government", "values": ["173,065 00", "167,347 55", "5,717 45", null], "confidence": "high"}
+{"page": 108, "row_type": "note", "section": "Indian Education -", "label": "Annuities", "values": ["205,290 00", "213,376 00", null, "8,086 00"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Annuities", "label": "Nova Scotia", "values": ["81,840 00", "81,836 30", "3 70", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Annuities", "label": "New Brunswick", "values": ["39,174 00", "39,170 01", "3 99", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Annuities", "label": "Prince Edward Island", "values": ["5,735 00", "5,662 65", "72 35", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Annuities", "label": "Ontario and Quebec", "values": ["304,748 02", "266,898 08", "37,849 94", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Annuities", "label": "Manitoba, Saskatchewan, Alberta and Northwest Territories", "values": ["714,097 00", "713,927 30", "169 70", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Annuities", "label": "British Columbia", "values": ["352,170 00", "349,850 81", "2,319 19", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Annuities", "label": "Yukon", "values": ["19,000 00", "16,006 41", "2,993 59", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Indian Education -", "label": "General", "values": ["231,500 00", "231,339 09", "160 91", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": "Indian Education -", "label": "Indian Education", "values": ["1,951,490 00", "1,951,327 42", "162 58", null], "confidence": "high"}
+{"page": 108, "row_type": "total", "section": "Indian Education -", "label": "...", "values": ["4,078,109 02", "4,036,741 62", "49,453,40", "8,086 00"], "confidence": "medium"}
+{"page": 108, "row_type": "row", "section": null, "label": "Special open account with Finance Department", "values": ["37,897 49", "- 294 72", "38,192 21", null], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": null, "label": "Miscellaneous gratuities", "values": [null, "680 00", null, null], "confidence": "high"}
+{"row_type": "headers", "title": "INDIAN TRUST FUND SHOWING transactions in connection with the Fund during the year ended March 31, 1927.", "columns": ["Debit", "Credit"]}
+{"page": 108, "row_type": "row", "section": null, "label": "Balance March 31, 1926", "values": [null, "12,418,460 77"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": null, "label": "Collections on land sales, timber and stone dues, rents, fines and fees", "values": [null, "899,391 77"], "confidence": "high"}
+{"page": 108, "row_type": "row", "section": null, "label": "Interest for the year ending March 31, 1927", "values": [null, "631,821 48"], "confidence": "high"}
+{"page": 109, "row_type": "row", "section": null, "label": "Legislative grants to supplement the funds", "values": [null, "3,500 00"], "confidence": "high"}
+{"page": 109, "row_type": "row", "section": null, "label": "Outstanding cheques 1924 - 25", "values": [null, "229 33"], "confidence": "high"}
+{"page": 109, "row_type": "row", "section": null, "label": "Credit transfers during the year", "values": [null, "477 99"], "confidence": "high"}
+{"page": 109, "row_type": "row", "section": null, "label": "Expenditure during the year", "values": ["1,092,927 65", null], "confidence": "high"}
+{"page": 109, "row_type": "row", "section": null, "label": "Balance March 31, 1927", "values": ["12,860,953 69", null], "confidence": "high"}
+{"page": 109, "row_type": "total", "section": null, "label": "...", "values": ["$13,953,881 34", "$13,953,881 34"], "confidence": "high"}

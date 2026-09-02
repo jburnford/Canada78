@@ -1,0 +1,15 @@
+{"row_type": "headers", "columns": ["Census Return", "Acknowledged and claimed as Protestant", "Acknowledged and claimed as Roman Catholic", "Pagan"]}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Algonquins, Golden Lake", "population": 94, "values": ["94", null, "94", null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Algonquins, Renfrew North", "population": 286, "values": ["*286", null, null, null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas of the Thames", "population": 437, "values": ["437", "437", null, null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas Walpole Island", "population": 639, "values": ["639", "588", "31", "20"], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas Sarnia", "population": 471, "values": ["471", "471", null, null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas Georgina and Snake Island", "population": 120, "values": ["120", "120", "2", null], "confidence": "medium"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas Rama", "population": 235, "values": ["235", "223", "12", null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas Saugeen", "population": 370, "values": ["370", "327", "43", null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas Nawash", "population": 396, "values": ["396", "264", "132", null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Chippewas Beausoleil", "population": 391, "values": ["391", "235", "156", null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Iroquois and Algonquins of Gibson, (Watha)", "population": 124, "values": ["124", "124", null, null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Moravians of the Thames", "population": 324, "values": ["324", "324", null, null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Mississaguas of Mud Lake", "population": 163, "values": ["163", "163", null, null], "confidence": "high"}
+{"page": null, "row_type": "band", "province": "PROVINCE OF ONTARIO", "agency": null, "band": "Mississaguas of Rice Lake", "population": 79, "values": ["79", "79", null, null], "confidence": "medium"}

@@ -1,0 +1,64 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+BRITISH COLUMBIA.
+                                    Annual     Where
+Name.            Office.                                      Remarks.
+                                    Salary.    Stationed.
+...              ...                $ cts.     ...            ...
+I.W. Powell,     Visiting
+                                    3,000 00   Victoria       With travelling expenses.
+M.D.             Superintendent
+                 Superintendent's
+H. Moffat                           1,800 00   Victoria       ...
+                 Assistant
+W.H. Lomas       Agent              1,200 00   Cowichan       ...
+H. Guillod       Agent              1,200 00   West Coast     ...
+G. Blenkinsop    Agent              1,200 00   Kwawkewith     ...
+P. McTiernan     Agent              1,000 00   Fraser River   ...
+H. Cornwall      Agent              1,200 00   Kamloops       ...
+A.E. Howse       Agent              1,200 00   Okanagan       ...
+                                               North West
+J.W. McKay       Agent              1,200 00                  ...
+                                               Coast
+W.L. Meason Agent                   1,000 00   Williams Lake ...
+
+
+=== EXTRACT FROM HERE (pages 384-385) ===
+NOVA SCOTIA
+                                                              District No. 1 'a,' for Counties of Annapolis and
+G. Wells         Agent              50 00      ...
+                                                              Shelburne.
+F. McDormand Agent                  50 00      ...            District No. 1 'b,' Yarmouth and Digby.
+J.E. Beckwith Agent                 25 00      Canning        District No. 2, for King's County.
+Rev. Thos.
+              Agent                 37 50      Caledonia      District No. 3, for Queen's County.
+Butler
+Rev. Thos.
+                 Agent              37 50      Caledonia      District No. 4, for County Lunenberg.
+Butler
+Rev. D.C.
+                 Agent              33 33      Bedford        District No. 5, for County Halifax.
+O'Connor
+James Gass       Agent              16 66      Shubenacadie District No. 6 'a,' for County Hants.
+Dr. D.H. Muir    Agent              16 86      Truro        District No. 6 'b,' for County Colchester.
+Dr. A.T. Clark   Agent              33 33      Parrsboro    District No. 7, for County Cumberland.
+Rev. R.
+                 Agent              100 00     Pictou         District No. 8, for County Pictou.
+McDonald
+Rev. J.J.                                                     District No. 9, for Counties Antigonish and
+                 Agent              100 00     Antigonish
+Chisholm                                                      Guysboro'.
+Rev. J.
+                 Agent              100 00     Red Island     District No. 10, for County Richmond, C.B.
+McDougall
+                                               River
+Rev. D. McIssac Agent               50 00                     District No. 11, for County Iverness
+                                               Inhabitants
+                                               Grand
+Rev. R. Grant    Agent              50 00                     District 12, for County Victoria.
+                                               Narrows
+Rev. M.                                        Christmas
+
+<!-- page 385 -->
+           Agent   100 00            District No. 13, for County Cape Breton.
+McKenzie                    Island
+

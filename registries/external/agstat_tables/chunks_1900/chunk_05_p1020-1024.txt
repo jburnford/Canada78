@@ -1,0 +1,330 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province, Name of     Resident                                                                              From 65
+                                                  From 6 to 15,                           From 21 to 65,
+ Agency Superintendent Indian      Under 6 years.               From 16 to 20, inclusive.                    years    ... ... Male. Female.
+                                                  inclusive.                              inclusive.
+ or Band. or Agent.    Population.                                                                           upwards.
+
+Male.     Female.       Male.       Female. Male. Female. Male. Female.                    ...         ...   ...   ...
+                                                                          ONTARIO.
+                                                                          Grand River
+...       ...           ...         ...     ...   ...     ...    ...      Superintendency ...          ...   ...   ...
+                                                                          -
+                                                                                          E.D.
+...       ...           ...         ...     ...   ...     ...    ...      Six Nations     Cameron,     3,988 220 292
+                                                                                          Supt.
+                                                                                           W.B.
+                                                                          Parry (Sound
+408       398           208         199     1,094 1,023   69     77                        Maclean,    859   63    64
+                                                                          )Superintendency
+                                                                                           Supt.
+                                                                          New Credit       Hugh
+94        90            38          43      206   255     3      3        (Mississaguas) Stewart,      248   20    14
+                                                                          Agency           Agent
+                                                                                           Alex.
+                                                                          Walpole Island
+34        18            8           9       62    66      11     6                     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+  5     3     ...
+Agency
+                  Agent
+Jeune Lorette     A.O. Bastien,
+                                   ...   11    9     ...   8     12    ...   ...   ...   ...
+Agency            Agent
+Becancour         H. Desilets,
+                                   1     3     ...   ...   2     2     ...   ...   1     ...
+Agency            M.D., Agent
+                  Adam
+Temiskaming
+                  Burwash,         15    11    11    ...   8     5     13    12    2     ...
+Agency
+                  Agent
+                  Adolphe
+Bersimis Agency                 5        ...   2     ...   4     1     ...   1     ...   ...
+                  Gagnon, Agent
+Total             ...              59    341   494   14    148   246   66    28    53    52
+
+NEW             ...                ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+BRUNSWICK.
+Richibucto      W.D. Carter,
+                                   67    56    43    ...   39    37    ...   41    2     ...
+Superintendency Supt.
+Fredericton       James Farrell,
+                                 7       14    32    ...   14    27    ...   6     5     ...
+Agency            Supt.
+Total             ...              74    70    75    ...   53    64    ...   47    7     ...
+
+PRINCE
+                  ...              ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+EDWARD
+ISLAND.
+Prince Edward John O.
+Island          Arsenault,         2     27    23    ...   23    6     ...   ...   3     ...
+Superintendency Supt.
+
+
+
+=== EXTRACT FROM HERE (pages 1020-1024) ===
+<!-- page 1020 -->
+PERSONALTY OF INDIANS.
+ Province, Name of
+ Agency or Superintendent AGRICULTURAL IMPLEMENTS, VEHICLES, &c.
+ Band.     or Agent.
+                                                    Seed-                land-                     Horse- Fanning Threshing Tool
+...              ...            Ploughs. Harrows.           Cultivators.          Mowers. Reapers.
+                                                    drills.              rollers.                  rakes. mills. machines. chests.
+
+                 ...            ...     ...         ...   ...         ...     ...      ...      ...     ...      ...       ...
+ONTARIO.
+Grand River
+Superintendency ...             ...     ...         ...   ...         ...     ...      ...      ...     ...      ...       ...
+-
+                 E.D. Cameron,
+Six Nations                     370     282         53    196         75      110      75       111     148      2         4
+                 Superintendent
+                W.B.
+Parry Sound
+                Maclean,       36       24          ...   ...         ...     1        ...      ...     6        ...       ...
+Superintendency
+                Superintendent
+New Credit
+                Hugh Stewart,
+(Mississaguas)                 45       40          6     13          6       10       6        9       12       1         1
+                Agent
+Agency
+               Alex.
+Walpole Island
+               McKelvey,        90      55          6     50          8       34       5        16      25       1         2
+Agency
+               Agent
+                 Adam English,
+Sarnia Agency                  83       72          9     40          10      25       25       24      41       1         15
+                 Agent
+                 A. Sinclair,
+Caradoc Agency                  124     109         21    83          19      37       32       33      62       1         17
+                 Agent
+                 A.R.
+Moravian
+                 McDonald,      55      56          7     53          2       14       10       9       17       ...       2
+Agency
+                 Agent
+Manitowaning     C.L.D. Sims,
+                                174     99          ...   5           ...     17       7        19      7        ...       51
+Agency           Agent
+Gore Bay         J.H. Thorburn,
+                                54      46          ...   ...         ...     1        ...      3       15       1         ...
+Agency           Agent
+Thessalon        Saml. Hagan,
+                                14      11          ...   ...         ...     1        ...      1       1        ...       ...
+Agency           Agent
+Sault Ste. Marie Wm. Van
+                               39       32          ...   ...         ...     ...      ...      ...     3        1         3
+Agency           Abbott, Agent
+Port Arthur      J.F. Hodder,
+                                13      11          ...   ...         ...     ...      ...      ...     ...      ...       3
+Agency           Agent
+Golden Lake      E. Bennet,
+                                10      4           ...   ...         ...     ...      ...      ...     ...      ...       ...
+Agency           Agent
+                 Geo.
+Tyendinaga
+                 Anderson,      127     130         25    92          37      60       34       70      54       3         44
+Agency
+                 Agent
+Lake Simcoe      John Yates,
+                                22      13          ...   1           ...     1        2        3       4        1         9
+Agency           Agent
+
+<!-- page 1021 -->
+Cape Croker     John McIver,
+                                60    50    2     3     2     6     2     20    25    1     1
+Agency          Agent
+                John
+Saugeen
+                Scoffield,      60    37    ...   ...   ...   6     1     10    5     1     50
+Agency
+                Agent
+                John
+Alnwick
+                Thackeray,      29    24    6     11    2     5     4     9     14    ...   2
+Agency
+                Agent
+                W.
+Mud Lake
+                McFarlane,      12    7     1     ...   1     1     1     1     4     ...   ...
+Agency
+                Agent
+                W.
+Rice Lake
+                McFarlane,      9     6     1     1     1     1     2     2     5     ...   1
+Agency
+                Agent
+                D.J. McPhee,
+Rama Agency                     20    20    ...   ...   2     1     1     3     2     ...   3
+                Agent
+                 Chas.
+Christian Island
+                 McGibbon,      30    20    ...   ...   2     1     ...   2     2     1     ...
+Agency
+                 Agent
+                 A.W.
+Scugog Agency Williams,         3     3     1     ...   ...   1     1     ...   5     ...   3
+                 Agency
+Indians of
+Beausoleil Band
+                 C.L.D. Sims,
+residing on                     4     3     ...   ...   ...   ...   ...   1     ...   ...   2
+                 Agency
+Manitoulin
+Island
+Chippewas and
+Saulteaux of      ...           ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Treaty No. 3 at -
+Hungry Hall       M. Begg,
+                                2     1     ...   ...   ...   ...   ...   ...   ...   ...   ...
+No. 1             Agent
+
+<!-- page 1022 -->
+                          Name of
+Province, Agency or
+                          Superintendent AGRICULTURAL IMPLEMENTS, VEHICLES, &c.
+Band.
+                          or Agent.
+                                                          Seed-                land-                     Horse- Fanning Threshing Tool
+...                       ...         Ploughs. Harrows.           Cultivators.          Mowers. Reapers.
+                                                          drills.              rollers.                  rakes. mills. machines. chests.
+                          M. Begg,
+Hungry Hall No. 2                     1       1           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Long Sault No. 1                      4       2           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Long Sault No. 2                      2       1           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Manitou Rapids No. 1                  3       1           ...   ...         ...     ...      ...      ...     1        ...       ...
+                          Agent
+                          M. Begg,
+Manitou Rapids No. 2                  1       2           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Little Forks                          4       3           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Couchiching                           2       2           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Stangecomimg                          ...     ...         ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Nicatchewenin                         1       ...         ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Nickickonesemenecanning               1       1           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Riviere la Seine                      1       1           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          M. Begg,
+Lac la Croix                          1       ...         ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Agent
+                          L.J.A.
+Lac des Mille Lacs        Leveque,    2       2           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Inspector
+                          L.J.A.
+Sturgeon Lake             Leveque,    ...     ...         ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Inspector
+                          L.J.A.
+Eagle Lake                Leveque,    ...     1           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Inspector
+                          L.J.A.
+Wabigoon                  Leveque,    3       2           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Inspector
+                          L.J.A.
+Ignace                    Leveque,    ...     ...         ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Inspector
+                          L.J.A.
+Frenchman's Head          Leveque,    2       2           ...   ...         ...     ...      ...      ...     ...      ...       ...
+                          Inspector
+
+<!-- page 1023 -->
+                         L.J.A.
+Lac Seul                 Leveque,        4       3       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Wabuskang                Leveque,        2       2       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Grassy Narrows           Leveque,        2       3       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Rat Portage              Leveque,        ...     ...     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Shoal Lake No. 39        Leveque,        ...     ...     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Shoal Lake No. 40        Leveque,        1       1       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Northwest Angle No. 37   Leveque,        3       3       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Northwest Angle No. 33   Leveque,        1       1       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Northwest Angle No. 34   Leveque,        ...     1       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Whitefish Bay            Leveque,        1       ...     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Big Island               Leveque,        1       ...     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Assabaska                Leveque,        2       1       ...   ...   ...   ...   ...   ...   ...   ...   1
+                         Inspector
+                         L.J.A.
+Islington                Leveque,        1       1       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+The Dalles               Leveque,        1       1       ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+Total                    ...             1,532   1,194   138   548   167   333   208   346   458   15    214
+
+                         ...             ...     ...     ...   ...   ...   ...   ...   ...   ...   ...   ...
+QUEBEC.
+Lake of Two Mountains    J. Perillard,
+                                         33      40      ...   2     1     4     1     10    7     2     5
+Agency                   Agent
+                         Alex
+
+<!-- page 1024 -->
+Caughnawaga Agency     Brosseau,      245   200   15    30    8     30    8     35    20    16    75
+                       Agent
+                       Geo. Long,
+St. Regis Agency                      102   82    5     66    4     43    16    45    8     12    62
+                       Agent
+                       E. Beaulieu,
+Viger Agency                          ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                       Agent
+                       A.O. Comiré,
+St. Francis Agency                  3       5     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                       Agent
+                       Wm.
+Lake St. John Agency   Donohoe,       22    28    ...   ...   1     3     1     5     10    4     ...
+                       Agent
+                       Rev. J. Gagné,
+Maria Agency                          3     7     ...   ...   1     ...   ...   ...   1     ...   ...
+                       Agent
+                       Jeremie Pitre,
+Restigouche Agency                    32    23    ...   4     2     4     1     11    3     1     2
+                       Agent
+Carried forward        ...            410   386   20    102   18    84    27    106   49    35    144
+

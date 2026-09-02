@@ -1,0 +1,73 @@
+{"row_type": "headers", "title": "INDIAN TRUST FUND. SHOWING transactions in connection with the Fund during the Year ended March 31, 1913.", "columns": ["DR. $ cts.", "CR. $ cts."]}
+{"page": 1522, "row_type": "row", "section": "349 - PENTICTON RESERVE, B.C.", "label": "Balance, March 31, 1913", "values": ["631 61", null], "confidence": "medium"}
+{"page": 1522, "row_type": "total", "section": "349 - PENTICTON RESERVE, B.C.", "label": "...", "values": ["631 51", "631 61"], "confidence": "medium"}
+{"page": 1523, "row_type": "note", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "Capital.", "values": ["$ cts.", "$ cts."], "confidence": "medium"}
+{"page": 1523, "row_type": "row", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "Balance, April 1, 1912", "values": [null, "1,361 44"], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "Balance, March 31, 1913", "values": ["1,351 44", null], "confidence": "high"}
+{"page": 1523, "row_type": "total", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "...", "values": ["1,351 44", "1,351 44"], "confidence": "high"}
+{"page": 1523, "row_type": "note", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "Balance, April 1, 1912, $63.42; interest, 3 p.c. on $1,414.86, $42.45", "values": [null, "105 97"], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "Advance to agent Perry, for building road to graveyard", "values": ["40 00", null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "Balance, March 31, 1913", "values": ["65 87", null], "confidence": "high"}
+{"page": 1523, "row_type": "total", "section": "350. - KITSAMKAYLUM BAND, B.C.", "label": "...", "values": ["105 87", "105 87"], "confidence": "high"}
+{"page": 1523, "row_type": "note", "section": "354 - COLD WATER RESERVE, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "354 - COLD WATER RESERVE, B.C.", "label": "Balance, April 1, 1912", "values": [null, "731 07"], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "354 - COLD WATER RESERVE, B.C.", "label": "Balance, March 31, 1913", "values": ["731 07", null], "confidence": "high"}
+{"page": 1523, "row_type": "total", "section": "354 - COLD WATER RESERVE, B.C.", "label": "...", "values": ["731 07", "731 07"], "confidence": "high"}
+{"page": 1523, "row_type": "note", "section": "354 - COLD WATER RESERVE, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "354 - COLD WATER RESERVE, B.C.", "label": "Balance, April 1, 1912, $2,794.70; interest, 3 p.c. on $3,525.77, $105.77", "values": [null, "2,900 47"], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "354 - COLD WATER RESERVE, B.C.", "label": "Compensation to Indians for improvements", "values": ["2,782 00", null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "354 - COLD WATER RESERVE, B.C.", "label": "Balance, March 31, 1913", "values": ["118 47", null], "confidence": "high"}
+{"page": 1523, "row_type": "total", "section": "354 - COLD WATER RESERVE, B.C.", "label": "...", "values": ["2,900 47", "2,900 47"], "confidence": "high"}
+{"page": 1523, "row_type": "note", "section": "355. - KITSELAS RESERVES, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "355. - KITSELAS RESERVES, B.C.", "label": "Balance, April 1, 1912", "values": [null, "66 20"], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "355. - KITSELAS RESERVES, B.C.", "label": "Balance, March 31, 1913", "values": ["66 20", null], "confidence": "high"}
+{"page": 1523, "row_type": "total", "section": "355. - KITSELAS RESERVES, B.C.", "label": "...", "values": ["66 20", "66 20"], "confidence": "high"}
+{"page": 1523, "row_type": "note", "section": "355. - KITSELAS RESERVES, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "355. - KITSELAS RESERVES, B.C.", "label": "Balance, April 1, 1912, $1,621.72; interest, 3 p.c., on $1,687.92, $50.64", "values": [null, "1,672 36"], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "355. - KITSELAS RESERVES, B.C.", "label": "Compensation paid for improvements", "values": ["760 00", null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "355. - KITSELAS RESERVES, B.C.", "label": "Balance, March 31, 1913", "values": ["912 36", null], "confidence": "high"}
+{"page": 1523, "row_type": "total", "section": "355. - KITSELAS RESERVES, B.C.", "label": "...", "values": ["1,672 36", "1,672 36"], "confidence": "high"}
+{"page": 1523, "row_type": "note", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Balance, April 1, 1912", "values": [null, "503 10"], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Building material for Johnny Swivolus", "values": ["200 00", null], "confidence": "high"}
+{"page": 1523, "row_type": "row", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Balance, March 31, 1913", "values": ["303 10", null], "confidence": "high"}
+{"page": 1523, "row_type": "total", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "...", "values": ["503 10", "503 10"], "confidence": "high"}
+{"page": 1523, "row_type": "note", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1524, "row_type": "row", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Balance, April 1, 1912, $21.33; interest, 3 p.c. on $524.43, $15.73", "values": [null, "37 06"], "confidence": "high"}
+{"page": 1524, "row_type": "row", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Supplies for sick and destitute", "values": ["9 05", null], "confidence": "high"}
+{"page": 1524, "row_type": "row", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "Balance, March 31, 1913", "values": ["28 01", null], "confidence": "high"}
+{"page": 1524, "row_type": "total", "section": "358. - SQUIA-ALA RESERVE, B.C.", "label": "...", "values": ["37 06", "37 06"], "confidence": "high"}
+{"page": 1525, "row_type": "note", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Capital.", "values": ["$ cts.", "$ cts."], "confidence": "medium"}
+{"page": 1525, "row_type": "row", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Balance, April 1, 1912", "values": [null, "65,996 00"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Advance to W.J. McAllan, in November, for distribution", "values": ["25,000 00", null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Balance, March 31, 1913", "values": ["40,996 00", null], "confidence": "high"}
+{"page": 1525, "row_type": "total", "section": "360. - FORT GEORGE BAND, B.C.", "label": "...", "values": ["65,996 00", "65,996 00"], "confidence": "high"}
+{"page": 1525, "row_type": "note", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Interest, 3 p.c. on $65,996", "values": [null, "1,979 88"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Advertising for tenders for buildings", "values": ["168 12", null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "360. - FORT GEORGE BAND, B.C.", "label": "Balance, March 31, 1913", "values": ["1,811 76", null], "confidence": "high"}
+{"page": 1525, "row_type": "total", "section": "360. - FORT GEORGE BAND, B.C.", "label": "...", "values": ["1,979 88", "1,979 88"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "362. - GOLD RIVER RESERVE, N.S.", "label": "Balance, April 1, 1912, $9 63; interest, 3 p.c. on $9.63, 29c", "values": [null, "9 92"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "362. - GOLD RIVER RESERVE, N.S.", "label": "R.A. Stewart, rent of land", "values": [null, "10 25"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "362. - GOLD RIVER RESERVE, N.S.", "label": "Balance, March 31, 1913", "values": ["20 17", null], "confidence": "high"}
+{"page": 1525, "row_type": "total", "section": "362. - GOLD RIVER RESERVE, N.S.", "label": "...", "values": ["20 17", "20 17"], "confidence": "high"}
+{"page": 1525, "row_type": "note", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Balance, April 1, 1912", "values": [null, "1,205 28"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Compensation for land taken for right-of-way", "values": ["346 50", null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Balance, March 31, 1913", "values": ["858 78", null], "confidence": "high"}
+{"page": 1525, "row_type": "total", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "...", "values": ["1,205 28", "1,205 28"], "confidence": "high"}
+{"page": 1525, "row_type": "note", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Balance, April 1, 1912, $56.40; interest, 3 p.c. on $1,261.68, $37.85", "values": [null, "94 25"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Supplies for destitute", "values": ["5 55", null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "Balance, March 31, 1913", "values": ["88 70", null], "confidence": "high"}
+{"page": 1525, "row_type": "total", "section": "363. - ASHCROFT INDIANS, B.C.", "label": "...", "values": ["94 25", "94 25"], "confidence": "high"}
+{"page": 1525, "row_type": "note", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "Balance, April 1, 1912", "values": [null, "308 34"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "Transfer from Account 75 of 10 p.c, on improvements in 1911 - 12", "values": [null, "6 50"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "Balance, March 31, 1913", "values": ["314 84", null], "confidence": "high"}
+{"page": 1525, "row_type": "total", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "...", "values": ["314 84", "314 84"], "confidence": "high"}
+{"page": 1525, "row_type": "note", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "Interest, 3 p.c. on $308.34", "values": [null, "9 25"], "confidence": "high"}
+{"page": 1525, "row_type": "row", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "Balance, March 31, 1913", "values": ["9 25", null], "confidence": "high"}
+{"page": 1525, "row_type": "total", "section": "364. - KUTHLATH RESERVE (YALE BAND) B.C.", "label": "...", "values": ["9 25", "9 25"], "confidence": "high"}

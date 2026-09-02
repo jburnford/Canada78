@@ -1,0 +1,77 @@
+{"row_type": "headers", "title": "INDIAN TRUST FUND.", "columns": ["Debit ($ cts)", "Credit ($ cts)"]}
+{"page": 1394, "row_type": "note", "section": "332. - STONY RESERVES, NOS. 110 AND 111, SASK. - Concluded.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "332. - STONY RESERVES, NOS. 110 AND 111, SASK. - Concluded.", "label": "Balance, April 1, 1911, $1,469.38; interest, 3 p.c. on $20,470.94, $614.13", "values": [null, "2,083 51"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "332. - STONY RESERVES, NOS. 110 AND 111, SASK. - Concluded.", "label": "Interest on deferred payments on land", "values": [null, "2,777 66"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "332. - STONY RESERVES, NOS. 110 AND 111, SASK. - Concluded.", "label": "Interest distributed, $1,803.20; wagons, 7 at $95; mower, $60", "values": ["2,528 20", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "332. - STONY RESERVES, NOS. 110 AND 111, SASK. - Concluded.", "label": "Harness, 6 sets at $35; combination plows, 2, $58", "values": ["268 00", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "332. - STONY RESERVES, NOS. 110 AND 111, SASK. - Concluded.", "label": "Balance, March 31, 1912", "values": ["2,064 97", null], "confidence": "high"}
+{"page": 1394, "row_type": "total", "section": "332. - STONY RESERVES, NOS. 110 AND 111, SASK. - Concluded.", "label": "...", "values": ["4,861 17", "4,861 17"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "334. - BURRARD INLET BAND, NO. 3, B.C.", "label": "Balance, April 1, 1911, $533.76; interest, 3 p.c. on $533.76, $16.01", "values": [null, "549 77"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "334. - BURRARD INLET BAND, NO. 3, B.C.", "label": "Brittingham & Young Co., rent", "values": [null, "175 00"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "334. - BURRARD INLET BAND, NO. 3, B.C.", "label": "Management Fund, percentage on collections, 6 p.c. on $175", "values": ["10 50", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "334. - BURRARD INLET BAND, NO. 3, B.C.", "label": "Provisions for destitute", "values": ["2 25", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "334. - BURRARD INLET BAND, NO. 3, B.C.", "label": "Balance, March 31, 1912", "values": ["712 02", null], "confidence": "high"}
+{"page": 1394, "row_type": "total", "section": "334. - BURRARD INLET BAND, NO. 3, B.C.", "label": "...", "values": ["724 77", "724 77"], "confidence": "high"}
+{"page": 1394, "row_type": "note", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "Balance, April 1, 1911", "values": [null, "1,147 50"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "Balance, March 31, 1912", "values": ["1,147 50", null], "confidence": "high"}
+{"page": 1394, "row_type": "total", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "...", "values": ["1,147 50", "1,147 50"], "confidence": "high"}
+{"page": 1394, "row_type": "note", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "Balance, April 1, 1911, $162; interest, 3 p.c. on $1,309.50, $39.29", "values": [null, "201 29"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "Provisions for destitute", "values": ["28 70", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "Balance, March 31, 1912", "values": ["172 59", null], "confidence": "high"}
+{"page": 1394, "row_type": "total", "section": "336. - SEMIAHAMOO BAND, B.C.", "label": "...", "values": ["201 29", "201 29"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "339. - PORT SIMPSON INDIANS, B.C.", "label": "Balance, April 1, 1911, $45.76; interest, 3 p.c. on $45.76, $1.37", "values": [null, "47 13"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "339. - PORT SIMPSON INDIANS, B.C.", "label": "Provisions for destitute", "values": ["5 00", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "339. - PORT SIMPSON INDIANS, B.C.", "label": "Balance, March 31, 1912", "values": ["42 13", null], "confidence": "high"}
+{"page": 1394, "row_type": "total", "section": "339. - PORT SIMPSON INDIANS, B.C.", "label": "...", "values": ["47 13", "47 13"], "confidence": "high"}
+{"page": 1394, "row_type": "note", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Balance, April 1, 1911", "values": [null, "45,117 83"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Labour on lock-up, $254.25; lumber, 8,244 ft., $177.15; shingles, 4 1/4 M., $15.50", "values": ["446 90", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Sash, 4, $4.50; paint, $9.25; nails and hardware, $42.85; freight, $4.20", "values": ["60 80", null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Balance, March 31, 1912", "values": ["44,610 13", null], "confidence": "high"}
+{"page": 1394, "row_type": "total", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "...", "values": ["45,117 83", "45,117 83"], "confidence": "high"}
+{"page": 1394, "row_type": "note", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Balance, April 1, 1911, $3,177.61; interest, 3 p.c. on $48,295.44, $1,448.86", "values": [null, "4,626 47"], "confidence": "high"}
+{"page": 1394, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Refund on account of band uniforms", "values": [null, "129 50"], "confidence": "high"}
+{"page": 1395, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Four shares on sale of reserve, $800; constable at election, $3", "values": ["803 00", null], "confidence": "high"}
+{"page": 1395, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Repairs to bridge, $61; lumber for bridge, 3,332 ft., $59.15", "values": ["120 15", null], "confidence": "high"}
+{"page": 1395, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Provisions for destitute", "values": ["5 00", null], "confidence": "high"}
+{"page": 1395, "row_type": "row", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "Balance, March 31, 1912", "values": ["3,827 82", null], "confidence": "high"}
+{"page": 1395, "row_type": "total", "section": "340. - METLAKAHTLA INDIANS, B.C.", "label": "...", "values": ["4,755 97", "4,755 97"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "341. - HOMALCO (KOOMSACK) BAND, B.C.", "label": "Balance, April, 1911, $418.72; interest, 3 p.c. on $418.72, $12.56", "values": [null, "431 28"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "341. - HOMALCO (KOOMSACK) BAND, B.C.", "label": "Corbould, Grant & McColl, rent", "values": [null, "100 25"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "341. - HOMALCO (KOOMSACK) BAND, B.C.", "label": "Management Fund, percentage on collections, 6 p.c. on $100.25", "values": ["6.02", null], "confidence": "medium"}
+{"page": 1396, "row_type": "row", "section": "341. - HOMALCO (KOOMSACK) BAND, B.C.", "label": "Lawn fence, 36 - in., 600 ft., $120; gate, $6", "values": ["126 00", null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "341. - HOMALCO (KOOMSACK) BAND, B.C.", "label": "Nails and spikes, 150 lb., $5.55; provisions for destitute, $11.50", "values": ["17 05", null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "341. - HOMALCO (KOOMSACK) BAND, B.C.", "label": "Balance, March 31, 1912", "values": ["382 46", null], "confidence": "high"}
+{"page": 1396, "row_type": "total", "section": "341. - HOMALCO (KOOMSACK) BAND, B.C.", "label": "...", "values": ["531 53", "531 53"], "confidence": "high"}
+{"page": 1396, "row_type": "note", "section": "342. - COMOX BAND, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "342. - COMOX BAND, B.C.", "label": "Balance, April 1, 1911", "values": [null, "18 00"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "342. - COMOX BAND, B.C.", "label": "Balance, March 31, 1912", "values": ["18 00", null], "confidence": "high"}
+{"page": 1396, "row_type": "total", "section": "342. - COMOX BAND, B.C.", "label": "...", "values": ["18 00", "18 00"], "confidence": "high"}
+{"page": 1396, "row_type": "note", "section": "342. - COMOX BAND, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "342. - COMOX BAND, B.C.", "label": "Balance, April 1, 1911, $444.71; interest, 3 p.c. on $462.71, $13.88", "values": [null, "458 59"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "342. - COMOX BAND, B.C.", "label": "Provisions for destitute", "values": ["20 05", null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "342. - COMOX BAND, B.C.", "label": "Balance, March 31, 1912", "values": ["438 54", null], "confidence": "high"}
+{"page": 1396, "row_type": "total", "section": "342. - COMOX BAND, B.C.", "label": "...", "values": ["458 59", "458 59"], "confidence": "high"}
+{"page": 1396, "row_type": "note", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Balance, April 1, 1911", "values": [null, "22 50"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Hastings Shingle M'f'g. Co., dues on timber", "values": [null, "225 87"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Management Fund, percentage on collections, 10 p.c. on $225.87", "values": ["22 59", null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Balance, March 31, 1912", "values": ["225 78", null], "confidence": "high"}
+{"page": 1396, "row_type": "total", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "...", "values": ["248 37", "248 37"], "confidence": "high"}
+{"page": 1396, "row_type": "note", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Balance, April 1, 1911, $4.81; interest, 3 p.c. on $27.31, 82c.", "values": [null, "55 63"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Abbott & Tucker, rent of right of way", "values": [null, "50 00"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "Balance, March 31, 1912", "values": ["55 63", null], "confidence": "high"}
+{"page": 1396, "row_type": "total", "section": "343. - DREW HARBOUR INDIANS, B.C.", "label": "...", "values": ["55 63", "55 63"], "confidence": "high"}
+{"page": 1396, "row_type": "note", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "Capital.", "values": [null, null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "Balance, April 1, 1911", "values": [null, "485 55"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "Balance, March 31, 1912", "values": ["485 55", null], "confidence": "high"}
+{"page": 1396, "row_type": "total", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "...", "values": ["485 55", "485 55"], "confidence": "high"}
+{"page": 1396, "row_type": "note", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "Interest.", "values": [null, null], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "Balance, April 1, 1911, $38.64; interest, 3 p.c. on $524.19, $15.73", "values": [null, "54 37"], "confidence": "high"}
+{"page": 1396, "row_type": "row", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "Provisions for destitute, $10.85; coffin, $10", "values": ["20 85", null], "confidence": "high"}
+{"page": 1397, "row_type": "row", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "Balance, March 31, 1912", "values": ["33 52", null], "confidence": "high"}
+{"page": 1397, "row_type": "total", "section": "344. - NAMOOSE RESERVE, B.C.", "label": "...", "values": ["54 37", "54 37"], "confidence": "high"}

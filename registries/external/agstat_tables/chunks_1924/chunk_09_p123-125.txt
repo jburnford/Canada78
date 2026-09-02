@@ -1,0 +1,104 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 6: SOURCES AND VALUE OF INCOME
+
+                         Value
+                         of
+                                                                                        Annuities
+               Value of Beef                                       Earned Earned by
+                                          Received                                      Earned by
+               Farm      sold                      Received Earned by       other                   Total
+                                 Wages    from                                          Interest on
+Agencies       Products, also of                   from     by     Hunting Industries               Income of
+                                 Earned   Land                                          Indian
+               including that                      Timber Fishing and       and                     Indians
+                                          Rentals                                       Trust
+               Hay       used                                      Trapping Occupations
+                                                                                        Funds
+                         for
+                         Food
+...            $         $       $        $ cts.     $ cts.     $        $         $        $ cts.      $ cts.
+
+               ...       ...     ...      ...        ...        ...      ...       ...      ...         ...
+ALBERTA
+Blackfoot      133,638   11,734 4,500     39,247 00 ...         ...      210       16,135   56,022 53   2 61,87 44
+Blood          209,000   7,420 25,000     15,889 50 ...         ...      1,000     15,000   7,022 95    280,322 45
+Edmonton       42,984    819    10,120    1,128 00 145 08       330      650       425      26,646 78   83,247 86
+Hobbema        47,822    1,880 15,753     2,159 80 ...          2,633    88        12,211   14,080 06   96,626 86
+Lesser Slave
+               46,079    1,575 30,000 ...            ...        9,100    366,750 ...        15,602 52 469,105 52
+Lake
+Peigan      28,686       8,073 10,000 1,626 80 ...              ...      704       ...      7,090 45 56,180 25
+Saddle Lake 24,105       7,215 10,375 ...         ...           1,570    7,000     5,160    4,243 26 59,668 26
+Sarcee      9,138        1,733 5,715 ...          ...           ...      300       2,853    847 66     20,586 66
+Stony       6,862        1,694 36,009 ...         ...           ...      9,647     8,072    4,154 01 66,438 01
+T
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ng         6,000    250    12,000 ...       36 40    375         30,000    550       2,147 13   51,358 53
+Total               76,673   24,559 458,747 11228 80 4,420 07 6,905       260,930   99,079    19,941     962,482 91
+
+                    ...      ...     ...       ...       ...      ...     ...       ...       ...        ...
+SASKATCHEWAN
+Assiniboine         15,274   130     1,622     ...      ...       ...     1,083     12,536   2,019 34    32,664 34
+Battleford          53,617   2,960   32,900    2,697 20 ...       8,950   15,950    4,650    12,932 23   134,656 43
+Carleton            39,545   6,252   9,612     ...      ...       296     25,995    12,248   22,912 14   116,860 14
+Crooked Lakes       32,736   2,850   4,650     525 42 ...         1,250   3,500     400      30,746 02   76,657 44
+Duck Lake           49,583   5,580   11,200    ...      ...       800     16,700    14,500   8,467 93    106,830 93
+File Hills Agency   6,400    1,100   1,600     ...      ...       ...     1,800     3,300    ...         16,025 51
+File Hills Colony   26,000   1,500   3,000     ...      ...       ...     500       2,000    1,825 51    33,000 00
+Isle à la Crosse    ...      ...     ...       ...      ...       3,700   81,430    3,900    11,961 79   100,991 79
+Moose Mountain      11,080   1,000   1,000     ...      ...       900     1,500     3,000    3,136 20    21,616 20
+Moose Woods         7,500    1,485   2,500     ...      ...       100     800       2,500    ...         14,885 00
+
+
+
+=== EXTRACT FROM HERE (pages 123-125) ===
+<!-- page 123 -->
+Onion Lake      51,407   10,850 17,000   ...      ...    12,800 72,600   9,600    5,121 23    179,378 23
+Pelly           31,100   900    11,000   4,238 58 ...    ...    8,250    ...      19,183 23   74,671 81
+Qu'Appelle      46,511   2,730 5,920     174 00 ...      950    1,450    4,750    26,717 60   89,202 60
+Touchwood       30,084   2,075 13,240    1,950 50 ...    2,500 19,850    16,890   12,760 66   99,380 16
+Wood Mountain
+                1,321    884    150      ...       ...   ...    50       ...      ...         2,405 00
+Reserve
+Total           402,158 40,296 115,394 9,585 70 ...      32,246 251,458 90,274    157,813 88 1,099,225 58
+
+<!-- page 124 -->
+                        Value
+                        of Beef                                                               Annuities
+              Value of                                                 Earned     Earned by
+                        sold                                                                  Earned by
+              Farm                       Received Received     Earned by          other
+                        also of Wages                                                         Interest on Total Income
+Agencies      Products,                  from Land from        by      Hunting    Industries
+                        that    Earned                                                        Indian      of Indians
+              including                  Rentals   Timber      Fishing and        and
+                        used                                                                  Trust
+              Hay                                                      Trapping   Occupations
+                        for                                                                   Funds
+                        Food
+...           $         $      $         $ cts.     $ cts.     $       $          $           $ cts.     $ cts.
+
+RECAPITULATION
+
+              ...       ...    ...       ...        ...        ...     ...        ...         ...        ...
+PROVINCES
+Alberta       548,314   42,143 147,472   60,052 01 145 08      13,633 386,349     59,856      135,710 22 1,393,674 31
+British
+              786,137   69,970 643,427   24,805 99 66,485 89 501,416 470,667      285,354     26,564 68 2,874,827 56
+Columbia
+Manitoba      155,577   10,210 147,782   1,402 74   318 22     58,595 366,149     45,110      72,543 50 857,687 46
+New
+              10,910    180    37,250    ...        678 08     5,575   3,555      4,875       2,122 78   65,145 86
+Brunswick
+Nova Scotia 15,709      3,229 57,730     195 00    16 00      8,700 6,568         34,495      1,747 40 128,389 40
+Ontario       714,199   35,885 872,315   22,902 11 110,349 48 175,520 465,280     193,825     316,465 80 2,906,741 39
+Prince Edward
+              2,208     320    1,100     ...        ...        1,325   60         4,850       ...        9,863 00
+Island
+Quebec       76,673    24,559 458,747 11,228 80 4,420 07 6,905 260,930 99,079                 19,941 04 962,482 91
+Saskatchewan 402,158 40,296 115,394 9,585 70 ...               32,246 251,458 90,274          157,813 88 1,099,225 58
+Totals       2,771,885 226,792 2,481,217 130,172 35 182,412 82 803,915 2,211,016 817,718      732,909 30 10,298,037 47
+
+<!-- page 125 -->

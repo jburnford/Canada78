@@ -1,0 +1,480 @@
+queue,edition,page,province,division,reserve_no,name,tribe_band,acres_text,note,disposition,proposed_reserve_id,confidence,evidence
+unmatched,1897,570.0,NOVA SCOTIA,,11,Medway,,10,,renumbered_link,port-medway-river-14-micmac,low,unique name match 'Port Medway River' in NS; number differs (11 → 14) — eastern renumbering between editions; verify
+unmatched,1897,570.0,NOVA SCOTIA,,12,Port Medway (Wild Cat),,450,,renumbered_link,wild-cat-12-micmac,low,unique name match 'Wild Cat' in NS; number differs (12 → 12) — eastern renumbering between editions; verify
+unmatched,1897,570.0,NOVA SCOTIA,,24A,Pictou Harbour (Fisher's Grant),,30,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,570.0,NOVA SCOTIA,,26,Port Hood (not surveyed),,,,renumbered_link,port-hood-26-micmac,low,unique name match 'Port Hood' in NS; number differs (26 → 26) — eastern renumbering between editions; verify
+unmatched,1897,570.0,NOVA SCOTIA,,30,Cow Bay,,44,,renumbered_link,minister-s-lake-cow-bay-or-coal-harbour-30-micmac,low,unique name match 'Minister's Lake (Cow Bay or Coal Harbour)' in NS; number differs (30 → 30) — eastern renumbering between editions; verify
+unmatched,1897,570.0,NOVA SCOTIA,,31,Merigonish,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,571.0,NEW BRUNSWICK,,7,(No name),,"4,914",,renumbered_link,no-name-part-of-the-red-bank-reserve-7-micmac-red-bank-band,low,unique name match 'No name (Part of the Red Bank Reserve)' in NB; number differs (7 → 7) — eastern renumbering between editions; verify
+unmatched,1897,571.0,NEW BRUNSWICK,,17,Botsford,,202,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,571.0,NEW BRUNSWICK,,21,Great Bend,,900,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,571.0,NEW BRUNSWICK,,27,Indian Island (claimed by Indians),,,,renumbered_link,indian-island-25-micmacs-of-bathurst,low,unique name match 'Indian Island' in NB; number differs (27 → 25) — eastern renumbering between editions; verify
+unmatched,1897,572.0,QUEBEC,,1,Mann,,"9,645",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,572.0,QUEBEC,,13,Colraine,,"2,000",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,572.0,QUEBEC,,20,Islands Opposite St. Regis (See No. 15),,,,renumbered_link,st-regis-15-iroquois-of-st-regis,low,unique name match 'St. Regis.' in QC; number differs (20 → 15) — eastern renumbering between editions; verify
+unmatched,1897,582.0,ONTARIO,TREATY NO. 3,18C,Rainy Lake (Niacatchewewin),,3861.76,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,582.0,ONTARIO,TREATY NO. 3,23B,Seine River,,2234.80,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,36,Buffalo Point,,5763.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,37,Big Island,,1946.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,37,Rainy River,,3687.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,37A,Shoal Lake,,1920.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,37B,North-west Angle (Approx.),,840.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,37B,Lake of the Woods,,262.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,37C,North-west Angle River,,690.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,38A,Near Rat Portage,,8000.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,38B,Near Rat Portage,,5289.90,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,38C,Near Rat Portage,,8000.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,38D,Lake of the Woods,,Not surveyed.,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,39,West Shore Shoal Lake,,1031.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,39,North-west Shore Shoal Lake,,8415.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,40,North-west Shore Shoal Lake,,6759.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,39,Islands in Shoal Lake,,Not surveyed.,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,584.0,MANITOBA,,40,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,585.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 2.,,"Temporary hay lands, S.W. 1/4 20, 20, 21 W",,.25,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,586.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 4.,,"Hay Reserve on Swan River, for 64, 65 and 66.",,14.65,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,587.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 4.,,Qu'Appelle,,1.37,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,588.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,97,Beardy,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,588.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,98,Chacastapasin,,24.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,588.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,111,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,589.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,126,'Bear's Ears',,12.25,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,589.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,133B,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,589.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,141,Sharphead,,42.40,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,BABINE AGENCY.,1,Kispyouks,,"2,252",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,BABINE AGENCY.,3,Kitsequecla,,"3,103",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,BABINE AGENCY.,5,Hagwilget,,"5,880",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,BABINE AGENCY.,6,Trembleur,,"1,432",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,BABINE AGENCY.,9,Fraser Lake,,"4,026",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,COWICHAN AGENCY.,5,Lyackson,,"1,858",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,COWICHAN AGENCY.,7,Penelakuts,,"2,329",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,COWICHAN AGENCY.,10,Saanich,,"3,318",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,COWICHAN AGENCY.,13,Becher Bay,,775,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,1,North Thompson (Canoe Lake),,"3,239",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,591.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,2A,Little Shuswap,,"7,030",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,2B,Neskainilth,,"5,653",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,4,Spellamacheen,,"9,481",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,7,Bonaparte,,"6,314",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,8,Ashcroft,,"5,577",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,10,Cook's Ferry,,"9,017",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,12,Lytton,,"10,292",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,14,Lower Nicola,,"9,640",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,17,Boothroyd,,"1,534",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,592.0,BRITISH COLUMBIA,KAMLOOPS AGENCY.,18,Boston Bar,,660,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KOOTENAY AGENCY.,2,Upper Kootenay,,"37,471",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KOOTENAY AGENCY.,,Fort Steele (Agency Reserve),,11,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,2,Nakwockto,,704,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,4,Fort Rupert,,259,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,6,Klaskino,,116,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,7,Nimkeesh,,446,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,9,Turner,,27,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,10,Matilpi,,145,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,11,Laichkwiltach,,"2,032",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,12,Knight Inlet,,569,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY.,13,Gilford Island,,852,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,OKANAGAN AGENCY.,2,Upper Nicola,,"30,888",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,OKANAGAN AGENCY.,3,Lower Nicola,,"21,881",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,OKANAGAN AGENCY.,5,Lower Similkameen,,"19,872",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,OKANAGAN AGENCY.,6,Upper Similkameen,,"7,791",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,3,Kitsumkalum,,"1,246",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,4,Tsimpsean,,"74,571",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,5,Masset,,"1,871",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,593.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,6,Kitimat,,930,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,594.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,7,Kitlathla,,"3,414",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,594.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,8,Kitkata,,545,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,594.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,15,Owekano,,950,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,594.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY.,16,Lakelse,,156,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,4,Sechelt,,"1,996",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,5,Squamish,,"5,717",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,8,Yale,,"1,108",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,9,Union Bar,,"1,287",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,11,Skawalook,,197,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,13,Seabird Island,,"4,512",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,14,Squatits,,425,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,17,Harrison River,,"3,144",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,18,Chilliwhack,,"5,351",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,19,Lakahamen,,636,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,20,Sumas,,"1,393",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,22,Langley,,"1,433",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,25,Coquitlum,,209,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,26,Burrard Inlet,,"1,091",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,FRASER AGENCY.,28,Tsawassen,,604,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,WEST COAST AGENCY.,2,Kyuquot,,883,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,WEST COAST AGENCY.,3,Esperanza,,352,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,595.0,BRITISH COLUMBIA,WEST COAST AGENCY.,5,Hesquiot,,606,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,596.0,BRITISH COLUMBIA,WEST COAST AGENCY.,9,Seshart,,"1,429",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,596.0,BRITISH COLUMBIA,WEST COAST AGENCY.,10,Opechisat,,523,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,596.0,BRITISH COLUMBIA,WEST COAST AGENCY.,11,Oheit,,"2,672",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,596.0,BRITISH COLUMBIA,WEST COAST AGENCY.,12,Nitinat,,"1,798",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,596.0,BRITISH COLUMBIA,WEST COAST AGENCY.,14,Uchuklesit,,575,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,1,Quesnelle,,"1,688",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,11,Canoe Creek,,"12,429",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,14,Seaton Lake,,"2,437",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,15,Anderson Lake,,504,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,16,Cayoose,,"1,152",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,17,Lillooet,,"1,742",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,19,Pavillion,,"4,136",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1897,597.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY.,20,Clinton,,"1,073",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,657.0,NEW BRUNSWICK,,7,(No name),,"4,914",,renumbered_link,no-name-part-of-the-red-bank-reserve-7-micmac-red-bank-band,low,unique name match 'No name (Part of the Red Bank Reserve)' in NB; number differs (7 → 7) — eastern renumbering between editions; verify
+unmatched,1898,657.0,NEW BRUNSWICK,,21,Great Bend,,900,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,657.0,NEW BRUNSWICK,,27,Indian Island (claimed by Indians),,,,renumbered_link,indian-island-25-micmacs-of-bathurst,low,unique name match 'Indian Island' in NB; number differs (27 → 25) — eastern renumbering between editions; verify
+unmatched,1898,657.0,NEW BRUNSWICK,,17,Botsford,,202,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,658.0,ONTARIO,TREATY NO. 3.,18C,Rainy Lake (Niacatchewewin),,3861.76,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,658.0,ONTARIO,TREATY NO. 3.,23B,Seine River,,2234.80,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,661.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 2.,,"Temporary hay lands, S.W. 1/4 20, 20, 21 W",,.25,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,662.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 4.,,Hay lands,,20.50,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,663.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 4.,,Qu'Appelle,,1.37,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,664.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 6.,97,Beardy,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,664.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 6.,111,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,665.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 6.,133B,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,COWICHAN AGENCY,5,Lyackson,,"1,858",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,COWICHAN AGENCY,7,Penelakuts,,"2,329",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,COWICHAN AGENCY,10,Saanich,,"3,318",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,COWICHAN AGENCY,13,Becher Bay,,775,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,2,Kyuquot,,883,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,3,Esperanza,,352,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,5,Hesquiot,,606,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,9,Seshart,,"1,429",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,10,Opechisat,,523,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,11,Oheit,,"2,672",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,12,Nitinat,,"1,798",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,WEST COAST AGENCY,14,Uchuklesit,,575,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,667.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,2,Nakwockto,,704,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,4,Fort Rupert,,259,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,5,Quatsmo,,"1,011",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,6,Klaskino,,116,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,7,Nimkeesh,,446,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,9,Turner,,27,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,10,Matilpi,,145,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,11,Laichkwiltach,,"2,032",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,12,Knight Inlet,,569,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,668.0,BRITISH COLUMBIA,KWAKEWLTH AGENCY,13,Gilford Island,,852,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,5,Squamish,,"5,717",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,8,Yale,,1108,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,9,Union Bar,,"1,287",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,11,Skawalook,,197,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,13,Seabird Island,,"4,512",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,14,Squatits,,425,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,17,Harrison River,,"3,144",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,18,Chilliwack,,"5,351",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,19,Lakahamen,,636,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,20,Sumas,,"1,393",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,22,Langley,,"1,433",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,26,Burrard Inlet,,"1,091",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,FRASER AGENCY,28,Tsawassen,,604,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,1,North Thompson (Canoe Lake),,"3,239",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,2A,Little Shuswap,,"7,030",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,669.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,2B,Neskainilth,,"5,653",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,4,Spellamacheen,,"9,481",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,7,Bonaparte,,"6,314",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,8,Ashcroft,,"5,577",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,10,Cook's Ferry,,"9,017",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,12,Lytton,,"10,292",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,14,Lower Nicola,,"9,640",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,17,Boothroyd,,"1,534",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,670.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,18,Boston Bar,,660,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,OKANAGAN AGENCY,2,Upper Nicola,,"30,888",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,OKANAGAN AGENCY,3,Lower Nicola,,"21,883",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,OKANAGAN AGENCY,5,Lower Similkameen,,"19,872",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,OKANAGAN AGENCY,6,Upper Similkameen,,"7,791",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,KOOTENAY AGENCY,2,Upper Kootenay,,"37,471",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,KOOTENAY AGENCY,,Fort Steele (Agency Reserve),,11,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,3,Kitsumkalum,,"1,246",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,4,Tsimpsean,,"74,571",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,5,Masset,,"1,871",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,6,Kitimat,,930,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,7,Kitlathla,,"3,414",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,8,Kitkata,,545,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,15,Owekano,,950,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,671.0,BRITISH COLUMBIA,NORTH-WEST COAST AGENCY,16,Lakelse,,156,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,1,Quesnelle,,"1,688",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,11,Canoe Creek,,"12,429",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,14,Seaton Lake,,"2,437",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,15,Anderson Lake,,504,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,16,Cayoose,,"1,152",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,17,Lillooet,,"1,742",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,19,Pavillion,,"4,136",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,WILLIAMS LAKE AGENCY,20,Clinton,,"1,073",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,BABINE AGENCY,1,Kispyouks,,"2,252",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,BABINE AGENCY,3,Kitsequecla,,"3,103",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,BABINE AGENCY,5,Hagwilget,,"5,880",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,BABINE AGENCY,6,Trembleur,,"1,432",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,BABINE AGENCY,7,Tache,,"3,375",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1898,672.0,BRITISH COLUMBIA,BABINE AGENCY,9,Fraser Lake,,"4,026",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,739.0,NEW BRUNSWICK,York.,6,Village (Kingsclear).,Micmac,460,,duplicate_emission,indian-village-kingsclear-6-micmac,high,same no.+name as matched row p738 → indian-village-kingsclear-6-micmac
+unmatched,1899,743.0,ONTARIO,TREATY NO. 3,17B,Rainy Lake (Niacatchewewin),,"3,761.50",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,743.0,ONTARIO,TREATY NO. 3,18C,Rainy Lake (Niacatchewewin),,"3,861.76",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,743.0,ONTARIO,TREATY NO. 3,23B,Seine River,,"2,234.80",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,746.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No.2.,,"Temporary hay lands, S.W. 1/4 20, 20, 21 W",,0.25,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,748.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY NO. 4,,Qu'Appelle,,1.37,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,749.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,97,Beardy,,44.00,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,749.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,111,'Grizzly Bear's Head' and 'Lean Man',,36.20,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,750.0,MANITOBA AND THE NORTH-WEST TERRITORIES,TREATY No. 6.,133 B,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,COWICHAN AGENCY,,Nanaimo,Nanaimo,638,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,COWICHAN AGENCY,,Lyackson,Lyackson,"1,858",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,COWICHAN AGENCY,,Chemainus,Chemainus,"3,084",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,COWICHAN AGENCY,,Penelakuts,Penelakuts,"2,329",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,COWICHAN AGENCY,,Saanich,Saanich,"3,318",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Chekleset,Chekleset,173,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Kyuquot,Kyuquot,883,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Esperanza,Esperanza,352,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Nootka,Nootka,655,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Hesquiot,Hesquiot,606,,duplicate_emission,esquimalt-esquimalt,high,same no.+name as matched row p752 → esquimalt-esquimalt
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Clayoquot,Clayoquot,"1,600",,renumbered_link,clayoqua-6-clayoquot,medium,"same band, name/acres agree, number differs (nan → 6) — renumbered between editions"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Ucluelet,Ucluelet,493,,renumbered_link,ucluth-6-ucluelet,medium,"same band, name/acres agree, number differs (nan → 6) — renumbered between editions"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Toquart,Toquart,421,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Seshart,Seshart,"1,429",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1899,752.0,BRITISH COLUMBIA,WEST COAST AGENCY,,Opechisat,Opechisat,523,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,805.0,ONTARIO,TREATY No. 3 - ONTARIO.,18C,,,"3,861 76",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,805.0,ONTARIO,TREATY No. 3 - ONTARIO.,23B,Seine River,,"2,234 80",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,811.0,MANITOBA AND THE NORTHWEST TERRITORIES,TREATY No. 6,97,Beardy,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,811.0,MANITOBA AND THE NORTHWEST TERRITORIES,TREATY No. 6,111,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,812.0,MANITOBA AND THE NORTHWEST TERRITORIES,TREATY No. 6,133B,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,819.0,BRITISH COLUMBIA,BABINE AGENCY,3,Nan-cut,Tache,372,,duplicate_emission,nan-cut-3-tache,high,same no.+name as matched row p819 → nan-cut-3-tache
+unmatched,1900,820.0,BRITISH COLUMBIA,COWICHAN AGENCY,2,Halalt,Chemainus Halalt,287,,duplicate_emission,halalt-2-chemainus-halalt-ban,high,same no.+name as matched row p820 → halalt-2-chemainus-halalt-ban
+unmatched,1900,822.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,"Quamichan, Comiaken, Clem-clem-a-lits, Hamutzen, Somenos, Koksailah, Kil-pah-las and Kanipsin bands.",,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,823.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,832.0,BRITISH COLUMBIA,FRASER AGENCY,,Sea Bird Island,Hope,,,renumbered_link,seabird-island-hope,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1900,835.0,BRITISH COLUMBIA,FRASER AGENCY,,Sea Bird Island,Ohamil,,,renumbered_link,seabird-island-ohamil,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1900,836.0,BRITISH COLUMBIA,Popkum,,Sea Bird Island,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,838.0,BRITISH COLUMBIA,Skawahlook,,Sea Bird Island,Skawahlook,,,renumbered_link,seabird-island-skawahlook,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1900,841.0,BRITISH COLUMBIA,Skwatits,,Sea Bird Island,Skwatits,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,845.0,BRITISH COLUMBIA,Yale,,Sea Bird Island,Yale Union Bar Band,,,renumbered_link,seabird-island-yale-union-bar-band,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1900,846.0,BRITISH COLUMBIA,Adams Lake,,,,325,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1900,854.0,BRITISH COLUMBIA,Cook's Ferry,8A,,Cook's Ferry,10,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,858.0,BRITISH COLUMBIA,LYTTON,9,Stryen,Lytton,629 50,,duplicate_emission,stryen-9-lytton,high,same no.+name as matched row p857 → stryen-9-lytton
+unmatched,1900,864.0,BRITISH COLUMBIA,Nicomen,14,Putkwa,Nicomen,10 50,,duplicate_emission,putwa-14-nicomen,high,same no.+name as matched row p863 → putwa-14-nicomen
+unmatched,1900,878.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,6,Skuet,Spuzzum,13 50,,greedy_steal,skuet-6-spuzzum,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+ambiguous,1900,886.0,BRITISH COLUMBIA,KWAWKEWLTH AGENCY.,1,Hope Island,Nahwitti,8552,T2:dolphin-island-1-kitlathla; T2:village-island-1-kyuquot,greedy_steal,hope-island-1-nahwitti,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+unmatched,1900,900.0,BRITISH COLUMBIA,Tsimpsean,2,Metlakatla,Tsimpsean,"57,742",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1900,912.0,BRITISH COLUMBIA,NOOTKA AGENCY,5,Ahmitsa,Seshart,26,,greedy_steal,ahmitsa-5-seshart,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+ambiguous,1900,916.0,BRITISH COLUMBIA,WILLIAM'S LAKE AGENCY.,3,,Anderson lake,20,T4:3-alkali-lake-2; T4:3-dog-creek,renumbered_link,2-anderson-lake,medium,"same band, name/acres agree, number differs (3 → 2) — renumbered between editions"
+unmatched,1900,928.0,BRITISH COLUMBIA,Williams Lake,10,Grave-yard,Williams Lake,01,,greedy_steal,grave-yard-10-williams-lake,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+unmatched,1901,757.0,QUEBEC,HUNTINGTON,,,Iroquois of St. Regis,"3,919.83",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,764.0,ONTARIO,,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,767.0,ONTARIO,TREATY No. 3,18B,Rainy Lake (Niacatchewenin),,"4,586.84",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,767.0,ONTARIO,TREATY No. 3,18C,Rainy Lake (Niacatchewenin),,"3,861.76",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,767.0,ONTARIO,TREATY No. 3,23B,Seine River,,"2,234.80",,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,769.0,ONTARIO,TREATY No. 3,40,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,773.0,NORTH-WEST TERRITORIES,TREATY No. 6,97,Beardy,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,773.0,NORTH-WEST TERRITORIES,TREATY No. 6,111,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,774.0,NORTH-WEST TERRITORIES,TREATY No. 6,133B,,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,785.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,"Quamichan, Comiaken, Clem-clem-a-lits, Hamutzen, Somenos, Koksailah, Kilpahlas and Kanipsin bands.",,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,786.0,BRITISH COLUMBIA,COWICHAN AGENCY,,,,,,degenerate_row,,high,"no name, band, or number — placeholder row"
+unmatched,1901,795.0,BRITISH COLUMBIA,FRASER AGENCY,,Sea Bird Island.,Hope,,,renumbered_link,seabird-island-hope,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1901,798.0,BRITISH COLUMBIA,FRASER AGENCY,,Seabird Island,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,799.0,BRITISH COLUMBIA,YALE AGENCY,,Seabird Island,,,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,801.0,BRITISH COLUMBIA,YALE AGENCY,,Seabird Island,Skwawahlook,,,renumbered_link,seabird-island-skawahlook,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1901,804.0,BRITISH COLUMBIA,NEW WESTMINSTER,,Seabird Island,Skwawtits,,,renumbered_link,seabird-island-squawtits,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1901,810.0,BRITISH COLUMBIA,YALE,,Seabird Island,Yale Union Bar band,,,renumbered_link,seabird-island-yale-union-bar-band,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1901,818.0,BRITISH COLUMBIA,KAMLOOPS AGENCY,8A,,Cook's Ferry,10,,absence_candidate,,low,"no registry counterpart found — possibly renamed, absorbed, sold, or omitted by 1902"
+unmatched,1901,826.0,BRITISH COLUMBIA,Nicomen,,Grave-yard,Nicomen,1 53,,renumbered_link,grave-yard-nicomen,medium,"same band, name/acres agree, number differs (nan → None) — renumbered between editions"
+unmatched,1901,843.0,BRITISH COLUMBIA,YALE AGENCY,6,Skuet,Spuzzum,13 50,,greedy_steal,skuet-6-spuzzum,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+unmatched,1901,848.0,BRITISH COLUMBIA,KWAWKEWLTH AGENCY,5,Matsayno,We-way-akum and Kweahkah bands,51 1/2,,duplicate_emission,matsayno-5-we-way-akum-and-kwe,high,same no.+name as matched row p847 → matsayno-5-we-way-akum-and-kwe
+unmatched,1901,866.0,BRITISH COLUMBIA,,1,Fort Simpson,"Tsimpsean, Pt. Simpson",57,,greedy_steal,fort-simpson-1-tsimpsean-pt-simpson,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+ambiguous,1901,866.0,BRITISH COLUMBIA,,2,Tsimpsean reserve,"Tsimpsean, Pt. Simpson (N. 1/2 Pt. Simpson, S. 1/2 Metlakatla)","57,742",T2:meadow-reserve-2-stone; T2:meadow-reserve-2-toosey; T2:garden-reserve-2-nemaiah-valley,greedy_steal,tsimpsean-reserve-2-tsimpsean-n-1-2-pt-s,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+unmatched,1901,880.0,BRITISH COLUMBIA,WEST COAST AGENCY,5,Ahmitsa,Seshart,26,,greedy_steal,ahmitsa-5-seshart,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+ambiguous,1901,885.0,BRITISH COLUMBIA,,3,,Anderson Lake,20,T4:3-alkali-lake-2; T4:3-dog-creek,renumbered_link,2-anderson-lake,medium,"same band, name/acres agree, number differs (3 → 2) — renumbered between editions"
+unmatched,1901,887.0,BRITISH COLUMBIA,,2,Pashilqua,Cayoosh Creek,785,,greedy_steal,pashilqua-2-cayoosh-creek,medium,exact registry row exists; one-to-one matching assigned it to another row — review both
+unmatched,1901,890.0,BRITISH COLUMBIA,Lillooet,2,Towinock,Lillooet,220,,duplicate_emission,towinock-2-lillooet,high,same no.+name as matched row p889 → towinock-2-lillooet
+acres_change,1902,,,,,3-canoe-creek,,,1901: 6931.0 → 1902: 400.0,real_change_candidate,,low,large irregular ratio 17.3 — verify against both pages
+acres_change,1902,,,,,6-similkameen-upper,,,1901: 20.0 → 1902: 10.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,agency-reserve-at-macleod,,,1899: 0.003 → 1900: 0.03,unit_mismatch,,high,1902 division TREATY NO. 7 prints square miles under an Acres header
+acres_change,1901,,,,,agency-reserve-at-macleod,,,1900: 0.03 → 1901: 0.003,unit_mismatch,,high,1902 division TREATY NO. 7 prints square miles under an Acres header
+acres_change,1902,,,,,agency-reserve-at-macleod,,,1901: 0.003 → 1902: 3.0,unit_mismatch,,high,1902 division TREATY NO. 7 prints square miles under an Acres header
+acres_change,1902,,,,,agwedin-3-kispaiax,,,1901: 560.0 → 1902: 780.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,ahmitsa-5-seshart,,,1901: 3.44 → 1902: 26.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,aht-len-jees-5-necoslie,,,1901: 300.0 → 1902: 100.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,alalco-8-kwaw-waw-i-nuck,,,1898: 427.0 → 1900: 293.2,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,alexandria-1-alexandria,,,1898: 1849.0 → 1900: 554.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,alkali-lake-1-alkali-lake,,,1898: 8348.0 → 1900: 596.5,real_change_candidate,,low,large irregular ratio 14.0 — verify against both pages
+acres_change,1901,,,,,ar-ce-wy-ee-4-nimkeesh,,,1900: 41.3 → 1901: 31.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,ar-ce-wy-ee-4-nimkeesh,,,1901: 31.5 → 1902: 41.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,beecher-bay-1-beecher-bay,,,1899: 775.0 → 1900: 502.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,bella-bella-1-bella-bella,,,1898: 2972.0 → 1900: 1625.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,black-point-11-nass-river,,,1898: 537.0 → 1900: 40.5,real_change_candidate,,low,large irregular ratio 13.3 — verify against both pages
+acres_change,1901,,,,,bootahnie-15-lytton,,,1900: 11.0 → 1901: 3840.0,real_change_candidate,,low,large irregular ratio 349.1 — verify against both pages
+acres_change,1902,,,,,burial-ground-7-nahkwockto,,,1901: 0.8 → 1902: 0.08,ocr_digit,,medium,ratio ≈ ×10 — decimal/digit OCR error; verify against page
+acres_change,1898,,,,,burnt-church-14-micmac,,,1897: 2160.0 → 1898: 26100.0,real_change_candidate,,low,large irregular ratio 12.1 — verify against both pages
+acres_change,1899,,,,,burnt-church-14-micmac,,,1898: 26100.0 → 1899: 2058.0,real_change_candidate,,low,large irregular ratio 12.7 — verify against both pages
+acres_change,1901,,,,,caughnawaga-14-iroquois-of-st-louis,,,1900: 12625.17 → 1901: 1265.17,ocr_digit,,medium,ratio ≈ ×10 — decimal/digit OCR error; verify against page
+acres_change,1902,,,,,caughnawaga-14-iroquois-of-st-louis,,,1901: 1265.17 → 1902: 12625.17,ocr_digit,,medium,ratio ≈ ×10 — decimal/digit OCR error; verify against page
+acres_change,1900,,,,,chehalis-6-harrison-river,,,1898: 3084.0 → 1900: 63.0,real_change_candidate,,low,large irregular ratio 49.0 — verify against both pages
+acres_change,1902,,,,,chuchuwayha-2a-similkameen-upper,,,1901: 1400.0 → 1902: 1013.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,clayoqua-6-clayoquot,,,1898: 1600.0 → 1900: 110.0,real_change_candidate,,low,large irregular ratio 14.5 — verify against both pages
+acres_change,1900,,,,,coldwater-1-lower-nicola-spuzzum,,,1898: 6277.0 → 1900: 4640.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,comox-1-comox,,,1899: 378.0 → 1900: 155.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,coquitlam-1-coquitlam,,,1898: 209.0 → 1901: 6.5,real_change_candidate,,low,large irregular ratio 32.2 — verify against both pages
+acres_change,1900,,,,,cowichan-lake-cowichan-lake,,,1899: 208.0 → 1900: 130.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,cumberland-house-20,,,1901: 6.29 → 1902: 10.0,unit_mismatch,,high,1902 division TREATY NO. 5 prints square miles under an Acres header
+acres_change,1901,,,,,deadman-s-creek-deadman-s-cree,,,1900: 20134.0 → 1901: 20.134,ocr_digit,,medium,ratio ≈ ×1000 — decimal/digit OCR error; verify against page
+acres_change,1900,,,,,dog-creek-1-dog-creek,,,1898: 1372.0 → 1900: 357.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,dog-lake-2-osoyoos,,,1898: 6073.0 → 1900: 71.0,real_change_candidate,,low,large irregular ratio 85.5 — verify against both pages
+acres_change,1900,,,,,douglas-8-douglas,,,1898: 1976.0 → 1900: 1030.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,douglas-lake-3-nicola-upper,,,1900: 23047.0 → 1901: 23.047,ocr_digit,,medium,ratio ≈ ×1000 — decimal/digit OCR error; verify against page
+acres_change,1899,,,,,eel-ground-2-micmac-eel-ground-ba,,,1898: 3785.0 → 1899: 2682.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,eel-ground-2-micmac-eel-ground-ba,,,1901: 2682.0 → 1902: 2.682,ocr_digit,,medium,ratio ≈ ×1000 — decimal/digit OCR error; verify against page
+acres_change,1901,,,,,fishery-3-quesnel,,,1900: 39.0 → 1901: 30.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,fishery-3-quesnel,,,1901: 30.0 → 1902: 39.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,fishing-station-sec-24-20-20-w-i-m-62a,,,1900: 49.0 → 1901: 0.49,unit_mismatch,,high,1902 division TREATY NO. 2 prints square miles under an Acres header
+acres_change,1900,,,,,fort-george-1-fort-george,,,1898: 3095.0 → 1900: 1366.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,fort-simpson-1-tsimpsean-pt-simpson,,,1900: 57.0 → 1901: 3220.0,real_change_candidate,,low,large irregular ratio 56.5 — verify against both pages
+acres_change,1902,,,,,fort-simpson-1-tsimpsean-pt-simpson,,,1901: 3220.0 → 1902: 57.0,real_change_candidate,,low,large irregular ratio 56.5 — verify against both pages
+acres_change,1901,,,,,fort-william-52-ojibbewas-of-lake-su,,,1900: 21260.0 → 1901: 14500.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,fountain-1-fountain,,,1898: 1864.0 → 1900: 338.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,grave-yard-11-williams-lake,,,1900: 0.10625 → 1901: 0.17,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,grave-yard-12-williams-lake,,,1900: 0.1 → 1901: 0.16,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,grave-yard-13-williams-lake,,,1900: 0.05625 → 1901: 0.9,real_change_candidate,,low,large irregular ratio 16.0 — verify against both pages
+acres_change,1901,,,,,grave-yard-14-williams-lake,,,1900: 0.01875 → 1901: 0.3,real_change_candidate,,low,large irregular ratio 16.0 — verify against both pages
+acres_change,1901,,,,,grave-yard-5-pemberton,,,1900: 29.35 → 1901: 1.4,real_change_candidate,,low,large irregular ratio 21.0 — verify against both pages
+acres_change,1900,,,,,halalt-2-chemainus-halalt-ban,,,1899: 427.0 → 1900: 287.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,hay-lands-muscowpetung-and-others-80b,,,1899: 0.72 → 1900: 72.0,unit_mismatch,,high,1902 division TREATY NO. 4 prints square miles under an Acres header
+acres_change,1901,,,,,hay-lands-muscowpetung-and-others-80b,,,1900: 72.0 → 1901: 0.72,unit_mismatch,,high,1902 division TREATY NO. 4 prints square miles under an Acres header
+acres_change,1900,,,,,homalco-1-homalco,,,1898: 1417.0 → 1900: 710.8,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,hope-1-hope,,,1898: 1601.0 → 1900: 10.5,real_change_candidate,,low,large irregular ratio 152.5 — verify against both pages
+acres_change,1901,,,,,hope-island-1-nahwitti,,,1900: 140.0 → 1901: 8552.0,real_change_candidate,,low,large irregular ratio 61.1 — verify against both pages
+acres_change,1901,,,,,hunting-reserve-29a-chippewas-of-saugeen,,,1900: 3800.0 → 1901: 11800.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,hunting-reserve-29a-chippewas-of-saugeen,,,1901: 11800.0 → 1902: 3800.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,iltcoola-7-similkameen-upper,,,1901: 30.0 → 1902: 42.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1898,,,,,indian-brook-or-shubenacadie-14-micmac,,,1897: 1100.0 → 1898: 1850.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,indian-brook-or-shubenacadie-14-micmac,,,1900: 1790.0 → 1901: 790.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,indian-brook-or-shubenacadie-14-micmac,,,1901: 790.0 → 1902: 1790.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1899,,,,,indian-point-1-micmac-red-bank-band,,,1898: 750.0 → 1899: 100.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,island-8-beecher-bay,,,1898: 575.0 → 1900: 2.0,real_change_candidate,,low,large irregular ratio 287.5 — verify against both pages
+acres_change,1901,,,,,kamloops-1-kamloops,,,1900: 33131.0 → 1901: 33.31,ocr_digit,,medium,ratio ≈ ×995 — decimal/digit OCR error; verify against page
+acres_change,1900,,,,,kashittle-9-kyuquot,,,1898: 380.0 → 1900: 12.5,real_change_candidate,,low,large irregular ratio 30.4 — verify against both pages
+acres_change,1900,,,,,kaste-6-skidegate,,,1898: 4245.0 → 1900: 38.0,real_change_candidate,,low,large irregular ratio 111.7 — verify against both pages
+acres_change,1900,,,,,kawkawa-16-yale-union-bar-band,,,1898: 710.0 → 1900: 16.0,real_change_candidate,,low,large irregular ratio 44.4 — verify against both pages
+acres_change,1898,,,,,keeseekoose-66,,,1897: 286.0 → 1898: 28.6,unit_mismatch,,high,1902 division TREATY NO. 4 prints square miles under an Acres header
+acres_change,1900,,,,,kemsquit-1-kemsquit,,,1898: 930.0 → 1900: 502.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,kiltala-2-owekano,,,1898: 3275.0 → 1900: 121.0,real_change_candidate,,low,large irregular ratio 27.1 — verify against both pages
+acres_change,1902,,,,,kispaiax-1-kispaiax,,,1901: 2252.0 → 1902: 2870.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,kitasoo-1-kitasoo,,,1898: 1460.0 → 1900: 812.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,kitlacdamax-1a-nass-river,,,1900: 640.0 → 1901: 3078.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,kitlacdamax-1a-nass-river,,,1901: 3078.0 → 1902: 640.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,kitseguecla-1-kitseguelca,,,1901: 1850.0 → 1902: 2483.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,kitwangar-1-kitwangar,,,1901: 2694.0 → 1902: 3385.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,klaalth-5-seshelt,,,1901: 24.0 → 1902: 3.44,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,klehkoot-2-opetchisaht,,,1898: 3326.0 → 1900: 290.0,real_change_candidate,,low,large irregular ratio 11.5 — verify against both pages
+acres_change,1901,,,,,kloklowuck-7-cook-s-ferry,,,1900: 29.0 → 1901: 2.9,ocr_digit,,medium,ratio ≈ ×10 — decimal/digit OCR error; verify against page
+acres_change,1902,,,,,kloklowuck-7-cook-s-ferry,,,1901: 2.9 → 1902: 219.0,real_change_candidate,,low,large irregular ratio 75.5 — verify against both pages
+acres_change,1900,,,,,kooryet-12-kitlathla,,,1898: 399.0 → 1900: 13.5,real_change_candidate,,low,large irregular ratio 29.6 — verify against both pages
+acres_change,1900,,,,,ktsinet-23-nass-river,,,1898: 777.0 → 1900: 271.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,kupchynalth-lower-2-siska-flat,,,1900: 0.5 → 1901: 15.5,real_change_candidate,,low,large irregular ratio 31.0 — verify against both pages
+acres_change,1901,,,,,lawanth-5-kwaw-waw-i-nuck,,,1900: 8.0 → 1901: 14.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,mah-te-nicht-8-quatsino,,,1900: 39.0 → 1901: 30.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,mah-te-nicht-8-quatsino,,,1901: 30.0 → 1902: 39.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,matchlee-13-nootka-matchitlacht,,,1898: 404.0 → 1900: 12.5,real_change_candidate,,low,large irregular ratio 32.3 — verify against both pages
+acres_change,1900,,,,,matsayno-5-we-way-akum-and-kwe,,,1897: 1011.0 → 1900: 118.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,matsqui-4-matsqui,,,1898: 1074.0 → 1900: 60.0,real_change_candidate,,low,large irregular ratio 17.9 — verify against both pages
+acres_change,1900,,,,,mississagi-river-8-ojibbewas-of-lake-hu,,,1899: 9120.0 → 1900: 6120.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,montreal-lake-wm-charles-106,,,1899: 23.0 → 1900: 2.0,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1901,,,,,montreal-lake-wm-charles-106,,,1900: 2.0 → 1901: 23.0,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1901,,,,,moose-lake-31b,,,1900: 0.23 → 1901: 0.73,unit_mismatch,,high,1902 division TREATY NO. 5 prints square miles under an Acres header
+acres_change,1902,,,,,moose-lake-31b,,,1901: 0.73 → 1902: 0.23,unit_mismatch,,high,1902 division TREATY NO. 5 prints square miles under an Acres header
+acres_change,1899,,,,,moose-woods-chief-white-cap-94,,,1898: 2.3 → 1899: 5.8,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1898,,,,,mud-lake-35-mississaguas-of-mud,,,1897: 2043.0 → 1898: 1548.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,muskoday-or-john-smith-99,,,1899: 37.4 → 1900: 3.4,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1901,,,,,muskoday-or-john-smith-99,,,1900: 3.4 → 1901: 37.4,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1900,,,,,musqueam-2-musqueam,,,1898: 488.0 → 1900: 392.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,nahwitti-4-nahwitti,,,1898: 8606.0 → 1900: 22.0,real_change_candidate,,low,large irregular ratio 391.2 — verify against both pages
+acres_change,1900,,,,,nanaimo-river-4-nanaimo,,,1898: 638.0 → 1900: 200.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,necoslie-1-necoslie,,,1898: 2830.0 → 1900: 734.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,nehalliston-2-north-thompson-and-c,,,1898: 3367.0 → 1901: 5.0,real_change_candidate,,low,large irregular ratio 673.4 — verify against both pages
+acres_change,1898,,,,,new-liverpool-road-8-micmac,,,1897: 1200.0 → 1898: 572.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,new-westminster-new-westminster,,,1898: 50.0 → 1902: 22.48,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,nicomen-1-nicomen,,,1898: 1987.0 → 1900: 151.0,real_change_candidate,,low,large irregular ratio 13.2 — verify against both pages
+acres_change,1902,,,,,nine-mile-creek-4-similkameen-upper,,,1901: 250.0 → 1902: 198.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,noota-4-bella-bella,,,1898: 655.0 → 1900: 16.5,real_change_candidate,,low,large irregular ratio 39.7 — verify against both pages
+acres_change,1899,,,,,northwest-shore-shoal-lake-40,,,1898: 6759.0 → 1899: 8415.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,northwest-shore-shoal-lake-40,,,1899: 8415.0 → 1900: 6759.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,obidgewong-21-ottawas-and-chippewa,,,1899: 400.0 → 1900: 732.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,ohamil-1-ohamil,,,1898: 629.0 → 1900: 458.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,okanagan-1-okanagan,,,1898: 29790.0 → 1901: 25.359,real_change_candidate,,low,large irregular ratio 1174.7 — verify against both pages
+acres_change,1900,,,,,oregon-jack-creek-3-oregon-jack-creek,,,1898: 2381.0 → 1900: 120.0,real_change_candidate,,low,large irregular ratio 19.8 — verify against both pages
+acres_change,1902,,,,,osoyoos-1-osoyoos,,,1901: 32097.0 → 1902: 32.097,ocr_digit,,medium,ratio ≈ ×1000 — decimal/digit OCR error; verify against page
+acres_change,1898,,,,,ouiatchouan-5-montagnais-of-lake-s,,,1897: 16000.0 → 1898: 3779.06,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,pashilqua-2-cayoosh-creek,,,1900: 785.0 → 1901: 1310.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,pashilqua-2-cayoosh-creek,,,1901: 1310.0 → 1902: 785.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,pemberton-1-pemberton,,,1898: 1223.0 → 1900: 188.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,penticton-1-penticton,,,1901: 47829.0 → 1902: 47.829,ocr_digit,,medium,ratio ≈ ×1000 — decimal/digit OCR error; verify against page
+acres_change,1898,,,,,pierreville-12-abenakis-of-st-franc,,,1897: 750.0 → 1898: 1538.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1899,,,,,point-grondin-3-ojibbewas-of-lake-hu,,,1898: 10100.0 → 1899: 101000.0,ocr_digit,,medium,ratio ≈ ×10 — decimal/digit OCR error; verify against page
+acres_change,1900,,,,,point-grondin-3-ojibbewas-of-lake-hu,,,1899: 101000.0 → 1900: 10100.0,ocr_digit,,medium,ratio ≈ ×10 — decimal/digit OCR error; verify against page
+acres_change,1900,,,,,quattishe-1-quatsino,,,1898: 716.0 → 1900: 228.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,rainy-lake-16a,,,1900: 160.0 → 1901: 100.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1899,,,,,red-bank-4-micmac-red-bank-band,,,1898: 6100.0 → 1899: 3797.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,red-earth-29a,,,1900: 3.19 → 1901: 31.19,unit_mismatch,,high,1902 division TREATY NO. 5 prints square miles under an Acres header
+acres_change,1902,,,,,red-earth-29a,,,1901: 31.19 → 1902: 3.19,unit_mismatch,,high,1902 division TREATY NO. 5 prints square miles under an Acres header
+acres_change,1899,,,,,richibucto-15-micmacs-big-cove-ban,,,1898: 5658.0 → 1899: 2202.75,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,salmon-bay-3-klahoose,,,1898: 3220.0 → 1900: 174.0,real_change_candidate,,low,large irregular ratio 18.5 — verify against both pages
+acres_change,1900,,,,,salmon-river-1-laichkwiltach-kahkah,,,1898: 14228.0 → 1900: 329.0,real_change_candidate,,low,large irregular ratio 43.2 — verify against both pages
+acres_change,1900,,,,,seaichem-16-squamish,,,1898: 1273.0 → 1900: 68.0,real_change_candidate,,low,large irregular ratio 18.7 — verify against both pages
+acres_change,1900,,,,,seshelt-2-seshelt,,,1898: 1996.0 → 1900: 607.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,sicamous-3-spallumcheen,,,1898: 4873.0 → 1900: 203.0,real_change_candidate,,low,large irregular ratio 24.0 — verify against both pages
+acres_change,1902,,,,,sik-e-dakh-2-kispaiax,,,1901: 900.0 → 1902: 1266.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,siska-flat-3-siska-flat,,,1898: 563.0 → 1900: 91.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,skidegate-1-skidegate,,,1898: 1613.0 → 1900: 854.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,skowishin-grave-yard-10-squamish,,,1900: 10.0 → 1901: 0.1,ocr_digit,,medium,ratio ≈ ×100 — decimal/digit OCR error; verify against page
+acres_change,1902,,,,,skuet-6-spuzzum,,,1901: 18.0 → 1902: 13.5,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,skuppah-4-skuppah,,,1898: 268.0 → 1900: 59.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,skutz-7,,,1901: 40.0 → 1902: 18.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,slayathlum-16-seshelt,,,1901: 4.65 → 1902: 15.85,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,soda-creek-1-soda-creek,,,1900: 1090.0 → 1901: 3925.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,soda-creek-1-soda-creek,,,1901: 3925.0 → 1902: 1090.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,songhees-1-songhees,,,1899: 260.0 → 1901: 112.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,sooke-1-sooke,,,1899: 166.0 → 1901: 65.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,spuzzum-1-spuzzum,,,1898: 456.0 → 1900: 302.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,squawkum-creek-3-harrison-river,,,1898: 5210.0 → 1900: 392.0,real_change_candidate,,low,large irregular ratio 13.3 — verify against both pages
+acres_change,1898,,,,,st-regis-15-iroquois-of-st-regis,,,1897: 14350.0 → 1898: 6886.75,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,stony-plain-tommy-la-potac-or-enoch-135,,,1901: 44.5 → 1902: 30.29,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1902,,,,,swan-lake-29,,,1901: 3277.0 → 1902: 277.0,real_change_candidate,,low,large irregular ratio 11.8 — verify against both pages
+acres_change,1898,,,,,sydney-28-micmac,,,1897: 538.0 → 1898: 2.73,real_change_candidate,,low,large irregular ratio 197.1 — verify against both pages
+acres_change,1899,,,,,tabusintac-9-micmac,,,1898: 9740.0 → 1899: 8077.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,tache-1-tache,,,1897: 3375.0 → 1900: 1655.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,tankeah-5-kokyet,,,1898: 9922.0 → 1900: 32.0,real_change_candidate,,low,large irregular ratio 310.1 — verify against both pages
+acres_change,1898,,,,,temiscaming-19-temiscaming-band-ott,,,1897: 38106.0 → 1898: 15590.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1899,,,,,the-gambler-63,,,1897: 15.0 → 1899: 1.21,unit_mismatch,,high,1902 division TREATY NO. 2 prints square miles under an Acres header
+acres_change,1901,,,,,thunderchild-115a,,,1900: 8.5 → 1901: 81.5,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1902,,,,,thunderchild-115a,,,1901: 81.5 → 1902: 8.5,unit_mismatch,,high,1902 division TREATY NO. 6 prints square miles under an Acres header
+acres_change,1902,,,,,timber-reserve-2-kitwangar,,,1901: 150.0 → 1902: 207.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1899,,,,,tobique-20-amalecite,,,1898: 18500.0 → 1899: 5766.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,toowartz-8-kitlathla,,,1898: 421.0 → 1900: 52.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,tsimpsean-reserve-2-tsimpsean-n-1-2-pt-s,,,1901: 353.85 → 1902: 57742.0,real_change_candidate,,low,large irregular ratio 163.2 — verify against both pages
+acres_change,1902,,,,,vermilion-forks-1-similkameen-upper,,,1901: 21.0 → 1902: 26.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,wild-lands-reserve-15m,,,1900: 20671.27 → 1901: 90671.27,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,wild-lands-reserve-15m,,,1901: 90671.27 → 1902: 20671.27,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1900,,,,,wyclese-1-quawshelah,,,1898: 173.0 → 1900: 551.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,yatze-13-massett,,,1901: 45.0 → 1902: 34.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1901,,,,,zaulzap-29-nass-river,,,1900: 578.0 → 1901: 878.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity
+acres_change,1902,,,,,zaulzap-29-nass-river,,,1901: 878.0 → 1902: 578.0,real_change_candidate,,medium,moderate change consistent with allotment/survey activity

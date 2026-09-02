@@ -1,0 +1,115 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+
+AGRICULTURAL and Industrial Statistics
+                                                                                                                                                                                                                                                                         Fish, Fur
+Province,        Resident
+                            Immovable Property, Land Cultivated,                                                                                                                                                                                                         and
+Agency, or       Indian                                            Personal Property                                                                                                  Grain and Roots Harvested
+                            and Fresh Land Ploughed                                                                                                                                                                                                                      Other
+Band             Population
+                                                                                                                                                                                                                                                                         Industries
+                                                            Land                                                                                                               Number
+                                                                                                                                  No. of
+                                                 Land       newly                               Fanning Threshing Mowing                                                       of                                              Other
+...              ...        Houses Barns Stables                   Ploughs Harrows Wagons Carts                           Reapers Other      Horses Cows Oxen Bulls Sheep Pigs        Wheat Oats    Pease Barley Corn Rye            Potatoes Turnips Beans Apples Hay   Value
+                                                 cultivated broken                              Mills   Machines Machines                                                      Young                                           Grain
+                                                          
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                                                                                    and farm
+                                                                                       implements.
+                                                                                       Young
+                                                                                       cattle,
+                                  6,000                                        8,180   provisions,
+Onion Lake      24 00   213 03             104 50 ...      1,254 99   584 08
+                                  00                                           60      clothing
+                                                                                       and farm
+                                                                                       implements.
+                                                                                       Young
+                                                                                       cattle,
+                                  5,388                                        6,023   provisions,
+Saddle Lake     ...     17 45              ...     ...     617 79     ...
+                                  20                                           44      clothing
+                                                                                       and farm
+                                                                                       implements.
+
+
+
+=== EXTRACT FROM HERE (pages 566-568) ===
+<!-- page 566 -->
+                                                                                       Young
+                                                                                       cattle,
+                                  8,811                                         10,598 provisions,
+Edmonton       383 79 361 50               46 00 14 00    976 00     6 00
+                                  00                                            29     clothing
+                                                                                       and farm
+                                                                                       implements.
+                                                                                        Young
+                                                                                        cattle,
+               1,548              3,520                                         5,986   provisions,
+Hobbema                540 40              ...     ...    578 00     ...
+               00                 00                                            00      clothing
+                                                                                        and farm
+                                                                                        implements.
+                                                                                       Young
+                                                                                       cattle,
+               4,135              28,531 1,435                                  42,516 provisions,
+...                    1,989 38                135 00     5,210 70   1,279 48
+               00                 45     70                                     46     clothing
+                                                                                       and farm
+                                                                                       implements.
+                                                                                       Young
+                                                                                       cattle,
+                                                                                       provisions,
+Treaty No. 7   ...     ...        ...      ...     ...    ...        ...        ...
+                                                                                       clothing
+                                                                                       and farm
+                                                                                       implements.
+                                                                                       Young
+                                                                                       cattle,
+                                                                                1,785 provisions,
+Sarcee         51 00   446 60     24 25    860 03 82 75   320 75     ...
+                                                                                38     clothing
+                                                                                       and farm
+                                                                                       implements.
+                                                                                       Young
+                                                                                       cattle,
+                                                                                3,791 provisions,
+Blackfoot      311 57 ...         ...      609 00 ...     2,466 50   404 08
+                                                                                75     clothing
+                                                                                       and farm
+                                                                                       implements.
+                                                                                        Young
+                                                                                        cattle,
+                                           1,489                                6,928   provisions,
+Blood          ...     1,098 50   105 00         ...      4,227 24   9 20
+                                           00                                   94      clothing
+                                                                                        and farm
+                                                                                        implements.
+                                                                                        Young
+                                                                                        cattle,
+               2,000                                                            4,517   provisions,
+Piegan                 ...        ...      60 00 ...      2,405 02   51 50
+               82                                                               34      clothing
+                                                                                        and farm
+                                                                                        implements.
+                                                                                        Young
+                                                                                        cattle,
+                                  3,720                                         4,683   provisions,
+
+<!-- page 567 -->
+              UUUUUULJUU
+Stony         265 63 ...               90 50 ...         603 25    4 00
+                                00                                            38      clothing
+                                                                                      and farm
+                                                                                      implements.
+                                                                                      Young
+                                                                                      cattle,
+              17,264            52,505 11,729                                 120,759 provisions,
+Grand Total          9,131 38                 3,648 95   24,542 13 2,137 36
+              32                74     73                                     21      clothing
+                                                                                      and farm
+                                                                                      implements.
+
+<!-- page 568 -->

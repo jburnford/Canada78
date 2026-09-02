@@ -1,0 +1,101 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE NO. 4: LIVE STOCK AND POULTRY: GENERAL EFFECTS.
+
+Agencies.      Horses.                  Cattle.                             Poultry. General Effects.
+                                                 Steers                             Motor Row      Rifles
+                          Geldings
+                                                 and Milch Young Other              and Boats and Steel
+...            Stallions. and      Foals. Bulls.                          ...                                  Nets. Tents.
+                                                 Work Cows. Stock. Stock.           Sail and       Shot Traps.
+                          Mares.
+                                                 Oxen.                              Boats. Canoes. Guns.
+
+               ...       ...      ...   ...       ...   ...   ...     ...   ...     ...     ...         ...   ...     ...   ...
+ALBERTA.
+Blackfoot      ...       1,696    ...   ...       3     532 1,009     20    100     ...     5           90    50      ...   150
+Blood          8         3,621    48    72        264   1,612 2,458   93    1,500   ...     ...         48    ...     ...   308
+Edmonton       2         302      10    9         125   189 249       265   1,525   ...     20          177   1,658   62    101
+Hobbema        ...       727      94    ...       87    136 179       97    461     ...     5           220   2,438   27    147
+Lesser Slave
+               ...       864      ...   3         20    71    41      ...   ...     ...     199         473   2,382 306     386
+Lake
+Peigan         8         1,422    ...   40        ...   ...   ...     2,019 400     ...     ...         35    ...     ...   120
+Saddle Lake    2         521      ...   1         76    221 242       85    515     ...     60          180 2,025     186   135
+Sarcee         ...       419      60    ...       35    118 133       ...   50      ...     ...         15    50      ...   65
+Stony          10        800      100   ...       1     51    88      ...   ...     ...     ...         162 1,000     ...   200
+Total          30        10,372   312   125       611   2,930 4,399   2,579 4,551   ...     289         1,400 9,603   581   1,612
+
+BRITISH      ...         ...      ...   ...       ...   ...   ...     ...   ...     ...     ...         ...   ...     ...   ...
+COLUMBIA.
+Babine and
+             9           532      50    4         4     161   81      4     ...      13     226         926   8,900 173     140
+Upper Ske
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+   10     60          50    550    40  10
+Timiskaming         ...       22       ...   4         ...   13    11    9     75        ...    27          32    300    15  18
+Total               11        821      131   185       167   1,352 649   1,485 11,718    40     935         1,627 24,472 579 796
+
+                    ...       ...      ...   ...       ...   ...   ...   ...    ...      ...    ...         ...   ...     ...   ...
+SASKATCHEWAN.
+Assiniboine         1         252      30    5         6     37    183   6      275     ...     ...         50    895     ...   43
+Battleford          9         765      ...   15        90    416   254   201    525     ...     9           223   2,640   138   184
+Carlton             3         450      ...   20        185   490   520   120    977     ...     83          274   3,445   152   176
+Crooked Lake        ...       360      32    6         51    203   288   ...    550     ...     ...         123   104     12    157
+Duck Lake           2         410      ...   1         214   430   671   47     709     ...     13          169   2,590   20    109
+File Hills Agency   1         110      20    ...       122   138   68    5      55      ...     ...         57    117     ...   44
+File Hills Colony   3         138      17    2         93    113   58    21     510     ...     ...         33    60      ...   ...
+Moose Mountain      ...       141      10    1         22    48    39    ...    100     ...     ...         100   150     50    50
+
+
+
+=== EXTRACT FROM HERE (pages 81-82) ===
+<!-- page 81 -->
+Agencies.    Horses.                  Cattle.                             Poultry. General Effects.
+                                               Steers                             Motor Row      Rifles
+                        Geldings
+                                               and Milch Young Other              and Boats and         Steel
+...          Stallions. and      Foals. Bulls.                          ...                                         Nets.   Tents.
+                                               Work Cows. Stock. Stock.           Sail and       Shot Traps.
+                        Mares.
+                                               Oxen.                              Boats. Canoes. Guns.
+Moose
+             1         75       15    2         30    80     140   10     150     ...     5           100   50      ...     15
+Woods
+Onion Lake   ...       389      48    ...       6     246    396   ...    825     ...     47          252   3,900   122     159
+Pelly        ...       224      ...   6         50    298    269   ...    240     ...     ...         144   1,990   ...     96
+Qu'Appelle   ...       447      18    9         49    190    213   61     117     ...     ...         116   699     15      160
+Touchwood    8         537      47    14        124   347    342   ...    478     ...     ...         185   3,800   5       130
+Wood
+             2         80       10    ...       4     ...    ...   ...    35      ...     ...         10    40      ...     15
+Mountain
+Total        30        4,378    247   81        1,106 3,036 3,441 471     5,546   ...     157         1,836 20,480 514      1,338
+
+RECAPITULATION.
+Agencies. Horses.                     Cattle.                             Poultry. General Effects.
+                                               Steers                             Motor Row      Rifles
+                        Geldings
+                                               and Milch Young Other              and Boats and         Steel
+...          Stallions. and      Foals. Bulls.                          ...                                         Nets.   Tents.
+                                               Work Cows. Stock. Stock.           Sail and       Shot Traps.
+                        Mares.
+                                               Oxen.                              Boats. Canoes. Guns.
+Alberta      30        10,372   312   125       611   2,930 4,399 2,579 4,551     ...     289         1,400 9,603   581     1,612
+British
+             265       10,717   2,587 223       1,432 2,541 4,158 4,646 27,918 1,071 3,903            6,462 35,628 1,758 2,952
+Columbia
+Manitoba     17        1,420    104   46        455   852    1,035 162    2,673   72      2,226       2,925 27,862 5,754 2,069
+New
+             ...       50       8     6         7     39     35    14     313     39      101         233   1,360   221     58
+Brunswick
+Nova Scotia 1          65       5     6         47    118   116   93    1,092 12          107         323   1,327 87     45
+Ontario      40        3,422    649   133       722   2,939 2,291 3,886 55,449 283        2,310       3,738 48,255 3,382 1,418
+Prince
+Edward       ...       9        2     1         2     9      4     ...    135     4       15          25    55      31      ...
+Island
+Quebec       11        821      131 185         167 1,352 649       1,485 11,718 40      935    1,627 24,472 579      796
+Saskatchewan 30        4,378    247 81          1,106 3,036 3,441 471      5,546 ...     157    1,836 20,480 514      1,338
+Total        394       31,254   4,045 806       4,549 13,816 16,128 13,336 104,320 1,521 10,043 18,569 169,042 12,907 10,288
+
+<!-- page 82 -->

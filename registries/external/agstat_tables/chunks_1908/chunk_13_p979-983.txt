@@ -1,0 +1,252 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS. REALTY OF INDIANS
+
+Agency             LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                   Cleared but  Under        Number     Number engaged in Number                Number
+...                not under    actual       engaged in hunting, trapping and engaged in        engaged in
+                   cultivation. cultivation. farming.   fishing.              other industries. stock-raising
+ONTARIO.           Acres.       Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency - 23,476          11,220     412          ...                   ...             412
+Six Nations
+Parry Sound
+                  839             485        55           43                    51              ...
+Superintendency
+New Credit
+(Mississaguas)     1,965          3,725      42           2                     35              ...
+Agency
+Walpole Island
+                   33,425         1,005      57           35                    ...             40
+Agency
+Sarnia             1,584         3,215       110          42                    45              52
+Caradoc Agency     4,459         10,512      63           ...                   ...             ...
+Moravian Agency    1,195         970         75           30                    20              60
+Manitowaning
+                   6,025         2,710       105          66                    114             ...
+Agency
+Gore Bay Agency 3,813 1/2        1,845 1/2   254          13                    291             ...
+Thessalon Agency 260             401         ...          2                     132             ...
+Sault Ste. Marie
+                 2,448           1,570       39           80                    153             ...
+Agency
+Port Arthur
+                   236           276         ...          276                   50              ...
+Agency
+Sturgeon Falls
+                   ...           375         ...          ...                   ...             ...
+Agency
+Golden Lake
+                   200           50          6            4                     ...             ...
+Agency
+Tyendinaga
+                   9,600         6,300       264          1                     231             ...
+Agency
+Lake Simcoe
+                   539           234         10           90                    9               9
+Agency
+Cape Croker
+                   3,500         1,500       145          25                    100             145
+Ag
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ ...
+SCOTIA.
+Annapolis
+                 200 00      ...         700 00     ...      120 00     100 00       400 00     1,520 00
+County.
+Shelburne
+                 100 00      ...         1,500 00 ...        250 00     600 00       250 00     2,700 00
+County
+Digby County     90 00       ...         700 00     ...      10 00      475 00       600 00     1,875 00
+Yarmouth
+                 ...         ...         200 00     ...      90 00      60 00        50 00      400 00
+County
+Kings County.    350 00      ...         4,000 00   ...      500 00     1,000 00     2,510 00   8,360 00
+Queens County    1,400 00    250 00      180 00     ...      550 00     400 00       425 00     3,205 00
+Halifax County   960 00      ...         ...        ...      ...        ...          ...        960 00
+Hants County     750 00      ...         100 00     ...      100 00     1,000 00     2,000 00   3,950 00
+Colchester
+                 113 00      ...         3,200 00 ...        25 00      350 00       1,300 00   4,988 00
+County
+Cumberland
+                 700 00      ...         2,000 00 ...        30 00      1,500 00     1,600 00   5,830 00
+County
+Pictou County    480 00      ...         1,250 00 ...        900 00     30 00        480 00     3,140 00
+Antigonish &
+Guysborough      500 00      ...         1,500 00 6 00       500 00     ...          6,500 00   9,006 00
+Counties
+Richmond
+                 700 00      100 00      1,000 00 ...        800 00     100 00       700 00     3,400 00
+County
+
+
+
+=== EXTRACT FROM HERE (pages 979-983) ===
+<!-- page 979 -->
+Inverness
+                2,075 00   150 00   3,300 00 ...    500 00   250 00   400 00     6,675 00
+County
+Victoria County 2,400 00   250 00   1,250 00 ...    500 00   325 00   4,000 00   8,725 00
+Cape Breton
+                ...        ...      ...       ...   ...      ...      ...        ...
+(Sydney) County
+Lunenburg
+                1,400 00   400 00   2,670 00 ...    800 00   500 00   500 00     6,270 00
+County
+
+<!-- page 980 -->
+                                                         THE ESTIMATED
+                                                         VALUE OF FISH AND
+             Value of    Value of
+                                                Received MEAT USED FOR FOOD
+             farm        Beef sold,                      IS INCLUDED IN THESE Earned by Total
+                                      Wages     from
+Agency.      Products,   also of that                    COLUMNS.              other       Income of
+                                      Earned.   Land
+             including   used for                                              Industries. Indians.
+                                                Rentals.           Earned by
+             Hay.        Food.                           Earned by
+                                                                   Hunting and
+                                                         Fishing.
+                                                                   Trapping.
+Cape Breton
+(Eskasoni)  3,215 00     300 00      2,850 00   ...      100 00      100 00      11,400 00 17,965 00
+County
+Total       15,433 00    1,450 00    26,400 00 6 00      5,775 00    6,790 00    33,115 00 88,969 00
+BRITISH
+            ...          ...         ...        ...      ...         ...         ...        ...
+COLUMBIA.
+Cowichan
+             22,625 00   3,980 00    28,400 00 ...       28,850 00   2,000 00    1,150 00   87,005 00
+Agency
+West Coast
+             445 00      65 00       16,100 00 ...       28,810 00   4,500 00    37,750 00 87,670 00
+Agency
+Kwawkewlth
+           565 00        ...         6,160 00   ...      52,450 00   4,850 00    40,150 00 104,175 00
+Agency
+Lower Fraser
+             49,202 00   5,165 00    77,360 00 667 50    55,972 00   41,418 00   69,559 00 299,343 50
+Agency
+Williams
+            34,321 00    2,735 00    35,350 00 160 00    15,670 00   17,280 00   10,300 00 115,816 00
+Lake Agency
+Kamloops -
+Okanagan     135,203 00 10,795 00    152,000 00 733 33   30,850 00   20,500 00   17,500 00 367,581 33
+Agency
+Kootenay
+             28,317 00   4,050 00    10,100 00 ...       1,785 00    7,225 00    1,975 00   53,452 00
+Agency
+Northwest
+             12,850 00   ...         46,250 00 50 00     114,230 00 23,700 00    24,000 00 221,080 00
+Coast Agency
+Babine &
+Upper Skeena 41,300 00   2,500 00    29,700 00 ...       20,000 00   51,800 00   34,800 00 180,100 00
+River Agency
+Cassiar
+             ...         ...         12,000 00 ...       100 00      12,000 00   1,600 00   25,700 00
+Agency
+Total      324,828 00 29,290 00      413,420 00 1,610 83 348,717 00 185,273 00   238,784 00 1,541,922 83
+MANITOBA. ...         ...            ...        ...      ...        ...          ...        ...
+Clandeboye
+           20,075 00 6,810 00        21,800 00 30 00     3,350 00    7,100 00    7,200 00   66,365 00
+Agency
+Portage la
+Prairie     7,520 00     550 00      4,800 00   ...      525 00      4,850 00    2,600 00   20,845 00
+Agency
+Manitowapah
+            8,890 00     3,075 00    10,075 00 ...       17,215 00   12,541 00   5,371 00   57,167 00
+Agency
+Norway
+
+<!-- page 981 -->
+House         12,200 00   ...         6,650 00   ...    14,050 00   22,450 00   2,200 00   57,550 00
+Agency
+The Pas
+              2,914 50    846 95      8,150 00   ...    15,400 00   18,100 00   316 90     45,728 35
+Agency
+Birtle Agency 20,586 18   2,674 00    5,425 00   ...    515 00      3,200 00    2,521 00   34,921 18
+Oak River
+(Sioux)       21,002 00   550 00      1,450 00   ...    445 00      4,250 00    545 00     28,242 00
+Agency
+Total         93,187 68   14,505 95   58,350 00 30 00   51,500 00   72,491 00   20,753 90 310,818 53
+
+<!-- page 982 -->
+REALTY OF INDIANS.
+
+                     LANDS AND SOURCES FROM WHICH INDIANS DERIVE
+                                                                 PUBLIC BUILDINGS, PROPERTY OF THE BAND.
+                     THEIR SUPPORT.
+                                                        Number                                                                                                                       Value of
+                                                        engaged                                                                                                                      Public
+Agency.                                        Number            Number Number
+                     Cleared but Under                  in                                                                                                                           Properties,
+                                               engaged           engaged engaged Saw Grist                           Other                Council School Driving Other
+                     not under actual                   Hunting,                                 Threshers. Engines.            Churches.                                   Ferries. & c.
+                                               in                in other in Stock Mills. Mills.                     Machinery.           Houses. Houses. Sheds. Buildings.
+                     Cultivation. Cultivation.          Trapping
+                                               Farming.          industries. raising.
+                                                        and
+                                                        Fishing.
+SASKATCHEWAN. Acres.            Acres.      ...       ...      ...        ...      ...   ...    ...        ...      ...        ...        ...     ...      ...     ...       ...     ...
+Pelly Agency, Treaty
+                     46,912     520         43        40       ...        96       ...   ...    1          1        17         4          ...     3        2       13        ...     12,500 00
+No. 4
+Assiniboine Agency,
+                    17,004      930         26        8        5          18       ...   ...    1         1         75         4          ...     ...      ...     ...       ...     6,215 00
+Treaty No. 4
+Moose Mountain
+                     10,160     658         22        25       7          30       ...   ...    1         1         ...        ...        ...     1        1       2         ...     2,900 00
+Agency, Treaty No. 4
+Qu'Appelle Agency,
+                     144,751    6,503       105       11       450        130      ...   ...    2         2         1          1          ...     ...      ...     1         ...     4,530 00
+Treaty No. 4
+Crooked Lakes
+                     100,053    1,642       50        ...      ...        66       ...   ...    ...       ...       ...        ...        ...     ...      ...     1         ...     ...
+Agency, Treaty No. 4
+Touchwood Hills
+                     87,346     1,056       64        133      186        93       ...   ...    1         1         ...        1          ...     3        ...     ...       ...     6,675 00
+Agency, Treaty No. 4
+Battleford Agency,
+                     160,599    1,487       117       10       182        195      ...   ...    3         1         ...        ...        ...     7        ...     ...       ...     5,300 00
+Treaty No. 6
+Carlton Agency,
+                     134,092    1,166       444       1,334    925        511      1     1      2         2         1          2          ...     7        ...     4         ...     12,975 00
+Treaty No. 6.
+Duck Lake Agency,
+                     88,979     384         34        145      2          118      ...   ...    3         1         ...        2          ...     3        ...     ...       1       6,050 00
+Treaty No. 6
+Onion Lake Agency,
+                   140,367      169         40        164      22         134      ...   1      ...       ...       ...        ...        ...     ...      ...     ...       ...     2,800 00
+Treaty No. 6
+Total                930,263    14,515      945       1,870    1,779      1,391    1     2      14        10        94         10         ...     24      3        21        1       59,945 00
+ALBERTA.             ...        ...         ...       ...      ...        ...      ...   ...    ...       ...       ...        ...        ...     ...     ...      ...       ...     ...
+Edmonton Agency,
+                     34,135 1/4 1,280       24        73       57         69       2     ...    1         1         ...        ...        ...     3       ...      ...       ...     14,350 00
+Treaty No. 6
+Hobbema Agency,
+                     69,808 1/2 471 1/2     95        57       55         69       1     1      ...       ...      1           ...        ...     1       ...      ...       ...     10,900 00
+Treaty No. 6
+Saddle Lake Agency,
+                    65,913      1,317       107       132      ...        107      1     ...    ...       1        ...         ...        ...     4       ...      ...       ...     2,625 00
+Treaty No. 6
+Stony Agency, Treaty
+                     45,530     190         50        100      100        60       ...   ...    ...       ...      ...         1          ...     2       1        ...       ...     1,100 00
+No. 7
+Sarcee Agency,
+                     58,120     218         20        16       6          23       ...   ...    ...        ...      ...        1          1       1        1       ...       ...     11,000 00
+Treaty No. 7
+Blackfoot Agency,
+                     299,950    250         24        ...      ...        144      ...   ...    ...        ...      ...        ...        ...     ...      ...     ...       ...     ...
+Treaty No. 7
+
+<!-- page 983 -->
+Blood Agency,
+                 348,476     850         15    ...   10    316   ...   ...   ...   ...   ...   ...   ...   3    ...   2   ...   22,200 00
+Treaty No. 7
+Peigan Agency,
+                 114 895     401         14    ...   150   145   1     ...   ...   ...   1     1     ...   1    1     2   ...   14,400 00
+Treaty No. 7
+Total.           1,036 1/2   4,977 1/2   349   378   378   933   5     1     1     2     2     3     1     15   3     4   ...   76,475 00
+

@@ -1,0 +1,30 @@
+{"row_type": "headers", "title": "Account Current with the Department of Indian Affairs", "columns": ["DR Capital ($ cts.)", "DR Interest ($ cts.)", "CR Description", "CR Capital ($ cts.)", "CR Interest ($ cts.)"]}
+{"page": 692, "row_type": "row", "section": "ASSABASKASING BAND, MANITOBA", "label": "To Balance on 30th June, 1886", "values": ["2,047 24", null, "By Balance on 30th June, 1885", "1,968 48", null], "confidence": "high"}
+{"page": 692, "row_type": "row", "section": "ASSABASKASING BAND, MANITOBA", "label": null, "values": [null, null, "Interest for year", "78 76", null], "confidence": "high"}
+{"page": 692, "row_type": "total", "section": "ASSABASKASING BAND, MANITOBA", "label": null, "values": [null, null, null, "2,047 24", null], "confidence": "high"}
+{"page": 692, "row_type": "total", "section": "ASSABASKASING BAND, MANITOBA", "label": null, "values": ["2,047 24", null, "Balance on 30th June, 1886", "2,047 24", null], "confidence": "high"}
+{"page": 693, "row_type": "row", "section": "LAKE OF THE WOODS INDIANS", "label": "To Balance on 30th June, 1885", "values": ["503 33", null, "By Balance on 30th June, 1886", "573 25", null], "confidence": "medium"}
+{"page": 693, "row_type": "row", "section": "LAKE OF THE WOODS INDIANS", "label": "Cost in connection with liquor prosecutions", "values": ["49 80", null, null, null, null], "confidence": "high"}
+{"page": 693, "row_type": "row", "section": "LAKE OF THE WOODS INDIANS", "label": "Interest", "values": ["20 12", null, null, null, null], "confidence": "high"}
+{"page": 693, "row_type": "total", "section": "LAKE OF THE WOODS INDIANS", "label": null, "values": ["573 25", null, null, "573 25", null], "confidence": "high"}
+{"page": 693, "row_type": "total", "section": "LAKE OF THE WOODS INDIANS", "label": "Balance on 30th June, 1886", "values": ["573 25", null, null, null, null], "confidence": "high"}
+{"page": 694, "row_type": "row", "section": "INDIANS OF NOVA SCOTIA", "label": "To Legal services and expenses McLean vs. McIsaac", "values": ["371 97", null, "By Balance on 30th June, 1885", "425 60", null], "confidence": "high"}
+{"page": 694, "row_type": "row", "section": "INDIANS OF NOVA SCOTIA", "label": "For survey of Middle River Reserve", "values": ["101 90", null, "Interest year", "17 04", null], "confidence": "high"}
+{"page": 694, "row_type": "row", "section": "INDIANS OF NOVA SCOTIA", "label": "Refund to D. McQuarrie of over payment for land at Middle River", "values": ["27 00", null, "Balance on 30th June, 1886", "58 23", null], "confidence": "high"}
+{"page": 694, "row_type": "total", "section": "INDIANS OF NOVA SCOTIA", "label": null, "values": ["500 87", null, null, "500 87", null], "confidence": "high"}
+{"page": 694, "row_type": "total", "section": "INDIANS OF NOVA SCOTIA", "label": "Balance on 30th June, 1886", "values": ["58 23", null, null, null, null], "confidence": "high"}
+{"page": 695, "row_type": "row", "section": "INDIANS OF NEW BRUNSWICK", "label": "To the following payments: -", "values": [null, null, "By Balance on 30th June, 1885", "4,180 95", null], "confidence": "high"}
+{"page": 695, "row_type": "row", "section": "INDIANS OF NEW BRUNSWICK", "label": "Expenses in connection with liquor prosecutions", "values": ["27 34", null, "Land and timber sales", "1,060 81", null], "confidence": "high"}
+{"page": 695, "row_type": "row", "section": "INDIANS OF NEW BRUNSWICK", "label": "Travelling expenses of Chief Tom Josheph from Ottawa to Richibucto", "values": ["16 90", null, "Rents", "16 00", null], "confidence": "high"}
+{"page": 695, "row_type": "row", "section": "INDIANS OF NEW BRUNSWICK", "label": "Repairs to church at Big Cove", "values": ["150 00", null, "Interest for the year", "167 24", null], "confidence": "high"}
+{"page": 695, "row_type": "row", "section": "INDIANS OF NEW BRUNSWICK", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["107 04", null, null, null, null], "confidence": "high"}
+{"page": 695, "row_type": "total", "section": "INDIANS OF NEW BRUNSWICK", "label": "Balance on 30th June, 1886", "values": ["5,123 72", null, null, null, null], "confidence": "high"}
+{"page": 695, "row_type": "total", "section": "INDIANS OF NEW BRUNSWICK", "label": null, "values": ["5,425 00", null, null, "5,425 00", null], "confidence": "high"}
+{"page": 695, "row_type": "total", "section": "INDIANS OF NEW BRUNSWICK", "label": null, "values": [null, null, "Balance on 30th June, 1886", "5,123 72", null], "confidence": "high"}
+{"page": 696, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "To the following payments: -", "values": [null, null, "By Balance on 30th June, 1885", "5,829 95", "53 66"], "confidence": "high"}
+{"page": 696, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "10 per cent. on timber dues, distributed", "values": ["65 40", null, "Land and timber sales", "740 63", null], "confidence": "high"}
+{"page": 696, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "Interest on moneys distributed", "values": [null, "112 49", "Interest on invested capital", null, "235 36"], "confidence": "high"}
+{"page": 696, "row_type": "row", "section": "TOBIQUE INDIANS, N.B.", "label": "Percentage on collections carried to credit of Management Fund", "values": ["74 06", null, null, null, null], "confidence": "high"}
+{"page": 696, "row_type": "total", "section": "TOBIQUE INDIANS, N.B.", "label": "Balance on 30th June, 1886", "values": ["6,431 12", "176 53", null, null, null], "confidence": "high"}
+{"page": 696, "row_type": "total", "section": "TOBIQUE INDIANS, N.B.", "label": null, "values": ["6,570 58", "289 02", null, "6,570 58", "289 02"], "confidence": "high"}
+{"page": 696, "row_type": "total", "section": "TOBIQUE INDIANS, N.B.", "label": null, "values": [null, null, "Balance on 30th June, 1886", "6,431 12", "176 53"], "confidence": "high"}

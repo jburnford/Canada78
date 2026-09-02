@@ -1,0 +1,24 @@
+{"row_type": "headers", "title": "NORTH-WEST TERRITORIES. Treaty No. 4", "columns": ["Total", "Males", "Females", "Children", "Religion", "Remarks"]}
+{"page": 577, "row_type": "note", "section": null, "label": "NORTH-WEST TERRITORIES.", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 577, "row_type": "note", "section": "NORTH-WEST TERRITORIES.", "label": "Treaty No. 4", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 577, "row_type": "note", "section": "Treaty No. 4", "label": "BIRTLE AGENCY.", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 577, "row_type": "row", "section": "BIRTLE AGENCY.", "label": "Kee-see-koo-weenin's", "values": ["143", "107", "4", "32", "1", null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "BIRTLE AGENCY.", "label": "Way-way-see-cappo", "values": ["159", "21", "29", "109", "Protestant.", null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "BIRTLE AGENCY.", "label": "Gambler's", "values": ["102", "10", "52", "40", null, null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "BIRTLE AGENCY.", "label": "Rolling River", "values": ["114", "6", "15", "93", null, null], "confidence": "high"}
+{"page": 578, "row_type": "note", "section": "BIRTLE AGENCY.", "label": "SIOUX.", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "SIOUX.", "label": "Bird Tail Sioux", "values": ["110", "50", null, "60", null, null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "SIOUX.", "label": "Oak River Sioux", "values": ["241", "85", "7", "149", "1", null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "SIOUX.", "label": "Oak Lake Sioux", "values": ["49", null, null, "49", "Protestant.", null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "SIOUX.", "label": "Turtle Mountain Sioux", "values": ["30", "5", null, "25", null, null], "confidence": "high"}
+{"page": 578, "row_type": "total", "section": "BIRTLE AGENCY.", "label": "Total", "values": ["948", "284", "107", "557", "2 Prot.", null], "confidence": "high"}
+{"page": 578, "row_type": "note", "section": "Treaty No. 4", "label": "FORT PELLY AGENCY.", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "FORT PELLY AGENCY.", "label": "Côté", "values": ["272", "157", "11", "104", "1 Prot.", null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "FORT PELLY AGENCY.", "label": "Key", "values": ["226", "110", "25", "91", "2 Prot.", null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "FORT PELLY AGENCY.", "label": "Kisickouse", "values": ["152", "26", "48", "78", "1", "R.C."], "confidence": "medium"}
+{"page": 578, "row_type": "total", "section": "FORT PELLY AGENCY.", "label": "Total", "values": ["650", "293", "84", "273", "3 Prot.", "R.C."], "confidence": "high"}
+{"page": 578, "row_type": "note", "section": "Treaty No. 4", "label": "MOOSE MOUNTAIN AGENCY.", "values": [null, null, null, null, null, null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "MOOSE MOUNTAIN AGENCY.", "label": "Pheasant Rump", "values": ["51", null, "9", "42", null, null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "MOOSE MOUNTAIN AGENCY.", "label": "Striped Blanket", "values": ["61", "3", "1", "57", null, null], "confidence": "high"}
+{"page": 578, "row_type": "row", "section": "MOOSE MOUNTAIN AGENCY.", "label": "White Bear", "values": ["102", null, "2", "100", null, null], "confidence": "high"}
+{"page": 578, "row_type": "total", "section": "MOOSE MOUNTAIN AGENCY.", "label": "Total", "values": ["214", "3", "12", "199", null, null], "confidence": "high"}

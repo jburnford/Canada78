@@ -1,0 +1,142 @@
+{
+ "02": {
+  "seconds": 151.3,
+  "pages": "624\u2013624",
+  "windows": [
+   {
+    "window": [
+     624,
+     624
+    ],
+    "rows": 17,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 151.3,
+    "finish_reason": "stop",
+    "completion_tokens": 5680
+   }
+  ],
+  "rows": 17,
+  "complete": true
+ },
+ "01": {
+  "seconds": 179.0,
+  "pages": "622\u2013623",
+  "windows": [
+   {
+    "window": [
+     622,
+     623
+    ],
+    "rows": 27,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 179.0,
+    "finish_reason": "stop",
+    "completion_tokens": 6708
+   }
+  ],
+  "rows": 27,
+  "complete": true
+ },
+ "03": {
+  "seconds": 97.5,
+  "pages": "626\u2013627",
+  "windows": [
+   {
+    "window": [
+     626,
+     627
+    ],
+    "rows": 19,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 97.5,
+    "finish_reason": "stop",
+    "completion_tokens": 3665
+   }
+  ],
+  "rows": 19,
+  "complete": true
+ },
+ "04": {
+  "seconds": 72.8,
+  "pages": "628\u2013628",
+  "windows": [
+   {
+    "window": [
+     628,
+     628
+    ],
+    "rows": 18,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 72.8,
+    "finish_reason": "stop",
+    "completion_tokens": 2704
+   }
+  ],
+  "rows": 18,
+  "complete": true
+ },
+ "00": {
+  "seconds": 253.6,
+  "pages": "620\u2013621",
+  "windows": [
+   {
+    "window": [
+     620,
+     621
+    ],
+    "rows": 52,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 253.6,
+    "finish_reason": "stop",
+    "completion_tokens": 9431
+   }
+  ],
+  "rows": 52,
+  "complete": true
+ },
+ "06": {
+  "seconds": 342.0,
+  "pages": "634\u2013638",
+  "windows": [
+   {
+    "window": [
+     634,
+     638
+    ],
+    "rows": 97,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 342.0,
+    "finish_reason": "stop",
+    "completion_tokens": 13125
+   }
+  ],
+  "rows": 97,
+  "complete": true
+ },
+ "05": {
+  "seconds": 419.0,
+  "pages": "628\u2013633",
+  "windows": [
+   {
+    "window": [
+     628,
+     633
+    ],
+    "rows": 84,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 419.0,
+    "finish_reason": "stop",
+    "completion_tokens": 16140
+   }
+  ],
+  "rows": 84,
+  "complete": true
+ }
+}

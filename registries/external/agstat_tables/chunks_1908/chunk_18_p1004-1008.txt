@@ -1,0 +1,363 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS. REALTY OF INDIANS
+
+Agency             LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                   Cleared but  Under        Number     Number engaged in Number                Number
+...                not under    actual       engaged in hunting, trapping and engaged in        engaged in
+                   cultivation. cultivation. farming.   fishing.              other industries. stock-raising
+ONTARIO.           Acres.       Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency - 23,476          11,220     412          ...                   ...             412
+Six Nations
+Parry Sound
+                  839             485        55           43                    51              ...
+Superintendency
+New Credit
+(Mississaguas)     1,965          3,725      42           2                     35              ...
+Agency
+Walpole Island
+                   33,425         1,005      57           35                    ...             40
+Agency
+Sarnia             1,584         3,215       110          42                    45              52
+Caradoc Agency     4,459         10,512      63           ...                   ...             ...
+Moravian Agency    1,195         970         75           30                    20              60
+Manitowaning
+                   6,025         2,710       105          66                    114             ...
+Agency
+Gore Bay Agency 3,813 1/2        1,845 1/2   254          13                    291             ...
+Thessalon Agency 260             401         ...          2                     132             ...
+Sault Ste. Marie
+                 2,448           1,570       39           80                    153             ...
+Agency
+Port Arthur
+                   236           276         ...          276                   50              ...
+Agency
+Sturgeon Falls
+                   ...           375         ...          ...                   ...             ...
+Agency
+Golden Lake
+                   200           50          6            4                     ...             ...
+Agency
+Tyendinaga
+                   9,600         6,300       264          1                     231             ...
+Agency
+Lake Simcoe
+                   539           234         10           90                    9               9
+Agency
+Cape Croker
+                   3,500         1,500       145          25                    100             145
+Ag
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+00                McIver          Chippewas of Nawash, Cape Croker.
+John         Agent
+McPhee,      Indian
+                      400 00                Orillia         Chippewas of Rama.
+Duncan J.    Agent
+Mullin,      Indian
+                      60 00                 Killaloe        Algonquins of Golden Lake.
+Martin       Agent
+             Clerk,
+Neilson,
+             Indian   720 00                Manitowaning    ...
+R.W.
+             Office
+                      825 00 - With $154.50
+Nichols,     Indian                                           Batchawana, Big Head or Michipicoten and Garden
+                      a year for office rent Sault Ste. Marie
+W.L.         Agent                                            River.
+                      and fuel
+Nisbet,      Indian
+                      500 00                Sarnia          Chippewas of Sarnia, Aux Sables and Kettle Point.
+William      Agent
+Scoffield,   Indian
+                      600 00                Chippewa Hill   Chippewas of Saugeen.
+John         Agent
+                                                            Sucker Creek, Sucker Lake, Sheguiandah, South
+Sims,        Indian                                         Bay, Maganatawan, Point Grondin, Tahgaiwinini,
+                      1,000 00              Manitowaning
+C.L.D.       Agent                                          Whitefish River, Whitefish Lake and unceded
+                                                            portion of Manitoulin Island.
+
+
+
+=== EXTRACT FROM HERE (pages 1004-1008) ===
+<!-- page 1004 -->
+Name.            Office.   Annual Salary, & c.              Address.    Bands or Reserves in Agency.
+...              ...       $ cts.                           ...         ...
+                 Indian    1,400 00 - $140 for travelling
+Smith, G.J.                                                 Brantford   Six Nations of Grand River.
+                 Supt      expenses and $200 for rent
+                 Indian
+Stainton, J.R.             700 00                           Deseronto Mohawks of Bay of Quinte, Tyendinaga.
+                 Agent
+                 Indian    600 00 - Also $200 allowance for             Chippewas, Munsees and Oneidas of the
+Sutherland, S.                                              Delaware
+                 Agent     clerk                                        Thames.
+Thackeray,       Indian
+                           325 00                           Roseneath. Mississaguas of Alnwick.
+John             Agent
+                 Indian                                                 Chippewas of Cockburn Island,
+Thorburn, R.               800 00 -                         Gore Bay
+                 Agent                                                  Sheshegwaning, Obidgewong and West Bay.
+Van Loon,        Indian
+                           600 00                           Hagersville Mississaguas of the Credit.
+W.C.             Agent
+                 Indian
+West, H.A.                 500 00                           Cbapleau    Treaty No. 9 Indians.
+                 Agent
+Williams,        Indian
+                           100 00                           Port Perry Mississaguas of Scugog.
+Albert W.        Agent
+                 Indian                                     Sutton
+Yates, John                350 00                                       Chippewas of Snake and Georgina Islands.
+                 Agent                                      West
+Arthur, R.H., Medical
+                      350 00 - Paid by Band                 Sudbury     Whitefish lake Indians.
+M.D.          Officer
+Blair, J.K.,     Medical
+                         125 00                             ...         Serpent River Indians.
+M.D.             Officer
+Berry, J.D.,     Medical 2 00 - Per head (35 Ind) $70 paid
+                                                           Port Perry Mississaguas of Scugog.
+M.D.             Officer by band
+Baxter, J.,      Medical
+                         300 00                             ...         Thessalon River and Mississagi River.
+M.D.             Officer
+Carruthers,      Medical                                                Sheguiandah, Sucker Creek, West Bay and
+                         600 00                             ...
+John, M.D.       Officer                                                Whitefish River.
+Flaherty,        Medical
+                         175 00 - Voted by Parliament       Massey      Spanish River Indians.
+F.F., M.D.       Officer
+Hay, W.W.,       Medical
+                         500 00 - Paid by Band              ...         Indians on Walpole Island.
+M.D.             Officer
+Hayden,          Medical
+                         275 00 - Paid by Band              ...         Mississaguas of Alnwick.
+E.W., M.D.       Officer
+Holmes C.N., Medical
+                     2,850 00 - $300 for drugs              Ohsweken Chippewas of Nawash.
+M.D.         Officer
+Hough, H.A., Medical
+                     500 00 - $300 for drugs                Wiarton     Chippewas of Nawash.
+M.D.         Officer
+James, M.,       Medical
+                         200 00 - Voted by Parliament       Mattawa     Algonquin Indians.
+M.D.             Officer
+Johnston, J.,    Medical                                                Indians on Manitoulin Island, Cockburn
+                         250 00 - Paid by Band              ...
+M.D.             Officer                                                Island, Obidgewong and Sheshegwaning.
+McCaig,          Medical                                                Garden River. Paid for attending
+                           500 00                           ...
+
+<!-- page 1005 -->
+A.S., M.D.    Officer                                         Batchawana Bd.
+McDonald,     Medical
+                      350 00                            ...   Mississaguas of the Credit
+R., M.D.      Officer
+Mitchell,     Medical
+                      300 00 - Voted by Parliament      ...   Oneidas of the Thames.
+F.H., M.D.    Officer
+McGrady J.,   Medical                                         Fort William, Pic Pays Plat and Red Rock
+                      125 00 - Paid by Band, $75, vote ...
+M.D.          Officer                                         Bds.
+McLean,       Medical
+                      300 00 - Paid by Band, $50, vote ...    Chippewas of Rama.
+John, M.D.    Officer
+McPhail,      Medical
+                      300 00 - Paid by Band, $50, vote ...    Moravians of the Thames.
+D.P., M.D.    Officer
+McEwen,       Medical 260 00 - Band, $200; $60 voted
+                                                        ...   Chippewas and Munsees of the Thames.
+J.A., M.D.    Officer by Parliament
+
+<!-- page 1006 -->
+Name.       Office.        Annual Salary, & c.        Address.       Bands or Reserves in Agency.
+...         ...            $ cts.                     ...            ...
+McWilliams, Medical
+                           175 00 - Paid by Band      ...            Mississaguas of Rice Lake.
+V.H., M.D. Officer
+Pringle,       Medical
+                           150 00 - Paid by Band      ...            Chippewas of Snake Island.
+H.H., M.D.     Officer
+Reeves,     Medical        200 00 - Voted by
+                                                      Eganville      Golden Lake Band.
+James, M.D. Officer        Parliament
+Sheahan, J.J., Medical     200 00 - Voted by
+                                                      ...            Indians from Pogamissing to White River.
+M.D.           Officer     Parliament
+Walker,        Medical     1,000 00 - Paid by Band
+                                                      ...            Indians on Manitoulin.
+C.W., M.D.     Officer     and Vote
+Williams,      Medical     300 00 - Paid by Band and
+                                                     ...             Chippewas of Saugeen.
+R.W., M.D.     Officer     Vote
+Creegan,       Missionary
+                          500 00 - Paid by Band       Deseronto      Mohawks of the Bay of Quinte.
+Rev. A.H.      (C.E.)
+Sims, H.S.     Constable   168 00 - Paid by Band      ...            Serpent River and Spanish River.
+QUEBEC.
+Bastien,       Indian
+                           425 00                     Jeune Lorette Hurons of Lorette.
+Antoine 0.     Agent
+               Indian      150 00 - Commission of 5
+Beaulieu, E.                                        Cacouna          Amalecites of Cacouna.
+               Agent       p.c.
+               Indian      600 00 - $60 for office
+Blain, Jean                                           Montreal       Iroquois of Caughnawaga
+               Agent       rent
+Burwash,       Indian                                 N.
+                           350 00                                 Lake Timiskaming and Abitibi.
+Adam           Agent                                  Timiskaming
+Comiré,        Indian                                 St. François
+                           400 00                                    Abenakis of St. Francis.
+A.O., M.D.     Agent                                  du Lac
+               Indian
+Dubé, J.R.                 100 00                     Becancour      Abenakis of Becancour.
+               Agent
+Gagnon,        Indian
+                           400 00                     Bersimis       Bersimis.
+Adolphe        Agent
+                           50 00 - Commission of 10
+Long,          Indian
+                           p.c. on land rent and 2 1/2 St. Regis     Iroquois of St. Regis.
+George         Agent
+                           p.c. on distribution
+McCaffrey,     Indian
+                           600 00 - $50 office rent   River Desert River Desert band, Maniwaki reserve.
+Wm. J.         Agent
+               Indian
+Marcoux, A.                400 00                     Pointe Bleue Montagnais of Lake St. John.
+               Agent
+Morin, Rev.    Indian                                 Grand
+                           200 00                                    Micmacs of Maria.
+J.D.           Agent                                  Cascapedia
+Perillard,     Indian
+                           200 00                     Oka            Lake of Two Mountains.
+Joseph         Agent
+Pitre,         Indian                                 Pointe la
+                           300 00                                    Micmacs of Restigouche.
+Jeremie        Agent                                  Garde
+
+<!-- page 1007 -->
+              Indian
+Tremblay,     Agent and                              Esquimaux     North Shore St. Lawrence from Seven Islands
+                          600 00
+J.E., M.D.    Medical                                Point         to St. Augustine.
+              Officer
+Cote, C.H.,   Medical
+                          200 00                     Escoumains    Escoumains.
+M.D.          Officer
+McCartney,    Medical     80 00 - Voted by
+                                                     ...           Micmacs of Gaspé.
+F.W., M.D.    Officer     Parliament
+Mulligan,     Medical
+                          200 00 - Paid by Band      ...           River Desert band, Maniwaki reserve.
+E.A., M.D.    Officer
+Constantin,   Medical
+                          500 00                     Pointe Bleue Pointe Bleue reserve.
+J., M.D.      Officer
+Claveau,      Medical
+                          200 00                     Chicoutimi    Chicoutimi and vicinity.
+E.A., M.D.    Officer
+Pelletier,    Medical
+                          50 00                      St. Urbain    St. Urbain, Charlevoix county.
+J.A., M.D.    Officer
+Pinault, L.G., Medical
+                          200 00                     Restigouche   ...
+M.D.           Officer
+Ouimet, W., Medical
+                          400 00                     Oka           ...
+M.D.        Officer
+Arnaud,       Missionary                                           Montagnais Indians, North Shore of the St.
+                         500 00                      Quebec
+Rev. C.       (R.C.)                                               Lawrence.
+Bourget,      Missionary,
+                          125 00 - Also $25 for fuel St Regis      Iroquois of St. Regis.
+Rev. P.       (R.C.)
+DeGonzague, Missionary,
+                        235 00                       Pierreville   Abenaquis of St.Francis.
+Rev. Jos.   (R.C.)
+Granger,      Missionary,
+                          100 00                     Caughnawaga Iroquois of Caughnawaga.
+Rev. L.S.     (R.C.)
+Giroux, Rev. Missionary,
+                         425 00                      Lorette       Hurons of Lorette.
+J.C.         (R.C.)
+NEW BRUNSWICK.
+                                                                   Tobique, Victoria Co.; Edmundston,
+Farrell,      Indian      600 00 - Allowed $50 for                 Madawaska Co.; Kingsclear, St. Mary's, York
+                                                   Fredericton
+James         Agent       office rent                              Co.; Woodstock, Carleton Co.; Oromocto,
+                                                                   Sunbury County.
+
+<!-- page 1008 -->
+                         Annual
+Name.          Office.   Salary, Address.       Bands or Reserves in Agency.
+                         & c.
+...            ...       $ cts.  ...            ...
+                                                Eel River, Restigouche Co.; Bathurst, St. Peter's Island and
+                                                Pockmouche, Gloucester Co.: Tabusintac, Burnt Church, Eel
+               Indian
+Irving, R.A.             500 00    Buctouche    Ground, Red Bank, Indian Point, Big Hole and Renous,
+               Agent
+                                                Northumberland Co., Big Cove, Indian Island and Buctouche, Kent
+                                                Co.; Shediac and Fort Folly, Westmorland Co.
+Desmond,       Medical
+                         200 00    Newcastle    Northumberland Co., Red Bank and Eel Ground reserves.
+J.F., M.D.     Officer
+Duncan,    Medical                 Bathurst
+                         100 00                 Gloucester Co., Bathurst reserve.
+G.M., M.D. Officer                 Village
+Ferguson,      Medical
+                         50 00     Dalhousie    Restigouche Co., Eel River reserve.
+A.G., M.D.     Officer
+King, W.G., Medical
+                         40 00     Buctouche    Buctouche reserve, Kent Co.
+M.D.        Officer
+Leger, J.A., Medical
+                         200 00    Shediac      Westmorland Co.
+M.D.         Officer
+               Medical
+Earle, R.W.              400 00    Perth Centre Tobique reserve.
+               Officer
+McKenzie,      Medical
+                         150 00    Chatham      Northumberland Co., Burnt Church reserve.
+J.B., M.D.     Officer
+McAllister,    Medical
+                         200 00    Sussex       King's Co.
+D.H., M.D.     Officer
+McGrath,       Medical
+                         150 00    Fredericton St. Mary's, York Co.
+R.H., M.D.     Officer
+McWilliams, Medical
+                         175 00    Rexton       Kent Co., Big Cove and Indian Island reserves.
+L.J., M.D.  Officer
+Peake,      Medical
+                         125 00    Oromocto     ...
+James, M.D. Officer
+Ross, J.D.,    Medical
+                         200 00    Moncton      Westmorland Co.
+M.D.           Officer
+Sprague,       Medical
+                         100 00    Woodstock ...
+T.F., M.D.     Officer
+Weaver,        Medical
+                         150 00    Fredericton Kingsclear, York Co.
+W.J., M.D.     Officer
+Bannon,        Missionary
+                          100 00   Richibucto   Kent Co., Big Cove reserve.
+Rev. E.J.      (R.C.)
+D'Amour,       Missionary
+                          40 00    Edmundston ...
+Rev. L.C.      (R.C.)
+Ryan, Rev.     Missionary
+                          100 00   Tobique      ...
+F.C.           (R.C.)
+Barnaby,
+               Constable 12 00     Newcastle    Northumberland Co., Eel Ground reserve.
+Peter
+Clare, A       Constable 20 00     Rexton       Kent Co., Big Cove reserve.
+

@@ -1,0 +1,89 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+CENSUS RETURN.
+CENSUS RETURN of Resident and Nomadic Indians; Denominations to which they belong, with approximate number
+belonging to each Denomination, as well as the number of Pagans in the Dominion of Canada, by Provinces.
+
+                               ...    ...       ...           ...        ...       ...       ...     ...
+PROVINCE OF ONTARIO.
+                               Census
+Indians.                               RELIGION.                                                     Remarks.
+                               Return.
+                                                                                   Other
+                                                                         Roman
+...                            ...    Anglican. Presbyterian. Methodist.           Christian Pagan. ...
+                                                                         Catholic.
+                                                                                   Beliefs.
+Algonquins, Golden Lake        91     ...       ...           ...        91        ...       ...    ...
+                                                                                                     Religion
+Algonquins, Renfrew, North     286    ...       ...           ...        ...       ...       ...
+                                                                                                     unknown.
+Chippewas of the Thames.       447    243       ...           202        ...       2         ...     ...
+Chippewas of Walpole Island.   624    441       ...           160        16        ...       7       ...
+Chippewas of Sarnia            446    94.       ...           346        6         ...       ...     ...
+Chippewas of Georgina and
+                               124    ...       ...           124        ...       ...       ...     ...
+Snake Islands
+Chippewas of Rama              236    3         ...           220        13        ...       ...     ...
+Chippewas of Saugeen           357    2         68            259        28        ...       ...     ...
+Chippewas of Nawash            398    ...       ...           268        130       ...       ...     ...
+                                                                                                     29 residing
+                                                                                                     on
+Chippewas of Beausoleil        266    ...       ...           184        82        ...       ...
+ 
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ ...        ...     ...
+District
+Great Slave Lake
+                       1,915    130       ...          ...           1,785    ...        ...     ...
+District
+Rivière Aux Liards
+                       377      ...       ...          ...           377      ...        ...     ...
+District
+Athabaska District     1,331    ...       ...          ...           1,331    ...        ...     ...
+Peace River District   893      78        ...          ...           761      ...        54      ...
+Lesser Slave Lake
+                       1,218    116       ...          ...           964      ...        138     ...
+District
+Yukon District       2,600      600       ...          ...           ...      ...        2,000 ...
+Nelson and Churchill
+                     852        ...       ...          ...           852      ...        ...     ...
+Rivers District
+Eastern Rupert's Land
+                      4,016     ...       ...          ...           ...      ...        ...     Religion unknown.
+District
+Labrador, Canadian
+                       1,000    ...       ...          ...           ...      ...        ...     ...
+Interior
+Arctic Coast,
+
+<!-- page 712 -->
+               1,000   ...      ...     ...     ...      ...     ...      ...
+Esquimaux
+                                                                          Religion of 14,010
+Grand Totals   100,093 16,448   1,054   8,855   42,530   1,581   15,615
+                                                                          unknown
+
+
+
+=== EXTRACT FROM HERE (pages 713-715) ===
+<!-- page 713 -->
+WHEREABOUTS of Sioux and Straggling Indians in North-west Territories (not reported in Agents' Tabular
+Statements).
+ Name of Band. Located.             Tribe.             Number.
+ White Cap     Moose Woods.         Sioux.             60
+ (None)        Moose Jaw and Regina ...                80
+ (None)        Swift Current        Cree and Salteaux. 119
+ ...           Maple Creek          ...                ...
+ ...           Medicine Hat         ...                ...
+ ...           Total                ...                259
+
+<!-- page 714 -->
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 715 -->

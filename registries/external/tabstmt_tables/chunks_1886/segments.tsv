@@ -1,0 +1,107 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0389-tabular-statement-no-1	TABULAR STATEMENT No. 1	389	393
+01	p0394-tabular-statement-no-2	TABULAR STATEMENT No. 2	394	396
+02	p0396-tabular-statement-no-3	TABULAR STATEMENT No. 3	396	400
+03	p0396-tabular-statement-no-3	TABULAR STATEMENT No. 3	401	405
+04	p0396-tabular-statement-no-3	TABULAR STATEMENT No. 3	406	410
+05	p0396-tabular-statement-no-3	TABULAR STATEMENT No. 3	411	413
+06	p0413-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	413	417
+07	p0413-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	418	418
+08	p0418-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	418	422
+09	p0418-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	423	423
+10	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	423	427
+11	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	428	432
+12	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	433	437
+13	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	438	442
+14	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	443	447
+15	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	448	452
+16	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	453	457
+17	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	458	462
+18	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	463	467
+19	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	468	472
+20	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	473	477
+21	p0423-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	478	482
+22	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	483	487
+23	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	488	492
+24	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	493	497
+25	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	498	502
+26	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	503	507
+27	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	508	512
+28	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	513	517
+29	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	518	522
+30	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	523	527
+31	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	528	532
+32	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	533	537
+33	p0483-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	538	542
+34	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	543	547
+35	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	548	552
+36	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	553	557
+37	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	558	562
+38	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	563	567
+39	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	568	572
+40	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	573	577
+41	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	578	582
+42	p0543-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	583	587
+43	p0607-return-b	RETURN B	607	611
+44	p0607-return-b	RETURN B	612	616
+45	p0607-return-b	RETURN B	617	621
+46	p0607-return-b	RETURN B	622	626
+47	p0607-return-b	RETURN B	627	631
+48	p0607-return-b	RETURN B	632	636
+49	p0607-return-b	RETURN B	637	641
+50	p0607-return-b	RETURN B	642	646
+51	p0607-return-b	RETURN B	647	651
+52	p0607-return-b	RETURN B	652	656
+53	p0607-return-b	RETURN B	657	661
+54	p0607-return-b	RETURN B	662	666
+55	p0667-return-b-cont	RETURN B (cont.)	667	671
+56	p0667-return-b-cont	RETURN B (cont.)	672	676
+57	p0667-return-b-cont	RETURN B (cont.)	677	681
+58	p0667-return-b-cont	RETURN B (cont.)	682	686
+59	p0667-return-b-cont	RETURN B (cont.)	687	691
+60	p0667-return-b-cont	RETURN B (cont.)	692	696
+61	p0667-return-b-cont	RETURN B (cont.)	697	701
+62	p0667-return-b-cont	RETURN B (cont.)	702	706
+63	p0667-return-b-cont	RETURN B (cont.)	707	711
+64	p0667-return-b-cont	RETURN B (cont.)	712	716
+65	p0667-return-b-cont	RETURN B (cont.)	717	721
+66	p0667-return-b-cont	RETURN B (cont.)	722	726
+67	p0727-return-b-cont	RETURN B (cont.)	727	731
+68	p0727-return-b-cont	RETURN B (cont.)	732	736
+69	p0727-return-b-cont	RETURN B (cont.)	737	741
+70	p0727-return-b-cont	RETURN B (cont.)	742	746
+71	p0727-return-b-cont	RETURN B (cont.)	747	751
+72	p0727-return-b-cont	RETURN B (cont.)	752	756
+73	p0727-return-b-cont	RETURN B (cont.)	757	761
+74	p0727-return-b-cont	RETURN B (cont.)	762	766
+75	p0727-return-b-cont	RETURN B (cont.)	767	771
+76	p0727-return-b-cont	RETURN B (cont.)	772	776
+77	p0727-return-b-cont	RETURN B (cont.)	777	781
+78	p0727-return-b-cont	RETURN B (cont.)	782	786
+79	p0787-return-b-cont	RETURN B (cont.)	787	791
+80	p0787-return-b-cont	RETURN B (cont.)	792	796
+81	p0787-return-b-cont	RETURN B (cont.)	797	801
+82	p0787-return-b-cont	RETURN B (cont.)	802	806
+83	p0787-return-b-cont	RETURN B (cont.)	807	811
+84	p0787-return-b-cont	RETURN B (cont.)	812	816
+85	p0787-return-b-cont	RETURN B (cont.)	817	821
+86	p0787-return-b-cont	RETURN B (cont.)	822	826
+87	p0787-return-b-cont	RETURN B (cont.)	827	831
+88	p0787-return-b-cont	RETURN B (cont.)	832	836
+89	p0787-return-b-cont	RETURN B (cont.)	837	841
+90	p0787-return-b-cont	RETURN B (cont.)	842	846
+91	p0847-return-b-cont	RETURN B (cont.)	847	851
+92	p0847-return-b-cont	RETURN B (cont.)	852	856
+93	p0847-return-b-cont	RETURN B (cont.)	857	861
+94	p0847-return-b-cont	RETURN B (cont.)	862	866
+95	p0847-return-b-cont	RETURN B (cont.)	867	871
+96	p0847-return-b-cont	RETURN B (cont.)	872	876
+97	p0847-return-b-cont	RETURN B (cont.)	877	881
+98	p0847-return-b-cont	RETURN B (cont.)	882	886
+99	p0847-return-b-cont	RETURN B (cont.)	887	891
+100	p0847-return-b-cont	RETURN B (cont.)	892	896
+101	p0847-return-b-cont	RETURN B (cont.)	897	901
+102	p0847-return-b-cont	RETURN B (cont.)	902	906
+103	p0907-return-b-cont	RETURN B (cont.)	907	911
+104	p0907-return-b-cont	RETURN B (cont.)	912	916
+105	p0907-return-b-cont	RETURN B (cont.)	917	919

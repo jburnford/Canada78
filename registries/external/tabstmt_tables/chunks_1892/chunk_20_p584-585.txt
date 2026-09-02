@@ -1,0 +1,24 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+NORTH-WEST TERRITORIES.
+Indians.     Census Returns. Protestant. Roman Catholic. Pagan. Denomination of Schools. ...
+Treaty No. 4 4,526           1,162       829             2,535 8 Prot.;                  4 R.C.
+Treaty No. 6 * 5,278         1,788       2,215           790    19 Prot.;                16 R.C.
+Treaty No. 7 4,708           424         ...             4,284 12 Prot.;                 1 R.C.
+Grand Total 14,512           3,374       3,044           7,609 39 Prot.;                 21 R.C.
+
+[* 485 religious belief not given.]
+
+<!-- page 585 -->
+
+
+=== EXTRACT FROM HERE (pages 584-585) ===
+NORTH-WEST TERRITORIES.
+Indians.     Census Returns. Protestant. Roman Catholic. Pagan. Denomination of Schools. ...
+Treaty No. 4 4,526           1,162       829             2,535 8 Prot.;                  4 R.C.
+Treaty No. 6 * 5,278         1,788       2,215           790    19 Prot.;                16 R.C.
+Treaty No. 7 4,708           424         ...             4,284 12 Prot.;                 1 R.C.
+Grand Total 14,512           3,374       3,044           7,609 39 Prot.;                 21 R.C.
+
+[* 485 religious belief not given.]
+
+<!-- page 585 -->

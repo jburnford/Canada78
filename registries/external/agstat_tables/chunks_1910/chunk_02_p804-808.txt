@@ -1,0 +1,237 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+               Number Cleared but    Under        Number     Number        Number in engaged in Number
+...            of       not under    actual       engaged in engaged in    hunting, trapping and engaged other
+               Indians. cultivation. cultivation. farming.   stock-raising fishing.              industries.
+
+               ...     Acres.        Acres.      ...         ...           ...                  ...
+ALBERTA.
+Blackfoot      768     299,950       250         24          132           ...                  ...
+Blood          1,149   347,641       2,392       27          318           ...                  10
+Edmonton       683     33,655        1,280       29          68            73                   49
+Hobbema        785     75,778        642         71          79            62                   26
+Lesser Slave
+               224     11,450        50          ...         24            47                   1
+Lake
+Piegan         462     93,429        109         10          82            ...                  56
+Saddle Lake    798     79,641        1,424       116         ...           157                  ...
+Sarcee         211     58,120        218         20          23            16                   6
+Stony          667     44,480        240         10          65            35                   100
+Total          5,747   1,044,144     6,605       307         791           390                  248
+
+BRITISH      ...       ...           ...         ...         ...           ...                  ...
+COLUMBIA.
+Babine and
+             3,113     18,878        750         47          900           169                  ...
+Upper Skeena
+Bella Coola    1,266   70            25          ...         ...           405                  ...
+Cassiar        305     325           ...         ...         ...           168                  69
+Cowichan       1,758   5,400         3,202       7           ...           94                   208
+Fraser River   2,846   3,498         3,713       509         ...           319                  289
+Kamloops-
+               3,862   241,643       17,046      893         l6            537                  53
+Okanagan
+Kootenay       573     38,356        1,640       129         ...           ...                  71
+Kwawkewlth     1,227   314    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+      ...   ...     ...    3,750 00
+Band
+Total            10        1,231    106   55        275   564   1,226 1,308 23          10     6     13    98     8          14    12      1,113 132,864 00
+
+NEW          ...           ...      ...   ...       ...   ...   ...     ...     ...     ...    ...   ...   ...    ...        ...   ...     ...    ...
+BRUNSWICK.
+Northeastern
+             ...           ...      ...   ...       ...   ...   ...     ...     ...     ...    ...   ...   ...    ...        ...   ...     ...    ...
+Division -
+Gloucester,
+Kent,
+Northumberland,
+                ...        30       ...   ...       ...   70    35      ...     ...     ...    ...   ...   28     ...        ...   ...     315    3,205 00
+Restigouche and
+Westmorland
+Counties
+Northern
+                ...        ...      ...   ...       ...   ...   ...     ...     ...     ...    ...   ...   ...    ...        ...   ...     ...    ...
+Division -
+Madawaska and
+Victoria      ...          12       ...   ...       ...   ...   6       3       ...     ...    ...   ...   3      ...        ...   ...     100    2,070 00
+Counties
+Southwestern
+              ...          ...      ...   ...       ...   ...   ...     ...     ...     ...    ...   ...   ...    ...        ...   ...     ...    ...
+Division -
+Carleton,
+Charlotte,
+Kings, Queens,
+               ...         10       ...   ...       ...   ...   3       8       ...    ...     ...   ...   16     ...        ...   ...     220   1,030 00
+Sunbury, St.
+Johns and York
+
+
+
+=== EXTRACT FROM HERE (pages 804-808) ===
+<!-- page 804 -->
+Counties
+Total            ...   52   ...   ...   ...   70   44   11   ...   ...   ...   ...   47   ...   ...   ...   635   6,305 00
+
+[*No returns.]
+
+<!-- page 805 -->
+                                                                                             Value of Real and
+                                                                                             Personal Property
+                                                                                   Value of (exclusive of trust
+Agency.        GENERAL EFFECTS,                                                    Household funds in the hands
+                                                                                   Effects.  of Government
+                                                                                             and some property
+                                                                                             not on reserves.)
+               Sail Row                      Shot        Steel
+...                          Canoes. Rifles.       Nets.        Tents. Value of    ...         ...
+               Boats. Boats.                 Guns.       Traps.
+
+               ...   ...    ...      ...    ...    ...   ...     ...   $ cts.      $ cts.      $ cts.
+ALBERTA.
+Blackfoot      ...   14     ...      57     41     ...   48      135   5,230 00    13,700 00   1,335,371 00
+Blood          ...   1      ...      40     10     ...   40      200   2,000 00    6,000 00    3,815,234 00
+Edmonton       ...   1      36       60     63     38    1,518   109   3,325 00    2,975 00    580,262 00
+Hobbema        ...   1      ...      31     76     241   1,286   116   4,767 00    1,915 00    476,896 00
+Lesser Slave
+               ...   ...    22       26     25     46    371     31    3,674 00    1,910 00    5,584 00
+Lake
+Peigan         4     ...    ...      21     35     ...   ...     106 1,380 00      3,000 00    1,060,148 00
+Saddle Lake    ...   24     64       32     118    155   1,202   111 4,790 00      4,300 00    588,387 00
+Sarcee         ...   ...    ...      6      8      ...   50      75    500 00      2,000 00    994,522 00
+Stony          ...   ...    ...      125    12     2     240     150 3,000 00      9,700 00    256,330 00
+Total          4     41     122      398    388    482   4,755   1,033 28,666 00   45,500 00   9,112,734 00
+
+BRITISH      ...     ...    ...      ...    ...    ...   ...     ...   ...         ...         ...
+COLUMBIA.
+Babine and
+             ...     4      381      939    546,   186   10,100 96     60,900 00 31,200 00 377,960 00
+Upper Skeena
+Bella Coola    103   50     144      395    156    64    2,870   76    20,055 00   21,800 00   194,721 00
+Cassiar        5     9      3        159    33     24    2,268   128   8,736 00    2,000 00    25,016 00
+Cowichan       133   ...    417      362    317    66    30      182   25,955 00   33,200 00   1,066,425 00
+Fraser         113   158    486      428    454    177   1,183   408   45,415 00   62,470 00   1,231,327 00
+Kamloops-
+               4     48     145      678    272    470   1,521 1,020 21,001 00 46,050 00 2,981,083 00
+Okanagan
+Kootenay       ...   ...    59       185    29     ...   115   149     5,091 00 4,805 00 297,795 00
+Kwawkewlth     75    61     309      289    198    207   2,750 85      23,125 00 54,700 00 166,567 00
+Nass           190   114    374      574    219    139   4,660 87      68,890 00 88,700 00 459,816 00
+*Queen
+               ...   ...    ...      ...    ...    ...   ...     ...   ...         ...         ...
+Charlotte
+West Coast     106   7      1,180    177    400    69,   1,520 321     40,750 00 29,550 00 214,631 00
+Williams
+               ...   25     72       345    54     ...   2,447 388     12,543 00 12,400 00 547,797 00
+Lake
+Total          729   476    3,570    4,531 2,678 1,402 29,464 2,940 332,461 00 386,875 00 7,562,638 00
+
+<!-- page 806 -->
+                                                                                                    Value of
+                                                                                                    Real and
+                                                                                                    Personal
+                                                                                                    Property
+                                                                                                    (exclusive of
+                                                                                          Value of
+                                                                                                    trust funds
+Agency.                 GENERAL EFFECTS,                                                  Household
+                                                                                                    in the hands
+                                                                                          Effects.
+                                                                                                    of
+                                                                                                    Government
+                                                                                                    and some
+                                                                                                    property not
+                                                                                                    on reserves.)
+                        Sail Row                      Shot        Steel
+...                                   Canoes. Rifles.       Nets.        Tents. Value of ...         ...
+                        Boats. Boats.                 Guns.       Traps.
+
+                        ...   ...    ...      ...    ...    ...   ...    ...   $ cts.     $ cts.     $ cts.
+MANITOBA.
+Birtle                  ...   ...    ...      33     59     25    1,060 94     1,780 00 3,535 00     425,589 00
+Clandeboye              7     221    40       45     134    322 1,040 234      67,880 00 18,100 00   651,415 00
+Griswold                ...   ...    5        49     64     ...   1,605 64     1,712 00 3,720 00     158,649 00
+Manitowapah             34    143    103      86     247    823 4,869 259      10,425 00 10,500 00   231,517 00
+Portage, la Prairie     ...   7      6        36     45     26    850 85       1,400 00 2,700 00     180,629 00
+Valley River Band       ...   ...    ...      11     11     ...   190 18       499 00    2,150 00    70,279 00
+Total                   41    371    154      260    560    1,196 9,614 754    83,696 00 40,705 00   1,718,078 00
+
+NEW                    ...    ...    ...      ...    ...    ...   ...    ...   ...        ...        ...
+BRUNSWICK.
+Northeastern Division:
+                       ...    ...    ...      ...    ...    ...   ...    ...   ...        ...        ...
+-
+Gloucester, Kent,
+Northumberland,
+Restigouche and         47    43     20       12     184    260   71     6     5,100 00 16,000 00 104,550 00
+Westmorland
+Counties
+Northern Division: -    ...   ...    ...      ...    ...    ...   ...    ...   ...        ...        ...
+Madawaska and
+                        ...   ...    12       10     6      ...   70     8     735 00     3,450 00   49,669 00
+Victoria Counties
+Southwestern
+                        ...   ...    ...      ...    ...    ...   ...    ...   ...        ...        ...
+Division: -
+Carleton, Charlotte,
+Kings, Queens,
+                        2     15     61       44     40     2     186    27     2,205 00 5,025 00    31,923 00
+Sunbury, St. Johns
+and York Counties
+Total                   49    58     93       66     230    262   327    41     8,040 00 24,475 00 186,142 00
+
+[*No returns.]
+
+27 - ii - 2
+
+<!-- page 807 -->
+
+<!-- page 808 -->
+AGRICULTURE, SEASON 1909.
+
+Agency         GRAIN, ROOTS AND FODDER.
+...            Wheat.        Oats.              Barley.           Corn.           Pease.           Rye.             Buckwheat.       Beans.
+               Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+...
+               Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+
+               ...   ...       ...    ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+ALBERTA.
+Blackfoot      2     ...       45     ...       218       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Blood          982   24,047    307    14,808    ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Edmonton       24    600       693    19,126    95        1,719   ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Hobbema        23    477       559    13,134    44        538     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Lesser Slave
+               ...   ...       5      ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Lake
+Peigan         210   1,570     108    2,555     ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Saddle Lake    76    866       190 5,517        57        670     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Sarcee         25    ...       95    1,660      5         20      ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Stony          ...   ...       210 ...          ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Total          1,342 27,560    2,212 57,018     201       2,947   ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+
+BRITISH     ...   ...          ...    ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+COLUMBIA
+Babine and
+Upper       ...   ...          67     ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Skeena
+Bella Coola ...   ...          ...    ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Cassiar     ...   ...          ...    ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Cowichan    6     235          218    10,665    ...       ...     ...     ...     ...      2       75     ...       ...    ...       ...      ...
+Fraser      81    3,220        448    32,120    ...       ...     21      1,260   180      6,670   ...    ...       ...    ...       19       646
+Kamloops-
+            1,195 21,615       3,133 52,440     5         100     43      602     126      2,895   ...    ...       ...    ...       131      2,645
+Okanagan
+Kootenay   60        770       1,165 17,950     ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Kwawkewlth ...       ...       ...   ...        ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Nass       ...       ...       ...   ...        ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+*Queen
+           ...       ...       ...    ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+Charlotte
+West Coast     ...   ...       ...    ...       ...       ...     ...     ...     ...      ...     ...    ...       ...    ...       ...      ...
+

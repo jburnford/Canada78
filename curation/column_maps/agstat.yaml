@@ -1,0 +1,262 @@
+# Column-semantics map — DIA Agricultural & Industrial Statistics, 1895-1930
+# (KG_BUILD_PLAN §2)
+#
+# These tables are keyed by AGENCY, not by band (see §1.4): the row label is
+# "Walpole Island" / "Grand River Superintendency — Six Nations" / "Hobbema".
+#
+# ~1,270 distinct printed labels, but only a few dozen shapes: a crop with its
+# acres sown and bushels harvested, a building type counted, a head of stock
+# counted, an implement counted, a value in dollars.  So most rules capture the
+# varying part with a named group and interpolate it into the series id —
+# `crop_{crop}_acres_sown` — instead of enumerating every crop the department
+# ever printed.  Order matters: the more specific rule must come first.
+
+family: agstat
+entity_type: agency
+
+series:
+
+  # --- crops: acres sown / quantity harvested ------------------------------
+  # "Wheat. Acres Sown.", "Other Roots. Bush. Harvested.", "Hay. Tons."
+  - id: crop_{crop}_acres_sown
+    label: Acres sown
+    unit: acres
+    match: '^(?P<crop>.+?) acres (sown|under crop|planted)$'
+  - id: crop_{crop}_acres_sown
+    label: Acres sown
+    unit: acres
+    match: '^(?P<crop>.+?) sown( acres)?$'
+  - id: crop_{crop}_harvested
+    label: Quantity harvested
+    unit: bushels
+    match: '^(?P<crop>.+?) (bush|bushels|bushs) harvested$'
+  - id: crop_{crop}_harvested
+    label: Quantity harvested
+    unit: bushels
+    match: '^(?P<crop>.+?) (bush|bushels) (raised|produced)$'
+  - id: crop_hay_tons
+    label: Hay cut
+    unit: tons
+    match: '^hay (tons|tons cut|cut tons)$|^tons of hay$'
+  - id: crop_{crop}_tons
+    label: Quantity harvested
+    unit: tons
+    match: '^(?P<crop>.+?) tons$'
+
+  # --- land ---------------------------------------------------------------
+  - id: land_cleared_not_cultivated
+    label: Cleared but not under cultivation
+    unit: acres
+    match: '^(acres )?cleared,? but not (under )?cultivat(ed|ion)( acres)?\s*\d?$|^cleared not cultivated\s*\d?$'
+  - id: land_under_cultivation
+    label: Under actual cultivation
+    unit: acres
+    match: '^(acres |land )?under (actual )?cultivation( acres)?\s*\d?$|^acres under cultivation\s*\d?$|^(actual )?cultivat(ed|ion)( ploughed)?( acres)?\s*\d?$'
+  - id: land_fenced
+    label: Acres fenced
+    unit: acres
+    match: '^acres fenced\s*\d?$|^(other )?fenced( acres)?\s*\d?$|^land fenced( acres)?\s*\d?$'
+  - id: land_under_wood
+    label: Under wood
+    unit: acres
+    match: '^(acres )?under wood(land)?( acres)?\s*\d?$'
+  - id: land_cleared
+    label: Cleared
+    unit: acres
+    match: '^(acres |land )?cleared( acres)?\s*\d?$|^cleared for first time( acres)?\s*\d?$'
+  - id: land_cropped
+    label: Cropped
+    unit: acres
+    match: '^(acres |land )?cropped( for first time)?( acres)?\s*\d?$'
+  - id: land_new_broken
+    label: New land broken
+    unit: acres
+    match: '^new land broken( acres)?\s*\d?$|^newly broken( acres)?\s*\d?$|^broken( for first time)?( acres)?\s*\d?$'
+  - id: land_reserve_total
+    label: Area of reserve
+    unit: acres
+    match: '^(total )?(area|acreage) of reserves?( acres)?\s*\d?$|^acres in reserves?\s*\d?$|^reserve total$'
+  - id: land_value
+    label: Total value of lands in reserve
+    unit: dollars
+    match: '^(total )?value of lands? in reserves?( cts)?$'
+
+  # --- buildings ----------------------------------------------------------
+  # dwellings are broken out by construction; everything else is a count of a
+  # building type ("Root Houses", "Driving Sheds", "Pig Sties")
+  - id: building_dwelling_{kind}
+    label: Dwellings
+    unit: count
+    match: '^dwellings? (?P<kind>frame|log|stone|brick|other)$'
+  - id: building_dwellings
+    label: Dwellings
+    unit: count
+    match: '^dwellings?( houses)?$|^houses$'
+  - id: building_{kind}
+    label: Buildings
+    unit: count
+    match: '^(?P<kind>school houses?|council houses?|churches|barns|stables|horse stables|cattle stables|milk houses?|root houses?|store houses?|ice houses?|hen houses?|pig sties|piggeries|corn cribs|granaries|driving sheds|sheds|shanties|saw ?mills|grist ?mills|shingle mills|smoke houses?|work ?shops|warehouses|other buildings|outbuildings)$'
+  - id: building_value
+    label: Value of buildings
+    unit: dollars
+    match: '^(total )?value of buildings?( cts)?$'
+
+  # --- live stock ---------------------------------------------------------
+  - id: livestock_{kind}
+    label: Live stock
+    unit: count
+    match: '^(?P<kind>horses|stallions|mares|colts|geldings|working oxen|oxen|bulls|cows|milch cows|steers|heifers|young cattle|cattle|calves|sheep|rams|ewes|lambs|swine|hogs|pigs|boars|sows|goats|poultry|fowl|hens|turkeys|geese|ducks|bees hives|hives of bees|dogs)$'
+  - id: livestock_value
+    label: Value of live stock and poultry
+    unit: dollars
+    match: '^(total )?value of live ?stock( and poultry)?( cts)?$'
+
+  # --- implements, vehicles, boats, arms ----------------------------------
+  - id: implement_{kind}
+    label: Implements and vehicles
+    unit: count
+    match: '^(?P<kind>ploughs|harrows|cultivators|seed drills|land rollers|horse rakes|mowers|mowing machines|reapers|binders|threshers|threshing machines|fanning mills|grain crushers|root pulpers|wagons|carts|sleighs|sleighs draught|sleds|buggies|carriages|harness sets|sets of harness|tool chests|engines|other machinery|other implements|windmills|canoes|row boats|sail boats|boats|scows|ferries|nets|tents|shot ?guns|rifles|traps)$'
+  - id: implement_value
+    label: Value of implements and vehicles
+    unit: dollars
+    match: '^(total )?value of (farm )?implements?( and vehicles)?( cts)?$|^value of vehicles?( cts)?$'
+
+  # --- occupations --------------------------------------------------------
+  - id: engaged_{kind}
+    label: Number engaged
+    unit: persons
+    match: '^number engaged in (?P<kind>farming|stock raising|hunting trapping and fishing|hunting|fishing|trapping|lumbering|other industries|industries)$'
+
+  # --- income and value ---------------------------------------------------
+  - id: income_total
+    label: Total income of Indians
+    unit: dollars
+    match: '^total income of indians( cts)?$|^total income( cts)?$'
+  - id: income_{source}
+    label: Income by source
+    unit: dollars
+    match: '^income from (?P<source>.+?)( cts)?$'
+  - id: value_farm_products
+    label: Value of farm products including hay
+    unit: dollars
+    match: '^(total )?value of farm products( including hay)?( cts)?$'
+  - id: value_real_personal_property
+    label: Value of real and personal property
+    unit: dollars
+    match: '^(total )?value of real and personal property( cts)?$'
+  - id: value_general_effects
+    label: Value of general effects
+    unit: dollars
+    match: '^(total )?value of general effects( cts)?$'
+
+  # --- population carried on the agricultural table ------------------------
+  - id: population_resident
+    label: Resident Indian population (as printed on the agricultural table)
+    unit: persons
+    match: '^resident indian population$|^indian population$|^population of agency$'
+
+  # --- generic shapes -----------------------------------------------------
+  # The tables are printed as families of columns whose varying part IS the
+  # meaning ("Earned by Hunting", "Value of Household Effects", "General
+  # Effects — Sail Boats"), and the department invented new ones almost every
+  # year.  Rather than enumerate ~800 more labels, these rules keep the printed
+  # wording in the series id, so a column that appears once is still recorded
+  # faithfully instead of being dropped.  They run last, after every specific
+  # rule above has had its chance.
+  - id: land_{kind}
+    label: Land
+    unit: acres
+    match: '^acres (?P<kind>.+)$'
+  - id: land_{kind}
+    label: Land
+    unit: acres
+    match: '^(?:new )?land improvements?,? ?(?P<kind>.+?)( acres)?$'
+  - id: land_{kind}
+    label: Land
+    unit: acres
+    match: '^land (?P<kind>.+?) acres$'
+  - id: land_{kind}
+    label: Land
+    unit: acres
+    match: '^(?P<kind>.+?) acres$'
+  - id: income_earned_{source}
+    label: Income earned
+    unit: dollars
+    match: '^earned (by|from) (?P<source>.+)$'
+  - id: income_received_{source}
+    label: Income received
+    unit: dollars
+    match: '^received (from|for) (?P<source>.+)$'
+  - id: value_{thing}
+    label: Value
+    unit: dollars
+    match: '^(total )?value of (?P<thing>.+?)( c)?( cts)?$'
+  - id: effects_{kind}
+    label: General effects
+    unit: count
+    match: '^general effects (?P<kind>.+)$'
+  - id: livestock_{group}_{kind}
+    label: Live stock
+    unit: count
+    match: '^(?P<group>cattle|horses|sheep|swine|poultry|pigs) (?P<kind>.+)$'
+  - id: livestock_{kind}
+    label: Live stock
+    unit: count
+    match: '^(?P<kind>young stock|other stock|foals|cocks and hens|geldings and mares|steers and oxen|oxen work|working oxen|other pigs|milch cows)$'
+
+  # last resort, still faithful: a column whose wording names an implement or a
+  # building is recorded as one, with the printed wording kept in the id.  The
+  # 1917-30 tables merge several of the older columns into one ("Mowers,
+  # Reapers, Binders, Threshers, etc."), which is why enumerating single items
+  # cannot cover them.
+  - id: income_wages
+    label: Wages earned
+    unit: dollars
+    match: '^wages earned$|^earned in wages$'
+  - id: value_total_increase
+    label: Total increase in value
+    unit: dollars
+    match: '^total increase in value$'
+  - id: income_annuities_and_interest
+    label: Annuities paid and interest on Indian trust funds
+    unit: dollars
+    match: '^annuities paid and interest on indian trust funds$'
+  - id: implement_{kind}
+    label: Implements and vehicles
+    unit: count
+    match: '^(?P<kind>[^$]*\b(ploughs?|harrows?|drills?|cultivators?|mowers?|reapers?|binders?|threshers?|wagons?|carts?|vehicles?|sleighs?|sleds?|buggies|engines?|machinery|machines?|tools?|implements?|traps?|nets?|boats?|canoes?|guns?|rifles?|tents?|harness)\b[^$]*)$'
+  - id: building_{kind}
+    label: Buildings
+    unit: count
+    match: '^(?P<kind>[^$]*\b(houses?|barns?|sheds?|dwellings?|buildings?|stables?|cribs?|granaries|mills?|sties|shanties|churches|outbuildings)\b[^$]*)$'
+
+  # the printer often puts the qualifier after the noun ("Cows, Milch";
+  # "Hay, Wild"), which none of the head-first rules above can see
+  - id: livestock_{kind}_{qual}
+    label: Live stock
+    unit: count
+    match: '^(?P<kind>cows|sows|bulls|ewes|rams|lambs|calves|colts|other stock|horses|swine) (?P<qual>milch|breeding|work|working|young|sheep|lambs|goats|other)$'
+  - id: crop_hay_{kind}
+    label: Hay
+    unit: tons
+    match: '^hay (?P<kind>wild|cultivated|tame|marsh|upland)$'
+  - id: crop_other_fodder
+    label: Other fodder
+    unit: tons
+    match: '^other fodder( corn)?$'
+  - id: land_{kind}
+    label: Land
+    unit: acres
+    match: '^land (?P<kind>broken|cleared|cropped( for first time)?|under crop|fenced)$'
+  - id: implement_automobiles
+    label: Automobiles
+    unit: count
+    match: '^automobiles$|^motor cars$|^autos$'
+
+# identity and free-text columns, not series
+ignore:
+  - '^names? of (superintendent|agent)( or agent)?$|^superintendent( or agent)?$|^agent$'
+  - '^address$|^rank$|^remarks?$|^name$|^bands?$|^agency$|^province$|^reserves?$'
+  - '^acres$|^bush$|^bushels$|^tons$|^cts$|^\$ ?cts$|^no$|^number$|^total$|^totals$'
+  - '^\.+$|^$'
+

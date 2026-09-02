@@ -1,0 +1,22 @@
+{
+ "00": {
+  "seconds": 337.1,
+  "pages": "432\u2013434",
+  "windows": [
+   {
+    "window": [
+     432,
+     434
+    ],
+    "rows": 47,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 337.1,
+    "finish_reason": "stop",
+    "completion_tokens": 13650
+   }
+  ],
+  "rows": 47,
+  "complete": true
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "01": {
+  "seconds": 185.0,
+  "pages": "148\u2013149",
+  "windows": [
+   {
+    "window": [
+     148,
+     149
+    ],
+    "rows": 11,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 185.0,
+    "finish_reason": "stop",
+    "completion_tokens": 6670
+   }
+  ],
+  "rows": 11,
+  "complete": true
+ },
+ "00": {
+  "seconds": 578.9,
+  "pages": "143\u2013147",
+  "windows": [
+   {
+    "window": [
+     143,
+     147
+    ],
+    "rows": 127,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 578.9,
+    "finish_reason": "stop",
+    "completion_tokens": 20459
+   }
+  ],
+  "rows": 127,
+  "complete": true
+ },
+ "02": {
+  "seconds": 1008.3,
+  "pages": "149\u2013153",
+  "windows": [
+   {
+    "window": [
+     149,
+     153
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 23449
+   },
+   {
+    "window": [
+     149,
+     153
+    ],
+    "rows": 89,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 340.8,
+    "finish_reason": "stop",
+    "completion_tokens": 12218
+   }
+  ],
+  "rows": 89,
+  "complete": true
+ },
+ "03": {
+  "seconds": 954.3,
+  "pages": "154\u2013158",
+  "windows": [
+   {
+    "window": [
+     154,
+     158
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 20728
+   },
+   {
+    "window": [
+     154,
+     158
+    ],
+    "rows": 81,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 361.3,
+    "finish_reason": "stop",
+    "completion_tokens": 12931
+   }
+  ],
+  "rows": 81,
+  "complete": true
+ },
+ "05": {
+  "seconds": 279.7,
+  "pages": "164\u2013168",
+  "windows": [
+   {
+    "window": [
+     164,
+     168
+    ],
+    "rows": 108,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 279.7,
+    "finish_reason": "stop",
+    "completion_tokens": 10064
+   }
+  ],
+  "rows": 108,
+  "complete": true
+ },
+ "06": {
+  "seconds": 207.4,
+  "pages": "169\u2013171",
+  "windows": [
+   {
+    "window": [
+     169,
+     171
+    ],
+    "rows": 32,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 207.4,
+    "finish_reason": "stop",
+    "completion_tokens": 7457
+   }
+  ],
+  "rows": 32,
+  "complete": true
+ },
+ "08": {
+  "seconds": 228.9,
+  "pages": "176\u2013177",
+  "windows": [
+   {
+    "window": [
+     176,
+     177
+    ],
+    "rows": 11,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 228.9,
+    "finish_reason": "stop",
+    "completion_tokens": 8322
+   }
+  ],
+  "rows": 11,
+  "complete": true
+ },
+ "04": {
+  "seconds": 1054.5,
+  "pages": "159\u2013163",
+  "windows": [
+   {
+    "window": [
+     159,
+     163
+    ],
+    "retry": "parse failed (Expecting ',' delimiter: line 1 column 3 (char 2)) \u2192 retry with thinking off",
+    "completion_tokens": 22323
+   },
+   {
+    "window": [
+     159,
+     163
+    ],
+    "rows": 87,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 425.4,
+    "finish_reason": "stop",
+    "completion_tokens": 15312
+   }
+  ],
+  "rows": 87,
+  "complete": true
+ },
+ "10": {
+  "seconds": 519.5,
+  "pages": "182\u2013185",
+  "windows": [
+   {
+    "window": [
+     182,
+     185
+    ],
+    "rows": 45,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 519.5,
+    "finish_reason": "stop",
+    "completion_tokens": 18487
+   }
+  ],
+  "rows": 45,
+  "complete": true
+ },
+ "09": {
+  "seconds": 715.2,
+  "pages": "177\u2013181",
+  "windows": [
+   {
+    "window": [
+     177,
+     181
+    ],
+    "rows": 96,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 715.2,
+    "finish_reason": "stop",
+    "completion_tokens": 25479
+   }
+  ],
+  "rows": 96,
+  "complete": true
+ },
+ "07": {
+  "seconds": 1049.2,
+  "pages": "171\u2013175",
+  "windows": [
+   {
+    "window": [
+     171,
+     175
+    ],
+    "retry": "empty content \u2192 retry with thinking off",
+    "completion_tokens": 17782
+   },
+   {
+    "window": [
+     171,
+     175
+    ],
+    "rows": 127,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 552.9,
+    "finish_reason": "stop",
+    "completion_tokens": 19883
+   }
+  ],
+  "rows": 127,
+  "complete": true
+ }
+}

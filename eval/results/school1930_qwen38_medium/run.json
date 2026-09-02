@@ -1,0 +1,118 @@
+{
+ "01": {
+  "seconds": 691.9,
+  "pages": "112\u2013117",
+  "windows": [
+   {
+    "window": [
+     112,
+     117
+    ],
+    "rows": 119,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 691.9,
+    "finish_reason": "stop",
+    "completion_tokens": 24466
+   }
+  ],
+  "rows": 119,
+  "complete": true
+ },
+ "00": {
+  "seconds": 1002.1,
+  "pages": "106\u2013111",
+  "windows": [
+   {
+    "window": [
+     106,
+     111
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 17235
+   },
+   {
+    "window": [
+     106,
+     111
+    ],
+    "rows": 108,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 514.3,
+    "finish_reason": "stop",
+    "completion_tokens": 18286
+   }
+  ],
+  "rows": 108,
+  "complete": true
+ },
+ "02": {
+  "seconds": 1027.6,
+  "pages": "118\u2013123",
+  "windows": [
+   {
+    "window": [
+     118,
+     123
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 20039
+   },
+   {
+    "window": [
+     118,
+     123
+    ],
+    "rows": 94,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 459.8,
+    "finish_reason": "stop",
+    "completion_tokens": 16377
+   }
+  ],
+  "rows": 94,
+  "complete": true
+ },
+ "04": {
+  "seconds": 199.5,
+  "pages": "130\u2013130",
+  "windows": [
+   {
+    "window": [
+     130,
+     130
+    ],
+    "rows": 19,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 199.5,
+    "finish_reason": "stop",
+    "completion_tokens": 7491
+   }
+  ],
+  "rows": 19,
+  "complete": true
+ },
+ "03": {
+  "seconds": 685.3,
+  "pages": "124\u2013129",
+  "windows": [
+   {
+    "window": [
+     124,
+     129
+    ],
+    "rows": 83,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 685.3,
+    "finish_reason": "stop",
+    "completion_tokens": 25378
+   }
+  ],
+  "rows": 83,
+  "complete": true
+ }
+}

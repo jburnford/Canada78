@@ -1,0 +1,321 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS. REALTY OF INDIANS
+
+Agency             LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                   Cleared but  Under        Number     Number engaged in Number                Number
+...                not under    actual       engaged in hunting, trapping and engaged in        engaged in
+                   cultivation. cultivation. farming.   fishing.              other industries. stock-raising
+ONTARIO.           Acres.       Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency - 23,476          11,220     412          ...                   ...             412
+Six Nations
+Parry Sound
+                  839             485        55           43                    51              ...
+Superintendency
+New Credit
+(Mississaguas)     1,965          3,725      42           2                     35              ...
+Agency
+Walpole Island
+                   33,425         1,005      57           35                    ...             40
+Agency
+Sarnia             1,584         3,215       110          42                    45              52
+Caradoc Agency     4,459         10,512      63           ...                   ...             ...
+Moravian Agency    1,195         970         75           30                    20              60
+Manitowaning
+                   6,025         2,710       105          66                    114             ...
+Agency
+Gore Bay Agency 3,813 1/2        1,845 1/2   254          13                    291             ...
+Thessalon Agency 260             401         ...          2                     132             ...
+Sault Ste. Marie
+                 2,448           1,570       39           80                    153             ...
+Agency
+Port Arthur
+                   236           276         ...          276                   50              ...
+Agency
+Sturgeon Falls
+                   ...           375         ...          ...                   ...             ...
+Agency
+Golden Lake
+                   200           50          6            4                     ...             ...
+Agency
+Tyendinaga
+                   9,600         6,300       264          1                     231             ...
+Agency
+Lake Simcoe
+                   539           234         10           90                    9               9
+Agency
+Cape Croker
+                   3,500         1,500       145          25                    100             145
+Ag
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                         Sask.
+                                      Prince
+Beverley, J.    Farmer     300 00     Albert,      Wahspaton Sioux reserve.
+                                      Sask.
+                Crooked
+...             Lake       ...        ...          ...
+                Agency.
+                Indian                Broadview Ochapowace's, Kakewistahaw's, Cowessess and Sakimay's
+Millar, M.                 1,400 00
+                Agent                 Sask.     reserves.
+Sutherland,     Miller &              Broadview
+                           660 00               ...
+J.A.            Blacksmith            Sask.
+                                      Broadview
+Smith, I.       Farmer     600 00               ...
+                                      Sask.
+                                      Broadview
+Hourie, Peter Interpreter 480 00                ...
+                                      Sask.
+Cameron,                              Broadview
+                Teamster   480 00               ...
+Henry                                 Sask.
+                                      Broadview
+Saywell, G.F. Clerk        600 00               ...
+                                      Sask.
+Geo. A.                               Broadview
+                Farmer     480 00               ...
+Sutherland                            Sask.
+
+<!-- page 1023 -->
+Thornton,                     Broadview
+            Farmer   600 00             ...
+L.E.                          Sask.
+
+
+
+=== EXTRACT FROM HERE (pages 1024-1028) ===
+<!-- page 1024 -->
+                            Annual
+Name.        Office.        Salary,    Address.   Bands or Reserves in Agency.
+                            & c.
+             Duck Lake
+...                         $ cts.     ...        ...
+             Agency.
+                                       Duck
+Macarthur,                                        One Arrow, Okemassis, Beardy's, Checastapasin's, John
+             Indian Agent   1,100 00   Lake,
+Jas.                                              Smith's, James Smith's and Cumberland reserves.
+                                       Sask.
+                                       Duck
+Price,       Clerk and
+                            720 00     Lake,      ...
+Jos. H.      Farmer
+                                       Sask.
+                                       Duck
+Marion,
+             Farmer         480 00     Lake,      ...
+Louis
+                                       Sask.
+                                       Duck
+Campbell, P Farmer          480 00     Lake,      John Smith's
+                                       Sask.
+                                       Duck
+Gardapie, H. Interpreter    360 00     Lake,      ...
+                                       Sask.
+                                       Duck
+McLoy, J.    Farmer         480 00     Lake,      Jas. Smith's.
+                                       Sask.
+Hamilton,                              Melford,
+             Farmer         800 00                Kinistino's reserve.
+P.J.                                   Sask.
+             Edmonton
+...                         ...        ...        ...
+             Agency.
+Verreau,                               Edmonton, Enoch's, Alexander's, Joseph, White Whale Lake and Paul's
+             Indian Agent   1,000 00
+Urbain                                 Alta.     reserves.
+                                       Edmonton,
+Black, W.    Clerk          720 00               ...
+                                       Alta.
+                                       Edmonton,
+Hope, H.     Farmer         480 00               ...
+                                       Alta.
+                                       Edmonton,
+Foley, John Interpreter     500 00               ...
+                                       Alta.
+Pattison,                              Edmonton,
+             Farmer         540 00               ...
+A.E.                                   Alta.
+             Hobbema
+...                         ...        ...        ...
+             Agency.
+                                       Ponoka,
+Mann, G.G. Indian Agent     1,200 00              Samson's, Ermineskin's and Louis Bull's bands.
+                                       Alta.
+                                       Ponoka,
+Mann, B.M. Clerk            360 00                ...
+                                       Alta.
+                                       Ponoka,
+Perry, A.W. Farmer          600 00                ...
+                                       Alta.
+                                       Ponoka,
+Lucas, T.W. Farmer          600 00                ...
+                                       Alta.
+
+<!-- page 1025 -->
+              Teamster &              Ponoka,
+Gardner, W.                  420 00              ...
+              Int'rpr't'r             Alta.
+              Miller &                Ponoka,
+Indian                       120 00              ...
+              Teamster                Alta.
+                                      Ponoka,
+Indian        Mail Carrier   120 00              ...
+                                      Alta.
+Ferguson,                             Ponoka,
+              Blacksmith     600 00              ...
+Geo                                   Alta.
+              Moose
+...           Mountain       ...      ...        ...
+              Agency.
+                                      Carlyle,
+Cory, Thos    Indian Agent   900 00              Pheasant Rump's, Striped Blanket's and White Bear's reserves.
+                                      Sask.
+Williams,                             Carlyle,
+              Farmer         480 00              ...
+E.0.                                  Sask.
+                                      Carlyle,
+Miller, F.C. Clerk           600 00              ...
+                                      Sask.
+
+<!-- page 1026 -->
+                           Annual
+Name.          Office.     Salary,    Address. Bands or Reserves in Agency.
+                           & c.
+               Onion
+...            Lake        $ cts.     ...       ...
+               Agency.
+                                      Onion
+               Indian
+Sibbald, W.                1,100 00   Lake,     Seekaskootch and Chipewyan No. 124, reserves.
+               Agent
+                                      Sask.
+                                      Onion
+Slater, T.J.   Farmer      480 00     Lake,     ...
+                                      Sask.
+                                      Onion
+Taylor,
+               Engineer    480 00     Lake,     ...
+Joseph
+                                      Sask.
+                                      Onion
+Turner, L.E.   Clerk       660 00     Lake,     ...
+                                      Sask.
+                                      Onion
+Bangs, John    Interpreter 360 00     Lake,     ...
+                                      Sask.
+               Peigan
+...                        ...        ...       ...
+               Agency.
+Yeomans,       Indian                 Macleod,
+                           1,000 00            Peigan Indians.
+E.H.           Agent                  Alta.
+               Clerk and              Macleod,
+Race, G.H.                 780 00              ...
+               Issuer                 Alta.
+                                      Macleod,
+McKenzie W. Stockman       600 00              ...
+                                      Alta.
+                                      Macleod,
+Indian         Interpreter 360 00              ...
+                                      Alta.
+               Mail                   Macleod,
+Indian                     120 00              ...
+               Carrier                Alta.
+               Pelly
+...                        ...        ...       ...
+               Reserves.
+Blewett,       Indian                 Kamsack,
+                           1,000 00            Coté, Key's and Keeseekoose reserves.
+W.G.           Agent                  Sask.
+Crawford,                             Kamsack,
+               Clerk       600 00              Coté, Key's and Keeseekoose reserves.
+A.A.                                  Sask.
+Brigham,                              Kamsack,
+               Farmer      480 00              Coté, Key's and Keeseekoose reserves.
+A.F.                                  Sask.
+Singoosh,                             Kamsack,
+               Labourer    360 00              Key's reserve.
+John                                  Sask.
+                                      Kamsack,
+Chard, J.G.    Overseer    600 00              Valley River.
+                                      Sask.
+                                      Kamsack,
+Kinnaar, M.    Farmer      480 00              Coté's reserve.
+                                      Sask.
+
+<!-- page 1027 -->
+               Qu'Appelle
+...                       ...         ...        ...
+               Agency.
+               Indian                 Balcarres, Little Black Bear's, Star Blanket's, Okanase, Peepeekeesis, Piapot's,
+Nichol, H.                 900 00
+               Agent                  Sask.      Muscowpetung's, Pasquah's and Standing Buffalo's reserves.
+                                      Balcarres,
+Tye, A.        Clerk       540 00                ...
+                                      Sask.
+                                      Balcarres,
+Moore, J.      Interpreter 420 00                ...
+                                      Sask.
+                                      Balcarres,
+North, H.      Stockman 420 00                   ...
+                                      Sask.
+Davidson,                             Balcarres,
+               Farmer      600 00                ...
+W.F.                                  Sask.
+                                      Balcarres,
+Fraser, P.     Farmer      480 00                ...
+                                      Sask.
+                                      Balcarres,
+A.H. Miles     Farmer      720 00                ...
+                                      Sask.
+                                      Balcarres,
+Muirhead, A. Farmer        480 00                ...
+                                      Sask.
+               Mail                   Balcarres,
+Indian                     96 00                 ...
+               Carrier                Sask.
+               Saddle
+...            Lake        ...        ...        ...
+               Agency.
+                                      Saddle
+               Indian                            Saddle Lake Wahsatanow, Whitefish Lake, Lac la Biche Chipewyan
+Batty. J.                  1,000 00   Lake,
+               Agent                             No. 130 and Beaver Lake reserves.
+                                      Alta.
+                                      Saddle
+Smith, U.      Farmer      540 00     Lake,      ...
+                                      Alta.
+                                      Saddle
+H.T. Niblock Farmer        600 00     Lake,      ...
+                                      Alta.
+                                      Saddle
+Whitford, S.   Interpreter 540 00     Lake,      ...
+                                      Alta.
+                                      Saddle
+Carroll, I.W. Clerk        360 00     Lake,      ...
+                                      Alta.
+                                      Saddle
+               Asst.
+Erasmus, P.                420 00     Lake,      ...
+               Farmer
+                                      Alta.
+                                      Saddle
+Hall, Miss E. Nurse        720 00     Lake,      ...
+                                      Alta.
+                                      Saddle
+Whitford,      Asst.
+                           120 00     Lake,      ...
+Miss M.        Nurse
+                                      Alta.
+
+<!-- page 1028 -->
+                             Saddle
+         Hospital
+Indian              240 00   Lake,    ...
+         Asst.
+                             Alta.
+

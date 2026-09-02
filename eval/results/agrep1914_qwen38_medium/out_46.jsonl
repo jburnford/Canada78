@@ -1,0 +1,13 @@
+{"row_type": "headers", "title": "The expenditure for the year from the parliamentary appropriation has been as follows: -", "columns": ["Indian Education.", "Day Schools.", "Boarding Schools.", "Industrial Schools.", "Ex-pupils.", "Travel and Freight expenses.", "Tuition. Salaries.", "Miscellaneous", "Total."]}
+{"page": 459, "row_type": "row", "section": null, "label": "Ontario", "values": ["33,862 44", "50,711 89", "45,280 64", null, "271 90", "2,112 19", "867 29", "1,971 84", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "Quebec", "values": ["25,169 37", null, null, null, "2,424 44", "4,908 48", "35 17", "1,792 85", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["13,264 63", null, null, null, null, "419 79", "8 44", "432 30", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "N. Brunswick", "values": ["13,129 58", null, null, null, "520 24", "667 97", "8 00", "551 51", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "P.E. Island", "values": ["439 32", null, null, null, null, "28 48", null, "135 69", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "Manitoba", "values": ["15,926 36", "165,584 43", "48,838 52", "2,274 60", null, "353 87", "995 00", "2,253 24", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "Saskatchewan", "values": ["35,358 14", "65,068 64", "36,603 71", "3,232 03", null, null, "346 97", "2,027 15", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "Alberta", "values": ["3,340 54", "149,692 09", "17,528 02", "617 58", null, "278 65", "219 91", "589 24", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "North West Territories", "values": ["100 00", "16,116 91", null, null, null, null, null, "66 86", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "Brit. Columbia", "values": ["26,815 03", "35,867 30", "78,179 45", "527 00", null, "388 50", "309 41", "1,659 59", null], "confidence": "high"}
+{"page": 459, "row_type": "row", "section": null, "label": "Yukon", "values": ["4,324 95", "7,988 16", null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 459, "row_type": "total", "section": null, "label": "...", "values": ["171,730 36", "491,029 42", "226,430 34", "6,651 21", "3,216 58", "9,157 93", "2,790 19", "11,480 27", "922,486 30"], "confidence": "high"}

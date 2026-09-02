@@ -1,0 +1,214 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+               Number Cleared but    Under        Number     Number        Number in engaged in Number
+...            of       not under    actual       engaged in engaged in    hunting, trapping and engaged other
+               Indians. cultivation. cultivation. farming.   stock-raising fishing.              industries.
+
+               ...     Acres.        Acres.      ...         ...           ...                  ...
+ALBERTA.
+Blackfoot      768     299,950       250         24          132           ...                  ...
+Blood          1,149   347,641       2,392       27          318           ...                  10
+Edmonton       683     33,655        1,280       29          68            73                   49
+Hobbema        785     75,778        642         71          79            62                   26
+Lesser Slave
+               224     11,450        50          ...         24            47                   1
+Lake
+Piegan         462     93,429        109         10          82            ...                  56
+Saddle Lake    798     79,641        1,424       116         ...           157                  ...
+Sarcee         211     58,120        218         20          23            16                   6
+Stony          667     44,480        240         10          65            35                   100
+Total          5,747   1,044,144     6,605       307         791           390                  248
+
+BRITISH      ...       ...           ...         ...         ...           ...                  ...
+COLUMBIA.
+Babine and
+             3,113     18,878        750         47          900           169                  ...
+Upper Skeena
+Bella Coola    1,266   70            25          ...         ...           405                  ...
+Cassiar        305     325           ...         ...         ...           168                  69
+Cowichan       1,758   5,400         3,202       7           ...           94                   208
+Fraser River   2,846   3,498         3,713       509         ...           319                  289
+Kamloops-
+               3,862   241,643       17,046      893         l6            537                  53
+Okanagan
+Kootenay       573     38,356        1,640       129         ...           ...                  71
+Kwawkewlth     1,227   314    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+26,870 00 352,348 00 6,260 00 4,210 00 121,477 00 100,154 00 745,115 00
+
+                  ...        ...         ...         ...      ...       ...           ...         ...
+SASKATCHEWAN
+Assiniboine       5,591 00 1,770 00      1,560 00    ...       1,550 00 316 00        9,650 00    20,437 00
+Battleford        14,362 00 13,283 00    5,384 00    30,470 00 2,041 00 8,902 00      10,346 00   84,788 00
+Carlton           14,547 00 8,935 00     6,888 00    ...       2,532 00 20,481 00     5,825 00    59,208 00
+Crooked Lake      16,146 00 3,412 00     2,975 00    2,171 00 875 00     1,650 00     7,673 00    34,902 00
+Duck Lake         17,590 00 4,500 00     7,882 00    ...       85 00     46,235 00    5,826 00    82,118 00
+Moose Mountain    5,000 00 1,581 00      400 00      ...       600 00    1,000 00     2,000 00    10,581 00
+Onion Lake        16,152 00 10,725 00    8,506 00    ...       8,581 00 29,067 00     4,055 00    77,086 00
+Pelly             15,838 00 5,079 00     865 00      2,505 00 44 00      19,20 00     1,475 00    27,726 00
+Qu'Appelle        65,162 00 9,995 00     6,250 00    ...       2,650 00 2,925 00      12,545 00   99,527 00
+Touchwood Hills   26,366 00 7,134 00     4,884 00    3,300 00 2,900 00 15,846 00      10,164 00   70,594 00
+Treaty No. 10     ...        ...         6,300 00    ...       51,700 00 64,600 00    7,160 00    129,760 00
+Total             196,754 00 66,414 00   51,894 00   38,446 00 73,558 00 192,942 00   76,719 00   696,727 00
+
+27 - ii - 5
+
+
+
+=== EXTRACT FROM HERE (pages 869-873) ===
+<!-- page 869 -->
+RECAPITULATION
+
+              LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                                                                                                  Number
+Agency        Number Cleared but      Under        Number     Number         Number engaged in
+                                                                                                  engaged in
+              of       not under      actual       engaged in engaged in     hunting trapping and
+                                                                                                  other
+              Indians. cultivation.   cultivation. farming.   stock raising. fishing.
+                                                                                                  industries.
+...           ...      Acres.         Acres.       ...        ...            ...                  ...
+Alberta       5,547    1,044,144      6,605        307        791            390                  248
+British
+              20,929 334,322          28,263     1,809        174            4,076                1,142
+Columbia
+Manitoba      4,841    100,961        6,626      414          46             409                  173
+New
+              1,759    1,675          1,277      75           ...            98                   322
+Brunswick
+Northwest
+              3,061    19,981         1,625      ...          11             831                  45
+Territories
+Nova Scotia 1,992      3,019          2,491      89           ...            60                   400
+Ontario      21,401    116,496        51,865     1,371        502            1,562                2,281
+Prince
+Edward       292       234            392        31           ...            35                   ...
+Island
+Quebec       8,641     29,674         75,285     426          29             667                  1,176
+Saskatchewan 8,786     878,467        17,958     705          433            976                  416
+Total        75,439    2,453,395      170,999    5,227        2,066          9,004                6,201
+
+<!-- page 870 -->
+REALTY OF INDIANS.
+
+                  PUBLIC BUILDINGS, PROPERTY OF THE BAND.
+                                                                                                                    Value of
+Agency.           Saw Grist                        Other                Council School Driving Other                Public
+                                Threshers Engines.            Churches.                                    Ferries.
+                  Mills. Mills.                    Machinery.           Houses. Houses. Shceds. Buildings.          Properties
+                                                                                                                    & c.
+...               ...    ...    ...       ...      ...        ...       ...     ...     ...     ...        ...      $ cts.
+Alberta           4      1      1         2        39         3         1       14      2       19         ...      93,776 00
+British
+                  5     ...   ...        ...      1           116       12      24       ...     16         ...     219 105 00
+Columbia
+Manitoba          ...   ...   ...        ...      4           19        2       25       4       18         2       54,040 00
+New
+                  ...   ...   ...        ...      ...         6         5       8        ...     7          1       16,300 00
+Brunswick
+Northwest
+                  1     ...   ...        ...      ...         9         2       13       ...     5          ...     18,775 00
+Territories
+Nova Scotia ...         ...   ...        ...      ...         7         1       11       2       4          1       35,840 00
+Ontario      2          ...   6          2        10          58        30      87       27      72         4       245,193 00
+Prince
+Edward       ...        ...   ...        ...      ...         1         ...     ...      ...     2          ...     6,800 00
+Island
+Quebec       ...        ...   12         2        2           14        4       16       13      19         2       116,520 00
+Saskatchewan 2          2     9          12       116         10        1       22       4       16         1       60,085 00
+Total        14         3     28         18       172         243       58      220      52      178        11      866,434 00
+
+27 - ii - 5 1/2
+
+<!-- page 871 -->
+              PRIVATE FENCING AND BUILDINGS.                                                                                                   Value of    Value of
+Agency        Acres Dwellings Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle Pig Store          Root    Milk    Corn Private       Private
+                                                               Shanties. Barns.
+              Fenced. Stone.  Brick.     Frame.     Log.                        Stables. Sheds. Stables. Sties. Houses. Houses. Houses. Cribs. Fencing.    Buildings.
+...           ...     ...       ...        ...        ...        ...      ...    ...     ...     ...     ...   ...     ...      ...     ...   $ cts.       $ cts.
+Alberta       109,186 ...       ...        76         993        85       4      485     21      462     26    59      74       7       48    40,210 00    113,327 00
+British
+              139,154 ...       ...        3,266      1,984      1,132    583    1,194   3       542     180   125     901      5       ...   284,400 00   1,081,006
+Columbia
+Manitoba      19,744 ...        ...        44         874        126      3      346     25      586     30    291     42       63      ...   13,601 00    144,754 00
+New
+              1,209    ...      ...        295        50         58       69     75      5       68      25    ...     59       1       ...   4,360 00     43,225 00
+Brunswick
+Northwest
+              423      ...      ...        12         567        38       ...    15      ...     196     ...   36      ...      ...     ...   2,161 00     69,225 00
+Territories
+Nova Scotia 2,870 ...           ...        351        4          81       124    24      1       40      14    2       5        6       1     7,456 00     42,155 00
+Ontario      112,334 14         59         1,705      2,177      242      891    1,621   273     853     842   476     488      249     257   715,508 00   1,223,286 00
+Prince
+Edward       392     ...        ...        50         ...        ...      25     22      ...     22      12    4       47       6       ...   1,618 00     6,830 00
+Island
+Quebec       6,860 62           5          1,043      254        57       260   524      97      198    242 45         42       140     83    42,288 00    456,745 00
+Saskatchewan 105,773 ...        ...        10         1,203      343      5     480      4       929    49    159      44       31      78    69,723 00    170,627 00
+Total        497,945 76         64         6,842      8,206      2,162    1,964 4,786    429     38,896 1,420 1,197    1,706    508     467   1,181,325 00 3,351,180 00
+
+<!-- page 872 -->
+PERSONALTY OF INDIANS.
+
+              AGRICULTURAL IMPLEMENTS, VEHICLES, & c.
+                                                                                                                                                                             Value of
+                                                                                                                                                                     Buggies Implements
+Agency.                                                               Reapers
+                                Seed                 Land                      Horse Fanning Threshing Tool Other                         Sleighs, Sleighs, Democrat and     and
+              Ploughs. Harrows.         Cultivators.          Mowers. and                                                  Wagons. Carts.
+                                Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Draught. Driving. Wagons. Road     Vehicles.
+                                                                      Binders.
+                                                                                                                                                                     Carts.
+Alberta       354     186       15    6           2       416      25      402     5       1         14      4,817       1,006    670   703      115      129      104      156,402 00
+British
+              1,101   689       3     19          339     333      51      242     43      25        200     16,884      705      13    624      128      183      278      272,842 00
+Columbia
+Manitoba      325     186       48    7           1       223      62      179     14      1         28      3,391       296      15    372      248      107      223      71,950 00
+New
+              42      40        ...   16          6       11       ...     11      4       ...       19      1,587       36       ...   82       30       31       23       7,273 00
+Brunswick
+Northwest
+              24      25        ...   ...         ...     6        ...     6       ...     ...       9       1,430       6        4     13       ...      ...      ...      2,603 00
+Territories
+Nova Scotia 46        29        ...   8           2       8        ...     6       ...     ...       50      744         48       36    62       24       5        14       6,338 00
+Ontario      1,611    1,282     232   616         208     566      496     544     449     21        362     27,047      1,050    129   1,107    843      413      927      372,605 00
+Prince
+Edward       9        9         ...   4           3       ...      ...     ...     ...     ...       4       95          2        5     8        ...      ...      ...      780 00
+Island
+Quebec       722      483       35    195         28      248      83      278   55        36        306     2,987       310      364 444        195      53       389      91,015 00
+Saskatchewan 751      403       98    140         121     504      126     438   52        9         35      9,494       885      188 803        508      171      383      177,213 00
+Total        4,985    3,332     431   1,011       710     2,315    843     2,106 618       93        1,027   68,476      4,344    1,424 4,218    2,091    1,092    2,341    1,159,021 00
+
+<!-- page 873 -->
+              LIVE STOCK AND POULTRY
+              Horses.                     Cattle.                             Other Stock.                     Poultry.                     Value of
+Agency.                  Geldings.                                                                                                    Cocks Live Stock
+                                                  Oxen,         Cows, Young                              Other                              and Poultry.
+              Stallions. And       Foals. Bulls.        Steers.               Lambs. Sheep. Boars. Sows.       Turkeys. Geese. Ducks. and
+                                                  Work.         Milch. Stock.                            Pigs.
+                         Mares.                                                                                                       Hens.
+...           ...      ...       ...    ...   ...    ...   ...   ...   ...        ...    ...    ...    ...   ...      ...    ...     ...    $ cts.
+Alberta       28       9,240     487    16    85     1,459 3,913 5,069 ...        ...    1      10     83    32       10     ...     640    517,325 00
+British
+              468      10,102    2,566 235    82     595    4,535 4,206 870       1,387 100     662    3,099 7        485    1,429 17,720 661,133 00
+Columbia
+Manitoba      10       1,231     106    55    275    564    1,226 1,308 23        10     6      13     98    8        14     12      1,113 132,864 00
+New
+              ...      52        ...    ...   ...    70     44     11     ...     ...    ...    ...    47    ...      ...    ...     635    6,305 00
+Brunswick
+Northwest
+              8        53        6      20    57     95     387    295    ...     ...    ...    ...    ...   ...      ...    ...     ...    18,554 00
+Territories
+Nova Scotia 2          54        6      3     18     36     116   111   40        80     2      5     31    19        13     62    979    9,360 00
+Ontario      326       3,175     522    148   89     621    3,539 2,523 203       233    131    1,346 3,874 1,999     760    1,712 37,777 1,176,187 00
+Prince
+Edward       ...       10        3      ...   ...    2      10     4      ...     ...    ...    ...    3     ...      ...    ...     150    1,067
+Island
+Quebec       37        833       348 68       8     110   1,169 809     49        68    52      229 516 479           120   118   1,834 96,176 00
+Saskatchewan 31        2,916     213 105      579 966     3,041 3,976 60          60    ...     57    1,312 20        3     3     2,773 502,657 00
+Total        910       27,665    4,257 650    1,193 4,518 17,980 18,402 1,245     1,838 292     2,322 9,063 2,564     1,405 3,336 63,621 3,123,628 00
+

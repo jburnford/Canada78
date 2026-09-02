@@ -1,0 +1,25 @@
+{"row_type": "headers", "title": "RECAPITULATION - APPROPRIATION ACCOUNTS, 1922 - 1923", "columns": ["Grant", "Expenditure", "Grant not used", "Grant exceeded"]}
+{"page": 106, "row_type": "row", "section": null, "label": "Civil Government", "values": ["164,980 00", "155,682 16", "9,297 84", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Annuities", "values": ["205,290 00", "222,848 00", null, "17,558 00"], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Prince Edward Island", "values": ["3,935 00", "3,934 90", "0 10", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["53,140 00", "53,139 24", "0 76", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "New Brunswick", "values": ["29,334 00", "29,326 20", "7 80", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Ontario and Quebec", "values": ["223,915 00", "223,106 44", "808 56", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Manitoba, Saskatchewan, Alberta and N.W.T.", "values": ["677,732 00", "677,675 57", "56 43", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "British Columbia", "values": ["267,120 00", "266,578 75", "541 25", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Yukon", "values": ["15,000 00", "14,984 21", "15 79", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "General", "values": ["162,500 00", "145,828 30", "16,671 70", null], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Indian Education", "values": ["1,437,643 00", "1,437,642 03", "0 97", null], "confidence": "high"}
+{"page": 106, "row_type": "total", "section": null, "label": "Total", "values": ["3,240,589 00", "3,230,745 80", "27,401 20", "17,558 00"], "confidence": "high"}
+{"page": 106, "row_type": "note", "section": null, "label": "Bonus Vote 563", "values": [null, "$71,735 42", null, null], "confidence": "medium"}
+{"page": 106, "row_type": "note", "section": null, "label": "Retirement Act 1920", "values": [null, "2,776 66", null, null], "confidence": "medium"}
+{"page": 106, "row_type": "note", "section": null, "label": "Gratuities", "values": [null, "480 00", null, null], "confidence": "medium"}
+{"row_type": "headers", "title": "INDIAN TRUST FUND", "columns": ["Debit", "Credit"]}
+{"page": 106, "row_type": "row", "section": null, "label": "Balance, Mar. 31, 1922", "values": [null, "11,402,577 43"], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Collection on lands sales, timber and stone dues, rents, fines and fees", "values": [null, "888,072 62"], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Interest for year ending Mar. 31, 1923", "values": [null, "581,027 31"], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Legislative grants to supplement the funds", "values": [null, "13,000 00"], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Outstanding cheques 1920 - 21", "values": [null, "162 84"], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Debit transfer during the year", "values": [null, "4,072 87"], "confidence": "high"}
+{"page": 106, "row_type": "row", "section": null, "label": "Expenditure during the year", "values": ["1,372,700 35", null], "confidence": "high"}
+{"page": 106, "row_type": "total", "section": null, "label": "Balance Mar. 31, 1923", "values": ["11,516,212 72", null], "confidence": "high"}

@@ -1,0 +1,750 @@
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+wawkewlth.
+Hagwilget, Babine.
+Harrison River, Fraser.
+Hazelton, Babine.
+Hesquiat, West Coast.
+High Bar, Williams Lake.
+Homalco, Fraser.
+Hope, Fraser.
+Kamloops, Kamloops.
+Kanaka-Bar, Kamloops.
+Katzie, Fraser.
+Kemsquit, Northwest Coast.
+Kisgegas, Babine.
+Kispaiax, Babine.
+
+<!-- page 42 -->
+Kitasoo, Northwest Coast.
+Kitimat, Northwest Coast.
+Kitkahta, Northwest Coast.
+Kitlathla, Northwest Coast.
+Kitlope, Northwest Coast.
+Kitsoguecla, Babine
+Kitselas, Northwest Coast.
+Kitsumkeylum, Northwest Coast.
+Kitwangar, Babine.
+Klahoose, Fraser.
+Klukus, Williams Lake.
+Kokyet, Northwest Coast.
+Kootenay Lower, Kootenay.
+Kootenay Upper, Kootenay.
+Kuldoe, Babine.
+Kyuquot, West Coast.
+Laichkwiltach, Kwawkewlth.
+Lakelse, Northwest Coast.
+Langley, Fraser.
+Lillooet, Williams Lake.
+Lytton, Kamloops.
+Mahteelthpe, Kwawkewlth.
+Massett, Northwest Coast.
+Matsqui, Fraser.
+McLeod, Babine.
+Musqueam, Fraser.
+Naas River, Northwest Coast.
+Nahkwockto, Kwawkewlth.
+Nahwitti, Kwawkewlth.
+Nanaimo, Cowichan.
+Nanoose, Cowichan.
+Nemaiah Valley, Williams Lake.
+Necoslie, Babine.
+Neskainlith, Kamloops.
+New Westminster, Fraser.
+Nicola, Kamloops.
+Nicomen, Kamloops.
+Nimkeesh, Kwawkewlth.
+Nitinat, West Coast.
+Nootka, West Coast.
+North Thompson, Kamloops.
+Ohamil, Fraser.
+Ohiet, West Coast
+Okanagan, Kamloops.
+Opitchesat, West coast.
+Oregon Jack Creek, Kamloops.
+Osoyoos, Kamloops.
+Owekano, Northwest Coast.
+Pachena, West Coast.
+Pavilion, Williams Lake.
+Pemberton, Fraser.
+Penticton, Kamloops.
+Popkum, Fraser.
+Qualicum, Cowichan.
+
+
+=== EXTRACT FROM HERE (pages 43-57) ===
+<!-- page 43 -->
+Quatsino, Kwawkewlth.
+Quawshelah, Kwawkewlth.
+Quesnel, Williams Lake.
+Saanich, Cowichan.
+Semiahmo, Fraser.
+Seshart, West Coast.
+Seshelt, Fraser.
+Seton Lake, Williams Lake.
+Shuswap Lake, Okanagan.
+Shuswap, Columbia river, Kootenay.
+Siska Flat, Kamloops.
+Similkameen, Kamloops.
+Skawahlook, Fraser.
+Skidegate, Northwest Coast.
+Skuppah, Kamloops.
+Squamish, Fraser.
+Sliammon, Fraser.
+Soda Creek, Williams Lake.
+Songhees, Cowichan.
+Sooke, Cowichan.
+Spallumcheen, Kamloops.
+Spuzzum, Kamloops.
+Squawtits, Fraser.
+Stone, Williams Lake.
+Stony Creek, Babine.
+Sumass, Fraser.
+Tache, Babine.
+Toquart, West Coast.
+Toosey, Williams Lake.
+Trembleur Lake, Babine.
+Tsaw-wassen, Fraser.
+Tsimpsean, Northwest Coast.
+Uchucklesit, West Coast.
+Ucluelet, West Coast.
+Ulkatcho, Williams Lake.
+Village Island, Kwawkewlth.
+Williams Lake, Williams Lake.
+Yale, Fraser.
+
+<!-- page 44 -->
+Name of Reserve and Agency.
+Ahaminaquus, West Coast.
+Aass, West Coast.
+Acous, West Coast.
+Agwedin, Babine.
+Ahahswinis, West Coast.
+Ahmacinnit, West Coast.
+Ahous, West Coast.
+Ahpokum, Fraser.
+Ahpukto, West Coast.
+Ahta, Kwawkewlth.
+Ahtlenjees, Babine.
+Ahtlish, West Coast.
+Ahtsam, Fraser.
+Ahmitsa, West Coast.
+Ahuk, West Coast.
+Ahwechaolto, Kwawkewlth.
+Aikwucks, Fraser.
+Ain, Northwest Coast.
+Aitchelitch, Fraser.
+Alalco, Kwawkewlth.
+Alberni, West Coast.
+Albert Flat, Fraser.
+Albert Head, Cowichan.
+Alert Bay, Kwawkewlth.
+Alexandria, Williams Lake.
+Alexis, Kamloops.
+Alixton, Williams Lake.
+Alkali Lake, Williams Lake.
+Amai, West Coast.
+Amatal, Northwest Coast.
+Anacla, West Coast.
+Anaham Flat, Williams Lake.
+Anaham Meadow, Williams Lake.
+Anderson Lake, Williams Lake.
+Andegulay, Northwest Coast.
+Anlaw, Babine.
+Arsecewyee, Kwawkewlth.
+Ashnola, Kamloops.
+Ashnola Johns, Kamloops.
+Aupe, Fraser.
+Austin Flat, Kamloops.
+Aylechootlook, Fraser.
+Aywawwis, Fraser.
+Babine, Babine.
+Bare Island, Cowichan.
+Barnstown Island, Fraser.
+Barriere River, Kamloops.
+Beecher Bay, Cowichan.
+Bella Bella, Northwest Coast.
+Bella Coola, Northwest Coast.
+Birnie Island, Northwest Coast.
+
+<!-- page 45 -->
+Black Point, Northwest Coast.
+Blackwater, Babine.
+Blind Creek, Kamloops.
+Bonaparte, Kamloops.
+Bootahnie, Kamloops.
+Bridge River, Williams Lake.
+Bucktum, Kamloops.
+Bummers Flat, Kootenay.
+Burnt Cliff Island, Northwest Coast.
+Cameron Bar, Kamloops.
+Campbell river, Kwawkewlth.
+Canim Lake, Williams Lake.
+Canoe Creek, Williams Lake.
+Canoona, Northwest Coast.
+Cape Mudge, Kwawkewlth.
+Carmanah, West Coast.
+Carpenter Mountain, Williams Lake.
+Carsooat, Babine.
+Casdeded, Babine.
+Cassimayooks, Kootenay.
+Cayilth, Kwawkewlth.
+Cayoosh Creek, Williams Lake.
+Cayuse, Kwawkewlth.
+Chamis, West Coast.
+Chapperon, Kamloops.
+Chatham Lake Island, Cowichan.
+Chatscah, Northwest Coast.
+Chawuthen, Fraser.
+Cheam, Fraser.
+Cheakamus, Fraser.
+Cheeshish, West Coast.
+Cheetsums Farm, Kamloops.
+Chehalis, Fraser.
+Chekwelp, Fraser.
+Chelohsin, Fraser.
+Chemainus, Cowichan.
+Chenahkint, West Coast.
+Chenatha, West Coast.
+Chequis, West Coast.
+Chesda, Babine.
+Cheslakee, Kwawkewlth.
+Chetahpe, West Coast.
+Chickwat, Fraser.
+Chiginkaht, Babine.
+Chilco Lake, Williams Lake.
+Chilliwack, Fraser.
+Chilthnux, Kamloops.
+Chimdimash, Northwest Coast.
+Chisenquis, West Coast.
+Chuch-hriaschin, Kamloops.
+Chuchummisapo, West Coast.
+Chuchuwayha, Kamloops.
+Chuchukacook, West Coast.
+Chuckchuck, Fraser.
+
+<!-- page 46 -->
+Chukcheetso, Kamloops.
+Chum Creek, Kamloops.
+Citeyets, Northwest Coast.
+Clakamucus, West Coast.
+Clatse, Northwest Coast.
+Clatux, Kwawkewlth.
+Clayoqot, West Coast.
+Cleho, West Coast.
+Clesbaoneecheck, Babine.
+Clienna, Kwawkewlth.
+Clinton, Williams Lake.
+Cla-oose, West Coast.
+Cloothpich, West Coast.
+Clotairquot, Babine.
+Clowel, Northwest Coast.
+Cloyah, Northwest Coast.
+Cludolicum, Williams Lake.
+Clustalach, Babine.
+Clutus, West Coast.
+Coas, West Coast.
+Cockmi, Northwest Coast.
+Cokqueneets, Fraser.
+Coldwater, Kamloops.
+Cole Bay, Cowichan.
+Columbia Lake, Kootenay.
+Comox, Cowichan.
+Cooks Ferry, Kamloops.
+Coopte, West Coast.
+Coquitlam, Fraser.
+Coryatsaqua, Babine.
+Cowichan, Cowichan.
+Cowichan Lake, Cowichan.
+Cowishil, West Coast.
+Creyke Point, Cowichan.
+Cullite, West Coast.
+
+<!-- page 47 -->
+Cumshewas, Northwest Coast.
+Dachlabah, Northwest Coast.
+Daningay, Northwest Coast.
+Dashken, Northwest Coast.
+Deadman's Creek, Kamloops.
+Deadman's Island, Cowichan.
+Dead Point, Kwawkewlth.
+Deekyakus, West Coast.
+Deena, Northwest Coast.
+Deep Creek, Williams Lake.
+Deep Valley, Fraser.
+Discovery Island, Cowichan.
+Dochsupple, West Coast.
+Dog Creek, Williams Lake.
+Dog Lake, Kamloops.
+Dolphin Island, Northwest Coast.
+Doobah, West Coast.
+Dookqua, West Coast.
+Douglas, Fraser.
+Drew Harbour, Kwawkewlth.
+Douglas Lake, Kamloops.
+Duck Lake, Kamloops.
+Dufferin, Kamloops.
+Echachis, West Coast.
+Eelseuklis, West Coast.
+Ehatis, West Coast.
+Elcho, Northwest Coast.
+Elhlateese, West Coast
+Enderby, Kamloops.
+Enhalt, Kamloops.
+Enshesheese, Northwest Coast.
+Equis, West Coast.
+Esowista, West Coast.
+Esquimalt, Cowichan.
+Etsekin, Kwawkewlth.
+Enquotco, Kamloops.
+False Creek, Fraser.
+Finlayson Island, Northwest Coast.
+Fish Lake, Kamloops.
+Fish Lake, Williams Lake.
+Fort George, Babine.
+Fort Rupert, Kwawkewlth.
+Fort Simpson, Northwest Coast.
+Fountain, Williams Lake.
+Four and one-half mile, Fraser.
+Frank's, Fraser.
+Fraser Island, Cowichan.
+Fraser Lake, Babine.
+Fulford Harbour, Cowichan.
+Gelangle, Babine.
+Georgie, Northwest Coast.
+Gilead, Kamloops.
+
+<!-- page 48 -->
+Gitzault, Northwest Coast.
+Glengla-ouch, Kwawkewlth.
+Gleyka, Kwawkewlth.
+Gold Stream, Cowichan.
+Grand Rapids, Babine.
+Granite Island, West Coast.
+Grass Point, Kwawkewlth.
+Grassy Islet, Northwest Coast.
+Greenville, Northwest Coast.
+Greenwood Island, Fraser.
+Grief Island, Northwest Coast.
+Gwayasdums, Kwawkewlth.
+Hagwilget, Babine.
+Haines Island, West Coast.
+Halhalaeden, Kamloops.
+Halalt, Cowichan.
+Halkett Island, Cowichan.
+Hamilton Creek, Kamloops.
+Hamilton Point, West Coast.
+Harkhom, Kwawkewlth.
+Harwood Island, Fraser.
+Hat Creek, Kamloops.
+Hatch Point, Cowichan.
+Haylate, Kwawkewlth.
+Hazelton, Babine.
+Hesquiat, West Coast.
+Hiellen, Northwest Coast.
+Hisnit, West Coast.
+Hisnit (Nootka), West Coast.
+High Bar, Williams Lake.
+Hleepte, West Coast.
+Hoiss, West Coast.
+Holachen, Fraser.
+Homais, West Coast.
+Homalco, Fraser.
+Homayno, Kwawkewlth.
+Homitan, West Coast.
+Hoonees, Northwest Coast.
+Hope, Fraser.
+Hope Island, Kwawkewlth.
+Houpsitas, West Coast.
+Howeet, Northwest Coast
+Humhampt, Kamloops.
+Hunnaechin, Fraser.
+Hustalen, Kamloops.
+Ikshenigwolk, Northwest Coast.
+Iktuksasuk, West Coast.
+Ilclo, West Coast.
+Ilt-coola, Kamloops.
+Ilthpay, West Coast.
+Inkahtsaph, Kamloops.
+Inklukcheen, Kamloops.
+Inklyukkinatko, Kamloops.
+Inlaflawatash, Fraser.
+
+<!-- page 49 -->
+Isidore's Ranch, Kootenay.
+Ittatsoo, West Coast.
+Iusuk, West Coast.
+Iwachis, West Coast.
+Jajustus, Northwest Coast.
+Jalun, Northwest Coast.
+Joeyaska, Kamloops.
+Joe Nahumcheen, Kamloops.
+Kahkaykay, Fraser.
+Kahmoose, Kamloops.
+Kaikalahun, Fraser.
+Kaitookwis, Kwawkewlth.
+Kakalatze, Cowichan.
+Kakweken, Kwawkewlth.
+Kamloops, Kamloops.
+Kanaka Bar, Kamloops.
+Kaouk, West Coast.
+Kaoowinch, West Coast.
+Kapilano, Fraser.
+Karlukwees, Kwawkewlth.
+Kashittle, West Coast.
+Katse, Northwest Coast.
+Katit, Northwest Coast.
+Katzie, Fraser.
+Kawkawa, Fraser.
+Kaykaip, Fraser.
+Kayouk, West Coast.
+Keecekiltum, Kwawkewlth.
+Keecha, Northwest Coast.
+Keeshan, West Coast.
+Keith Island, West Coast.
+Kemano, Northwest Coast.
+Kemsquit, Northwest Coast.
+Keogh, (Fort Rupert) Kwawkewlth.
+
+<!-- page 50 -->
+Keogh, (Gilford Island) Kwawkewlth.
+Keogh, (Knight's Inlet) Kwawkewlth.
+Kequesta, West Coast.
+Keswar, Northwest Coast.
+Ketoneda, Northwest Coast.
+Keyahka, Northwest Coast.
+Khrana, Northwest Coast.
+Khtahda, Northwest Coast.
+Khyes, Northwest Coast.
+Kicha, Northwest Coast.
+Kilchult, Williams Lake.
+Kilcutseen, Northwest Coast.
+Killalah, Northwest Coast.
+Killutsal, Northwest Coast.
+Kilpahlas, Cowichan.
+Kincolith, Northwest Coast.
+Kinmelet, Northwest Coast.
+Kinnamax, Northwest Coast.
+Kioosta, Northwest Coast.
+Kippase, Kwawkewlth.
+Kirby, Northwest Coast.
+Kisameet, Northwest Coast.
+Kisgegas, Babine.
+Kishnacous, West Coast.
+Kispaiax, Babine.
+Kitasoo, Northwest Coast.
+Kitimat, Northwest Coast.
+Kitkahta, Northwest Coast.
+Kitlacdamax, Northwest Coast.
+Kitlawaoo, Northwest Coast.
+Kitlope, Northwest Coast.
+Kitseguecla, Babine.
+Kitseguecla New, Babine.
+Kitselas, Northwest Coast.
+Kitskahaws, Babine.
+Kitsurnkelum, Northwest Coast.
+Kitzowit, Babine.
+Klaalth, Fraser.
+Klahoose, Fraser.
+Klaklacum, Fraser.
+Klahkomich, Kamloops.
+Klakowit, Kamloops.
+Klapthlon, Northwest Coast.
+Klaskish, Kwawkewlth.
+Kleetlekut, Kamloops.
+Klehkoot, West Coast.
+Kleyekwin, Fraser.
+Kleykleyhouse, West Coast.
+Klicksewy, Kwawkewlth.
+Klickumcheen, Kamloops.
+Kloklowuch, Kamloops.
+Kloyadingli, Williams Lake.
+
+<!-- page 51 -->
+Kluskus, Williams Lake.
+Kokyet, Northwest Coast.
+Koonwats, Babine.
+Kooryet, Northwest Coast.
+Kootenay, Lower, Kootenay.
+Kootenay, Upper, Kootenay.
+Kootowis, West Coast.
+Kophitchin, Kamloops.
+Koqui, Northwest Coast.
+Koquiis, Kwawkewlth.
+Kose, Northwest Coast.
+Kowtain, Fraser.
+Kshaoom, Northwest Coast.
+Kshish, Northwest Coast.
+Kshwan, Northwest Coast.
+Ktsinet, Northwest Coast.
+Kukwaywin, Fraser.
+Kul, Northwest Coast.
+Kuldoe, Babine.
+Kullalth, Fraser.
+Kullan, Northwest Coast.
+Kulspai, Northwest Coast.
+Kumcheen, Kamloops.
+Kumowahdah, Northwest Coast.
+Kung, Northwest Coast.
+Kunsoot, Northwest Coast.
+Kunstamus, Kwawkewlth.
+Kupchynalth, Kamloops.
+Kuper, Cowichan.
+Kwatlina, Northwest Coast.
+Kwatsalix, Babine.
+Kwawkwawapil, Fraser.
+Kwetahkis, Kwawkewlth.
+Kwotkelquo, Babine.
+Kyarti, Northwest Coast.
+Kykynalko, Kamloops.
+Lachkaltsap, Babine.
+Lachkaltsap, Northwest Coast.
+Lachmach, Northwest Coast.
+Lacehtesk, Northwest Coast.
+Lackaway, Fraser.
+Lagins, Northwest Coast.
+Lakahahmen, Fraser.
+Laketown, Babine.
+Lamb Island, Cowichan.
+Lanas, Northwest Coast.
+Langley, Fraser.
+Lawanth, Kwawkewlth.
+Leon Creek, Williams Lake.
+Lewis Creek, Kamloops.
+Little Springs, Williams Lake.
+Lockla, Fraser.
+Logan's, Kamloops
+Long Lake, Kamloops.
+
+<!-- page 52 -->
+Long Tunnel, Kamloops.
+Loon Lake, Kamloops.
+Loon Lake, Williams Lake.
+Loughborough, Kwawkewlth.
+Lukseetsissum, Fraser.
+Lulu, Kamloops.
+Lyacksun, Cowichan.
+Maahpe, West Coast.
+Macoah, West Coast.
+Machta, West Coast.
+Mahope, West Coast.
+Mahmalillikulla, Kwawkewlth.
+Mahpahkum, Kwawkewlth.
+Mahtinich, Kwawkewlth.
+Maka, Kamloops.
+Mahlachan, West Coast.
+Malahut, Cowichan.
+Malksope, West Coast.
+Mamaquum Island, Fraser.
+Marble Canyon, Williams Lake.
+Markale, West Coast.
+Marktosis, West Coast.
+Masit, West Coast
+Massett, Northwest Coast.
+Matchlee, West Coast.
+Matlaten, Kwawkewlth.
+Matsayno, Kwawkewlth.
+Matsqui, Fraser.
+Mauvais Rocher, Kamloops.
+Mayne Island, Cowichan.
+McCartney's Flat, Williams Lake.
+McLean Lake, Kamloops.
+
+<!-- page 53 -->
+McLeod Lake, Babine.
+McMillan Island, Fraser.
+Meagwan, Northwest Coast.
+Meanlaw, Northwest Coast.
+Meetup, Kwawkewlth.
+Metlakatla, Northwest Coast.
+Mission, Fraser.
+Mission Creek, Kamloops.
+Mission Island, West Coast.
+Mooyah, West Coast.
+Morteen, Fraser.
+Moutcha, West Coast.
+Moyehai, West Coast.
+Mushkin, Fraser.
+Musqueam, Fraser.
+Naden, Northwest Coast.
+Nananahout, Kamloops.
+Nahamanak, Kamloops.
+Nahlquonate, Babine.
+Nahwitti, Kwawkewlth.
+Nanaimo, Cowichan.
+Nanaimo River, Cowichan.
+Nancut, Babine.
+Nanoose, Cowichan.
+Narcisse's Farm, Kamloops.
+Nautley, Babine.
+Naykikoulth, Kamloops.
+Naciat, Williams Lake.
+Necolsie, Babine.
+Nedoats, Babine.
+Neekas, Northwest Coast.
+Nehalliston, Kamloops.
+Nekite, Kwawkewlth.
+Neklipton, Kamloops.
+Nemaiah, William Lake.
+Nepa, Kamloops.
+Niqotque, Williams Lake.
+Nesikep, Kamloops.
+Neskainlith, Kamloops.
+Nesuk, West Coast.
+Netsawgreece, Babine.
+New Kitseguelca, Babine.
+New Westminster, Fraser.
+Ninkeyeah, Kamloops.
+Nicklepalm, Kamloops.
+Nicoelton, Kamloops.
+Nicola Mameet, Kamloops.
+Nicola Lake, Kamloops.
+Nicomen, Kamloops.
+Nine-Mile Creek, Kamloops.
+Nkaish, Kamloops.
+Nocut, Babine.
+
+<!-- page 54 -->
+Nocten, Kamloops.
+Nohomeen, Kamloops.
+Nooaitch, Kamloops.
+Noonla, Babine.
+Nooseseck, Northwest Coast.
+Noota, Northwest Coast.
+North Bay, Kamloops.
+North Thompson, Kamloops.
+Nuchaquis, West Coast.
+Nuchatle, West Coast.
+Numukamis, West Coast.
+Nunautin, Kamloops.
+Oalthkivim, Fraser.
+Occosh, West Coast.
+Oclucje, West Coast.
+Ohamil, Fraser.
+Oinimitis, West Coast.
+Okanagan, Kamloops.
+Oke, West Coast.
+Oke-amin, West Coast.
+Omo-ah, West Coast.
+Onadsilth, West Coast. 105 Mile, Kamloops.
+Oo-oolth, West Coast.
+Opatseah, West Coast.
+Open Bay, Kwawkewlth.
+Openit, West Coast.
+Opitsat, West Coast.
+Oregon Jack Creek, Kamloops.
+Orford Bay, Fraser.
+Oschawwinna, Babine.
+Osoyoos, Kamloops.
+Otsawlas, Kwawkewlth.
+Otter Lake, Kamloops.
+Ouchtum, Kwawkewlth.
+Ououkinish, West Coast.
+Ous, West Coast.
+Outs, West Coast
+Owhwistooawan, Kwawkewlth.
+Owossitsa, West Coast.
+Oyakmula, Kwawkewlth.
+Pa-aat, Northwest Coast.
+Pacat'llinna, Kwawkewlth.
+Pachena, West Coast.
+Pahas, Kwawkewlth.
+Papekwatchin, Fraser.
+Papsilqua (Nicola), Kamloops.
+Papsilqua (Spuzzum), Kamloops.
+Papyum, Kamloops.
+Paukeanum, Fraser.
+Pauls, Kamloops.
+Pauls Basin, Kamloops.
+Pavilion, Williams Lake.
+Paykulkum, Fraser.
+Peg-leg, Kamloops.
+
+<!-- page 55 -->
+Perlooth'lkai, Kwawkewlth.
+Pemberton, Fraser.
+Pemynoos, Kamloops.
+Pender Island, Cowichan.
+Peneece, Kwawkewlth.
+Peneelth, West Coast.
+Penticton, Kamloops.
+Pentledge, Cowichan.
+Perrets, Fraser.
+Pinchie, Babine.
+Pipscul, Kamloops.
+Pitt Lake, Fraser.
+Point Veitch, Northwest Coast.
+Pokheitsk, Kamloops.
+Poo-eyelth, Kamloops.
+Poplar Island, Fraser.
+Popkum, Fraser.
+Poquisen, Fraser.
+Portier Pass, Cowichan.
+Port Essington, Northwest Coast.
+Port Harvey, Kwawkewlth.
+Port Neville, Kwawkewlth.
+Potato Point, Fraser.
+Payam, Fraser.
+Priests Valley, Kamloops.
+Puckatholechin, Fraser.
+Putkwa, Kamloops.
+Quaal, Northwest Coast.
+Qua-aout, Kamloops.
+Qua-ee, Kwawkewlth.
+Qualark, Fraser.
+Qualicum, Cowichan.
+Quartcha, Northwest Coast.
+
+<!-- page 56 -->
+Quatleyo, Kwawkewlth.
+Quat-tishe, Kwawkewlth.
+Quay, Kwawkewlth.
+Quesnel, Williams Lake.
+Quequa, Fraser.
+Quilchena, Kamloops.
+Quillanton, Kamloops.
+Quinaquilth, West Coast.
+Quinsam, Kwawkewlth.
+Quisitis, West Coast.
+Quortsawe, West Coast.
+Red Cliff, Northwest Coast.
+Rich Bar, Williams Lake.
+Ropers Meadow, Williams Lake.
+Ruby Creek, Fraser.
+Saagoomballah, Kwawkewlth.
+Saaiyouk, Kwawkewlth.
+Saanich East, Cowichan.
+Saanich South, Cowichan.
+Sachawil, West Coast.
+Sachsa, West Coast.
+Sachteen, Fraser.
+Sackanitecla, Babine.
+Sackum, Kamloops.
+Sahhahcum, Fraser.
+Sahhahltkum, Kamloops.
+Sallahquo, Babine.
+Sallalus, Fraser.
+Salmon Bay, Fraser.
+Salmon Lake, Kamloops.
+Salmon River, Kamloops.
+Salmon River, Kwawkewlth.
+Samahquam, Fraser.
+Sampsons Meadow, Williams Lake.
+Sand Island, Northwest Coast.
+Saouk, West Coast.
+Sarque, West Coast.
+Satunquin, Northwest Coast.
+Saturna Island, Cowichan.
+Saughanaught, Fraser.
+Scamakounst, Northwest Coast.
+Scaucy, Kamloops.
+Schelowat, Fraser.
+Schkam, Fraser.
+Scotch Creek, Kamloops.
+Scowban, Northwest Coast.
+Scowlitz, Fraser.
+Scuttsap, Northwest Coast.
+Seabird Island, Fraser.
+Seah, Kamloops.
+Seaichem, Fraser.
+Sea Island, Fraser.
+

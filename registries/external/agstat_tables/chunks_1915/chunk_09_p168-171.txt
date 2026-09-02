@@ -1,0 +1,129 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE No. 6. - AGRICULTURAL IMPLEMENTS, VEHICLES, ETC.
+
+                                                                                                                                                                      Buggies
+                                                                       Reapers
+                                 Seed                 Land                      Horse Fanning Threshing Tool Other                         Sleighs, Sleighs, Democrat and
+Agency.        Ploughs. Harrows.         Cultivators.          Mowers. and                                                  Wagons. Carts.
+                                 Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Driving. Draught. Wagons. Road
+                                                                       Binders.
+                                                                                                                                                                      Carts.
+
+               ...     ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+ALBERTA.
+Blackfoot      53      15        2     3           ...     90       2        80     ...     ...        3      280         180      ...    50      30       50        50
+Blood          90      18        28    ...         2       105      5        100    5       2          8      2,050       250      ...    3       1        125       15
+Edmonton       87      73        19    9           ...     55       19       54     5       2          4      224         91       ...    40      58       14        23
+Hobbema        82      33        5     19          ...     77       11       62     ...     ...        ...    769         132      ...    24      104      17        11
+Lesser Slave
+               15      12        ...   ...         ...     19       ...      19     ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+Lake
+Peigan         78      56        15    ...         1       44       14       41     2       ...        28     868         120      ...    4       3        26        9
+Saddle Lake    65      41        2     ...         ...     56       7        51     ...     ...        ...    5           101      5      21      86       30        7
+Sarcee         21      12        2     2           1       26       2        15     1 
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+.     3        1        3      3       ...        ...    50          3        ...    4       3        2         3
+Rice and Mud
+             28        22        9     12          7       12       9        11     11      1          ...    21          17       2      11      15       10        24
+Lakes
+Sarnia         60      43        15    22          5       26       18       22     19      1          31     457         46       5      25      27       29        46
+Saugeen        50      30        3     4           1       13       2        14     3       ...        20     1,000       32       ...    35      25       25        35
+Sault Ste.
+               38      24        1     4           ...     9        ...      9      1       ...        13     1,175       22       ...    71      41       5         18
+Marie
+Savanne        5       5         ...   1           ...     ...      ...      ...    ...     ...        5      2,055       ...      ...    1       ...      ...       ...
+
+<!-- page 167 -->
+Scugog         4     2     2     2     ...   2     1     2     1     ...   2     60      2     ...   3     2     3     2
+Six Nations    390   330   120   215   122   220   145   201   186   6     60    4,500   312   65    204   226   164   270
+Sturgeon Falls 19    8     ...   ...   1     2     ...   3     4     ...   50    150     11    4     33    43    3     13
+Thessalon      8     8     ...   ...   ...   ...   ...   ...   ...   ...   ...   941     2     ...   19    8     ...   ...
+
+
+
+=== EXTRACT FROM HERE (pages 168-171) ===
+<!-- page 168 -->
+                                                                                                                                                                           Buggies
+                                                                            Reapers
+                                      Seed                 Land                      Horse Fanning Threshing Tool Other                         Sleighs, Sleighs, Democrat and
+Agency.             Ploughs. Harrows.         Cultivators.          Mowers. and                                                  Wagons. Carts.
+                                      Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Driving. Draught. Wagons. Road
+                                                                            Binders.
+                                                                                                                                                                           Carts.
+Tyendinaga          157      120      55      87           30       74      43       67     44     1         33      822         100     4      85       102      48       115
+Walpole Island      92       63       9       87           1        42      16       30     17     2         9       112         60      5      23       50       17       75
+Total               1,493    1,189    305 696              234      644     333      591    407    21        349     20,390      1,019   127 944         951      480      968
+
+PRINCE EDWARD ...           ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+ISLAND.
+Prince Edward Island 8      9         ...   ...         5       1        1        3      1       1          ...    ...         2        4      ...     12       ...       1
+
+                    ...     ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+QUEBEC.
+Becancour           2       2         1     2           ...     2        ...      2      ...     ...        ...    ...         1        1      1       1        ...       1
+Bersimis            2       1         ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         3        4      1       3        ...       1
+Cacouna             ...     ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+Caughnawaga         130     200       70    10          10      125      14       118    6       16         24     545         142      92     330     270      ...       300
+Jeune Lorette       4       5         ...   ...         1       ...      ...      4      ...     ...        ...    165         4        3      3       2        3         4
+Maniwaki            24      21        ...   2           2       8        2        8      5       1          1      1           11       3      13      25       3         17
+Maria               6       6         2     ...         ...     ...      2        ...    ...     ...        ...    ...         5        7      6       ...      ...       8
+Mingan              ...     ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+Oka                 28      22        ...   ...         2       9        ...      7      ...     4          ...    1           10       14     26      18       ...       28
+Pierreville         8       5         ...   1           ...     2        ...      1      ...     ...        1      ...         8        ...    7       9        ...       8
+Pointe Bleue        26      30        ...   1           2       8        2        10     9       9          4      250         21       25     34      30       16        14
+Restigouche         28      32        2     8           4       4        2        16     2       2          2      170         12       4      15      39       ...       12
+Seven Islands       ...     ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+St. Regis           238     112       10    100         5       75       18       74     7       4          60     370         55       15     54      65       10        80
+Timiskaming         11      9         ...   1           ...     3        ...      2      1       ...        4      300         8        1      ...     7        12        6
+Total               507     445       85    125         26      236      40       242    30      36         96     1,802       280      169    490     469      44        479
+
+                    ...     ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+SASKATCHEWAN.
+Assiniboine         30      21        10    1           ...     24       7        24     2       ...        ...    285         37       ...    18      35       18        25
+Battleford          115     65        12    5           1       81       19       64     10      1          5      1,075       155      7      62      116      32        20
+Carlton             122     97        8     19          2       85       16       74     5       ...        16     1,616       155      2      97      147      62        17
+Crooked Lake        79      51        19    13          ...     54       18       49     7       ...        ...    545         111      7      70      96       21        59
+Duck Lake           96      75        15    19          ...     62       23       60     10      ...        ...    1,262       115      11     70      93       21        41
+File Hills Agency   141     6         3     ...         ...     19       4        17     2       2          ...    50          27       12     29      25       11        31
+File Hills Colony   50      22        18    ...         ...     16       22       16     15      ...        ...    250         30       ...    15      34       5         18
+Isle à la Crosse    ...     ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    ...         ...      ...    ...     ...      ...       ...
+Moose Mountain      45      12        7     1           1       26       8        20     3       1          2      350         42       30     48      32       19        ...
+Moose Woods         8       3         1     1           ...     13       ...      9      ...     ...        6      50          19       ...    6       15       5         3
+Onion Lake          29      23        1     ...         ...     64       1        61     ...     ...        7      825         123      7      46      103      45        22
+
+<!-- page 169 -->
+Pelly             73    48    12    1     ...   37    21    30    4    2     5    46      63      ...   54    66    20    30
+Qu'Appelle        111   78    27    ...   1     54    27    42    12   ...   14   755     133     ...   86    110   50    62
+Touchwood Hills   104   59    23    43    ...   50    21    49    7    2     3    1,030   111     7     61    99    30    41
+Total             876   560   156   103   5     585   187   515   77   8     58   8,199   1,121   83    662   971   339   369
+
+<!-- page 170 -->
+RECAPITULATION.
+
+                                                                                                                                                                    Buggies
+                                                                     Reapers
+                               Seed                 Land                      Horse Fanning Threshing Tool Other                         Sleighs, Sleighs, Democrat and
+Agency.      Ploughs. Harrows.         Cultivators.          Mowers. and                                                  Wagons. Carts.
+                               Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Driving. Draught. Wagons. Road
+                                                                     Binders.
+                                                                                                                                                                    Carts.
+Alberta      531      270      74      33           4        517     60       447    13     4         44      4,476       1,044   5      187      304      358      140
+British
+             1,504   1,161     33    181         163     566      64       525    36      23         301    15,785      1,016    40     426     727      414       388
+Columbia
+Manitoba     363     208       61    10          1       235      86       186    22      5          36     4,760       387      36     251     411      124       263
+New
+             34      32        2     17          6       17       2        12     2       ...        1      900         51       2      20      34       11        6
+Brunswick
+Nova Scotia 53       43        1     19          1       16       ...      10     1       ...        94     912         56       31     41      50       3         16
+Ontario      1,493   1,189     305   696         234     644      333      591    407     21         349    20,390      1,019    127    944     951      480       968
+Prince
+Edward       8       9         ...   ...         5       1        1        3      1       1          ...    ...         2        4      ...     12       ...       1
+Island
+Quebec       507     445       85    125         26      236      40       242   30       36         96     1,802       280      169    490     469      44        479
+Saskatchewan 876     560       156   103         5       585      187      515   77       8          58     8,199       1,121    83     662     971      339       369
+Total        5,369   3,917     717   1,184       445     2,817    773      2,531 589      98         979    57,224      4,976    497    3,021   3,929    1,773     2,630
+
+<!-- page 171 -->

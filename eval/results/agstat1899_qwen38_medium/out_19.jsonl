@@ -1,0 +1,22 @@
+{"row_type": "headers", "title": "AGRICULTURAL AND INDUSTRIAL STATISTICS", "columns": ["Value of Farm Produce including Hay.", "Wages Earned.", "Land Rentals.", "The Estimated Value of Fish and Meat used for food is included in these Columns.", "Earned by Fishing.", "Earned by Hunting.", "Earned by other Industries.", "Total Income of Indians."]}
+{"page": 903, "row_type": "row", "section": "NEW BRUNSWICK.", "label": "Fredericton Superintendency", "values": ["3,771 75", "...", "200 00", "2,450 00", "9,950 00", null, null, "33,181 75"], "confidence": "low"}
+{"page": 903, "row_type": "total", "section": "NEW BRUNSWICK.", "label": "Total", "values": ["9,166 75", "100 00", "7,000 00", "3,050 00", "14,100 00", null, null, "59,276 75"], "confidence": "low"}
+{"page": 903, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Annapolis County", "values": ["70 00", "400 00", "...", "60 00", "200 00", "100 00", null, "830 00"], "confidence": "low"}
+{"page": 903, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Shelburne County", "values": ["234 00", "...", "...", "930 00", "220 00", null, null, "2,604 00"], "confidence": "low"}
+{"page": 903, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Digby County", "values": ["300 00", "...", "200 00", "700 00", "1,700 00", null, null, "4,000 00"], "confidence": "low"}
+{"page": 903, "row_type": "row", "section": "NOVA SCOTIA.", "label": "(t)Yarmouth County", "values": ["...", "...", "...", "...", "...", "...", null, null], "confidence": "high"}
+{"page": 903, "row_type": "row", "section": "NOVA SCOTIA.", "label": "King's County", "values": ["50 00", "400 00", "...", "...", "400 00", "500 00", null, "1,350 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Queen's and Lunenburg Counties", "values": ["560 00", "...", "315 00", "150 00", "260 00", null, null, "2,460 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Halifax County", "values": ["286 00", "900 00", "...", "75 00", "90 00", "130 00", null, "1,481 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Hants County", "values": ["1,600 00", "300 00", "...", "50 00", "1,000 00", "1,500 00", null, "4,450 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Colchester County", "values": ["124 50", "...", "50 00", "350 00", "1,000 00", null, null, "3,474 50"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cumberland County", "values": ["400 00", "...", "...", "350 00", "650 00", null, null, "2,900 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Pictou County", "values": ["...", "...", "150 00", "150 00", "1,500 00", null, null, "2,800 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Antigonish and Guysborough Counties", "values": ["...", "...", "6 00", "500 00", "...", "2,500 00", null, "3,006 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Richmond County", "values": ["790 50", "45 50", "...", "500 00", "200 00", "1,230 00", null, "2,766 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Inverness County", "values": ["1,050 00", "100 00", "100 00", "500 00", "100 00", "1,350 00", null, "3,200 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Victoria County", "values": ["1,540 00", "600 00", "...", "400 00", "200 00", "4,000 00", null, "6,740 00"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "NOVA SCOTIA.", "label": "Cape Breton County", "values": ["3,200 00", "80 00", "...", "600 00", "150 00", "3,000 00", null, "7,030 00"], "confidence": "low"}
+{"page": 904, "row_type": "total", "section": "NOVA SCOTIA.", "label": "Total", "values": ["10,205 00", "106 00", "3,400 00", "4,970 00", "19,640 00", null, null, "49 091 50"], "confidence": "low"}
+{"page": 904, "row_type": "row", "section": "PRINCE EDWARD ISLAND.", "label": "Prince Edward Island Superintendency", "values": ["1,146 80", "250 00", "...", "375 00", "55 00", "9,600 00", null, "11,426 80"], "confidence": "low"}
+{"page": 904, "row_type": "note", "section": null, "label": "[* No return received from the agent. (t)No details given.]", "values": [null, null, null, null, null, null, null, null], "confidence": "high"}

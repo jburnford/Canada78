@@ -1,0 +1,360 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 715 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province,  Name of        Resident
+                                                     From 6 to 15   From 16 to 20 From 21 to 65 From 65 years
+ Agency or  Superintendent Indian      Under 6 years                                                          Remarks.
+                                                     inclusive.     inclusive.    inclusive.    upwards.
+ Band.      or Agent.      Population.
+...              ...           ...      Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...           ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+ONTARIO.
+Grand River
+Superintendency ...            ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,929    213   286     401   394     195   176     1,084 1,004    85    91      ...
+                 Supt.
+New Credit
+                 Hugh Stewart,
+(Mississaguas)                 246      14    9       38    18      8     7       65    70       9     8       ...
+                 Agent
+Agency
+               Alex.
+Walpole Island
+               McKelvey        805      52    64      85    103     39    43      203   183      16    17      ...
+Agency
+               Agent
+                                                                                                               No
+                                                                                                               details
+                 Adam English
+Sarnia Agency                 468       28    30      30    36      27    23      115   137      10    10      given for
+                 Agent
+                                                                                                               22
+                                                                                                               members.
+                 A. Sinclair
+Caradoc Agency                 1,375    84    91      171   111     62    61      400   338      32    25      ...
+                 Agent
+                A.R.
+Moravian
+                McDonald       354      28    34      46    35      17    19      86    86       2     1       ...
+Agency
+                Agent
+Manitowaning B.W. Ross,
+                               3,643    340   370     427   425     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                                     50                     75
+
+              ...            ...   ...    ...     ...    ...   ...     ...     ...       ...          ...
+MANITOBA.
+Clandeboye    E. McColl      25                                        11,649
+                                   61     13      378    878   1,148          11,625 00 323,341 00    ...
+Agency        Inspector      376                                       00
+Portage la
+              H. Martineau,
+Prairie                     ...    ...    25      17     56    80      475     1,475 00 680 00        17,407 00
+              Agent
+Agency
+Manitowapah H. Martineau,
+                          13       74     126     35     161   526     2,529 4,192 00 4,520 00        50,567 00
+Agency      Agent
+             L.J.A.
+Rat Portage
+             Levêque,       1      ...    15      1      10    15      30      365 00    100 00       465 00
+Agency
+             Inspector
+Berens River *J.W. Short,
+                            ...    ...    ...     ...    ...   ...     ...     ...       ...          ...
+Agency       Agent
+The Pas      Jos. Courtney,
+
+<!-- page 813 -->
+                  ...   ...   242   17   202   365   1,394 4,010 00 2,960 00     16,428 00
+Agency   Agent
+                                                                                 408,208
+...      Totals   39    450   469   83   807   1,864 5,576 21,691 00 19,885 00
+                                                                                 00
+
+
+
+=== EXTRACT FROM HERE (pages 814-818) ===
+<!-- page 814 -->
+                                                                                                 Value of
+                 Name of
+Province, Agency                                                                       HOUSEHOLD Real and
+                 Superintendent GENERAL EFFECTS.
+or Band.                                                                               EFFECTS.  Personal
+                 or Agent.
+                                                                                                 Property.
+                                Sail Row                      Shot        Steel Value
+...              ...                          Canoes. Rifles.       Nets.             Value of     ...
+                                Boats. Boats.                 Guns.       Traps. of
+
+NORTH-WEST ...                  ...   ...    ...     ...    ...   ...   ...     ...    ...         ...
+TERRITORIES.
+Touchwood Hills
+                S. Swinford,                                                    3,018              320,251
+Agency, Treaty                  ...   ...    ...     61     57    1     1,190         2,900 00
+                Agent                                                           00                 50
+No. 4
+Muscowpetung's
+               J.B. Lash,                                                       1,910              405,031
+Agency, Treaty                  ...   ...    ...     14     90    18    147           3,640 00
+               Agent                                                            00                 00
+No. 4
+Birtle Agency,   J.A. Markle,                                                   1,750              249,510
+                                ...   2      2       29     112   18    565           8,000 00
+Treaty No. 4     Agent                                                          00                 00
+Swan River
+                 W.E. Jones,                                                    1,479
+Agency, Treaty                  1     ...    37      10     78    42    375           1,210 00     2,689 00
+                 Agent                                                          00
+No. 4
+File Hills       W.M.
+                                                                                                   197,896
+Agency, Treaty   Graham,        ...   ...    ...     11     30    ...   49      620 00 1,660 00
+                                                                                                   00
+No. 4            Agent
+Assiniboine      T.W. Aspdin.
+Agency, Treaty   Farmer in    ...     ...    ...     ...    30    ...   ...     150 00 500 00      650 00
+No. 4            charge
+Crooked Lakes
+                 J.P. Wright,                                                                      586,241
+Agency, Treaty                  ...   ...    ...     2      24    3     6       151 00 1,220 00
+                 Agent                                                                             00
+No. 4
+Moose Mountain H.R. Halpin,
+                                                                                                   186,523
+Agency, Treaty Farmer in        ...   ...    ...     7      27    4     43      311 00 1,025 00
+                                                                                                   00
+No. 4          charge
+Pine Creek
+                 H. Martineau,
+Agency, Treaty                 ...    3      12      7      15    70    75      175 00 450 001     3,587 00
+                 Agent
+No. 4
+Saddle Lake
+                 W. Sibbald,                                                    2,825
+Agency, Treaty                  1     19     59      7      82    95    501           2,265 00     50,545 00
+                 Agent                                                          00
+No. 6
+Hobbema
+                 W.S. Grant,                                                    1,050              399,218
+Agency, Treaty                  ...   ...    3       20     100   130   280           1,700 00
+                 Agent                                                          00                 00
+No. 6
+Battleford       Chas. M.
+                                                                                                   258,290
+Agency, Treaty   Daunais,       ...   ...    ...     ...    ...   22    72      420 00 5,280 00
+                                                                                                   00
+No. 6            Agent
+Onion Lake
+                 G.G. Mann,                                                     1,332              302,390
+Agency, Treaty                  ...   ...    20      8      83    68    276           11,775 00
+                 Agent                                                          00                 00
+No. 6
+Duck Lake        R.S.
+
+<!-- page 815 -->
+Agency, Treaty     McKenzie,       ...    ...   7     14    69    18    649     964 20 4,765 00    5,729 20
+No. 6              Agent
+Edmonton
+                   A.E. Lake,                                                                      350,890
+Agency, Treaty                  ...       ...   8     2     65    54    ...     340 00 1,460 00
+                   Acting Agent                                                                    00
+No. 6
+                   W.J.
+Carlton Agency,                                                                 1,441
+                   Chisholm,       ...    5     10    21    130   75    474           11300 00     30,640 50
+Treaty No. 6                                                                    00
+                   Inspector
+Sarcee Agency,     A.J. McNeill,                                                                   153,260
+                                 ...      ...   ...   15    10    ...   20      220 00 1,000 00
+Treaty No. 7       Agent                                                                           00
+Blood Agency,      James Wilson,                                                1,445              783,257
+                                 ...      ...   ...   50    6     ...   30            6,000 00
+Treaty No. 7       Agent                                                        00                 00
+Blackfoot          G.H.
+                                                                                                   737,958
+Agency, Treaty     Wheatley,       ...    8     ...   60    35    ...   ...     479 00 2,000 00
+                                                                                                   00
+No. 7              Agent
+Piegan Agency,     R.N. Wilson,                                                 1,009
+                                   ...    2     ...   20    40    ...   ...           2,500 00     3,509 00
+Treaty No. 7       Agent                                                        00
+                   E.J. Bangs,
+Stony Agency,                                                                   1,500              342,716
+                   Farmer in       ...    ...   ...   130   50    12    500           2,500 00
+Treaty No. 7                                                                    00                 00
+                   charge
+                                                                                22,589             5,370,781
+...                Totals          2      39    158   510   1,205 645   5,180          53,150 00
+                                                                                20                 20
+[*No statistics received from Agent Short.]
+
+NOTE. - 37 Revolvers in Blackfoot Agency.
+
+14 - 31
+
+<!-- page 816 -->
+AGRICULTURE, SEASON 1897
+Province, Name of
+Agency or Superintendent GRAIN, ROOTS AND FODDER.
+Band.     or Agent.
+...       ...            Wheat.        Oats.                   Barley.          Corn.            Pease.            Rye.            Buckwheat.
+                              Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+...           ...
+                              Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+
+BRITISH   ...                 ...   ...       ...    ...       ...       ...    ...     ...      ...      ...      ...    ...      ...    ...
+COLUMBIA.
+Cowichan  W.H. Lomas,
+                              5     160       272    9,150     ...       ...    ...     ...      11       275      ...    ...      ...    ...
+Agency    Agent
+West Coast    Harry Guillod,
+                             ...    ...       ...    ...       ...       ...    ...     ...      ...      ...      ...    ...      ...    ...
+Agency        Agent
+Kwawkewlth R.H. Pidcock,
+                         ...        ...       ...    ...       ...       ...    ...     ...      ...      ...      ...    ...      ...    ...
+Agency     Agent
+Lower Fraser Frank Devlin,                                                                       183
+                           120      4,750     492    39,360    7         220    19 1/2 1,005              7,260    ...    ...      ...    ...
+Agency       Agent                                                                               1/2
+Williams
+            E. Bell, Agent 271      3,543     225    3,987     20        190    ...     ...      59       1,855    ...    ...      ...    ...
+Lake Agency
+Kamloops-
+              A. Irwin,
+Okanagan                      910   18,200    700    12,860    8         160    12 1/2 500       55 3/4 2,230      4      ...      ...    ...
+              Agent
+Agency
+             R.L.T.
+Kootenay
+             Galbraith,       45    1,080     340    5,560     ...       ...    ...     ...      ...      ...      ...    ...      ...    ...
+Agency
+             Agent
+North-west   C. Todd,
+                              ...   ...       ...    ...       ...       ...    ...     ...      ...      ...      ...    ...      ...    ...
+Coast Agency Agent
+Babine &
+             R.E. Loring,
+Upper Skeena                  ...   ...       ...    ...       ...       ...    ...     ...      ...      ...      ...    ...      ...    ...
+             Agent
+River Ag'cy
+                                                                                                 309
+...           Totals          1,351 27,733    2,029 70,917     35        570    32      1,505             11,602   4      ...      ...    ...
+                                                                                                 1/4
+
+              ...             ...   ...       ...    ...       ...       ...    ...     ...      ...      ...      ...    ...      ...    ...
+MANITOBA.
+Clandeboye    E. McColl,
+                              75    2,025     110    3,450     16        381    6 1/2 145        12       230      ...    ...      ...    ...
+Agency        Inspector
+Portage la
+              H. Martineau,
+Prairie                     392     5,845     28     815       20        420    ...     ...      ...      ...      ...    ...      ...    ...
+              Agent
+Agency
+Manitowapah H. Martineau,
+                          5         80        5      180       6 1/2 190        7 3/4 152        1/4      8        ...    ...      ...    ...
+Agency      Agent
+             L.J.A.
+Rat Portage
+             Levêque,         ...   ...       ...    ...       ...       ...    1       50       ...      ...      ...    ...      ...    ...
+Agency
+             Inspector
+Berens River *J.W. Short,
+
+<!-- page 817 -->
+                              ...    ...      ...   ...     ...   ...    ...   ...    ...   ...    ...   ...   ...   ...
+Agency         Agent
+                 Joseph
+The Pas
+                 Courtney,      ...   ...     ...   ...     ...   ...    ...   ...    ...   ...    ...   ...   ...   ...
+Agency
+                 Agent
+ ...             Totals         472 7,950     143   4,445   42 1/2 991   14 1/4 347   12 1/4 238   ...   ...   ...   ...
+[*No statistics received from Agent Short.]
+
+<!-- page 818 -->
+                 Name of
+Province, Agency
+                 Superintendent GRAIN, ROOTS AND FODDER.
+or Band.
+                 or Agent.
+...              ...            Wheat.        Oats.               Barley.          Corn.             Pease.          Rye.             Buckwheat.
+                                 Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+...               ...
+                                 Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+
+NORTH-WEST ...                   ...   ...       ...    ...       ...       ...    ...     ...       ...      ...    ...    ...       ...    ...
+TERRITORIES.
+Touchwood Hills
+                  S. Swinford,
+Ag'cy, Treaty No.                119   1,777     64     2,533     1         223    ...     ...       ...      ...    ...    ...       ...    ...
+                  Agent
+4
+Muscowpetung's
+                  J.B. Lash,
+Ag'cy, Treaty No.                415   3,520     91     1,433     8         91     5 3/4 65          ...      ...    ...    ...       ...    ...
+                  Agent
+4
+Birtle Agency,    J.A. Markle,   1,332           400                               15
+                                       11,043           3,616     3         16             603 1/2   ...      ...    ...    ...       ...    ...
+Treaty No. 4      Agent          1/2             1/2                               7/16
+Swan River
+                  W.E. Jones,
+Agency, Treaty                   ...   ...       47 1/2 350       45 1/2 240       ...     ...       ...      ...    ...    ...       ...    ...
+                  Agent
+No. 4
+File Hills        W.M.
+Agency, Treaty    Graham,      ...     ...       65     1,510     ...       ...    ...     ...       ...      ...    ...    ...       ...    ...
+No. 4             Agent
+Assiniboine       T.W. Aspdin,
+Agency, Treaty    Farmer in    70      259       10     *         ...       ...    ...     ...       ...      ...    ...    ...       ...    ...
+No. 4             charge
+Crooked Lakes
+                  J.P. Wright,   554
+Agency, Treaty                         2,772     137    550       ...       ...    1/2     ...       ...      ...    ...    ...       ...    ...
+                  Agent          1/4
+No. 4
+Moose Mountain    H.R. Halpin,
+Agency, Treaty    Farmer in      155   1,432     43     543       ...       ...    ...     ...       ...      ...    ...    ...       ...    ...
+No. 4             charge
+Pine Creek
+                  H. Martineau,
+Agency, Treaty                  ...    ...       1      35        1         30     1/2     10        ...      ...    ...    ...       ...    ...
+                  Agent
+No. 4
+Saddle Lake
+                  W. Sibbald,
+Agency, Treaty                   143   1,115     74     320       30        295    ...     ...       ...      ...    ...    ...       ...    ...
+                  Agent
+No. 6
+Hobbema
+                  W.S. Grant,
+Agency, Treaty                   357   4,998     21     420       28        420    ...     ...       ...      ...    ...    ...       ...    ...
+                  Agent
+No. 6
+Battleford        Chas. M.
+                                 101
+Agency, Treaty    Daunais,             445       103    1,921     40        353    ...     ...       ...      ...    ...    ...       ...    ...
+                                 1/2
+No. 6             Agent
+Onion Lake
+                  G.G. Mann,
+Agency, Treaty                   56    96        ...    ...       336       711    ...     ...       ...      ...    ...    ...       ...    ...
+                  Agent
+No. 6
+

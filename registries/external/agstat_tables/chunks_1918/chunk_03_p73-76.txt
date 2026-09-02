@@ -1,0 +1,173 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE NO. 3. - LAND: PRIVATE AND PUBLIC BUILDINGS AND PROPERTY.
+
+                                  Acres       Acres
+               Total    Acres
+                                  Cleared     Under        Acres
+Agencies.      Area of Under                                       PRIVATE PROPERTY                                                         PUBLIC PROPERTY
+                                  but not     actual       Fenced.
+               Reserve. wood.
+                                  Cultivated. Cultivation.
+                                                                                                                      Threshers,
+                                                                Stone,                              Ploughs,
+                                                                                                             Mowers, etc. Carts, Tools and                                               Engines
+                                                                Brick, and Other      Outbuildings, Harrows,                                           Council School Saw Other
+...            Acres.    ...      ...       ...        ...                                                   Reapers, Wagons, smaller        Churches.                                   and
+                                                                Frame      Dwellings. etc.          Drills,                                            Houses. Houses. Mills. Buildings.
+                                                                                                             Binders, and        Implements.                                             Machinery.
+                                                                Dwellings.                          etc.
+                                                                                                                      Vehicles.
+
+               ...       ...      ...       ...        ...      ...       ...        ...           ...      ...      ...        ...         ...        ...     ...     ...   ...        ...
+ALBERTA.
+Blackfoot      175,580   3,3001   166,691   5,589      19,040   74        100        308           162      236      437        303         ...        ...     ...     ...   10         222
+Blood          354,086   4,760    342,411   6,915      37,400   45        230        330           220      280      522        2,000       ...        2       2       ...   18    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+0    3,690   1,330    1,750    45     40      125     150     30      125     300      5     1     3     ...   4     ...
+Sault Ste.
+              39,600     36,325 1,470     1,805    1,875    60     92      132     72      12      167     1,180    5     1     3     ...   4     ...
+Marie
+Savanne        101,267   100,701 517      49       107      ...    136     38      11      ...     2       3,407    ...   ...   1     ...   ...   ...
+Scugog         800       60      225      515      800      8      2       10      10      3       13      73       1     ...   ...   ...   1     ...
+Six Nations    43,696    8,840 7,840      27,016   43,696   550    224     1,620   2,209   487     1,614   9,650    15    1     11    ...   22    20
+Sturgeon Falls 64,780    64,333 17        430      288      55     50      75      28      3       104     360      4     ...   3     ...   ...   ...
+Thessalon      61,687    59,398 1,500     789      789      36     89      146     19      1       34      951      4     ...   5     ...   ...   ...
+Tyendinaga     17,604    71,34 2,630      7,840    13,720   237    ...     556     449     229     454     822      2     1     4     ...   4     ...
+Walpole
+               40,480    36,036 2,375     2,069    3,262    90     77      241     269     90      255     304      2     2     2     1     2     1
+Island
+Total         1,038,761 900,568 70,876    67,317   116,297 1,891   2,132   5,742   4,922   1,663   5,075   30,451   97    29    79    4     87    42
+
+
+
+=== EXTRACT FROM HERE (pages 73-76) ===
+<!-- page 73 -->
+                                 Acres       Acres
+                Total    Acres
+                                 Cleared     Under        Acres
+Agencies.       Area of Under                                     PRIVATE PROPERTY                                                        PUBLIC PROPERTY
+                                 but not     actual       Fenced.
+                Reserve. wood.
+                                 Cultivated. Cultivation.
+                                                                                                                    Threshers,
+                                                              Stone,                              Ploughs,
+                                                                                                           Mowers, etc. Carts, Tools and                                               Engines
+                                                              Brick, and Other      Outbuildings, Harrows,                                           Council School Saw Other
+...             Acres.   ...     ...       ...        ...                                                  Reapers, Wagons, smaller        Churches.                                   and
+                                                              Frame      Dwellings. etc.          Drills,                                            Houses. Houses. Mills. Buildings.
+                                                                                                           Binders, and        Implements.                                             Machinery.
+                                                              Dwellings.                          etc.
+                                                                                                                    Vehicles.
+
+PRINCE EDWARD ...        ...     ...       ...        ...     ...       ...        ...           ...      ...      ...        ...         ...        ...     ...     ...   ...        ...
+ISLAND.
+Micmacs of P.E.
+                1,527    726     404       397        397     47        21         23            26       2        5          500         1          1       2       ...   3          2
+Island
+
+                ...      ...     ...       ...        ...     ...       ...        ...           ...      ...      ...        ...         ...        ...     ...     ...   ...        ...
+QUEBEC.
+Becancour       122     8       2          112        90      5         1          7             6        2        5          50          ...       ...      ...     ...   ...        ...
+Bersimis        63,197 62,784 345          68         50      ...       73         8             7        ...      7          275         1         ...      ...     ...   1          ...
+Cacouna         400     400     ...        ...        ...     1         ...        ...           ...      ...      ...        ...         ...       ...      ...     ...   ...        ...
+Caughnawaga     12,327 1,300 6,697         4,330      3,500   510       ...        960           480      300      1,200      660         1         1        5       1     5          2
+Jeune Lorette   27      ...     27         ...        20      87        ...        22            ...      ...      30         160         1         ...      1       ...   1          3
+Maniwaki        44,537 42,971 317          1,249      645     3         57         88            47       27       62         405         ...       1        2       ...   2          ...
+Maria           416     80      200        136        160     20        1          16            11       3        12         108         1         ...      1       ...   ...        ...
+Mingan          ...     ...     ...        ...        ...     20        ...        5             ...      ...      ...        ...         1         ...      ...     ...   ...        ...
+Oka             ...     ...     ...        ...        ...     94        ...        107           75       31       132        1,065       1         ...      1       ...   1          1
+Pierreville     579     ...     20         559        234     67        ...        58            19       8        27         140         3         1        2       ...   ...        ...
+Pointe Bleue    3,779   2,450 395          934        1,105   48        17         130           60       44       145        260         1         ...      1       ...   1          3
+Restigouche     8,856   8,200 50           606        606     92        10         188           29       4        82         175         1         1        1       1     ...        2
+Seven Islands   6       ...     6          ...        ...     40        ...        ...           ...      ...      ...        150         1         ...      ...     ...   ...        ...
+St. Regis       6,938   80      5,380      1,478      580     183       29         233           450      187      285        1,502       2         ...      6       ...   11         7
+Timiskaming     14,936 14,386 250          300        200     13        30         37            17       2        27         200         ...       ...      1       ...   ...        ...
+Total           156,120 132,659 13,689     9,772      7,190   1,183     218        1,859         1,201    608      2,014      5,150       14        4        21      2     22         18
+
+                ...      ...     ...       ...        ...     ...       ...        ...           ...      ...      ...        ...         ...        ...     ...     ...   ...        ...
+SASKATCHEWAN.
+Assiniboine     40,897 27,264 12,103       1,530      12,136 7          38         100           63       61       146        300         ...        1       1       ...   4          20
+Battleford      172,736 20,150 149,840     2,746      14,467 3          242        270           213      204      411        1,460       6          ...     5       1     23         7
+Carlton         219,641 86,420 129,991     3,230      25,911 ...        248        404           227      190      396        1,510       4          ...     6       1     20         5
+
+<!-- page 74 -->
+                                Acres       Acres
+             Total    Acres
+                                Cleared     Under        Acres
+Agencies.    Area of Under                                       PRIVATE PROPERTY                                                        PUBLIC PROPERTY
+                                but not     actual       Fenced.
+             Reserve. wood.
+                                Cultivated. Cultivation.
+                                                                                                                   Threshers,
+                                                             Stone,                              Ploughs,
+                                                                                                          Mowers, etc. Carts, Tools and                                               Engines
+                                                             Brick, and Other      Outbuildings, Harrows,                                           Council School Saw Other
+...          Acres.    ...      ...       ...        ...                                                  Reapers, Wagons, smaller        Churches.                                   and
+                                                             Frame      Dwellings. etc.          Drills,                                            Houses. Houses. Mills. Buildings.
+                                                                                                          Binders, and        Implements.                                             Machinery.
+                                                             Dwellings.                          etc.
+                                                                                                                   Vehicles.
+Crooked
+             120,895   17,200 100,662     3,033      15,000 ...        171        210           210      144      204        500         ...        ...     ...     ...   ...        ...
+Lake
+Duck Lake 113,258      27,359 83,681      2,218      21,161 ...        189        259           218      171      338        508         3          1       4       ...   ...        8
+File Hills
+           65,614      25,000 40,034      580       18,877 7           36         50            22       41       112        415         1          ...     1       ...   ...        ...
+Agency
+File Hills
+             18,840    2,000    13,190    3,650     425      13        17         102           96       46       94         300         2         ...      ...     ...   2          3
+Colony
+Moose
+             30,039    25,486 3,235       1,318     4,000    1         47         36            64       62       163        400         ...       1        1       ...   1          1
+Mountain
+Moose
+             4,160     1,368    2,715     77        5,280    ...       31         30            17       25       50         80          ...       ...      1       ...   ...        ...
+Woods
+Onion Lake 190,432     41,896   147,310   1,226     10,200   4         167        121           57       71       351        1,125       ...       ...      ...     2     ...        1
+Pelly      50,336      17,922   29,858    2,556     7,165    6         95         178           140      114      251        830         4         ...      3       ...   2          2
+Qu'Appelle 81,087      6,180    70,956    3,951     14,405   28        129        239           218      157      458        760         ...       ...      ...     ...   ...        ...
+Touchwood 110,872      35,465   71,059    4,348     49,009   6         50         328           211      160      333        1,095       1         ...      3       ...   1          1
+Wood
+           10,240      5        10,200    35        640      ...       15         14            2        4        34         250         ...       1        ...     ...   ...        ...
+Mountain
+Total        1,229,047 333,715 864,834    30,498    198,676 75         1,475      2,341         1,758    1,460    3,341      9,533       21        4        25      4     53         48
+
+<!-- page 75 -->
+RECAPITULATION.
+
+                                 Acres       Acres
+             Total    Acres
+                                 Cleared     Under        Acres
+Provinces.   Area of Under                                        PRIVATE PROPERTY                                                         PUBLIC PROPERTY
+                                 but not     actual       Fenced.
+             Reserve. wood.
+                                 Cultivated. Cultivation.
+                                                                                                                     Threshers,
+                                                               Stone,                              Ploughs,
+                                                                                                            Mowers, etc. Carts, Tools and                                               Engines
+                                                               Brick, and Other      Outbuildings, Harrows,                                           Council School Saw Other
+...          Acres.    ...       ...         ...       ...                                                  Reapers, Wagons, smaller        Churches.                                   and
+                                                               Frame      Dwellings. etc.          Drills,                                            Houses. Houses. Mills. Buildings.
+                                                                                                            Binders, and        Implements.                                             Machinery.
+                                                               Dwellings.                          etc.
+                                                                                                                     Vehicles.
+Alberta      1,309,906 386,268   900,977     22,661    246,272 230       1,217      1,870         1,186    1,262    2,676      7,054       6          7       8       1     52         549
+British
+             727,340   435,062   257,683     34,595    162,339 3,886     2,902      4,678         3,071    1,146    2,824      23,926      155        34      43      9     56         16
+Columbia
+Manitoba     406,743   285,822   109,860     11,061    18,604 464        1,904      1,389         709      630      1,391      4,603       42         3       35      4     51         4
+New
+             39,713    37,890    975         848       1,189   315       38         181           82       26       151        935         7         6        11      ...   7          ...
+Brunswick
+Nova Scotia 19,579     14,973    2,481       2,125     2,945 318         75         183           98       18       155        2,543       9         2        13      ...   11         ...
+Ontario      1,038,761 900,568 70,876        67,317    116,297 1,891     2,132      5,742         4,922    1,663    5,075      30,451      97        29       79      4     87         42
+Prince
+Edward       1,527     726       404         397       397     47        21         23            26       2        5          500         1         1        2       ...   3          2
+Island
+Quebec       156,120 132,659 13,689          9,772     7,190 1,183       218        1,859         1,201    608      2,014      5,150       14        4        21      2     22         18
+Saskatchewan 1,229,047 333,715 864,834       30,498    198,676 75        1,475      2,341         1,758    1,460    3,341      9,533       21        4        25      4     53         48
+Total        4,928,736 2,527,683 2,211,779   179,274   753,909 8,409     8,272      18,266        13,053   6,815    17,632     84,695      352       90       237     24    342        679
+
+<!-- page 76 -->

@@ -1,0 +1,297 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province, Name of     Resident                                                                              From 65
+                                                  From 6 to 15,                           From 21 to 65,
+ Agency Superintendent Indian      Under 6 years.               From 16 to 20, inclusive.                    years    ... ... Male. Female.
+                                                  inclusive.                              inclusive.
+ or Band. or Agent.    Population.                                                                           upwards.
+
+Male.     Female.       Male.       Female. Male. Female. Male. Female.                    ...         ...   ...   ...
+                                                                          ONTARIO.
+                                                                          Grand River
+...       ...           ...         ...     ...   ...     ...    ...      Superintendency ...          ...   ...   ...
+                                                                          -
+                                                                                          E.D.
+...       ...           ...         ...     ...   ...     ...    ...      Six Nations     Cameron,     3,988 220 292
+                                                                                          Supt.
+                                                                                           W.B.
+                                                                          Parry (Sound
+408       398           208         199     1,094 1,023   69     77                        Maclean,    859   63    64
+                                                                          )Superintendency
+                                                                                           Supt.
+                                                                          New Credit       Hugh
+94        90            38          43      206   255     3      3        (Mississaguas) Stewart,      248   20    14
+                                                                          Agency           Agent
+                                                                                           Alex.
+                                                                          Walpole Island
+34        18            8           9       62    66      11     6                     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                       M. Begg,
+Stangecoming                             1     2      ...    ...    1      ...    ...     ...    ...          ...   ...
+                          Agent
+                          M. Begg,
+Niacatchewenin                           1     1      ...    1      ...    ...    2       1      ...          ...   ...
+                          Agent
+                          M. Begg,
+Nickickonesemenecanning                  ...   2      ...    1      ...    ...    3       ...    ...          ...   ...
+                          Agent
+                          M. Begg,
+Riviere la Seine                         ...   1      ...    1      ...    ...    ...     2      ...          ...   ...
+                          Agent
+                          M. Begg,
+Lac la Croix                             ...   1      ...    ...    1      ...    ...     ...    ...          ...   ...
+                          Agent
+                          L.J.A.
+Lac des Mille Lacs        Leveque,       ...   ...    ...    ...    ...    ...    1       ...    ...          ...   ...
+                          Inspector
+                          L.J.A.
+Sturgeon Lake             Leveque,       ...   ...    ...    ...    ...    ...    ...     ...    ...          ...   ...
+                          Inspector
+                          L.J.A.
+Eagle Lake                Leveque,       2     ...    ...    1      ...    ...    3       2      ...          ...   ...
+                          Inspector
+
+
+
+=== EXTRACT FROM HERE (pages 1035-1039) ===
+<!-- page 1035 -->
+                         L.J.A.
+Wabigoon                 Leveque,    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Ignace                   Leveque,    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Frenchman's Head         Leveque,    ...   ...   ...   2     ...   ...   4     4     ...   ...   ...
+                         Inspector
+                         L.J.A.
+Lac Seul                 Leveque,    ...   ...   ...   2     1     ...   5     11    ...   ...   ...
+                         Inspector
+                         L.J.A.
+Wabuskang                Leveque,    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Grassy Narrows           Leveque,    ...   ...   ...   ...   ...   ...   1     ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Rat Portage              Leveque,    4     1     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Shoal Lake No. 39        Leveque,    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Shoal Lake No. 40        Leveque,    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Northwest Angle No. 37   Leveque,    12    2     ...   ...   4     ...   2     4     ...   ...   ...
+                         Inspector
+                         L.J.A.
+Northwest Angle No. 33   Leveque,    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Northwest Angle No. 34   Leveque,    3     2     ...   2     4     ...   5     4     ...   ...   ...
+                         Inspector
+                         L.J.A.
+Whitefish Bay            Leveque,    11    1     ...   ...   ...   ...   1     ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Big Island               Leveque,    8     6     ...   1     2     ...   3     ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Assabaska                Leveque,    12    2     ...   ...   2     1     1     ...   ...   ...   ...
+                         Inspector
+                         L.J.A.
+Islington                Leveque,    1     ...   ...   1     7     9     5     7     ...   ...   ...
+                         Inspector
+
+<!-- page 1036 -->
+                        L.J.A.
+The Dalles              Leveque,        ...   ...   ...   ...   1     ...   ...   ...     ...   ...   ...
+                        Inspector
+Total                   ...             1,674 1,679 682   116   132   413   1,864 2,159   609   299 84
+
+                        ...             ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   ...
+QUEBEC
+Lake of Two Mountains   J. Perillard,
+                                        ...   67    23    11    ...   4     91    74      22    11 ...
+Agency                  Agent
+                        Alex.
+Caughnawaga Agency      Brosseau,       25    80    88    20    ...   8     350   250     10    8     2
+                        Agent
+                        Geo. Long,
+St. Regis Agency                        89    100   70    18    ...   ...   180   168     ...   ...   10
+                        Agent
+                        E. Beaulieu,
+Viger Agency                            ...   ...   ...   ...   ...   ...   ...   ...     ...   ...   ...
+                        Agent
+Carried forward         ...             114   247   181   49    12    621   493   32      32    19 12
+
+<!-- page 1037 -->
+                 Name of
+Province, Agency
+                 Superintendent     LIVE STOCK AND POULTRY.
+or Band.
+                 or Agent.
+...              ...                Horses.                  Cattle.                             Other Stock.
+                                    Colts,
+Stallions and                       Fillies            Oxen,         Cows, Young                 Boars,
+                  Mares.                      Bulls.         Steers.               Sheep. Lambs.
+Geldings.                           and                Work.         Milch. Stock.               Breeding.
+                                    Foals.
+
+QUEBEC -          ...               ...       ...      ...   ...       ...   ...   ...   ...     ...         ... ...
+Concluded.
+Brought forward   ...               114       247      181   49        ...   12    621   492     32          19 12
+St. Francis       A.O. Cormiré,
+                                    8         10       ...   1         ...   ...   22    12      ...         ... ...
+Agency            M.D., Agent
+Lake St. John     Wm. Donohue,
+                                    15        10       3     2         2     ...   38    49      ...         ... ...
+Agency            Agent
+                  Rev. J. Gagné,
+Maria Agency                        5         5        1     1         3     ...   8     12      2           ... ...
+                  Agent
+Restigouche       Jeremie Pitre,
+                                    15        18       5     ...       4     1     38    55      6           2 2
+Agency            Agent
+River Desert      W.J. McCaffrey,
+                                  21          13       7     3         ...   5     41    25      19          7 1
+Agency            Agent
+Jeune Lorette     A.O. Bastien,
+                                    5         2        1     3         ...   4     18    7       1           ... ...
+Agency            Agent
+Becancour         H. Désilets,
+                                    1         2        ...   3         ...   ...   5     7       1           1 ...
+Agency            M.D., Agent
+Temiscaming       Adam Burwash,
+                                6             5        1     2         ...   ...   12    12      14          ... ...
+Agency            Agent
+                  Adolphe
+Bersimis Agency                     4         ...      ...   ...       ...   ...   4     7       ...         ... ...
+                  Gagnon, Agent
+Total             ...               194       312      199   64        9     22    807   678     75          29 15
+
+NEW               ...               ...       ...      ...   ...       ...   ...   ...   ...     ...         ... ...
+BRUNSWICK.
+Richibucto        W.D. Carter,
+                                    16        11       ...   ...       18    ...   49    40      ...         ... ...
+Superintendency   Supt.
+Fredericton       James Farrell,
+                                    22        9        6     ...       ...   2     16    49      7           5 5
+Superintendency   Supt.
+Total             ...               38        20       6     ...       18    2     65    89      7           5 5
+
+PRINCE
+                  ...               ...       ...      ...   ...       ...   ...   ...   ...     ...         ... ...
+EDWARD
+ISLAND.
+Prince Edward
+                  John O.
+Island                             ...        2        ...   ...       ...   ...   1     1       ...         ... ...
+                  Arsenault, Supt.
+Superintendency
+
+<!-- page 1038 -->
+                                                                                Value of
+                Name of                                                         Live
+Province,                                                                                GENERAL
+                Superintendent LIVE STOCK IND POULTRY - Continued.              Stock
+Agency or Band.                                                                          EFFECTS.
+                or Agent.                                                       and
+                                                                                Poultry.
+Other Stock.                     Poultry.                       ...
+                                                                        Cocks
+                                 Sows,                                                   Sail Row
+...              ...                       Pigs. Turkeys. Geese. Ducks. and   ...                      Canoes.
+                                 Breeding.                                               Boats. Boats.
+                                                                        Hens.
+
+                 ...             ...        ...   ...    ...    ...     ...     $ cts.   ...   ...    ...
+ONTARIO.
+Grand River
+Superintendency ...              ...        ...   ...    ...    ...     ...     ...      ...   ...    ...
+-
+                 E.D. Cameron,                                                  46,875
+Six Nations                    354          1,800 814    131    1,861 8,854              ...   4      1
+                 Supt.                                                          00
+Parry Sound     W.B. Maclean,                                                   10,050
+                              ...           60    ...    ...    ...     255              19    18     105
+Superintendency Supt.                                                           00
+New Credit
+                 Hugh Stewart,
+(Mississagua)                    25         50    15     30     150     1,100 5,500 00 ...     ...    ...
+                 Agent
+Agency
+                 Alex.
+Walpole Island                                                                  18,206
+                 McKelvey,       100        745   250    150    181     2,300            6     44     16
+Agency                                                                          00
+                 Agent
+                 Adam English,                                                  10,944
+Sarnia Agency                  30           133   441    25     88      2,495            1     40     1
+                 Agent                                                          00
+                 A. Sinclair,                                                   11,936
+Caradoc Agency                   61         300   187    39     62      7,912            ...   4      2
+                 Agent                                                          10
+                 A.R.
+Moravian
+                 McDonald,       60         190   7      69     24      1,875 9,990 00 ...     2      ...
+Agency
+                 Agent
+Manitowaning     C.L.D. Sims,                                                   17,378
+                                 125        865   ...    ...    10      2,440            110   37     48
+Agency           Agent                                                          00
+Gore Bay         J.H. Thorburn,
+                                6           428   8      14     22      1,190 9,033 30 40      18     1
+Agency           Agent
+Thessalon        Sam'l Hagan,
+                                 25         48    10     8      ...     414     4,000 00 26    16     48
+Agency           Agent
+Sault Ste. Marie Wm. Van
+                                 11         46    6      ...    ...     1,759 7,599 00 55      25     51
+Agency           Abbott, Agent
+Port Arthur      J.F. Hodder,
+                                 ...        ...   ...    ...    ...     375     3,475 00 33    29     487
+Agency           Agent
+Golden Lake      E. Bennett,
+                                 ...        25    ...    ...    ...     70      850 00   ...   ...    12
+Agency           Agent
+Tyendinaga       Geo. Anderson,                                                 51,400
+                                164         511   508    145    554     5,544            6     36     1
+Agency           Agent                                                          78
+Lake Simcoe      John Yates,
+                                12          65    15     6      60      375     3,550 00 5     21     4
+Agency           Agent
+
+<!-- page 1039 -->
+Cape Croker      John McIver,
+                                40      400   15      ...   10    600      8,000 00 5     20    2
+Agency           Agent
+                 John Scoffield,
+Saugeen Agency                   60     175   50      25    65    150      3,300 00 5     7     ...
+                 Agent
+               John
+Alnwick Agency Thackeray,       13      67    28      ...   20    561      4,698 50 ...   ...   18
+               Agent
+Mud Lake       W. McFarlane
+                                3       12    ...     ...   20    150      2,100 00 ...   1     38
+Agency         Agent
+Rice Lake        W. McFarlane,
+                               6        21    ...     20    40    200      2,120 00 ...   ...   12
+Agency           Agent
+                 D.J. McPhee,
+Rama Agency                     4       47    20      17    26    90       1,800 00 ...   11    64
+                 Agent
+                 Chas.
+Christian Island
+                 McGibbon,      15      125   30      ...   ...   400      3,700 00 13    22    18
+Agency
+                 Agent
+                                                                           236,502
+Carried forward ...             1,114   6,113 2,539   709   3,203 33,109           321    351   929
+                                                                           65
+

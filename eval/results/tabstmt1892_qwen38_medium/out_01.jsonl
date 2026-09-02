@@ -1,0 +1,35 @@
+{"row_type": "headers", "title": "TABULAR STATEMENT No. 1 SHOWING the Number of Acres of Indian Lands sold during the Year ended 30th June, 1892; the total amount of Purchase Money, and the approximate quantity of surrendered surveyed Indian Lands remaining unsold at that date in the Provinces of Ontario and Quebec and in the North-west Territories.", "columns": ["County or District.", "Number of Acres sold.", "Amount of Sale. $ cts.", "Approximate Quantity remaining unsold. Acres.", "Remarks."]}
+{"page": 510, "row_type": "note", "section": null, "label": "The land sold during the year amounts to 22,816.90 acres, and the sales to $45,185.29.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "note", "section": null, "label": "The quantity of surrendered land still in the hands of the department, in round numbers, is 460,244 acres.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": null, "label": "Agents' returns (for land, timber and rent) examined and entered", "values": ["578", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "New sales entered", "values": ["301", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of sales cancelled", "values": ["102", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of leases issued and entered", "values": ["35", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of timber licenses issued", "values": ["17", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of timber licenses renewed", "values": ["39", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of payments on leases entered", "values": ["714", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of payments on old sales entered", "values": ["464", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of notices to purchasers in arrears prepared and sent out", "values": ["1,445", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Assignments of land examined and entered", "values": ["282", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Assignments of land registered", "values": ["191", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Descriptions for patents prepared and entered", "values": ["310", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of patents engrossed", "values": ["311", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of patents registered", "values": ["311", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of patents despatched", "values": ["311", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of patents cancelled", "values": ["5", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Location tickets issued and entered", "values": ["31", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Number of files dealt with", "values": ["3,953", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "note", "section": null, "label": "The total collections on account of old and new sales, on rents and on timber, amounted to $114,358.86.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "note", "section": null, "label": "The approximate purchase money and interest thereon in arrears on land sales on the 30th June, 1892, amounted to $192,416.44.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": null, "label": "Principal", "values": ["$102,794 00", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "row", "section": null, "label": "Interest", "values": ["89,622 44", null, null, null, null], "confidence": "low"}
+{"page": 510, "row_type": "total", "section": null, "label": "Total", "values": ["$192,416 44", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "Ontario", "values": ["2,273", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "Quebec", "values": ["559", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["114", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "New Brunswick", "values": ["104", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "Prince Edward Island", "values": ["43", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "British Columbia", "values": ["687", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "Manitoba", "values": ["1,500", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "row", "section": null, "label": "North-west Territories", "values": ["2,295", null, null, null, null], "confidence": "low"}
+{"page": 511, "row_type": "total", "section": null, "label": "Total", "values": ["7,575", null, null, null, null], "confidence": "low"}

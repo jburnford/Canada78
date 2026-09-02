@@ -1,0 +1,8 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0620-return-a-1	RETURN A (1)	620	621
+01	p0622-return-a-2	RETURN A (2)	622	623
+02	p0624-return-a-2-quebec	RETURN A (2) — Quebec	624	624
+03	p0626-return-a-2-nova-scotia	RETURN A (2) — Nova Scotia	626	627
+04	p0628-return-a-2-new-brunswick	RETURN A (2) — New Brunswick	628	628
+05	p0628-return-a-2-prince-edward-islan	RETURN A (2) — Prince Edward Island	628	633
+06	p0628-return-a-2-prince-edward-islan	RETURN A (2) — Prince Edward Island	634	638

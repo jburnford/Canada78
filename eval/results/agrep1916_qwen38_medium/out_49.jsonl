@@ -1,0 +1,46 @@
+{"row_type": "headers", "title": "Expenditure for the year from parliamentary appropriation", "columns": ["Day Schools.", "Boarding Schools.", "Industrial Schools.", "Tuition.", "Expupils. and Salaries.", "Freight", "Expenses.", "Miscellaneous.", "Total."]}
+{"page": 502, "row_type": "row", "section": null, "label": "Ontario", "values": ["30,477 33", "37,419 00", "78,143 73", "125 62", "1,285 12", "6,532 48", "894 13", "2,890 03", "157,767 44"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "Quebec", "values": ["23,509 42", null, null, null, "2,511 62", "3,218 23", "441 40", "2,144 46", "31,825 13"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["7,160 97", null, null, null, null, "178 99", "3 00", "552 66", "7,895 62"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "New Brunswick", "values": ["8,109 37", null, null, null, "501 00", "386 59", null, "694 58", "9,691 54"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "Prince Edward Island", "values": ["786 85", null, null, null, null, "302 50", "35", "54 88", "1,144 58"], "confidence": "medium"}
+{"page": 502, "row_type": "row", "section": null, "label": "Manitoba", "values": ["39,877 26", "122,917 16", "619,960 33", "1,491 88", "375 00", "179 37", "1,195 13", "3,808 02", "231,804 15"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "Saskatchewan", "values": ["29,186 76", "70,052 79", "29,601 17", "2,608 39", null, null, "519 67", "1,948 33", "133,917 11"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "Alberta", "values": ["3,152 35", "83,292 83", "17,057 06", "2,443 64", "3 25", null, "1,519 17", "1,745 76", "109,214 06"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "North West Territories", "values": ["650 00", "20,724 87", null, null, null, null, "6 30", "59 15", "21,440 32"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "British Columbia", "values": ["42,631 40", "40,536 44", "108,649 17", "350 23", null, "50 68", "287 49", "2,739 94", "195,245 35"], "confidence": "high"}
+{"page": 502, "row_type": "row", "section": null, "label": "Yukon", "values": ["2,604 35", "8,685 92", null, null, null, "60 00", "56 71", "25 61", "11,432 59"], "confidence": "high"}
+{"page": 502, "row_type": "total", "section": null, "label": "Totals", "values": ["188,146 06", "383,629 01", "295,411 46", "7,019 76", "4,675 99", "10,908 84", "4,923 35", "16,663 42", "911,377 89"], "confidence": "high"}
+{"row_type": "headers", "title": "Amounts contributed by bands for education, fiscal year ended March 31, 1916", "columns": ["Band.", "Interest.", "Capital."]}
+{"page": 503, "row_type": "row", "section": null, "label": "1", "values": ["Ojibbewas of Batchawana", "819 75", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "2", "values": ["Chippewas of Beausoleil", "490 50", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "3", "values": ["Chippewas of Nawash", "1,591 25", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "4", "values": ["Chippewas of Rama", "291 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "5", "values": ["Chippewas of Sarnia", "1,617 25", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "6", "values": ["Chippewas of Saugeen", "1,324 38", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "7", "values": ["Chippewas of Snake Island", "191 03", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "8", "values": ["Chippewas of the Thames", "846 64", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "9", "values": ["Chippewas of Walpole Island", "243 32", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "10", "values": ["Chippewas of Fort William", "115 89", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "12", "values": ["Ojibbewas of Garden River", "710 97", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "13", "values": ["Ojibbewas of Henvey Inlet", "100 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "14", "values": ["Ojibbewas of Nipissing", "546 20", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "17", "values": ["Mississaguas of Alnwick", "767 14", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "18", "values": ["Mississaguas of Credit", "553 12", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "19", "values": ["Mississaguas of Rice Lake", "300 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "20", "values": ["Mississaguas of Mud Lake", "225 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "21", "values": ["Mississaguas of Scugog", "12 70", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "22", "values": ["Mohawks of Bay of Quinte", "2,046 14", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "23", "values": ["Moravians of the Thames", "547 85", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "30", "values": ["Chippewas of Parry Sound", "368 40", "3,105 00"], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "31", "values": ["Pottawattamies of Walpole Island", "13 65", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "33", "values": ["Six Nations of Grand River", "12,217 51", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "36", "values": ["Chippewas of Thessalon River", "75 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "50", "values": ["Algonquins of River Desert", "425 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "82", "values": ["Ojibbewas of Whitefish Lake", "378 35", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "246", "values": ["Ojibbewas of Sheguiandah", "321 75", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "247", "values": ["Ojibbewas of Sheshegwaning", "230 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "248", "values": ["Ojibbewas of South Bay", "200 00", null], "confidence": "high"}
+{"page": 503, "row_type": "row", "section": null, "label": "251", "values": ["Ojibbewas of West Bay", "375 00", null], "confidence": "high"}
+{"page": 503, "row_type": "total", "section": null, "label": null, "values": ["Total", "27,974 79", "3,105 00"], "confidence": "high"}
+{"page": 503, "row_type": "total", "section": null, "label": null, "values": [null, null, "31,079 79"], "confidence": "high"}

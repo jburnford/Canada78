@@ -1,0 +1,177 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+
+AGRICULTURAL and Industrial Statistics
+                                                                                                                                                                                                                                                                         Fish, Fur
+Province,        Resident
+                            Immovable Property, Land Cultivated,                                                                                                                                                                                                         and
+Agency, or       Indian                                            Personal Property                                                                                                  Grain and Roots Harvested
+                            and Fresh Land Ploughed                                                                                                                                                                                                                      Other
+Band             Population
+                                                                                                                                                                                                                                                                         Industries
+                                                            Land                                                                                                               Number
+                                                                                                                                  No. of
+                                                 Land       newly                               Fanning Threshing Mowing                                                       of                                              Other
+...              ...        Houses Barns Stables                   Ploughs Harrows Wagons Carts                           Reapers Other      Horses Cows Oxen Bulls Sheep Pigs        Wheat Oats    Pease Barley Corn Rye            Potatoes Turnips Beans Apples Hay   Value
+                                                 cultivated broken                              Mills   Machines Machines                                                      Young                                           Grain
+                                                          
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+  ...   ...   ...
+                  Child                     Gingras    Catholic
+                                                      Christian
+                  Turtle                    Alex F.
+Turtle Mountain               Birtle                  Endeavour     ...      ...          4     2    6     2     2    2    2     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                  Mountain                  Mackenzie
+                                                      Society
+                  Moose       Near          Mrs. W.R.
+White Cap Sioux                                       Methodist     300 00   Appropriation 8    7    15    11    2    3    6     3     1     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                  Woods       Saskatoon     Tucker
+                  James                     Minnie F.
+White Fish Lake               Saddle Lake               Methodist   300 00   Appropriation 8    10   18    8     8    2    4     2     2     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                  Seenum's                  Featherston
+White Whale                                 Wm.G.
+                  Paul's      Edmonton                 Methodist    300 00   Appropriation 19   16   35    14    33   2    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Lake                                        Blewett
+
+
+
+=== EXTRACT FROM HERE (pages 551-555) ===
+<!-- page 551 -->
+Table, see page 342
+
+<!-- page 552 -->
+                                               Yearly
+                                                                                   Total   Average
+                                               Salary From what        Number                                                                                General
+School      Agency     Teacher    Denomination                                     Number Daily       Classes of Study
+                                               or Grant Fund paid      on Roll                                                                               Remarks
+                                                                                   on Roll Attendance
+                                               Provided
+                                                                                                      Standard Standard Standard Standard Standard Standard
+...         ...        ...        ...          ...      ...            Boys Girls ...      ...                                                              ...
+                                                                                                      1        2        3        4        5        6
+
+OUTSIDE
+OF          ...        ...        ...          $ cts.   ...            ...   ...   ...     ...        ...      ...       ...     ...      ...       ...      ...
+TREATY
+LIMITS
+                                                                                                                                                             No
+                                                                                                                                                             returns
+Albany      ...        ...        Episcopal    200 00   Special grant ...    ...   ...     ...        ...      ...       ...     ...      ...       ...      have
+                                                                                                                                                             been
+                                                                                                                                                             received
+                                                                                                                                                             No
+            Peace                                                                                                                                            returns
+Christ                 Frank
+            River                 Episcopal    200 00   Special grant ...    ...   ...     ...        ...      ...       ...     ...      ...       ...      have
+Church                 Giles
+            District                                                                                                                                         been
+                                                                                                                                                             received
+                                                                                                                                                             No
+            Hudson                                                                                                                                           returns
+Fort                   J.
+            Bay                  Episcopal     200 00   Special grant 11     7     18      14         18       ...       ...     ...      ...       ...      have
+Churchill              Lofthouse
+            District                                                                                                                                         been
+                                                                                                                                                             received
+            Athabasca                                                                                                                                        No
+            and                                                                                                                                              returns
+Fort                  H.E.A.
+            Mackenzie          Episcopal       300 00   Appropriation 6      9     15      12         4        3         6       2        ...       ...      have
+Chippewayan           Thompson
+            River                                                                                                                                            been
+            District                                                                                                                                         received
+            Athabasca                                                                                                                                        No
+            and                                                                                                                                              returns
+Fort                  Grace
+            Mackenzie          Episcopal       200 00   Special grant 3      8     11      6          5        1         2       1        2         ...      have
+Resolution            Lawrence
+            River                                                                                                                                            been
+            District                                                                                                                                         received
+            East Main                                                                                                                                        No
+            coast,                                                                                                                                           returns
+                      Wm. E.
+Fort George Hudson             Episcopal       200 00   Special grant ...    ...   ...     ...        ...      ...       ...     ...      ...       ...      have
+                      Walton
+            Bay                                                                                                                                              been
+            District                                                                                                                                         received
+                                                                                                                                                             No
+                                                                                                                                                             returns
+Great Whale At Fort    Wm. E.
+                                  Episcopal    200 00   Special grant ...    ...   ...     ...        ...      ...       ...     ...      ...       ...      have
+River       George     Walton
+                                                                                                                                                             been
+                                                                                                                                                             received
+                                                                                                                                                             No
+                                                                                                                                                             returns
+Isle à la              Sister     Roman
+            ...                                300 00   Appropriation 6      9     15      14         4        4         3       4        ...       ...      have
+Crosse                 Langlier   Catholic
+                                                                                                                                                             been
+
+<!-- page 553 -->
+                                                                                                                                  received
+                                                                                                                                  No
+Lesser Slave Peace                                                                                                                returns
+                        Rev. Geo.
+Lake         River                Episcopal   1,000 00 Appropriation 12     10    22    16    12    6     2     1     ...   ...   have
+                        Holmes
+Boarding     District                                                                                                             been
+                                                                                                                                  received
+                                                                                                                                  No
+             Peace                                                                                                                returns
+Lesser Slave            Rev. A.   Roman
+             River                            300 00   Appropriation 11     6     17    15    10    4     3     ...   ...   ...   have
+Lake                    Desmarais Catholic
+             District                                                                                                             been
+                                                                                                                                  received
+                                                                                                                                  No
+                                                                                                                                  returns
+             James Bay
+Moose Fort             ...        Episcopal   200 00   Appropriation ...    ...   ...   ...   ...   ...   ...   ...   ...   ...   have
+             District
+                                                                                                                                  been
+                                                                                                                                  received
+                                                                                                                                  No
+                                                                                                                                  returns
+Rupert's
+             ...        ...       Episcopal   200 00   ...            ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   have
+House
+                                                                                                                                  been
+                                                                                                                                  received
+             Athabasca                                                                                                            No
+             and                                                                                                                  returns
+Nativity               Sister     Roman
+             Mackenzie                        200 00   Appropriation 6      8     14    14    4     ...   5     2     ...   3     have
+Mission                Martin     Catholic
+             River                                                                                                                been
+             District                                                                                                             received
+
+<!-- page 554 -->
+Table, see page 344
+
+<!-- page 555 -->
+SHOWING the Condition of the various Indian Schools
+
+SUMMARY OF STATEMENT No. 3
+ Provinces              Number of Schools Number of pupils on roll
+ Ontario                81                2,425
+ Quebec                 20                619
+ Nova Scotia            8                 146
+ New Brunswick          5                 102
+ Prince Edward Island 1                   31
+ British Columbia       29                1,029
+ Manitoba               54                1,612
+ North-west Territories 80                2,273
+ Outside Treaty Limits 13                 112
+Total                  291                8,349
+
+HAYTER REED,
+Deputy Supt. Gen. of Indian Affairs
+
+MARTIN BENSON,
+In charge of School Branch
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 30th June, 1895
+

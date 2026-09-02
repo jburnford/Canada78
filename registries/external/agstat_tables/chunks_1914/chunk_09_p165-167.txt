@@ -1,0 +1,69 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE NO. 6. - AGRICULTURAL IMPLEMENTS, VEHICLES, ETC.
+
+                                                                                                                                                                      Buggies
+                                                                       Reapers
+                                 Seed                 Land                      Horse Fanning Threshing Tool Other                         Sleighs, Sleighs, Democrat and
+Agency.        Ploughs. Harrows.         Cultivators.          Mowers. and                                                  Wagons. Carts.
+                                 Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Driving. Draught. Wagons. Road
+                                                                       Binders.
+                                                                                                                                                                      Carts.
+ALBERTA.       ...      ...      ...     ...          ...      ...     ...      ...    ...    ...       ...     ...         ...     ...    ...      ...      ...      ...
+Blackfoot      64       65       8       3            2        90      12       80     2      ...       3       280         200     ...    50       25       40       50
+Blood          75       10       25      ...          2        100     15       100    4      2         6       2,000       350     ...    2        1        100      15
+Edmonton       67       63       17      11           ...      56      19       54     5      2         7       239         84      ...    28       72       20       15
+Hobbema        91       44       3       6            ...      80      9        67     ...    ...       ...     910         126     ...    23       90       19       12
+Lesser Slave
+               8       4         ...   ...         ...     12       ...      10     ...     ...        2      53          20       ...    6       28       4         ...
+Lake
+Peigan      34         16        ...   ...         ...     32       1        31     ...     ...        6      800         60       ...    3       4        32        5
+Saddle Lake 62         36        1     ...         ...     53       7        51     ...     ...        ...    4           97       5      18      83       26        6
+Sarcee      21         12        2     2           1       26       2        15     1      
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+     53       20       59     10      4          ...    1,269       109      13     56      94       21        35
+Moose Mountain       42     10        6     1           1       26       7        19     2       1          2      300         40       ...    25      45       31        19
+Onion Lake           26     22        1     ...         ...     59       1        56     ...     ...        7      815         122      7      43      105      38        20
+Pelly                66     44        12    ...         ...     32       20       28     4       3          4      ...         55       ...    42      56       13        26
+Qu'Appelle           108    76        28    ...         1       54       27       46     11      ...        15     705         128      ...    83      104      49        63
+Touchwood Hills      111    56        26    46          ...     69       21       57     9       3          3      1,722       115      10     70      105      29        41
+Isle à la Crosse     ...    ...       ...   ...         ...     ...      ...      ...    ...     ...        ...    2           1        4      ...     2        ...       ...
+File Hills Agency    64     29        22    ...         ...     46       24       46     15      2          ...    725         64       16     50      61       14        40
+File Hills Colony    50     20        18    ...         ...     16       20       16     14      ...        ...    250         20       ...    15      30       5         12
+
+
+
+=== EXTRACT FROM HERE (pages 165-167) ===
+<!-- page 165 -->
+Moose Woods   8     2     1     1     ...   11    ...   9     ...   ...   6    50      14      ...   6     12    5     3
+Total         907   550   186   106   12    618   200   560   93    15    55   9,303   1,141   83    688   965   328   401
+
+<!-- page 166 -->
+RECAPITULATION.
+
+                                                                                                                                                                    Buggies
+                                                                     Reapers
+                               Seed                 Land                      Horse Fanning Threshing Tool Other                         Sleighs, Sleighs, Democrat and
+Agency.      Ploughs. Harrows.         Cultivators.          Mowers. and                                                  Wagons. Carts.
+                               Drills.              Rollers.                  Rakes. Mills. Machines. Chests. Implements.                Driving. Draught. Wagons. Road
+                                                                     Binders.
+                                                                                                                                                                    Carts.
+Alberta      464      260      57      22           5        494     65       483    12     4         24      4,566       1,002   5      175      325      332      126
+British
+             1,371   1,244     31    203         193     610      65       601    40      24         296    14,945      1,120    72     318     865      470       389
+Columbia
+Manitoba     354     196       59    9           1       239      83       196    19      4          28     4,690       393      34     268     414      132       249
+New
+             32      23        2     13          6       17       2        11     1       ...        19     1,490       37       ...    30      46       19        15
+Brunswick
+Nova Scotia 48       38        1     20          1       17       ...      9      ...     ...        94     909         55       30     37      61       1         15
+Ontario      1,528   1,228     274   682         221     625      305      571    405     33         345    19,255      905      119    891     1,022    447       956
+Prince
+Edward       8       8         ...   ...         5       1        ...      ...    1       1          ...    ...         2        5      3       10       ...       ...
+Island
+Quebec       520     438       74    123         27      233      37       247   32       37         101    1,782       272      178    483     468      33        448
+Saskatchewan 907     550       186   106         12      618      200      560   93       15         55     9,303       1,141    83     688     965      328       401
+Total        5,232   3,985     684   1,178       471     2,854    757      2,678 603      118        966    57,050      4,927    526    2,893   4,176    1,762     2,599
+
+<!-- page 167 -->

@@ -1,0 +1,63 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0304-tabular-statement-no-1	TABULAR STATEMENT No. 1	304	308
+01	p0309-tabular-statement-no-2	TABULAR STATEMENT No. 2	309	311
+02	p0311-tabular-statement-no-3	TABULAR STATEMENT No. 3	311	315
+03	p0311-tabular-statement-no-3	TABULAR STATEMENT No. 3	316	320
+04	p0311-tabular-statement-no-3	TABULAR STATEMENT No. 3	321	324
+05	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	324	328
+06	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	329	333
+07	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	334	338
+08	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	339	343
+09	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	344	348
+10	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	349	353
+11	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	354	358
+12	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	359	363
+13	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	364	368
+14	p0324-tabular-statement-no-3-manitob	TABULAR STATEMENT No. 3 — Manitoba	369	373
+15	p0392-return-b	RETURN B	392	396
+16	p0392-return-b	RETURN B	397	401
+17	p0392-return-b	RETURN B	402	406
+18	p0392-return-b	RETURN B	407	411
+19	p0392-return-b	RETURN B	412	416
+20	p0392-return-b	RETURN B	417	421
+21	p0392-return-b	RETURN B	422	426
+22	p0392-return-b	RETURN B	427	431
+23	p0392-return-b	RETURN B	432	436
+24	p0392-return-b	RETURN B	437	441
+25	p0392-return-b	RETURN B	442	446
+26	p0392-return-b	RETURN B	447	451
+27	p0452-return-b-cont	RETURN B (cont.)	452	456
+28	p0452-return-b-cont	RETURN B (cont.)	457	461
+29	p0452-return-b-cont	RETURN B (cont.)	462	466
+30	p0452-return-b-cont	RETURN B (cont.)	467	471
+31	p0452-return-b-cont	RETURN B (cont.)	472	476
+32	p0452-return-b-cont	RETURN B (cont.)	477	481
+33	p0452-return-b-cont	RETURN B (cont.)	482	486
+34	p0452-return-b-cont	RETURN B (cont.)	487	490
+35	p0490-return-c	RETURN C	490	494
+36	p0490-return-c	RETURN C	495	499
+37	p0490-return-c	RETURN C	500	504
+38	p0490-return-c	RETURN C	505	509
+39	p0490-return-c	RETURN C	510	514
+40	p0490-return-c	RETURN C	515	519
+41	p0490-return-c	RETURN C	520	524
+42	p0490-return-c	RETURN C	525	529
+43	p0490-return-c	RETURN C	530	534
+44	p0490-return-c	RETURN C	535	539
+45	p0490-return-c	RETURN C	540	544
+46	p0490-return-c	RETURN C	545	549
+47	p0550-return-c-cont	RETURN C (cont.)	550	554
+48	p0550-return-c-cont	RETURN C (cont.)	555	559
+49	p0550-return-c-cont	RETURN C (cont.)	560	564
+50	p0550-return-c-cont	RETURN C (cont.)	565	569
+51	p0550-return-c-cont	RETURN C (cont.)	570	574
+52	p0550-return-c-cont	RETURN C (cont.)	575	579
+53	p0550-return-c-cont	RETURN C (cont.)	580	584
+54	p0550-return-c-cont	RETURN C (cont.)	585	589
+55	p0550-return-c-cont	RETURN C (cont.)	590	594
+56	p0550-return-c-cont	RETURN C (cont.)	595	599
+57	p0550-return-c-cont	RETURN C (cont.)	600	604
+58	p0550-return-c-cont	RETURN C (cont.)	605	609
+59	p0610-return-c-cont	RETURN C (cont.)	610	614
+60	p0610-return-c-cont	RETURN C (cont.)	615	619
+61	p0610-return-c-cont	RETURN C (cont.)	620	624

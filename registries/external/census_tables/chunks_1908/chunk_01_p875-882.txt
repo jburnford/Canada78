@@ -1,0 +1,372 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+CENSUS RETURN.
+
+CENSUS RETURN of Resident and Nomadic Indians: Denominations to which they belong, with approximate number belonging to each Denomination, as well as the number of
+Pagans in the Dominion of Canada, by Provinces, for the year ended March 31, 1908.
+
+PROVINCE OF ONTARIO.
+                                                                                                                            FROM 6 TO FROM 16 TO FROM 21 TO FROM 65
+               Census                                                                                         UNDER 6
+Indians.               RELIGION                                                                                             15 YEARS   20 YRS.,   65 YRS.,  YEARS
+               Return.                                                                                        YEARS
+                                                                                                                            INCLUSIVE. INCLUSIVE. INCLUSIVE UPWARDS.
+                                                                                                Other
+                                                          Roman
+...            ...   Anglican. Presbyterian. Methodist.             Baptist. Congregationalist. Christian Pagan. Male. Female. Male. Female. Male. Female. Male. Female. Male. Female.
+                                                          Catholic.
+                                                                                                Beliefs.
+Algonquins,
+               107   ...       ...          ...           107      ...     ...               ...      ...     16    15      13    13       18    14      12     3       2     1
+Golden Lake
+Algonquins,
+Renfrew,     198     ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+North
+Chippewas of
+             475     *         1            253           ...      2       ...               ...      ...     36    44      35    43       15    19      138    140     2     3
+the Thames
+Chippewas of
+Walpole      573     219       ...          290           13       ...     ...               ...      ...     32    28      43    47       33    30      166    160     15    19
+Island
+Chippewas of
+             286     270       ...          233           ...      ...     ...               ...      ...     25    23      30    24       11    13      79     6
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+  272   280       49    58
+St. Regis
+Iroquois of
+Lake of Two 412        ...        ...          294         118       ...     ...                ...       ...     49    41       42     35      15     13       113   90        4     10
+Mountains
+Algonquins
+of Lake of
+            67         ...        ...          9           58        ...     ...                ...       ...     4     4        4      7       1      4        20    18        2     3
+Two
+Mountains
+Micmacs of
+               105     ...        ...          ...         105       ...     ...                ...       ...     14    12       13     12      5      6        19    20        2     2
+Maria
+Micmacs of
+               493     ...        ...          ...         493       ...     ...                ...       ...     50    51       46     47      27     23       107   108       16    18
+Restigouche
+Indians of
+Labrador
+               ...     ...        ...          ...         ...       ...     ...                ...       ...     ...   ...      ...    ...     ...    ...      ...   ...       ...   ...
+Peninsula,
+viz.: -
+Montagnais
+and
+              ...      ...        ...          ...         ...       ...     ...                ...       ...     ...   ...      ...    ...     ...    ...      ...   ...       ...   ...
+Naskapees at:
+-
+Bersimis       513     ...        ...          ...         513       ...     ...                ...       ...     66    73       50     50      32     35       104   90        6     7
+
+
+
+=== EXTRACT FROM HERE (pages 875-882) ===
+<!-- page 875 -->
+Escoumains      42     ...   ...   ...   42      ...   ...   ...   ...   4     3     6     8     ...   1     9     7       2     2
+Natashquan      *76    ...   ...   ...   76      ...   ...   ...   ...   10    9     6     12    9     4     12    12      ...   2
+Godbout         40     ...   ...   ...   40      ...   ...   ...   ...   (t)   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Grand
+                *176   ...   ...   ...   176     ...   ...   ...   ...   (t)   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Romaine
+Lake St. John 572      47    ...   ...   525     ...   ...   ...   ...   72    73    62    64    36    32    115   104     6     8
+Mingan        *241     ...   ...   ...   241     ...   ...   ...   ...   (t)   ...   ...   ...   ...   ...   ...   ...     ...   ...
+St. Augustine *181     ...   ...   ...   181     ...   ...   ...   ...   (t)   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Seven Island
+              *377     ...   ...   ...   377     ...   ...   ...   ...   (t)   ...   ...   ...   ...   ...   ...   ...     ...   ...
+and Moisie
+Têtes de
+Boule,
+Indians of St.
+               203     (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Maurice,
+County of
+Champlain
+Pontiac,
+               631     (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Unorganized
+Labelle and
+Wright         116     (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Counties
+Unorganized
+Territories of
+Three Rivers 360       (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+and St.
+Maurice
+Unorganized
+Territories of
+               1,253   (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Chicoutimi
+and Saguenay
+Quebec
+County at St.   346    (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Ambrose
+Quebec
+County at       9      (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Lorette
+Quebec
+County at       13     (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Unorganized
+Charlevoix
+County at St.   7      (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Urbain
+Charlevoix
+County at       6      (t)   ...   ...   ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...     ...   ...
+Point Au Pic
+Total           11,469 100   6     520   6,859   ...   ...   40    ...   857   824   758   710   461   458   1,562 1,527   158   195
+
+<!-- page 876 -->
+[*(Last year's figures). (t) No details. (tt) Adventists.]
+
+<!-- page 877 -->
+PROVINCE OF NEW BRUNSWICK
+                                                                                                                             FROM 6 TO FROM 16 TO FROM 21 TO FROM 65
+                Census                                                                                         UNDER 6
+Indians.                RELIGION                                                                                             15 YEARS   20 YRS.,   65 YRS.,  YEARS
+                Return.                                                                                        YEARS
+                                                                                                                             INCLUSIVE. INCLUSIVE. INCLUSIVE UPWARDS.
+                                                                                                 Other
+                                                           Roman
+...             ...   Anglican. Presbyterian. Methodist.             Baptist. Congregationalist. Christian Pagan. Male. Female. Male. Female. Male. Female. Male. Female. Male. Female.
+                                                           Catholic.
+                                                                                                 Beliefs.
+Micmacs of
+Kent County at: ...   ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+-
+Big Cove        308   ...       ...          ...           308      ...     ...               ...      ...     35    25      31    30       14    6       74     72      10    11
+Indian Island   35    ...       ...          ...           35       ...     ...               ...      ...     3     1       3     2        5     4       9      7       ...   1
+Buctouche       23    ...       ...          ...           23       ...     ...               ...      ...     1     1       2     2        2     1       7      5       ...   2
+Micmacs of
+Northumberland ...    ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+County at: -
+Burnt Church 216      ...       ...          ...           216      ...     ...               ...      ...     23    25      18    15       9     9       53     49      9     3
+Eel Ground      150   ...       ...          ...           150      ...     ...               ...      ...     4     15      14    19       10    10      42     30      4     2
+Red Bank        56    ...       ...          ...           56       ...     ...               ...      ...     6     5       3     2        -4    4       14     14      2     2
+Micmacs of
+Gloucester      ...   ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+County at: -
+Bathurst        34    ...       ...          ...           34       ...     ...               ...      ...     4     4       3     5        8     7       1      2       ...   ...
+Micmacs of
+Restigouche     ...   ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+County at: -
+Eel River       83    ...       ...          ...           83       ...     ...               ...      ...     13    14      7     10       ...   3       13     20      1     2
+Micmacs of
+Westmorland     ...   ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+County at: -
+Fort Folly
+(reserve) and   61    ...       ...          ...           61       ...     ...               ...      ...     5     5       6     6        3     2       16     15      1     2
+Vicinity
+Amalecites of
+York County at: ...   ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+-
+St. Mary's      131   ...       ...          ...           131      ...     ...               ...      ...     6     16      17    13       14    9       23     21      4     8
+Kingsclear      112   ...       ...          ...           112      ...     ...               ...      ...     13    15      15    10       4     2       23     18      5     7
+Amalecites of
+Carleton        ...   ...       ...          ...           ...      ...     ...               ...      ...     ...   ...     ...   ...      ...   ...     ...    ...     ...   ...
+County at: -
+Woodstock       66    ...       ...          ...           66       ...     ...               ...      ...     4     5       7     9        3     6       15     14      11    2
+Amalecites of
+                21    ...       ...          ...           21       ...     ...               ...      ...     3     2       1     3        4     1       3      3       1     ...
+St. John County
+Amalecites of
+
+<!-- page 878 -->
+Charlotte       47    ...   ...   ...   47    ...   ...   ...   ...   2     6     6     5     4     3     7     10    3     1
+County
+Amalecites of
+Kings County    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+at: -
+Apohaqui        12    ...   ...   ...   12    ...   ...   ...   ...   ...   1     1     2     1     2     2     3     ...   ...
+Amalecites of
+Sunbury         ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+County at: -
+Oromocto        73    ...   ...   ...   73    ...   ...   ...   ...   7     6     8     10    7     4     16    13    1     1
+
+<!-- page 879 -->
+                                                                                                                          FROM 6 TO FROM 16 TO FROM 21 TO FROM 65
+               Census                                                                                      UNDER 6
+Indians.               RELIGION                                                                                           15 YEARS   20 YRS.,   65 YRS.,  YEARS
+               Return.                                                                                     YEARS
+                                                                                                                          INCLUSIVE. INCLUSIVE. INCLUSIVE UPWARDS.
+                                                                                              Other
+                                                        Roman
+...            ...   Anglican. Presbyterian. Methodist.           Baptist. Congregationalist. Christian Pagan. Male. Female. Male. Female. Male. Female. Male. Female. Male. Female.
+                                                        Catholic.
+                                                                                              Beliefs.
+Amalecites of
+Queen's        ...   ... ...                ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Upper and
+Lower          35    ... ...                ...        35       ...     ...               ...       ...    2     4        5     6       5      2       6     4        1     ...
+Gagetown
+Amalecites of
+Victoria       ...   ... ...                ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Tobique        198   ... ...                ...        198      ...     ...               ...       ...    14    18       17    16      5      6       60    54       6     2
+Amalecites of
+Madawaska      ...   ... ...                ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Edmundston 50        ... ...                ...        50       ...     ...               ...       ...    3     3        4     10      2      5       9     8        5     1
+Indians of
+Nova Scotia at
+King's,
+St.John,
+               150   ... ...                ...        150      ...     ...               ...       ...    12    10       14    15      9      10      35    32       5     8
+Charlotte,
+York and
+Queen's
+Counties
+Total          1,861 ... ...                ...        1,861    ...     ...               ...       ...    160   181      182   193     105    ...     435   399      60    57
+PROVINCE OF NOVA SCOTIA.
+Micmacs of
+Yarmouth       ...   ... ...                ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Yarmouth
+               80    ... ...                ...        80       ...     ...               ...       ...    2     5        10    6       10     10      17    14       3     3
+(reserve)
+Micmacs of
+Shelburne      ...   ...       ...          ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Sable River    14    ...       ...          ...        14       ...     ...               ...       ...    2     3        4     6       4      2       13    8        1     ...
+Shelburne
+               15    ...       ...          ...        15       ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+River
+Clyde River    1     ...       ...          ...        1        ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Barrington
+               13    ...       ...          ...        13       ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+River
+Micmacs of
+Richmond       ...   ...       ...          ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+
+<!-- page 880 -->
+Chapel Island
+              113    ...   ...   ...   113   ...   ...   ...   ...   10    9     16    12    7     7     22    21    5     4
+(reserve)
+Micmacs of
+Colchester     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+County at: -
+Millbrook
+               104   ...   ...   ...   104   ...   ...   ...   ...   4     4     15    10    4     5     27    25    6     4
+(reserve)
+Micmacs of
+Hants County ...     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+at: -
+Indian Brook
+             100     ...   ...   ...   100   ...   ...   ...   ...   8     9     11    12    3     5     22    19    5     6
+(reserve)
+Micmacs of
+Antigonish     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+County at: -
+Summerside     21    ...   ...   ...   21    ...   ...   ...   ...   18    13    24    22    25    20    45    40    5     4
+Afton
+               84    ...   ...   ...   84    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+(reserve)
+Pomquet
+               61    ...   ...   ...   61    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+(reserve)
+Micmacs of
+Guysborough ...      ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+County at: -
+Guysborough 50       ...   ...   ...   50    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Micmacs of
+Halifax       ...    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+County at: -
+Sheet Harbour
+and           47     ...   ...   ...   47    ...   ...   ...   ...   8     5     6     6     2     4     6     9     ...   1
+Musquodoboit
+Elmsdale      69     ...   ...   ...   69    ...   ...   ...   ...   6     5     5     4     1     2     22    18    4     2
+Enfield       44     ...   ...   ...   44    ...   ...   ...   ...   4     4     3     1     4     3     10    11    2     2
+Wellington    19     ...   ...   ...   19    ...   ...   ...   ...   1     2     ...   2     2     4     4     3     1     ...
+Fall River    19     ...   ...   ...   19    ...   ...   ...   ...   3     ...   2     2     1     1     6     3     1     ...
+Dartmouth     35     ...   ...   ...   35    ...   ...   ...   ...   3     4     4     2     2     ...   8     7     3     2
+Bedford       16     ...   ...   ...   16    ...   ...   ...   ...   ...   ...   ...   ...   1     2     5     7     1     ...
+Micmacs of
+Annapolis     ...    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+County at: -
+Lequille      25     ...   ...   ...   25    ...   ...   ...   ...   11    7     8     6     4     3     16    7     3     4
+Middleton     22     ...   ...   ...   22    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Lawrencetown 10      ...   ...   ...   10    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Milford       6      ...   ...   ...   6     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Stragglers    6      ...   ...   ...   6     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+
+<!-- page 881 -->
+                                                                                                                          FROM 6 TO FROM 16 TO FROM 21 TO FROM 65
+               Census                                                                                      UNDER 6
+Indians.               RELIGION                                                                                           15 YEARS   20 YRS.,   65 YRS.,  YEARS
+               Return.                                                                                     YEARS
+                                                                                                                          INCLUSIVE. INCLUSIVE. INCLUSIVE UPWARDS.
+                                                                                              Other
+                                                        Roman
+...            ...   Anglican. Presbyterian. Methodist.           Baptist. Congregationalist. Christian Pagan. Male. Female. Male. Female. Male. Female. Male. Female. Male. Female.
+                                                        Catholic.
+                                                                                              Beliefs.
+Micmacs of
+Kings        ...     ...       ...          ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Cambridge
+             13      ...       ...          ...        13       ...     ...               ...       ...    9     7        6     8       5      7       15    13       3     3
+(reserve)
+Berwick        10    ...       ...          ...        10       ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Aylesford      5     ...       ...          ...        5        ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Blue
+               8     ...       ...          ...        8        ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Mountain
+Brooklyn
+               14    ...       ...          ...        14       ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Corner
+Louisville     10    ...       ...          ...        10       ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Wolfville      6     ...       ...          ...        6        ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Bishopville    10    ...       ...          ...        10       ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+Micmacs of
+Cumberland     ...   ...       ...          ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Franklin
+Manor
+               59    ...       ...          ...        59       ...     ...               ...       ...    4     4        5     3       9      9       10    11       2     2
+(reserve)
+Vicinity
+Southampton 12       ...       ...          ...        12       ...     ...               ...       ...    3     2        1     ...     ...    1       2     3        ...   ...
+River
+            15       ...       ...          ...        15       ...     ...               ...       ...    2     3        1     1       1      1       3     2        1     ...
+Hebert.
+Springhill
+               9     ...       ...          ...        9        ...     ...               ...       ...    2     1        1     ...     ...    ...     1     2        2     ...
+Junction
+Amherst        7     ...       ...          ...        7        ...     ...               ...       ...    1     1        1     ...     1      ...     1     1        1     ...
+Micmacs of
+Cape Breton    ...   ...       ...          ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+Cariboo
+Marsh          90    ...       ...          ...        90       ...     ...               ...       ...    13    7        16    8       5      3       17    20       1     ...
+(reserve)
+North
+               48    ...       ...          ...        48       ...     ...               ...       ...    5     4        8     7       1      2       8     11       1     1
+Sydney
+Eskasoni       122   ...       ...          ...        122      ...     ...               ...       ...    10    10       11    8       20     13      18    27       1     4
+Micmacs of
+Lunenburg      ...   ...       ...          ...        ...      ...     ...               ...       ...    ...   ...      ...   ...     ...    ...     ...   ...      ...   ...
+County at: -
+New
+
+<!-- page 882 -->
+Germany     64       ...   ...   ...   64    ...   ...   ...   ...   6     5     5     6     6     5     13    14    1     3
+(reserve)
+Bridgewater 10       ...   ...   ...   10    ...   ...   ...   ...   ...   1     2     1     ...   ...   1     1     2     2
+Lunenburg
+            7        ...   ...   ...   7     ...   ...   ...   ...   ...   ...   1     ...   ...   1     1     2     1     1
+Town
+Gold River
+               5     ...   ...   ...   5     ...   ...   ...   ...   ...   ...   ...   1     ...   ...   2     2     ...   ...
+(reserve)
+Micmacs of
+Queen's        ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+County at: -
+Milton         54    ...   ...   ...   54    ...   ...   ...   ...   2     1     8     8     7     6     9     8     2     3
+Mill Village   12    ...   ...   ...   12    ...   ...   ...   ...   2     1     ...   1     1     1     3     3     ...   ...
+Wild Cat
+               8     ...   ...   ...   8     ...   ...   ...   ...   2     2     ...   ...   ...   1     1     1     ...   1
+(reserve)
+Caledonia      9     ...   ...   ...   9     ...   ...   ...   ...   ...   1     2     1     ...   1     1     2     1     ...
+

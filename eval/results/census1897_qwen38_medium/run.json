@@ -1,0 +1,50 @@
+{
+ "02": {
+  "seconds": 1716.8,
+  "pages": "614\u2013621",
+  "windows": [
+   {
+    "window": [
+     614,
+     621
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 19546
+   },
+   {
+    "window": [
+     614,
+     621
+    ],
+    "rows": 186,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 932.9,
+    "finish_reason": "stop",
+    "completion_tokens": 23192
+   }
+  ],
+  "rows": 186,
+  "complete": true
+ },
+ "00": {
+  "seconds": 711.9,
+  "pages": "598\u2013605",
+  "windows": [
+   {
+    "window": [
+     598,
+     605
+    ],
+    "rows": 128,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 711.9,
+    "finish_reason": "stop",
+    "completion_tokens": 15810
+   }
+  ],
+  "rows": 9,
+  "complete": true
+ }
+}

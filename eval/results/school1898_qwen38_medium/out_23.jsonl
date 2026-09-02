@@ -1,0 +1,6 @@
+{"row_type": "headers", "columns": ["Annual Salary"]}
+{"page": 898, "row_type": "school", "province": "QUEBEC", "school_type": null, "school": null, "reserve": "Abenakis of St. Francis.", "agency": "Pierreville", "teacher": "De Gonzaque, (R.C.) Missionary", "denomination": null, "values": ["235 00"], "confidence": "high"}
+{"page": 898, "row_type": "school", "province": "QUEBEC", "school_type": null, "school": null, "reserve": "Hurons of Lorette.", "agency": "Lorette", "teacher": "Rev. Jos. Giroux, Missionary", "denomination": null, "values": ["225 96"], "confidence": "high"}
+{"page": 898, "row_type": "school", "province": "QUEBEC", "school_type": null, "school": null, "reserve": "Iroquois of St. Regis.", "agency": "St. Regis", "teacher": "Rev. G. Mainville, Missionary", "denomination": null, "values": ["303 32"], "confidence": "high"}
+{"page": 898, "row_type": "note", "province": "QUEBEC", "school_type": null, "school": null, "reserve": null, "agency": null, "teacher": "Also $25 for fuel", "denomination": null, "values": [null], "confidence": "medium"}
+{"page": 898, "row_type": "school", "province": "QUEBEC", "school_type": null, "school": null, "reserve": null, "agency": null, "teacher": "Rev. M.", "denomination": null, "values": [null], "confidence": "low"}

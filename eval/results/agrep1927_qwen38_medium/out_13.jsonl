@@ -1,0 +1,94 @@
+{"row_type": "headers", "title": "", "columns": ["Grant", "Expenditure", "Grant Not Used", "Grant Exceeded"]}
+{"page": 160, "row_type": "row", "section": null, "label": "Salaries and Wages", "values": ["119,707 65", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "row", "section": null, "label": "Travelling Expenses", "values": ["19,520 45", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "row", "section": null, "label": "Materials, Supplies, Repairs, etc", "values": ["21,531 18", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "row", "section": null, "label": "Autos and Auto Repairs, etc", "values": ["9,729 31", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "row", "section": null, "label": "Miscellaneous", "values": ["127,504 95", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "row", "section": null, "label": "Grants", "values": ["3,600 00", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "row", "section": null, "label": "Other Outlay, Relief, etc", "values": ["48,257 27", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "total", "section": null, "label": "...", "values": ["$349,850 81", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "note", "section": "Vote - Crédit 274 - Yukon", "label": "Yukon Agency", "values": ["16,006 41", null, null, null], "confidence": "medium"}
+{"page": 160, "row_type": "row", "section": "RECAPITULATION UNDER DEPARTMENTAL HEADINGS", "label": "Relief, medical attendance and medicines", "values": ["12,598 36", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "row", "section": "RECAPITULATION UNDER DEPARTMENTAL HEADINGS", "label": "General expenses", "values": ["3,408 05", null, null, null], "confidence": "low"}
+{"page": 160, "row_type": "total", "section": "RECAPITULATION UNDER DEPARTMENTAL HEADINGS", "label": "...", "values": ["$16,006 41", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Aklavik, $24.56; Albany, $4,868.23; Amadjuak, $351.11", "values": ["5,243 90", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Attawapiskat, $4,736.09; Bernard Harbour, $94.14", "values": ["4,830 23", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Cambridge Bay, $206.60; Cat Lake, $501.85; Chesterfield, $516.49", "values": ["1,224 94", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Clyde River, $211.48: Coronation Gulf, $287.25; Davis Inlet, $133.05", "values": ["631 78", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Dorset, $130.45; Eastmain, $2,899.15; English River, $786.75", "values": ["3,816 35", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Eskimo Point, $27.32; Fort Chimo, $3,855.24; Fort George,$4,790.19", "values": ["8,672 75", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Fort Hope, $1,555.85; Fort MacKenzie, $1,122.17; Frobisher Bay, $339.15", "values": ["3,017 17", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Georges River, $263.26; Ghost River, $245.37; Gogama, $35.30", "values": ["543 93", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Great Whale River, $7,213.43; Island Falls Junction, $13.12", "values": ["7,226 55", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Kapiska, $321.96; Lake Harbour, $457.12; Lake Savant, $5,808.01", "values": ["6,587 09", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Leaf River, $698.80; Manowan, $1,376.30; Mistassini, $2,318.80", "values": ["4,393 90", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Moose Factory, $5,298.32; Nemtska, $1,459.62; Neoskweskan, $532.75", "values": ["7,290 69", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "North West River, $410.25; Obijuan, $657.75; Ogoki, $1,439.16", "values": ["2,507 16", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Opinaga, $778.48; Osnaburgh, $10.175.05; Pangrirtung, $1.312.23", "values": ["12,265 76", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Payne Bay, $103.69; Pond's Inlet, $617.83; Port Burwell, $313.23", "values": ["1,034 75", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Port Harrison, $4,108.07; Richmond Gulf, $1,465.41; Romaine, $67.35", "values": ["5,640 83", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Rupert's House, $4,753.64; Seseginchgak, $496.70; Severn, $415.06", "values": ["5,665 40", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Southampton Island, $46.60; Stupart's, Bay, $813.75; Sugluk, $177", "values": ["1,037 35", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Tree River, $188.87; Trout Lake, $3,988.65; Weymont, $20.55", "values": ["4,198 07", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Whale River, $80.84; Wolstenholme, $1,634.65; Woswonaby, $850.84", "values": ["2,566 33", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Albany, $1,673.52; Attawapiskat, $3,901.85; Baker Lake, $653.18", "values": ["6,228 55", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Eastmain, $1,273.87; English River, $3,598.29; Fort Chimo, $1,272.96", "values": ["6,145 12", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Fort George, $4,943.03; Fort Hope, $1,751.07; Ghost River, $246.10", "values": ["6,940 20", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Grand Lake, $638.99; Great Whale River, $3,157.38; Kapiska, $806.34", "values": ["4,602 71", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Kitchie Mattawa, $905; Leaf River, $797.72; Moose River, $1,840.14", "values": ["3,542 86", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Negatosaki, $451.47; Nemiskan, $823.93; Ogoki, $13.20", "values": ["1,288 60", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Pagwa, $361.01; Port Harrison, $1,982.44; Richmond Gulf, $1,056.63", "values": ["3,400 08", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Rupert, $3,261.86; Winisk, $1,290.85", "values": ["4,552 71", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Attawapiskat, $76; Baffin Land, $1,326.02", "values": ["1,402 02", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Bernard Harbour, $55.25; Chesterfield, $1,335.50; Clute, $113.60", "values": ["1,504 35", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Coronation Gulf, $60: Gaspé, $809.13; Great Whale River, $94.76", "values": ["963 89", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Moose Factory, $85; Pagwa, $10.72; Pangnirtung, $1.719.35", "values": ["1,815 07", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Pond's Inlet, $1,025.53; Port Burwell, $492.10: Tessingaksoak, $387.40", "values": ["1,905 03", null, null, null], "confidence": "low"}
+{"page": 161, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Timmins, $20; Tree River, $68.45", "values": ["88 55", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Dr. L.D. Livingston, services to Eskimos in Baffin Land", "values": ["1,400 00", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Hospitals, $546.85; medical supplies, $737.18: relief, $195.70", "values": ["1,479 73", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Freight, cartage, packing supplies, etc.", "values": ["1,269 93", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "RELIEF TO DESTITUTE INDIANS AND ESKIMOS IN REMOTE DISTRICTS", "label": "Travel of Indians, $296.81; sundries, $240.42", "values": ["537 23", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "Nova Scotia", "values": ["25,159 76", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "New Brunswick", "values": ["7,871 55", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "Prince Edward Island", "values": ["91 40", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "Quebec", "values": ["601 50", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "Ontario", "values": ["22,547 12", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "Manitoba", "values": ["460 25", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "Saskatchewan", "values": ["8,838 30", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "Alberta", "values": ["10 45", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "row", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "British Columbia", "values": ["3,176 62", null, null, null], "confidence": "low"}
+{"page": 162, "row_type": "total", "section": "PREVENTION OF THE SPREAD OF TUBERCULOSIS", "label": "...", "values": ["68,756 95", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "Nova Scotia", "values": ["37 07", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "New Brunswick", "values": ["240 00", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "Quebec", "values": ["154 57", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "Ontario", "values": ["1,796 51", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "Manitoba", "values": ["315 95", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "Saskatchewan", "values": ["290 50", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "Alberta", "values": ["115 50", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "British Columbia", "values": ["2,387 90", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "total", "section": "EPIDEMIC OF SMALLPOX AND OTHER DISEASES", "label": "...", "values": ["5,338 00", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Bain, Bicknell, White & Gordon, Toronto, Ont.", "values": ["144 71", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Banks & Stewart, Kamsack, Sask.", "values": ["77 79", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Bowman, J.L., Winnipeg, Man.", "values": ["307 71", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Chisholm, A.G., London, Ont., including balance of advance to be accounted for, $178.03", "values": ["1,367 81", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Dickson, N., Montreal, $20; Ellis, J.N., Vancouver, $985.47", "values": ["1,005 47", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Fisher, W.E., Prince Rupert, $17.15; Hewitt, H.S., $46", "values": ["63 15", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Johnson, E.H.C., Brantford, $10.25; Jones, E.F., Prince Rupert, $87", "values": ["97 25", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Kerr & Parker, Kamloops, B.C.", "values": ["23 80", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Killam, G.T., Yorkton, Sask.", "values": ["14 88", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Matthews, M.L., Newmarket, Ont.", "values": ["397 80", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "MacKenzie, C., Sydney, N.S.", "values": ["75 00", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "McCarthy, W.C., Ottawa, Ont., including $1,003.68 of 1925 - 26", "values": ["2,003 68", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "McEwen, M.W., Brantford, Ont.", "values": ["131 33", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "McNeice, J.J., Foam Lake, Sask.", "values": ["58 00", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Moss, W. Glencoe, Ont.", "values": ["5 00", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Murphy, Gunn & Murphy, London, Ont.", "values": ["56 41", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Patmore & Fulton, Prince Rupert, B.C.", "values": ["200 00", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Phelps, W.L., Whitehorse, Y.T.", "values": ["235 00", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Robinson, J.C., Toronto, $1,347.98: Sinclair, R.V., Ottawa, $26.33", "values": ["1,374 31", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "White, James, Ottawa, Ont.", "values": ["372 98", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Williams, F.E. Thessalon, Ont.", "values": ["422 80", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Woods H.S., Vancouver, B.C.", "values": ["147 25", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Stenographers and witness fees", "values": ["218 98", null, null, null], "confidence": "low"}
+{"page": 163, "row_type": "row", "section": "GENERAL LEGAL EXPENSES", "label": "Legal publications and prints", "values": ["44 15", null, null, null], "confidence": "low"}

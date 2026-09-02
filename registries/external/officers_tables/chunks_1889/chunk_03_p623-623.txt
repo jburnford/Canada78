@@ -1,0 +1,110 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+NOVA SCOTIA.
+                           Annual Where
+Names.       Office.                               Remarks.
+                           Salary. Stationed.
+...          ...           $ cts.    ...           ...
+G. Wells     Agent         50 00     Annapolis     District No. 1 'a', for Counties of Annapolis and Shelburne.
+F.
+          Agent            50 00     Bear River    District No. 1 'b', for Digby.
+McDormand
+C.E.
+             Agent         25 00     Canning       District No. 2, for King County.
+Beckwith
+Rev. Thos. J.
+              Agent        75 00     Caledonia     District No. 3, for Queen's County.
+Butler
+...          ...           ...       ...           District No. 4, for County Lunenburg.
+Rev. A.P.
+             Agent         33 33     Bedford       District No. 5, for County Halifax.
+Desmond
+James Gass   Agent         16 66     Shubenacadie District No. 6, 'a', for County Hants.
+Dr. D.H.
+             Agent         16 66     Truro         District No. 6, 'b', for County Colchester.
+Muir
+Dr. A.T.
+             Agent         33 33     Parrsboro'    District No. 7, for County Cumberland.
+Clarke
+Rev. R.
+             Agent         100 00    Pictou        District No. 8, for County Pictou.
+McDonald
+W.C.
+             Agent         100 00    Antigonish    District No. 9, for County Antigonish and Guysboro'.
+Chisholm
+Rev. J.
+             Agent         100 00    Red Island    District No. 10, for County Richmond, C.B.
+McDougall
+Rev. D.                              River
+             Agent         50 00                   District No. 11, for County Inverness.
+McIsaac                              Inhabitants
+Rev. R.                              Grand
+             Agent         50 00                   District No. 12, for County Victoria.
+Grant                                Narrows
+Rev. A.                              Christmas
+             Agent         100 00                  District No. 13, for County Cape Breton.
+Cameron                              Island
+G.R. Smith   Agent         25 00     Yarmouth      District No. 14, for County Yarmouth.
+M.A.
+             Medical
+McDonald,                  100 00    Sydney        District No. 13, for County Cape Breton.
+             Officer
+M.D.
+J. McMillan, Medical
+                           42 00     Pictou        District No. 8, for Indians and Pictou and vicinity.
+M.D.         Officer
+
+
+=== EXTRACT FROM HERE (pages 623-623) ===
+NOVA SCOTIA.
+                           Annual Where
+Names.       Office.                               Remarks.
+                           Salary. Stationed.
+...          ...           $ cts.    ...           ...
+G. Wells     Agent         50 00     Annapolis     District No. 1 'a', for Counties of Annapolis and Shelburne.
+F.
+          Agent            50 00     Bear River    District No. 1 'b', for Digby.
+McDormand
+C.E.
+             Agent         25 00     Canning       District No. 2, for King County.
+Beckwith
+Rev. Thos. J.
+              Agent        75 00     Caledonia     District No. 3, for Queen's County.
+Butler
+...          ...           ...       ...           District No. 4, for County Lunenburg.
+Rev. A.P.
+             Agent         33 33     Bedford       District No. 5, for County Halifax.
+Desmond
+James Gass   Agent         16 66     Shubenacadie District No. 6, 'a', for County Hants.
+Dr. D.H.
+             Agent         16 66     Truro         District No. 6, 'b', for County Colchester.
+Muir
+Dr. A.T.
+             Agent         33 33     Parrsboro'    District No. 7, for County Cumberland.
+Clarke
+Rev. R.
+             Agent         100 00    Pictou        District No. 8, for County Pictou.
+McDonald
+W.C.
+             Agent         100 00    Antigonish    District No. 9, for County Antigonish and Guysboro'.
+Chisholm
+Rev. J.
+             Agent         100 00    Red Island    District No. 10, for County Richmond, C.B.
+McDougall
+Rev. D.                              River
+             Agent         50 00                   District No. 11, for County Inverness.
+McIsaac                              Inhabitants
+Rev. R.                              Grand
+             Agent         50 00                   District No. 12, for County Victoria.
+Grant                                Narrows
+Rev. A.                              Christmas
+             Agent         100 00                  District No. 13, for County Cape Breton.
+Cameron                              Island
+G.R. Smith   Agent         25 00     Yarmouth      District No. 14, for County Yarmouth.
+M.A.
+             Medical
+McDonald,                  100 00    Sydney        District No. 13, for County Cape Breton.
+             Officer
+M.D.
+J. McMillan, Medical
+                           42 00     Pictou        District No. 8, for Indians and Pictou and vicinity.
+M.D.         Officer

@@ -1,0 +1,303 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+<!-- page 882 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+REALTY OF INDIANS.
+Agency      LAND.                    PUBLIC BUILDINGS, PROPERTY OF THE BAND.             PRIVATE FENCING AND BUILDINGS.
+                Cleared, Cultivated,
+                including including             Council School Driving Other               Acres Dwellings, Dwellings, Dwellings, Dwellings,
+...                                   Churches.                                   Ferries.
+                natural    made                 Houses. Houses. Sheds. Buildings.          Fenced. Stone.   Brick.     Frame      Log.
+                pasturage. pasturage.
+ONTARIO.        Acres.    Acres.     ...       ...     ...     ...     ...       ...     ...     ...        ...        ...        ...
+Grand River
+Superintendency 23,974    10,722     14        1       11      9       1         ...     42,696 1           16         208        370
+- Six Nations
+Parry Sound
+                1,260     ...        6         1       5       1       7         ...     1,260   ...        ...        23         90
+Superintendency
+New Credit
+(Mississaguas) 1,900      3,750      2         1       1       2       3         ...     5,700   ...        3          47         16
+Agency
+Walpole Island
+               9,180      1,730      2         1       3       2       2         4       3,071   ...        ...        86         77
+Agency
+Sarnia Agency 2,259       1,563      4         2       3       2       1         ...     5,435 ...          3          121        15
+Caradoc Agency 4,334      10,637     ...       3       6       1       13        ...     14,314 ...         6          148        147
+Moravian
+               1,194      966        ...       1       1       ...     ...       ...     2,240   ...        1          28         61
+Agency
+Manitowaning
+                1,502     3,724      7         3       9       2       ...       ...     2,275   ...        ...        29         280
+Agency
+Gore Bay
+                ...       ...        ...       ...     ...     ...     ...       ...     ...     ...        ...        ...        ...
+Agency
+Thessalon
+                350       269        3         ...     5       ...     ...       ...     269     ...        ...        28         66
+Agency
+Sault Ste. Marie
+                 1,566    7,764      6         1       2       ...     1         ...     2,497   ...        ...        37         123
+Agency
+Port Arthur
+                .
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+0       500   750     ...     10       10       8
+Agency
+Viger Agency ...       ...       ...     ...       ...         ...   ...     ...     ...      ...      ...
+St. Francis
+             ...       ...       ...     ...       150         ...   ...     7       ...      3        5
+Agency
+Lake St. John
+                4      75        ...     ...       140         ...   75      11      3        7        5
+Agency
+Maria Agency 1         30        ...     ...       25          ...   15      ...     ...      ...      ...
+Restigouche
+             3         168       ...     ...       356         24    290     6       4        4        4
+Agency
+River Desert
+                10     3,500     3       75        125         10    140     7       45       7        7
+Agency
+Jeune Lorette
+                1      72        4       300       140         120   120     ...     ...      ...      ...
+Agency
+Becancour
+                ...    ...       ...     ...       ...         ...   ...     ...     ...      ...      ...
+Agency
+Timiskaming
+                ...    ...       ...     ...       52          ...   25      4       4        6        ...
+Agency
+Bersimis
+                ...    ...       ...     ...       10          15    ...     ...     ...      ...      ...
+Agency
+Mingan
+                ...    ...       ...     ...       ...         ...   ...     ...     ...      ...      ...
+Agency
+Total           35     4,995     16      1,325     5,799       709   1,738   87      113      47       109
+
+
+
+=== EXTRACT FROM HERE (pages 906-910) ===
+<!-- page 906 -->
+PROGRESS DURING THE FISCAL YEAR ENDED JUNE 30, 1904.
+ Agency.   BUILDINGS ERECTED.
+                  Dwellings, Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle Pig Store
+...                                                           Shanties. Barns.
+                  Stone.     Brick.     Frame.     Log.                        Stables. Houses. Stables. Sties. Houses.
+ONTARIO.        ...          ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Grand River
+Superintendency ...          ...        2          ...         ...      21     ...      ...     ...      ...   ...
+- Six Nations
+Parry Sound
+                ...          ...        ...        2           ...      ...    1        ...     ...      ...   ...
+Superintendency
+New Credit
+(Mississaguas) ...           ...        1          ...         ...      1      ...      ...     ...      ...   1
+Agency
+Walpole Island
+               ...           ...        ...        1           ...      ...    ...      ...     ...      ...   ...
+Agency
+Sarnia Agency ...            ...        2          ...         ...      ...    ...      ...     ...      ...   ...
+Caradoc Agency 1             ...        2          ...         ...      ...    ...      ...     ...      ...   ...
+Moravian
+               ...           ...        ...        2           ...      ...    2        ...     3        ...   ...
+Agency
+Manitowaning
+                  ...        ...        ...        1           2        ...    ...      ...     ...      ...   ...
+Agency
+Gore Bay
+                  ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Thessalon
+                  ...        ...        ...        ...         ...      1      1        ...     ...      ...   ...
+Agency
+Sault Ste. Marie
+                 ...         ...        2          6           4        5      3        1       4        3     1
+Agency
+Port Arthur
+                  ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Golden Lake
+                  ...        ...        ...        1           ...      ...    ...      ...     ...      ...   ...
+Agency
+Tyendinaga
+                  ...        ...        2          ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Lake Simcoe
+                  ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Cape Croker
+                  1          ...        1          2           ...      2      2        ...     3        2     ...
+Agency
+Saugeen
+                  ...        ...        ...        3           ...      ...    2        ...     ...      ...   ...
+Agency
+Alnwick
+                  ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Mud Lake
+                  ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Rice Lake
+                  ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+
+<!-- page 907 -->
+Rama Agency ...         ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Christian Island
+                 ...    ...   1     2     ...   2     2     2     5     5     ...
+Agency
+Scugog Agency ...       ...   1     ...   ...   ...   ...   ...   ...   ...   ...
+Indians of
+Christian Island
+band residing on ...    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Manitoulin
+Island
+Rat Portage
+                 ...    ...   ...   7     ...   ...   ...   ...   ...   ...   ...
+Agency
+Fort Frances
+                  ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Agency
+
+<!-- page 908 -->
+Agency.        BUILDINGS ERECTED.
+               Dwellings, Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle Pig Store
+...                                                        Shanties. Barns.
+               Stone.     Brick.     Frame.     Log.                        Stables. Houses. Stables. Sties. Houses.
+Savanne
+               ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Sturgeon
+             ...          ...        3          3           2        ...    ...      ...     ...      ...   ...
+Falls Agency
+Total       2             ...        17         30          8        32     13       3       15       10    2
+QUEBEC.     ...           ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Lake of Two
+Mountains   ...           ...        1          1           ...      1      2        4       3        1     2
+Agency
+Caughnawaga
+            ...           ...        12         1           1        2      2        ...     ...      ...   ...
+Agency
+St. Regis
+               ...        ...        4          ...         ...      3      ...      ...     ...      1     ...
+Agency
+Viger Agency ...          ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+St. Francis
+             ...          ...        1          ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Lake St. John
+              ...         ...        3          ...         ...      2      1        ...     ...      4     ...
+Agency
+Maria
+               ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Restigouche
+               ...        ...        2          ...         ...      1      1        ...     1        ...   ...
+Agency
+River Desert
+             ...          ...        ...        1           ...      ...    ...      ...     ...      ...   ...
+Agency
+Jeune Lorette
+              ...         ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Becancour
+               ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Timiskaming
+            ...           ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Bersimis
+               ...        ...        1          ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Mingan
+               ...        ...        ...        ...         ...      ...    ...      ...     ...      ...   ...
+Agency
+Total          ...        ...        24         3           1        9      6        4       4        6     2
+
+<!-- page 909 -->
+                               BUILDINGS
+Agency.                                               INCREASE IN VALUE.
+                               ERECTED.
+                                                      Value of Clearing,              Increased value of
+                               Root    Milk    Corn                        Value of
+...                                                   Cultivating and                 Agricultural Products and
+                               Houses. Houses. Cribs.                      Buildings.
+                                                      Fencing.                        Industries.
+ONTARIO.                      ...      ...     ...    $ cts.               $ cts.     $ cts.
+Grand River Superintendency -
+                              ...      ...     ...    ...                  7,000 00   7,000 00
+Six Nations
+Parry Sound Superintendency    ...     ...     ...    150 00               100 00     250 00
+New Credit (Mississaguas)
+                               ...     ...     ...    200 00               550 00     750 00
+Agency
+Walpole Island Agency          ...     ...     ...    ...                  100 00     100 00
+Sarnia Agency                  ...     ...     ...    20 00                350 00     370 00
+Caradoc Agency                 ...     ...     ...    1,281 00             800 00     2,081 00
+Moravian Agency                ...     ...     ...    150 00               700 00     850 00
+Manitowaning Agency            ...     ...     ...    75 00                250 00     325 00
+Gore Bay Agency                ...     ...     ...    ...                  ...        ...
+Thessalon Agency               ...     ...     ...    145 00               120 00     265 00
+Sault Ste. Marie Agency        3       2       ...    50 00                1,225 00   1,275 00
+Port Arthur Agency             ...     ...     ...    ...                  ...        ...
+Golden Lake Agency             ...     ...     ...    50 00                200 00     250 00
+Tyendinaga                     ...     ...     ...    ...                  500 00     500 00
+Lake Simcoe                    ...     ...     ...    65 00                ...        65 00
+Cape Croker Agency             ...     ...     ...    355 00               2,400 00   2,755 00
+Saugeen Agency                 ...     ...     ...    874 00               200 00     1,074 00
+Alnwick Agency                 ...     ...     ...    ...                  ...        ...
+Mud Lake Agency                ...     ...     ...    100 00               ...        100 00
+Rice Lake Agency               ...     ...     ...    50 00                ...        500 00
+Rama Agency                    ...     ...     ...    100 00               ...        100 00
+Christian Island Agency        5       ...     2      800 00               1,200 00   2,000 00
+Scugog Agency                  ...     ...     ...    ...                  200 00     200 00
+Indians of Christian Island
+band residing on Manitoulin    ...     ...     ...    ...                  ...        ...
+Island
+Rat Portage Agency             ...     ...     ...    ...                  355 00    355 00
+Fort Frances Agency            ...     ...     ...    ...                  ...       ...
+Savanne Agency                 ...     ...     ...    ...                  ...       ...
+Sturgeon Falls Agency          ...     ...     ...    300 00               800 00    1,100 00
+Total                          8       2       2      4,765 00             17,050 00 21,815 00
+
+<!-- page 910 -->
+                    BUILDINGS
+Agency.                                    INCREASE IN VALUE.
+                    ERECTED.
+                    Root    Milk    Corn Value of Clearing,         Value of Increased value of Agricultural
+...
+                    Houses. Houses. Cribs. Cultivating and Fencing. Buildings. Products and Industries.
+QUEBEC.             ...     ...     ...    ...                      ...        ...
+Lake of Two
+                 ...        3       ...    190 00                   1,040 00    1,230 00
+Mountains Agency
+Caughnawaga
+                    ...     ...     ...    1,062 00                 4,912 00    5,974 00
+Agency
+St. Regis Agency ...        ...     7      200 00                   3,400 00    3,600 00
+Viger Agency       ...      ...     ...    ...                      ...         ...
+St. Francis Agency ...      ...     ...    86 00                    150 00      236 00
+Lake St. John
+                   1        4       ...    235 00                   1,507 00    1,742 00
+Agency
+Maria Agency        ...     ...     ...    ...                      ...         ...
+Restigouche         ...     1       ...    160 00                   280 00      440 00
+River Desert
+                    ...     ...     ...    357 00                   500 00      857 00
+Agency
+Jeune Lorette
+                    ...     ...     ...    ...                      ...         ...
+Agency
+Becancour Agency ...        ...     ...    ...                      ...         ...
+Timiskaming
+                 ...        ...     ...    100 00                   100 00      200 00
+Agency
+Bersimis Agency     ...     ...     ...    ...                      300 00      300 00
+Mingan Agency       ...     ...     ...    ...                      ...         ...
+Total               1       8       7      2,390 00                 12,189 00   14,579 00
+

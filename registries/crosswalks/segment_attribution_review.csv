@@ -1,0 +1,442 @@
+doc_id,tag,segment_id,report_year,heading,method,candidates,evidence,reason
+1880-81_14,dia_ar_1880,p0162-british-columbia,1880,BRITISH COLUMBIA,mentions,AG-kamloops-okanagan-agency|AG-williams-lake-agency|AG-cowichan-agency|AG-kwawkewlth-agency,AG-kamloops-okanagan-agency:4; AG-williams-lake-agency:2; AG-cowichan-agency:2; AG-kwawkewlth-agency:1,place mentions point to several units
+1882_6,dia_ar_1881,p0042-fort-ellice-27th-september-188,1881,"FORT ELLICE, 27th September, 1881",mentions,AG-northwest-coast-agency|AG-williams-lake-agency|AGT-lunenburg,AG-northwest-coast-agency:3; AG-williams-lake-agency:2; AGT-lunenburg:1,place mentions point to several units
+1883_5,dia_ar_1882,p0306-indian-office,1882,INDIAN OFFICE,dateline_head,AG-qu-appelle-agency|AG-qu-appelle-inspectorate,"dateline_head:QU'APPELLE; dateline_head:INDIAN OFFICE, QU'APPELLE",several units named
+1883_5,dia_ar_1882,p0310-indian-office,1882,INDIAN OFFICE,dateline_head,AG-qu-appelle-agency|AG-qu-appelle-inspectorate,"dateline_head:QU'APPELLE; dateline_head:INDIAN OFFICE, QU'APPELLE",several units named
+1883_5,dia_ar_1882,p0340-the-right-honorable,1882,The Right Honorable,mentions,AG-kamloops-okanagan-agency|AG-williams-lake-agency,AG-kamloops-okanagan-agency:2; AG-williams-lake-agency:1,place mentions point to several units
+1884_4,dia_ar_1883,p0203-attendance-at-board-schools-42,1883,Attendance at Board Schools                        427,school,,Attendance at Board Schools                        427,no school matched
+1885_3,dia_ar_1884,p0231-indian-office,1884,INDIAN OFFICE,mentions,AG-kwawkewlth-agency|AG-fraser-river-agency|AG-fraser-agency|AG-cowichan-agency,AG-kwawkewlth-agency:2; AG-fraser-river-agency:1; AG-fraser-agency:1; AG-cowichan-agency:1,place mentions point to several units
+1886_4,dia_ar_1885,p0082-constable,1885,constable,school,,New England Company's Mohawk Institution,no school matched
+1886_4,dia_ar_1885,p0246-industrial-school,1885,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1887_6,dia_ar_1886,p0095-the-right-honorable,1886,The Right Honorable,school,,condition and prospects of the Mount Elgin Industrial Institution,no school matched
+1887_6,dia_ar_1886,p0097-shingwauk-and-wawanosh-homes,1886,SHINGWAUK AND WAWANOSH HOMES,school,,SHINGWAUK AND WAWANOSH HOMES,no school matched
+1887_6,dia_ar_1886,p0296-industrial-school,1886,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1888_15,dia_ar_1887,p0153-annual-report-of-the-mount-elg,1887,ANNUAL REPORT OF THE MOUNT ELGIN INDUSTRIAL INSTITUTION MUNCEY,school,,ANNUAL REPORT OF THE MOUNT ELGIN INDUSTRIAL INSTITUTION MUNCEY,no school matched
+1888_15,dia_ar_1887,p0154-the-honorable,1887,The Honorable,school,,condition of the New England Company's Mohawk Institution,no school matched
+1888_15,dia_ar_1887,p0156-the-honorable,1887,The Honorable,school,,industrial school,no school matched
+1888_15,dia_ar_1887,p0312-indian-office,1887,INDIAN OFFICE,mentions,AG-william-s-lake-agency|AG-kootenay-agency|AG-fraser-river-agency|AG-kwawkewlth-agency,AG-william-s-lake-agency:2; AG-kootenay-agency:1; AG-fraser-river-agency:1; AG-kwawkewlth-agency:1,place mentions point to several units
+1888_15,dia_ar_1887,p0339-the-honorable,1887,The Honorable,mentions,AG-william-s-lake-agency|AG-williams-lake-agency,AG-william-s-lake-agency:1; AG-williams-lake-agency:1,place mentions point to several units
+1888_15,dia_ar_1887,p0548-indian-office,1887,INDIAN OFFICE,mentions,AGT-victoria|AGT-inverness|AG-kwawkewlth-agency|AG-north-west-coast-agency,AGT-victoria:1; AGT-inverness:1; AG-kwawkewlth-agency:1; AG-north-west-coast-agency:1,place mentions point to several units
+1888_15,dia_ar_1887,p0728-indian-office-cont,1887,INDIAN OFFICE (cont.),mentions,AGT-victoria|AGT-lunenburg|AGT-yarmouth|AGT-richmond,AGT-victoria:1; AGT-lunenburg:1; AGT-yarmouth:1; AGT-richmond:1,place mentions point to several units
+1889_16,dia_ar_1888,p0142-wickwemikong-ont-september-188,1888,"WICKWEMIKONG, ONT., September, 1888",school,,condition of the Wickwemikong Industrial School,no school matched
+1889_16,dia_ar_1888,p0153-indian-reserve,1888,INDIAN RESERVE,dateline_head,AG-indian-reserve-agency|AG-ste-anne-de-restigouche-agency,dateline_head:INDIAN RESERVE; dateline_head:STE. ANNE DE RESTIGOUCHE,several units named
+1889_16,dia_ar_1888,p0273-industrial-school,1888,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1889_16,dia_ar_1888,p0304-indian-office-victoria-b-c-22n,1888,"INDIAN OFFICE, VICTORIA, B.C., 22nd October, 1888",mentions,AG-cowichan-agency|AG-fraser-river-agency|AG-william-s-lake-agency|AG-kwawkewlth-agency,AG-cowichan-agency:1; AG-fraser-river-agency:1; AG-william-s-lake-agency:1; AG-kwawkewlth-agency:1,place mentions point to several units
+1889_16,dia_ar_1888,p0318-the-honorable,1888,The Honorable,school,,condition of the Mohawk Institution,no school matched
+1889_16,dia_ar_1888,p0435-the-honorable,1888,The Honorable,mentions,AG-kwawkewlth-agency|AG-fraser-agency,AG-kwawkewlth-agency:2; AG-fraser-agency:2,place mentions point to several units
+1890_12,dia_ar_1889,p0101-annual-report-of-the-mount-elg,1889,"ANNUAL REPORT OF THE MOUNT ELGIN INDUSTRIAL INSTITUTION, MUNCEY",school,,"ANNUAL REPORT OF THE MOUNT ELGIN INDUSTRIAL INSTITUTION, MUNCEY",no school matched
+1890_12,dia_ar_1889,p0101-the-honorable,1889,The Honorable,school,,condition of the Wikwemikong Industrial School,no school matched
+1890_12,dia_ar_1889,p0127-indian-reserve-ste-anne-de-res,1889,"INDIAN RESERVE, STE. ANNE DE RESTIGOUCHE",dateline_head,AG-indian-reserve-agency|AG-ste-anne-de-restigouche-agency,dateline_head:INDIAN RESERVE; dateline_head:STE. ANNE DE RESTIGOUCHE,several units named
+1890_12,dia_ar_1889,p0223-the-industrial-school,1889,THE INDUSTRIAL SCHOOL,school,,THE INDUSTRIAL SCHOOL,no school matched
+1890_12,dia_ar_1889,p0226-saint-joseph-s-industrial-scho,1889,SAINT JOSEPH'S INDUSTRIAL SCHOOL,school,,SAINT JOSEPH'S INDUSTRIAL SCHOOL,no school matched
+1890_12,dia_ar_1889,p0277-indian-industrial-school,1889,INDIAN INDUSTRIAL SCHOOL,school,,INDIAN INDUSTRIAL SCHOOL,no school matched
+1890_12,dia_ar_1889,p0299-industrial-school,1889,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1890_12,dia_ar_1889,p0591-victoria-b-c-4th-november-1889,1889,"VICTORIA, B.C., 4th November, 1889",mentions,AG-fraser-river-agency|AG-kwawkewlth-agency,AG-fraser-river-agency:1; AG-kwawkewlth-agency:1,place mentions point to several units
+1891_18,dia_ar_1890,p0081-the-honourable,1890,The Honourable,school,,condition and prospects of the Mount Elgin Industrial Institution,no school matched
+1891_18,dia_ar_1890,p0081-the-honourable-2,1890,The Honourable,school,,condition of the Wikwemikong school,no school matched
+1891_18,dia_ar_1890,p0171-regina-assa-30th-august-1890,1890,"REGINA, ASSA., 30th August, 1890",phrase_head,AG-battleford-agency|AG-manitoba-superintendency,phrase_head:Manitoba Superintendency; phrase_head:BATTLEFORD AGENCY; phrase_tail:Manitoba Superintendency,several units named
+1891_18,dia_ar_1890,p0181-ruperts-land-indian-industrial,1890,RUPERTS LAND INDIAN INDUSTRIAL SCHOOL,school,,RUPERTS LAND INDIAN INDUSTRIAL SCHOOL,no school matched
+1891_18,dia_ar_1890,p0237-industrial-school,1890,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1891_18,dia_ar_1890,p0244-high-river-industrial-school,1890,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+1891_18,dia_ar_1890,p0266-indian-industrial-school,1890,INDIAN INDUSTRIAL SCHOOL,school,,INDIAN INDUSTRIAL SCHOOL,no school matched
+1891_18,dia_ar_1890,p0276-industrial-school-kamloops-b-c,1890,"INDUSTRIAL SCHOOL, KAMLOOPS, B.C., 1st October, 1890",school,,"INDUSTRIAL SCHOOL, KAMLOOPS, B.C.",no school matched
+1891_18,dia_ar_1890,p0385-indian-office,1890,INDIAN OFFICE,mentions,AG-cowichan-agency|AG-northwest-coast-agency|AG-kwawkewlth-agency|AG-williams-lake-agency,AG-cowichan-agency:1; AG-northwest-coast-agency:1; AG-kwawkewlth-agency:1; AG-williams-lake-agency:1,place mentions point to several units
+1892_14,dia_ar_1891,p0080-the-honourable,1891,The Honourable,school,,condition and prospects of the Mount Elgin Industrial Institution,no school matched
+1892_14,dia_ar_1891,p0187-indian-agent-s-office-saddle-l,1891,"INDIAN AGENT'S OFFICE, SADDLE LAKE, ALBERTA",phrase_tail,AG-onion-lake-agency|AG-sarcee-agency,phrase_tail:Onion Lake Agency; phrase_tail:Sarcee Agency,several units named
+1892_14,dia_ar_1891,p0245-industrial-school,1891,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1892_14,dia_ar_1891,p0248-industrial-school,1891,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1892_14,dia_ar_1891,p0291-industrial-school,1891,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1892_14,dia_ar_1891,p0363-industrial-school,1891,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1892_14,dia_ar_1891,p0369-august-reserve-no-3-95,1891,August    Reserve No. 3                               95     ...     ,mentions,AG-williams-lake-agency|AG-kamloops-okanagan-agency|AG-william-s-lake-agency|AG-kwawkewlth-agency,AG-williams-lake-agency:3; AG-kamloops-okanagan-agency:2; AG-william-s-lake-agency:2; AG-kwawkewlth-agency:1,place mentions point to several units
+1892_14,dia_ar_1891,p0380-indian-office,1891,INDIAN OFFICE,mentions,AG-cowichan-agency|AG-kwawkewlth-agency|AG-kootenay-agency|AG-northwest-coast-agency,AG-cowichan-agency:2; AG-kwawkewlth-agency:1; AG-kootenay-agency:1; AG-northwest-coast-agency:1,place mentions point to several units
+1893_14,dia_ar_1892,p0370-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0382-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0385-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0398-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0403-indian-office-victoria-b-c-5th,1892,"INDIAN OFFICE, VICTORIA, B.C., 5th November, 1892",mentions,AG-kootenay-agency|AG-kwawkewlth-agency|AG-cowichan-agency|AG-west-coast-agency,AG-kootenay-agency:1; AG-kwawkewlth-agency:1; AG-cowichan-agency:1; AG-west-coast-agency:1,place mentions point to several units
+1893_14,dia_ar_1892,p0464-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0466-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0467-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0469-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0471-industrial-school,1892,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1893_14,dia_ar_1892,p0473-indian-industrial-school,1892,INDIAN INDUSTRIAL SCHOOL,school,,INDIAN INDUSTRIAL SCHOOL,no school matched
+1894_14,dia_ar_1893,p0055-the-honourable,1893,The Honourable,school,,condition and prospects of the Mount Elgin Industrial Institution,no school matched
+1894_14,dia_ar_1893,p0129-indian-agent-s-office,1893,INDIAN AGENT'S OFFICE,signature,AG-fort-pelly-agency|AG-swan-river-agency,AG-fort-pelly-agency:Fort Pelly; AG-swan-river-agency:Swan River,agent posted to several chains
+1894_14,dia_ar_1893,p0166-indian-agent-s-office,1893,INDIAN AGENT'S OFFICE,signature,AG-carlton-agency|AG-touchwood-hills-agency,AG-touchwood-hills-agency:Touchwood Hills; AG-carlton-agency:Carlton,agent posted to several chains
+1894_14,dia_ar_1893,p0179-industrial-school,1893,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1894_14,dia_ar_1893,p0200-industrial-school,1893,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1894_14,dia_ar_1893,p0213-green-92-c,1893,Green    '92                                                    & c,school,,work of the school,no school matched
+1894_14,dia_ar_1893,p0225-manitoba-st-boniface-industria,1893,"MANITOBA, ST. BONIFACE INDUSTRIAL SCHOOL",school,,"MANITOBA, ST. BONIFACE INDUSTRIAL SCHOOL",no school matched
+1894_14,dia_ar_1893,p0232-industrial-school,1893,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1894_14,dia_ar_1893,p0254-industrial-school,1893,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1894_14,dia_ar_1893,p0257-industrial-school,1893,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1894_14,dia_ar_1893,p0260-industrial-school,1893,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1894_14,dia_ar_1893,p0266-sophie-joseph-2-years-8-months,1893,"Sophie Joseph, 2 years 8 months attendance. At home, dying of consumption",school,,"Sophie Joseph, 2 years 8 months attendance. At home, dying of consumption",no school matched
+1894_14,dia_ar_1893,p0268-these-are-the-only-children-th,1893,These are the only children that have left us for good since the school opened,school,,These are the only children that have left us for good since the school opened,no school matched
+1894_14,dia_ar_1893,p0398-indian-office-victoria-b-c-26t,1893,"INDIAN OFFICE, VICTORIA, B.C., 26th October, 1893",mentions,AG-kwawkewlth-agency|AG-fraser-river-agency|AG-west-coast-agency|AG-cowichan-agency,AG-kwawkewlth-agency:2; AG-fraser-river-agency:1; AG-west-coast-agency:1; AG-cowichan-agency:1,place mentions point to several units
+1895_14,dia_ar_1894,p0074-algoma-indian-homes,1894,ALGOMA INDIAN HOMES,school,,ALGOMA INDIAN HOMES,no school matched
+1895_14,dia_ar_1894,p0123-treaty-no-4-indian-agent-s-off,1894,"TREATY No. 4, INDIAN AGENT'S OFFICE",signature,AG-fort-pelly-agency|AG-swan-river-agency,AG-fort-pelly-agency:Fort Pelly; AG-swan-river-agency:Swan River,agent posted to several chains
+1895_14,dia_ar_1894,p0183-the-honourable,1894,The Honourable,phrase_head,AG-carlton-agency|AG-duck-lake-agency,phrase_head:Duck Lake Agency; phrase_tail:Carlton Agency,several units named
+1895_14,dia_ar_1894,p0250-industrial-school,1894,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1895_14,dia_ar_1894,p0252-indian-industrial-school,1894,INDIAN INDUSTRIAL SCHOOL,school,,INDIAN INDUSTRIAL SCHOOL,no school matched
+1895_14,dia_ar_1894,p0265-industrial-school,1894,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1895_14,dia_ar_1894,p0280-kamloops-industrial-school-b-c,1894,"KAMLOOPS INDUSTRIAL SCHOOL, B.C., 1st August, 1894",school,,"KAMLOOPS INDUSTRIAL SCHOOL, B.C.",no school matched
+1895_14,dia_ar_1894,p0283-industrial-school-metlakahtla,1894,"INDUSTRIAL SCHOOL, METLAKAHTLA, B.C., 31st August, 1894",school,,"INDUSTRIAL SCHOOL, METLAKAHTLA, B.C.",no school matched
+1895_14,dia_ar_1894,p0287-industrial-school-kuper-island,1894,"INDUSTRIAL SCHOOL, KUPER ISLAND, B.C., July 15th, 1894",school,,"INDUSTRIAL SCHOOL, KUPER ISLAND, B.C., July 15th, 1894",no school matched
+1895_14,dia_ar_1894,p0328-industrial-school,1894,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1895_14,dia_ar_1894,p0343-indian-office,1894,INDIAN OFFICE,mentions,AG-kwawkewlth-agency|AG-cowichan-agency|AG-northwest-coast-agency,AG-kwawkewlth-agency:2; AG-cowichan-agency:1; AG-northwest-coast-agency:1,place mentions point to several units
+1896_14,dia_ar_1895,p0072-the-honourable,1895,The Honourable,school,,condition and prospects of the Mount Elgin Industrial Institution,no school matched
+1896_14,dia_ar_1895,p0117-indian-industrial-school,1895,INDIAN INDUSTRIAL SCHOOL,school,,INDIAN INDUSTRIAL SCHOOL,no school matched
+1896_14,dia_ar_1895,p0121-industrial-school,1895,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1896_14,dia_ar_1895,p0123-the-honourable,1895,The Honourable,school,,school under my charge for the year ended 30th June. The work of the institution,no school matched
+1896_14,dia_ar_1895,p0206-the-honourable,1895,The Honourable,phrase_head,AG-battleford-agency|AG-touchwood-hills-agency,phrase_head:Battleford Agency; phrase_head:Touchwood Hills Agency. This agency,several units named
+1896_14,dia_ar_1895,p0212-industrial-school,1895,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1896_14,dia_ar_1895,p0212-school-i-only-arriving-here-to,1895,"school, I only arriving here to take charge on 2nd July",school,,"school, I only arriving here to take charge on 2nd July",no school matched
+1896_14,dia_ar_1895,p0243-elkhorn-man-31st-july-1895,1895,"ELKHORN, MAN., 31st July, 1895",school,,Washakada Indian Home,no school matched
+1896_14,dia_ar_1895,p0251-industrial-school,1895,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1896_14,dia_ar_1895,p0277-kootenay-industrial-school-b-c,1895,"KOOTENAY INDUSTRIAL SCHOOL, B.C., 8th July, 1895",school,,"KOOTENAY INDUSTRIAL SCHOOL, B.C.",no school matched
+1896_14,dia_ar_1895,p0280-kamloops-industrial-school-b-c,1895,"KAMLOOPS INDUSTRIAL SCHOOL, B.C., 21st July, 1895",school,,"KAMLOOPS INDUSTRIAL SCHOOL, B.C.",no school matched
+1896_14,dia_ar_1895,p0281-industrial-school,1895,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1896_14,dia_ar_1895,p0282-industrial-school-kuper-island,1895,"INDUSTRIAL SCHOOL, KUPER ISLAND, B.C., 22nd July, 1895",school,,"INDUSTRIAL SCHOOL, KUPER ISLAND, B.C.",no school matched
+1896_14,dia_ar_1895,p0299-indian-industrial-school,1895,INDIAN INDUSTRIAL SCHOOL,school,,INDIAN INDUSTRIAL SCHOOL,no school matched
+1896_14,dia_ar_1895,p0327-indian-office,1895,INDIAN OFFICE,mentions,AG-kootenay-agency|AG-cowichan-agency|AG-kwawkewlth-agency|AG-fraser-agency,AG-kootenay-agency:3; AG-cowichan-agency:2; AG-kwawkewlth-agency:2; AG-fraser-agency:1,place mentions point to several units
+1896_14,dia_ar_1895,p0483-industrial-school,1895,INDUSTRIAL SCHOOL,school,,INDUSTRIAL SCHOOL,no school matched
+1897_14,dia_ar_1896,p0149-the-honourable-2,1896,The Honourable,mentions,AGT-queens|AGT-lunenburg,AGT-queens:1; AGT-lunenburg:1,place mentions point to several units
+1897_14,dia_ar_1896,p0484-and-making-their-own-clothes-c,1896,"and making their own clothes, & c",school,,condition and prospects of the Mount Elgin Industrial institution,no school matched
+1897_14,dia_ar_1896,p0501-brandon-industrial-school-man,1896,"BRANDON INDUSTRIAL-SCHOOL, MAN",school,,"BRANDON INDUSTRIAL-SCHOOL, MAN",no school matched
+1897_14,dia_ar_1896,p0509-pine-creek-boarding-school-man,1896,"PINE CREEK BOARDING SCHOOL, MAN., 5th August, 1896",school,,"PINE CREEK BOARDING SCHOOL, MAN.",no school matched
+1897_14,dia_ar_1896,p0510-mission-school,1896,MISSION SCHOOL,school,,MISSION SCHOOL,no school matched
+1897_14,dia_ar_1896,p0515-st-boniface-industrial-school,1896,"ST. BONIFACE INDUSTRIAL SCHOOL, MAN., 1st July, 1896",school,,"ST. BONIFACE INDUSTRIAL SCHOOL, MAN.",no school matched
+1897_14,dia_ar_1896,p0521-birtle-boarding-school-man,1896,"BIRTLE BOARDING SCHOOL, MAN",school,,"BIRTLE BOARDING SCHOOL, MAN",no school matched
+1897_14,dia_ar_1896,p0527-duck-lake-boarding-school-sask,1896,"DUCK LAKE BOARDING SCHOOL, SASK",school,,"DUCK LAKE BOARDING SCHOOL, SASK",no school matched
+1897_14,dia_ar_1896,p0534-lac-la-biche-boarding-school-a,1896,"LAC LA BICHE BOARDING SCHOOL, ALTA",school,,"LAC LA BICHE BOARDING SCHOOL, ALTA",no school matched
+1897_14,dia_ar_1896,p0539-roman-catholic-boarding-school,1896,ROMAN CATHOLIC BOARDING SCHOOL,school,,ROMAN CATHOLIC BOARDING SCHOOL,no school matched
+1897_14,dia_ar_1896,p0541-protestant-boarding-school,1896,PROTESTANT BOARDING SCHOOL,school,,PROTESTANT BOARDING SCHOOL,no school matched
+1897_14,dia_ar_1896,p0542-piegan-boarding-school-alta,1896,"PIEGAN BOARDING SCHOOL, ALTA",school,,"PIEGAN BOARDING SCHOOL, ALTA",no school matched
+1897_14,dia_ar_1896,p0545-qu-appelle-industrial-school-a,1896,"QU'APPELLE INDUSTRIAL SCHOOL, ASSA",school,,"QU'APPELLE INDUSTRIAL SCHOOL, ASSA",no school matched
+1897_14,dia_ar_1896,p0549-red-deer-industrial-school-alt,1896,"RED DEER INDUSTRIAL SCHOOL, ALTA",school,,"RED DEER INDUSTRIAL SCHOOL, ALTA",no school matched
+1897_14,dia_ar_1896,p0558-round-lake-school-assa,1896,"ROUND LAKE SCHOOL, ASSA",school,,"ROUND LAKE SCHOOL, ASSA",no school matched
+1897_14,dia_ar_1896,p0560-st-barnabas-home-sarcee-reserv,1896,"ST. BARNABAS HOME, SARCEE RESERVE, ALTA",school,,"ST. BARNABAS HOME, SARCEE RESERVE, ALTA",no school matched
+1897_14,dia_ar_1896,p0562-st-albert-boarding-school-alta,1896,"ST. ALBERT BOARDING SCHOOL, ALTA",school,,"ST. ALBERT BOARDING SCHOOL, ALTA",no school matched
+1897_14,dia_ar_1896,p0564-st-joseph-s-indian-industrial,1896,"ST. JOSEPH'S INDIAN INDUSTRIAL SCHOOL BUILDINGS, HIGH RIVER, ALBERTA",school,,"ST. JOSEPH'S INDIAN INDUSTRIAL SCHOOL BUILDINGS, HIGH RIVER, ALBERTA",no school matched
+1897_14,dia_ar_1896,p0572-inspector-betournay-s-report-o,1896,INSPECTOR BETOURNAY'S REPORT ON ROMAN CATHOLIC INDIAN SCHOOLS IN MANITOBA AND,school,,INSPECTOR BETOURNAY'S REPORT ON ROMAN CATHOLIC INDIAN SCHOOLS IN MANITOBA AND,no school matched
+1897_14,dia_ar_1896,p0576-report-of-chief-inspector-wads,1896,REPORT OF CHIEF INSPECTOR WADSWORTH ON INDIAN SCHOOLS IN MANITOBA AND THE NORTH-,school,,REPORT OF CHIEF INSPECTOR WADSWORTH ON INDIAN SCHOOLS IN MANITOBA AND THE NORTH-,no school matched
+1897_14,dia_ar_1896,p0587-inspector-mcgibbon-s-report-on,1896,INSPECTOR McGIBBON'S REPORT ON PROTESTANT INDIAN SCHOOLS IN MANITOBA AND THE,school,,INSPECTOR McGIBBON'S REPORT ON PROTESTANT INDIAN SCHOOLS IN MANITOBA AND THE,no school matched
+1897_14,dia_ar_1896,p0597-indian-girls-home-alberni-b-c,1896,"INDIAN GIRLS' HOME, ALBERNI, B.C",school,,"INDIAN GIRLS' HOME, ALBERNI, B.C",no school matched
+1897_14,dia_ar_1896,p0598-alert-bay-industrial-school-b,1896,"ALERT BAY INDUSTRIAL SCHOOL, B.C",school,,"ALERT BAY INDUSTRIAL SCHOOL, B.C",no school matched
+1897_14,dia_ar_1896,p0608-kootenay-industrial-school-b-c,1896,"KOOTENAY INDUSTRIAL SCHOOL, B.C., 16th July, 1896",school,,"KOOTENAY INDUSTRIAL SCHOOL, B.C.",no school matched
+1898_14,dia_ar_1897,p0390-industrial-and-boarding-school,1897,INDUSTRIAL AND BOARDING SCHOOLS,school,,INDUSTRIAL AND BOARDING SCHOOLS,no school matched
+1898_14,dia_ar_1897,p0414-washakada-industrial-school,1897,WASHAKADA INDUSTRIAL SCHOOL,school,,WASHAKADA INDUSTRIAL SCHOOL,no school matched
+1898_14,dia_ar_1897,p0437-st-michael-s-boarding-school,1897,ST. MICHAEL'S BOARDING SCHOOL,school,,ST. MICHAEL'S BOARDING SCHOOL,no school matched
+1898_14,dia_ar_1897,p0445-high-river-industrial-school,1897,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+1898_14,dia_ar_1897,p0451-onion-lake-c-e-boarding-school,1897,"ONION LAKE C.E. BOARDING SCHOOL, SASK",school,,"ONION LAKE C.E. BOARDING SCHOOL, SASK",no school matched
+1898_14,dia_ar_1897,p0469-round-lake-boarding-school-ass,1897,"ROUND LAKE BOARDING SCHOOL, ASSA",school,,"ROUND LAKE BOARDING SCHOOL, ASSA",no school matched
+1898_14,dia_ar_1897,p0471-sarcee-reserve-alta-19th-augus,1897,"SARCEE RESERVE, ALTA., 19th August, 1897",school,,St. Barnabas Home,no school matched
+1898_14,dia_ar_1897,p0472-st-john-s-homes-blackfoot-rese,1897,"ST. JOHN'S HOMES, BLACKFOOT RESERVE, N.-W.T",school,,"ST. JOHN'S HOMES, BLACKFOOT RESERVE, N.-W.T",no school matched
+1898_14,dia_ar_1897,p0496-kuper-island-industrial-school,1897,"KUPER ISLAND INDUSTRIAL SCHOOL, B.C",school,,"KUPER ISLAND INDUSTRIAL SCHOOL, B.C",no school matched
+1898_14,dia_ar_1897,p0505-st-joseph-s-industrial-school,1897,"ST. JOSEPH'S INDUSTRIAL SCHOOL, B.C",school,,"ST. JOSEPH'S INDUSTRIAL SCHOOL, B.C",no school matched
+1899_14,dia_ar_1898,p0027-of-the,1898,OF THE,mentions,AG-williams-lake-agency|AG-william-s-lake-agency,AG-williams-lake-agency:3; AG-william-s-lake-agency:2,place mentions point to several units
+1899_14,dia_ar_1898,p0427-industrial-and-boarding-school,1898,INDUSTRIAL AND BOARDING SCHOOLS,school,,INDUSTRIAL AND BOARDING SCHOOLS,no school matched
+1899_14,dia_ar_1898,p0491-high-river-industrial-school,1898,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+1900_14,dia_ar_1899,p0125-abenakis-of-st-francis,1899,ABENAKIS OF ST. FRANCIS,mentions,AGT-chippewas-and-saulteaux-of-treaty-no-3-at|AG-babine-upper-skeena-river-agency,AGT-chippewas-and-saulteaux-of-treaty-no-3-at:1; AG-babine-upper-skeena-river-agency:1,place mentions point to several units
+1900_14,dia_ar_1899,p0494-sundries-35-45,1899,...                 Sundries                       35 45      ,school,,conditions and prospects of this institution,no school matched
+1900_14,dia_ar_1899,p0504-portage-la-prairie-boarding-sc,1899,"PORTAGE LA PRAIRIE BOARDING SCHOOL, MAN",school,,"PORTAGE LA PRAIRIE BOARDING SCHOOL, MAN",no school matched
+1900_14,dia_ar_1899,p0543-mcdougall-orphanage-and-boardi,1899,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,school,,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,no school matched
+1900_14,dia_ar_1899,p0552-sarcee-c-e-boarding-school,1899,SARCEE C.E. BOARDING SCHOOL,school,,SARCEE C.E. BOARDING SCHOOL,no school matched
+1900_14,dia_ar_1899,p0577-high-river-industrial-school,1899,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+1900_14,dia_ar_1899,p0618-the-honourable,1899,The Honourable,school,,Crosby Girls' Home,no school matched
+1900_14,dia_ar_1899,p0640-william-s-lake-b-c-industrial,1899,"WILLIAM'S LAKE, B.C., INDUSTRIAL SCHOOL",school,,"WILLIAM'S LAKE, B.C., INDUSTRIAL SCHOOL",no school matched
+1900_14,dia_ar_1899,p1344-the-secretary-dept-of-indian-a,1899,"The Secretary, Dept. of Indian Affairs",phrase_tail,AG-carleton-agency|AG-saddle-lake-agency,phrase_tail:Saddle Lake Agency; phrase_tail:Carleton Agency,several units named
+prov:dia_ar_1900,dia_ar_1900,p0027-report,1900,REPORT,mentions,AG-northwest-coast-agency|AG-williams-lake-agency|AGT-picton,AG-northwest-coast-agency:3; AG-williams-lake-agency:2; AGT-picton:1,place mentions point to several units
+prov:dia_ar_1900,dia_ar_1900,p0129-abenakis-of-st-francis,1900,ABENAKIS OF ST. FRANCIS,mentions,AGT-chippewas-and-saulteaux-of-treaty-no-3-at|AG-babine-upper-skeena-river-agency,AGT-chippewas-and-saulteaux-of-treaty-no-3-at:1; AG-babine-upper-skeena-river-agency:1,place mentions point to several units
+prov:dia_ar_1900,dia_ar_1900,p0157-micmacs-of-cape-breton-county,1900,"MICMACS OF CAPE BRETON COUNTY, N.S",dateline_head,AGT-antigonish-and-guysborough-counties|AGT-cape-breton,dateline_head:MICMACS OF CAPE BRETON COUNTY; dateline_head:MICMACS OF ANTIGONISH AND GUYSBOROUGH COUNTIES,several units named
+prov:dia_ar_1900,dia_ar_1900,p0485-british-columbia,1900,BRITISH COLUMBIA,mentions,AG-northwest-coast-agency|AG-babine-agency,AG-northwest-coast-agency:2; AG-babine-agency:2,place mentions point to several units
+prov:dia_ar_1900,dia_ar_1900,p0492-boarding-and-industrial-school,1900,BOARDING AND INDUSTRIAL SCHOOLS,school,,BOARDING AND INDUSTRIAL SCHOOLS,no school matched
+prov:dia_ar_1900,dia_ar_1900,p0495-all-matters-connected-with-the,1900,all matters connected with the home,school,,all matters connected with the home,no school matched
+prov:dia_ar_1900,dia_ar_1900,p0502-520-205-1-39-4,1900,520   205.1   39.4,school,,condition and prospects of this institution,no school matched
+prov:dia_ar_1900,dia_ar_1900,p0520-brandon-industrial-school-man,1900,"BRANDON INDUSTRIAL SCHOOL, MAN",school,,"BRANDON INDUSTRIAL SCHOOL, MAN",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0529-rupert-s-land-industrial-schoo,1900,"RUPERT'S LAND INDUSTRIAL SCHOOL, MAN",school,,"RUPERT'S LAND INDUSTRIAL SCHOOL, MAN",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0531-st-boniface-industrial-school,1900,"ST. BONIFACE INDUSTRIAL SCHOOL, MAN",school,,"ST. BONIFACE INDUSTRIAL SCHOOL, MAN",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0556-ermineskin-s-boarding-school-n,1900,"ERMINESKIN'S BOARDING SCHOOL, N.W.T",school,,"ERMINESKIN'S BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0562-muscowequan-s-boarding-school,1900,"MUSCOWEQUAN'S BOARDING SCHOOL, N.W.T",school,,"MUSCOWEQUAN'S BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0564-st-john-s-homes-blackfoot-rese,1900,"ST. JOHN'S HOMES, BLACKFOOT RESERVE",school,,"ST. JOHN'S HOMES, BLACKFOOT RESERVE",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0569-peigan-c-e-boarding-school-n-w,1900,"PEIGAN C.E. BOARDING SCHOOL, N.W.T",school,,"PEIGAN C.E. BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0581-st-bernard-s-mission-r-c-board,1900,ST. BERNARD'S MISSION R.C. BOARDING SCHOOL,school,,ST. BERNARD'S MISSION R.C. BOARDING SCHOOL,no school matched
+prov:dia_ar_1900,dia_ar_1900,p0606-high-river-industrial-school,1900,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+prov:dia_ar_1900,dia_ar_1900,p0665-the-honourable,1900,The Honourable,school,,Crosby Girls' Home,no school matched
+prov:dia_ar_1900,dia_ar_1900,p0671-all-hallows-boarding-school-b,1900,"ALL HALLOWS BOARDING SCHOOL, B.C",school,,"ALL HALLOWS BOARDING SCHOOL, B.C",no school matched
+prov:dia_ar_1900,dia_ar_1900,p0692-metlakahtla-industrial-school,1900,"METLAKAHTLA INDUSTRIAL SCHOOL, B.C",school,,"METLAKAHTLA INDUSTRIAL SCHOOL, B.C",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0028-report,1901,REPORT,mentions,AG-kamloops-okanagan-agency|AG-williams-lake-agency,AG-kamloops-okanagan-agency:2; AG-williams-lake-agency:1,place mentions point to several units
+prov:dia_ar_1901,dia_ar_1901,p0125-the-honourable,1901,The Honourable,dateline_prev,AG-lake-of-two-mountains-agency|AG-oka-agency,dateline_prev:LAKE OF TWO MOUNTAINS; dateline_prev:OKA,several units named
+prov:dia_ar_1901,dia_ar_1901,p0142-j-r-mcdonald,1901,J.R. McDONALD,dateline_head,AGT-cape-breton|AGT-colchester,dateline_head:MICMACS OF COLCHESTER COUNTY; dateline_head:MICMACS OF CAPE BRETON COUNTY,several units named
+prov:dia_ar_1901,dia_ar_1901,p0152-micmacs-of-richmond-county-n-s,1901,"MICMACS OF RICHMOND COUNTY, N.S",dateline_head,AGT-queen-s-and-lunenburg-counties|AGT-richmond,dateline_head:MICMACS OF RICHMOND COUNTY; dateline_head:MICMACS OF QUEEN'S AND LUNENBURG COUNTIES,several units named
+prov:dia_ar_1901,dia_ar_1901,p0473-a-w-vowell-esq,1901,"A.W. VOWELL, Esq",mentions,AG-northwest-coast-agency|AG-williams-lake-agency|AG-babine-agency,AG-northwest-coast-agency:2; AG-williams-lake-agency:2; AG-babine-agency:1,place mentions point to several units
+prov:dia_ar_1901,dia_ar_1901,p0481-pupils-in-school-and-sister-m,1901,"pupils in school, and Sister M. Aldegondes acts as principal",school,,"pupils in school, and Sister M. Aldegondes acts as principal",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0484-mount-elgin-industrial-institu,1901,"MOUNT ELGIN INDUSTRIAL INSTITUTE, ONT",school,,"MOUNT ELGIN INDUSTRIAL INSTITUTE, ONT",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0488-wikwemikong-industrial-school,1901,"WIKWEMIKONG INDUSTRIAL SCHOOL, ONT",school,,"WIKWEMIKONG INDUSTRIAL SCHOOL, ONT",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0490-norway-house-boarding-school-m,1901,"NORWAY HOUSE BOARDING SCHOOL, MAN",school,,"NORWAY HOUSE BOARDING SCHOOL, MAN",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0505-ruperts-land-industrial-school,1901,"RUPERTS LAND INDUSTRIAL SCHOOL, MAN",school,,"RUPERTS LAND INDUSTRIAL SCHOOL, MAN",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0507-st-boniface-industrial-school,1901,"ST. BONIFACE INDUSTRIAL SCHOOL, MAN",school,,"ST. BONIFACE INDUSTRIAL SCHOOL, MAN",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0516-st-john-s-homes-blackfoot-rese,1901,"ST. JOHN'S HOMES, BLACKFOOT RESERVE",school,,"ST. JOHN'S HOMES, BLACKFOOT RESERVE",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0522-blue-quill-s-boarding-school-n,1901,"BLUE QUILL'S BOARDING SCHOOL, N.W.T",school,,"BLUE QUILL'S BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0537-holy-angels-boarding-school-n,1901,"HOLY ANGELS BOARDING SCHOOL, N.W.T",school,,"HOLY ANGELS BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0540-st-bernard-s-mission-r-c-board,1901,ST. BERNARD'S MISSION R. C. BOARDING SCHOOL,school,,ST. BERNARD'S MISSION R. C. BOARDING SCHOOL,no school matched
+prov:dia_ar_1901,dia_ar_1901,p0543-mcdougall-orphanage-and-boardi,1901,McDOUGALL ORPHANAGE AND BOARDING SCHOOL,school,,McDOUGALL ORPHANAGE AND BOARDING SCHOOL,no school matched
+prov:dia_ar_1901,dia_ar_1901,p0547-peigan-c-e-boarding-school-n-w,1901,"PEIGAN C.E. BOARDING SCHOOL, N.W.T",school,,"PEIGAN C.E. BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0551-round-lake-boarding-school-n-w,1901,"ROUND LAKE BOARDING SCHOOL, N.W.T",school,,"ROUND LAKE BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0557-st-albert-boarding-school-n-w,1901,"ST. ALBERT BOARDING SCHOOL, N.W.T",school,,"ST. ALBERT BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0579-high-river-industrial-school,1901,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+prov:dia_ar_1901,dia_ar_1901,p0631-yale-boarding-school-b-c,1901,"YALE BOARDING SCHOOL, B.C",school,,"YALE BOARDING SCHOOL, B.C",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0647-kootenay-industrial-school-b-c,1901,"KOOTENAY INDUSTRIAL SCHOOL, B.C",school,,"KOOTENAY INDUSTRIAL SCHOOL, B.C",no school matched
+prov:dia_ar_1901,dia_ar_1901,p0649-kuper-island-industrial-school,1901,"KUPER ISLAND INDUSTRIAL SCHOOL, B.C",school,,"KUPER ISLAND INDUSTRIAL SCHOOL, B.C",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0028-report,1903,REPORT,mentions,AG-northwest-coast-agency|AG-kamloops-okanagan-agency,AG-northwest-coast-agency:1; AG-kamloops-okanagan-agency:1,place mentions point to several units
+prov:dia_ar_1903,dia_ar_1903,p0119-the-honourable,1903,The Honourable,mentions,AGT-chippewas-and-saulteaux-of-treaty-no-3-at|AG-st-francis-agency,AGT-chippewas-and-saulteaux-of-treaty-no-3-at:1; AG-st-francis-agency:1,place mentions point to several units
+prov:dia_ar_1903,dia_ar_1903,p0558-portage-la-prairie-boarding-sc,1903,"PORTAGE LA PRAIRIE BOARDING SCHOOL, MAN",school,,"PORTAGE LA PRAIRIE BOARDING SCHOOL, MAN",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0579-st-john-s-homes-blackfoot-rese,1903,ST. JOHN'S HOMES - BLACKFOOT RESERVE,school,,ST. JOHN'S HOMES - BLACKFOOT RESERVE,no school matched
+prov:dia_ar_1903,dia_ar_1903,p0606-holy-angels-boarding-school-n,1903,"HOLY ANGELS BOARDING SCHOOL, N.W.T",school,,"HOLY ANGELS BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0612-st-bernard-s-mission-r-c-board,1903,ST. BERNARD'S MISSION R.C. BOARDING SCHOOL,school,,ST. BERNARD'S MISSION R.C. BOARDING SCHOOL,no school matched
+prov:dia_ar_1903,dia_ar_1903,p0618-mcdougall-orphanage-and-boardi,1903,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,school,,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,no school matched
+prov:dia_ar_1903,dia_ar_1903,p0619-onion-lake-r-c-boarding-school,1903,"ONION LAKE R.C. BOARDING SCHOOL, N.W.T",school,,"ONION LAKE R.C. BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0630-sarcee-boarding-school-n-w-t,1903,"SARCEE BOARDING SCHOOL, N.W.T",school,,"SARCEE BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0633-st-albert-boarding-school-n-w,1903,"ST. ALBERT BOARDING SCHOOL, N.W.T",school,,"ST. ALBERT BOARDING SCHOOL, N.W.T",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0641-battleford-insustrial-school-n,1903,"BATTLEFORD INSUSTRIAL SCHOOL, N.W.T",school,,"BATTLEFORD INSUSTRIAL SCHOOL, N.W.T",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0644-calgary-industrial-school-n-w,1903,"CALGARY INDUSTRIAL SCHOOL, N.W.T",school,,"CALGARY INDUSTRIAL SCHOOL, N.W.T",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0657-regina-industrial-school-n-w-t,1903,"REGINA INDUSTRIAL SCHOOL, N.W.T",school,,"REGINA INDUSTRIAL SCHOOL, N.W.T",no school matched
+prov:dia_ar_1903,dia_ar_1903,p0662-high-river-industrial-school,1903,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+prov:dia_ar_1904,dia_ar_1904,p0116-the-honourable,1904,The Honourable,mentions,AGT-chippewas-and-saulteaux-of-treaty-no-3-at|AG-st-francis-agency,AGT-chippewas-and-saulteaux-of-treaty-no-3-at:1; AG-st-francis-agency:1,place mentions point to several units
+prov:dia_ar_1904,dia_ar_1904,p0188-portage-la-prairie-and-manitow,1904,PORTAGE LA PRAIRIE AND MANITOWAPAH AGENCIES,phrase_head,AG-fort-frances-agency|AG-portage-la-prairie-agency,phrase_head:PORTAGE LA PRAIRIE AGENCY; phrase_tail:Fort Frances agency,several units named
+prov:dia_ar_1904,dia_ar_1904,p0554-st-john-s-homes-blackfoot-rese,1904,ST. JOHN'S HOMES-BLACKFOOT RESERVE,school,,ST. JOHN'S HOMES-BLACKFOOT RESERVE,no school matched
+prov:dia_ar_1904,dia_ar_1904,p0595-mcdougall-orphanage-and-boardi,1904,McDOUGALL ORPHANAGE AND BOARDING SCHOOL,school,,McDOUGALL ORPHANAGE AND BOARDING SCHOOL,no school matched
+prov:dia_ar_1904,dia_ar_1904,p0642-high-river-industrial-school,1904,HIGH RIVER INDUSTRIAL SCHOOL,school,,HIGH RIVER INDUSTRIAL SCHOOL,no school matched
+prov:dia_ar_1904,dia_ar_1904,p0666-bay-industrial-school,1904,BAY INDUSTRIAL SCHOOL,school,,BAY INDUSTRIAL SCHOOL,no school matched
+prov:dia_ar_1905,dia_ar_1905,p0509-st-john-s-homes-blackfoot-rese,1905,ST. JOHN'S HOMES - BLACKFOOT RESERVE,school,,ST. JOHN'S HOMES - BLACKFOOT RESERVE,no school matched
+prov:dia_ar_1905,dia_ar_1905,p0544-mcdougall-orphanage-and-boardi,1905,McDOUGALL ORPHANAGE AND BOARDING SCHOOL,school,,McDOUGALL ORPHANAGE AND BOARDING SCHOOL,no school matched
+prov:dia_ar_1905,dia_ar_1905,p0564-wabiscow-st-martin-s-boarding,1905,WABISCOW (ST. MARTIN'S) BOARDING SCHOOL,school,,WABISCOW (ST. MARTIN'S) BOARDING SCHOOL,no school matched
+prov:dia_ar_1905,dia_ar_1905,p0567-calgary-industrial-school-june,1905,"CALGARY INDUSTRIAL SCHOOL, June 30, 1905",school,,"CALGARY INDUSTRIAL SCHOOL, June 30, 1905",no school matched
+prov:dia_ar_1905,dia_ar_1905,p0624-william-lake-industrial-school,1905,WILLIAM LAKE INDUSTRIAL SCHOOL,school,,WILLIAM LAKE INDUSTRIAL SCHOOL,no school matched
+prov:dia_ar_1906,dia_ar_1906,p0135-frank-pedley-esq-nova-scotia,1906,"FRANK PEDLEY, Esq — Nova Scotia",mentions,AGT-lunenburg|AGT-richmond|AGT-victoria,AGT-lunenburg:1; AGT-richmond:1; AGT-victoria:1,place mentions point to several units
+prov:dia_ar_1906,dia_ar_1906,p0429-frank-pedley-esq,1906,"FRANK PEDLEY, Esq",mentions,AG-st-francis-agency|AGT-chippewas-and-saulteaux-of-treaty-no-3-at,AG-st-francis-agency:1; AGT-chippewas-and-saulteaux-of-treaty-no-3-at:1,place mentions point to several units
+prov:dia_ar_1906,dia_ar_1906,p0488-boarding-and-industrial-school,1906,BOARDING AND INDUSTRIAL SCHOOLS,school,,BOARDING AND INDUSTRIAL SCHOOLS,no school matched
+prov:dia_ar_1906,dia_ar_1906,p0611-mcdougall-orphanage-and-boardi,1906,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,school,,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,no school matched
+prov:dia_ar_1906,dia_ar_1906,p0659-frank-pedley-esq,1906,"FRANK PEDLEY, Esq",school,,Crosby Girls' Home,no school matched
+prov:dia_ar_1907,dia_ar_1907,p0104-indian-agent,1907,Indian Agent,mentions,AG-st-francis-agency|AGT-chippewas-and-saulteaux-of-treaty-no-3-at|AG-pierreville-agency,AG-st-francis-agency:1; AGT-chippewas-and-saulteaux-of-treaty-no-3-at:1; AG-pierreville-agency:1,place mentions point to several units
+prov:dia_ar_1907,dia_ar_1907,p0140-frank-pedley-esq,1907,"FRANK PEDLEY, Esq",dateline_prev,AGT-picton|AGT-richmond,dateline_prev:MICMACS OF RICHMOND COUNTY; dateline_prev:PICTOU,several units named
+prov:dia_ar_1907,dia_ar_1907,p0445-boarding-and-industrial-school,1907,BOARDING AND INDUSTRIAL SCHOOLS,school,,BOARDING AND INDUSTRIAL SCHOOLS,no school matched
+prov:dia_ar_1907,dia_ar_1907,p0511-spirit-of-progress-in-the-scho,1907,spirit of progress in the school,school,,spirit of progress in the school,no school matched
+prov:dia_ar_1907,dia_ar_1907,p0553-inspectorate-balcarres,1907,INSPECTORATE.BALCARRES,school,,different schools in this inspectorate which I visited during the past nine months. CROWSTAND BOARDING SCHOOL,no school matched
+prov:dia_ar_1907,dia_ar_1907,p0571-st-john-s-homes-blackfoot-rese,1907,ST. JOHN'S HOMES - BLACKFOOT RESERVE,school,,ST. JOHN'S HOMES - BLACKFOOT RESERVE,no school matched
+prov:dia_ar_1908,dia_ar_1908,p0465-report-of-the-indian-reserve-c,1908,REPORT OF THE INDIAN RESERVE COMMISSIONER,mentions,AG-northwest-coast-agency|AG-kamloops-okanagan-agency|AG-kamloops-agency|AG-williams-lake-agency,AG-northwest-coast-agency:3; AG-kamloops-okanagan-agency:2; AG-kamloops-agency:1; AG-williams-lake-agency:1,place mentions point to several units
+prov:dia_ar_1908,dia_ar_1908,p0488-frank-penley-esq,1908,"FRANK PENLEY, Esq",school,,above school,no school matched
+prov:dia_ar_1908,dia_ar_1908,p0571-la-plonge-boarding-school,1908,LA PLONGE BOARDING SCHOOL,school,,LA PLONGE BOARDING SCHOOL,no school matched
+prov:dia_ar_1908,dia_ar_1908,p0631-mcdougall-orphanage-and-boardi,1908,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,school,,MCDOUGALL ORPHANAGE AND BOARDING SCHOOL,no school matched
+prov:dia_ar_1908,dia_ar_1908,p0633-st-john-s-homes-blackfoot-rese,1908,ST. JOHN'S HOMES-BLACKFOOT RESERVE,school,,ST. JOHN'S HOMES-BLACKFOOT RESERVE,no school matched
+prov:dia_ar_1909,dia_ar_1909,p0038-report,1909,REPORT,mentions,AG-kamloops-okanagan-agency|AG-new-westminster-agency|AG-nass-agency,AG-kamloops-okanagan-agency:1; AG-new-westminster-agency:1; AG-nass-agency:1,place mentions point to several units
+prov:dia_ar_1909,dia_ar_1909,p0089-frank-pedley-esq,1909,"FRANK PEDLEY, Esq",mentions,AG-rice-mud-lake-agency|AG-rice-lake-agency|AGT-mud-lake,AG-rice-mud-lake-agency:2; AG-rice-lake-agency:1; AGT-mud-lake:1,place mentions point to several units
+prov:dia_ar_1909,dia_ar_1909,p0121-province-of-quebec,1909,PROVINCE OF QUEBEC,mentions,AG-pierreville-agency|AG-st-francis-agency,AG-pierreville-agency:1; AG-st-francis-agency:1,place mentions point to several units
+prov:dia_ar_1909,dia_ar_1909,p0548-la-plonge-boarding-school,1909,LA PLONGE BOARDING SCHOOL,school,,LA PLONGE BOARDING SCHOOL,no school matched
+prov:dia_ar_1909,dia_ar_1909,p0605-st-john-s-homes-blackfoot-rese,1909,"ST. JOHN'S HOMES, BLACKFOOT RESERVE",school,,"ST. JOHN'S HOMES, BLACKFOOT RESERVE",no school matched
+prov:dia_ar_1910,dia_ar_1910,p0079-province-of-ontario,1910,PROVINCE OF ONTARIO,mentions,AG-rice-mud-lake-agency|AG-scugog-agency,AG-rice-mud-lake-agency:1; AG-scugog-agency:1,place mentions point to several units
+prov:dia_ar_1910,dia_ar_1910,p0411-office-of-the-indian-reserve-c,1910,OFFICE OF THE INDIAN RESERVE COMMISSIONER,mentions,AG-kamloops-okanagan-agency|AG-williams-lake-agency|AG-kamloops-agency,AG-kamloops-okanagan-agency:2; AG-williams-lake-agency:1; AG-kamloops-agency:1,place mentions point to several units
+prov:dia_ar_1910,dia_ar_1910,p0437-and-principals-of-boarding-and,1910,AND PRINCIPALS OF BOARDING AND — Nova Scotia,mentions,AGT-victoria|AGT-lunenburg|AGT-inverness,AGT-victoria:1; AGT-lunenburg:1; AGT-inverness:1,place mentions point to several units
+prov:dia_ar_1910,dia_ar_1910,p0442-and-principals-of-boarding-and,1910,AND PRINCIPALS OF BOARDING AND — Prince Edward Island,school,,progress of this school,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0510-and-principals-of-boarding-and,1910,AND PRINCIPALS OF BOARDING AND — British Columbia,mentions,AG-west-coast-agency|AG-northwest-coast-agency|AG-fraser-agency|AG-kwawkewlth-agency,AG-west-coast-agency:4; AG-northwest-coast-agency:3; AG-fraser-agency:2; AG-kwawkewlth-agency:2,place mentions point to several units
+prov:dia_ar_1910,dia_ar_1910,p0574-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS,school,,BOARDING AND INDUSTRIAL SCHOOLS,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0634-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1910,dia_ar_1910,p0694-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1910,dia_ar_1910,p0754-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1910,dia_ar_1910,p0789-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0791-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0792-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,school,,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0793-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0793-boarding-and-industrial-school-2,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0793-boarding-and-industrial-school-3,1910,BOARDING AND INDUSTRIAL SCHOOLS — British Columbia,school,,BOARDING AND INDUSTRIAL SCHOOLS — British Columbia,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0794-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0795-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0795-boarding-and-industrial-school-2,1910,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,school,,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0796-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0797-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0798-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0799-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0800-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0801-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0802-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0803-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0805-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0806-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0808-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0809-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0812-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0813-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0814-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0815-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0816-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0817-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0822-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0825-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0828-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0831-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0834-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0838-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0841-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0842-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Nova Scotia,school,,BOARDING AND INDUSTRIAL SCHOOLS — Nova Scotia,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0844-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0845-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0846-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0847-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0849-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0850-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0851-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0852-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0854-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0855-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0856-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0857-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0859-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0860-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0861-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0862-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0863-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0864-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0865-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0866-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0868-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0879-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0903-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,school,,BOARDING AND INDUSTRIAL SCHOOLS — Manitoba,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0926-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0942-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,school,,BOARDING AND INDUSTRIAL SCHOOLS — Quebec,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0948-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,school,,BOARDING AND INDUSTRIAL SCHOOLS — Saskatchewan,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0954-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Yukon,school,,BOARDING AND INDUSTRIAL SCHOOLS — Yukon,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0965-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,school,,BOARDING AND INDUSTRIAL SCHOOLS — Ontario,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0971-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,school,,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0973-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Nova Scotia,school,,BOARDING AND INDUSTRIAL SCHOOLS — Nova Scotia,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0975-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Prince Edward Island,school,,BOARDING AND INDUSTRIAL SCHOOLS — Prince Edward Island,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0975-boarding-and-industrial-school-2,1910,BOARDING AND INDUSTRIAL SCHOOLS — British Columbia,school,,BOARDING AND INDUSTRIAL SCHOOLS — British Columbia,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0991-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,school,,BOARDING AND INDUSTRIAL SCHOOLS — Alberta,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0995-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Nova Scotia,school,,BOARDING AND INDUSTRIAL SCHOOLS — Nova Scotia,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0995-boarding-and-industrial-school-2,1910,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,school,,BOARDING AND INDUSTRIAL SCHOOLS — New Brunswick,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0996-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Prince Edward Island,school,,BOARDING AND INDUSTRIAL SCHOOLS — Prince Edward Island,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0997-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS — Northwest Territories,school,,BOARDING AND INDUSTRIAL SCHOOLS — Northwest Territories,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0997-boarding-and-industrial-school-2,1910,BOARDING AND INDUSTRIAL SCHOOLS — British Columbia,school,,BOARDING AND INDUSTRIAL SCHOOLS — British Columbia,no school matched
+prov:dia_ar_1910,dia_ar_1910,p0997-boarding-and-industrial-school-3,1910,BOARDING AND INDUSTRIAL SCHOOLS — Yukon,school,,BOARDING AND INDUSTRIAL SCHOOLS — Yukon,no school matched
+prov:dia_ar_1910,dia_ar_1910,p1057-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1910,dia_ar_1910,p1117-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1910,dia_ar_1910,p1177-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1910,dia_ar_1910,p1237-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1910,dia_ar_1910,p1297-boarding-and-industrial-school,1910,BOARDING AND INDUSTRIAL SCHOOLS (cont.),school,,BOARDING AND INDUSTRIAL SCHOOLS (cont.),no school matched
+prov:dia_ar_1911,dia_ar_1911,p0032-of-the,1911,OF THE,mentions,AGT-richmond|AGT-cape-breton|AGT-lunenburg|AG-northwest-coast-agency,AGT-richmond:1; AGT-cape-breton:1; AGT-lunenburg:1; AG-northwest-coast-agency:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p0077-frank-pedley-esq,1911,"FRANK PEDLEY, Esq",mentions,AG-rice-mud-lake-agency|AGT-rice-and-mud-lakes,AG-rice-mud-lake-agency:2; AGT-rice-and-mud-lakes:2,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p0133-frank-pedley-esq,1911,"FRANK PEDLEY, Esq",mentions,AGT-cumberland|AGT-richmond|AGT-victoria,AGT-cumberland:1; AGT-richmond:1; AGT-victoria:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p0426-dr-c-gordon-hewitt,1911,DR. C. GORDON HEWITT,mentions,AG-fraser-agency|AG-kamloops-okanagan-agency|AG-lytton-agency|AG-cowichan-agency,AG-fraser-agency:2; AG-kamloops-okanagan-agency:2; AG-lytton-agency:2; AG-cowichan-agency:2,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p0449-with-tabular-statement-and-rep,1911,WITH TABULAR STATEMENT AND REPORTS FROM INSPECTORS AND PRINCIPALS OF DAY — Nova Scotia,mentions,AGT-victoria|AGT-lunenburg|AGT-inverness,AGT-victoria:1; AGT-lunenburg:1; AGT-inverness:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p0534-with-tabular-statement-and-rep,1911,WITH TABULAR STATEMENT AND REPORTS FROM INSPECTORS AND PRINCIPALS OF DAY — British Columbia,mentions,AG-northwest-coast-agency|AG-kamloops-okanagan-agency|AG-kwawkewlth-agency|AG-cowichan-agency,AG-northwest-coast-agency:5; AG-kamloops-okanagan-agency:4; AG-kwawkewlth-agency:2; AG-cowichan-agency:2,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p0846-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM — Alberta",mentions,AG-kamloops-okanagan-agency|AG-lytton-agency|AG-fraser-agency|AG-northwest-coast-agency,AG-kamloops-okanagan-agency:4; AG-lytton-agency:3; AG-fraser-agency:3; AG-northwest-coast-agency:2,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p0867-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM — Manitoba",mentions,AGT-lunenburg|AG-kamloops-okanagan-agency|AGT-queens|AGT-richmond,AGT-lunenburg:2; AG-kamloops-okanagan-agency:1; AGT-queens:1; AGT-richmond:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p1006-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM — Ontario",mentions,AGT-moravians|AG-scugog-agency|AG-rice-mud-lake-agency|AGT-rice-and-mud-lakes,AGT-moravians:1; AG-scugog-agency:1; AG-rice-mud-lake-agency:1; AGT-rice-and-mud-lakes:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p1014-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM — Nova Scotia",mentions,AGT-cape-breton|AGT-inverness|AGT-lunenburg|AGT-richmond,AGT-cape-breton:2; AGT-inverness:2; AGT-lunenburg:1; AGT-richmond:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p1016-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM — Prince Edward Island",phrase_tail,AG-clandeboye-agency|AG-kenora-agency,phrase_tail:Kenora agency; phrase_tail:Clandeboye agency,several units named
+prov:dia_ar_1911,dia_ar_1911,p1016-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM — Prince Edward Island",mentions,AG-kamloops-okanagan-agency|AG-cowichan-agency|AG-west-coast-agency|AG-northwest-coast-agency,AG-kamloops-okanagan-agency:3; AG-cowichan-agency:2; AG-west-coast-agency:2; AG-northwest-coast-agency:2,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p1036-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM — Northwest Territories",mentions,AGT-lunenburg|AGT-inverness|AG-pierreville-agency|AG-jeune-lorette-agency,AGT-lunenburg:2; AGT-inverness:2; AG-pierreville-agency:1; AG-jeune-lorette-agency:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p1216-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM (cont.)",mentions,AG-northwest-coast-agency|AG-babine-agency,AG-northwest-coast-agency:1; AG-babine-agency:1,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p1276-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM (cont.)",mentions,AG-west-coast-agency|AG-lytton-agency|AG-fraser-river-agency|AG-fraser-agency,AG-west-coast-agency:3; AG-lytton-agency:3; AG-fraser-river-agency:3; AG-fraser-agency:2,place mentions point to several units
+prov:dia_ar_1911,dia_ar_1911,p1336-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM (cont.)",phrase_tail,AG-duck-lake-agency|AG-onion-lake-agency,phrase_tail:Onion Lake Agency; phrase_tail:Duck Lake Agency,several units named
+prov:dia_ar_1911,dia_ar_1911,p1336-and-copies-of-circular-letters,1911,"AND COPIES OF CIRCULAR LETTERS, FORM (cont.)",mentions,AG-kamloops-okanagan-agency|AG-new-westminster-agency|AG-nass-agency|AG-fraser-river-agency,AG-kamloops-okanagan-agency:6; AG-new-westminster-agency:3; AG-nass-agency:3; AG-fraser-river-agency:2,place mentions point to several units
+prov:dia_ar_1912,dia_ar_1912,p0074-frank-pedley-esq,1912,"FRANK PEDLEY, Esq",mentions,AG-rice-mud-lake-agency|AGT-rice-and-mud-lakes|AG-rice-lake-agency,AG-rice-mud-lake-agency:2; AGT-rice-and-mud-lakes:2; AG-rice-lake-agency:2,place mentions point to several units
+prov:dia_ar_1912,dia_ar_1912,p0075-province-of-ontario,1912,PROVINCE OF ONTARIO,mentions,AG-scugog-agency|AG-tyendinaga-agency,AG-scugog-agency:1; AG-tyendinaga-agency:1,place mentions point to several units
+prov:dia_ar_1912,dia_ar_1912,p0464-blank-page-page-blanche-nova-s,1912,[blank page | page blanche] — Nova Scotia,mentions,AGT-victoria|AGT-lunenburg|AGT-cape-breton|AGT-richmond,AGT-victoria:1; AGT-lunenburg:1; AGT-cape-breton:1; AGT-richmond:1,place mentions point to several units
+prov:dia_ar_1912,dia_ar_1912,p0587-blank-page-page-blanche-britis,1912,[blank page | page blanche] — British Columbia,mentions,AG-northwest-coast-agency|AG-fraser-agency|AG-kamloops-okanagan-agency|AG-cowichan-agency,AG-northwest-coast-agency:5; AG-fraser-agency:3; AG-kamloops-okanagan-agency:3; AG-cowichan-agency:2,place mentions point to several units
+prov:dia_ar_1913,dia_ar_1913,p0085-frank-pedley-esq,1913,"FRANK PEDLEY, Esq",mentions,AG-rice-mud-lake-agency|AGT-rice-and-mud-lakes|AG-rice-lake-agency,AG-rice-mud-lake-agency:2; AGT-rice-and-mud-lakes:2; AG-rice-lake-agency:2,place mentions point to several units
+prov:dia_ar_1913,dia_ar_1913,p0116-frank-pedley-esq,1913,"FRANK PEDLEY, Esq",mentions,AGT-becancourt|AG-pierreville-agency,AGT-becancourt:1; AG-pierreville-agency:1,place mentions point to several units
+prov:dia_ar_1913,dia_ar_1913,p0123-frank-pedley-esq,1913,"FRANK PEDLEY, Esq",mentions,AG-jeune-lorette-agency|AGT-lorette|AGT-becancourt|AGT-seven-islands,AG-jeune-lorette-agency:1; AGT-lorette:1; AGT-becancourt:1; AGT-seven-islands:1,place mentions point to several units
+prov:dia_ar_1913,dia_ar_1913,p0497-photo,1913,PHOTO,mentions,AG-kamloops-okanagan-agency|AG-okanagan-agency|AG-cowichan-agency|AG-new-westminster-agency,AG-kamloops-okanagan-agency:3; AG-okanagan-agency:2; AG-cowichan-agency:2; AG-new-westminster-agency:1,place mentions point to several units
+prov:dia_ar_1913,dia_ar_1913,p0504-chief-medical-officer,1913,CHIEF MEDICAL OFFICER,mentions,AG-fraser-agency|AG-stuart-lake-agency,AG-fraser-agency:1; AG-stuart-lake-agency:1,place mentions point to several units
+prov:dia_ar_1913,dia_ar_1913,p0522-c-appended-for-fiscal-year-end,1913,"& c., APPENDED, FOR FISCAL YEAR ENDED MARCH 31, 1913 — Nova Scotia",mentions,AGT-lunenburg|AGT-colchester|AGT-victoria,AGT-lunenburg:2; AGT-colchester:1; AGT-victoria:1,place mentions point to several units
+prov:dia_ar_1913,dia_ar_1913,p0626-c-appended-for-fiscal-year-end,1913,"& c., APPENDED, FOR FISCAL YEAR ENDED MARCH 31, 1913 — British Columbia",mentions,AG-kamloops-okanagan-agency|AG-fraser-agency|AG-cowichan-agency|AG-kwawkewlth-agency,AG-kamloops-okanagan-agency:3; AG-fraser-agency:3; AG-cowichan-agency:2; AG-kwawkewlth-agency:2,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0066-report-alberta,1916,REPORT — Alberta,phrase_head,AG-blood-agency|AG-edmonton-agency,phrase_head:Blood Agency; phrase_head:Edmonton Agency,several units named
+prov:dia_ar_1916,dia_ar_1916,p0066-report-alberta,1916,REPORT — Alberta,mentions,AG-williams-lake-agency|AG-cowichan-agency|AG-lytton-agency|AG-northwest-coast-agency,AG-williams-lake-agency:5; AG-cowichan-agency:3; AG-lytton-agency:3; AG-northwest-coast-agency:2,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0099-report-nova-scotia,1916,REPORT — Nova Scotia,mentions,AGT-cumberland|AGT-lunenburg|AGT-queens,AGT-cumberland:1; AGT-lunenburg:1; AGT-queens:1,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0116-report-quebec,1916,REPORT — Quebec,mentions,AG-jeune-lorette-agency|AGT-lorette|AGT-seven-islands|AGT-halifax,AG-jeune-lorette-agency:1; AGT-lorette:1; AGT-seven-islands:1; AGT-halifax:1,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0506-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 — Nova Scotia",mentions,AGT-lunenburg|AGT-victoria,AGT-lunenburg:1; AGT-victoria:1,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0517-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 — Quebec",mentions,AGT-becancourt|AGT-seven-islands,AGT-becancourt:1; AGT-seven-islands:1,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0582-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 — British Columbia",mentions,AG-northwest-coast-agency|AG-kamloops-okanagan-agency|AG-fraser-agency|AG-babine-agency,AG-northwest-coast-agency:4; AG-kamloops-okanagan-agency:3; AG-fraser-agency:3; AG-babine-agency:2,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0603-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 — Yukon",mentions,AG-fraser-agency|AG-west-coast-agency|AG-cowichan-agency|AG-kwawkewlth-agency,AG-fraser-agency:3; AG-west-coast-agency:3; AG-cowichan-agency:3; AG-kwawkewlth-agency:2,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0723-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 (cont.)",phrase_head,AG-babine-agency|AG-bella-coola-agency,phrase_head:Babine Agency; phrase_head:Bella Coola Agency,several units named
+prov:dia_ar_1916,dia_ar_1916,p0783-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 (cont.)",mentions,AG-kamloops-okanagan-agency|AG-williams-lake-agency|AG-babine-agency|AG-northwest-coast-agency,AG-kamloops-okanagan-agency:3; AG-williams-lake-agency:3; AG-babine-agency:2; AG-northwest-coast-agency:1,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0843-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 (cont.)",mentions,AG-lytton-agency|AG-fraser-agency|AG-cowichan-agency|AG-west-coast-agency,AG-lytton-agency:6; AG-fraser-agency:4; AG-cowichan-agency:2; AG-west-coast-agency:2,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0903-for-the-fiscal-year-ended-marc,1916,"FOR THE FISCAL YEAR ENDED MARCH 31, 1916 (cont.)",mentions,AG-northwest-coast-agency|AG-kamloops-okanagan-agency|AG-lytton-agency|AG-cowichan-agency,AG-northwest-coast-agency:9; AG-kamloops-okanagan-agency:6; AG-lytton-agency:6; AG-cowichan-agency:5,place mentions point to several units
+prov:dia_ar_1916,dia_ar_1916,p0961-interest-3-77-3-77,1916,... Interest                                  ...        3 77    3 77,mentions,AG-west-coast-agency|AG-williams-lake-agency,AG-west-coast-agency:1; AG-williams-lake-agency:1,place mentions point to several units
+prov:dia_ar_1924,dia_ar_1924,p0554-the-deputy-superintendent-gene,1924,The Deputy Superintendent General of Indian Affairs,phrase_head,AG-crooked-lake-agency|AG-lesser-slave-lake-agency,phrase_head:Crooked Lake Agency; phrase_head:Lesser Slave Lake Agency; phrase_tail:Crooked Lake Agency; phrase_tail:Lesser Slave Lake Agency,several units named
+1882_6,dia_ar_1881,p0113-balance-on-hand-2-68,1881,Balance on hand                                              2 68 ,signature_prior,AGT-kings|AGT-lunenburg,,signatory attributed to several units
+1882_6,dia_ar_1881,p0172-sioux-reserve,1881,SIOUX RESERVE,signature_prior,AG-birtle-agency|AG-rosseau-river-agency,,signatory attributed to several units
+1882_6,dia_ar_1881,p0178-grand-rapids-n-w-t,1881,"GRAND RAPIDS, N.W.T",signature_prior,AG-beren-s-river-agency|AG-grand-rapids-agency,,signatory attributed to several units
+1883_5,dia_ar_1882,p0090-province-of-new-brunswick,1882,PROVINCE OF NEW BRUNSWICK,signature_prior,AG-penetanguishene-agency|AG-south-western-superintendency-2nd-division,,signatory attributed to several units
+1884_4,dia_ar_1883,p0104-the-right-honorable,1883,The Right Honorable,signature_prior,AG-lake-st-john-agency|AG-viger-agency,,signatory attributed to several units
+1884_4,dia_ar_1883,p0115-the-right-honorable,1883,The Right Honorable,signature_prior,AG-penetanguishene-agency|AG-south-western-superintendency-2nd-division,,signatory attributed to several units
+1884_4,dia_ar_1883,p0120-the-right-honorable,1883,The Right Honorable,signature_prior,AGT-kings|AGT-lunenburg,,signatory attributed to several units
+1884_4,dia_ar_1883,p0159-indian-office,1883,INDIAN OFFICE,signature_prior,AG-birtle-agency|AG-rosseau-river-agency,,signatory attributed to several units
+1884_4,dia_ar_1883,p0178-the-right-honorable-2,1883,The Right Honorable,signature_prior,AG-battleford-agency|AG-carlton-agency,,signatory attributed to several units
+1885_3,dia_ar_1884,p0134-perth-centre-n-b-30th-august-1,1884,"PERTH CENTRE, N.B., 30th August, 1884",signature_prior,AG-penetanguishene-agency|AG-south-western-superintendency-2nd-division,,signatory attributed to several units
+1885_3,dia_ar_1884,p0231-indian-office,1884,INDIAN OFFICE,signature_prior,AG-northwest-coast-agency|AG-william-s-lake-agency,,signatory attributed to several units
+1886_4,dia_ar_1885,p0163-the-right-honorable,1885,The Right Honorable,signature_prior,AG-edmonton-agency|AG-manitoba-superintendency,,signatory attributed to several units
+1886_4,dia_ar_1885,p0166-blood-reserve-treaty-no-7,1885,BLOOD RESERVE - TREATY No. 7,signature_prior,AG-blood-agency|AG-indian-agent-s-office-blood-agency,,signatory attributed to several units
+1886_4,dia_ar_1885,p0201-the-right-honorable,1885,The Right Honorable,signature_prior,AG-coutcheching-agency|AG-manito-wah-pah-agency|AG-manitoba-house-agency|AG-manitoba-village-agency|AG-st-peter-s-broken-head-fort-alexandria-agency,,signatory attributed to several units
+1886_4,dia_ar_1885,p0221-indian-office-victoria-b-c-2nd,1885,"INDIAN OFFICE, VICTORIA, B.C., 2nd November, 1885",signature_prior,AG-northwest-coast-agency|AG-william-s-lake-agency,,signatory attributed to several units
+1887_6,dia_ar_1886,p0106-to-the-right-honorable,1886,To the Right Honorable,signature_prior,AG-lake-st-john-agency|AG-maria-agency|AG-viger-agency,,signatory attributed to several units
+1887_6,dia_ar_1886,p0115-l-f-boucher,1886,L.F. BOUCHER,signature_prior,AG-jeune-lorette-agency|AG-south-western-superintendency-1st-division,,signatory attributed to several units
+1887_6,dia_ar_1886,p0277-indian-agency-treaty-no-6,1886,"INDIAN AGENCY, TREATY No. 6",signature_prior,AG-i-ndian-agency|AG-saddle-lake-agency,,signatory attributed to several units
+1888_15,dia_ar_1887,p0179-the-honorable,1887,The Honorable,signature_prior,AG-south-western-superintendency-1st-division|AGT-1st,,signatory attributed to several units
+1888_15,dia_ar_1887,p0182-the-honorable,1887,The Honorable,signature_prior,AG-penetanguishene-agency|AG-south-western-superintendency-2nd-division,,signatory attributed to several units
+1888_15,dia_ar_1887,p0246-selkirk-4th-october-1886,1887,"SELKIRK, 4th October, 1886",signature_prior,AG-battleford-agency|AG-beren-s-river-agency|AG-berens-river-agency|AG-kamloops-agency|AG-kamloops-okanagan-agency|AG-okanagan-agency,,signatory attributed to several units
+1888_15,dia_ar_1887,p0251-indian-agency-battleford,1887,INDIAN AGENCY - BATTLEFORD,signature_prior,AG-battleford-agency|AG-beren-s-river-agency|AG-berens-river-agency|AG-kamloops-agency|AG-kamloops-okanagan-agency|AG-okanagan-agency,,signatory attributed to several units
+1888_15,dia_ar_1887,p0273-indian-agent-s-office,1887,INDIAN AGENT'S OFFICE,signature_prior,AG-edmonton-agency|AG-manitoba-superintendency,,signatory attributed to several units
+1889_16,dia_ar_1888,p0166-the-honorable,1888,The Honorable,signature_prior,AG-south-western-superintendency-1st-division|AGT-1st,,signatory attributed to several units
+1889_16,dia_ar_1888,p0186-indian-office,1888,INDIAN OFFICE,signature_prior,AG-clandeboye-agency|AG-manito-wah-pah-agency|AG-portage-la-prairie-agency,,signatory attributed to several units
+1890_12,dia_ar_1889,p0131-the-honorable-2,1889,The Honorable,signature_prior,AG-northern-inspectorate|AGT-1st,,signatory attributed to several units
+1890_12,dia_ar_1889,p0595-the-honorable,1889,The Honorable,signature_prior,AG-battleford-agency|AG-beren-s-river-agency|AG-kamloops-agency|AG-kamloops-okanagan-agency,,signatory attributed to several units
+1891_18,dia_ar_1890,p0086-the-honourable,1890,The Honourable,signature_prior,AG-caughnawaga-agency|AG-river-desert-agency|AG-st-regis-agency,,signatory attributed to several units
+1892_14,dia_ar_1891,p0073-indian-agency-georgina-10th-au,1891,"INDIAN AGENCY, GEORGINA, 10th August, 1891",signature_prior,AG-lake-simcoe-agency|AG-simcoe-agency,,signatory attributed to several units
+1892_14,dia_ar_1891,p0116-the-honourable,1891,The Honourable,signature_prior,AG-northern-inspectorate|AGT-1st,,signatory attributed to several units
+1893_14,dia_ar_1892,p0099-south-western-district-1st-div,1892,"SOUTH-WESTERN DISTRICT, 1st Division",signature_prior,AG-northern-inspectorate|AGT-1st,,signatory attributed to several units
+1894_14,dia_ar_1893,p0039-parry-sound-ont-28th-august-18,1893,"PARRY SOUND, ONT., 28th August, 1893",signature_prior,AG-northern-superintendency-2nd-division|AG-parry-sound-superintendency,,signatory attributed to several units
+1894_14,dia_ar_1893,p0050-chippewa-hill-29th-august-1893,1893,"CHIPPEWA HILL, 29th August, 1893",signature_prior,AG-alderville-agency|AG-roseneath-agency,,signatory attributed to several units
+1894_14,dia_ar_1893,p0076-the-honourable,1893,The Honourable,signature_prior,AG-babine-upper-skeena-river-agency|AGT-becancourt,,signatory attributed to several units
+1894_14,dia_ar_1893,p0080-the-honourable,1893,The Honourable,signature_prior,AG-northern-inspectorate|AG-southwestern-inspectorate|AGT-1st|AGT-fredericton,,signatory attributed to several units
+1894_14,dia_ar_1893,p0091-the-honourable-2,1893,The Honourable,signature_prior,AG-kentville-agency|AG-steam-mills-n-s-agency|AGT-king-s-county,,signatory attributed to several units
+1894_14,dia_ar_1893,p0129-indian-agent-s-office,1893,INDIAN AGENT'S OFFICE,signature_prior,AG-fort-pelly-agency|AG-swan-river-agency,,signatory attributed to several units
+1894_14,dia_ar_1893,p0143-the-honourable,1893,The Honourable,signature_prior,AG-east-assiniboia-moose-mountain-agency|AG-moose-mountain-agency,,signatory attributed to several units
+1894_14,dia_ar_1893,p0166-indian-agent-s-office,1893,INDIAN AGENT'S OFFICE,signature_prior,AG-carlton-agency|AG-indian-office-carlton-agency|AG-touchwood-hills-agency,,signatory attributed to several units
+1895_14,dia_ar_1894,p0093-indian-agent,1894,Indian Agent,signature_prior,AG-northern-inspectorate|AG-southwestern-inspectorate|AGT-fredericton,,signatory attributed to several units
+1895_14,dia_ar_1894,p0108-the-honourable-2,1894,The Honourable,signature_prior,AG-shubenacadie-agency|AGT-halifax,,signatory attributed to several units
+1895_14,dia_ar_1894,p0123-treaty-no-4-indian-agent-s-off,1894,"TREATY No. 4, INDIAN AGENT'S OFFICE",signature_prior,AG-fort-pelly-agency|AG-swan-river-agency,,signatory attributed to several units
+1896_14,dia_ar_1895,p0089-the-honourable,1895,The Honourable,signature_prior,AG-babine-upper-skeena-river-agency|AGT-becancourt,,signatory attributed to several units
+1896_14,dia_ar_1895,p0091-the-honourable,1895,The Honourable,signature_prior,AG-lake-st-john-agency|AG-maria-agency,,signatory attributed to several units
+1896_14,dia_ar_1895,p0103-the-honourable,1895,The Honourable,signature_prior,AG-shubenacadie-agency|AGT-halifax,,signatory attributed to several units
+1896_14,dia_ar_1895,p0103-the-honourable-2,1895,The Honourable,signature_prior,AG-kentville-agency|AG-steam-mills-n-s-agency|AGT-king-s-county,,signatory attributed to several units
+1896_14,dia_ar_1895,p0107-the-honourable-2,1895,The Honourable,signature_prior,AG-northern-inspectorate|AG-southwestern-inspectorate|AGT-annapolis-comity|AGT-fredericton,,signatory attributed to several units
+1896_14,dia_ar_1895,p0110-the-honourable,1895,The Honourable,signature_prior,AG-northern-inspectorate|AG-southwestern-inspectorate|AGT-annapolis-comity|AGT-fredericton,,signatory attributed to several units
+1896_14,dia_ar_1895,p0346-the-pas-saskatchewan-n-w-t-9th,1895,"THE PAS, SASKATCHEWAN, N.W.T., 9th August, 1895",signature_prior,AG-manitoba-superintendency|AG-oonikup-the-pas-agency,,signatory attributed to several units
+1897_14,dia_ar_1896,p0058-report,1896,REPORT,signature_prior,AG-county-of-renfrew-golden-lake-agency|AG-golden-lake-agency|AG-roseneath-agency,,signatory attributed to several units
+1898_14,dia_ar_1897,p0048-reports,1897,REPORTS,signature_prior,AG-county-of-renfrew-golden-lake-agency|AG-golden-lake-agency|AG-roseneath-agency,,signatory attributed to several units
+1899_14,dia_ar_1898,p0048-the-honourable,1898,The Honourable,signature_prior,AG-roseneath-agency|AG-saugeen-agency,,signatory attributed to several units
+1900_14,dia_ar_1899,p0070-the-honourable,1899,The Honourable,signature_prior,AG-roseneath-agency|AG-saugeen-agency,,signatory attributed to several units
+prov:dia_ar_1900,dia_ar_1900,p0143-the-honourable,1900,The Honourable,signature_prior,AG-bersimis-agency|AG-montagnais-or-lower-st-lawrence-bersimis-agency,,signatory attributed to several units
+prov:dia_ar_1901,dia_ar_1901,p0117-the-honourable,1901,The Honourable,signature_prior,AG-jeune-lorette-agency|AGT-cacouna,,signatory attributed to several units
+prov:dia_ar_1901,dia_ar_1901,p0125-the-honourable,1901,The Honourable,signature_prior,AG-lake-of-two-mountains-agency|AG-oka-agency|AG-st-regis-agency,,signatory attributed to several units
+prov:dia_ar_1901,dia_ar_1901,p0126-montagnais-of-lower-st-lawrenc,1901,MONTAGNAIS OF LOWER ST. LAWRENCE,signature_prior,AG-maria-agency|AG-restigouche-agency,,signatory attributed to several units
+prov:dia_ar_1903,dia_ar_1903,p0152-the-honourable,1903,The Honourable,signature_prior,AG-northern-inspectorate|AG-southwestern-inspectorate|AGT-fredericton,,signatory attributed to several units
+prov:dia_ar_1903,dia_ar_1903,p0157-the-honourable,1903,The Honourable,signature_prior,AGT-annapolis-comity|AGT-fredericton,,signatory attributed to several units
+prov:dia_ar_1903,dia_ar_1903,p0160-the-honourable,1903,The Honourable,signature_prior,AGT-colchester|AGT-cumberland,,signatory attributed to several units
+prov:dia_ar_1904,dia_ar_1904,p0142-new-brunswick,1904,NEW BRUNSWICK,signature_prior,AG-north-eastern-superintendency|AG-timiskaming-agency|AGT-northwestern,,signatory attributed to several units
+prov:dia_ar_1904,dia_ar_1904,p0156-the-honourable,1904,The Honourable,signature_prior,AGT-annapolis-comity|AGT-fredericton,,signatory attributed to several units
+prov:dia_ar_1905,dia_ar_1905,p0117-frank-pedley-esq,1905,"FRANK PEDLEY, Esq",signature_prior,AG-maria-agency|AG-pointe-bleue-agency|AG-restigouche-agency,,signatory attributed to several units
+prov:dia_ar_1906,dia_ar_1906,p0104-province-of-quebec,1906,PROVINCE OF QUEBEC,signature_prior,AG-caughnawaga-agency|AG-st-regis-agency,,signatory attributed to several units
+prov:dia_ar_1907,dia_ar_1907,p0132-frank-pedley-esq,1907,"FRANK PEDLEY, Esq",signature_prior,AGT-colchester|AGT-fredericton,,signatory attributed to several units
+prov:dia_ar_1907,dia_ar_1907,p0140-frank-pedley-esq,1907,"FRANK PEDLEY, Esq",signature_prior,AG-birtle-agency|AGT-richmond,,signatory attributed to several units
+prov:dia_ar_1908,dia_ar_1908,p0134-frank-pedley-esq,1908,"FRANK PEDLEY, Esq",signature_prior,AG-maria-agency|AG-pointe-bleue-agency|AG-restigouche-agency,,signatory attributed to several units
+prov:dia_ar_1908,dia_ar_1908,p0146-frank-pedley-esq,1908,"FRANK PEDLEY, Esq",signature_prior,AGT-annapolis-comity|AGT-fredericton,,signatory attributed to several units
+prov:dia_ar_1908,dia_ar_1908,p0150-frank-pedley-esq,1908,"FRANK PEDLEY, Esq",signature_prior,AGT-colchester|AGT-fredericton,,signatory attributed to several units
+prov:dia_ar_1908,dia_ar_1908,p0164-frank-paddle-esq,1908,"FRANK PADDLE, Esq",signature_prior,AG-birtle-agency|AG-prince-edward-island-agency,,signatory attributed to several units
+prov:dia_ar_1909,dia_ar_1909,p0086-frank-pedley-esq,1909,"FRANK PEDLEY, Esq",signature_prior,AG-manitowaning-agency|AG-roseneath-agency,,signatory attributed to several units
+prov:dia_ar_1909,dia_ar_1909,p0148-frank-pedley-esq,1909,"FRANK PEDLEY, Esq",signature_prior,AGT-annapolis-comity|AGT-fredericton,,signatory attributed to several units
+prov:dia_ar_1911,dia_ar_1911,p0133-frank-pedley-esq,1911,"FRANK PEDLEY, Esq",signature_prior,AG-prince-edward-island-agency|AG-shubenacadie-agency|AGT-colchester|AGT-cumberland|AGT-digby|AGT-halifax|AGT-kings|AGT-picton|AGT-queen-s-and-lunenburg-counties|AGT-queens|AGT-shelbourne|AGT-victoria|AGT-yarmouth,,signatory attributed to several units
+prov:dia_ar_1912,dia_ar_1912,p0076-frank-pedley-esq,1912,"FRANK PEDLEY, Esq",signature_prior,AG-indian-superintendent|AGT-mohawks-of-the-bay-of-quinte,,signatory attributed to several units
+prov:dia_ar_1912,dia_ar_1912,p0139-frank-pedley-esq,1912,"FRANK PEDLEY, Esq",signature_prior,AGT-queen-s-and-lunenburg-counties|AGT-queens,,signatory attributed to several units

@@ -1,0 +1,150 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+TABULAR STATEMENT No. 1
+
+SHOWING the Number of Acres of Indian Lands sold during the Year ended 30th June, 1892; the total
+amount of Purchase Money, and the approximate quantity of surrendered surveyed Indian Lands remaining
+unsold at that date in the Provinces of Ontario and Quebec and in the North-west Territories.
+
+PROVINCE OF ONTARIO.
+                                              Approximate
+                            Number
+Town or           County or          Amount Quantity
+                            of Acres                      Remarks.
+Township.         District.          of Sale. remaining
+                            sold.
+                                              unsold.
+...               ...        ...     $ cts.   Acres.       ...
+                                                           Some of these lands were resumed by the department,
+                                                           the conditions of sale not having been complied with,
+                                                           so that in certain cases there appears to have been
+Albemarle         Bruce      1,612.77 1,480 51 1,708.88
+                                                           more land remaining unsold at the close of the past
+                                                           fiscal year than remained unsold according to the
+                                                           previous year's report.
+Amabel          Bruce        139.95 389 93 654.05          ...
+Eastnor         Bruce        300.00 325 00 2,487.96        ...
+Lindsay         Bruce        2,625.00 1,300 25 458.00      ...
+St. Edmund      Bruce        3,258.00 2,308 50 32,338.00   ...
+Bury, town plot Bruce        ...      ...      1,767.25    ...
+Hardwick, town
+                Bruce        ...     ...      1,111.00     ...
+plot
+Oliphant, town
+                  Bruce      ...     ...      89.00        ...
+plot
+Southampton,
+                  Bruce      22.70   113 00   32.55        ...
+town plot
+Wiarton, town
+                  Bruce      ...     ...      77.00        ...
+plot
+Keppel          Grey      295.00     412 50   2,644.85     ...
+                Lake
+Saugeen         Huron and
+                          ...        ...      880,50       ...
+Fishing Islands Georgian
+                Bay
+                Lake
+Cape Hurd       Huron and
+                          ...        ...      7,702.50     ...
+Islands         Georgian
+                Bay
+Mississauga       Algom
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ee              Huntingdon                3,282.86      8,162 28    13,213.14            ...
+Viger               Temiscouata               ...           ...         75.00                ...
+...                 ...                       3,282.86      8,162 28    24,586.34            ...
+NORTH-WEST
+                    ...                       ...           ...         ...                  ...
+TERRITORIES.
+                                N.W.
+Papas Chase reserve                           1,947.00      7,344 95    21,783.00            ...
+                                Territories
+RECAPITULATION.                 ...           ...           ...         ...                  ...
+Ontario                         ...           17,587.04     29,678 06   413,875.07           ...
+
+<!-- page 509 -->
+Quebec                         ...     3,282.86    8,162 28    24,586.34    ...
+North-west Territories         ...     1,947.00    7,344 95    21,783.00    ...
+...                            ...     22,816.90   45,185 29   460,244.41   ...
+
+L. VANKOUGHNET,
+Deputy Supt.-Gen. of Indian Affairs.
+
+J.D. McLEAN,
+In charge of Land and Timber Branch.
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 30th June, 1892.
+
+
+
+=== EXTRACT FROM HERE (pages 510-512) ===
+<!-- page 510 -->
+ANNUAL REPORT - LAND AND TIMBER BRANCH.
+
+
+The land sold during the year amounts to 22,816.90 acres, and the sales to $45,185.29.
+
+The quantity of surrendered land still in the hands of the department, in round numbers, is 460,244 acres.
+
+Agents' returns (for land, timber and rent) examined and entered 578
+New sales entered                                                301
+Number of sales cancelled                                        102
+Number of leases issued and entered                              35
+Number of timber licenses issued                                 17
+Number of timber licenses renewed                                39
+Number of payments on leases entered                             714
+Number of payments on old sales entered                          464
+Number of notices to purchasers in arrears prepared and sent out 1,445
+Assignments of land examined and entered                         282
+Assignments of land registered                                   191
+Descriptions for patents prepared and entered                    310
+Number of patents engrossed                                      311
+Number of patents registered                                     311
+Number of patents despatched                                     311
+Number of patents cancelled                                      5
+Location tickets issued and entered                              31
+Number of files dealt with                                        3,953
+
+The total collections on account of old and new sales, on rents and on timber, amounted to $114,358.86.
+
+The approximate purchase money and interest thereon in arrears on land sales on the 30th June, 1892, amounted to
+$192,416.44.
+
+Principal $102,794 00
+Interest 89,622 44
+Total     $192,416 44
+
+L. VANKOUGHNET,
+Deputy Supt.-Gen. of Indian Affairs.
+
+J.D. McLEAN,
+In charge of Land and Timber Branch.
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 30th June, 1892.
+
+<!-- page 511 -->
+TABULAR STATEMENT No. 2. - Showing the Condition of the various Indian Schools.
+
+SUMMARY OF STATEMENT No. 2. ...
+Provinces.                  Pupils on Roll.
+Ontario                     2,273
+Quebec                      559
+Nova Scotia                 114
+New Brunswick               104
+Prince Edward Island        43
+British Columbia            687
+Manitoba                    1,500
+North-west Territories      2,295
+Total                       7,575
+
+L. VANKOUGHNET,
+Deputy Supt.-Gen. of Indian Affairs.
+
+JOHN McGIRR,
+Clerk of Statistics.
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 30th June, 1892.
+
+<!-- page 512 -->

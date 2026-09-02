@@ -1,0 +1,21 @@
+{"row_type": "headers", "title": "Account Current with the Department of Indian Affairs", "columns": ["DR Capital ($ cts.)", "DR Interest ($ cts.)", "CR description", "CR Capital ($ cts.)", "CR Interest ($ cts.)"]}
+{"page": 697, "row_type": "row", "section": null, "label": "To Balance on 30th June, 1886", "values": ["33 98", null, "By Balance on 30th June, 1885", "32 66", null], "confidence": "high"}
+{"page": 697, "row_type": "row", "section": null, "label": "...", "values": [null, null, "Interest for the year", "1 32", null], "confidence": "high"}
+{"page": 697, "row_type": "total", "section": null, "label": "...", "values": ["33 98", null, "...", "33 98", null], "confidence": "high"}
+{"page": 697, "row_type": "total", "section": null, "label": "...", "values": [null, null, "Balance on 30th June, 1886", "33 98", null], "confidence": "high"}
+{"page": 698, "row_type": "row", "section": null, "label": "To Balance on 30th June, 1886", "values": ["725 06", "610 18", "By Balance on 30th June, 1885", "725 06", "558 82"], "confidence": "high"}
+{"page": 698, "row_type": "row", "section": null, "label": "...", "values": [null, null, "One year's interest", null, "51 36"], "confidence": "high"}
+{"page": 698, "row_type": "total", "section": null, "label": "...", "values": ["725 06", "610 18", "...", "725 06", "610 18"], "confidence": "high"}
+{"page": 698, "row_type": "total", "section": null, "label": "...", "values": [null, null, "Balance on 30th June, 1886", "725 06", "610 18"], "confidence": "high"}
+{"page": 699, "row_type": "row", "section": null, "label": "To 12 months' interest on invested capital", "values": [null, "101 00", "By Balance", "2,500 00", "25 25"], "confidence": "high"}
+{"page": 699, "row_type": "row", "section": null, "label": "Balance on 30th June, 1886", "values": ["2,500 00", "25 25", "One year's interest", null, "101 00"], "confidence": "high"}
+{"page": 699, "row_type": "total", "section": null, "label": "...", "values": ["2,500 00", "126 25", "...", "2,500 00", "126 25"], "confidence": "high"}
+{"page": 699, "row_type": "total", "section": null, "label": "...", "values": [null, null, "Balance on 30th June, 1886", "2,500 00", "25 25"], "confidence": "high"}
+{"page": 700, "row_type": "row", "section": null, "label": "To 12 months' interest", "values": [null, "60 60", "By Balance on 30th June, 1885", "1,500 00", "15 15"], "confidence": "high"}
+{"page": 700, "row_type": "row", "section": null, "label": "Balance on 30th June, 1886", "values": ["1,500 00", "15 15", "12 months' interest", null, "60 60"], "confidence": "high"}
+{"page": 700, "row_type": "total", "section": null, "label": "...", "values": ["1,500 00", "75 75", "...", "1,500 00", "75 75"], "confidence": "high"}
+{"page": 700, "row_type": "total", "section": null, "label": "...", "values": [null, null, "Balance on 30th June, 1886", "1,500 00", "15 15"], "confidence": "high"}
+{"page": 701, "row_type": "row", "section": null, "label": "To Balance on 30th June, 1886", "values": ["2,000 00", "228 72", "By Balance on 30th, June, 1885", "2,000 00", "143 00"], "confidence": "high"}
+{"page": 701, "row_type": "row", "section": null, "label": "...", "values": [null, null, "12 months' interest", null, "85 72"], "confidence": "high"}
+{"page": 701, "row_type": "total", "section": null, "label": "...", "values": ["2,000 00", "228 72", "...", "2,000 00", "228 72"], "confidence": "high"}
+{"page": 701, "row_type": "total", "section": null, "label": "...", "values": [null, null, "Balance on 30th June, 1886", "2,000 00", "228 72"], "confidence": "high"}

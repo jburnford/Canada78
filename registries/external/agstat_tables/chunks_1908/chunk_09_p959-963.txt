@@ -1,0 +1,220 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS. REALTY OF INDIANS
+
+Agency             LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                   Cleared but  Under        Number     Number engaged in Number                Number
+...                not under    actual       engaged in hunting, trapping and engaged in        engaged in
+                   cultivation. cultivation. farming.   fishing.              other industries. stock-raising
+ONTARIO.           Acres.       Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency - 23,476          11,220     412          ...                   ...             412
+Six Nations
+Parry Sound
+                  839             485        55           43                    51              ...
+Superintendency
+New Credit
+(Mississaguas)     1,965          3,725      42           2                     35              ...
+Agency
+Walpole Island
+                   33,425         1,005      57           35                    ...             40
+Agency
+Sarnia             1,584         3,215       110          42                    45              52
+Caradoc Agency     4,459         10,512      63           ...                   ...             ...
+Moravian Agency    1,195         970         75           30                    20              60
+Manitowaning
+                   6,025         2,710       105          66                    114             ...
+Agency
+Gore Bay Agency 3,813 1/2        1,845 1/2   254          13                    291             ...
+Thessalon Agency 260             401         ...          2                     132             ...
+Sault Ste. Marie
+                 2,448           1,570       39           80                    153             ...
+Agency
+Port Arthur
+                   236           276         ...          276                   50              ...
+Agency
+Sturgeon Falls
+                   ...           375         ...          ...                   ...             ...
+Agency
+Golden Lake
+                   200           50          6            4                     ...             ...
+Agency
+Tyendinaga
+                   9,600         6,300       264          1                     231             ...
+Agency
+Lake Simcoe
+                   539           234         10           90                    9               9
+Agency
+Cape Croker
+                   3,500         1,500       145          25                    100             145
+Ag
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ ...    ...      ...       ...    ...        ...      ...   ...      ...      ...        ...     ...
+Clandeboye
+                  75      47        1     ...         ...     11       5       44      2       ...       12     17         76       4     91       19       16         16      26,200 00
+Agency
+Portage la Prairie
+                   51     27        10    ...         ...     25       10      24      4       ...       2      250        45       10    33       41       ...        52      5,550 00
+Agency
+Manitowapah
+                  27      19        ...   ...         ...     48       2       45     ...      ...       5      730        77       4     84       110      3         97       8,525 00
+Agency
+Norway House
+                  17      14        ...   ...         ...     ...      ...     ...    ...      ...       10     1,129      ...      ...   ...      ...      ...       ...      1,090 00
+Agency
+The Pas Agency 9          11        ...   ...         ...     3        ...     5      ...      ...       1      454        4        2     9        ...      ...       ...      1,227 00
+Birtle Agency  79         50        21    5           1       47       21      40     6        ...       ...    1,830      79       3     70       55       21        46       12,624 00
+Oak River
+               80         35        17    1           ...     27       35      22     4        3         3      490        67       ...   45       37       47        34       16,300 00
+(Sioux)Agency
+
+
+
+=== EXTRACT FROM HERE (pages 959-963) ===
+<!-- page 959 -->
+Total   338   203   49   6   1   161   73   180   16   3   33   4,900   348   23   332   262   87   245   71,516 00
+
+<!-- page 960 -->
+                 LIVE STOCK AND POULTRY.                                                                                                    Value
+                                                                                                                                            of Live
+Agency.                                                                                                                                     Stock
+                 Horses.                  Cattle.                           Other Stock.                      Poultry.                      and
+                                                                                                                                            Poultry.
+                            Geldings                                                                                                   Cocks
+                                                   Oxen,         Cows, Young                              Other
+...              Stallions. and      Foals. Bulls.       Steers.               Lambs. Sheep. Boars. Sows.       Turkeys. Geese. Ducks. and ...
+                                                   work.         Milch. Stock.                            Pigs.
+                            Mares.                                                                                                     Hens.
+NEW
+           ...             ...     ...    ...       ...   ...   ...   ...   ...    ...     ...   ...    ...   ...        ...   ...   ...    $ cts.
+BRUNSWICK.
+Richibucto
+                ...        30      ...    ...       ...   70    34    ...   ...    ...     ...   ...    28    ...        ...   ...   315    3,355 00
+Superintendency
+Fredericton
+                3          25      2      ...       ...   7     18    29    ...    ...     ...   9      77    ...        35    ...   590    3,970 00
+Superintendency
+Total           3          55      2      ...       ...   77    52    29    ...    ...     ...   9      105   ...        35    ...   905    7,325 00
+PRINCE
+EDWARD          ...        ...     ...    ...       ...   ...   ...   ...   ...    ...     ...   ...    ...   ...        ...   ...   ...    ...
+ISLAND.
+Prince Edward
+Island          ...        7       ...    ...       ...   ...   10    13    ...     ...    ...   1      7     ...        ...   ...   100    1,280 00
+Superintendency
+NOVA
+                ...        ...     ...    ...       ...   ...   ...   ...   ...     ...    ...   ...    ...   ...        ...   ...   ...    ...
+SCOTIA.
+Annapolis
+                 ...       ...     ...    ...       2     ...   2     ...   ...     ...    ...   ...    2     4          ...   ...   10     150 00
+County
+Shelburne
+                 ...       ...     ...    ...       1     ...   ...   ...   ...     ...    ...   ...    ...   ...        ...   ...   ...    40 00
+County
+Digby County     ...       ...     ...    ...       ...   ...   1     ...   ...     ...    ...   ...    ...   ...        ...   ...   ...    20 00
+Yarmouth
+                 ...       ...     ...    ...       ...   ...   ...   ...   ...     ...    ...   ...    ...   ...        ...   ...   ...    ...
+County
+Kings County     ...       2       ...    ...       2     2     1     2     ...     ...    ...   ...    1     ...        ...   ...   14     340 00
+Queens County    ...       1       ...    ...       4     2     4     5     6       12     ...   ...    6     ...        ...   ...   ...    370 00
+Halifax County   ...       1       ...    ...       ...   ...   7     10    ...     ...    ...   ...    ...   ...        ...   ...   150    625. 00
+Hants County     ...       6       ...    ...       2     ...   8     5     ...     ...    ...   2      10    ...        ...   20    150    890 00
+Colchester
+                 ...       1       ...    ...       ...   ...   1     3     ...     ...    ...   ...    ...   ...        ...   ...   25     131. 00
+County
+Cumberland
+                 ...       ...     ...    ...       ...   ...   2     1     ...     ...    ...   ...    ...   ...        ...   ...   22     85. 00
+County
+Pictou County ...          4       ...    ...       ...   ...   ...   ...   ...     ...    ...   1      1     ...        ...   ...   78     450. 00
+Antigonish and
+Guysborough    ...         2       ...    ...       2     4     6     4     ...    ...     ...   ...    ...   12         ...   ...   60     425 00
+Counties
+Richmond
+               4           2       ...    ...       ...   ...   6     9     ...    ...     ...   ...    ...   ...        ...   ...   40     650 00
+County
+Inverness
+                 ...       12      ...    2         2     5     15    12    ...    ...     ...   ...    ...   ...        ...   ...   70     1,125 00
+County
+
+<!-- page 961 -->
+Victoria County ...   8   1     2     ...   5     20    22    5     16    ...   ...   5     ...   ...   ...   150   1,300 00
+Cape Breton
+(Sydney)        ...   1   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   40    70 00
+County
+Lunenburg
+                ...   3   1     1     6     8     16    12    20    25    ...   ...   7     15    12    16    25    900 00
+County
+
+<!-- page 962 -->
+              LIVE STOCK AND POULTRY.                                                                                                      Value of
+                                                                                                                                           Live Stock
+Agency.
+              Horses.                  Cattle.                           Other Stock.                       Poultry.                       and
+                                                                                                                                           Poultry.
+                         Geldings                                                                                                   Cocks
+                                                Oxen,         Cows, Young                              Other
+...           Stallions. and      Foals. Bulls.       Steers.               Lambs. Sheep. Boars. Sows.       Turkeys. Geese. Ducks. and   ...
+                                                work.         Milch. Stock.                            Pigs.
+                         Mares.                                                                                                     Hens.
+Cape Breton
+(Eskasoni)  ...         11      ...    ...       ...   10    21    20    ...     25     ...    ...    ...   ...        ...   ...    140    2,030 00
+County
+Total       4           54      2      5         21    36    110   105   31      78     ...    3      32    31         12    36     974    9,111 00
+BRITISH
+            ...         ...     ...    ...       ...   ...   ...   ...   ...     ...    ...    ...    ...    ...       ...   ...    ...    ...
+COLUMBIA.
+Cowichan
+              116       209     60     7         10    45    360   243   439     1,222 ...     2      20     5         555   485    5,370 43,100 00
+Agency
+West Coast
+              ...       17      ...    16        ...   ...   76    52    4       10     ...    ...    ...    ...       7     14     494    5,140 00
+Agency
+Kwawkewlth
+           ...          1       ...    1         ...   ...   4     4     ...     ...    ...    ...    ...    ...       24    34     710    722 00
+Agency
+Lower Fraser
+             80         537     102    45        72    92    697   463   370     242    48     252    1,947 ...        20    949    3,017 62,809 00
+Agency
+Williams
+            39          1,286   436    25        ...   338   346   248   ...     ...    4      34     63     ...       ...   ...    1,875 73,890 00
+Lake Agency
+Kamloops -
+Okanagan      164       3,964   1,853 72         ...   344   1,453 2,239 30      37     51     384    1,096 ...        36    15     2,988 332,551 50
+Agency
+Kootenay
+              55        1,495   180    36        ...   54    730   690   ...     ...    ...    ...    ...    ...       ...   ...    610    90,515 00
+Agency
+Northwest
+             32         42      24     18        ...   46    71    53    10      10     ...    ...    ...    ...       ...   20     2,450 13,600 00
+Coast Agency
+Babine and
+Upper Skeena 85         534     39     28        ...   34    325   187   ...     ...    ...    ...    ...    ...       ...   ...    ...    56,960 00
+River Agency.
+Cassiar
+              ...       15      ...    ...       ...   ...   ...   ...   ...     ...    ...    ...    ...    ...       ...   ...    ...    1,500 00
+Agency
+Total      571          8,100    2,694 248       82    953   4,062 4,179 853     1,521 103     672    3,126 5          642   1,518 17,514 680,787 50
+MANITOBA. ...           ...      ...   ...       ...   ...   ...   ...   ...     ...   ...     ...    ...   ...        ...   ...   ...    ...
+Clandeboye
+           4            204      19    12        128   192   246   205   ...     ...    ...    ...    ...    ...       ...   ...    690    30,510 00
+Agency
+Portage la
+Prairie     ...         151      4     5         34    14    47    67    ...     ...    ...    ...    11     ...       ...   ...    142    6,800 00
+Agency
+Manitowapah
+            ...         365      14    51        71    638   1,082 49    ...     4      9      9      8      ...       ...   ...    90     30,400 00
+Agency
+Norway
+House         1         28      ...    16        27    64    164   151   ...     ...    ...    ...    ...   ...        ...   ...    ...    8,560 00
+
+<!-- page 963 -->
+Agency
+The Pas
+             6     28      4     4     23    38    111   59    ...   ...   ...   ...   ...   ...   ...   ...   ...   8,020 00
+Agency
+Birtle Agency 3    292     ...   11    23    142   174   162   ...   ...   ...   1     13    ...   ...   16    171   38,469 00
+Oak River
+(Sioux)       1    232     17    2     ...   10    38    33    ...   ...   ...   ...   ...   14    12    20    390   17,815 00
+Agency
+Total         15   1,300   58    101   306   1,088 1,862 726   ...   4     9     10    32    14    12    36    1,483 140,574 00
+

@@ -1,0 +1,248 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.
+
+Agency.        LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+               Number Cleared but    Under        Number     Number        Number in engaged in Number
+...            of       not under    actual       engaged in engaged in    hunting, trapping and engaged other
+               Indians. cultivation. cultivation. farming.   stock-raising fishing.              industries.
+
+               ...     Acres.        Acres.      ...         ...           ...                  ...
+ALBERTA.
+Blackfoot      768     299,950       250         24          132           ...                  ...
+Blood          1,149   347,641       2,392       27          318           ...                  10
+Edmonton       683     33,655        1,280       29          68            73                   49
+Hobbema        785     75,778        642         71          79            62                   26
+Lesser Slave
+               224     11,450        50          ...         24            47                   1
+Lake
+Piegan         462     93,429        109         10          82            ...                  56
+Saddle Lake    798     79,641        1,424       116         ...           157                  ...
+Sarcee         211     58,120        218         20          23            16                   6
+Stony          667     44,480        240         10          65            35                   100
+Total          5,747   1,044,144     6,605       307         791           390                  248
+
+BRITISH      ...       ...           ...         ...         ...           ...                  ...
+COLUMBIA.
+Babine and
+             3,113     18,878        750         47          900           169                  ...
+Upper Skeena
+Bella Coola    1,266   70            25          ...         ...           405                  ...
+Cassiar        305     325           ...         ...         ...           168                  69
+Cowichan       1,758   5,400         3,202       7           ...           94                   208
+Fraser River   2,846   3,498         3,713       509         ...           319                  289
+Kamloops-
+               3,862   241,643       17,046      893         l6            537                  53
+Okanagan
+Kootenay       573     38,356        1,640       129         ...           ...                  71
+Kwawkewlth     1,227   314    
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+       5,239 377        ...     187      110      5,950
+Carlton           25    1,889      2     135        3      414       2      110       ...        3,849 1,320      43      310      883      275
+Crooked Lake      11    750        ...   ...        ...    ...       3      210       30         1,776 1,075      ...     152      155      14
+Duck Lake         10    1,160      ...   ...        ...    ...       ...    ...       ...        3,400 857        ...     ...      155      220
+Moose Mountain    6     600        1     100        1      150       ...    ...       100        600    375       ...     83       38       ...
+Onion Lake        9     1,860      5     90         ...    209       ...    80        ...        3,100 275        ...     91       82       300
+Pelly             6     1,110      1     99         2      200       2      118       ...        1,705 1,000      ...     209      277      2,032
+Qu'Appelle        22    2,360      4     263        10     940       4      185       ...        4,025 2,420      ...     1,032    740      ...
+Touchwood Hills   9     1,475      2     220        6      1,.400    2      210       ...        2,825 1,700      ...     264      295      416
+Treaty No. 10     ...   ...        ...   ...        ...    ...       ...    ...       ...        ...    ...       ...     ...      ...      ...
+Total             125   15,404     20    1,342      35     5,938     15     1,103     155        27,364 9,634     43      2,690    2,985    9,207
+
+
+
+=== EXTRACT FROM HERE (pages 864-868) ===
+<!-- page 864 -->
+PROGESS DURING THE YEAR 1909.
+
+               BUILDINGS ERECTED.                                                                                                        INCREASE IN VALUE.
+                                                                                                                                                                   Total Value
+Agency.                                                                                                                                    Value of New Value of of New Land
+               Dwellings, Dwellings, Dwellings, Dwellings,                  Horse Drivings Cattle Pig Store         Root    Milk    Corn
+                                                           Shanties. Barns.                                                                Land          Buildings Improvements
+               Stone      Brick      Frame.     Log.                        Stables. Sheds. Stables. Sties. Houses. Houses. Houses. Cribs.
+                                                                                                                                           Improvements. Erected. and
+                                                                                                                                                                   Buildings.
+
+ONTARIO - ...            ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    $ cts.        $ cts.     $ cts.
+Con.
+Brought
+          3              ...        13         45         4        17     16      16       8       ...   2        1       ...     ...    4,431 00      10,273 00 14,704 00
+forward
+Rice Lake      ...       ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    15 00         ...      15 00
+Sarnia         ...       ...        6          ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    150 00        1,650 00 1,800 00
+Saugeen        ...       ...        2          ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    250 00        400 00   650 00
+Sault Ste.
+               ...       ...        1          2          1        ...    ...     ...      ...     ...   ...      ...     ...     ...    ...           400 00     400 00
+Marie
+Savanne        ...       ...        ...        7          ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    28 00         185 00    213 00
+Scugog         ...       ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    ...           ...       ...
+Six Nations    1         1          9          5          ...      10     2       6        ...     ...   ...      ...     ...     ...    5,500 00      21,100 00 26,600 00
+Sturgeon
+               ...       ...        13         1          ...      1      5       2        2       3     2        4       3       ...    200 00        11,050 00 11,250 00
+Falls
+Thessalon      ...       ...        ...        ...        ...      4      1       ...      2       1     ...      ...     ...     ...    740 00        350 00     1,090 00
+Tyendinaga     ...       ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    852 00        270 00     1,122 00
+Walpole
+               1         ...        2          ...        ...      1      ...     ...      ...     ...   1        ...     ...     2      400 00        2,000 00 2,400 00
+Island
+Total          5         1          46         60         5        33     24      24       12      4     5        5       3       2      12,566 00     47,678 00 60,244 00
+
+PRINCE
+               ...       ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    ...           ...        ...
+EDWARD
+ISLAND
+Prince
+Edward         ...       ...        1          ...        1        ...    ...     ...      ...     ...   ...      ...     ...     ...    ...           88 00      88 00
+Island
+
+               ...       ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    ...           ...        ...
+QUEBEC
+Becancour     ...        ...        4          ...        2        2      2       ...      2       2     ...      ...     ...     ...    ...           ...        ...
+Bersimis      ...        ...        4          ...        ...      ...    ...     ...      ...     ...   2        ...     ...     ...    ...           1,850 00   1,850 00
+Cacouna       ...        ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    ...           ...        ...
+Caughnawaga ...          ...        4          ...        ...      ...    1       ...      ...     ...   ...      ...     ...     ...    ...           2,250 00   ...
+Lake St. John ...        ...        1          ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    35 00         400 00     435 00
+Lorette       ...        ...        ...        ...        ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    ...           ...        ...
+Maniwaki      ...        ...        ...        2          ...      ...    ...     ...      ...     ...   ...      ...     ...     ...    782 00        300 00     1,082
+
+<!-- page 865 -->
+                                                                                                                                           INCREASE IN VALUE.
+                  BUILDINGS ERECTED.
+                                                                                                                                                                     Total Value
+Agency.                                                                                                                                       Value of New Value of of New Land
+                  Dwellings, Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle Pig Store          Root    Milk    Corn
+                                                              Shanties. Barns.                                                                Land         Buildings Improvements
+                  Stone      Brick      Frame      Log.                        Stables. Sheds. Stables. Sties. Houses. Houses. Houses. Cribs.
+                                                                                                                                              Improvements Erected. and
+                                                                                                                                                                     Buildings.
+...               ...        ...        ...        ...        ...       ...    ...      ...    ...      ...    ...     ...     ...     ...    $ cts.       $ cts.    $ cts.
+Maria             ...        ...        ...        ...        ...       ...    ...      ...    ...      ...    ...     ...     ...     ...    ...          ...       ...
+Mingan            ...        ...        ...        ...        ...       ...    ...      ...    ...      ...    ...     ...     ...     ...    ...          ...       ...
+Oka               ...        ...        4          ...        1         1      1        ...    1        ...    ...     1       ...     1      ...          1,325 00 1,325 00
+Pierreville       ...        1          ...        ...        ...       ...    ...      ...    ...      ...    ...     ...     ...     ...    ...          200 00    200 00
+Restigouche       ...        ...        2          ...        ...       ...    ...      ...    ...      ...    ...     ...     ...     ...    75 00        225 00    300 00
+St. Regis         ...        ...        2          ...        ...       2      2        ...    1        ...    ...     ...     ...     ...    150 00       1,750 00 1,900 00
+Timiskaming       ...        ...        ...        ...        ...       ...    1        ...    ...      ...    ...     ...     ...     ...    ...          100 00    100 00
+Total             ...        1          21         2          3         5      7        ...    4        2      2       1       ...     1      1,042 00     8,400 00 7,192 00
+
+                  ...       ...        ...        ...        ...      ...    ...     ...     ...      ...   ...     ...     ...      ...   ...           ...       ...
+SASKATCHEWAN
+Assiniboine       ...       ...        ...        4          ...      ...    ...     ...     6        ...   ...     ...     ...      ...   4,344 00      360 00    4,704 00
+Battleford        ...       ...        ...        48         ...      ...    6       ...     37       ...   ...     2       ...      ...   3,741 00      7,600 00 11,341 00
+Carlton           ...       ...        ...        10         13       ...    2       ...     9        ...   1       ...     3        ...   1,135 00      3,185 00 4,320 00
+Crooked Lake      ...       ...        ...        ...        5        ...    4       ...     3        1     ...     ...     ...      ...   963 00        470 00    1,433 00
+Duck Lake         ...       ...        ...        9          3        ...    ...     ...     1        ...   ...     ...     ...      ...   780 00        2,450 00 3,230 00
+Moose Mountain    ...       ...        ...        ...        7        ...    4       ...     3        ...   ...     ...     ...      ...   340 00        500 00    840 00
+Onion Lake        ...       ...        ...        12         ...      ...    ...     ...     6        ...   2       ...     ...      ...   770 00        920 00    1,690 00
+Pelly             ...       ...        1          16         11       ...    5       ...     3        ...   ...     ...     ...      ...   1,742 00      8,255 00 9,997 00
+Qu'Appelle        ...       ...        1          14         14       ...    21      ...     9        ...   ...     ...     ...      30    4,800 00      6,550 00 11,350 00
+Touchwood Hills   ...       ...        ...        13         3        ...    8       ...     12       ...   7       ...     1        ...   2,053 00      2,534 00 4,587 00
+Treaty No. 10     ...       ...        ...        ...        ...      ...    ...     ...     ...      ...   ...     ...     ...      ...   ...           ...       ...
+Total             ...       ...        2          126        56       ...    50      ...     89       1     10      2       4        30    20,668 00     32,824 00 53,492 00
+
+<!-- page 866 -->
+SOURCES AND VALUE OF INCOME.
+
+                                                             THE ESTIMATED
+                                                             VALUE OF FISH AND
+              Value of    Value of
+                                                    Received MEAT USED FOR FOOD
+              Farm        Beef Sold                          IS INCLUDED IN THESE Earned by Total
+                                         Wages      from
+Agency.       Products,   also of that                       COLUMNS.              other       Income of
+                                         Earned.    Land
+              including   Used for                                                 Industries. Indians.
+                                                    Rentals.           Earned by
+              Hay.        Food.                              Earned by
+                                                                       Hunting and
+                                                             Fishing.
+                                                                       Trapping.
+
+ONTARIO - $ cts.     $ cts.              $ cts.     $ cts.     $ cts.     $ cts.      $ cts.      $ cts.
+Con.
+Brought
+          176,711 00 14,232 00           254,545 00 15,742 00 69,987 00   94,583 00   126,826 00 752,626 00
+forward
+Rice Lake     5,300 00    500 00         600 00    124 00   350 00        2,000 00    300 00      9,124 00
+Sarnia        8,794 00    450 00         19,465 00 2,075 00 1,020 00      100 00      2,200 00    34,104 00
+Saugeen       4,560 00    650 00         16,000 00 8,050 00 560 00        250 00      8,000 00    38,070 00
+Sault Ste.
+              5,100 00    650 00         15,000 00 2,300 00 2,100 00      1,050 00    7,900 00    34,100 00
+Marie
+Savanne       2,609 00   ...             24,896 00 ...         26,077 00 41,880 00    5,478 00    100,940 00
+Scugog        1,386 00   597 00          175 00    119 00      112 00    531 00       600 00      3,720 00
+Six Nations   168,451 00 129,875 00      4,599 00 ...          ...       ...          ...         302,925 00
+Sturgeon
+              1,800 00    470 00         17,300 00 ...         2,900 00   7,400 00    6,500 00    36,370 00
+Falls
+Thessalon     6,410 00    80 00          34,972 00 ...      1,811 00      775 00      1,971 00    46,019 00
+Tyendinaga    32,858 00   2,735 00       53,537 00 5,829 00 800 00        291 00      300 00      96,350 00
+Walpole
+              13,800 00   4,500 00       34,000 00 ...         1,900 00   1,900 00    10,000 00 66,100 00
+Island
+Total         427,979 00 154,739 00      475,089 00 34,239 00 107,567 00 150,760 00   170,075 00 1,520,448 00
+
+PRINCE
+              ...         ...            ...        ...        ...        ...         ...         ...
+EDWARD
+ISLAND
+Prince
+Edward        1,023 00    45 00          58 00      ...        1,520 00   50 00       14,480 00 17,176 00
+Island
+
+              ...         ...            ...        ...        ...        ...         ...         ...
+QUEBEC
+Becancour     400 00      20 00          1,200 00 ...          ...        ...         525 00      2,195 00
+Bersimis      375 00      ...            1,400 00 ...          640 00     21,700 00   700 00      24,815 00
+Cacouna       ...         ...            2,960 00 249 00       85 00      1,560 00    3,245 00    8,099 00
+Caughnawaga 36,308 00     ...            170,928 00 3,837 00   ...        ...         5,700 00    216,773 00
+Lake St. John 7,900 00    500 00         5,000 00 ...          400 00     40,000 00   1,200 00    55,000 00
+Lorette       ...         ...            15,000 00 ...         ...        1,500 00    23,000 00   39,500 00
+
+<!-- page 867 -->
+Maniwaki   6,865 00   2,000 00   21,000 00 310 00   125 00   6,000 00    6,000 00   42,300 00
+Maria      500 00     100 00     3,500 00 ...       360 00   600 00      1,600 00   6,660 00
+Mingan     ...        ...        ...       ...      200 00   32,800 00   ...        33,000 00
+
+<!-- page 868 -->
+                                                            THE ESTIMATED
+                                                            VALUE OF FISH AND
+                  Value of Value of
+                                                   Received MEAT USED FOR
+                  Farm       Beef Sold                      FOOD IS INCLUDED Earned by Total
+                                         Wages     from
+ Agency.          Products, also of that                    IN THESE COLUMNS. other          Income of
+                                         Earned.   Land
+                  including Used for                                             Industries. Indians.
+                                                   Rentals. Earned   Earned by
+                  Hay.       Food.
+                                                            by       Hunting and
+                                                            Fishing. Trapping.
+...               $ cts.     $ cts.      $ cts.    $ cts.   $ cts.   $ cts.      $ cts.      $ cts.
+Oka               5,085 00 1,400 00 8,360 00 1,483 00 300 00         667 00      3,784 00 21,079 00
+Pierreville       3,763 00 ...           7,000 00 ...       ...      575 00      35,000 00 46,338 00
+Restigouche       11,500 00 800 00       24,000 00 125 00   350 00   275 00      7,800 00 44,850 00
+St. Regis         59,000 00 22,000 00 80,000 00 256 00      1,450 00 14,000 00   11,400 00 188,106 00
+Timiskaming       2,100 00 50 00         12,000 00 ...      300 00   1,800 00    200 00      16,450 00
+Total             133,796 00 26,870 00 352,348 00 6,260 00 4,210 00 121,477 00 100,154 00 745,115 00
+
+                  ...        ...         ...         ...      ...       ...           ...         ...
+SASKATCHEWAN
+Assiniboine       5,591 00 1,770 00      1,560 00    ...       1,550 00 316 00        9,650 00    20,437 00
+Battleford        14,362 00 13,283 00    5,384 00    30,470 00 2,041 00 8,902 00      10,346 00   84,788 00
+Carlton           14,547 00 8,935 00     6,888 00    ...       2,532 00 20,481 00     5,825 00    59,208 00
+Crooked Lake      16,146 00 3,412 00     2,975 00    2,171 00 875 00     1,650 00     7,673 00    34,902 00
+Duck Lake         17,590 00 4,500 00     7,882 00    ...       85 00     46,235 00    5,826 00    82,118 00
+Moose Mountain    5,000 00 1,581 00      400 00      ...       600 00    1,000 00     2,000 00    10,581 00
+Onion Lake        16,152 00 10,725 00    8,506 00    ...       8,581 00 29,067 00     4,055 00    77,086 00
+Pelly             15,838 00 5,079 00     865 00      2,505 00 44 00      19,20 00     1,475 00    27,726 00
+Qu'Appelle        65,162 00 9,995 00     6,250 00    ...       2,650 00 2,925 00      12,545 00   99,527 00
+Touchwood Hills   26,366 00 7,134 00     4,884 00    3,300 00 2,900 00 15,846 00      10,164 00   70,594 00
+Treaty No. 10     ...        ...         6,300 00    ...       51,700 00 64,600 00    7,160 00    129,760 00
+Total             196,754 00 66,414 00   51,894 00   38,446 00 73,558 00 192,942 00   76,719 00   696,727 00
+
+27 - ii - 5
+

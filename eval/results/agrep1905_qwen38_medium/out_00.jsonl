@@ -1,0 +1,40 @@
+{"row_type": "headers", "title": "INDIAN TRUST FUND. RETURN C, showing transactions in connection with the Fund during the year ended June 30, 1905.", "columns": ["Debit ($ cts.)", "Credit ($ cts.)"]}
+{"page": 1011, "row_type": "row", "section": null, "label": "Balance, June 30,1904", "values": [null, "4,476,909 81"], "confidence": "high"}
+{"page": 1011, "row_type": "row", "section": null, "label": "Collections on land sales; timber and stone dues rents, fines and fees", "values": [null, "208,091 98"], "confidence": "high"}
+{"page": 1011, "row_type": "row", "section": null, "label": "Interest for year ended June 30, 1905, on above balance", "values": [null, "178,979 40"], "confidence": "high"}
+{"page": 1011, "row_type": "row", "section": null, "label": "Legislative grants to supplement the funds", "values": [null, "28,400 00"], "confidence": "high"}
+{"page": 1011, "row_type": "row", "section": null, "label": "Outstanding cheque for 1902 - 03", "values": [null, "37 39"], "confidence": "high"}
+{"page": 1011, "row_type": "row", "section": null, "label": "Expenditure during the year 1904 - 05", "values": [null, "346,660 05"], "confidence": "high"}
+{"page": 1011, "row_type": "row", "section": null, "label": "Balance, June 30, 1905", "values": [null, "4,545,756 53"], "confidence": "high"}
+{"page": 1011, "row_type": "total", "section": null, "label": "...", "values": ["4,892,416 58", "4,892,416 58"], "confidence": "high"}
+{"page": 1011, "row_type": "note", "section": null, "label": "For further details of the above expenditure from the Indian Trust Fund and the Consolidated Fund, see Part J of the Auditor General's Report.", "values": [null, null], "confidence": "high"}
+{"row_type": "headers", "title": "Summary of Expenditure.", "columns": ["...", "Amount ($ cts.)", "Total ($ cts.)"]}
+{"page": 1014, "row_type": "row", "section": null, "label": "Civil Government - Salaries:", "values": ["(Page J - 3)", "59,853 74", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": null, "label": "Civil Government - Contingencies.", "values": ["(Page J - 4)", "11,086 83", null], "confidence": "high"}
+{"page": 1014, "row_type": "total", "section": null, "label": "...", "values": [null, null, "70,940 57"], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": null, "label": "Indians - Ontario and Quebec -", "values": [null, null, null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief and seed grain, Quebec", "values": ["(Page J - 4)", "5,615 91", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Relief and medical attendance, Ontario", "values": ["(Page J - 5)", "2,730 27", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Blankets and clothing, Ontario and Quebec", "values": ["(Page J - 5)", "498 15", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Schools, Ontario, Quebec and Maritime Provinces", "values": ["(Page J - 6)", "46,306 27", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Salaries of chiefs and of agent at St. Regis", "values": ["(Page J - 8)", "150 00", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Payment of Robinson Treaty annuities", "values": ["(Page J - 8)", "12,450 00", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Surveys of Indian Reserves", "values": ["(Page J - 9)", "252 82", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Grant to Indian Land Management Fund", "values": ["(Page J - 9)", "14,000 00", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Grant to Agricultural Society", "values": ["(Page J - 9)", "90 00", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Liquor prosecution expenses", "values": ["(Page J - 9)", "1,500 00", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "General legal expenses", "values": ["(Page J - 9)", "2,134 74", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Repairs of roads, Golden Lake Reserve", "values": ["(Page J - 9)", "287 81", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Annuities, gratuities and expenses negotiating Treaty No. 9", "values": ["(Page J - 9)", "19,997 28", null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "Roads and drains", "values": ["(Page J - 10)", "2,219 84", null], "confidence": "medium"}
+{"page": 1014, "row_type": "row", "section": "Indians - Ontario and Quebec -", "label": "To recoup the Mississaugas of Alnwick for islands for park purposes, River St. Lawrence", "values": ["(Page J - 10)", "9,150 00", null], "confidence": "medium"}
+{"page": 1014, "row_type": "total", "section": "Indians - Ontario and Quebec -", "label": "...", "values": [null, null, "117,383 09"], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": null, "label": "Indians - Nova Scotia", "values": ["(Page J - 10)", null, "8,884 14"], "confidence": "medium"}
+{"page": 1014, "row_type": "row", "section": null, "label": "Indians - New Brunswick", "values": ["(Page J - 11)", null, "6,906 10"], "confidence": "medium"}
+{"page": 1014, "row_type": "row", "section": null, "label": "Indians - Prince Edward Island", "values": ["(Page J - 13)", null, "1,945 32"], "confidence": "medium"}
+{"page": 1014, "row_type": "row", "section": null, "label": "Indians - Manitoba and North-west Territories -", "values": [null, null, null], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": "Indians - Manitoba and North-west Territories -", "label": "Schools and subdivision of expenditure by agencies", "values": ["(Page J - 14)", "858,632 51", null], "confidence": "medium"}
+{"page": 1014, "row_type": "row", "section": "Indians - Manitoba and North-west Territories -", "label": "Sioux", "values": ["(Page J - 60)", "4,356 17", null], "confidence": "medium"}
+{"page": 1014, "row_type": "row", "section": "Indians - Manitoba and North-west Territories -", "label": "Surveys", "values": ["(Page J - 61)", "6,992 27", null], "confidence": "medium"}
+{"page": 1014, "row_type": "total", "section": "Indians - Manitoba and North-west Territories -", "label": "...", "values": [null, null, "869,980 95"], "confidence": "high"}
+{"page": 1014, "row_type": "row", "section": null, "label": "Indians - Yukon", "values": ["(Page J - 61)", null, "9,673 10"], "confidence": "medium"}

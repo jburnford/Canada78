@@ -1,0 +1,265 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL AND INDUSTRIAL STATISTICS. REALTY OF INDIANS
+
+Agency             LANDS AND SOURCES FROM WHICH INDIANS DERIVE THEIR SUPPORT.
+                   Cleared but  Under        Number     Number engaged in Number                Number
+...                not under    actual       engaged in hunting, trapping and engaged in        engaged in
+                   cultivation. cultivation. farming.   fishing.              other industries. stock-raising
+ONTARIO.           Acres.       Acres.       ...        ...                   ...               ...
+Grand River
+Superintendency - 23,476          11,220     412          ...                   ...             412
+Six Nations
+Parry Sound
+                  839             485        55           43                    51              ...
+Superintendency
+New Credit
+(Mississaguas)     1,965          3,725      42           2                     35              ...
+Agency
+Walpole Island
+                   33,425         1,005      57           35                    ...             40
+Agency
+Sarnia             1,584         3,215       110          42                    45              52
+Caradoc Agency     4,459         10,512      63           ...                   ...             ...
+Moravian Agency    1,195         970         75           30                    20              60
+Manitowaning
+                   6,025         2,710       105          66                    114             ...
+Agency
+Gore Bay Agency 3,813 1/2        1,845 1/2   254          13                    291             ...
+Thessalon Agency 260             401         ...          2                     132             ...
+Sault Ste. Marie
+                 2,448           1,570       39           80                    153             ...
+Agency
+Port Arthur
+                   236           276         ...          276                   50              ...
+Agency
+Sturgeon Falls
+                   ...           375         ...          ...                   ...             ...
+Agency
+Golden Lake
+                   200           50          6            4                     ...             ...
+Agency
+Tyendinaga
+                   9,600         6,300       264          1                     231             ...
+Agency
+Lake Simcoe
+                   539           234         10           90                    9               9
+Agency
+Cape Croker
+                   3,500         1,500       145          25                    100             145
+Ag
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+          8,100    2,694 248       82    953   4,062 4,179 853     1,521 103     672    3,126 5          642   1,518 17,514 680,787 50
+MANITOBA. ...           ...      ...   ...       ...   ...   ...   ...   ...     ...   ...     ...    ...   ...        ...   ...   ...    ...
+Clandeboye
+           4            204      19    12        128   192   246   205   ...     ...    ...    ...    ...    ...       ...   ...    690    30,510 00
+Agency
+Portage la
+Prairie     ...         151      4     5         34    14    47    67    ...     ...    ...    ...    11     ...       ...   ...    142    6,800 00
+Agency
+Manitowapah
+            ...         365      14    51        71    638   1,082 49    ...     4      9      9      8      ...       ...   ...    90     30,400 00
+Agency
+Norway
+House         1         28      ...    16        27    64    164   151   ...     ...    ...    ...    ...   ...        ...   ...    ...    8,560 00
+
+<!-- page 963 -->
+Agency
+The Pas
+             6     28      4     4     23    38    111   59    ...   ...   ...   ...   ...   ...   ...   ...   ...   8,020 00
+Agency
+Birtle Agency 3    292     ...   11    23    142   174   162   ...   ...   ...   1     13    ...   ...   16    171   38,469 00
+Oak River
+(Sioux)       1    232     17    2     ...   10    38    33    ...   ...   ...   ...   ...   14    12    20    390   17,815 00
+Agency
+Total         15   1,300   58    101   306   1,088 1,862 726   ...   4     9     10    32    14    12    36    1,483 140,574 00
+
+
+
+=== EXTRACT FROM HERE (pages 964-968) ===
+<!-- page 964 -->
+                                                                                       HOUSEHOLD Value of
+                  GENERAL EFFECTS.
+                                                                                       EFFECTS.  Real and
+Agency.
+                             Rows                   Shot        Steel                            Personal
+                  Sailboats.        Canoes. Rifles.       Nets.        Tents. Value of Value of  Property.
+                             Boats.                 Guns.       Traps.
+NEW
+                  ...      ...    ...     ...    ...   ...   ...   ...    $ cts.   $ cts.        $ cts.
+BRUNSWICK.
+Richibucto
+                48         41     20      12     182   260   71    6      5,100 00 16,000 00     104,155 00
+Superintendency
+Fredericton
+                2          5      126     69     58    2     500   48     3:890 00 8,875 00      88,922 50
+Superintendency
+Total             50       46     146     81     240   262   571   54     8,990 00 24,875 00     193,077 50
+PRINCE
+EDWARD            ...      ...    ...     ...    ...   ...   ...   ...    ...      ...           ...
+ISLAND.
+Prince Edward
+Island            10       33     ...     ...    16    42    7     ...    1,113 00 2,950 00      48,643 00
+Superintendency
+NOVA
+                  ...      ...    ...     ...    ...   ...   ...   ...    ...      ...           ...
+SCOTIA.
+Annapolis
+                  ...      ...    5       4      9     5     14    2      110 00   150 00        2,150 00
+County
+Shelburne County 1         2      1       1      6     2     75    2      150 00   300 00        2,350 00
+Digby County     ...       ...    10      9      6     ...   20    3      300 00   300 00        41,465 00
+Yarmouth County ...        3      10      25     20    5     50    10     292 00   240 00        532.50
+Kings County     ...       1      2       6      20    ...   40    ...    150 00   400 00        6,490 00
+Queens County ...          4      6       7      6     10    12    6      275 00   280 00        4,980 00
+Halifax County 4           4      ...     16     37    8     65    ...    890 00   ...           ...
+Hants County     2         3      3       20     8     2     150   ...    750 00   2,000 00      28,060 00
+Colchester
+                 ...       ...    ...     5      12    ...   15    ...    70 00    225 00        3,374 00
+County
+Cumberland
+                  3        3      ...     12     20    ...   20    ...    250 00   450 00        3,555 00
+County
+Pictou County     5        5      ...     8      5     8     12    ...    350 00   850 00        10,905 00
+Antigonish and
+Guysborough       2        3      1       ...    30    3     6     ...    160 00   1,600 00      13,695 00
+Counties
+Richmond
+                  2        7      ...     ...    13    3     29    ...    280 00   300 00        10,080 00
+County
+Inverness County ...       19     ...     3      17    9     90    ...    267 00   710 00        17,795 00
+Victoria County ...        8      ...     ...    18    ...   150   ...    450 00   500 00        17,290 00
+Cape Breton
+                 ...       ...    ...     1      4     ...   14    ...    40 00    450 00        10,185 00
+(Sydney) County
+Lunenburg
+                  ...      5      6       5      6     ...   18    4      260 00   250 00        10,820 00
+County
+
+<!-- page 965 -->
+Cape Breton
+(Eskasoni)    4   6   ...   ...   5   5   150   ...   ...   1,470 00   63,884 50
+County
+
+<!-- page 966 -->
+                                                                                        HOUSEHOLD Value of
+               GENERAL EFFECTS.
+                                                                                        EFFECTS.  Real and
+Agency.
+                            Rows                   Shot        Steel                              Personal
+               Sailboats.          Canoes. Rifles.       Nets.        Tents. Value of   Value of  Property.
+                            Boats.                 Guns.       Traps.
+Total     23                73    44       122    242   60    930     27    5,044 00    10,475 00   210,611 00
+BRITISH
+          ...               ...   ...      ...    ...   ...   ...     ...   ...         ...         ...
+COLUMBIA.
+Cowichan
+               161          2     427      364    319   67    30      180   26,655 00 33,150 00     1,066,750 00
+Agency
+West Coast
+               119          4     1,222    142    397   46    810     290   37,075 00 30,500 00     197,057 00
+Agency
+Kwawkewlth
+           67               44    303      281    186   159   2,650 71      22,325 00 52,100 00     1,54,898 50
+Agency
+Lower Fraser
+             113            158   486      428    454   117   1,129 408     45,415 00 62,470 00     1,230,495 00
+Agency
+Williams
+            ...             23    92       414    130   156   1,235 241     12,701 00 14,079 00     481,526 25
+Lake Agency
+Kamloops -
+Okanagan       4            48    145      678    272   470   1,521 1,020 21,001 00 46,050 00       2,971,882 92
+Agency
+Kootenay
+               ...          ...   57       187    29    ...   136     146   5,030 00    4,260 00    294,934 00
+Agency
+Northwest
+             328            212   1,239    1,095 349    357   11,980 132    124,930 00 114,200 00   646,764 00
+Coast Agency
+Babine and
+Upper Skeena ...            1     393      711    407   100   6,950 66      52,550 00 24,750 00     342,424 00
+River Agency
+Cassiar
+             ...            1     3        130    30    8     1,600 100     6,040 00    1,350 00    19,565 00
+Agency
+Total      792              493   4,367    4,430 2,573 1,480 27,741 2,654 353,722 00 382,909 00     7,406,296 67
+MANITOBA. ...               ...   ...      ...   ...   ...   ...    ...   ...        ...            ...
+Clandeboye
+           7                215   40       46     111   312   961     234   11,950 00 18,100 00     529,670 00
+Agency
+Portage La
+Prairie     ...             12    4        32     58    34    1,150 97      1,450 00    2,300 00    213,958 00
+Agency
+Manitowapah
+            28              144   138      85     300   667   4,985 269     10,550 00 9,700 00      219,318 00
+Agency
+Norway
+House          12           431   279      73     432   1,480 2,826 598     29,500 00 19,550 00     242,872 00
+Agency
+The Pas
+               ...          21    312      90     305   495   3,725 217     16,492 00 8,200 00      106,035 00
+Agency
+Birtle Agency ...           3     ...      34     61    2     1,260 100     1,887 00    3,750 00    393,600 00
+Oak River
+              ...           ...   10       42     62    ...   1,535 75      3,350 00    4,600 00    226,060 00
+(Sioux)
+
+<!-- page 967 -->
+Total   47   826   783   402   1,329 2,980 16,442 1,590 75,179 00 66,200 00   1,931,513 00
+
+<!-- page 968 -->
+AGRICULTURE, SEASON 1907.
+
+                 GRAIN, ROOTS AND FODDER.
+                 Wheat.           Oats.            Barley.          Corn.            Peas.            Rye.             Buckwheat.       Beans.           Potatoes.        Carrots.
+Agency
+                 Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels    Acres Bushels
+                 Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.
+NEW
+           ...         ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...
+BRUNSWICK.
+Richibucto
+                11     105       177    1,795     ...    ...       ...    ...       ...    ...       ...    ...       4      55        ...     ...      180    6,700     ...    ...
+Superintendency
+Fredericton
+                6 1/4 120        43     1,100     ...    ...       2      42        3 3/4 75         ...    ...       28 1/2 685       6 1/4 123 1/2    291/4 1,605      ...    ...
+Superintendency
+                                                                                                                                                        209
+Total            17 1/4 225      220    2,895     ...    ...       2      42        3 3/4 75         ...    ...       32 1/2 740       6 1/4 123 1/2           8,305     ...    ...
+                                                                                                                                                        1/4
+PRINCE
+EDWARD          ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...
+ISLAND.
+Prince Edward
+Island          6      60        29     616       ...    ...       1/4    6         ...    ...       ...    ...       ...    ...       ...     ...      8      820       ...    ...
+Superintendency
+NOVA
+                ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...
+SCOTIA.
+Annapolis
+                 ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       1/4     3        2      275       ...    ...
+County
+Shelburne
+                 ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...
+County
+Digby County     ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      1/2    25        ...    ...
+Yarmouth
+                 ...   ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      ...    ...       ...    ...
+County
+Kings County     ...   ...       5      100       ...    ...       ...    ...       ...    ...       ...    ...       1      25        1/2     15       3      400       ...    ...
+Queens County    ...   ...       1      25        1/2    15        ...    ...       ...    ...       ...    ...       1/2    12        ...     ...      2      250       ...    ...
+Halifax County   ...   ...       14     450       ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       6 1/4   ...      12 1/2 ...       ...    ...
+Hants County     ...   ...       12     150       ...    ...       ...    ...       ...    ...       ...    ...       1      5         ...     ...      5      200       ...    ...
+Colchester
+                 ...   ...       4      45        ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      1 1/2 150        ...    ...
+County
+Cumberland
+                 ...   ...       1/2    15        ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      5      800       ...    ...
+County
+Pictou County 4 1/2 45           7      60        ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      7 1/2 630        ...    ...
+Antigonish and
+Guysborough    ...  ...          4      75        ...    ...       ...    ...       ...    ...       ...    ...       ...    ...       ...     ...      4      300       ...    ...
+Counties
+

@@ -1,0 +1,19 @@
+{"row_type": "headers", "title": "AGRICULTURAL AND INDUSTRIAL STATISTICS. NUMBER OF INDIANS REPORTED UPON, LAND USED AND OCCUPATIONS.", "columns": ["Number of Indians.", "Acres. Cleared but not under cultivation.", "Acres. Under actual cultivation.", "Number engaged in farming.", "Number engaged in stock-raising", "Number in hunting, trapping and fishing.", "Number engaged in other industries."]}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Blackfoot", "values": ["768", "299,950", "250", "24", "132", null, null], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Blood", "values": ["1,149", "347,641", "2,392", "27", "318", null, "10"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Edmonton", "values": ["683", "33,655", "1,280", "29", "68", "73", "49"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Hobbema", "values": ["785", "75,778", "642", "71", "79", "62", "26"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Lesser Slave Lake", "values": ["224", "11,450", "50", null, "24", "47", "1"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Piegan", "values": ["462", "93,429", "109", "10", "82", null, "56"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Saddle Lake", "values": ["798", "79,641", "1,424", "116", null, "157", null], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Sarcee", "values": ["211", "58,120", "218", "20", "23", "16", "6"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "ALBERTA.", "label": "Stony", "values": ["667", "44,480", "240", "10", "65", "35", "100"], "confidence": "high"}
+{"page": 799, "row_type": "total", "section": "ALBERTA.", "label": "Total", "values": ["5,747", "1,044,144", "6,605", "307", "791", "390", "248"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Babine and Upper Skeena", "values": ["3,113", "18,878", "750", "47", "900", "169", null], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Bella Coola", "values": ["1,266", "70", "25", null, null, "405", null], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cassiar", "values": ["305", "325", null, null, null, "168", "69"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Cowichan", "values": ["1,758", "5,400", "3,202", "7", null, "94", "208"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Fraser River", "values": ["2,846", "3,498", "3,713", "509", null, "319", "289"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kamloops-Okanagan", "values": ["3,862", "241,643", "17,046", "893", "l6", "537", "53"], "confidence": "medium"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kootenay", "values": ["573", "38,356", "1,640", "129", null, null, "71"], "confidence": "high"}
+{"page": 799, "row_type": "row", "section": "BRITISH COLUMBIA.", "label": "Kwawkewlth", "values": ["1,227", "314", null, null, null, null, null], "confidence": "low"}

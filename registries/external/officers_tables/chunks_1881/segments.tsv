@@ -1,0 +1,8 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0438-return-a-2	RETURN A (2)	438	439
+01	p0439-return-a-2-quebec	RETURN A (2) — Quebec	439	439
+02	p0443-return-a-2-british-columbia	RETURN A (2) — British Columbia	443	443
+03	p0443-return-a-2-nova-scotia	RETURN A (2) — Nova Scotia	443	444
+04	p0444-return-a-2-new-brunswick	RETURN A (2) — New Brunswick	444	444
+05	p0444-return-a-2-prince-edward-islan	RETURN A (2) — Prince Edward Island	444	446
+06	p0504-return-a-2-cont	RETURN A (2) (cont.)	504	504

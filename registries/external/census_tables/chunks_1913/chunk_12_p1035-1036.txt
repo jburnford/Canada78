@@ -1,0 +1,128 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+CENSUS OF INDIANS AND ESKIMOS
+
+ARRANGED under Departmental Inspectorates, Agencies and Districts, for the Year ended March 31, 1913.
+
+                                 Religion.
+Agency and Band.   Population.                                                                            Other
+                                                                    Roman
+                                 Anglican. Presbyterian. Methodist.           Baptist. Congregationalist. Christian Pagan.
+                                                                    Catholic.
+                                                                                                          Beliefs.
+
+ALBERTA           ...            ...         ...         ...        ...       ...     ...                ...       ...
+INSPECTORATE.
+Blackfoot Agency. ...            ...         ...         ...        ...       ...     ...                ...       ...
+Running Rabbit    752            237         ...         ...        200       ...     ...                ...       315
+Yellow Horse      ...            ...         ...         ...        ...       ...     ...                ...       ...
+Blood Agency.     ...            ...         ...         ...        ...       ...     ...                ...       ...
+Bloods            1,140          175         ...         ...        160       ...     ...                ...       805
+Edmonton Agency. ...             ...         ...         ...        ...       ...     ...                ...       ...
+Alexander's Band 146             ...         ...         ...        146       ...     ...                ...       ...
+Alexis (Joseph's)
+                  147            ...         ...         ...        147       ...     ...                ...       ...
+Band
+Enoch's Band      120            ...         ...         13         107       ...     ...                ...       ...
+Michel's Band     110            ...         ...         ...        110       ...     ...                ...       ...
+Paul (White Whale
+                  150            ...         ...         130        20        ...     ...                ...       ...
+Lake)
+Total              673           ...         ...         143        530       ...     ...                ...       ...
+Hobbema Agency.    ...           ...         ...         ...        ...       ...     ...                ...       ...
+Ermineskin         193           ...         ...         ...        193       ...     ...   
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+     ...       ...
+Davis Strait
+Herschel
+               400        ...         ...         ...         ...       ...     ...                ...       ...
+Island
+Hudson Bay
+               1,101      ...         ...         ...         ...       ...     ...                ...       ...
+District
+Kekertin
+               75         ...         ...         ...         ...       ...     ...                ...       ...
+Island
+Killonek
+(Port          109        ...         ...         ...         ...       ...     ...                ...       ...
+Burwell)
+
+<!-- page 1034 -->
+I ~I DD:=
+        I ~I DDD~
+                I =:ID D
+Topik Vink
+                107         ...        ...           ...         ...        ...     ...                 ...       ...
+Baffin Land
+
+
+I ~I DDI   ID DDI   ID D
+Total,
+                3,347       ...        ...           ...         ...        ...     ...                 ...       ...
+Eskimos
+Total, Native
+Population     ID Ol
+              109,937       ...        ...
+                                                    ID DDI
+                                                     ...         ...        ...     ...
+                                                                                                       ID D
+                                                                                                        ...       ...
+
+
+NOTE. - There are no official returns for the religious belief of 20,828 Indians, nor for the ages of 25,783 Indians.
+
+
+
+=== EXTRACT FROM HERE (pages 1035-1036) ===
+<!-- page 1035 -->
+                               From 6 to 15     From 16 to 20          From 21 to 65 From 65 years Births and
+                    Under 6 years.
+Agency and Band.               years inclusive. years inclusive.       years inclusive. upwards.   Deaths.
+                 Male. Female. Male. Female. Male. Female.             Male. Female. Male. Female. Births. Deaths.
+Alberta          611 574       519 481          277 259                1,257 1,287      69   126   177     160
+British Columbia 1,826 1,772 2,171 2,037        1,155 1,175            5,272 5,379      538 699    713     778
+Manitoba         1,024 990     1,067 1,024      893 836                1,902 2,080      295 402    357     270
+Nova Scotia      183 199       224 188          177 111                431     417      81   67    80      55
+New Brunswick 184 171          147 168          67      66             350     324      41   46    42      27
+Prince Edward
+                 25    251     33     41        12      12             58      62        15     9        11      16
+Island
+Ontario             1,700 1,703      2,222 2,177     1,323 1,239       5,340   5,467     449    500      562     557
+Quebec              899 9011         897 921         581 545           1,915   1,904     247    235      287     275
+Saskatchewan        749 766          838 807         385 337           1,586   1,741     209    293      293     183
+Northwest
+                    ...    ...       ...    ...      ...     ...       ...     ...       ...    ...      ...     ...
+Territories
+Yukon               ...    ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Total, Indian
+                    7,201 7,101      8,118 7,844      4,870 4,580      18,111 18,661     1,944 2,277     2,522 2,321
+Agencies.
+Eskimos.           ...     ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Arctic Coast line
+                   ...     ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+to Herschel Island
+Baie Arctic       ...      ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Black Lead Island ...      ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Cumberland
+Sound and Davis ...        ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Strait
+Herschel Island   ...      ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Hudson Bay
+                  ...      ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+District
+Kekertin Island     ...    ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Killonek (Port
+                    ...    ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Burwell)
+Topik Vink Baffin
+                  ...      ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Land
+Total, Eskimos      ...    ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Total, Native
+                    ...    ...       ...    ...       ...    ...       ...     ...       ...    ...      ...     ...
+Population
+
+NOTE. - There are no official returns for the religious belief of 20,828 Indians, nor for the ages of 25,783 Indians.
+
+<!-- page 1036 -->

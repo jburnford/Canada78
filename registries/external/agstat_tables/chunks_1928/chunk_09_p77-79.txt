@@ -1,0 +1,117 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE NO. 6. - SOURCES AND VALUE OF INCOME
+
+                         Value
+                         of Beef                                                         Annuities
+               Value of                                             Earned Earned by
+                         sold              Received                                      paid and
+               Farm                                 Received Earned by       other                   Total
+                         also of Wages     from                                          Interest on
+Agencies       Products,                            from     by     Hunting Industries               Income of
+                         that    Earned    Land                                          Indian
+               including                            Timber Fishing and       and                     Indians
+                         used              Rentals                                       Trust
+               Hay                                                  Trapping Occupations
+                         for                                                             Funds
+                         Food
+
+               $         $        $        $ cts.     $ cts.     $       $         $        $ cts.      $ cts.
+ALBERTA
+Blackfoot      155,000   18,450   4,000    41,954 77 ...         ...     200       6,000    87,109 87   312,714 64
+Blood          89,215    27,225   15,000   18,352 15 ...         ...     1,500     6,000    7,332 34    164,624 49
+Edmonton       66,886    3,906    20,630   ...       334 08      2,110   12,947    5,630    25,164 39   137,607 47
+Hobbema        71,440    5,480    8,952    757 50    ...         1,530   3,166     20,670   14,541 83   126,537 33
+Lesser Slave
+               33,906    1,500    22,270 ...          ...        11,865 70,685     1,930    17,318 67 159,474 67
+Lake
+Peigan      23,101       31,235 6,000 1,390 60 ...               ...     ...       ...      7,256 86 68,983 46
+Saddle Lake 44,774       4,870 11,370 ...          ...           1,790 7,050       5,275    5,796 95 80,925 95
+Sarcee      10,867       3,272 4,286 2,832 50 ...                ...     500       1,000    835 37     23,592 87
+Stony       14,200       5,986 24,548 3,153 00 ...               ...     8,790     10,020   4,580 05 71,277 05
+Total       509,389      101,924 117,056 68,440 52 334 08        17, 295 104,838   56,25    169,936 33 1,145,737 93
+
+BRITISH     ...          ...      .
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+ingan            ...      ...    ...     ...       ...          ...     6,600     200       ...         6,800 00
+Oka               7,500    2,000 ...      ...       687 71       100     200       1,000     356 59      11,844 30
+Pierreville       2,000    1,500 4,000 256 90       ...          ...     1,000     6,000     203 81      14,960 71
+Pointe Bleue      18,500   3,000 22,000 200 00      1,444 76     1,000   75,000    3,000     684 65      124,829 41
+Restigouche       3,985    200    8,000 245 00      1,042 05     50      600       600       352 43      15,074 48
+Seven Islands     ...      ...    1,500 ...         ...          ...     32,000    1,500     ...         35,000 00
+St. Regis         7,000    1,400 135,000 367 56     ...          4,300   4,000     23,500    3,567 39    179,134 95
+Timiskaming       5,500    100    7,000 37 00       ...          50      28,000    1,200     2,021 31    43,908 31
+Total             87,041   11,357 408,210 10,200 70 7,171 74     6,297   266,295   132,475   18,905 77   947,953 21
+
+                  ...      ...     ...       ...        ...      ...     ...       ...       ...         ...
+SASKATCHEWAN
+Assiniboine       14,855   1,749 1,912 ...       ...             ...     3,010     9,217     1,513 31 32,256 31
+Battleford        50,375   6,750 52,400 2,818 00 ...             5,400   21,100    7,150     14,946 80 160,939 80
+Carlton           82,218   13,130 9,690 21 00    ...             944     14,850    6,845     21,587 57 149,285 57
+
+
+
+=== EXTRACT FROM HERE (pages 77-79) ===
+<!-- page 77 -->
+Crooked Lakes       40,050   3,630 5,100     ...        ...   ...      3,500    800      19,368 83   72,448 83
+Duck Lake           75,350   10,923 11,200   ...        ...   800      10,200   13,500   8,428 38    130,401 38
+File Hills Agency   9,000    900    1,500    ...        ...   ...      2,200    6,500    ...         20,100 00
+File Hills Colony   40,000   2,000 5,000     ...        ...   ...      1,000    3,000    1,978 33    52,978 33
+Isle a la Crosse    ...      ...    ...      ...        ...   ...      47,000   ...      12,487 84   59,487 84
+Moose Mountain      6,739    800    1,500    ...        ...   50       3,150    800      2,840 87    15,879 87
+Moose Woods         8,740    3,516 2,500     ...        ...   1,000    250      2,000    ...         18,006 00
+Onion Lake          53,303   12,100 18,400   ...        ...   13,500   16,000   8,000    5,286 29    126,589 29
+Pelly               28,300   3,950 11,100    2,657 00   ...   ...      7,000    ...      16,765 31   69,772 31
+
+<!-- page 78 -->
+                        Value
+                        of Beef                                                             Annuities
+              Value of                                             Earned       Earned by
+                        sold                                                                paid and
+              Farm                        Received Received Earned by           other                   Total
+                        also of Wages                                                       Interest on
+Agencies      Products,                   from Land from    by     Hunting      Industries              Income of
+                        that    Earned                                                      Indian
+              including                   Rentals   Timber Fishing and          and                     Indians
+                        used                                                                Trust
+              Hay                                                  Trapping     Occupations
+                        for                                                                 Funds
+                        Food
+...           $         $       $         $ cts.     $ cts.   $       $         $           $ cts.    $ cts.
+Qu'Appelle    200,640 4,940 9,900         1,347 00   ...      230     1,960     4,905       25,415 23 249,337 23
+Touchwood     50,490    4,850   10,700    55 00      28 35    ...     12,800    4,500       12,910 70 96,334 05
+Wood
+Mountain      1,239     125     875       ...        ...      ...     80        ...         2 07       2,321 07
+Reserve
+Total         661,299   69,363 141,777    6,898      28 35    21,924 144,100    67,217      143,531 53 1,256,137 88
+
+YUKON     ...           ...     ...       ...        ...      ...     ...       ...         ...        ...
+TERRITORY
+Yukon     ...           ...     ...       ...        ...      ...     ...       ...         ...        ...
+
+RECAPITULATION
+
+              ...       ...     ...       ...        ...      ...     ...       ...         ...        ...
+PROVINCES
+Alberta       509,389   101,924 117,056   68,440 52 334 08    17,295 104,838    56,525      169,936 33 1,145,737 93
+British
+              462,741   82,120 653,722    20,535 75 46,693 36 452,375 330,409   229,636     33,823 01 2,312,055 12
+Columbia
+Manitoba      185,135   17,357 153,900    1,384 96   1,475 35 83,070 297,835    47,950      75,100 64 863,207 95
+New
+              10,190    385     35,700    75 00      653 30   5,850   3,465     5,975       1,836 96   64,130 26
+Brunswick
+Northwest
+              ...       ...     ...       ...        ...      25,350 159,600    ...         ...        184,950 00
+Territories
+Nova Scotia 13,339      2,525 50,570      120 00    111 40    4,555 8,240       31,345      1,442 08 112,247 48
+Ontario       679,485   42,760 866,370    28,885 73 29,053 44 218,340 313,580   296,920     350,486 61 2,825,880 78
+Prince Edward
+              2,050     320     875       ...        ...      1,120   250       4,800       ...        9,415 00
+Island
+Quebec       87,041    11,357 408,210 10,200 70 7,171 74 6,297 266,295 132,475              18,905 77 947,953 21
+Saskatchewan 661,299 69,363 141,777 6,898 00 28 35            21,924 144,100 67,217         143,531 53 1,256,137 88
+Total        2,610,669 328,111 2,428,180 136,540 66 85,521 02 836,176 1,628,612 872,843     795,062 93 9,721,715 61
+
+<!-- page 79 -->

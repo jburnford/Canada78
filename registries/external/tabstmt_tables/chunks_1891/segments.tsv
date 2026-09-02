@@ -1,0 +1,76 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0446-tabular-statement-no-1	TABULAR STATEMENT No. 1	446	450
+01	p0446-tabular-statement-no-1	TABULAR STATEMENT No. 1	451	454
+02	p0454-tabular-statement-no-2	TABULAR STATEMENT No. 2	454	458
+03	p0454-tabular-statement-no-2	TABULAR STATEMENT No. 2	459	463
+04	p0454-tabular-statement-no-2	TABULAR STATEMENT No. 2	464	468
+05	p0468-tabular-statement-no-2-quebec	TABULAR STATEMENT No. 2 — Quebec	468	472
+06	p0468-tabular-statement-no-2-quebec	TABULAR STATEMENT No. 2 — Quebec	473	477
+07	p0468-tabular-statement-no-2-quebec	TABULAR STATEMENT No. 2 — Quebec	478	482
+08	p0468-tabular-statement-no-2-quebec	TABULAR STATEMENT No. 2 — Quebec	483	487
+09	p0468-tabular-statement-no-2-quebec	TABULAR STATEMENT No. 2 — Quebec	488	492
+10	p0468-tabular-statement-no-2-quebec	TABULAR STATEMENT No. 2 — Quebec	493	497
+11	p0468-tabular-statement-no-2-quebec	TABULAR STATEMENT No. 2 — Quebec	498	502
+12	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	502	506
+13	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	507	511
+14	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	512	516
+15	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	517	521
+16	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	522	526
+17	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	527	531
+18	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	532	536
+19	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	537	541
+20	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	542	546
+21	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	547	551
+22	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	552	556
+23	p0502-tabular-statement-no-3	TABULAR STATEMENT No. 3	557	561
+24	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	562	566
+25	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	567	571
+26	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	572	576
+27	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	577	581
+28	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	582	586
+29	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	587	591
+30	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	592	596
+31	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	597	601
+32	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	602	606
+33	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	607	611
+34	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	612	616
+35	p0562-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	617	621
+36	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	622	626
+37	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	627	631
+38	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	632	636
+39	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	637	641
+40	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	642	646
+41	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	647	651
+42	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	652	656
+43	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	657	661
+44	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	662	666
+45	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	667	671
+46	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	672	676
+47	p0622-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	677	679
+48	p0927-return-c	RETURN C	927	931
+49	p0927-return-c	RETURN C	932	936
+50	p0927-return-c	RETURN C	937	941
+51	p0927-return-c	RETURN C	942	946
+52	p0927-return-c	RETURN C	947	951
+53	p0927-return-c	RETURN C	952	956
+54	p0927-return-c	RETURN C	957	961
+55	p0927-return-c	RETURN C	962	966
+56	p0927-return-c	RETURN C	967	971
+57	p0927-return-c	RETURN C	972	976
+58	p0927-return-c	RETURN C	977	981
+59	p0927-return-c	RETURN C	982	986
+60	p0987-return-c-cont	RETURN C (cont.)	987	991
+61	p0987-return-c-cont	RETURN C (cont.)	992	996
+62	p0987-return-c-cont	RETURN C (cont.)	997	1001
+63	p0987-return-c-cont	RETURN C (cont.)	1002	1006
+64	p0987-return-c-cont	RETURN C (cont.)	1007	1011
+65	p0987-return-c-cont	RETURN C (cont.)	1012	1016
+66	p0987-return-c-cont	RETURN C (cont.)	1017	1021
+67	p0987-return-c-cont	RETURN C (cont.)	1022	1026
+68	p0987-return-c-cont	RETURN C (cont.)	1027	1031
+69	p0987-return-c-cont	RETURN C (cont.)	1032	1036
+70	p0987-return-c-cont	RETURN C (cont.)	1037	1041
+71	p0987-return-c-cont	RETURN C (cont.)	1042	1046
+72	p1047-return-c-cont	RETURN C (cont.)	1047	1051
+73	p1047-return-c-cont	RETURN C (cont.)	1052	1056
+74	p1047-return-c-cont	RETURN C (cont.)	1057	1057

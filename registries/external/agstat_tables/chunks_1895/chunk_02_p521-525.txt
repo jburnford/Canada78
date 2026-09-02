@@ -1,0 +1,238 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+
+AGRICULTURAL and Industrial Statistics
+                                                                                                                                                                                                                                                                         Fish, Fur
+Province,        Resident
+                            Immovable Property, Land Cultivated,                                                                                                                                                                                                         and
+Agency, or       Indian                                            Personal Property                                                                                                  Grain and Roots Harvested
+                            and Fresh Land Ploughed                                                                                                                                                                                                                      Other
+Band             Population
+                                                                                                                                                                                                                                                                         Industries
+                                                            Land                                                                                                               Number
+                                                                                                                                  No. of
+                                                 Land       newly                               Fanning Threshing Mowing                                                       of                                              Other
+...              ...        Houses Barns Stables                   Ploughs Harrows Wagons Carts                           Reapers Other      Horses Cows Oxen Bulls Sheep Pigs        Wheat Oats    Pease Barley Corn Rye            Potatoes Turnips Beans Apples Hay   Value
+                                                 cultivated broken                              Mills   Machines Machines                                                      Young                                           Grain
+                                                          
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+tle Agency,
+                957       127     2     105    1,342      51      88      57          19    42    7     ...       3     ...   1,420      241    188   131   7     48    ...   254   9,261 710     ...   ...     550   ...    ...    1,666    ...     ...    ...    ...   2,297 14,421 00
+Treaty No. 4
+Swan River
+(Fort Pelly),    651      70      ...   68     134 3/4    26      35      22          32    30    3     ...       14    ...   452        143    295   116   13    146   ...   405   40     170    ...   476     ...   ...    ...    1,127    ...     ...    ...    ...   2,092 11,601 00
+Treaty No. 4
+Fire Hills
+Agency, Treaty   280      53      ...   91     164 1/2    ...     45      18          14    12    2     ...       4     1     559        95     204   53    7     11    2     303   ...    ...    ...   ...     ...   ...    ...    20       ...     ...    ...    ...   1,056 2,260 00
+No. 4
+Assiniboine
+Agency, Treaty   238      107     ...   37     490        70      35      8           13    9     ...   ...       1     2     39         58     24    54    ...   64    ...   56    520    ...    ...   ...     ...   ...    ...    748      1,142   212    ...    ...   650    837 00
+No. 4
+Crooked Lakes
+Agency, Treaty   606      107     ...   92     686        52      80      40          9     26    4     1         4     ...   589        190    139   114   5     34    20    403   1,848 100     ...   15      ...   ...    ...    786      ...     ...    ...    ...   1,336 6,880 00
+
+
+
+=== EXTRACT FROM HERE (pages 521-525) ===
+<!-- page 521 -->
+No. 4
+Moose
+Mountain
+               237           115     ...   53      414 1/2   26      30      16 1/2   12    11    1     ...   2     1     639      65    65    59    3     ...   ...   112   1,703 130    ...   120    ...   ...   ...   925      977     80    ...   ...   630      2,925 00
+Agency, Treaty
+No. 4
+A. Mackay, Agt,
+                2,116        539     ...   139     207       21 1/2 48       65       1     ...   ...   ...   ...   ...   1,852    ...   130   54    5     ...   ...   134   ...   ...    ...   28     ...   ...   ...   4,509    ...     ...   ...   ...   274      30,665 00
+Treaty No. 5
+Jos. Reader,
+Agt, Treaty No. 1,069        264     ...   88      61        5       24      22       ...   1     2     ...   ...   ...   838      12    100   24    ...   ...   ...   153   ...   ...    ...   ...    ...   ...   ...   3,045    ...     ...   ...   ...   319      16,989 00
+5
+Saddle Lake
+Ag'cy, Tr'ty No. 701         153     ...   106     901       85      68      35       7     35    2     1     2     1     862      196   315   78    2     ...   ...   474   744   56     ...   892    ...   ...   ...   975      ...     ...   ...   284   2,160 8,072
+6
+Hobbema
+Ag'cy, Tr'ty No. 516         70      ...   65      923       124     90      42       7     48    4     2     6     3     1,126    195   226   108   ...   ...   ...   416   3,718 448    ...   1,160 ...    ...   ...   1,800    1,450   ...   ...   ...   905      6,550 00
+6
+Battleford
+Ag'cy, Tr'ty No. 861         200     ...   173     324 1/2   11      119     59       24    26    4     ...   17    ...   919      287   432   267   16    154   ...   650   934   31     ...   4      ...   ...   ...   630      458     ...   3     ...   4,685 2,244 00
+6
+Onion Lake
+Ag'cy, Tr'ty No. 673         108     ...   76      630       9       44      15       16    15    2     1     3     ...   941      113   193   80    2     162   6     462   205   ...    ...   1,502 ...    ...   ...   1,050    300     ...   ...   ...   1,900 10,080 00
+6
+Duck Lake
+Ag'cy, Tr'ty No. 627         96      28    100     702       101     69      32       19    27    4     ...   11    2     1,403    171   277   150   21    ...   8     501   2,442 1,966 ...    250    ...   ...   ...   1,879    ...     ...   ...   ...   2,096 5,070 00
+6
+Edmonton
+Ag'cy, Tr'ty No. 736         163     ...   142     1,011     177     36      26       11    9     4     1     4     ...   186      177   162   95    3     79    59    201   1,875 1,860 ...    2,510 ...    ...   ...   3,529    ...     ...   ...   ...   1,754 10,157 00
+6
+Carlton Ag'cy,
+                 1,352       123     20    107     617       91      77      41       8     31    1     ...   3     ...   813      154   228   134   9     ...   1     360   1,417 589    ...   351    ...   ...   ...   1,572    ...     ...   ...   ...   2,031 4,602 00
+Tr'ty No. 6
+Sarcee Ag'cy,
+                 236         77      ...   2       76        3       ...     ...      ...   ...   ...   ...   ...   ...   84       463   5     4     ...   ...   ...   3     95    110    ...   ...    ...   ...   ...   57       325     35    ...   ...   180      1,725 00
+Tr'ty No. 7
+Blood Ag'cy,
+                 1,427       344     ...   29      304       52      46      12       41    1     2     ...   6     1     1,896    1,828 62    25    2     ...   ...   130   19    699    ...   ...    ...   ...   ...   546      ...     ...   ...   ...   500      7,001 00
+Tr'ty No. 7
+Blackfoot
+Ag'cy, Tr'ty No. 1,267       472     ...   16      207 1/2   18      40      19       13    4     2     1     4     ...   985      1,645 17    ...   ...   ...   ...   445   14    106    ...   30     ...   ...   ...   548      ...     ...   ...   ...   440      3,769 00
+7
+Piegan Ag'cy,
+                 781         176     ...   39      265       16      30      6        40    ...   1     ...   8     ...   290      567   288   30    11    ...   ...   548   ...   324    ...   93     ...   ...   ...   930      ...     ...   ...   ...   347      4,532 00
+Tr'ty No. 7
+Stony Ag'cy,
+                 576         132     ...   47      97        ...     9       8        4     5     ...   ...   1     ...   26       530   182   6     8     82    ...   523   ...   ...    ...   ...    ...   ...   ...   181      ...     ...   ...   ...   115      4,950 00
+Tr'ty No. 7
+                                                   12,363    1,096                                                                                                                                                                                                   263,918
+Total            23,685      5,860   97    2,308                     1,314   764      428   604   55    9     216   15    20,222   8,043 4,673 2,275 189   788   292 8,242   30,370 10,048 55   10,148 2,453 30    3     52,139   4,857   422   42    284   36,978
+                                                   3/4       1/2                                                                                                                                                                                                     00
+[*739 bushels of rice.]
+JOHN McGIRR,
+Clerk of statistics
+HAYTER REED,
+Deputy Superintendent General of Indian Affairs
+
+<!-- page 522 -->
+DEPARTMENT OF INDIAN AFFAIRS,
+Ottawa, 30th June, 1895
+
+<!-- page 523 -->
+Table, see page 326
+
+<!-- page 524 -->
+TABULAR STATEMENT NO. 3
+
+SHOWING the Condition of the various Indian Schools in the Dominion (from which Returns have been received) for the Year ended 30th June, 1895
+                                                                        Yearly                                Total
+           Reserve on                                                                        Number Number
+                                                                        Salary From what                      Number Daily                                                                                                                      General
+ School    which        Agency          Teacher       Denomination                           of Roll of Roll                      Classes of Study                                      Industries
+                                                                        or Grant Fund paid                    on Roll Attendance                                                                                                                Remarks
+           situated                                                                          - Boys - Girls
+                                                                        Provided                              Average
+                                                                                                                                   Standard Standard Standard Standard Standard Standard
+...            ...          ...              ...          ...              ...      ...            ...   ...   ...      ...                                                              Farmer Carpenter Shoemaker Tailor Blacksmith Tinsmith ...
+                                                                                                                                   1        2        3        4        5        6
+
+               ...          ...              ...          ...              $ cts.   ...            ...   ...   ...      ...        ...     ...       ...     ...      ...      ...      ...     ...       ...        ...   ...         ...      ...
+ONTARIO
+                                                                                                                                                                                                                                                Half salary
+                                                                                                                                                                                                                                                paid by
+                                                                                    Band and                                                                                                                                                    Methodist
+Alnwick        Alnwick      Alnwick          A.G. Millard Methodist        250 00                  18    16    34       17         15      12        5       2        ...      ...      ...     ...       ...        ...   ...         ...
+                                                                                    Methodist                                                                                                                                                   Missionary
+                                                                                                                                                                                                                                                and half by
+                                                                                                                                                                                                                                                band
+Back
+               Caradoc      Western No. 2    Elsie Cobban Undenominational 200 00   Land           15    12    27       14         14      5         5       3        ...      ...      ...     ...       ...        ...   ...         ...      ...
+Settlement
+                                             Thomas
+Bear Creek     Caradoc      Western No. 2                 Undenominational 200 00   Land           9     8     17       9          5       5         4       2        1        ...      ...     ...       ...        ...   ...         ...      ...
+                                             Annett
+               Manitoulin                    Ignatius
+Buzwahs                     Manitowaning                  Roman Catholic   200 00   Band           8     6     14       7          6       4         3       1        ...      ...      ...     ...       ...        ...   ...         ...      ...
+               Island                        Gabow
+Cape Croker    Cape Croker Cape Croker     Janet Miller   Undenominational 300 00   Band           17    5     22       12         12      2         3       4        1        ...      ...     ...       ...        ...   ...         ...      ...
+Christian      Christian                   John                                     Band and
+                           Penetanguishene                Methodist        275 00                  22    9     31       14         19      2         3       6        1        ...      ...     ...       ...        ...   ...         ...      ...
+Island         Island                      Lawrence                                 Methodist
+Fort William   Fort                          E.S.
+                            Northern No. 4                Roman Catholic   300 00   Appropriation 13     ...   13       11         7        4        2       ...      ...      ...      ...     ...       ...        ...   ...         ...      ...
+(boys)         William                       Donahue
+Fort William   Fort                          Sister M.
+                            Northern No. 4                Roman Catholic   200 00   Appropriation ...    15    15       10         6        5        3       1        ...      ...      ...     ...       ...        ...   ...         ...      ...
+(girls)        William                       Ambrose
+                                           Sister St.
+Fort William   Fort
+                            Northern No. 4 Helen of the Roman Catholic     500 00   Band           9     15    24       22         6        13       4       ...      ...      ...      ...     ...       ...        ...   ...         ...      ...
+(orphanage)    William
+                                           Cross
+                                             Helen
+French Bay     Saugeen      Saugeen                       Undenominational 300 00   Band           14    17    31       16         16       4        7       3        1        ...      ...     ...       ...        ...   ...         ...      ...
+                                             Cameron
+               Garden                                                               Band and
+Garden River                Sault Ste. Marie A.E. Wilding Episcopal        300 00                 25     26    51       28         32       10       8       1        ...      ...      ...     ...       ...        ...   ...         ...      ...
+               River                                                                appropriation
+                                                                                    Methodist
+Georgina       Georgina                     Robert
+                            Georgina Island               Methodist        300 00   and School     11    7     18       10         5        2        7       2        2        ...      ...     ...       ...        ...   ...         ...      ...
+Island         Island                       Mayes
+                                                                                    Fund
+                                                                                                                                                                                                                                                Half salary
+                                                                                                                                                                                                                                                paid by
+                                                                                    Methodist                                                                                                                                                   Methodist
+Gibson         Gibson       Parry Sound      E. Hyndman Methodist          250 00   and School     16    10    26       13         13      5         3       4        1        ...      ...     ...       ...        ...   ...         ...      Missionary
+                                                                                    Fund                                                                                                                                                        Society and
+                                                                                                                                                                                                                                                half by
+                                                                                                                                                                                                                                                School Fund
+
+<!-- page 525 -->
+               Golden
+Golden Lake                Golden Lake      M.E. Quinn    Roman Catholic   300 00   School Fund 10     7    17    10    7    7    2     ...   1     ...   ...   ...   ...   ...   ...   ...   ...
+               Lake
+                                                                                    Band and
+Hiawatha       Rice Lake   Rice Lake        J.A. Windsor Methodist         250 00                10    8    18    8     7    4    4     3     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                                                                    Methodist
+Jack Fish      Jack fish
+                           Northern No. 4 J.A. Blais      Roman Catholic   250 00   School Fund 11     5    16    8     13   2    1     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Island         Island
+Kettle Point   Kettle Point Western No. 1   E.Jane Little Undenominational 250 00   Appropriation 10   8    18    8     11   4    2     1     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                            Elizabeth
+Lake Helen     Lake Helen Northern No.4                   Roman Catholic   200 00   School Fund 15     8    23    13    10   5    7     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                            Lahaye
+Lower
+               Caradoc     Northern No. 2 John Collins Episcopal           100 00   School Fund 13     11   24    19    5    11   4     4     1     ...   ...   ...   ...   ...   ...   ...   ...
+Muncey
+                                            Sister St.                              Band and
+Mattawa        Mattawa     ...                            Roman Catholic   250 00               9      16   25    12    15   5    5     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                            Monica                                  School Fund
+               Henvey                       David                                   Band and
+Miller                     Parry Sound                    Undenominational 250 00               9      16   25    12    15   5    5     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+               Inlet                        Craddock                                School Fund
+Mississauga    Mississauga Manitowaning     Louisa Dyke Roman Catholic     250 00   School Fund 14     10   24    14    15   5    3     1     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                                                                                                                                                                              Boys taught
+                                                                                                                                                                                              farming and
+                                                                                                                                                                                              carpentering,
+                                                                                                                                                                                              and girls
+Mohawk                                      Rev. R.
+               At Brantford Grand River                   Undenominational 5,460 00 Appropriation 48   67   115   105   9    13   21    24    26    18    33    4     ...   ...   ...   ...   sewing,
+Institute                                   Atkinson
+                                                                                                                                                                                              knitting,
+                                                                                                                                                                                              cooking and
+                                                                                                                                                                                              general
+                                                                                                                                                                                              housework
+                                            George
+Moraviantown Moravian      Western No. 3                  Undenominational 350 00   Band         19    19   38    22    29   5    4     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                            Grant
+                                                                                    Moravian
+Moravian
+               Moravian    Western No. 3    Dora Miller   Moravian         ...      Missionary   5     20   25    21    10   7    8     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Mission
+                                                                                    society
+                                                                                    School Fund
+Mount Elgin                                 Rev. W.W.
+               Caradoc     Western No. 2                  Methodist        5,100 00 and           57   62   119   86    26   18   26    14    9     2     37    1     4     ...   ...   ...   ...
+Institute                                   Shepherd
+                                                                                    Appropriation
+                                            Norman F.
+New Credit     New Credit New Credit                      Undenominational 325 00   Band         28    16   44    28    18   12   8     4     2     ...   ...   ...   ...   ...   ...   ...   ...
+                                            Black
+                                            Maggie R.
+Nipissing      Nipissing   Parry Sound                    Undenominational 250 00   Band         7     10   17    8     11   2    ...   3     1     ...   ...   ...   ...   ...   ...   ...   ...
+                                            Tennant
+                                            Susie                                   Methodist                                                                                                 $50 paid by
+Oneida No. 1 Oneida        Western No.2                   Methodist        300 00                20    20   40    20    18   13   7     2     ...   ...   ...   ...   ...   ...   ...   ...
+                                            Emerson                                 and School                                                                                                department
+                                            Mary J.                                 Episcopal
+Oneida No. 2 Oneida        Western No. 2                  Episcopal        200 00                7     8    15    8     10   4    1     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                            Chambers                                and School
+                                                                                    Methodist
+Oneida No. 3 Oneida        Western No. 2    C.A. Vollick Methodist         250 00                26    21   47    27    25   13   5     4     ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                                                                    and School
+Pays Plat      Pays Plat   Northern No. 4 Alice Barker Roman Catholic      250 00   School       8     8    16    9     13   3    ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                            Mrs. J.H.
+Pic River      Pic river   Northern No. 4                 Roman Catholic   250 00   School       10    7    17    9     9    5    3     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+                                            McKay
+                                                                                                                                                                                              Department
+

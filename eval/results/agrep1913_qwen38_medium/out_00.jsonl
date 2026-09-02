@@ -1,0 +1,44 @@
+{"row_type": "headers", "title": "INDIAN TRUST FUND. SHOWING transactions in connection with the Fund during the Year ended March 31, 1913.", "columns": ["Debit ($ cts.)", "Credit ($ cts.)"]}
+{"page": 1166, "row_type": "row", "section": null, "label": "Balance, March 31, 1912", "values": [null, "7,030,426 93"], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Collections on land sales, timber and stone dues, rents, finer, and fees", "values": [null, "740,021 49"], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Interest for year ended March 31, 1912", "values": [null, "256,016 14"], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Legislative grants to supplement the Fund", "values": [null, "16,950 00"], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Outstanding cheques 1910 - 11", "values": [null, "656 46"], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Credit transfers during the year", "values": [null, "2,564 62"], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Debit transfers during the year", "values": ["2,350 46", null], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Expenditure during the year 1912 - 13", "values": ["757,131 94", null], "confidence": "high"}
+{"page": 1166, "row_type": "row", "section": null, "label": "Balance, March 31, 1913", "values": ["7,287,153 24", null], "confidence": "high"}
+{"page": 1166, "row_type": "total", "section": null, "label": null, "values": ["8,046,635 64", "8,046,635 64"], "confidence": "high"}
+{"page": 1169, "row_type": "row", "section": "Summary of Expenditure.", "label": "Civil Government - Salaries", "values": ["(Page H - 3)", "110,452 56", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Summary of Expenditure.", "label": "Civil Government Contingencies", "values": ["(Page H - 5)", "19,003 61", null], "confidence": "medium"}
+{"page": 1169, "row_type": "total", "section": "Summary of Expenditure.", "label": null, "values": [null, null, "129,456 17"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Summary of Expenditure.", "label": "Annuities paid under Statute", "values": ["(Page H - 5)", null, "200,954 00"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Ontario and Quebec -", "label": "Relief, medical attendance and medicines, Quebec", "values": ["(Page H - 7)", "12,149 79", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Ontario and Quebec -", "label": "Relief, medical attendance and medicines, Ontario", "values": ["(Page H - 9)", "6,562 26", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Ontario and Quebec -", "label": "General legal expenses", "values": ["(Page H - 10)", "13,386 49", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Ontario and Quebec -", "label": "Repairs to roads, and drainage", "values": ["(Page H - 10)", "2,588 59", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Ontario and Quebec -", "label": "General expenses", "values": ["(Page H - 10)", "39,950 52", null], "confidence": "medium"}
+{"page": 1169, "row_type": "total", "section": "Ontario and Quebec -", "label": null, "values": [null, null, "74,637 65"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": null, "label": "Nova Scotia", "values": ["(Page H - 12)", null, "17,448 83"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": null, "label": "New Brunswick", "values": ["(Page H - 15)", null, "18,557 47"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": null, "label": "Prince Edward Island", "values": ["(Page H - 17)", null, "2,418 53"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Expenses of agencies", "values": ["(Page H - 18)", "503,646 45", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Sioux", "values": ["(Page H - 57)", "9,537 99", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": "Surveys", "values": ["(Page H - 57)", "13,549 14", null], "confidence": "medium"}
+{"page": 1169, "row_type": "total", "section": "Manitoba, Saskatchewan, Alberta and Northwest Territories -", "label": null, "values": [null, null, "526,733 58"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": null, "label": "Yukon Territory", "values": ["(Page H - 58)", null, "26,597 22"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "British Columbia -", "label": "Expenses of agencies", "values": ["(Page H - 69)", "123,215 37", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "British Columbia -", "label": "Surveys", "values": ["(Page H - 70)", "5,268 05", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "British Columbia -", "label": "Cleansing Indian orchards", "values": ["(Page H - 70)", "3,496 15", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "British Columbia -", "label": "British Columbia Land Question, Legal expenses", "values": ["(Page H - 70)", "3,895 28", null], "confidence": "medium"}
+{"page": 1169, "row_type": "total", "section": "British Columbia -", "label": null, "values": [null, "135,974 85", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": null, "label": "Indian education", "values": ["(Page H - 71)", null, "712,660 20"], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Salaries of inspectors and valuators", "values": ["(Page H - 86)", "2,900 00", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Travelling expenses and clerical assistance", "values": ["(Page H - 86)", "1,018 65", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Compensation in lieu of lands surrendered by Indians", "values": ["(Page H -87)", "49,785 62", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Relief to Indians in remote districts", "values": ["(Page H - 87)", "16,398 44", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Prevention of the spread of tuberculosis", "values": ["(Page H - 87)", "5,822 42", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Small pox epidemic and other diseases", "values": ["(Page H - 88)", "2,661 30", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Surveys, Ontario, Quebec and Maritime Provinces", "values": ["(Page H - 88)", "10,977 60", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Suppression of the liquor traffic", "values": ["(Page H - 89)", "4,000 00", null], "confidence": "medium"}
+{"page": 1169, "row_type": "row", "section": "General -", "label": "Printing and stationery, & c., outside service", "values": ["(Page H - 89)", "8,740 10", null], "confidence": "medium"}

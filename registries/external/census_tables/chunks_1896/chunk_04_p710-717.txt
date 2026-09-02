@@ -1,0 +1,438 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+CENSUS RETURN.
+
+CENSUS RETURN of Resident and Nomadic Indians; Denominations to which they belong, with approximate
+number belonging to each Denomination, in the Dominion of Canada, by Province
+
+PROVINCE OF ONTARIO.
+                             Acknowledged Acknowledged
+                     Census and claimed as and claimed as
+Indians.                                                    Pagan Remarks.
+                     Return. being         being Roman
+                             Protestant.   Catholic.
+Algonquins, Golden
+                     94     ...            94               ...   ...
+Lake
+Algonquins, Renfrew
+                    *286    ...            ...              ...   Stragglers.
+North
+Chippewas of the
+                     437    437            ...              ...   ...
+Thames
+Chippewas Walpole
+                     639    588            31               20    ...
+Island
+                                                                  356 reside on the Sarnia Reserve, 62 at
+                                                                  Kettle Point, 26 at Aux Sables, and 27
+Chippewas Sarnia     471    471            ...              ...
+                                                                  Chippewas reside on the Sarnia Reserve but
+                                                                  are not on the pay list.
+Chippewas Georgina
+                   120      120            2                ...   ...
+and Snake Island
+Chippewas Rama       235    223            12               ...   ...
+Chippewas Saugeen    370    327            43               ...   ...
+Chippewas Nawash     396    264            132              ...   ...
+Chippewas                                                         42 non-treaty Indians, 117 reside on
+                     391    235            156              ...
+Beausoleil                                                        Manitoulin Island.
+Iroquois and
+Algonquins of
+                     124    124            ...              ...   ...
+Gibson, (Watha)
+Muskoka District
+Moravians of the                                                  25 Indians reside on this reserve, but are
+                     324    324            ...              ...
+Thames                                                            not members thereof.
+Mississaguas of Mud
+                    163     163            ...              ...   ...
+Lake
+Mississaguas of Rice
+                     79     79             ...     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+rovidence         ...       100                        482                           ...   ...
+Fort Rae           ...       ...                        800                           ...   ...
+Fort Resolution    ...       30                         503                           ...   ...
+Totals             ...       130                        1,785                         ...   ...
+RIVIÈRE AUX
+                   ...       ...                        ...                           ...   ...
+LIARDS DISTRICT
+Fort Liards        ...       ...                        205                           ...   ...
+Fort Nelson        ...       ...                        172                           ...   ...
+Totals             ...       ...                        377                           ...   ...
+ATHABASKA
+                   ...       ...                        ...                           ...   ...
+DISTRICT.
+Fort Smith         ...       ...                        280                           ...   ...
+Fort Chippewayan   ...       ...                        641                           ...   ...
+Fond du Lac        ...       ...                        260                           ...   ...
+Fort McMurray      ...       ...                        150                           ...   ...
+Totals             ...       ...                        1,331                         ...   ...
+PEACE RIVER
+                   ...       ...                        ...                           ...   ...
+
+
+
+=== EXTRACT FROM HERE (pages 710-717) ===
+<!-- page 710 -->
+DISTRICT.
+                                    No
+Fort Dunvegan     ...   2     98          ...
+                                    ret
+                                    No
+Smoky River       ...   3     135         ...
+                                    ret
+Grand Prairie     ...   ...   72    3     ...
+Fort St. John     ...   ...   125   25    ...
+                                    No
+Fort Vermillion   ...   52    145         ...
+                                    ret
+Hay River         ...   1     122   1     ...
+Red River         ...   20    64    25    ...
+Totals            ...   78    761   54    ...
+
+<!-- page 711 -->
+NORTH-WEST TERRITORIES.
+                          Acknowledged Acknowledged
+                  Census and claimed as and claimed as
+Indians.                                               Pagan Remarks.
+                  Return. being         being Roman
+                          Protestant.   Catholic.
+LESSER
+SLAVE LAKE ...           ...           ...            ...    ...
+DISTRICT.
+Lesser Slave
+             ...         42            558            7      ...
+Lake
+Sturgeon Lake ...        ...           152            4      ...
+Whitefish Lake ...       41            42             37     ...
+Trout and
+               ...       ...           38             36     ...
+Manitou Lake
+Wabashaw,
+Kilrow and        ...    33            174            54     ...
+L'Orignal
+Totals            ...    116           964            138    ...
+YUKON
+                  ...    ...           ...            ...    ...
+DISTRICT.
+Forty Mile
+                  ...    400           No return.     2000 ...
+Creek
+Selkirk or Pelly
+                 ...     200           No return.     ...    ...
+River
+Totals     ...           600           ...            2,000 ...
+NELSON AND
+CHURCHILL
+           ...           ...           ...            ...    ...
+RIVERS
+DISTRICT
+Pelican                                               No
+                  ...    No return.    211                   ...
+Narrows                                               ret
+                                                      No
+Nelson River      ...    No return     115                   ...
+                                                      ret
+                                                      No
+Churchill         ...    No return     ...                   ...
+                                                      ret
+                                                      No
+Lac Caribou       ...    No return.    525                   ...
+                                                      ret
+                                                      No
+Esquimaux         ...    No return.    1                     ...
+                                                      ret
+Totals            ...    ...           852            ...    ...
+
+PROVINCE OF BRITISH COLUMBIA.
+RECAPITULATION.
+West Coast
+           2750 154        1,469                      1,127 ...
+Agency
+
+<!-- page 712 -->
+Fraser River
+                 3,381   237     2,962    182   ...
+Agency
+Babine and
+Upper Skeena 2,783       604     1,712    466   ...
+River Agency
+Williams Lake
+              1,899      37      1,862    ...   ...
+Agency
+North-west
+                 3,994   3,273   ...      721   ...
+Coast Agency
+Kootenay
+                 562     ...     562      ...   ...
+Agency
+Cowichan
+                 2,029   167     1,862    ...   ...
+Agency
+Kamloops
+                 2,880   1,437   1,441    2     ...
+Agency
+Okanagan
+                 651     ...     651      ...   ...
+Agency
+Kwawkewlth
+                 1,639   859     107      673   ...
+Agency
+                                                These are mainly some detached bands of Stickeen,
+Bands not                                       Chilcats and some small Tinnie tribes, on the head
+                 2,500   ...     ...      ...
+visited, about                                  waters of the Stickeen, Chilcat, Yukon, Liards and
+                                                Dease Rivers. Religion unknown.
+Grand Totals     25,068 6,769    12,628   3,171 ...
+
+<!-- page 713 -->
+PROVINCE OF MANITOBA.
+
+RECAPITULATION.
+                            Acknowledged and
+                                               Acknowledged and claimed
+Indians.            Census. claimed as being                            Pagan. Remarks.
+                                               as being Roman Catholic.
+                            Protestant.
+Treaty No. 1        2,572   1,343              671                      558     ...
+Treaty No. 2        733     390                268                      75      ...
+Treaty No. 3        2,935   705                240                      1,990   ...
+Treaty No. 5        3,204   2,569              58                       577     ...
+Grand Totals        9,444   5,007              1,237                    3,200   ...
+
+NORTH-WEST TERRITORIES.
+
+RECAPITULATION.
+Treaty No. 4       4,498    1,112              870                      2,516   ...
+Treaty No. 6       5,658    2,620              2,345                    693     ...
+Treaty No. 7       4,183    713                99                       3,371   ...
+Non-treaty Indians 340      ...                ...                      ...     Religion unknown.
+Eastern Rupert's
+                   ...      ...                ...                      ...     4,016*
+Land
+Labrador, Canadian
+                   ...      ...                ...                      ...     1,000*
+Interior
+Artic Coast,
+                    ...     ...                ...                      ...     1,000*
+Esquimaux
+[*Religion unknown.]
+
+RECAPITULATION.
+                                                                                Religion of 296
+Ontario             17,663 9,674               6,167                    1,526
+                                                                                unknown.
+                                                                                Religion of 3,111
+Quebec              10,626 570                 6,945                    ...
+                                                                                unknown.
+Nova Scotia         2,108   9                  2,099                    ...     ...
+New Brunswick       1,590   ...                1,590                    ...     ...
+Prince Edward
+                    308     ...                308                      ...     ...
+Island
+                                                                              Religion of 2,500
+British Columbia    25,068 6,769               12,628                   3,171
+                                                                              unknown.
+Manitoba            9,444   5,007              1,237                    3,200 ...
+North-west                                                                      Religion of 340
+                    14,679 4,445               3,314                    6,580
+Territories                                                                     unknown.
+                                                                                The census of these
+Upper McKenzie
+                    400     400                ...                      ...     Indians is not perfectly
+
+<!-- page 714 -->
+District
+                                                                                             accurate.
+Eastern Athabaska
+                     881      ...                      738                          143      ...
+District
+Lower McKenzie
+                     2,058    700                      1,358                        ...      ...
+District
+Great Slave Lake
+                     1,915    130                      1,785                        ...      ...
+District
+Rivière Aux Liards
+                   377        ...                      377                          ...      ...
+District
+- Athabaska District 1,331    ...                      1,331                        ...      ...
+Peace River District 893      78                       761                          54       ...
+Lesser Slave Lake
+                     1,218    116                      964                          138      ...
+District
+Yukon District       2,600    600                      ...                          2,000 ...
+Nelson and
+Churchill Rivers     852      ...                      852                          ...      ...
+District
+Eastern Rupert's
+                     4,016    ...                      ...                          ...      ...
+Land
+Labrador, Canadian
+                   1,000      ...                      ...                          ...      Religion unknown.
+Interior
+Artic Coast,
+                     1,000    ...                      ...                          ...      Religion unknown.
+Esquimaux
+                                                                                             Relg. of 12,263
+Grand Totals         100,027 28,498                    42,454                       16,812
+                                                                                             unknown
+
+HAYTER REED,
+Deputy Superintendent General of Indian Affairs.
+
+JOHN McGIRR, Clerk of Statistics.
+DEPARTMENT OF INDIAN AFFAIRS,
+OTTAWA, 30th June, 1896.
+NOTE. - The religious belief of the various bands throughout the Dominion cannot be given correctly [ilegible word]
+instances, especially in the case of those bands residing in the more uncivilized parts of the country.
+
+<!-- page 715 -->
+WHEREABOUTS of Sioux and Straggling Indians in North-west Territories (not reported in Agent's Tabular
+Statements.)
+ Name of
+             Located.                                                        Tribe.             Number.
+ Band.
+(None)        Birtle District                                                         Sioux        75
+White Cap     Moose Woods                                                             Sioux        49
+(None)        Moosejaw and Regina                                                     Sioux        96
+              Stragglers in the vicinity of Swift Current, Maple Creek and Medicine   Cree and
+(None)                                                                                             120
+              Hat                                                                     Saulteaux.
+...           Total                                                                   ...          340
+
+<!-- page 716 -->
+EARNINGS of Indians, 1895 - 96.
+             Cattle,
+                                 Wood             Fish
+             Horses                   Labour and                                                          How
+Agency.                 Produce. and              and              Manufactures. Miscellaneous. Totals.
+             and                      Freighting.                                                         expended.
+                                 Hay.             Fur.
+             Sheep.
+Treaty No. 4.   $ cts.     $ cts.     $ cts.   $ cts.     $ cts.   $ cts.        $ cts.         $ cts.    ...
+                                                                                                          Provisions
+                                                          1,567                                 4,206
+Swan River      1,483 76   165 20     103 15 729 96             111 35           45 84                    and
+                                                          37                                    63
+                                                                                                          clothing.
+                                                                                                       Provisions
+                                                          2,242                                 14,269
+Birtle          2,197 03   3,855 70 713 42 4,334 75             926 25           ...                   and
+                                                          10                                    25
+                                                                                                       clothing.
+                                                                                                          Provisions
+Moose                                                                                           2,873
+                247 22     83 85      258 95 577 65       663 75 890 00          152 00                   and
+Mountain                                                                                        42
+                                                                                                          clothing.
+                                                                                                          Provisions
+                                                                                                6,010
+Crooked Lakes 1,439 00     4,106 67 ...        74 50      390 00 ...             ...                      and
+                                                                                                17
+                                                                                                          clothing.
+                                                                                                          Provisions
+                                                                                                1,139
+Assiniboine     173 71     129 35     421 00 346 50       ...      19 75         49 00                    and
+                                                                                                31
+                                                                                                          clothing.
+                                                                                                          Provisions
+                                                                                                2,131
+File Hills      814 64     11 50      653 00 134 09       75 00 71 50            371 85                   and
+                                                                                                58
+                                                                                                          clothing.
+                                                                                                          Provisions
+                                      7,568                                                     9,535
+Muskowpetungs 391 00       316 78              929 32     125 50 67 50           136 50                   and
+                                      61                                                        21
+                                                                                                          clothing.
+                                                                                                       Provisions
+                                                                                 1,599
+                                                          11,400                                16,727 and
+Touchwood       1,819 50   1,050 00 200 00 657 77                ...             [illegible
+                                                          00                                    17     clothing.
+                                                                                 number]O
+                                                                                                       cattle.
+                                      9,918               16,463                                56,892
+...             8,565 86   9,719 05            7,784 54          2,086 35        2,355 09              ...
+                                      13                  72                                    74
+Treaty No. 6.   ...        ...        ...      ...        ...      ...           ...            ...       ...
+                                                                                                          Provisions
+                                                          1,431                                 4,432
+Duck Lake       1,389 56   823 60     ...      780 84           ...              7 00                     and
+                                                          50                                    50
+                                                                                                          clothing.
+                                                                                                          Provisions
+                                                          4,001                                 6,442
+Carlton         1,253 36   69 35      ...      857 61           ...              261 50                   and
+                                                          00                                    82
+                                                                                                          clothing.
+                                                                                                          Provisions
+                                                                                                5,886
+Battleford      4,161 88   808 00     600 45 104 50       128 50 ...             83 50                    and
+                                                                                                83
+                                                                                                          clothing.
+                                                                                                          Provisions
+                                                          5,800                                 7,684
+Onion Lake      959 22     305 18     70 00    520 19           ...              29 79                    and
+                                                          00                                    38
+                                                                                                          clothing.
+                                                                                                          Provisions
+
+<!-- page 717 -->
+                                                           4,047                        5,888
+Saddle Lake     1,529 75    71 96      50 00   190 00            ...         ...                 and
+                                                           00                           71
+                                                                                                 clothing.
+                                                                                                 Provisions
+                                                           6,083                        7,795
+Edmonton        799 21      284 75     6 00    588 50            ...         34 00               and
+                                                           00                           46
+                                                                                                 clothing.
+                                                                                                 Provisions
+                                                           4,025                        8,551
+Hobbema         2,611 50    546 00     ...     1,035 00          ...         334 00              and
+                                                           00                           50
+                                                                                                 clothing.
+                                                           25,516                       46,682
+...             12,704 48 2,908 84 726 45 4,076 64                ...        749 79            ...
+                                                           00                           20
+Treaty No. 7.   ...         ...        ...     ...         ...     ...       ...        ...      ...
+                                                                                                 Provisions
+                                                                                        1,153
+Sarcee          82 00       723 30     ...     333 25      14 00 1 00        ...                 and
+                                                                                        55
+                                                                                                 clothing.
+                                                                                                 Provisions
+                                                           3,600                        5,448
+Stony           1,107 00    60 00      44 75   559 00            ...         77 50               and
+                                                           00                           25
+                                                                                                 clothing.
+                                                                                                 Provisions
+                                       1,475                                            3,980
+Blackfoot       50 13       40 75              2,414 75    ...     ...       ...                 and
+                                       00                                               63
+                                                                                                 clothing.
+                                                                                               Provisions
+                                                                                        10,355
+Blood           ...         529 38     770 52 8,817 28     80 00 ...         158 20            and
+                                                                                        38
+                                                                                               clothing.
+                                                                                                 Provisions
+                                                                                        3,171
+Piegan          1,915 56    10 00      ...     1,184 83    ...     ...       61 00               and
+                                                                                        39
+                                                                                                 clothing.
+                                       2,290               3,694                        24,109
+...             3,154 69    1,363 43           13,309 11         1 00        296 70            ...
+                                       27                  00                           20
+                            13,991     12,934              45,673                       127,684
+Grand totals    24,425 03                     25,170 29           2,087 35   3,401 58           ...
+                            32         85                  72                           14
+Increase over                                                                           6,924
+                ...         ...        ...     ...         ...     ...       ...                 ...
+last year                                                                               93
+

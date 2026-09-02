@@ -1,0 +1,300 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 637 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS
+
+POPULATION.
+                                                                                                                 Post Office
+Province,        Name of        Resident                 From 6 to 15  From 16 to 20 From 21 to 65
+                                            Under 6                                                From 65 years Address of
+Agency or        Superintendent Indian                   Yrs.,         Yrs.,         Yrs.,
+                                            Years.                                                 Upwards.      Superintendent
+Band.            or Agent.      Population.              Inclusive.    Inclusive.    Inclusive.
+                                                                                                                 or Agent
+...              ...            ...        Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...            ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+ONTARIO
+Grand River
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,703       214   261     385   359      186   143    1,008 978     83    86      Brantford.
+                 Supt
+Missisaguas,     Hugh Stewart,
+                               244         16    5       40    17       10    8      63    72      5     8       Hagersville.
+New Credit       Agent
+                Alex.
+Walpole Island McKelvey         822        54    67      95    97       32    40     225   212     ...   ...     Wallaceburg.
+                Agent
+Western
+Superintendency ...             ...        ...   ...     ...   ...      ...   ...    ...   ...     ...   ...     ...
+-
+                 Adam,
+1st Division                    (*)468     24    41      38    34       30    15     125   120     10    9       Sarnia.
+                 English, Agent
+                 A.S.
+2nd Division     McDougall      1,353      81    79      156   128      72    67     392   319     32    27      Melbourne
+                 Agent
+                 John Beattie
+3rd Division                    302        29    23      35    35       11    10     81    76      2     ...     Highgate.
+                 Agent
+Northern
+Superintendency ...             ...        ..
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+y        Agent
+                                 116              1857                               239             150
+...              Totals                1,410           43,720      112       1,988           6,483            1,808   ...    ...        206   5,046      ...
+                                 1/2              1/2                                3/4             1/2
+
+NEW             ...              ...   ...        ...   ...        ...       ...     ...     ...     ...      ...     ...    ...        ...   ...        ...
+BRUNSWICK.
+North-eastern   W.D. Carter,
+                                 19    185        192   4,505      1         6       2       25      2 1/4 28         ...    ...        14    207        ...
+Superintendency Supt.
+South-western
+Superintendency ...              ...   ...        ...   ...        ...       ...     ...     ...     ...      ...     ...    ...        ...   ...        ...
+
+<!-- page 700 -->
+-
+               James Farrell,
+1st Division                  ...   ...   24 1/2 780    ...   ...   1   20   1     10    ...   ...   5    130     ...
+               Supt.
+               James Farrell,
+2nd Division                  1     25    50    1,350   ...   ...   1   20   ...   ...   ...   ...   30   950     ...
+               Supt.
+                                          266
+...            Totals          20   210         6,635   1     6     4   65   3 1/4 38    ...   ...   49   1,287   ...
+                                          1/2
+
+
+
+=== EXTRACT FROM HERE (pages 701-705) ===
+<!-- page 701 -->
+Province,        Name of
+Agency or        Superintendent GRAIN, ROOTS AND FODDER.                                                                                            Remarks.
+Band.            or Agent.
+...              ...            Beans.        Potatoes.            Carrots.          Turnips.         Other Roots.      Hay.                ...     ...
+                                 Acres Bush.      Acres Bush.      Acres Bush.      Acres Bush.      Acres Bush.                        Other
+...              ...                                                                                                  Cultivated. Wild.         ...
+                                 Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested. Sown. Harvested.                   Fodder.
+
+                 ...             ...   ...        ...    ...       ...    ...        ...    ...       ...    ...        Tons.       Tons. Tons.     ...
+QUEBEC.
+Lake of Two      Alex.
+Mountains        Brosseau,       12    40         140    2,850     ...    12         ...    20        ...    ...        98          ...     ...     ...
+Agency           Agent
+                 Alex.
+Caughnawaga
+                 Brosseau,    20       600        400    10,000    5      100        ...    ...       ...    ...        600         ...     ...     ...
+Agency
+                 Agent
+St. Regis        George Long,
+                              2        38         85     4,778     ...    ...        3      303       1      14         583         164     443     ...
+Agency           Agent
+                 N. LeBel,
+Viger Agency                     ...   ...        ...    ...       ...    ...        ...    ...       ...    ...        ...         ...     ...     ...
+                 Agent
+St. Francis      W.C. Boucher,
+                               ...     ...        16     2,500     ...    ...        ...    ...       ...    ...        45          12      ...     ...
+Agency           Agent
+Lake St. John    P.L. Marcotte,                                                                                                             1,905
+                                ...    ...        14 3/4 719       ...    ...        ...    ...       ...    ...        3,487 1/2   1,650           ...
+Agency           Agent                                                                                                                      1/4
+                 Rev. Jacob
+Maria Agency                  ...      ...        96     180       ...    ...        ...    ...       ...    ...        20          ...     ...     ...
+                 Gagné, Agent
+                 V.J.A.
+Restigouche
+                 Venner, M.D., ...     ...        43     1,377     ...    ...        ...    ...       ...    ...        60          ...     ...     ...
+Agency
+                 Agent
+                 W.J.
+River Desert
+                 McCaffrey,     ...    ...        20     1,000     ...    ...        2      500       ...    ...        50          10      30      ...
+Agency
+                 Agent
+Jeune Lorette    Antoine O.
+                                1      10         6      450       1      50         2      150       2      200        24          20      24      ...
+Agency           Bastien, Agent
+Becancour        H. Desilets,
+                                 1/2   5          3 1/2 160        1/16   3          ...    ...       1/8    10         15          ...     ...     ...
+Agency           M.D., Agent
+Temiscamingue A. McBride,
+                                 ...   ...        197    1,630     ...    ...        5/8    110       ...    ...        43          10      ...     ...
+Agency        Agent
+                                                  1,021                                                                                     2,402
+...              Totals          35 1/2 693             25,644     6 1/16 165        7 5/8 1,083      3 1/8 224         5,025 1/2   1,866           ...
+                                                  1/4                                                                                       1/4
+
+NEW             ...              ...   ...        ...    ...       ...    ...        ...    ...       ...    ...        ...         ...     ...     ...
+BRUNSWICK.
+North-eastern   W.D. Carter,
+                                 1 1/5 19         316    9,975     ...    ...        3/5    20        ...    ...        198         ...     ...     ...
+Superintendency Supt.
+South-western
+Superintendency ...              ...   ...        ...    ...       ...    ...        ...    ...       ...    ...        ...         ...     ...     ...
+-
+
+<!-- page 702 -->
+               James Farrell,
+1st Division                  1 1/2 35   13 1/4 995     ...   ...   ...   ...   4    96     22    ...   11   ...
+               Supt.
+               James Farrell,
+2nd Division                  3 1/2 70   34    1,800    ...   ...   ...   ...   2 1/2 55    65    15    20   ...
+               Supt.
+                                         363
+...            Totals        6 1/5 124         12,770   ...   ...   3/5   20    6 1/2 151   285   15    31   ...
+                                         1/4
+
+<!-- page 703 -->
+PROGRESS DURING THE FISCAL YEAR 1896 - 97.
+ Province, Name of
+ Agency or Superintendent NEW LAND IMPROVEMENT.              BUILDINGS ERECTED.                                                                    Remarks.
+ Band.     or Agent.
+                                           Land
+                          Land     Land    Cropped Land      Dwelling, Dwellings, Dwellings, Dwellings,                  Horse Driving Cattle
+ ...       ...                                                                                          Shanties. Barns.                           ...
+                          Cleared. Broken. for First Fenced. Stone.    Brick.     Frame.     Log.                        Stables. Houses. Stables.
+                                           Time.
+
+                 ...            Acres.   Acres.   Acres.   Acres. ...     ...        ...       ...        ...      ...    ...     ...     ...     ...
+QUEBEC
+Lake of Two      Alex.
+Mountains        Brosseau,      4        ...      ...      ...     ...    ...        ...       ...        ...      1      3       ...     ...     ...
+Agency           Agent
+                 Alex.
+Caughnawaga
+                 Brosseau,    4,000      ...      45       ...     ...    ...        2         ...        ...      3      2       ...     ...     ...
+Agency
+                 Agent
+St. Regis        George Long,
+                              40         ...      40       ...     ...    ...        2         ...        ...      3      3       ...     1       ...
+Agency           Agent
+                 N. LeBel,
+Viger Agency                    ...      ...      ...      ...     ...    ...        ...       ...        ...      ...    ...     ...     ...     ...
+                 Agent
+St. Francis      W.C. Boucher,
+                               5         ...      2        ...     ...    ...        2         ...        ...      ...    ...     ...     ...     ...
+Agency           Agent
+Lake St. John    P.L. Marcotte,
+                                50       ...      47 1/2   21      ...    ...        ...       ...        ...      ...    ...     ...     ...     ...
+Agency           Agent
+                 Rev. Jacob
+Maria Agency                  2          ...      ...      ...     ...    ...        1         ...        ...      ...    ...     ...     ...     ...
+                 Gagné, Agent
+                 V.J.A.
+Restigouche
+                 Venner, M.D., 670       20       ...      ...     ...    ...        ...       ...        ...      ...    ...     ...     ...     ...
+Agency
+                 Agent
+                 W.J.
+River Desert
+                 McCaffrey,     4        ...      3        ...     ...    ...        ...       3          ...      ...    ...     ...     ...     ...
+Agency
+                 Agent
+Jeune Lorette    Antoine O.
+                                2        ...      1        ...     ...    ...        1         ...        ...      ...    ...     ...     ...     ...
+Agency           Bastien, Agent
+Becancour        H. Desilets,
+                                ...      ...      ...      ...     ...    ...        ...       ...        1        ...    ...     ...     ...     ...
+Agency           M.D., Agent
+Temiscamingue A. McBride,
+                                15       ...      26       ...     ...    ...        5         ...        ...      ...    ...     ...     1       ...
+Agency        Agent
+...              Totals         4,792    20       164 1/2 21       ...    ...        13        3          1        8      8       ...     2       ...
+
+NEW             ...             ...      ...      ...      ...     ...    ...        ...       ...        ...      ...    ...     ...     ...     ...
+BRUNSWICK.
+North-eastern   W.D. Carter,
+                                19       16       16       22      ...    ...        3         ...        ...      ...    ...     ...     ...     ...
+Superintendency Supt.
+South-western
+Superintendency ...             ...      ...      ...      ...     ...    ...        ...       ...        ...      ...    ...     ...     ...     ...
+
+<!-- page 704 -->
+-
+               James Farrell,
+1st Division                  ...   ...   ...   ...   ...   ...   6     ...   ...   ...   ...   ...   ...   ...
+               Supt.
+               James Farrell,
+2nd Division                  ...   ...   ...   ...   ...   ...   ...   1     ...   ...   ...   ...   ...   ...
+               Supt.
+...            Totals          19   16    ...   ...   ...   ...   9     ...   ...   ...   ...   ...   ...   ...
+
+<!-- page 705 -->
+Province,        Name of
+Agency or        Superintendent BUILDINGS ERECTED.                     INCREASE IN VALUE.                  Remarks.
+Band.            or Agent.
+                                                                                              Increased
+                                                                       Value of
+                                                                                              Value of
+                                                                       Clearing,
+                                 Pig Store      Root    Milk    Corn               Value of Agricultural
+...              ...                                                   Cultivating                        ...
+                                 Sties. Houses. Houses. Houses. Cribs.             Buildings. Products
+                                                                       and
+                                                                                              and
+                                                                       Fencing.
+                                                                                              Industries.
+
+                 ...             ...   ...     ...      ...      ...   $ cts.      $ cts.     $ cts.       ...
+QUEBEC.
+Lake of Two      Alex.
+Mountains        Brosseau,       ...   2       ...      ...      ...   265 00      ...        ...          ...
+Agency           Agent
+                 Alex.
+Caughnawaga
+                 Brosseau,    2        ...     ...      ...      ...   600 00      1,500 00   ...          ...
+Agency
+                 Agent
+St. Regis        George Long,
+                              2        1       ...      ...      2     265 00      2,670 00   2,935 00     ...
+Agency           Agent
+                 N. LeBel,
+Viger Agency                     ...   ...     ...      ...      ...   ...         ...        ...          ...
+                 Agent
+St. Francis      W.C. Boucher,
+                               ...     ...     ...      ...      ...   50 00       400 00     450 00       ...
+Agency           Agent
+Lake St. John    P.L. Marcotte,
+                                ...    ...     ...      ...      ...   805 00      ...        ...          ...
+Agency           Agent
+                 W.J.
+River Desert
+                 McCaffrey,     ...    ...     ...      ...      ...   50 00       450 00     500 00       ...
+Agency
+                 Agent
+Jeune Lorette    Antoine O.
+                                2      ...     ...      ...      ...   25 00       270 00     150 00       ...
+Agency           Bastien, Agent
+Becancour        H. Desilets,
+                                 ...   ...     ...      ...      ...   ...         25 00      375 00       ...
+Agency           M.D., Agent
+Temiscamingue A. McBride,
+                                 ...   2       ...      ...      ...   690 00      501 00     ...          ...
+Agency        Agent
+...              Totals          6     5       ...      ...      2     2,750 00    5,816 00   4,410 00     ...
+
+NEW             ...              ...   ...     ...      ...      ...   ...         ...        ...          ...
+BRUNSWICK.
+North-eastern   W.D. Carter,
+                                 1     ...     ...      ...      ...   180 00      175 00     200 00       ...
+Superintendency Supt.
+South-western
+Superintendency ...              ...   ...     ...      ...      ...   ...         ...        ...          ...
+-
+                 James Farrell,
+1st Division                    3      ...     ...      ...      ...   ...         350 00     ...          ...
+                 Supt.
+                 James Farrell,
+2nd Division                    2      ...     ...      ...      ...   ...         55 00      55 00        ...
+                 Supt.
+

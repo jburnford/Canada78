@@ -1,0 +1,240 @@
+{
+ "02": {
+  "seconds": 2709.0,
+  "pages": "861\u2013868",
+  "windows": [
+   {
+    "window": [
+     861,
+     864
+    ],
+    "rows": 95,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 1133.4,
+    "finish_reason": "stop",
+    "completion_tokens": 23937
+   },
+   {
+    "window": [
+     865,
+     868
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 17239
+   },
+   {
+    "window": [
+     865,
+     868
+    ],
+    "rows": 85,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 757.0,
+    "finish_reason": "stop",
+    "completion_tokens": 16235
+   }
+  ],
+  "rows": 179,
+  "complete": true
+ },
+ "01": {
+  "seconds": 3320.9,
+  "pages": "853\u2013860",
+  "windows": [
+   {
+    "window": [
+     853,
+     860
+    ],
+    "truncated_split": [
+     [
+      853,
+      856
+     ],
+     [
+      857,
+      860
+     ]
+    ],
+    "completion_tokens": 31005
+   },
+   {
+    "window": [
+     853,
+     856
+    ],
+    "rows": 65,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 1066.0,
+    "finish_reason": "stop",
+    "completion_tokens": 23017
+   },
+   {
+    "window": [
+     857,
+     860
+    ],
+    "rows": 42,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 772.1,
+    "finish_reason": "stop",
+    "completion_tokens": 16662
+   }
+  ],
+  "rows": 107,
+  "complete": true
+ },
+ "00": {
+  "seconds": 4186.0,
+  "pages": "845\u2013852",
+  "windows": [
+   {
+    "window": [
+     845,
+     848
+    ],
+    "truncated_split": [
+     [
+      845,
+      846
+     ],
+     [
+      847,
+      848
+     ]
+    ],
+    "completion_tokens": 27601
+   },
+   {
+    "window": [
+     845,
+     846
+    ],
+    "rows": 23,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 588.7,
+    "finish_reason": "stop",
+    "completion_tokens": 12774
+   },
+   {
+    "window": [
+     847,
+     848
+    ],
+    "rows": 57,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 945.6,
+    "finish_reason": "stop",
+    "completion_tokens": 20099
+   },
+   {
+    "window": [
+     849,
+     852
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 18005
+   },
+   {
+    "window": [
+     849,
+     852
+    ],
+    "rows": 57,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 499.9,
+    "finish_reason": "stop",
+    "completion_tokens": 10680
+   }
+  ],
+  "rows": 137,
+  "complete": true
+ },
+ "03": {
+  "seconds": 2295.5,
+  "pages": "869\u2013876",
+  "windows": [
+   {
+    "window": [
+     869,
+     876
+    ],
+    "retry": "parse failed (Expecting value: line 1 column 2 (char 1)) \u2192 retry with thinking off",
+    "completion_tokens": 28025
+   },
+   {
+    "window": [
+     869,
+     876
+    ],
+    "rows": 114,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 994.0,
+    "finish_reason": "stop",
+    "completion_tokens": 21713
+   }
+  ],
+  "rows": 114,
+  "complete": true
+ },
+ "05": {
+  "seconds": 986.6,
+  "pages": "885\u2013888",
+  "windows": [
+   {
+    "window": [
+     885,
+     888
+    ],
+    "rows": 46,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 986.6,
+    "finish_reason": "stop",
+    "completion_tokens": 21872
+   }
+  ],
+  "rows": 46,
+  "complete": true
+ },
+ "04": {
+  "seconds": 2190.0,
+  "pages": "877\u2013884",
+  "windows": [
+   {
+    "window": [
+     877,
+     880
+    ],
+    "rows": 72,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 1178.7,
+    "finish_reason": "stop",
+    "completion_tokens": 25411
+   },
+   {
+    "window": [
+     881,
+     884
+    ],
+    "rows": 46,
+    "dropped_out_of_window": 0,
+    "parse": "ok",
+    "seconds": 1011.3,
+    "finish_reason": "stop",
+    "completion_tokens": 23224
+   }
+  ],
+  "rows": 117,
+  "complete": true
+ }
+}

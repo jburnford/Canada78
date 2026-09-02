@@ -1,0 +1,69 @@
+{"row_type": "headers", "title": null, "columns": ["Name of Band", "Location of Reserve", "Tribe", "No. on Reserve", "No. Absent", "Total Number of Indians in Reserve", "Total Number of Indians in Bands", "Total Number of Indians in Treaties", "Whereabouts of Absentees"]}
+{"page": 483, "row_type": "note", "section": null, "label": null, "values": [null, null, null, null, null, null, null, null, "occasionally those unable to do so return to the Agency."], "confidence": "medium"}
+{"page": 483, "row_type": "row", "section": null, "label": "120", "values": ["Weemisticooseawasis", "Stoney Lake", "Cree", null, null, null, null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": null, "label": "121", "values": ["Oneepowahayo", "Frog Lake", "Cree", null, null, null, null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": null, "label": "122", "values": ["Puskeahkewinin", "Frog Lake", "Cree", null, null, null, null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": null, "label": "123", "values": ["Keeheewin", "Moose Lake", "Cree", null, null, null, null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "total", "section": null, "label": "...", "values": [null, null, null, "385", "738", "1,123", null, null, null], "confidence": "medium"}
+{"page": 483, "row_type": "note", "section": "Victoria Agency.", "label": "...", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "Victoria Agency.", "label": "125", "values": ["Little Hunter", "Saddle Lake", "Cree", "78", null, "78", null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "Victoria Agency.", "label": "126", "values": ["Muskegwatic", "Victoria", "Cree", "48", null, "48", null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "Victoria Agency.", "label": "127", "values": ["Blue Quill", "Victoria", "Cree", "47", null, "47", null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "Victoria Agency.", "label": "128", "values": ["Seenum", "Whitefish Lake", "Cree", "279", null, "279", null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "Victoria Agency.", "label": "129", "values": ["Peeaysees", "Lac la Biche", "Cree", "16", null, "16", null, null, "This Band has almost entirely withdrawn from Treaty"], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "Victoria Agency.", "label": "130", "values": ["Antoine", "Heart's Lake", "Chippeweyan", "82", null, "82", null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "row", "section": "Victoria Agency.", "label": "131", "values": ["Kaquanum", "Beaver Lake", "Cree", "130", null, "130", null, null, null], "confidence": "high"}
+{"page": 483, "row_type": "total", "section": "Victoria Agency.", "label": "...", "values": [null, null, null, "680", null, "680", null, null, null], "confidence": "medium"}
+{"page": 484, "row_type": "note", "section": "Edmonton Agency.", "label": "...", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Edmonton Agency.", "label": "132", "values": ["Michel", "Sturgeon River", "Stony", "88", null, "88", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Edmonton Agency.", "label": "133", "values": ["Alexis", "Stoney Lake", "Stony", "211", null, "211", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Edmonton Agency.", "label": "134", "values": ["Alexander", "Lac la Nonne", "Stony", "220", null, "220", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Edmonton Agency.", "label": "135", "values": ["Enoch le Potac", "Stony Plains", "Cree", "140", null, "140", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Edmonton Agency.", "label": "136", "values": ["Paspaschase", "Edmonton", "Cree", "194", null, "194", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Edmonton Agency.", "label": "...", "values": ["Iron Head", "White Lake", "Stony", null, null, null, null, null, "Branch of Alexis' band."], "confidence": "medium"}
+{"page": 484, "row_type": "total", "section": "Edmonton Agency.", "label": "...", "values": [null, null, null, "853", null, "853", null, null, null], "confidence": "medium"}
+{"page": 484, "row_type": "note", "section": "Peace Hills Agency.", "label": "...", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Peace Hills Agency.", "label": "137", "values": ["Ermine Skin", "Bear's Hills", "Cree", "172", null, "172", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Peace Hills Agency.", "label": "138", "values": ["Sampson", "Bear's Hills", "Cree", "275", null, "275", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Peace Hills Agency.", "label": "139", "values": ["Bobtail", "Bear's Hills", "Cree", "101", null, "101", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Peace Hills Agency.", "label": "140", "values": ["Muddy Bull", "Pigeon Lake", "Cree", "95", null, "95", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Peace Hills Agency.", "label": "141", "values": ["Cheepoostequahn", "Wolf Creek", "Stony", "200", null, "200", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "total", "section": "Peace Hills Agency.", "label": "...", "values": [null, null, null, "843", null, "843", null, null, null], "confidence": "medium"}
+{"page": 484, "row_type": "total", "section": null, "label": "Total in Treaty No. 6", "values": [null, null, null, null, null, null, "6,329", null, null], "confidence": "medium"}
+{"page": 484, "row_type": "note", "section": "TREATY NO. 7", "label": "...", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "note", "section": "Sarcee Agency.", "label": "...", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Sarcee Agency.", "label": "142", "values": ["Bear's Paw", "Morleyville", "Stony", "263", null, "263", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Sarcee Agency.", "label": "142", "values": ["Chinniquy", "Morleyville", "Stony", "136", null, "136", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Sarcee Agency.", "label": "143", "values": ["Jacob", "Morleyville", "Stoney", "234", null, "234", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Sarcee Agency.", "label": "145", "values": ["Bull's Head", "Calgary", "Sarcee", "339", "2", "341", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "total", "section": "Sarcee Agency.", "label": "...", "values": [null, null, null, "972", "2", "974", null, null, null], "confidence": "medium"}
+{"page": 484, "row_type": "note", "section": "Blackfoot Crossing Agency.", "label": "...", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Blackfoot Crossing Agency.", "label": "146", "values": ["Crowfoot", "North and South of Bow River", "Blackfeet", "2,147", null, "2,147", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Blackfoot Crossing Agency.", "label": "146", "values": ["Old Sun", null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 484, "row_type": "note", "section": "Blood Agency.", "label": "...", "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Blood Agency.", "label": "147", "values": ["Eagle Tail", "Old Man's River", "Piegans", "929", "3", "932", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "row", "section": "Blood Agency.", "label": "148", "values": ["Red Crow", "Belly River", "Bloods", "2,235", "6", "2,241", null, null, null], "confidence": "high"}
+{"page": 484, "row_type": "total", "section": "Blood Agency.", "label": "...", "values": [null, null, null, "3,164", "9", "3,173", null, null, null], "confidence": "medium"}
+{"page": 485, "row_type": "total", "section": null, "label": "Total in Treaty No. 7", "values": [null, null, null, null, null, null, "6,294", null, null], "confidence": "medium"}
+{"page": 485, "row_type": "note", "section": null, "label": null, "values": [null, null, null, null, null, null, null, null, "NOTE. - The large reductions in this Agency is accounted for by the fact that many Indians have been absent since the rebellion; some are hunting at Buffalo Lake, and some attached temporarily to other Bands, and others are across the line."], "confidence": "high"}
+{"page": 486, "row_type": "note", "section": "STRAGGLERS.", "label": null, "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "STRAGGLERS.", "label": "Birtle District", "values": [null, null, null, null, null, "150", null, null, "From the Portage."], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "STRAGGLERS.", "label": "Battleford District", "values": [null, null, null, null, null, "13", null, null, "From Wemisticooseawasis Band."], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "STRAGGLERS.", "label": "Edmonton District", "values": [null, null, null, null, null, "13", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "STRAGGLERS.", "label": "Foremost Man", "values": [null, null, null, null, null, "200", null, null, "In vicinity of Medicine Hat and Maple Creek."], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "STRAGGLERS.", "label": "Beaver Hills Indians.", "values": ["Lake", null, "Salteaux", null, null, "7", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "STRAGGLERS.", "label": "Orphans of St. Albert", "values": [null, null, null, null, null, "14", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "total", "section": "STRAGGLERS.", "label": "Total Stragglers", "values": [null, null, null, null, null, null, "397", null, null], "confidence": "medium"}
+{"page": 486, "row_type": "note", "section": "STRAGGLERS.", "label": null, "values": [null, null, null, null, null, null, null, null, "A number of stragglers have joined their different Bands, and many have withdrawn from Treaty."], "confidence": "high"}
+{"page": 486, "row_type": "note", "section": "NON-TREATY INDIANS.", "label": null, "values": [null, null, null, null, null, null, null, null, null], "confidence": "high"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "...", "values": ["Salteaux", null, "Salteaux", "58", null, "58", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "...", "values": ["Yellow Sky", null, "Salteaux", "90", null, "90", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "...", "values": [null, "Bird Tail Creek", "Sioux", "138", null, "138", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "...", "values": [null, "Oak River", "Sioux", "268", null, "268", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "...", "values": [null, "Oak Lake", "Sioux", "73", null, "73", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "...", "values": [null, "Turtle Mountain", "Sioux", "32", null, "32", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "Standing Buffalo", "values": [null, "Qu'Appelle Lakes", "Sioux", "150", null, "150", null, null, "A number of these Sioux went north to join White Cap."], "confidence": "medium"}
+{"page": 486, "row_type": "row", "section": "NON-TREATY INDIANS.", "label": "...", "values": ["White Cap", "Moose Woods", "Sioux", "250", null, "250", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "total", "section": "NON-TREATY INDIANS.", "label": "...", "values": [null, null, null, "1,059", null, "1,019", null, null, null], "confidence": "medium"}
+{"page": 486, "row_type": "total", "section": "NON-TREATY INDIANS.", "label": "Total, Non-Treaty Indians", "values": [null, null, null, null, null, null, "1,059", null, null], "confidence": "medium"}
+{"page": 487, "row_type": "total", "section": null, "label": "Grand Total of Indians in the North-West Territories", "values": [null, null, null, null, null, null, "18,722", null, null], "confidence": "medium"}

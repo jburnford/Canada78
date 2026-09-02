@@ -1,0 +1,50 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0505-tabular-statement-no-1	TABULAR STATEMENT No. 1	505	509
+01	p0505-tabular-statement-no-1	TABULAR STATEMENT No. 1	510	512
+02	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	512	516
+03	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	517	521
+04	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	522	526
+05	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	527	531
+06	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	532	536
+07	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	537	541
+08	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	542	546
+09	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	547	551
+10	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	552	556
+11	p0512-tabular-statement-no-2	TABULAR STATEMENT No. 2	557	559
+12	p0559-tabular-statement-no-3	TABULAR STATEMENT No. 3	559	563
+13	p0559-tabular-statement-no-3	TABULAR STATEMENT No. 3	564	568
+14	p0559-tabular-statement-no-3	TABULAR STATEMENT No. 3	569	573
+15	p0559-tabular-statement-no-3	TABULAR STATEMENT No. 3	574	577
+16	p0577-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	577	579
+17	p0579-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	579	581
+18	p0581-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	581	583
+19	p0583-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	583	584
+20	p0584-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	584	585
+21	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	585	589
+22	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	590	594
+23	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	595	599
+24	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	600	604
+25	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	605	609
+26	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	610	614
+27	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	615	619
+28	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	620	624
+29	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	625	629
+30	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	630	634
+31	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	635	639
+32	p0585-tabular-statement-no-3-north-w	TABULAR STATEMENT No. 3 — North-West Territories	640	644
+33	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	645	649
+34	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	650	654
+35	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	655	659
+36	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	660	664
+37	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	665	669
+38	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	670	674
+39	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	675	679
+40	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	680	684
+41	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	685	689
+42	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	690	694
+43	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	695	699
+44	p0645-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	700	704
+45	p0705-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	705	709
+46	p0705-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	710	714
+47	p0705-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	715	719
+48	p0705-tabular-statement-no-3-cont	TABULAR STATEMENT No. 3 (cont.)	720	724

@@ -1,0 +1,27 @@
+{"row_type": "headers", "title": null, "columns": ["Capital ($ cts.)", "Interest ($ cts.)", "CR Description", "Capital ($ cts.)", "Interest ($ cts.)"]}
+{"page": 1035, "row_type": "row", "section": "HOPE INDIANS, BRITISH COLUMBIA", "label": "To Cost of farming implements", "values": [null, "283 00", "By Balance on 30th June, 1888", "31162 00", null], "confidence": "high"}
+{"page": 1035, "row_type": "row", "section": "HOPE INDIANS, BRITISH COLUMBIA", "label": "Balance on 30th June, 1889", "values": ["3,162 00", null, "Interest on invested capital", null, "126 52"], "confidence": "high"}
+{"page": 1035, "row_type": "row", "section": "HOPE INDIANS, BRITISH COLUMBIA", "label": null, "values": [null, null, "Balance on 30th June, 1889", null, "156 48"], "confidence": "high"}
+{"page": 1035, "row_type": "total", "section": "HOPE INDIANS, BRITISH COLUMBIA", "label": null, "values": ["3,162 00", "283 00", null, "3,162 00", "283 00"], "confidence": "high"}
+{"page": 1035, "row_type": "row", "section": "HOPE INDIANS, BRITISH COLUMBIA", "label": "To Balance on 30th June, 1889", "values": [null, "156 48", "By Balance on 30th June, 1889", "3,162 00", null], "confidence": "high"}
+{"page": 1036, "row_type": "row", "section": "PAGOMOKESHICK'S BAND (MANITOBA)", "label": "To Balance in connection with the surrender of mineral lands", "values": [null, "31 41", "By Balance on 30th June, 1888", "47 00", null], "confidence": "high"}
+{"page": 1036, "row_type": "row", "section": "PAGOMOKESHICK'S BAND (MANITOBA)", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["69 56", "2 78", "Land sales", "695 60", null], "confidence": "high"}
+{"page": 1036, "row_type": "row", "section": "PAGOMOKESHICK'S BAND (MANITOBA)", "label": "Balance on 30th June, 1889", "values": ["673 04", "7 73", "Fees", null, "40 00"], "confidence": "high"}
+{"page": 1036, "row_type": "row", "section": "PAGOMOKESHICK'S BAND (MANITOBA)", "label": null, "values": [null, null, "Interest on invested capital", null, "1 92"], "confidence": "high"}
+{"page": 1036, "row_type": "total", "section": "PAGOMOKESHICK'S BAND (MANITOBA)", "label": null, "values": ["742 60", "41 92", null, "742 60", "41 92"], "confidence": "high"}
+{"page": 1036, "row_type": "row", "section": "PAGOMOKESHICK'S BAND (MANITOBA)", "label": null, "values": [null, null, "By Balance on 30th June, 1889", "673 04", "7 73"], "confidence": "high"}
+{"page": 1037, "row_type": "note", "section": "ONTARIO RELIEF ACCOUNTS", "label": "To following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 1037, "row_type": "row", "section": "ONTARIO RELIEF ACCOUNTS", "label": "Munsees of the Thames", "values": [null, "15 00", "By Balance on 30th June, 1889", null, "112 75"], "confidence": "high"}
+{"page": 1037, "row_type": "row", "section": "ONTARIO RELIEF ACCOUNTS", "label": "Oneidas of the Thames", "values": [null, "55 00", null, null, null], "confidence": "high"}
+{"page": 1037, "row_type": "row", "section": "ONTARIO RELIEF ACCOUNTS", "label": "Temiscamingue Indians", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 1037, "row_type": "row", "section": "ONTARIO RELIEF ACCOUNTS", "label": "Pic River Indians", "values": [null, "22 75", null, null, null], "confidence": "high"}
+{"page": 1037, "row_type": "row", "section": "ONTARIO RELIEF ACCOUNTS", "label": "Golden Lake Indians", "values": [null, "10 00", null, null, null], "confidence": "high"}
+{"page": 1037, "row_type": "total", "section": "ONTARIO RELIEF ACCOUNTS", "label": null, "values": [null, "112 75", null, null, "112 75"], "confidence": "high"}
+{"page": 1037, "row_type": "row", "section": "ONTARIO RELIEF ACCOUNTS", "label": "To Balance on 30th June, 1889", "values": [null, "112 75", null, null, null], "confidence": "high"}
+{"page": 1038, "row_type": "row", "section": "ONTARIO AND QUEBEC BLANKET ACCOUNT", "label": "To cost of blankets for aged and destitute Indians", "values": [null, "1,621 60", "By Legislative grant for purchase of blankets", null, "1,600 00"], "confidence": "high"}
+{"page": 1038, "row_type": "row", "section": "ONTARIO AND QUEBEC BLANKET ACCOUNT", "label": null, "values": [null, null, "Balance on 30th,June, 1889", null, "21 60"], "confidence": "high"}
+{"page": 1038, "row_type": "total", "section": "ONTARIO AND QUEBEC BLANKET ACCOUNT", "label": null, "values": [null, "1,621 60", null, null, "1,621 60"], "confidence": "high"}
+{"page": 1038, "row_type": "row", "section": "ONTARIO AND QUEBEC BLANKET ACCOUNT", "label": "Balance on 30th June, 1889", "values": [null, "21 60", null, null, null], "confidence": "high"}
+{"page": 1039, "row_type": "row", "section": "OKA INDIANS REMOVAL ACCOUNT", "label": "To expenses removal of Andrew Martin to the township of Gibson", "values": [null, "60 57", "By Legislative grant", null, "5,000 00"], "confidence": "high"}
+{"page": 1039, "row_type": "row", "section": "OKA INDIANS REMOVAL ACCOUNT", "label": "Unexpended balance of appropriation written off", "values": [null, "4,939 43", null, null, null], "confidence": "high"}
+{"page": 1039, "row_type": "total", "section": "OKA INDIANS REMOVAL ACCOUNT", "label": null, "values": [null, "5,000 00", null, null, "5,000 00"], "confidence": "high"}

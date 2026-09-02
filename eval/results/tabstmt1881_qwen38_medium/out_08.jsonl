@@ -1,0 +1,12 @@
+{"row_type": "headers", "title": "TABULAR STATEMENT No. 3 SHEWING the Condition of the various Indian Schools in the Dominion (from which Returns have been received) for the Year ended 30th June, 1881.", "columns": ["Number of Pupils on Roll.", "Average Daily Attendance.", "Number Reading and Spelling.", "Number Writing.", "Number Learning Arithmetic.", "Number Learning Grammar.", "Number Learning Geography.", "Number Learning History.", "Number Learning Music and Singing.", "Number Learning Drawing.", "Remarks."]}
+{"page": 432, "row_type": "row", "section": null, "label": null, "values": [null, null, null, null, null, null, null, null, null, null, null], "confidence": "medium"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Alderville", "values": ["63", "14", "54", "17", "54", "14", "21", null, null, null, "Catechism."], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Bear Creek", "values": ["31", "12", "31", "12", "17", "1", "2", null, null, null, null], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Cape Crocker", "values": ["35", "18", "35", "15", "33", null, "33", null, null, null, null], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Carradoc", "values": ["27", "15", "24", "15", "15", "3", "3", null, null, null, null], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Christian Island", "values": ["32", "11", "32", "12", "11", "1", "4", null, null, null, "Catechism,"], "confidence": "medium"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Fort William, girls", "values": ["30", "25", "27", "13", "22", "3", "4", "4", null, null, "French and Indian."], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Fort William, boys", "values": ["23", "11", "23", "14", "14", "14", "14", "8", "11", null, null], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "French Bay", "values": ["29", "12", "26", "17", "26", "10", "17", null, null, null, null], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Garden River, Protestant", "values": ["21", "12", "21", "5", "17", "1", "20", null, null, null, null], "confidence": "high"}
+{"page": 432, "row_type": "row", "section": "ONTARIO", "label": "Garden River, Roman", "values": ["37", "20", "37", "21", null, null, null, null, null, null, null], "confidence": "low"}

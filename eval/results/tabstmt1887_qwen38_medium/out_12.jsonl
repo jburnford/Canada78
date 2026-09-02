@@ -1,0 +1,37 @@
+{"row_type": "headers", "title": "TABULAR STATEMENT No. 3. CENSUS RETURN of Resident and Nomadic Indians; Denominations to which they belong, with approximate Number belonging to each Denomination, in the Dominion of Canada, by Provinces.", "columns": ["Census Return.", "Protestant.", "Roman Catholic.", "Pagan.", "Denomination of Schools."]}
+{"page": 615, "row_type": "row", "section": null, "label": "Soda Creek", "values": ["64", null, "64", null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": null, "label": "Stone", "values": ["143", null, "143", null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": null, "label": "Toosey's Tribe", "values": ["96", null, "96", null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": null, "label": "William's Lake", "values": ["145", null, "145", null, null], "confidence": "high"}
+{"page": 615, "row_type": "total", "section": null, "label": "Total", "values": ["2,033", null, null, null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": null, "label": "KOOTENAY AGENCY.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": "KOOTENAY AGENCY.", "label": "Columbia Lake", "values": ["65", null, "568", null, null], "confidence": "medium"}
+{"page": 615, "row_type": "row", "section": "KOOTENAY AGENCY.", "label": "Kinbaskets (Shuswap Tribe)", "values": ["70", null, null, null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": "KOOTENAY AGENCY.", "label": "Lower Kootenay", "values": ["160", null, null, null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": "KOOTENAY AGENCY.", "label": "St. Mary.", "values": ["235", null, null, null, null], "confidence": "high"}
+{"page": 615, "row_type": "row", "section": "KOOTENAY AGENCY.", "label": "Tobacco Plains", "values": ["38", null, null, null, null], "confidence": "high"}
+{"page": 615, "row_type": "total", "section": "KOOTENAY AGENCY.", "label": "Total", "values": ["568", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "note", "section": null, "label": "No agents have as yet been appointed for the following bands, namely: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "Bellacoola", "values": ["2,500", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "Hiletsuck", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "Hydah", "values": ["2,500", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "Siccanee", "values": ["500", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "Tahelie", "values": ["1,000", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "Tsimpsheean", "values": ["5,000", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "Bands not visited", "values": ["5,522", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "total", "section": null, "label": "Total", "values": ["20,022", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": null, "label": "RECAPITULATION.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Ontario", "values": ["17,479", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Quebec", "values": ["11,867", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Nova Scotia", "values": ["2,179", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "New Brunswick", "values": ["1,566", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Prince Edward Island", "values": ["321", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Manitoba and North West Territories", "values": ["23,811", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Peace River District", "values": ["2,038", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Athabaska District", "values": ["8,000", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Mckenzie District", "values": ["7,000", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Eastern Rupert's Land", "values": ["4,016", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Labrador (Canadian Interior)", "values": ["1,000", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "Arctic Coast", "values": ["4,000", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "row", "section": "RECAPITULATION.", "label": "British Columbia", "values": ["38,222", null, null, null, null], "confidence": "high"}
+{"page": 616, "row_type": "total", "section": "RECAPITULATION.", "label": "Total", "values": ["121,499", null, null, null, null], "confidence": "high"}

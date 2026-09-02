@@ -1,0 +1,294 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+AGRICULTURAL
+
+AND
+
+INDUSTRIAL STATISTICS
+
+<!-- page 715 -->
+AGRICULTURAL AND INDUSTRIAL STATISTICS.
+
+POPULATION.
+ Province,  Name of        Resident
+                                                     From 6 to 15   From 16 to 20 From 21 to 65 From 65 years
+ Agency or  Superintendent Indian      Under 6 years                                                          Remarks.
+                                                     inclusive.     inclusive.    inclusive.    upwards.
+ Band.      or Agent.      Population.
+...              ...           ...      Male. Female. Male. Female. Male. Female. Male. Female. Male. Female. ...
+
+                 ...           ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+ONTARIO.
+Grand River
+Superintendency ...            ...      ...   ...     ...   ...     ...   ...     ...   ...      ...   ...     ...
+-
+                 E.D. Cameron,
+Six Nations                    3,929    213   286     401   394     195   176     1,084 1,004    85    91      ...
+                 Supt.
+New Credit
+                 Hugh Stewart,
+(Mississaguas)                 246      14    9       38    18      8     7       65    70       9     8       ...
+                 Agent
+Agency
+               Alex.
+Walpole Island
+               McKelvey        805      52    64      85    103     39    43      203   183      16    17      ...
+Agency
+               Agent
+                                                                                                               No
+                                                                                                               details
+                 Adam English
+Sarnia Agency                 468       28    30      30    36      27    23      115   137      10    10      given for
+                 Agent
+                                                                                                               22
+                                                                                                               members.
+                 A. Sinclair
+Caradoc Agency                 1,375    84    91      171   111     62    61      400   338      32    25      ...
+                 Agent
+                A.R.
+Moravian
+                McDonald       354      28    34      46    35      17    19      86    86       2     1       ...
+Agency
+                Agent
+Manitowaning B.W. Ross,
+                               3,643    340   370     427   425     
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+1st July, 1898  3 years.
+Sarnia Band -                      ...         ...                   ...             ...
+William Wawanosh                   Chief       Elected               1st July, 1898  3 years.
+Silas Waubmong                     Councillor. Elected               1st July, 1898  3 years.
+Daniel Otter                       Councillor. Elected               1st July, 1898  3 years.
+Elijah George                      Councillor. Elected               1st July, 1898  3 years.
+George Oliver                      Councillor. Elected               1st July, 1898  3 years.
+Serpent River Band -               ...         ...                   ...             ...
+Robinson Oshowskukezhik            Chief       Elected               1st July, 1898  3 years.
+Scugog Band -                      ...         ...                   ...             ...
+George Goose                       Chief       Elected               1st Jan., 1898  3 years.
+Shawanaga Band -                   ...         ...                   ...             ...
+Hanson Powtegonini                 Chief       Elected               1st July, 1898  3 years.
+Sheguiandah Band -                 ...         ...                   ...             ...
+William Ogemah                     Chief       Elected               1st July, 1898  3 years.
+Sheshegwaning Band -               ...         ...                   ...             ...
+John Nahgahnewenah                 Chief       Elected               1st July, 1898  3 years.
+
+
+
+=== EXTRACT FROM HERE (pages 839-843) ===
+<!-- page 839 -->
+Six Nation Chiefs.
+ Indians.            English Names.        Band.    When Appointed. For what Term
+ 1. Dekarihoken      Elias Lewis           U.M.     1878            During good behaviour. Hereditary
+ 2.                  Abram Lewis           U.M.     1876            During good behaviour. Hereditary
+ 3. Ayonwatha        David Thomas          U.M.     1870            During good behaviour. Hereditary
+ 4. Sadekariwade     Peter Powless         U.M.     1877            During good behaviour. Hereditary
+ 5.                  Daniel Doxtater       U.M.     1877            During good behaviour. Hereditary
+ 6. Shorenhowane     Isaac Davis           U.M.     1877            During good behaviour. Hereditary
+ 7. Deyonhegwen      John W.M. Elliott     U.M.     1893            During good behaviour. Hereditary
+ 8.                  James C. Elliott      U.M.     1893            During good behaviour. Hereditary
+ 9. Orenhrekowah     Isaac Doxtater, jr.   U.M.     1887            During good behaviour. Hereditary
+ 10. Dehenakarine    Joab Martin           U.M.     1887            During good behaviour. Hereditary
+ 11.                 George W. Hill        U.M.     1888            During good behaviour. Hereditary
+12. Asdawenserontha John Fraser            U.M.     1877             During good behaviour. Hereditary
+13.                 ...                    ...      ...              ...
+16. Shoskoharowane William Smith           U.M.     1876             During good behaviour. Hereditary
+17. Otatahete       William Green          Oneida   1886             During good behaviour. Hereditary
+18. Kanongweya      J.S. Johnston          Oneida   1893             During good behaviour. Hereditary
+19. Deyohagwede     Nicodemus Porter       Oneida   1855             During good behaviour. Hereditary
+20.                 Joseph Porter          Oneida   1860             During good behaviour. Hereditary
+21. Odwanaokoha     George P. Hill         Oneida   1886             During good behaviour. Hereditary
+22.                 Wm. C. Hill            Oneida   1888             During good behaviour. Hereditary
+23. Adyadonentha    Abram Hill Jacket      Oneida   1888             During good behaviour. Hereditary
+24.                 August Hill Jacket     Oneida   1888             During good behaviour. Hereditary
+25. Owatshadeha     Arch Jamieson          Oneida   1880             During good behaviour. Hereditary
+26. Dathodahon      Nicholas Gibson        Onondaga 1870             During good behaviour. Hereditary
+27. Ohnesahe        Peter John Key         Onondaga 1878             During good behaviour. Hereditary
+28. Dehadkadons     Elijah Harris          Onondaga 1896             During good behaviour. Hereditary
+29.                 John Jamieson          Onondaga 1896             During good behaviour. Hereditary
+30. Skanadajiwak    David John             Onondaga 1887             During good behaviour. Hereditary
+31. Hononweyade     David Sky              Onondaga 1885             During good behaviour. Hereditary
+32. Hahehonk        William Echo           Onondaga 1875             During good behaviour. Hereditary
+33. Kowenensedon Peter Key, jr.            Onondaga 1878             During good behaviour. Hereditary
+34. Sodegwaseh      Levi Jonathan          Onondaga 1875             During good behaviour. Hereditary
+35. Hoyonyane       Joseph Porter, jr.     Onondaga 1887             During good behaviour. Hereditary
+36. Skanawade       Gibson Crawford        Onondaga 1896             During good behaviour. Hereditary
+37.                 Alexander Hill         Onondaga 1865             During good behaviour. Hereditary
+38.                 Isaac Hill             Onondaga 1865             During good behaviour. Hereditary
+39.                 Philip Hill            Onondaga 1880             During good behaviour. Hereditary
+
+<!-- page 840 -->
+40. Dekaehyon      Abram Charles      Cayuga 1863      During good behaviour. Hereditary
+41.                James Sky          Cayuga 1883      During good behaviour. Hereditary
+42. Jinondawehon   Robert David       Cayuga 1897      During good behaviour. Hereditary
+43.                Franklin David     Cayuga 1897      During good behaviour. Hereditary
+44. Kadagwaseh     David General      Cayuga 1893      During good behaviour. Hereditary
+45. Soyonehs       Austin Bill        Cayuga 1897      During good behaviour. Hereditary
+46.                Samuel Kick        Cayuga 1897      During good behaviour. Hereditary
+47. Dyoyongo       Joseph Jacobs      Cayuga 1886      During good behaviour. Hereditary
+48.                William Hill       Cayuga 1886      During good behaviour. Hereditary
+49. Deyodowakon    Joseph Henry       Cayuga 1876      During good behaviour. Hereditary
+50.                Philip Miller      Cayuga 1888      During good behaviour. Hereditary
+51. Dyonwadon      William Henry      Cayuga 1883      During good behaviour. Hereditary
+52. Hadondaheha    John Henry         Cayuga 1886      During good behaviour. Hereditary
+53. Deskahe        Benjamin Carpenter Cayuga 1848      During good behaviour. Hereditary
+54. Hadwenonne     William Wage       Cayuga 1865      During good behaviour. Hereditary
+55. Skanyadiyoh    John Gibson        Seneca    1872   During good behaviour. Hereditary
+60.                George Key         Seneca    1887   During good behaviour. Hereditary
+61. Sadekowyes     Michael Smoke      Seneca    1884   During good behaviour. Hereditary
+62. Dyonehokawe    George Gibson      Seneca    1887   During good behaviour. Hereditary
+63. Kanokedawe     Johnson Sandy      Seneca    1890   During good behaviour. Hereditary
+64. Sagwarethra    Solomon Nash       Tuscarora 1873   During good behaviour. Hereditary
+65. Karidawake     Joseph Green       Tuscarora 1886   During good behaviour. Hereditary
+66. Nayokawaha     William Williams Tuscarora 1886     During good behaviour. Hereditary
+67. Sakokaryes     Josiah Hill        Tuscarora 1873   During good behaviour. Hereditary
+68. Rarewetyetha   Richard Hill       Tuscarora 1873   During good behaviour. Hereditary
+69.                Nelles Monture     Delaware 1887    During good behaviour. Hereditary
+
+<!-- page 841 -->
+                                         From
+                             Appointed
+Name.             Rank.                  what     Term.
+                             or Elected.
+                                         Date.
+South Bay Band - ...         ...         ...      ...
+                                        1st July,
+David Shawande    Chief      Elected              3 years.
+                                        1898
+Spanish River
+                  ...        ...        ...       ...
+Div. No. 1 -
+Kaibaiossai                             1st July,
+                  Chief      Elected              3 years.
+Shemahgun                               1898
+Spanish River
+                  ...        ...        ...       ...
+Div. No. 2 -
+                                        1st July,
+John Sessinan     Chief      Elected              3 years.
+                                        1898
+Spanish River                                     Indians live on unceded part of Manitoulin Island, under chiefs
+                  ...        ...        ...
+Div. No. 3 -                                      at Wikwemikong. See Manitoulin Island unceded.
+Stony Point
+                  ...        ...        ...       ...
+Reserve -
+                                        1st July,
+James Johnson     Councillor Elected              3 years.
+                                        1898
+Sucker Creek
+                  ...        ...        ...       ...
+Band -
+Charles                                 1st July,
+                  Chief      Elected              3 years.
+Obotossaway                             1898
+Temogamingue
+                  ...       ...         ...       ...
+Band -
+                                        1st July,
+Toninie           Life Chief Elected              3 years.
+                                        1898
+                                        1st July,
+Chenjuice         2nd Chief Elected               3 years.
+                                        1898
+Thessalon River
+                  ...       ...         ...       ...
+Band -
+Joseph                                  1st July,
+                  Chief     Elected               3 years.
+Bomekezhik                              1898
+Peter                                   1st July,
+                  Councillor Elected              3 years.
+Jaquahkummick                           1898
+West Bay Band -   ...       ...         ...       ...
+                                        1st July,
+John Abence       Chief     Elected               3 years.
+                                        1898
+                                        1st July,
+Raphael Wabange Councillor Elected                3 years.
+                                        1898
+Francis                                 1st July,
+                  Councillor Elected              3 years.
+Bapahmosh                               1898
+White Fish Lake
+                  ...       ...         ...       ...
+Band -
+
+<!-- page 842 -->
+J.B.                                    1st July,
+                Chief        Elected              3 years.
+Shawbwahnahquet                         1898
+White Fish River
+                   ...       ...        ...       ...
+Band -
+James                                   1st July,
+                   Chief     Elected              3 years.
+Nahwegahbow                             1898
+Wikwemikong
+                   ...       ...        ...       ...
+Band -
+William                                 1st July,
+                   Chief     Elected              3 years.
+Kinoshameg, sr.                         1897
+Joseph                                  1st July,
+                   Chief     Elected              3 years.
+Osawanimiki                             1897
+                                        1st July,
+Joseph Pelkey      Councillor Elected             3 years.
+                                        1897
+                                        1st July,
+Vincent Wakegijig Councillor Elected              3 years.
+                                        1897
+                                        1st July,
+Isaac Shawana      Councillor Elected             3 years.
+                                        1897
+William                                 1st July,
+                   Councillor Elected             3 years.
+Kinoshameg, jr                          1897
+Wikwemikongsing
+                ...          ...        ...       ...
+Band -
+                                        1st July,
+John Kaboni        Chief     Elected              3 years.
+                                        1898
+
+<!-- page 843 -->
+QUEBEC.
+Name.                          Rank.       Appointed or Elected. From what Date. Term.
+Abenakis of Becancour-         ...         ...                   ...             ...
+Joseph Louis Metzalabanlette   Grand Chief Appointed             13th Oct., 1856 Life.
+Abenakis of St. Francis -      ...         ...                   ...             ...
+Henry L. Masta                 Chief       Elected               Jan., 1897      3 years.
+Pierre Emmett                  Chief       Elected               Jan., 1897      3 years.
+Joseph Portneuf                Chief       Elected               Jan., 1897      3 years.
+Amalecite Band of Viger -      ...         ...                   ...             ...
+Edouard Denis                  Chief       Elected               1st July, 1895  3 years
+Thomas Nicolas                 Councillor Elected                1st July, 1895  3 years.
+Caughnawaga Band -*            ...         ...                   ...             ...
+Jeune Lorette -                ...         ...                   ...             ...
+Maurice Bastien               2nd Chief    Elected              1st July 1897    3 years
+François Groslouis            2nd Chief    Elected              About 1867       Life.
+Gaspard Picard                2nd Chief    Elected              About 1862       Life
+Maurice Sioui(t)              2nd Chief    Elected              18th May, 1896   No term.
+Micmac Band of Maria -        ...          ...                  ...              ...
+James Gideon                  Chief        Elected              1st Jan., 1898   3 years.
+Micmacs of Restigouche -      ...          ...                  ...              ...
+Polycarpe Martin              Chief        Not known            1879             No term.
+Montagnais of Lake St. John - ...          ...                  ...              ...
+Patrick Cleary                Chief        Elected              1st July, 1898   3 years.
+Bazilish                      Councillor   Elected              1st July, 1898   3 years.
+David Malec                   Councillor   Elected              1st July, 1898   3 years.
+Prosper Cleary                Councillor   Elected              1st July, 1898   3 years.
+David Phillippe               Councillor   Elected              1st July, 1898   3 years.
+Alfred Phillippe              Councillor   Elected              1st July, 1898   3 years.
+Oka Band -                    ...          ...                  ...              ...
+Joseph Gabriel                Chief        Elected              1st July, 1897   3 years
+Timothy Arirhon               Chief        Elected              1st July, 1897   3 years
+Abraham Z. Decaire            Chief        Elected              1st July, 1897   3 years
+River Desert Band -           ...          ...                  ...              ...
+Louis Comonda                 Chief        Elected              1st July, 1896   3 years
+Simon Otjik                   Councillor   Elected              1st July, 1896   3 years
+John McDougal                 Councillor   Elected              1st July, 1896   3 years
+St. Regis Band -(tt)          ...          ...                  ...              ...
+Temiscamingue Band -          ...          ...                  ...              ...
+Tanis Stanger                 Chief        Elected              1st July, 1896   3 years
+

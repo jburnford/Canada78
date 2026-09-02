@@ -1,0 +1,68 @@
+{"row_type": "headers", "title": "IROQUOIS OF ST. RÉGIS in Account Current with the Department of Indian Affairs.", "columns": ["DR Capital ($ cts.)", "DR Interest ($ cts.)", "CR Description", "CR Capital ($ cts.)", "CR Interest ($ cts.)"]}
+{"page": 523, "row_type": "row", "section": null, "label": "To 12 months' interest on invested capital", "values": [null, "101 24", "By Balance, 30th June, 1881", "2,000 00", "25 31"], "confidence": "high"}
+{"page": 523, "row_type": "row", "section": null, "label": "Balance, 30th June, 1882", "values": ["2,000 00", "25 31", "Interest on invested capital", null, "101 24"], "confidence": "high"}
+{"page": 523, "row_type": "total", "section": null, "label": "...", "values": ["2,000 00", "126 55", null, "2,000 00", "126 55"], "confidence": "high"}
+{"page": 523, "row_type": "row", "section": null, "label": "...", "values": [null, null, "Balance, 30th June, 1882", "2,000 00", "25 31"], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "...", "values": [null, null, "By Balance, 30th June, 1881", "49,965 72", "743 48"], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "...", "values": [null, null, "Legislative grant for the puchase of seed grain and for relief", null, "4,200 00"], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "...", "values": [null, null, "Transfer from School Fund of amount paid as salary to the R.C. Missionaries of Lower St. Lawrence", null, "250 00"], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Salaries", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Rev. O. Drapeau, Agent", "values": [null, "50 00", "Interest on invested capital", null, "2,622 28"], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "J.V.A. Vennor, Physician", "values": [null, "125 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "P.A. Shee, Physician", "values": [null, "84 72", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "L.F. Boucher, Agent", "values": [null, "600 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Rev. J. Gagne, Agent", "values": [null, "50 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "L.E. Otis, Agent", "values": [null, "300 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "H. Vassal, Agent", "values": [null, "200 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Grant for Seed Grain and Relief.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Amalicites of Rimouski", "values": [null, "100 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Amalicites of Point Lévis", "values": [null, "100 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Amalicites of Cacouna", "values": [null, "100 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Abenakis of Becancour", "values": [null, "400 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Abenakis of St. Francis", "values": [null, "350 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Montagnais of the Upper Ottawa, & c.", "values": [null, "456 80", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Montagnais of Betsiamits", "values": [null, "500 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Micmacs of Gaspé", "values": [null, "200 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Micmacs of Restigouche", "values": [null, "351 20", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Micmacs of Maria", "values": [null, "200 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Iroquois of Caughnawaga", "values": [null, "200 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Lake of Two Mountain Indians", "values": [null, "200 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Moisie, Mingan and Seven Island Indians", "values": [null, "500 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Indians of Weymouchaching and Rat River", "values": [null, "311 72", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Godbout Indians", "values": [null, "150 00", null, null, null], "confidence": "high"}
+{"page": 524, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Golden Lake Indians", "values": [null, "100 00", null, null, null], "confidence": "high"}
+{"page": 525, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Hurons of Lorette", "values": [null, "75 00", null, null, null], "confidence": "high"}
+{"page": 525, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Carried forward", "values": [null, null, "Carried forward", null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Brought forward", "values": [null, null, "Brought forward", null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Grants for Seed Grain and Relief.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "River Desert Indians", "values": [null, "250 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Hunter's Lodge Indians", "values": [null, "248 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Okas of Township of Gibson", "values": [null, "100 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Widow of the late Chief L. Vincent", "values": [null, "50 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Temiscamingue Indians", "values": [null, "160 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Two Huron families of St. Sebastian D'Aylmer", "values": [null, "20 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Grand Lac Indians", "values": [null, "181 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Bonaventure River Indians", "values": [null, "24 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Miscellaneous Expenditure.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Cost of supplies for Hospital at Point Bleue", "values": [null, "256 33", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Medical attendance at Hospital at Point Bleue", "values": [null, "114 46", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Nurse at Hospital at Point Bleue", "values": [null, "44 80", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Paid Dr. Wakeham for four months' services during Dr. Shee's absence", "values": [null, "26 64", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Cost of fishing tackle for Indians of Grand Romaine", "values": [null, "44 46", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "A. Fraser & Co., for building a house for Chief Bartholomew", "values": [null, "69 80", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Cost of vaccinating Indians", "values": [null, "170 38", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Paid L. Paradis 68 days' services as Constable during Mr. Boucher's payments", "values": [null, "68 00", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Cost of supplies and freighting for Okas at Gibson", "values": [null, "539 38", null, null, null], "confidence": "high"}
+{"page": 526, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Balance due contractors on school building at Lorette", "values": [null, "48 65", null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Paid L.E. Beauchamp, M.D., for services to Indians of Chicoutimi", "values": [null, "20 75", null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Cost of boats for Seven Island Indians", "values": [null, "71 80", null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Balance of amount due for the removal of bodies from cemetery at Chicoutimi", "values": [null, "2 93", null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Fishing materials for Indians of Seven Islands", "values": [null, "130 54", null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "L.F. Boucher's expenses in connection with disbursements of supplies for 1881-82", "values": [null, "628 06", null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "L.F. Boucher's allowance for rent, light and fuel", "values": [null, "116 68", null, null, null], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Sundry small payments", "values": [null, "36 60", null, null, "1,311 92"], "confidence": "high"}
+{"page": 527, "row_type": "row", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "Balance, 30th June, 1882", "values": ["49,965 72", null, "By Balance, 30th June, 1882", "49,965 72", "9,127 68"], "confidence": "high"}
+{"page": 527, "row_type": "total", "section": "PROVINCE OF QUEBEC INDIAN FUND", "label": "...", "values": ["49,965 72", "9,127 68", null, null, null], "confidence": "high"}

@@ -1,0 +1,495 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+
+
+CENSUS RETURN OF RESIDENT AND NOMADIC INDIANS IN THE DOMINION OF CANADA, BY
+PROVINCES.
+PROVINCE OF ONTARIO.
+
+Algonquins of Carleton                                                   26
+Algonquins of Golden Lake                                                83
+Algonquins of Renfrew                                                    673
+Chippewas and Mansees of the Thames                                      572
+Chippewas, Ottawas and Pottawattamies of Walpole Island.                 821
+Chippewas, Ottawas and Pottawattamies of Sarnia, Kettle Point and Sauble 511
+Chippewas of Snake Island                                                132
+Chippewas of Rama                                                        240
+Chippewas of Saugeen                                                     352
+Chippewas of Nawash                                                      390
+Chippewas of Beausoleil                                                  326
+Iroquois and Algonquins of Gibson (Muskoka District)                     111
+Moravians of the Thames                                                  283
+Missisaguas of Mud Lake                                                  154
+Missisaguas of Rice Lake                                                 90
+Missisaguas of Scugog                                                    45
+Missisaguas of Alnwick                                                   229
+Missisaguas of New Credit                                               239
+Mohawks of the Bay of Quinté                                            1,010
+Oneidas of the Thames                                                   770
+Ojibbewas and Ottawas of Manitoulin and Cockburn Islands, at -          ...
+Cockburn Island                                                         40
+Sheshegwaning                                                           152
+West Bay                                                                251
+Sucker Creek                                                            104
+Sheguiandah                                                             129
+Sucker Lake                                                             37
+South Bay                                                               64
+Wikwemikong                                                             820
+Wikwemikongsing                                                         151
+Obidgewong                                                              19
+Ojibbewas of Lake Supe
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+    Dixon
+      Enoch
+21             ...     1/4   ...     1/2     1/4     1/2     1/4   ...   5     ...   30    3    7     ...   ...
+      Bear Paw
+      Peter
+22               ...   ...   ...     1/2     1/4     1/2     1/4   ...   ...   ...   36    4    7     ...   ...
+      Hunter
+      John
+26               ...   ...   ...     1/2     1/4     ...     ...   ...   ...   ...   33    3    ...   ...   ...
+      Baptiste
+      David
+27               ...   ...   ...     1/4     1/4     1/4     1/2   ...   ...   ...   15    3    3     ...   ...
+      Ear
+      Stephen
+25               ...   ...   ...     1/4     1/4     1/4     ...   ...   ...   ...   16    4    4     ...   ...
+      Rider
+      Parcel
+28               ...   ...   1/4     1/4     1/4     ...     1/4   ...   ...   15    15    3    ...   ...   ...
+      Rider
+32    Simon      ...   ...   ...     1/2     1/4     1/2     1/2   ...   ...   ...   33    4    8     ...   ...
+      Abraham
+36            ...      ...   1/4     1/2     1/4     1/4     ...   ...   ...   5     35    3    3     ...   ...
+      Dixon
+      Wm.
+38             ...     ...   ...     1 1/4   1/4     ...     1/4   ...   ...   ...   76    4    ...   ...   ...
+      Mountain
+      Stephen
+43               ...   ...   ...     1/2     1/4     ...     ...   ...   ...   ...   33    3    ...   ...   ...
+      Joseph
+      Carried
+...              ...   2 3/4 3 3/4   10      4 1/2   4 1/2   3 3/4 ...   55    81    597   62   67    ...   ...
+      forward
+
+
+
+=== EXTRACT FROM HERE (pages 564-571) ===
+<!-- page 564 -->
+No. of
+        Name of
+Pay               ACRES SOWN.                                            BUSHELS HARVESTED.                                        Remarks.
+        Indian.
+Ticket.
+                                                                                                        Turnips
+...    ...        Wheat. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Wheat. Oats. Barley. Potatoes. &        Gardens. Peas.    ...
+                                                                                                        Carrots.
+       Brought
+...               ...    2 1/2 3 3/4   10       4 1/2    4 1/2     3 3/4 ...    55    81      597       65      67        Frozen. ...
+       forward
+                                                                                                                                   Beets
+                                                                                                                                   and
+                                                                                                                                   carrots
+       Amos
+44                ...    ...   ...     1/4      1/4      ...       ...   ...    ...   ...     16        4       ...       ...      are
+       Jonas
+                                                                                                                                   included
+                                                                                                                                   in garden
+                                                                                                                                   produce.
+       Thomas
+       Two-
+45                ...    ...   ...     1/2      1/4      1/4       ...   ...    ...   ...     33        3       4         ...      ...
+       Young-
+       Men
+       John
+57                ...    ...   ...     1/4      ...      1/2       1/4   ...    ...   ...     20        ...     8         ...      ...
+       Bigman
+       A.
+63                ...    ...   ...     ...      ...      ...       ...   ...    ...   ...     ...       ...     8         ...      ...
+       Crawler
+       Wm.
+75                ...    ...   ...     1/4      ...      ...       ...   ...    ...   ...     16        ...     ...       ...      ...
+       Dixon
+79     Joseph     ...    1/4   1/4     1/4      ...      1/4       ...   ...    5     6       15        ...     3         ...      ...
+       Jane
+83                ...    ...   ...     1/4      ...      1/2       ...   ...    ...   ...     15        ...     7         ...      ...
+       Miater
+86     John       ...    ...   ...     1/4      ...      1/2       ...   ...    ...   ...     16        ...     8         ...      ...
+       Hector
+B6                ...    ...   ...     1 1/2    1/4      1/4       1/4   ...    ...   ...     78        4       4         ...      ...
+       Nimrod
+       Ben Red
+9                 ...    ...   1/2     1 1/2    1/4      1/4       1/4   ...    ...   12      90        3       4         ...      ...
+       Fox
+       George
+10                ...    ...   1/2     1/2      1/4      1/2       ...   ...    ...   12      36        4       8         ...      ...
+       Ear
+       Job
+13                ...    1     ...     1/2      1/4      1/4       1/4   ...    20    ...     33        3       4         ...      ...
+       Beaver
+       Stephen
+18                ...    ...   1       1 1/2    ...      1/4       1 1/2 ...    ...   23      100       ...     4         ...      ...
+       Jacob
+       John
+B 17           ...       ...   1/2     1/2      1/2      1/2       ...   ...    ...   12      33        7       8         ...      ...
+       Abraham
+       Thomas
+19     Plain      ...    1/2   ...     1 1/4    ...      1/2       1/4   ...    10    ...     78        ...     8         ...      ...
+       Stoney
+       Luke Big
+23              ...      ...   ...     1/4      1/2      1/2       ...   ...    ...   ...     16        7       8         ...      ...
+       One
+       William
+
+<!-- page 565 -->
+24   Big        ...   ...   1/4   1 1/4   ...   1/2    1/4   ...   ...   11    75    ...   8   ...   ...
+     Stoney
+     Mary
+29              ...   ...   ...   1/4     1/2   1/4    1/4   ...   ...   ...   26    8     4   ...   ...
+     Beaver
+     William
+43              ...   ...   ...   1/2     1/4   1/4    1/4   ...   ...   ...   33    4     4   ...   ...
+     Hand
+     Emma
+39              ...   ...   ...   1/2     1/4   1/4    ...   ...   ...   ...   63    4     3   ...   ...
+     House
+     John
+34              ...   1/2   ...   1/2     1/4   1/4    ...   ...   10    ...   33    3     4   ...   ...
+     Tallman
+     Thomas
+52              ...   ...   ...   1/2     1/2   1/4    ...   ...   ...   ...   33    8     4   ...   ...
+     Hand
+     William
+54              ...   ...   1/4   1/2     1/4   1/2    ...   ...   ...   5     36    4     8   ...   ...
+     Soldier
+     John Big
+53            ...     ...   ...   1 1/4   ...   1/4    1/4   ...   ...   ...   80    ...   4   ...   ...
+     Stoney
+     Isaac
+62              ...   ...   ...   3/4     1/4   13/4   ...   ...   ...   ...   48    3     6   ...   ...
+     Beaver
+     John
+63              ...   ...   ...   1 1/4   1/4   1/2    ...   ...   ...   ...   80    3     8   ...   ...
+     Westley
+     Peter
+64              ...   ...   ...   3/4     1/4   1/2    1/4   ...   ...   ...   50    3     8   ...   ...
+     Westley
+     Peter
+55              ...   ...   ...   1/2     1/4   3/4    1/4   ...   ...   ...   33    4     6   ...   ...
+     Soldier
+     I.
+C1             ...    1 1/2 ...   1 1/2   1/2   1/2    1/2   ...   30    ...   100   3     4   ...   ...
+     Chiniquay
+
+<!-- page 566 -->
+No. of
+        Name of
+Pay               ACRES SOWN.                                            BUSHELS HARVESTED.                                      Remarks.
+        Indian.
+Ticket.
+                                                                                                        Turnips
+...    ...        Wheat. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Wheat. Oats. Barley. Potatoes. &        Gardens. Peas. ...
+                                                                                                        Carrots.
+       George
+       Two-
+2                 ...    ...   3/4     1 1/2     1/4      1/2      1/4   ...     ...   16      9         3       8         ...   ...
+       Young-
+       Men
+       George
+5                 ...    ...   1/4     1/2       3/4      1/4      ...   ...     ...   5       33        10      4         ...   ...
+       Hunter
+       Jonas
+       Two-
+6                 ...    ...   1/4     1/2       1/2      1/4      ...   ...     ...   5       63        7       4         ...   ...
+       Young-
+       Men
+       Isaac
+12               ...     ...   1/2     1 1/4     1/4      1        1/4   ...     ...   12      80        4       8         ...   ...
+       Chiniquay
+       Maria Big
+22               ...     ...   ...     1/2       1/2      1        ...   ...     ...   ...     30        3       7         ...   ...
+       Stoney
+       Mark
+17             ...       ...   1/4     1 1/2     1/4      1 1/2    1/2   ...     ...   5       90        3       12        ...   ...
+       Wildman
+       James
+35                ...    1/2   ...     1 1/4     1/2      1/2      1/4   ...     10    ...     82        17      8         ...   ...
+       Swampy
+       Paul
+                                                                                                                                 W.C. DE
+       Two-
+45                ...    ...   1       1 1/2     1/2      1/2      1/4   ...     ...   25      150       9       4         ...   BALINHARD,
+       Young-
+                                                                                                                                 Indian Agent.
+       Men
+...    Total      ...    7     10      38        14       21       10    ...     140   230     2,500     200     279       ...   ...
+
+<!-- page 567 -->
+RETURN showing Crops sown and harvested by Individual Indians on Blackfoot Crossing Agency, Season of 1886.
+
+SOUTH BLACKFOOT RESERVE No. 146a.
+No. of
+        Name of
+Pay             ACRES SOWN.                                                                      BUSHELS HARVESTED.                                                          Remarks.
+        Indian.
+Ticket.
+                                                                                       Beets and                                                                  Beets and
+...    ...          Onions. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Carrots.             Onions. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Carrots.           ...
+                                                                                       Mangolds.                                                                  Mangolds.
+                                                                                                                                                                             Carrots
+                                                                                                                                                                             grown in
+                                                                                                                                                                             gardens,
+A1     Crowfoot     ...     2     ...     1 1/4    1 1/2    1 1/4     1     ...        ...       ...      57    ...     107      15       1        25    2 1/2    ...        remainder
+                                                                                                                                                                             of
+                                                                                                                                                                             garden,
+                                                                                                                                                                             onions.
+A 31   Not Good     ...     1     ...     1        ...      ...       1/4   ...        ...       ...      26    ...     85       ...      ...      5     ...      ...        ...
+       Medicine
+A 29                ...     1     ...     1         ...     ...       1/4   ...        ...       ...      26    ...     82       ...      ...      5     ...      ...        ...
+       Shoe
+A 47   Iron Shield ...      1     ...     1         ...     ...       3/4   ...        ...       ...      26    ...     82       ...      ...      15    ...      ...        ...
+       Went-to-
+A 66                ...     1     ...     1         ...     ...       ...   ...        ...       ...      26    ...     85       ...      ...      ...   ...      ...        ...
+       tell
+B1     Three Bulls ...      2     2       1 1/4     1       1/4       1     ...        ...       ...      57    24      107      10       1        20    2 1/2    ...        ...
+       White-
+B3                ...       1     1       1         1/4     ...       3/4   ...        ...       ...      26    12      85       2 1/2    ...      15    ...      ...        ...
+       man's-food
+       Prairie
+B6                  ...     1     ...     1         ...     ...       1/4   ...        ...       ...      26    ...     82       ...      ...      5     ...      ...        ...
+       Head
+B2     Hind Bull    ...     1     1       1         ...     ...       1/4   ...        ...       ...      26    12      82       ...      ...      5     ...      ...        ...
+       Black
+B 13                ...     1     ...     1         ...     ...       ...   ...        ...       ...      26    ...     84       ...      ...      ...   ...      ...        ...
+       Eagle
+B4     The Otter    ...     1     ...     1         1/4     ...       1/4   ...        ...       ...      26    ...     85       2 1/2    2        5     ...      ...        ...
+       Weazle
+C1                  ...     1     1       1 1/4     3/4     1/2       1/4   1/2        ...       ...      ...   16      12       115      15       1/2   18       1          ...
+       Calf
+       Running
+C2                  ...     1/4   ...     1         ...     ...       1/4   ...        ...       ...      5     ...     90       ...      ...      5     ...      ...        ...
+       Wolf
+C4     Red Body ...         3/4   ...     1         ...     ...       1/2   ...        ...       ...      12    ...     90       ...      ...      12    ...      ...        ...
+C 35   Peacemaker ...       1/2   ...     1         ...     ...       1/4   ...        ...       ...      8     ...     90       ...      ...      5     ...      ...        ...
+C 46   Crane Bear ...       1/2   ...     3/4       ...     ...       1/4   ...        ...       ...      8     ...     65       ...      ...      5     ...      ...        ...
+       Medicine
+H1                ...       1     1       1 1/4     1/2     1/4       1/2   ...        ...       ...      16    12      115      10       3/4      12    1        ...        ...
+       Shield
+H4     Poor Eagle ...       1/2   ...     1/2      ...      ...       1/4   ...        ...       ...      10    ...     45       ...      ...      6     ...      ...        ...
+       Scraping
+H6                  ...     1/2   ...     1/2      ...      ...       1/4   ...        ...       ...      10    ...     45       ...      ...      6     ...      ...        ...
+       High
+       Black
+H 21                ...     1/2   ...     3/4       ...     ...       ...   ...        ...       ...      9     ...     65       ...      ...      ...   ...      ...        ...
+       Fever
+       Running
+D1                  ...     1 1/2 ...     1 1/2     1/2     1/2       1/2   ...        ...       ...      21    ...     85       11       1/2      9     1 1/4    ...        ...
+
+<!-- page 568 -->
+       Rabbit
+       Spotted
+D2                  ...   1/2   ...     1       ...   ...   ...   ...   ...   ...   6     ...   57    ...   ...   ...   ...   ...   ...
+       Calf
+D 43   Calf Bull    ...   1/2   ...     1       ...   ...   1/4   ...   ...   ...   6     ...   57    ...   ...   4     ...   ...   ...
+       Old-
+D 33   woman-at-    ...   1/2   ...     1       ...   ...   1/4   ...   ...   ...   6     ...   57    ...   ...   4     ...   ...   ...
+       war
+D 25   Bear Hat     ...   1/4   ...     1       ...   ...   ...   ...   ...   ...   5     ...   57    ...   ...   ...   ...   ...   ...
+D 10   Wolf Shoe    ...   1/2   ...     1       ...   ...   ...   ...   ...   ...   6     ...   57    ...   ...   ...   ...   ...   ...
+       White Cow
+D 49             ...      ...   ...     1       ...   ...   1/4   ...   ...   ...   ...   ...   57    ...   ...   4     ...   ...   ...
+       Sitting
+       White Calf
+F1                ...     1     1 1/2   1 1/4   1/4   1/4   1/4   ...   ...   ...   13    10    72    4     1/2   4     3/4   ...   ...
+       Robe
+F 21   White Wolf ...     1/2   ...     1       ...   ...   1/4   ...   ...   ...   6     ...   59    ...   ...   4     ...   ...   ...
+       Bull-going-
+F 38               ...    1/2   ...     3/4     ...   ...   1/4   ...   ...   ...   5     ...   42    ...   ...   4     ...   ...   ...
+       down
+G1     Eagle Rib    ...   1     ...     1 1/2   3/4   1/2   3/4   ...   ...   ...   13    ...   134   18    1/2   9     2     ...   ...
+       Bad Old
+G2                  ...   1/2   ...     1       ...   ...   1/2   ...   ...   ...   7     ...   90    ...   1/2   8     ...   ...   ...
+       Man
+
+<!-- page 569 -->
+No. of
+        Name of
+Pay             ACRES SOWN.                                                                    BUSHELS HARVESTED.                                                          Remarks.
+        Indian.
+Ticket.
+                                                                                     Beets and                                                                  Beets and
+...    ...        Onions. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Carrots.             Onions. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Carrots.           ...
+                                                                                     Mangolds.                                                                  Mangolds.
+       Bad-
+G 33   dried-     ...     1/2   ...     1/4      ...      ...       1/4   ...        ...       ...      6     ...     112      ...      1/2      3     ...      ...        ...
+       meat
+       Bear's
+G 46              ...     1     ...     1/4      ...      ...       1/4   ...        ...       ...      13    ...     114      ...      ...      3     ...      ...        ...
+       Shield
+       Rabbit
+J1                ...     1/2   ...     1/2       1/4     1/2       1/4   ...        ...       ...      7     ...     45       7        1/2      3     1        ...        ...
+       Carrier
+       Calling
+J9                ...     1/2   ...     1/2       ...     ...       1/4   ...        ...       ...      6     ...     45       ...      ...      3     ...      ...        ...
+       Close
+       White
+P1                ...     1     ...     1 1/4     1/4     1 1/2     1/4   ...        ...       ...      14    ...     84       5        1/2      4 1/2 1        ...        ...
+       Eagle
+       Bull
+P9                ...     ...   ...     1         ...     ...       1/4   ...        ...       ...      ...   ...     65       ...      ...      2 1/4 ...      ...        ...
+       Horn
+       Running-
+Q5     away-    ...       1     ...     1 1/4     1/2     1/2       1/2   ...        ...       ...      14    ...     84       10       1/2      4 1/2 1        ...        ...
+       buffalo
+       Three
+Q 11              ...     1/2   ...     1         ...     ...       1/4   ...        ...       ...      7     ...     65       ...      ...      2 1/4 ...      ...        ...
+       Eagles
+       Bad Boy,
+Q 36            ...       1/2   ...     1         ...     ...       ...   ...        ...       ...      7     ...     65       ...      ...      ...   ...      ...        ...
+       No. 1
+       The
+Q 38   Breaker, ...       ...   ...     1         ...     ...       1/4   ...        ...       ...      ...   ...     65       ...      ...      2 1/4 ...      ...        ...
+       No. 1
+       Heavy
+Q 14              ...     ...   ...     1         ...     ...       ...   ...        ...       ...      ...   ...     65       ...      ...      ...   ...      ...        ...
+       Runner
+       Bad Boy,
+Y1              ...       1     ...     1 1/4     1/2     1/2       1/2   ...        ...       ...      14    ...     84       10       1/2      4 1/2 1        ...        ...
+       No. 2
+       Tail-
+Y4     with-the- ...      ...   ...     1         ...     ...       ...   ...        ...       ...      ...   ...     65       ...      ...      ...   ...      ...        ...
+       hair-off
+                                                                                                                                                                           MAGNUS
+       Wolf
+Y5                ...     1/2   ...     1         ...     ...       ...   ...        ...       ...      7     ...     65       ...      ...      ...   ...      ...        BEGG,
+       Child
+                                                                                                                                                                           Agent.
+       Sitting
+S1                ...     1     ...     1 1/4     3/4     1/2       1/2   ...        ...       ...      14    ...     79       15       1/2      4 1/2 1        ...        ...
+       Eagle
+       Wolf
+S4                ...     ...   ...     1         ...     ...       1/4   ...        ...       ...      ...   ...     62       ...      ...      2 1/4 ...      ...        ...
+       Carrier
+                                                                                                                                                                           E.H.
+       Blue
+S 63              ...     1/2   ...     1         ...     ...       ...   ...        ...       ...      7     ...     62       ...      ...      ...   ...      ...        WHEATLEY,
+       Beads
+                                                                                                                                                                           Foreman.
+                          35
+...    Total      ...           7 1/2   51       8        7         15    ...        ...       ...      679   82      3,820    135      8 1/4    258   16       ...        ...
+                          1/4
+
+<!-- page 570 -->
+NORTH BLACKFOOT CROSSING, No. 146b.
+E1  Old Sun 1/4  ... ...   1        1/2          ...   2     1/4   1/4   3       ...   ...   25    8     ...   25    1     7     ...
+       Old
+E4               ...   ...   ...   2     1       ...   ...   3/4   1/2   ...     ...   ...   50    17    ...   ...   2     14    ...
+       Brass
+       The
+E 25             ...   ...   ...   1     ...     ...   ...   ...   1/4   ...     ...   ...   25    ...   ...   ...   ...   7     ...
+       Eagle
+E 20   The Fox ...     ...   ...   1     ...     1     ...   ...   1/4   ...     ...   ...   25    ...   ...   ...   ...   7     ...
+E 26   The Key ...     ...   ...   1     ...     ...   ...   ...   ...   ...     ...   ...   25    ...   ...   ...   ...   ...   ...
+       Big
+O1               1/4   5     ...   2     3 1/2   ...   3     1     1/2   1 1/4   115   ...   120   38    ...   17    5     5     ...
+       Plume
+O9     Old Cree 1/4    ...   ...   3/4   ...     ...   ...   ...   ...   1 1/4   ...   ...   60    ...   ...   ...   ...   ...   ...
+       Dog-
+O 79   stripped- ...   ...   ...   1/4   ...     ...   ...   ...   ...   ...     ...   ...   20    ...   ...   ...   ...   ...   ...
+       back
+       Fat
+O 63             ...   ...   ...   1/2   ...     ...   ...   ...   ...   ...     ...   ...   40    ...   ...   ...   ...   ...   ...
+       Horses
+       Heavy
+O5               ...   ...   ...   1/2   ...     ...   ...   ...   ...   ...     ...   ...   40    ...   ...   ...   ...   ...   ...
+       Chief
+       Skunked
+O 11           ...     ...   ...   1/4   ...     ...   ...   ...   ...   ...     ...   ...   20    ...   ...   ...   ...   ...   ...
+       Tallow
+       Heavy
+O 24             ...   ...   ...   3/4   ...     ...   ...   ...   ...   ...     ...   ...   60    ...   ...   ...   ...   ...   ...
+       Bull
+       Many
+O3               1/4   ...   ...   3/4   ...     ...   ...   ...   ...   1 1/4   ...   ...   60    ...   ...   ...   ...   ...   ...
+       Heads
+       Weazel
+O 12             ...   ...   ...   1/4   ...     ...   ...   ...   ...   ...     ...   ...   20    ...   ...   ...   ...   ...   ...
+       Horn
+O 69   The Calf ...    ...   ...   1/4   ...     ...   ...   ...   ...   ...     ...   ...   20    ...   ...   ...   ...   ...   ...
+       Did-not-
+L 20            ...    ...   ...   1/4   ...     ...   ...   ...   ...   ...     ...   ...   18    ...   ...   ...   ...   ...   ...
+       sit
+       Peddish
+L 22             ...   ...   ...   1/2   ...     ...   ...   ...   1/4   ...     ...   ...   36    ...   ...   ...   ...   2     ...
+       Gun
+       Wolf
+L 23             ...   ...   ...   3/4   ...     ...   ...   ...   ...   ...     ...   ...   54    ...   ...   ...   ...   ...   ...
+       Carrier
+       Black
+L 26             ...   ...   ...   1/4   ...     ...   ...   ...   ...   ...     ...   ...   18    ...   ...   ...   ...   ...   ...
+       Boy
+       Nose
+L 34             1/4   ...   ...   1/4   ...     ...   ...   ...   ...   1 1/2   ...   ...   18    ...   ...   ...   ...   ...   ...
+       Cutter
+
+<!-- page 571 -->
+No. of
+        Name of
+Pay                ACRES SOWN.                                                                  BUSHELS HARVESTED.                                                          Remarks.
+        Indian.
+Ticket.
+                                                                                      Beets and                                                                  Beets and
+...    ...         Onions. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Carrots.             Onions. Oats. Barley. Potatoes. Turnips. Gardens. Peas. Carrots.           ...
+                                                                                      Mangolds.                                                                  Mangolds.
+       Tried-to-
+L 39   fly-but-  ...       ...   ...     1/4      ...      ...       ...   ...        ...       ...      ...   ...     18       ...      ...      ...   ...      ...        ...
+       could-not
+       Many-
+R 22               ...     ...   ...     1/4      ...      ...       ...   ...        1/4       ...      ...   ...     18       ...      ...      ...   ...      2          ...
+       shot-at
+       Weazel
+R1                 ...     ...   ...     1/4      ...      ...       ...   ...        ...       ...      ...   ...     18       ...      ...      ...   ...      ...        ...
+       Child
+R2     White Elk ...       ...   ...     1/2       ...     ...       ...   ...        ...       ...      ...   ...     36       ...      ...      ...   ...      ...        ...
+R 24   Iron Bull ...       ...   ...     1/4       ...     ...       ...   ...        1/4       ...      ...   ...     18       ...      ...      ...   ...      2          ...
+       Snowshoe-
+R 28             ...       ...   ...     1/2       ...     ...       ...   ...        ...       ...      ...   ...     36       ...      ...      ...   ...      ...        ...
+       walker
+       Good
+R 38   Young       1/4     1     ...     1         1/4     4 1/2     1     1/2        1/2       1        34    ...     72       2 1/2    ...      20    3        2          ...
+       Man
+       Lone
+M1                 1/4     ...   ...     1/2       1/4     ...       ...   ...        ...       1 1/4    ...   ...     36       2 1/2    ...      ...   ...      ...        ...
+       Child
+M 44   Chief Sun ...       ...   ...     2 1/2     1/2     3         ...   ...        ...       ...      ...   ...     172      5        ...      ...   ...      ...        ...
+       Red Old
+M 26               ...     ...   ...     3 1/4     ...     ...       ...   ...        ...       ...      ...   ...     54       ...      ...      ...   ...      ...        ...
+       Man
+       Yellow
+O 68               ...     ...   ...     1/2       ...     ...       ...   ...        ...       ...      ...   ...     40       ...      ...      ...   ...      ...        ...
+       Eagle
+O 85   Crow Shoe ...       ...   ...     1/4       ...     ...       ...   ...        ...       ...      ...   ...     20       ...      ...      ...   ...      ...        ...
+N1     Bull Elk 1/4        2 1/2 ...     1 1/2     2       ...       1     1          1/2       1 1/4    60    ...     100      22       ...      6     5        5          ...
+N 10   North Axe ...       ...   ...     1/2       ...     ...       ...   ...        ...       ...      ...   ...     40       ...      ...      ...   ...      ...        ...
+       Running
+N 11               ...     ...   ...     1/2       ...     ...       ...   ...        ...       ...      ...   ...     40       ...      ...      ...   ...      ...        ...
+       Sun
+N 17   Old Crow ...        ...   ...     3/4       ...     ...       ...   ...        ...       ...      ...   ...     60       ...      ...      ...   ...      ...        ...
+N 33   Raw Eater ...       ...   ...     3/4       ...     ...       ...   ...        ...       ...      ...   ...     60       ...      ...      ...   ...      ...        ...
+       Running
+N 47             ...       ...   ...     1/4      ...      ...       ...   ...        ...       ...      ...   ...     20       ...      ...      ...   ...      ...        ...
+       Master
+       Bear
+N 49               ...     ...   ...     1/2      ...      ...       ...   ...        ...       ...      ...   ...     40       ...      ...      ...   ...      ...        ...
+       Direction
+       Yellow-
+       robe-on-
+N 15               ...     ...   ...     1 1/4    ...      ...       ...   ...        ...       ...      ...   ...     20       ...      ...      ...   ...      ...        ...
+       the-
+       outside
+L1     White Pup 1/2       5     ...     3         3       ...       4     1 1/2      1/4       3        150   ...     216      30       ...      80    9        2          ...
+L4     Big Road ...        ...   ...     1/4       ...     ...       ...   ...        ...       ...      ...   ...     18       ...      ...      ...   ...      ...        ...
+       Spotted
+L5                 ...     ...   ...     3/4       ...     ...       ...   ...        ...       ...      ...   ...     54       ...      ...      ...   ...      ...        ...
+       Eagle
+

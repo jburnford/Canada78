@@ -1,0 +1,46 @@
+{"row_type": "headers", "title": "Account with the Department of Indian Affairs", "columns": ["DR Capital ($ cts.)", "DR Interest ($ cts.)", "CR Description", "CR Capital ($ cts.)", "CR Interest ($ cts.)"]}
+{"page": 960, "row_type": "note", "section": "TOOTOOMENAI AND BAND", "label": "To the following payments:", "values": [null, null, "By Balance on 30th June, 1888", "900 00", "10 67"], "confidence": "high"}
+{"page": 960, "row_type": "row", "section": "TOOTOOMENAI AND BAND", "label": "-", "values": [null, null, "Interest on invested capital", null, "54 48"], "confidence": "medium"}
+{"page": 960, "row_type": "note", "section": "TOOTOOMENAI AND BAND", "label": "Salaries.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 960, "row_type": "row", "section": "TOOTOOMENAI AND BAND", "label": "J.A. Reid, physician", "values": [null, "10 91", null, null, null], "confidence": "high"}
+{"page": 960, "row_type": "note", "section": "TOOTOOMENAI AND BAND", "label": "Sundry Disbursements.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 960, "row_type": "row", "section": "TOOTOOMENAI AND BAND", "label": "Cost of medicines", "values": [null, "8 10", null, null, null], "confidence": "high"}
+{"page": 960, "row_type": "row", "section": "TOOTOOMENAI AND BAND", "label": "Distribution of interest moneys", "values": [null, "34 61", null, null, null], "confidence": "high"}
+{"page": 960, "row_type": "row", "section": "TOOTOOMENAI AND BAND", "label": "Balance on 30th June, 1889", "values": ["900 00", "11 53", null, null, null], "confidence": "high"}
+{"page": 960, "row_type": "total", "section": "TOOTOOMENAI AND BAND", "label": null, "values": ["900 00", "65 15", null, "900 00", "65 15"], "confidence": "high"}
+{"page": 960, "row_type": "row", "section": "TOOTOOMENAI AND BAND", "label": null, "values": [null, null, "By Balance on 30th June, 1889", "900 00", "11 53"], "confidence": "high"}
+{"page": 961, "row_type": "note", "section": "WHITEFISH RIVER INDIANS", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 961, "row_type": "row", "section": "WHITEFISH RIVER INDIANS", "label": "Relief", "values": [null, "4 00", "By Balance on 30th June, 1888", "3,955 85", "46 65"], "confidence": "high"}
+{"page": 961, "row_type": "row", "section": "WHITEFISH RIVER INDIANS", "label": "Cost of medicines", "values": [null, "29 75", "Rents and fines", null, "102 00"], "confidence": "high"}
+{"page": 961, "row_type": "row", "section": "WHITEFISH RIVER INDIANS", "label": "Percentage on collections carried to the credit of Management Fund", "values": [null, "3 60", "Refund of amount advanced to purchase oxen and implements", null, "38 00"], "confidence": "high"}
+{"page": 961, "row_type": "row", "section": "WHITEFISH RIVER INDIANS", "label": "Distribution of interest moneys", "values": [null, "288 71", "Interest on invested capital", null, "160 08"], "confidence": "high"}
+{"page": 961, "row_type": "row", "section": "WHITEFISH RIVER INDIANS", "label": "Balance on 30th June, 1889", "values": ["3,955 85", "80 67", null, null, null], "confidence": "high"}
+{"page": 961, "row_type": "total", "section": "WHITEFISH RIVER INDIANS", "label": null, "values": ["3,955 85", "346 73", null, "3,955 85", "346 73"], "confidence": "high"}
+{"page": 961, "row_type": "row", "section": "WHITEFISH RIVER INDIANS", "label": null, "values": [null, null, "By Balance on 30th June, 1889", "3,955 85", "80 67"], "confidence": "high"}
+{"page": 962, "row_type": "note", "section": "WYANDOTTS OF ANDERDON", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 962, "row_type": "row", "section": "WYANDOTTS OF ANDERDON", "label": "F.F. Bell, physician", "values": [null, "80 00", "By Balance on 30th June, 1888", "18,442 36", "348 30"], "confidence": "high"}
+{"page": 962, "row_type": "row", "section": "WYANDOTTS OF ANDERDON", "label": "Share of Capital paid to Mary McKee as an Enfranchised Indian", "values": ["776 54", null, "Land sales", "12,160 03", null], "confidence": "high"}
+{"page": 962, "row_type": "row", "section": "WYANDOTTS OF ANDERDON", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["1,216 00", "2 46", "Rents", null, "41 00"], "confidence": "high"}
+{"page": 962, "row_type": "row", "section": "WYANDOTTS OF ANDERDON", "label": "Distribution of interest moneys", "values": [null, "1,080 55", "Interest on invested capital", null, "1,065 08"], "confidence": "high"}
+{"page": 962, "row_type": "row", "section": "WYANDOTTS OF ANDERDON", "label": "Balance on 30th June, 1889", "values": ["28,609 85", "291 37", null, null, null], "confidence": "high"}
+{"page": 962, "row_type": "total", "section": "WYANDOTTS OF ANDERDON", "label": null, "values": ["30,602 39", "1,454 38", null, "30,602 39", "1,454 38"], "confidence": "medium"}
+{"page": 962, "row_type": "row", "section": "WYANDOTTS OF ANDERDON", "label": null, "values": [null, null, "By Balance on 30th June, 1889", "28,609 85", "291 37"], "confidence": "high"}
+{"page": 963, "row_type": "note", "section": "ABENAKIS OF ST. FRANCIS", "label": "To the following payments: -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Balance on 30th June, 1888", "values": [null, "92 65", "By Balance on 30th June, 1889", "3,624 39", null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Cost of repairs to roads, ditches, & c.", "values": [null, "109 22", "Land sales", "15 00", null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Cost of school material", "values": [null, "60 08", "Rents and fines", null, "357 39"], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Services in connection with liquor prosecutions", "values": [null, "18 23", "Legislative grant to assist in building a schoolhouse", null, "100 00"], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Funeral furnishings", "values": [null, "4 00", "Interest on invested capital", null, "147 40"], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Rents paid the legal representatives of the late Ignace Gill", "values": [null, "17 50", "Balance on 30th June, 1889", null, "13 97"], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Paid grant towards building a school house", "values": [null, "100 00", null, null, null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Paid for copy of plan, & c.", "values": [null, "12 00", null, null, null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Building a bridge", "values": ["50 00", null, null, null, null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Percentage on collections carried to the credit of Management Fund", "values": ["1 50", "21 44", null, null, null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Distribution of interest moneys", "values": [null, "183 64", null, null, null], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "Balance on 30th June, 1889", "values": ["3,587 89", null, null, null, null], "confidence": "high"}
+{"page": 963, "row_type": "total", "section": "ABENAKIS OF ST. FRANCIS", "label": null, "values": ["3,639 39", "618 76", null, "3,639 39", "618 76"], "confidence": "high"}
+{"page": 963, "row_type": "row", "section": "ABENAKIS OF ST. FRANCIS", "label": "To Balance on 30th June, 1889", "values": [null, "13 97", "By Balance on 30th June, 1889", "3,589 89", null], "confidence": "medium"}
+{"page": 964, "row_type": "row", "section": "ABENAKIS OF BECANCOUR", "label": "To Cost of fencing material", "values": ["155 65", null, "By Balance", "1,287 25", "82 56"], "confidence": "medium"}
+{"page": 964, "row_type": "row", "section": "ABENAKIS OF BECANCOUR", "label": "Balance on 30th June, 1889", "values": ["1,131 60", "137 32", "Interest on invested capital", null, "54 76"], "confidence": "high"}
+{"page": 964, "row_type": "total", "section": "ABENAKIS OF BECANCOUR", "label": null, "values": ["1,287 25", "137 32", null, "1,287 25", "137 32"], "confidence": "high"}
+{"page": 964, "row_type": "row", "section": "ABENAKIS OF BECANCOUR", "label": null, "values": [null, null, "By Balance on 30th June, 1889", "1,131 60", "137 32"], "confidence": "high"}

@@ -1,0 +1,254 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+
+TABLE NO. 3 - ROOTS AND FODDER
+
+               Potatoes.        Carrots.        Turnips.         Beets.           Other Roots.     Fodder.
+Agency.        Acres Bushes     Acres Bushels Acres Bushels      Acres Bushels    Acres Bushels    Hay         Hay     Other
+               Sown. Harvested. Sown. Harvested Sown. Harvested. Sown. Harvested. Sown. Harvested. Cultivated. Wild.   Fodder.
+ALBERTA.       ...    ...       ...    ...      ...    ...       ...    ...       ...    Tons      Tons        Tons    ...
+Blackfoot      3 1/2 750        ...    ...      ...    ...       ...    ...       3 1/2 100        3           2,528   461
+Blood          20     7,715     7      350      8      2,525     3      250       ...    ...       250         6,000   300
+Edmonton       49     3,683     2      65       3      110       ...    ...       25     622       378         2,028   135
+Hobbema        20     2,415     ...    ...      9      533       ...    ...       ...    ...       40          2,808   ...
+Lesser Slave
+               27    2,060      1/4   4         1 1/4 31         ...    ...       ...    ...        ...       235      ...
+Lake
+Peigan         15    1,000      1/2   7         1      125       ...    ...       ...    ...        50        900      225
+Saddle Lake    11    1,665      3     125       3      165       ...    ...       ...    ...        ...       2,321    ...
+Sarcee         2     200        1/4   20        1/4    30        ...    ...       ...    ...        15        600      25
+Stony          ...   ...        ...   ...       ...    ...       ...    ...       ...    ...        ...       750      60
+               147
+Total                19,488     13    571       25 1/2 3,519     3      250       28 1/2 722        736       18,170 1,206
+               1/2
+BRITISH
+          ...        ...        ...   ...       ...    ...       ...    ...       ...    ...        ...       ...      ...
+COLUMBIA.
+Babine and
+             450     55,500     ...   ...       72     12,700    ...    ...       ...    ...        472       390      ...
+Upper Skeena
+Bella Coola    13    1,850      1     100       1      100       ...    ...       ...    ...        30        208      ...
+Cowichan       55    2,505      ...   ...       ...    ...       ...    ...       ...    ...        883       ...      ...
+Kamloops       667   90,722     165   11,220    188    12,784    96     6,528     275    18,280     9,590     565      397
+Kootenay       97    11,725     ...   ...   
+
+=== EXTRACT FROM HERE (pages 149-153) ===
+
+TABLE NO. 3 - ROOTS AND FODDER
+
+               Potatoes.        Carrots.        Turnips.         Beets.           Other Roots.     Fodder.
+Agency.        Acres Bushes     Acres Bushels Acres Bushels      Acres Bushels    Acres Bushels    Hay         Hay     Other
+               Sown. Harvested. Sown. Harvested Sown. Harvested. Sown. Harvested. Sown. Harvested. Cultivated. Wild.   Fodder.
+ALBERTA.       ...    ...       ...    ...      ...    ...       ...    ...       ...    Tons      Tons        Tons    ...
+Blackfoot      3 1/2 750        ...    ...      ...    ...       ...    ...       3 1/2 100        3           2,528   461
+Blood          20     7,715     7      350      8      2,525     3      250       ...    ...       250         6,000   300
+Edmonton       49     3,683     2      65       3      110       ...    ...       25     622       378         2,028   135
+Hobbema        20     2,415     ...    ...      9      533       ...    ...       ...    ...       40          2,808   ...
+Lesser Slave
+               27    2,060      1/4   4         1 1/4 31         ...    ...       ...    ...        ...       235      ...
+Lake
+Peigan         15    1,000      1/2   7         1      125       ...    ...       ...    ...        50        900      225
+Saddle Lake    11    1,665      3     125       3      165       ...    ...       ...    ...        ...       2,321    ...
+Sarcee         2     200        1/4   20        1/4    30        ...    ...       ...    ...        15        600      25
+Stony          ...   ...        ...   ...       ...    ...       ...    ...       ...    ...        ...       750      60
+               147
+Total                19,488     13    571       25 1/2 3,519     3      250       28 1/2 722        736       18,170 1,206
+               1/2
+BRITISH
+          ...        ...        ...   ...       ...    ...       ...    ...       ...    ...        ...       ...      ...
+COLUMBIA.
+Babine and
+             450     55,500     ...   ...       72     12,700    ...    ...       ...    ...        472       390      ...
+Upper Skeena
+Bella Coola    13    1,850      1     100       1      100       ...    ...       ...    ...        30        208      ...
+Cowichan       55    2,505      ...   ...       ...    ...       ...    ...       ...    ...        883       ...      ...
+Kamloops       667   90,722     165   11,220    188    12,784    96     6,528     275    18,280     9,590     565      397
+Kootenay       97    11,725     ...   ...       ...    ...       ...    ...       ...    ...        415       880      340
+Kwawkewlth     ...   ...        ...   ...       ...    ...       ...    ...       ...    ...        ...       ...      ...
+Lytton         152   5,980      ...   ...       ...    ...       ...    ...       ...    ...        851       75       ...
+Nass           295   31,200     ...   ...       ...    ...       ...    ...       ...    ...        90        ...      ...
+New
+               209   47,210     31    3,830     49     8,121     ...    ...       ...    ...        867       542      267
+Westminster
+Okanagan       319   15,850     23    700       20     655       16     475       ...    ...        2,320     1,175 620
+Queen
+               6     500        2     110       2      90        ...    ...       2      100        3         3        ...
+Charlotte
+Stikine        1/4   10         ...   ...       ...    ...       ...    ...       ...    ...        ...       12    ...
+Stuart Lake    51    7,745      ...   ...       20     3,125     ...    ...       7      805        163       1,175 19
+West Coast     2     277        1     80        1/4    43        ...    ...       ...    22         11        8     ...
+Williams
+               108   4,760      14    1,090     14     1,320     ...    ...       2      200        341       1,605 ...
+Lake
+               2,424                            366
+Total                275,834    237   17,130           38,938    112    7,003     286    19,407     16,036    6,613 1,643
+               1/4                              1/4
+
+<!-- page 150 -->
+                 Potatoes.        Carrots.        Turnips.         Beets.           Other Roots.     Fodder.
+Agency.          Acres Bushes     Acres Bushels Acres Bushels      Acres Bushels    Acres Bushels    Hay         Hay Other
+                 Sown. Harvested. Sown. Harvested Sown. Harvested. Sown. Harvested. Sown. Harvested. Cultivated. Wild. Fodder.
+MANITOBA.        ...    ...       ...    ...      ...    ...       ...    ...       ...    ...       Tons        Tons Tons
+Birtle           20     1,522     ...    ...      ...    ...       ...    ...       5      145       ...         1,408 1,453
+Clandeboye       40     2,715     ...    ...      ...    ...       ...    ...       ...    ...       ...         545 ...
+Fisher River     110 2,800        6      8        16     26        5      8         13     21        ...         1,670 ...
+Griswold         18     1,947     ...    ...      2      160       ...    ...       ...    ...       ...         948 219
+Manitowapah      62     3,289     ...    ...      5      171       ...    ...       ...    ...       ...         ...   4,260
+Norway House     83     565       5      ...      4      ...       ...    ...       ...    ...       ...         ...   ...
+Pas              76     1,936     4      43       4      89        ...    ...       2      26        ...         820 ...
+Portage - la -
+                 9     417        ...   ...       ...    ...       ...    ...        ...   ...        ...        569   28
+Prairie
+Total      418         15,191     15    51        31     446       5      8          20    192        ...        5,960 5,960
+NEW
+           ...         ...        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+BRUNSWICK.
+Northern
+                 ...   ...        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+Division.
+Madawaska and
+Victoria      4        325        1/2   5         1      40        ...    ...        ...   ...        30         ...   ...
+Counties
+Northeastern
+              ...      ...        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+Division.
+Gloucester,
+Kent,
+Northumberland,
+                56     2,200      1 1/2 23        1 1/2 103        3 1/4 75          1 1/2 34         83         54    ...
+Ristigouche and
+Westmorland
+Counties
+Southwestern
+                ...    ...        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+Division.
+Carleton,
+Charlotte,
+Kings, Queens,
+               6       288        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+Sunbury, St.
+Johns and York
+Counties
+Total          66      2,903      2     28        2 1/2 143        3 1/4 75          1 1/2 34         113        54    ...
+
+<!-- page 151 -->
+             Potatoes.        Carrots.        Turnips.         Beets.           Other Roots.     Fodder.
+Agency.      Acres Bushes     Acres Bushels Acres Bushels      Acres Bushels    Acres Bushels    Hay         Hay Other
+             Sown. Harvested. Sown. Harvested Sown. Harvested. Sown. Harvested. Sown. Harvested. Cultivated. Wild. Fodder.
+NOVA
+             ...   ...        ...   ...       ...    ...       ...    ...        ...   ...        Tons       Tons Tons
+SCOTIA.
+Annapolis
+             1     60         ...   ...       ...    ...       ...    ...        ...   ...        3 1/2      5     ...
+County
+Antigonish
+and
+            4      205        ...   ...       ...    ...       ...    ...        ...   ...        33         ...   ...
+Guysborough
+Counties
+Cape Breton
+            20     200        ...   ...       1      78        ...    ...        ...   ...        85         52    3
+(Eskasoni)
+Cape Breton
+            ...    ...        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+(Sydney)
+Colchester
+             2     100        ...   ...       ...    ...       ...    ...        ...   ...        6          ...   ...
+Country
+Cumberland
+           3       200        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+County
+Digby
+             6     240        ...   ...       ...    ...       ...    ...        ...   ...        6          4     ...
+County
+Halifax
+             14    700        ...   ...       ...    ...       ...    ...        ...   ...        12         10    3
+County
+Hants
+             5     160        ...   ...       ...    ...       ...    ...        ...   ...        50         6     ...
+County
+Inverness
+             24    350        ...   ...       2 1/4 68         ...    ...        ...   ...        152        30    15
+County
+Kings
+             2     150        ...   ...       1      100       ...    ...        1     30         30         6     3
+County
+Lunenburg
+             14    925        1     10        5      475       ...    ...        2     50         76         30    ...
+County
+Pictou
+             12    300        ...   ...       ...    ...       ...    ...        ...   ...        10         ...   ...
+County
+Queens
+             2     150        ...   ...       1/2    150       ...    ...        1     100        12         10    2
+County
+Richmond
+             11    930        ...   ...       1/2    150       ...    1          ...   ...        42         4     12
+County
+Shelburne
+             2     60         1/4   7         1/2    20        1/4    6          1/2   10         5          ...   ...
+County
+Victoria
+             20    300        ...   ...       1/2    50        ...    ...        ...   ...        150        12    10
+County
+Yarmouth
+             ...   ...        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+County
+Total    152       5,035      1 1/4 17        11     971       1/4    7          4 1/2 190        673        169   8
+ONTARIO. ...       ...        ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+
+<!-- page 152 -->
+Alnwick       18    728     1/2   18    4     700   ...   5     1     34    5     ...   ...
+Cape Croker   32    1,248   ...   ...   8     900   ...   ...   4     580   46    13    26
+Caradoc       141   4,064   2     76    3     172   1     226   7     800   973   22    462
+Chapleau      6     220     ...   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Christian
+              12    400     ...   ...   2     300   ...   ...   ...   ...   60    ...   50
+Island
+Fort Frances 22     2,626   ...   ...   ...   ...   ...   ...   ...   ...   75    150   ...
+Fort William 28     1,490   ...   ...   ...   ...   ...   ...   ...   ...   ...   6     ...
+
+<!-- page 153 -->
+              Potatoes.        Carrots.        Turnips.         Beets.           Other Roots.     Fodder.
+Agency.       Acres Bushes     Acres Bushels Acres Bushels      Acres Bushels    Acres Bushels    Hay         Hay Other
+              Sown. Harvested. Sown. Harvested Sown. Harvested. Sown. Harvested. Sown. Harvested. Cultivated. Wild. Fodder.
+ONTARIO -
+          ...        ...       ...   ...       ...    ...       ...    ...        ...   ...        Tons.      Tons. Tons.
+Con.
+Georgina
+              7      452       1/2   3         1      180       1/2    30         ...   ...        20         10    7
+Island
+Golden Lake 5        150       ...   ...       ...    ...       ...    ...        ...   ...        6          10    ...
+Gore Bay     122     9,930     2     60        9      722       2      116        8     480        484        ...   215
+Kenora       67      3,514     ...   ...       ...    ...       ...    ...        21    231        ...        453   ...
+Manitowaning 308     22,177    5     182       22     2,453     ...    ...        26    1,321      1,629      125   315
+Moravian     50      1,354     4     98        3      69        5      227        3     113        260        ...   47
+New Credit   12      718       1     101       1/2    97        1/4    50         2     210        770        ...   600
+Parry Sound 34       3,400     1/4   50        1/2    125       ...    ...        1     300        210        135   13
+Rama         20      1,000     ...   ...       3      165       ...    ...        ...   ...        50         20    40
+Rice Lake    32      3,400     ...   ...       11     7,000     ...    ...        9     4,200      40         28    40
+Sarnia       44      1,478     3     119       2      119       2      104        4     219        311        43    145
+Saugeen      32      1,200     ...   ...       3      150       ...    ...        4     95         100        5     110
+Sault Ste.
+             65      1,682     1 1/2 53        7      415       ...    ...        1 1/2 70         75         92    ...
+Marie
+Savanne        44    1,622     ...   ...       5      171       ...    ...        9     66         ...        63    ...
+Scugog         5     300       ...   ...       ...    ...       ...    ...        ...   ...        6          2     ...
+Six Nations    316   6,039     18    490       25     1,340     3      190        50    3,200      11,400     ...   6,500
+Sturgeon Falls 31    1,500     2     100       6      360       ...    ...        3     120        40         50    ...
+Thessalon      78    4,650     ...   ...       ...    ...       ...    ...        ...   ...        35         47    12
+Tyendinaga     140   8,020     2     150       1      125       2      240        3     160        3,675      260   3,075
+Walpole
+               128   4,729     13    254       11     306       17     883        10    1,983      165        683   57
+Island
+                                                                                  166
+Total         1,799 88,105     54 1/2 1,754    127    15,899    32 1/4 2,071            14,182     20,485     2,217 11,714
+                                                                                  1/2
+PRINCE
+EDWARD        ...    ...       ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+ISLAND.
+Prince
+              10     525       ...   ...       ...    ...       ...    ...        ...   ...        52         35    ...
+Edward Island
+QUEBEC.       ...    ...       ...   ...       ...    ...       ...    ...        ...   ...        ...        ...   ...
+Bécancour     2      105       ...   ...       ...    ...       ...    ...        ...   ...        22         ...   5
+

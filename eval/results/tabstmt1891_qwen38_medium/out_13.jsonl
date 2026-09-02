@@ -1,0 +1,120 @@
+{"row_type": "headers", "title": "TABULAR STATEMENT No. 3. CENSUS RETURN of Resident and Nomadic Indians; Denominations to which they belong, with approximate number belonging to each Denomination, in the Dominion of Canada, by Provinces", "columns": ["Census Returns", "Protestant", "Roman Catholic", "Pagan", "Denomination of Schools"]}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Hants", "values": ["182", null, "182", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Colchester", "values": ["100", null, "100", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Cumberland", "values": ["60", null, "60", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Pictou", "values": ["189", null, "189", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Antigonish and Guysboro", "values": ["169", null, "169", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Richmond", "values": ["240", null, "240", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Inverness", "values": ["137", null, "137", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Victoria", "values": ["140", null, "140", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Cape Breton", "values": ["178", null, "178", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Yarmouth", "values": ["80", null, "80", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Shelburn", "values": ["58", null, "58", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NOVA SCOTIA", "label": "Digby", "values": ["154", null, "154", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 507, "row_type": "total", "section": "PROVINCE OF NOVA SCOTIA", "label": "Total", "values": ["2,076", null, "2,076", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Micmacs of -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Restigoucbe", "values": ["31", null, "31", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Gloucester", "values": ["27", null, "27", null, null], "confidence": "high"}
+{"page": 507, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Northumberland", "values": ["394", null, "394", null, "2 Roman Catholic"], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Micmacs of -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Kent", "values": ["313", null, "313", null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Westmoreland", "values": ["74", null, "74", null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Amalecites of -", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Madawaska", "values": ["38", null, "38", null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Victoria", "values": ["189", null, "189", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Carleton", "values": ["84", null, "84", null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Charlotte", "values": ["29", null, "29", null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "St. John", "values": ["14", null, "14", null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF NEW BRUNSWICK", "label": "York, Sunbury, King's and Quenn's County", "values": ["328", null, "328", null, "Roman Catholic"], "confidence": "high"}
+{"page": 508, "row_type": "total", "section": "PROVINCE OF NEW BRUNSWICK", "label": "Total", "values": ["1,521", null, "1,521", null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF PRINCE EDWARD ISLAND", "label": "Micmacs", "values": ["314", null, "314", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Chippewas and Crees of Treaty No. 1", "values": ["2,427", "1,328", "461", "638", "7 Prot; 4 R.C."], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Chippewas and Crees of Treaty No.", "values": ["692", "357", "183", "152", "4 Prot; 2 R.C. and 2 Gov."], "confidence": "medium"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Chippewas and Saulteaux Treaty No. 3", "values": ["2,892", "610", "237", "2,045", "11 Prot; 2 R.C."], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Chippewas, Saulteaux and Crees of Treaty No. 4", "values": ["4,501", "1,105", "888", "2,508", "8 Prot; 4 R.C."], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Chippewas, Saulteaux and Crees of Treaty No. 5", "values": ["3,081", "2,414", "71", "596", "13 Prot"], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Plain and Wood Crees Treaty No. 6(t)", "values": ["5,400", "1,857", "2,178", "886", "16 Prot 14 Roman Catholic"], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Blackfeet Treaty No. 7", "values": ["5,217", "571", null, "4,646", "11 Prot; 3 R.C."], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Resident Sioux*", "values": ["755", null, null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Stragglers in the vicinity of Maple Creek, Medicine Hat and Swift Current*", "values": ["230", null, null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "total", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Total", "values": ["25,195", "8,242", "4,018", "11,471", null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Peace River District", "values": ["2,038", "*", null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Athabasca District", "values": ["8,000", "*", null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "McKenzie District", "values": ["7,000", "*", null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Eastern Rupert's Land", "values": ["4,016", "*", null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Labrador, Canadian Interior", "values": ["1,000", "*", null, null, null], "confidence": "high"}
+{"page": 508, "row_type": "row", "section": "PROVINCE OF MANITOBA AND THE NORTH-WEST TERRITORIES", "label": "Arctic Coast", "values": ["4,000", "*", null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "WEST COAST AGENCY.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Ahhousaht", "values": ["274", null, "693", "2,171", "2 Roman Catholic"], "confidence": "medium"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Clao-qu-aht", "values": ["256", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Chaic-cles-aht", "values": ["130", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Ehatt-is-aht", "values": ["112", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Einlh-wilh-laht", "values": ["179", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Hosh-que-aht", "values": ["210", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Hochuk-lis-aht", "values": ["41", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Kel-seem-aht", "values": ["88", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Ky-wk-aht", "values": ["470", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Match-itl-aht", "values": ["67", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Mooach-aht", "values": ["214", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Nitten-aht", "values": ["197", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Nooch-alh-laht", "values": ["105", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Oi-aht", "values": ["199", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Opitches-aht", "values": ["66", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Pacheen-aht", "values": ["81", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Too-qu-aht", "values": ["22", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "row", "section": "WEST COAST AGENCY", "label": "Tsesh-aht", "values": ["153", null, null, null, null], "confidence": "high"}
+{"page": 509, "row_type": "total", "section": "WEST COAST AGENCY", "label": "Total", "values": ["2,864", null, "693", "2,171", null], "confidence": "high"}
+{"page": 509, "row_type": "note", "section": "WEST COAST AGENCY", "label": "[(t)Religious belief of 479 Indians not given.] [*Religious belief not given.]", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "FRASER RIVER AGENCY.", "values": [null, null, null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Assylitch", "values": ["26", "26", null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Burrard Inlet, Reserve No. 3", "values": ["26", null, "26", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Capitano Creek", "values": ["74", null, "33", "41", null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Cheam", "values": ["135", null, "135", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Chehales", "values": ["129", "23", "106", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Co-qua-piet", "values": ["30", null, "30", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Coquet-lane", "values": ["39", null, "39", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Cla-hoose", "values": ["97", null, "97", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Douglas", "values": [null, "116", null, "116", null], "confidence": "medium"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Ewa-hoos", "values": ["56", null, "56", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Eni-Alcom", "values": ["76", null, "76", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "False-Creek", "values": ["70", null, "62", "8", null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Haisting's Saw Mills", "values": ["75", "33", null, "42", null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Harrison Mouth", "values": ["57", null, "57", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Hope", "values": ["135", null, "135", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Katsey", "values": ["67", null, "67", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Langley", "values": ["98", null, "98", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Matsqui", "values": ["60", null, "60", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Mission - Burrard inlet", "values": ["240", null, "240", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Misqueam", "values": ["126", "26", "100", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "New Westminster", "values": ["99", null, "99", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Nicoamen", "values": ["35", null, "35", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Ohamille", "values": ["77", "21", "56", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Pemberton Meadows", "values": ["180", null, "180", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Popkum", "values": ["22", "22", null, null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Semiahmoo", "values": ["59", null, "59", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Schurye", "values": ["26", null, "26", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Sechelt", "values": ["237", null, "237", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Skokale", "values": ["44", "29", "15", null, "1 Protestant"], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Skowall", "values": ["61", null, "61", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Skukum Chuck", "values": ["118", null, "118", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Skulteen", "values": ["125", null, "125", null, null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Seymour Creek", "values": ["37", null, "12", "25", null], "confidence": "high"}
+{"page": 510, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Squah", "values": ["90", null, "90", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Squattets", "values": ["73", "27", "46", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Squamish - Howe Sound", "values": ["209", "49", "115", "45", null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Sliammon", "values": ["252", null, "252", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Slumagh", "values": ["79", null, "79", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Squehala", "values": ["25", "11", "14", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Squeam", "values": ["41", null, "41", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Sumas, No. 1", "values": ["26", "8", "18", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Sumas No. 2", "values": ["48", "16", "32", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Sumas No. 3", "values": ["57", "57", null, null, "1 Protestant"], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Syuay", "values": ["60", "20", "40", null, "1 Roman Catholic"], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Texes Lake", "values": ["40", null, "40", null, "1 Protestant"], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "To-ylee", "values": ["56", "40", "16", null, "1 Protestant"], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Tsonassan", "values": ["67", null, "67", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Wadington Harbour", "values": ["84", null, "84", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Whonock", "values": ["72", null, "72", null, "Roman Catholic"], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Yak-y-you", "values": ["77", "32", "45", null, null], "confidence": "high"}
+{"page": 511, "row_type": "row", "section": "FRASER RIVER AGENCY", "label": "Yale", "values": ["130", "30", "100", null, "Church of England"], "confidence": "high"}
+{"page": 511, "row_type": "total", "section": "FRASER RIVER AGENCY", "label": "Total", "values": ["4,338", "470", "3,707", "161", null], "confidence": "high"}

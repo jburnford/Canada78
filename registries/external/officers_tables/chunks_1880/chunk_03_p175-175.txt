@@ -1,0 +1,62 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+NEW BRUNSWICK.
+
+                            Annual    Where
+Names.       Office.                               Remarks.
+                            Salary.   Stationed.
+...          ...            $ cts.    ...          ...
+Chas.        Visiting
+                            400 00    Chatham      North-Eastern Superintendency.
+Sargeant     Superintendent
+             Visiting
+Wm. Fisher                  300 00    Fredericton South-Western Superintendency.
+             Superintendent
+Moses Craig Agent           100 00    Perth        Agent for Counties of Victoria and Madawaska.
+Rev. J.J.
+            Missionary      100 00    Tobique      ...
+O'Leary
+Rev. J.C.
+             Missionary     200 00    Fredericton ...
+McDevitt
+Rev. John                             Renous
+             Missionary     100 00                 ...
+Carter                                Bridge
+Rev. W.
+             Missionary     100 00    Oak Point    ...
+Morrisey
+J.S. Benson, Medical
+                            125 00    Newcastle ...
+M.D.         Officer
+
+
+
+=== EXTRACT FROM HERE (pages 175-175) ===
+NEW BRUNSWICK.
+
+                            Annual    Where
+Names.       Office.                               Remarks.
+                            Salary.   Stationed.
+...          ...            $ cts.    ...          ...
+Chas.        Visiting
+                            400 00    Chatham      North-Eastern Superintendency.
+Sargeant     Superintendent
+             Visiting
+Wm. Fisher                  300 00    Fredericton South-Western Superintendency.
+             Superintendent
+Moses Craig Agent           100 00    Perth        Agent for Counties of Victoria and Madawaska.
+Rev. J.J.
+            Missionary      100 00    Tobique      ...
+O'Leary
+Rev. J.C.
+             Missionary     200 00    Fredericton ...
+McDevitt
+Rev. John                             Renous
+             Missionary     100 00                 ...
+Carter                                Bridge
+Rev. W.
+             Missionary     100 00    Oak Point    ...
+Morrisey
+J.S. Benson, Medical
+                            125 00    Newcastle ...
+M.D.         Officer
+

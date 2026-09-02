@@ -1,0 +1,190 @@
+
+=== q01: Who was the Indian Agent in charge of the Blackfoot Agency in 1885, in 1900, and in 1913? Cite the report segment for each.
+[PASS] facts 1.00 cited True | 8 tool calls: ToolSearch → lookup_entity → neighbors → neighbors → neighbors → get_segment → get_segment → get_segment | $0.24
+All three agency-letter reports are signed "Indian Agent" by name, confirming the officer in charge each year:
+
+- **1885 — Magnus Begg.** His annual report letter for "BLACKFOOT AGENCY, N.W.T. – TREATY No. 7, 28th July, 1885" describes his taking charge of the northern division of Treaty 7 (Blackfoot, Sarcee and Stoney tribes) and is signed "MAGNUS BEGG, Indian Agent." — 1886_4 / p0170-blackfoot-agency-n-w-t-treaty [p. 173].
+
+- **1900 — G.H. Wheatley.** His report, dated "ALBERTA – BLACKFOOT AGENCY, GLEICHEN, August 23, 1900," covering the fiscal year ended June 30, 1900, is signed "G.H. WHEATLEY, Indian Agent." — prov:dia_ar_1900 / p0253-alberta-blackfoot-agency [p. 255].
+
+- **1913 — J.H. Gooderham.** His report, dated "BLACKFOOT AGENCY, GLEICHEN, April 18, 1913," for the fiscal year ended March 31, 1913, is signed "J.H. GOODERHAM, Indian Agent." — prov:dia_ar_1913 / p0302-blackfoot-age
+
+=== q02: According to the 1902 Schedule of Indian Reserves, how many reserves did the Kitwangar band occupy, what was the acreage of Kitwangar No. 1, and which modern First Nation is the band linked to?
+[PASS] facts 1.00 cited True | 5 tool calls: ToolSearch → lookup_entity → open_page → neighbors → open_page | $0.17
+## Answer
+
+According to the 1902 Schedule of Indian Reserves, the **Kitwangar** band occupied **8 reserves**, totaling 4,275 acres (Kitwangar No. 1, Timber reserve No. 2, Squin-lix-stat No. 3, Kwa-tsa-lix No. 4, Tum-bah No. 5, Kits-ka-haws No. 6, Koonwats No. 7, Chig-in-kaht No. 8). *(Source: `band:BAND-kitwangar` hub page / registry, Schedule of Indian Reserves 1902.)*
+
+**Kitwangar No. 1** measured **3,385 acres**, located in the Cassiar district on the banks of the Skeena at the mouth of the Kitwangar river (allotted by Comm'r O'Reilly, Oct. 2, 1891; surveyed 1900; final confirmation Dec. 10, 1901). *(Source: `reserve:kitwangar-1-kitwangar` — Schedule of Indian Reserves, 1902, p. 65.)*
+
+The historical Kitwangar band (Babine Agency, British Columbia — Kitksun/Gitxsan) is linked as **SUCCEEDED_BY the Gitwangak Indian Band** (Wikidata Q5565175) — a modern First Nation, distinct from the h
+
+=== q03: When were the Kamloops and Okanagan agencies merged into a single agency, and when were they separated again? What is the evidence?
+[PASS] facts 1.00 cited True | 20 tool calls: ToolSearch → lookup_entity → lookup_entity → open_page → neighbors → neighbors → neighbors → get_segment → search → search → search → search → search → search → search → open_page → get_segment → get_segment → search → get_segment | $0.66
+## Kamloops–Okanagan: merger and separation
+
+**Merger — first joint annual report is 1889.** The two previously separate agencies (Okanagan Agency's letters go back to at least 1882, Kamloops' to the 1880s) begin appearing under a single heading, "KAMLOOPS-OKANAGAN AGENCY," with agent J.W. Mackay's letter of 27 August 1889 covering all bands of both former agencies in one report. *Source: 1890_12 / p0248-kamloops-okanagan-agency [p. 248–261].* The combined agency then reports every year through fiscal year 1909–10, the last such joint letter being dated Kamloops, 19 May 1910. *Source: prov:dia_ar_1910 / p0354-kamloops-okanagan-agency [p. 354].*
+
+**Separation — mid-to-late 1910, first reported separately in the 1911 volume.** Three converging pieces of evidence in the 1911 annual report (covering fiscal year ended 31 March 1911) date the split:
+
+1. A departmental staff/salary table shows 
+
+=== q04: Who signed the Cowichan Agency annual report for the year ended June 30, 1900, and where and when was it dated?
+[PASS] facts 1.00 cited True | 4 tool calls: ToolSearch → lookup_entity → search → get_segment | $0.14
+The Cowichan Agency annual report for the year ended June 30, 1900 was signed by **W. R. Robertson, Indian Agent**. It was dated at **Quamichan, British Columbia, August 23, 1900**.
+
+Source: prov:dia_ar_1900 / p0398-cowichan-agency [p. 399–400] ("BRITISH COLUMBIA, COWICHAN AGENCY, QUAMICHAN, August 23, 1900... I have, &c., W.R. ROBERTSON, Indian Agent").
+
+=== q05: The inspector's report dated Toronto, 31 December 1885 describes a division of the Blackfoot Agency. Which Indians were detached to form the new agency, and who was appointed to run it?
+[PASS] facts 1.00 cited True | 7 tool calls: ToolSearch → search → lookup_entity → get_segment → ToolSearch → search → search | $0.15
+The snippet gives the full answer with exact wording.
+
+## Answer
+
+The Sarcee and Stony (Stoney) Indians were detached from the Blackfoot Agency to form a new, separate agency (the Sarcee Agency), and **Major de Balinhard** was appointed acting agent and farming instructor to run it.
+
+**Source:** 1886_4 / p0262-toronto-31st-december-1885 [p. 262] — "Since my last annual inspection a division has been made in the Blackfoot agency, by detaching therefrom the Sarcee and Stony Indians, erecting them into a separate agency, and appointing Major de Balinhard acting agent and farming instructor..."
+
+=== q06: Where was the Coryatsaqua reserve (No. 2), which agency administered it, and what was its area in the 1902 Schedule?
+[PASS] facts 1.00 cited True | 3 tool calls: ToolSearch → lookup_entity → open_page | $0.12
+**Coryatsaqua Reserve No. 2** was located in British Columbia, in the Cassiar district, on the trail to Hazelton, about two miles north of Lachkaltsap. It was administered by the **Babine Agency**. In the 1902 Schedule of Indian Reserves its area was recorded as **360 acres**.
+
+Source: Schedule of Indian Reserves, 1902, p. 63 (paper_id/page as returned by the reserve registry entry `reserve:coryatsaqua-2`; consistent with the 1900 and 1901 Schedule editions, which also list it at 360 acres).
+
+=== q07: What did the 1929 annual report say about the health of Indians in northern Ontario that winter — which diseases were noted?
+[FAIL] facts 0.67 cited False | 9 tool calls: ToolSearch → search → search → get_segment → search → search → search → search → search | $0.16
+This confirms the passage found is the main department-wide account (not an Ontario-specific one — the 1929 report doesn't have a separate northern-Ontario health note in this corpus). I'll answer based on that.
+
+## Answer
+
+The 1929 annual report's "Indian Health Supervision" section reports that **during the winter, Indians "in common with the white people, suffered extensively from influenza."** It notes that on the more settled reserves the epidemic was not severe, but "in the northern forests where hunting Indians scatter into widely isolated groups of a few families the disease appeared to attain greater virulence." The department used all available means of transport — including aeroplanes — to get doctors and food supplies to these scattered groups, though it found this "extremely difficult." The number of Indians actually affected was reported as "comparatively small."
+
+The same 
+  missed: [['scarlet fever']]
+
+=== q08: Which modern First Nation does the Canada50 registry record as the successor of the historical Six Nations band (the Mohawks, Oneidas, Onondagas, Tuscaroras, Cayugas, Senecas and Delawares)? Give the Wikidata QID, and explain why the relation is 'succeeded by' rather than 'same as'.
+[PASS] facts 1.00 cited True | 4 tool calls: ToolSearch → lookup_entity → neighbors → open_page | $0.13
+## Answer
+
+The Canada50 registry records the historical Six Nations band (Mohawks, Oneidas, Onondagas, Tuscaroras, Cayugas, Senecas and Delawares, 1902 Schedule, Ontario) as **succeeded by Six Nations of the Grand River**, Wikidata **Q105102819**.
+
+- Source: band hub page `BAND-the-six-nations-consisting-of-the-mohawks-oneidas` (https://jimclifford.ca/canada50/bands/the-six-nations-consisting-of-the-mohawks-oneidas), edge `SUCCEEDED_BY` → Q105102819, provenance "bands.parquet (adjudicated)", grounding note "Direct match to Six Nations of the Grand River."
+
+**Why "succeeded by" rather than "same as":** The registry's data model treats every historical DIA band entry (1902 Schedule / census tables) as categorically distinct from the modern First Nation legal entity it corresponds to — the hub page states explicitly: *"Historical band as recorded by the Department of Indian Affairs; a disti
+
+=== q09: Trace Magnus Begg's career as recorded in the annual reports: which agencies did he sign reports for, and over what span of years does he appear?
+[PASS] facts 1.00 cited True | 9 tool calls: ToolSearch → lookup_entity → neighbors → open_page → get_segment → get_segment → get_segment → get_segment → get_segment | $0.38
+## Magnus Begg's career in the DIA annual reports
+
+**Overall span:** first appears in the Return A staff lists in **1883** and last signs an agency letter in **1903** — a documented career of about 20 years (entity record: attested 1883–1903, 19 report-letter signatures).
+
+**Career trace:**
+
+1. **1883 — Piegan Reserve, Blackfoot region.** Listed in the Return A "List of Officers and Employees" as "M. Begg, Farming Instructor, No. 21," salary $720, appointed at Piegan Reserve. *(Return A service record, via person hub `/persons/lincs-5vzrWmnDQsA/`.)*
+
+2. **1885–1896 — Blackfoot Agency, Treaty No. 7, N.W.T.** (based at Siksika/Gleichen, Alberta). He signed the annual agency letter as "Agent"/"Indian Agent" every year in this stretch:
+   - 1885: *"BLACKFOOT AGENCY, N.W.T. — TREATY No. 7, 28th July, 1885"* — 1886_4 / p0170-blackfoot-agency-n-w-t-treaty [p. 170ff]
+   - 1886–1893, 1895: annual
+
+=== q10: In the 1900 report for the Williams Lake Agency, B.C., what did the agent say about the education of the Indians of that agency?
+[PASS] facts 1.00 cited True | 4 tool calls: ToolSearch → lookup_entity → search → get_segment | $0.21
+In the 1900 annual report, Indian Agent E. Bell reported on education band-by-band under separate "Education." headings for the Williams Lake Agency, B.C. The picture he gave was very mixed — most bands had no schooling at all, while a number sent children to the Williams Lake Industrial School or, in two cases, to a nearby public school:
+
+- **Alexandria Band**: "Only a few children have received any education; these have attended the Williams lake industrial school." (prov:dia_ar_1900 / p0458-williams-lake-agency-b-c, [p. 459])
+- **Alkali Lake Band**: "Quite a number of children from this band attend the Williams Lake industrial school." ([p. 460])
+- **Ancham Band**: "None of the children of this band have received any education, there being no schools in the neighbourhood." ([p. 462])
+- **Anderson Lake, Bridge River, Cayoosh Creek No.1 & No.2, Fountain, High Bar, Pavilion, Quesnel, Set
+
+=== q11: What reserve number did the Blood reserve carry in the Treaty No. 7 section of the 1902 Schedule, and where was it located?
+[PASS] facts 1.00 cited True | 12 tool calls: ToolSearch → lookup_entity → open_page → search → get_segment → ToolSearch → neighbors → search → ToolSearch → search → search → get_segment | $0.30
+**Reserve No. 148 — "Blood," located near Macleod, Alberta.**
+
+The Blood reserve appears in the Treaty No. 7 section of the Schedule of Indian Reserves as:
+
+> **148 Blood 546.76 [sq. miles, ≈349,926 acres] — Near Macleod, Alberta**
+
+This immediately follows the other Treaty 7 bands in the same schedule list (142 Bear's Paw/Stony, 143 Jacob, 144 Chiniquy, 145 Sarcee, 146 Blackfoot, 147 Peigan — all "Near Calgary/Macleod, Alberta"), confirming its place in the Treaty No. 7 section.
+
+**Sources:**
+- Registry entry (canada50 `lookup_entity`, reserve id `blood-148`): "Treaty No. 7; ... Near Macleod, Alberta.; 546.76 sq. miles (≈349,926 acres) — *Schedule of Indian Reserves 1902*, p. 39."
+- Corroborating printed schedule text: `prov:dia_ar_1901 / p0758-school-statement-ontario` — "145 Sarcee (Stony) 108.00 Near Calgary, Alberta. 146 Blackfoot 470.00 Near Calgary, Alberta. 147 Peigan 181.40 Near
+
+=== q12: How many reserves did the Fraser Agency administer according to the 1902 Schedule of Indian Reserves?
+[PASS] facts 1.00 cited True | 11 tool calls: ToolSearch → lookup_entity → neighbors → open_page → lookup_entity → search → neighbors → neighbors → neighbors → ToolSearch → neighbors | $0.40
+**188 reserves.**
+
+According to the canada50 registry's linkage of the *Schedule of Indian Reserves, 1902* to Department of Indian Affairs agencies, the **Fraser Agency** (entity `AG-fraser-agency`, British Columbia) is recorded as administering **188** reserve entries in that Schedule — i.e., 188 reserve entities carry an `ADMINISTERED_BY` edge to Fraser Agency with `provenance: schedule_1902`, attested year 1902.
+
+Source/address: query `neighbors(AG-fraser-agency, edge_type=ADMINISTERED_BY, year=1902)` → `in_total: 188`, all with `note: "Schedule of Indian Reserves 1902"`, `provenance: schedule_1902`. Example member reserves and their printed Schedule pages (each individually cited): "4 1/2 Mile reserve No. 2" (Yale band), "Ahpocum No. 9" (Klahoose band), "Ahtsann No. 23" (Squamish band) — each drawn from the 1902 Schedule text (individual page numbers are given per-reserve in the regi
+
+=== q13: According to the DIA census tables, what was the population of the Piapot band in 1900 and in 1929? Give the printed page for each figure.
+[PASS] facts 1.00 cited True | 3 tool calls: ToolSearch → lookup_entity → series | $0.12
+According to the DIA census tables for the Piapot band (Qu'Appelle Agency, Prairies/NWT; band_c02877):
+
+- **1900: population 180**, printed page 978 (paper `prov:dia_ar_1900`, address `prov:dia_ar_1900 / p0977-school-statement-northwest-ter`)
+- **1929: population 184**, printed page 96 (paper `prov:dia_ar_1929`, address `prov:dia_ar_1929 / p0095-tabular-statements-saskatchewa`)
+
+=== q14: Which agency administered the Piapot band in 1893, and which agency administered it in 1910? What is the evidence?
+[PASS] facts 1.00 cited True | 13 tool calls: ToolSearch → lookup_entity → neighbors → neighbors → ToolSearch → open_page → open_page → search → search → get_segment → search → get_segment → search | $0.25
+## Answer
+
+**1893:** The Piapot band was administered by **Muscowpetung's Agency** (Muskowpetung's Agency).
+**1910:** The Piapot band was administered by the **Qu'Appelle Agency**.
+
+## Evidence
+
+**1893 — Muscowpetung's Agency**
+- Census "Tabular Statement No. 4" in the 1893 annual report (published 1894), under the heading "MUSCOWPETUNG'S AGENCY," lists: *"Muscowpetung 119 21 6 92 ... «Piapot» 205 11 21 173 ... Standing Buffalo (Sioux) 184..."* — Source: `1894_14 / p0541-tabular-statement-no-4` [p. 541].
+- Corroborated by the entity registry's per-year agency attestation for band `band_c02877` (Piapot), which records "MUSCOWPETUNG'S Agency" for 1892–1893 (and its variant spellings 1886–1900) before the change to Qu'Appelle Agency.
+
+**1910 — Qu'Appelle Agency**
+- The 1910 annual report's Contents index entry reads: *"[p. 25] Sask. «Piapot» «Band», «Qu'Appelle» «Agency», Sask. H. «Nichol»"
+
+=== q15: Who taught at the Cape Croker day school in 1910, and over which years does the School Statements' teacher column record that person at Cape Croker?
+[PASS] facts 1.00 cited True | 11 tool calls: ToolSearch → lookup_entity → neighbors → series → search → open_page → open_page → search → get_segment → ToolSearch → search | $0.22
+This is confirmed by the School Statement table snippet itself. I have enough to answer.
+
+## Answer
+
+**Teacher at Cape Croker day school in 1910:** Miss Mary Moffitt.
+
+**Years the School Statements' teacher column records her at Cape Croker:** 1905, 1907–1921, and 1923–1929 (spelled "Miss Mary Moffitt" in most years, "Miss M. Moffit" in 1917, 1918, 1925, 1928, 1929 — same person, OCR/printing variant). No School Statement is printed for 1906 or 1922 (a gap in the tables), and she is not listed before 1905 (Miss Jean/J. L. Govenlock, 1902–1904) or after 1929 (Miss Violet Nadjiwan, 1930).
+
+**Sources:**
+- 1910 School Statement entry: `prov:dia_ar_1910 / p0532-school-statement` [p. 532] — "…Cape Croker … Miss Mary Moffitt Undenominational…" (canada50 School Statement table, report year 1910).
+- Full year-by-year teacher list, compiled from the School Statements: school hub page `school:SCH-0
+
+=== q16: According to the LINCS Indian Affairs Agents postings, where was W.M. Graham posted in 1897–1900 and where in 1901–1903? Which agency letters did he sign in 1899 and 1903?
+[PASS] facts 1.00 cited True | 10 tool calls: ToolSearch → lookup_entity → neighbors → neighbors → get_segment → get_segment → get_segment → search → search → get_segment | $0.31
+## W.M. Graham (LINCS `id.lincsproject.ca/2IJzxiwuqvl`), Indian Affairs officer/signatory, attested 1897–1916
+
+**Postings (LINCS POSTED_TO)**
+- **1897–1900**: File Hills Agency (LINCS notes his 1897 posting specifically as "File Hills, Qu'Appelle") — `neighbors(2IJzxiwuqvl, POSTED_TO)`.
+- **1901–1903**: Qu'Appelle Inspectorate (LINCS: "Qu'Appelle, Qu'Appelle") — `neighbors(2IJzxiwuqvl, POSTED_TO)`.
+
+**Agency letters signed**
+
+- **1899** (report for year ended 30 June 1899): He signed the **File Hills Agency** annual report, dated Qu'Appelle, August 22, 1899, as "Indian Agent." — `1900_14 / p0279-assiniboia-file-hills-agency [p. 279–280]`.
+- **1903** (report for year ended 30 June 1903): He signed the **Qu'Appelle Agency** annual report, dated Qu'Appelle Agency, August 17, 1903, again as "Indian Agent" — `prov:dia_ar_1903 / p0319-qu-appelle-agency-august-17-19 [p. 320–326]`.
+
+**Note on th
+
+=== q17: What population did the DIA census tables record for the Six Nations of the Grand River in 1881 and in 1929? Cite the sessional paper or page for the 1881 figure.
+[PASS] facts 1.00 cited True | 5 tool calls: ToolSearch → lookup_entity → series → get_segment → get_segment | $0.17
+**Six Nations of the Grand River — DIA census population**
+
+- **1881: 3,215** persons. Source: Sessional Paper 1882 no. 6 (DIA Annual Report for 1881), Tabular Statement No. 3, [p. 421] — address `1882_6 / p0407-tabular-statement-no-3`.
+- **1929: 4,491** persons. Source: DIA Annual Report for 1929, Tabular Statements section, [p. 84] — address `prov:dia_ar_1929 / p0051-tabular-statements-alberta` (paper_id `prov:dia_ar_1929`).
+
+Both figures come from the `population` series for band entity `band:band_c01842` ("Six Nations on the Grand River," DIA census tables 1881–1929, agency Six Nations Superintendency, Ontario; succeeded by the modern Six Nations of the Grand River, Q105102819).
+
+=== q18: How many pupils were on the roll of the File Hills boarding school in 1898 and in 1912, according to the School Statements? Give the printed pages.
+[PASS] facts 1.00 cited True | 6 tool calls: ToolSearch → lookup_entity → series → series → get_segment → get_segment | $0.17
+**File Hills boarding school — pupils on roll (School Statements):**
+
+- **1898: 17 pupils** — reported in the 1899 annual report. Source: paper_id `1899_14`, address `1899_14 / p0598-school-statement` [p. 623].
+- **1912: 46 pupils** — reported in the 1912 annual report. Source: paper_id `prov:dia_ar_1912`, address `prov:dia_ar_1912 / p0609-school-statement` [p. 638].
+
+(Both figures are the "roll_total" statistic for entity `school:SCH-00849` — File Hills, boarding, Prairies/NWT — as returned by the `series` tool from the School Statements.)
+
+17/18 pass; mean facts 0.98; cited 17/18; cost $4.30; results → eval/results/headless_sonnet_v2.jsonl
