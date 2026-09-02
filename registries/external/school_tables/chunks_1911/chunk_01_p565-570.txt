@@ -1,0 +1,251 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT Of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal
+Year ended March 31, 1911.
+
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader, Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+School.                         Reserve.            Agency.                Teacher.                    Denomination.
+NOVA SCOTIA.                    ...                 ...                    ...                         ...
+Bear River                      Bear River          Digby County           Mrs. Minnie A. Howe         Roman Catholic
+Eskasoni                        Eskasoni            Cape Breton Co.        Arch. J. McKenzie           Roman Catholic
+Sydney                          Sydney              Cape Breton Co.        Miss Marg. A. McLellan      Roman Catholic
+*Halfway River                  Franklin Manor      Cumberland Co.         Miss G.M. Jeffers           Roman Catholic
+Indian Cove                     Fisher's Grant      Pictou County          Miss Gertrude McGirr        Roman Catholic
+Middle River                    Middle River        Victoria County        Mrs. Annie MacNeill         Roman Catholic
+Millbrook                       Millbrook           Colchester County      Miss Jessie Scott           Roman Catholic
+New Germany                     Lunenburg           Lunenburg County       Miss Mary A. Gillis         Roman Catholic
+Salmon River                    Salmon River        Richmond County        Miss Henrietta O'Toole      Roman Catholic
+Malagawatch                     Malagawatch         Inverness County       Arsene Burns                Roman Catholic
+Whycocomagh                     Whycocomagh         Inverness County       John A. Gillis              Roman Catholic
+Total, Nova Scotia              ...                 ...                    ...                         ...
+PRINCE EDWARD
+                                ...                 ...                    ...                         ...
+ISLAND.
+                                                    P.E.I.
+Lennox Island                   Lennox Island                              John J. Sark                Roman Catholic
+                               
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+te. Lucie.
+                                              Couter
+                                              Sister
+Timiskaming Timiskaming Timiskaming                       Roman Catholic    18    19    37   23     5   5     11 10 6 ... Timiskaming.
+                                              Monica
+Ruperts        At Ruperts      James Bay      Rev. J.E.   Church of                                                               Ruperts
+                                                                            23    28    51   16     51 ...    ...   ... ... ...
+House          House           District       Woodall     England                                                                 House.
+                                                                                                                                  Total,
+Total, Quebec ...              ...            ...         ...               505   574   1,079 590   538 245 165 90 30 11
+                                                                                                                                  Quebec.
+
+[*This is a white school attended by Indian children.]
+
+<!-- page 564 -->
+Table, see page 396
+
+
+
+=== EXTRACT FROM HERE (pages 565-570) ===
+<!-- page 565 -->
+School.            Reserve.            Agency.        Teacher.              Denomination.
+ONTARIO.           ...                 ...            ...                   ...
+Alnwick            Alnwick             Alnwick        Francis J. Joblin     Methodist
+Cape Croker        Cape Croker         Cape Croker    Miss Mary Moffitt     Undenominational
+Port Elgin         Cape Croker         Cape Croker    George E. Jones       Undenominational
+Sidney Bay         Cape Croker         Cape Croker    Isabel McIver         Undenominational
+Back Settlement    Caradoc             Caradoc        Lyman W. Fisher       Undenominational
+Bear Creek         Caradoc             Caradoc        Miss M. McDougall     Undenominational
+                                                                            Church of
+Muncey             Caradoc             Caradoc        John L. Case
+                                                                            England
+                                                                            Church of
+Oneida No. 2       Oneida              Caradoc        Levi Williams
+                                                                            England
+Oneida No. 3       Oneida              Caradoc         Miss Annie Clark     Methodist
+River Settlement   Caradoc             Caradoc         Joseph H. Fisher     Undenominational
+Georgina Island    Georgina Island     Georgina Island George Cork          Methodist
+Golden Lake        Golden Lake         Golden Lake     Miss L.M. Schruder   Roman Catholic
+Sheshegwaning      Sheshegwaning       Gore Bay        Miss Adèle Duhamel   Roman Catholic
+West Bay           West Bay            Gore Bay        Mary E. Cushing      Roman Catholic
+*Graham S.S. No. 5 Tp. of Graham       Manitowaning Miss Julia Handfield    Undenominational
+                                                                            Church of
+Sheguiandah        Sheguindah          Manitowaning   Harry Cartlidge
+                                                                            England
+South Bay          South Bay           Manitowaning   Miss Zoe St. James    Roman Catholic
+                                                                            Church of
+Sucker Creek       Sucker Creek        Manitowaning   F. Lyle Sims
+                                                                            England
+Whitefish Lake     Whitefish Lake      Manitowaning   Miss S.M. Sweezey     Roman Catholic
+Wikwemikong        Manitoulin Island
+                                       Manitowaning   Rev. F.A. Parent      Roman Catholic
+(boys)             (unceded)
+Wikwemikong        Manitoulin Island
+                                       Manitowaning   Miss Jocannah Kelly   Roman Catholic
+(girls)            (unceded)
+Wikwemikongsing Wikwemikongsing        Manitowaning Miss Emily Frawley      Roman Catholic
+Moraviantown       Moravian            Moravian        George A. Snider     Undenominational
+New Credit         New Credit          New Credit      Clarence A. Veigel   Undenominational
+Gibson             Watha               Parry Sound     Mrs. M.L. Yarrow     Methodist
+Henvey Inlet       Henvey Inlet        Parry Sound     Joseph Partridge     Undenominational
+Ryerson            Parry Inlet         Parry Sound     Miss J.E. Armour     Undenominational
+Shawanaga          Shawanaga           Parry Sound     W.A. Elias           Undenominational
+Skene              Parry Sound         Parry Sound     Mrs. A.E. McKelvie   Undenominational
+Christian Island   Christian Island    Penetanguishene James Oliver, M.A.   Methodist.
+Lake Helen         Red Rock            Port Arthur     Miss C. Harrison     Roman Catholic
+Mission Bay (Squaw
+                   Fort William        Port Arthur    Dominick Ducharme     Roman Catholic
+Bay)
+Mountain Village   Fort William        Port Arthur    Mrs. Ang. McLaren     Roman Catholic
+
+<!-- page 566 -->
+Rama                  Rama                    Rama              Miss Eva M. McBain                   Methodist
+*Hiawatha             Rice Lake               Rice Lake         Miss Agnes Doris                     Undenominational
+Mud Lake
+                      Mud Lake                Rice Lake         J.H. Prosser                         Undenominational
+(Chemong)
+Kettle Point        Kettle Point              Sarnia            Mrs. Angus George                    Undenominational
+Stony Point         Stony Point               Sarnia            Mrs. R. McKinnon                     Undenominational
+St. Clair           Sarnia                    Sarnia            Miss A.M. Mathews                    Methodist
+French Bay          Saugeen                   Saugeen           T.J. Wallace                         Undenominational
+Saugeen             Saugeen                   Saugeen           Miss Isabella Roxton                 Undenominational
+Scotch Settlement   Saugeen                   Saugeen           Mrs. B. Robb                         undenominational
+Garden River (R.C.) Garden River              Sault Ste Marie   Rev. V. Renaud, S.J.                 Roman Catholic
+                                                                                                     Church of
+Garden River (C.E.) Garden River              Sault Ste Marie Lucius F. Hardyman
+                                                                                                     England
+(||)Goulais Bay       Goulais Bay             Sault Ste Marie   Miss F.J. Roussain                   Roman Catholic
+Michipicoten          Michipicoten            Sault Ste Marie   Miss Annie O'Connor                  Roman Catholic
+*Missinaibi           At Missinaibi           Sault Ste Marie   Mrs. S.H. Ferris                     Undenominational
+*Scugog S.S. No. 3    Scugog Island           Scugog            Miss Elizab. Nesbitt                 Undenominational
+Six Nations No. 1     Six Nations             Six Nations       Miss M.H. Jamieson                   Undenominational
+                                                                John Clark (Princ.), Miss Julia L.
+Six Nations No. 2     Six Nations             Six Nations                                            Undenominational
+                                                                Jamieson (Asst.)
+
+[*This is a white school attended by Indian children.]
+
+[(||)Closed during the December quarter, 1910, and March quarter, 1911.]
+
+<!-- page 567 -->
+NUMBER ON ROLL. Average Attendance. STANDARD.               School.
+Boys. Girls. Total. ...             I II III IV V VI ...
+...   ...    ...    ...             ... ... ... ... ... ... ONTARIO.
+22    20     42     23              21 6 6 9 ... ... Alnwick.
+22    16     38     25              7 5 10 6 7 3 Cape Croker.
+12    9      21     9               10 2 4 4 1 ... Port Elgin.
+6     9      15     7               8 3 1 3 ... ... Sidney Bay.
+20    20     40     17              15 8 ... 13 4 ... Back Settlement.
+6     9      15     9               7 2 3 3 ... ... Bear Creek.
+7     8      15     5               4 4 5 2 ... ... Muncey.
+16    14     30     17              22 2 4 2 ... ... Oneida No. 2.
+26    7      33     17              18 7 5 3 ... ... Oneida No. 3.
+14    13     27     14              4 11 6 6 ... ... River Settlement.
+15    8      23     16              7 4 6 6 ... ... Georgina Island.
+16    18     34     16              16 5 6 7 ... ... Golden Lake.
+16    13     29     15              17 2 9 ... 1 ... Sheshegwaning.
+18    23     41     15              17 18 6 ... ... ... West Bay.
+1     1      2      2               ... 1 1 ... ... ... *Graham S. S. No.
+7     8      15     5               9 3 2 1 ... ... Sheguiandah.
+15    15     30     18              11 3 8 5 3 ... South Bay.
+3     6      9      4               8 ... 1 ... ... ... Sucker Creek.
+6     10     16     12              7 6 3 ... ... ... Whitefish Lake.
+38    ...    38     12              36 2 ... ... ... ... Wikwemikong (boys).
+...   19     19     10              16 3 ... ... ... ... Wikwemikong (girls).
+6     13     19     13              91 7 2 1 ... ... Wikwemikongsing.
+37    26     63     26              28 5 8 12 10 ... Moraviantown.
+12    14     26     13              11 5 2 7 1 ... New Credit.
+7     12     19     11              8 4 3 2 2 ... Gibson.
+11    8      19     12              6 2 7 4 ... ... Henvey Inlet.
+8     11     19     11              4 6 7 1 1 ... Ryerson.
+8     11     19     9               8 3 4 4 ... ... Shawanaga.
+4     6      10     8               3 1 4 1 1 ... Skene.
+16    25     41     14              12 4 16 8 1 ... Christian Island.
+12    9      21     8               15 4 2 ... ... ... Lake Helen.
+13    5      18     10              8 6 1 3 ... ... Mission Bay (Squaw Bay).
+15    25     40     16              17 9 7 7 ... ... Mountain Village.
+23    33     56     27              25 14 9 7 1 ... Rama.
+3     6      9      5               3 1 4 ... 1 ... *Hiawatha.
+14    18     32     14              16 8 5 3 ... ... Mud Lake (Chemong).
+13    7      20     11              9 4 3 3 1 ... Kettle Point.
+
+<!-- page 568 -->
+3       6       9       5                     6 1 2 ... ... ... Stony Point.
+8       21      29      14                    16 5 4 4 ... ... St. Clair.
+19      9       28      22                    10 5 6 7 ... ... French Bay.
+12      8       20      12                    10 7 1 2 ... ... Saugeen.
+17      19      36      21                    10 14 9 3 ... ... Scotch Settlement.
+30      25      55      20                    25 15 9 4 2 ... Garden River (R.C.)
+23      9       32      15                    19 5 7 1 ... ... Garden River (C.E.)
+9       17      26      18                    11 6 9 ... ... ... Gonlais Bay.
+5       it      16      12                    3 6 5 2 ... ... Michipicoten.
+3       3       6       4                     3 2 ... 1 ... ... *Missinaibi.
+13      3       16      10                    4 9 1 2 ... ... *Scugog S.S. No. 3.
+34      42      76      31                    32 9 12 15 8 ... Six Nations No. 1.
+44      51      95      48                    37 6 15 13 13 1 Six Nations No. 2.
+
+[*This is a white school attended by Indian children.]
+
+[(||)Closed during the December quarter, 1910, and March quarter, 1911.]
+
+<!-- page 569 -->
+School.               Reserve.         Agency.        Teacher.                                  Denomination.
+Six Nations No. 3     Six Nations      Six Nations    Miss Daisy Masters                        Undenominational
+Six Nations No. 4     Six Nations      Six Nations    S.A. Anderson                             Undenominational
+Six Nations No. 5     Six Nations      Six Nations    Miss Ada H. Sharp                         Undenominational
+Six Nations No. 6     Six Nations      Six Nations    Jno. R. Lickers                           Undenominational
+Six Nations No. 7     Six Nations      Six Nations    A.J. Blakely (Princ), A.J. Sexton (Asst). Undenominational
+Six Nations No. 9     Six Nations      Six Nations    Alvin J. Scott                            Undenominational
+Six Nations No. 10    Six Nations      Six Nations    Festus Johnson                            Undenominational
+Six Nations No. 11    Six Nations      Six Nations    Thomas W. Draper                          Undenominational
+Six Nations (Thomas) Six Nations       Six Nations    S.L. Honey                                Undenominational
+Garden Village        Nipissing        Sturgeon Falls Jeannie McDermott                         Roman Catholic
+*Mattawa              At Mattawa       Sturgeon Falls Sister Ste Benilda                        Roman Catholic
+Nipissing             Nipissing        Sturgeon Falls Miss Agnes Kelly                          Roman Catholic
+(t)Timagami           On Bear Island Sturgeon Falls Miss Irene M. Abern                         Undenominational
+Mississagi River      Mississagi River Thessalon      Miss Annie Kehoe                          Roman Catholic
+Sagamook              Spanish River Thessalon         Miss Rose Fagan                           Roman Catholic
+Serpent River         Serpent River    Thessalon      Mrs. J.H. McKay                           Roman Catholic
+Spanish River         Spanish River Thessalon         Miss Marg. Cadotte                        Church of England
+(tt)Thessalon         Thessalon        Thessalon      Miss L.C. Shaddean                        Roman Catholic
+(t)Abitibi            At Abitibi       Treaty No. 9 Mrs. R. Gibbons                             Roman Catholic
+Albany Mission (C.E.) At Fort Albany Treaty No. 9 John T. Griffin                               Church of England
+(pp)French Post       At Moose River Treaty No. 9 Miss E.M. Bennett                             Church of England
+Moose Fort            At Moose Fort Treaty No. 9 Miss Edith Taylor                              Church of England
+Tyendinaga (Eastern) Tyendinaga        Tyendinaga     Miss Mabel Jeffrey                        Undenominational
+Tyendinaga (Western) Tyendinaga        Tyendinaga     Miss Eva Oliver                           Undenominational
+Tyendinaga (Central) Tyendinaga        Tyendinaga     Miss E.T. Buchanan                        Undenominational
+Tyendinaga (Mission) Tyendinaga        Tyendinaga     Alex. Leween                              Undenominational
+Walpole Island No. 1 Walpole Island Walpole Island Miss M. McDougall                            Church of England
+Walpole Island No. 2 Walpole Island Walpole Island Joseph Sampson                               Methodist
+Long Sault            Long Sault       Fort Frances   Miss Eva Fryer                            Church of England
+Manitou Rapids        Manitou Rapids Fort Frances     Robert R. Gill                            Church of England
+Seine River           Seine River      Fort Frances   Peter Spence                              Undenominational
+Assabasca             Assabasca        Kenora         Mrs. J.L. Harber                          Undenominational
+(t)Islington          Islington        Kenora         Fred. Eley                                Church of England
+(tt)Canoe River       Lac Seul         Savanne        Frank H. Aldous                           Church of England
+Total, Ontario        ...              ...            ...                                       ...
+
+[*This is a white school, attended by Indian children.]
+
+[(t)Open during the summer only.]
+
+<!-- page 570 -->
+[(tt)Re-opened during the December quarter 1910, having been closed since June 30, 1902.]
+
+[(pp)During a part of the year the Indians at Moose Fort move to the trading post at Moose River (French Post) and a
+school was opened at that point for their benefit.]
+
+[(t)Open during the summer only.]
+
+[(tt)Re-opened May 2, 1910, having been closed since June 30, 1903.]
+

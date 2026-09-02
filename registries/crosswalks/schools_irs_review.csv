@@ -1,0 +1,71 @@
+queue,school_id,name,province,years,n_years,variants
+unmatched_ours,SCH-00012,Great Whale River,,1896-1896,1,Great Whale River
+unmatched_ours,SCH-01603,Fort Chippewayan,,1896-1897,2,Fort Chippewayan
+unmatched_ours,SCH-01537,Buxton Mission,,1896-1903,3,Buxton Mission
+unmatched_ours,SCH-00019,Museowequan's,,1902-1902,1,Museowequan's
+alias_not_in_irs,SCH-00034,Metlakahtla Industrial,BRITISH COLUMBIA,1896-1897,2,Metlakahtla Industrial
+unmatched_ours,SCH-01130,Telegraph Creek,BRITISH COLUMBIA,1927-1927,1,Telegraph Creek
+alias_not_in_irs,SCH-00074,Yale (All Hallows) Boarding,BRITISH COLUMBIA,1896-1897,2,Yale (All Hallows) Boarding | Yale Boarding
+alias_not_in_irs,SCH-01134,Metlakahtla,BRITISH COLUMBIA,1898-1908,11,(t)Metlakahtla | *Metlakahtla | Metlakahtla | Metlakahtla. | Metlakatla
+unmatched_ours,SCH-00126,Sqviamish,BRITISH COLUMBIA,1902-1902,1,Sqviamish
+unmatched_ours,SCH-01139,West Bank,BRITISH COLUMBIA,1927-1927,1,West Bank
+unmatched_ours,SCH-01539,St. Marys,BRITISH COLUMBIA,1900-1900,1,St. Marys
+unmatched_ours,SCH-00184,Albemi,BRITISH COLUMBIA,1902-1902,1,Albemi
+unmatched_ours,SCH-00197,Home,BRITISH COLUMBIA,1899-1899,1,Home
+alias_not_in_irs,SCH-00198,Yale (All Hallows),BRITISH COLUMBIA,1898-1918,20,Yale (All Hallow) | Yale (All Hallows) | Yale (All Hallows). | Yale (All Hallows.) | Yale(AU HaUows)
+unmatched_ours,SCH-01176,Heatherton,NOVA SCOTIA,1927-1927,1,Heatherton
+unmatched_ours,SCH-00313,Wikwemikong Boys' Industrial,ONTARIO,1896-1896,1,Wikwemikong Boys' Industrial
+unmatched_ours,SCH-01192,Little Current,ONTARIO,1927-1927,1,Little Current
+unmatched_ours,SCH-00405,Fort Francis,ONTARIO,1925-1925,1,Fort Francis
+unmatched_ours,SCH-00414,Winkwemikong (boys),ONTARIO,1912-1912,1,Winkwemikong (boys)
+unmatched_ours,SCH-01196,Wikwemikong (Boys),ONTARIO,1898-1913,16,(t)Wikwemikong (Girls) | Wikwemikong (B) | Wikwemikong (Boys) | Wikwemikong (Boys). | Wikwemikong (Girls)
+unmatched_ours,SCH-00458,Winwemkong (girls),ONTARIO,1912-1912,1,Winwemkong (girls)
+unmatched_ours,SCH-01198,CaIabogie,ONTARIO,1927-1927,1,CaIabogie
+unmatched_ours,SCH-01200,Hiawatha,ONTARIO,1927-1927,1,Hiawatha
+unmatched_ours,SCH-01540,Mt. Elgin.,ONTARIO,1900-1900,1,Mt. Elgin.
+unmatched_ours,SCH-01201,Mattawa,ONTARIO,1927-1927,1,Mattawa
+unmatched_ours,SCH-01203,Scugog,ONTARIO,1927-1927,1,Scugog
+alias_not_in_irs,SCH-01204,Yale (All Hallows).,ONTARIO,1899-1899,1,Yale (All Hallows).
+unmatched_ours,SCH-00554,Rupert's Land Industrial,Prairies/NWT,1896-1897,2,Rupert's Land Industrial
+unmatched_ours,SCH-00581,Piegan C.E. Boarding,Prairies/NWT,1897-1897,1,Piegan C.E. Boarding | Piegan R.C. Boarding
+alias_not_in_irs,SCH-00593,Calgary Industrial,Prairies/NWT,1897-1897,1,Calgary Industrial
+unmatched_ours,SCH-01272,Isle à la Crosse,Prairies/NWT,1896-1907,12,Isle a la Crosse | Isle à la Crosse | Isle-a-la-Crosse | Isle-à-la-Crosse
+unmatched_ours,SCH-01282,Water Hen River,Prairies/NWT,1898-1900,3,Water Hen River
+unmatched_ours,SCH-00715,Muscowekwan's,Prairies/NWT,1915-1915,1,Muscowekwan's
+unmatched_ours,SCH-01298,Rupert's Land.,Prairies/NWT,1898-1906,9,(t)Rupert's Land | (tt)Rupert's Land | *Rupert's Land | *Rupert's land | Rupert's Land
+unmatched_ours,SCH-01300,Wabiscow Lake (C.E.),Prairies/NWT,1901-1905,4,"Wabiscow Lake (C.E.) | Wabiscow Lake (R.C.) | Wabiscow Lake, (C.E.) | Wabiscow Lake, (R.C.)"
+unmatched_ours,SCH-01550,Fort Simpson,Prairies/NWT,1897-1897,1,Fort Simpson
+unmatched_ours,SCH-00617,Muscowequans,Prairies/NWT,1914-1918,3,Muscowequans
+unmatched_ours,SCH-01552,Oxford House,Prairies/NWT,1909-1909,1,Oxford House
+unmatched_ours,SCH-00768,St. ISoniface,Prairies/NWT,1902-1902,1,St. ISoniface
+unmatched_ours,SCH-01554,Fort Norman,Prairies/NWT,1897-1897,1,Fort Norman
+unmatched_ours,SCH-01563,Round Plain,Prairies/NWT,1927-1927,1,Round Plain
+unmatched_ours,SCH-01609,"Piegan, C.E.",Prairies/NWT,1898-1898,1,"Piegan, C.E. | Piegan, R.C."
+unmatched_ours,SCH-01341,Qu'a'pelle,Prairies/NWT,1901-1901,1,Qu'a'pelle
+unmatched_ours,SCH-01557,Split Lake.,Prairies/NWT,1908-1909,2,Split Lake | Split Lake.
+unmatched_ours,SCH-00893,Crovvfoot,Prairies/NWT,1902-1902,1,Crovvfoot
+unmatched_ours,SCH-00896,File HUls,Prairies/NWT,1902-1902,1,File HUls
+unmatched_ours,SCH-00937,Branden,Prairies/NWT,1929-1929,1,Branden
+alias_not_in_irs,SCH-00939,Calgary.,Prairies/NWT,1898-1908,11,(t)Calgary | (tt)Calgary | *Calgary | Calgary | Calgary.
+unmatched_ours,SCH-00940,Elkholm,Prairies/NWT,1924-1924,1,Elkholm
+unmatched_ours,SCH-01361,Patapun,Prairies/NWT,1927-1927,1,Patapun
+alias_not_in_irs,SCH-00956,Mackay,Prairies/NWT,1916-1929,13,MacKay | Mackay | Mackay (The Pas)
+unmatched_ours,SCH-01364,Peguis,Prairies/NWT,1927-1927,1,Peguis
+unmatched_ours,SCH-01375,Hunter's Point,QUEBEC,1927-1927,1,Hunter's Point
+unmatched_ours,SCH-01559,Rupert's House,QUEBEC,1897-1906,6,*Rupert's House | Rupert's House | Rupert's House. | Ruperts House
+unmatched_ours,SCH-01379,PowerHouse,QUEBEC,1927-1927,1,PowerHouse
+unmatched_ours,SCH-01380,Kippewa,QUEBEC,1927-1927,1,Kippewa
+unmatched_ours,SCH-01384,*Champagne Landing,YUKON,1911-1911,1,*Champagne Landing
+unmatched_ours,SCH-01561,(t)Teslin Lake,YUKON,1911-1911,1,(t)Teslin Lake
+alias_not_in_irs,SCH-01387,Moosehide,YUKON,1900-1911,7,*Moosehide. | Moosehide | Moosehide.
+unmatched_ours,SCH-01389,Selkirk,YUKON,1911-1911,1,Selkirk
+unmatched_irs,,Shingle Point,YK,1929-1936,,St. John's; Shingle Point Eskimo School
+unmatched_irs,,Immaculate Conception,NWT,1926-1959,,Aklavik Roman Catholic; Mary Immaculate Roman Catholic Residential School
+unmatched_irs,,Wabasca,AB,1902-1966,,St. John's; Athabasca Landing
+unmatched_irs,,Spanish Girls School,ON,1868-1962,,
+unmatched_irs,,Shubenacadie,NS,1929-1967,,St. Anne's Convent; Shubie
+unmatched_irs,,Cote Improved Federal Day School,SK,1928-1940,,Cote Improved Day School; School #604
+unmatched_irs,,Wawanosh Home,ON,1879-1892,,Wawanosh Home for Indian Girls
+unmatched_irs,,,AB,0-0,,St. Dunstan's
+unmatched_irs,,,MB,0-0,,Middle Church
+unmatched_irs,,,BC,0-0,,

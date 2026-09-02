@@ -1,0 +1,17 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0723-school-statements	SCHOOL STATEMENTS	723	728
+01	p0723-school-statements	SCHOOL STATEMENTS	729	734
+02	p0723-school-statements	SCHOOL STATEMENTS	735	740
+03	p0723-school-statements	SCHOOL STATEMENTS	741	746
+04	p0723-school-statements	SCHOOL STATEMENTS	747	752
+05	p0723-school-statements	SCHOOL STATEMENTS	753	754
+06	p0754-school-statements-saskatchewan	SCHOOL STATEMENTS — Saskatchewan	754	759
+07	p0754-school-statements-saskatchewan	SCHOOL STATEMENTS — Saskatchewan	760	762
+08	p0767-school-statements-alberta	SCHOOL STATEMENTS — Alberta	767	771
+09	p0776-school-statements-new-brunswic	SCHOOL STATEMENTS — New Brunswick	776	777
+10	p0803-school-statements-northwest-te	SCHOOL STATEMENTS — Northwest Territories	803	803
+11	p0810-school-statements-northwest-te	SCHOOL STATEMENTS — Northwest Territories	810	811
+12	p0898-school-statements-quebec	SCHOOL STATEMENTS — Quebec	898	899
+13	p0900-school-statements-new-brunswic	SCHOOL STATEMENTS — New Brunswick	900	901
+14	p0902-school-statements-nova-scotia	SCHOOL STATEMENTS — Nova Scotia	902	902
+15	p0904-school-statements-british-colu	SCHOOL STATEMENTS — British Columbia	904	904

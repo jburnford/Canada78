@@ -1,0 +1,234 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+STATEMENT of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal Year ended March 31, 1917.
+NOTE: - The "Standard" indicates the classification of the pupils according to the reading-book used and, therefore, shows the degree of general
+advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I. Standard IV Third Reader.
+Standard II First Reader, Part II. Standard V Fourth Reader.
+Standard III Second Reader.        Standard VI Fifth Reader.
+
+                                                                                                 Average
+School           Reserve         Agency            Teacher        Denomination Number on Roll               Standard                School
+                                                                                                 Attendance
+...              ...             ...               ...            ...          Boys Girls Total ...          I     II III IV V VI ...
+
+NOVA             ...             ...               ...            ...          ...   ...   ...   ...         ...   ... ... ... ... ... NOVA
+SCOTIA.                                                                                                                                SCOTIA.
+                                 Antigonish        Wm. J.         Roman
+Afton            Afton                                                         14    14    28    13          10 9 3 6 ... ... Afton
+                                 County            Rogers         Catholic
+                                 Cape Breton       James          Roman
+Eskasoni         Eskasoni                                                      13    14    27    11          16 5 3 3 ... ... Eskasoni
+                                 County            McNeill        Catholic
+                                 Cape Breton       Eileen         Roman
+Sydney           Sydney                                                        13    10    23    14          8     5 6 3 1 ... Sydney
+                                 County            Boyle          Catholic
+                                 Colchester                       Roman
+Millbrook        Millbrook                         Jessie Scott                6     8     14    8           9     3 2 ... ... ... Millbrook
+                                 County                           Catholic
+                 Franklin        Cumberland             
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+  6     5     1 3 Onion Lake (R.C.)
+                                                 Cunningham Catholic
+                                                 Mrs. E.B.   Ch. of
+Onion Lake (C.E.)    Makaoo's       Onion Lake                              17    14    31    27    10 6        6     3     2 4 Onion Lake (C.E.)
+                                                 Matheson    England
+                     George         Touchwood    Rev. H.W.   Ch. of
+Gordon's                                                                    23    26    49    46    17 7        7     6     8 4 Gordon's
+                     Gordons        Hills        Atwater     England
+                                                 Rev. A.J.A.
+                     Adjoining    Touchwood                  Roman
+Muscowequans                                     Dugas,                     22    31    53    49    18 9        10 6        5 5 Muscowequans
+                     Muscowequans Hills                      Catholic
+                                                 O.M.I.
+Total, Saskatchewan ...             ...          ...         ...            281 320 601       554   204 104 117 102 45 29 Total, Saskatchewan
+
+
+
+=== EXTRACT FROM HERE (pages 166-171) ===
+<!-- page 166 -->
+Table, see page 78.
+
+<!-- page 167 -->
+                                                                                       Average
+School           Reserve        Agency      Teacher     Denomination Number on Roll               Standard                        School
+                                                                                       Attendance
+...              ...            ...         ...         ...          Boys Girls Total ...         I     II    III IV V VI ...
+
+                 ...            ...         ...         ...          ...   ...   ...   ...        ...   ...   ...   ... ... ...
+ALBERTA                                                                                                                           ALBERTA
+                                            Rev. S.   Ch. of
+Blood (C.E.)     Blood          Blood                                38    28    66    61         44 9        9     2 2 ... Blood (C.E.)
+                                            Middleton England
+                                            Rev. E.
+                                                        Roman
+Blood (R.C.)     Blood          Blood       Ruaux,                   36    27    63    55         16 16 17 8 6 ... Blood (R.C.)
+                                                        Catholic
+                                            O.M.I.
+                                          Rev. L.
+                                                        Roman
+Crowfoot         Blackfoot      Blackfoot Doucet,                    30    16    46    44         23 ...      12 9 2 ... Crowfoot
+                                                        Catholic
+                                          O.M.I.
+                                            Rev. M.C. Ch. of
+Old Sun's        Blackfoot      Blackfoot                            17    24    41    36         10 18 4           9 ... ... Old Sun's
+                                            Gandier   England
+                                        Sister.
+                                                        Roman
+St. Albert       At St. Albert Edmonton M.P.                         60    36    96    85         27 17 13 17 6 16 St. Albert
+                                                        Catholic
+                                        Briault
+Fort Chipewyan At Fort          Fort        Sr. M.      Roman                                                                     Fort Chipewyan
+                                                                     19    26    45    43         15 20 7           1 1 1
+(Holy Angels)  Chipewyan        Smith       Laverty     Catholic                                                                  (Holy Angels)
+                                            Rev. P.P.   Roman
+Ermineskin's     Ermineskin's Hobbema                                31    29    60    55         28 6        13 5 6 2 Ermineskin's
+                                            Moulin      Catholic
+                                            Rev. W.R. Ch. of
+Peigan (C.E.)    Peigan         Peigan                               18    13    31    31         16 7        8     ... ... ... Peigan (C.E.)
+                                            Haynes    England
+                                            Rev. J.L.
+                                                        Roman
+Peigan (R.C.)    Peigan         Peigan      Levern,                  16    13    29    28        19 7         ...   2 1 ... Peigan (R.C.)
+                                                        Catholic
+                                            O.M.I.
+                                            Rev. A.
+                                Saddle                  Roman
+Blue Quill's     Blue Quill's               Husson,                  27    28    55    48        11 16 11 11 6 ... Blue Quill's
+                                Lake                    Catholic
+                                            O.M.I.
+                                            Archdn.   Ch. of
+Sarcee           Sarcee         Sarcee                               20    13    33    32        24 5         ...   4 ... ... Sarcee
+                                            J.W. Tims England
+                              Lesser        Montague
+Lesser Slave     Lesser Slave                        Ch. of                                                                       Lesser Slave
+                              Slave         J.C.                     6     7     13    10        4      5     ...   2 ... 2
+Lake (C.E.)      Lake                                England                                                                      Lake (C.E.)
+                              Lake          Levrason
+Lesser Slave                  Lesser        Rev. J.                                                                         Lesser Slave
+                 Lesser Slave                           Roman
+Lake St.                      Slave         Calais,                 10     9     19    18        9      2     5     1 2 ... Lake St.
+                 Lake                                   Catholic
+Bernard's                     Lake          O.M.I.                                                                          Bernard's
+                              Lesser        Rev. Y.N.
+Lesser Slave     Lesser Slave                         Roman                                                                       Lesser Slave
+                              Slave         Floch,                  25     25    50    40        21 15 14 ... ... ...
+Lake St. Bruno's Lake                                 Catholic                                                                    Lake St. Bruno's
+                              Lake          O.M.I.
+                                            Rev.
+                             Lesser
+                 At Sturgeon                Joseph      Roman
+Sturgeon Lake                Slave                                  13     23    36    33        18 7         6     5 ... ... Sturgeon Lake
+                 Lake                       Habey       Catholic
+                             Lake
+                                            O.M.I.
+                                Lesser
+Vermilion (St.   At Fort                    Rev. J. Le Roman                                                                      Vermilion (St.
+                                Slave                               8      15    23    20        13 2         3     3 2 ...
+
+<!-- page 168 -->
+Henri)            Vermilion              Treste      Catholic                                                           Henri)
+                               Lake
+              At St. John's
+                            Lesser       Ida E.
+Wabiskaw Lake Mission,                               Ch. of                                                             Wabiskaw Lake
+                            Slave        Collins                10    13    23    20    17 1        4     1 ... ...
+(C.E.)        Wabiskaw                               England                                                            (C.E.)
+                            Lake         (actg.
+              Lake
+              At St.
+              Martin's      Lesser
+Wabiskaw Lake                            Sister      Roman                                                              Wabiskaw Lake
+              Mission,      Slave                               10    15    25    19    7     11 7        ... ... ...
+(R.C.)                                   Mary        Catholic                                                           (R.C.)
+              Wabiskaw Lake
+              Lake
+Whitefish Lake    At           Lesser                                                                         Whitefish Lake
+                                         Rev. C.D. Ch. of
+(St. Andrew's     Whitefish    Slave                            3     7     10    7     3     3     2
+                                                                                                    2 ... ... (St. Andrew's
+                                         White     England
+Mission)          Lake         Lake                                                                           Mission)
+Total, Alberta    ...          ...       ...         ...        397 367 764       685   325 167 135 82 34 21 Total, Alberta
+
+NORTHWEST ...                  ...       ...         ...        ...   ...   ...   ...   ...   ...   ...   ... ... ... NORTHWEST
+TERRITORIES                                                                                                           TERRITORIES
+                  At Fort      Fort      Sister    Roman
+Fort Resolution                                                 31    45    76    60    38 26 4           3 4 1 Fort Resolution
+                  Resolution   Smith     McQuillan Catholic
+                  At St.
+                  Peter's      Fort      Rev. Alf.   Ch. of
+Hay River                                                       19    15    34    28    21 4        5     4 ... ... Hay River
+                  Mission,     Smith     J. Vale     England
+                  Hay River
+Providence                                                                                                  Providence
+                At Fort        Fort      Sister      Roman
+Mission (Sacred                                                 32    37    69    66    30 15 11 13 ... ... Mission (Sacred
+                Providence     Simpson   McQuirk     Catholic
+Heart)                                                                                                      Heart)
+Total, Northwest                                                                                                        Total, Northwest
+                 ...           ...       ...         ...        82    97    179   154   89 45 20 20 4 1
+Territories                                                                                                             Territories
+
+<!-- page 169 -->
+Table, see page 80.
+
+<!-- page 170 -->
+                                                                                     Average
+School           Reserve   Agency       Teacher     Denomination Number on Roll                 Standard                     School
+                                                                                     Attendance
+...              ...       ...          ...         ...            Boys Girls Total ...          I     II III IV V VI ...
+
+BRITISH  ...               ...          ...         ...            ...   ...   ...   ...         ...   ... ... ... ... ... BRITISH
+COLUMBIA                                                                                                                   COLUMBIA
+                                        Ida M.
+Kitamat          Kitamaat Bella Coola               Methodist      7     30    37    35          20 6 1 6 2 2 Kitamat
+                                        Clarke
+Alert Bay                               A.W.        Ch. of                                                                   Alert Bay
+                 Alert Bay Kwawkewlth                              ...   32    32    24          6     4 8 14 ... ...
+Girls' Home                             Corker      England                                                                  Girls' Home
+Yale (All                               Sister      Ch. of                                                                   Yale (All
+                 At Yale   Lytton                                  ...   35    35    29          9     6 8 6 5 1
+Hallows)                                Constance   England                                                                  Hallows)
+Port Simpson At Port                    Lottie M.                                                                            Port Simpson
+                     Naas                           Methodist      ...   43    43    41          8     11 7 4 9 4
+Girl's Home Simpson                     Deacon                                                                               Girl's Home
+                           New         Sister       Roman
+Sechelt          Sechelt                                           26    25    51    51          25 12 9 5 ... ... Sechelt
+                           Westminster Theresine    Catholic
+                 At       New         Sister Mary Roman
+Squamish                                                           26    24    50    50          19 11 14 6 ... ... Squamish
+                 Squamish Westminster Amy         Catholic
+                 At St.                Rev. V.
+                           New                      Roman
+St. Mary's       Mary's                Rohr,                       42    48    90    88          37 13 13 18 9 ... St. Mary's
+                           Westminster              Catholic
+                 Mission               O.M.I.
+                                        Rev. J.
+             At Fort                                Roman
+1Stuart Lake           Stuart Lake      Allard,                    ...   ...   ...   ...         ...   ... ... ... ... ... 1Stuart Lake
+             St. James                              Catholic
+                                        O.M.I.
+                                        Hugh W.
+Ahousaht         Ahousaht West Coast               Presbyterian    16    13    29    29          4     8 4 4 9 ... Ahousaht
+                                        Vanderveen
+Alberni        Tresaht     West Coast   H.B. Currie Presbyterian   26    25    51    48          18 6 10 13 4 ... Alberni
+Total, British                                                                                                               Total, British
+               ...         ...          ...         ...            143 275 418       395         146 77 74 76 38 7
+Columbia                                                                                                                     Columbia
+
+                 ...       ...          ...         ...            ...   ...   ...   ...         ...   ... ... ... ... ...
+YUKON                                                                                                                        YUKON
+                 At                     W.T.        Ch. of
+Carcross                  Yukon                                    15    14    29    28          3     6 8 11 1 ... Carcross
+                 Carcross               Townsend    England
+
+[1This is a new boarding school and was first opened February 2, 1917. No. returns of attendance have been received.]
+
+27 - i - 6 1/2
+
+<!-- page 171 -->
+Table, see page 82.
+

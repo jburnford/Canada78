@@ -1,0 +1,20 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0681-school-statement	SCHOOL STATEMENT	681	685
+01	p0685-school-statement-quebec	SCHOOL STATEMENT — Quebec	685	689
+02	p0689-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	689	689
+03	p0689-school-statement-new-brunswick	SCHOOL STATEMENT — New Brunswick	689	689
+04	p0689-school-statement-prince-edward	SCHOOL STATEMENT — Prince Edward Island	689	691
+05	p0691-school-statement-british-colum	SCHOOL STATEMENT — British Columbia	691	693
+06	p0693-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	693	697
+07	p0697-school-statement-north-west-te	SCHOOL STATEMENT — North-West Territories	697	701
+08	p0701-school-statement-ontario	SCHOOL STATEMENT — Ontario	701	701
+09	p0701-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	701	706
+10	p0707-school-statement-ontario	SCHOOL STATEMENT — Ontario	707	707
+11	p0707-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	707	712
+12	p0716-school-statement-north-west-te	SCHOOL STATEMENT — North-West Territories	716	717
+13	p0805-school-statement-north-west-te	SCHOOL STATEMENT — North-West Territories	805	805
+14	p0965-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	965	966
+15	p0979-school-statement-northwest-ter	SCHOOL STATEMENT — Northwest Territories	979	979
+16	p0985-school-statement-british-colum	SCHOOL STATEMENT — British Columbia	985	985
+17	p1016-school-statement-quebec	SCHOOL STATEMENT — Quebec	1016	1018
+18	p1018-school-statement-new-brunswick	SCHOOL STATEMENT — New Brunswick	1018	1020

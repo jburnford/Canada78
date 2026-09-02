@@ -1,0 +1,292 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+STATEMENT of Day Schools in the Dominion (from which Returns have been received) for the Year ended June 30, 1903.
+                                                                                       From
+                                                                        Appropriation
+                                                                                       what NUMBER ON           Average
+ School.   Reserve.       Agency.         Teacher.    Denomination.     for Salary or                                      STANDARD.                   School
+                                                                                       Fund ROLL.               Attendance
+                                                                        yearly grant.
+                                                                                       Paid
+...            ...            ...                ...            ...              ...      ...     Boys. Girls. Total. ...    I   II III IV V VI ...
+
+               ...            ...                ...            ...              $ cts.   ...     ...    ...   ...     ...   ... ... ... ... ... ...
+ONTARIO.                                                                                                                                    ONTARIO.
+Alnwick        Alnwick        Alnwick            C.B. Oakley Methodist           300 00   Band    19     15    34      13    16 6 7 2 3 ... Alnwick.
+Back                                             Miss Isa                                                                                              Back
+               Caradoc        Caradoc                           Undenominational 250 00   Band    12    8      20      10    9 5 4 ... 2 ...
+Settlement                                       Whitlock                                                                                              Settlement.
+                                                                                          Band
+                                                 Miss Grace                               $200;
+Bear Creek     Caradoc        Caradoc                           Undenominational 250 00           12    9      21      9     17 2 2 ... ... ... Bear Creek.
+                                                 Clarke                                   Vote
+                                                                                          $50
+               Man
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+lair   Methodist         300 00     Vote 15     5      20     8         15 4        1     ... ... ... Cross Lake
+                                          Charles          Church of
+Cumberland       Cumberland     Pas                                          300 00     Vote 15     11     26     10        22 4        ...   ... ... ... Cumberland
+                                          Quinney          England
+                                          Arthur J.        Church of
+Eagle Lake       Eagle Lake   Savanne                                        300 00     Vote 10      6     16      7        8     4     4     ... ... ... Eagle Lake
+                                          Bruce            England
+Ebb and Flow     Ebb and Flow             Theresa                                                                                                           Ebb and Flow
+                              Manitowapah                  Roman Catholic    300 00     Vote 6       6     12      9        7     2     3     ... ... ...
+Lake             Lake                     Beaubien                                                                                                          Lake
+
+
+
+=== EXTRACT FROM HERE (pages 871-876) ===
+<!-- page 871 -->
+                                                Rev. Geo.      Church of                                                                        Fairford
+Fairford (Upper) Fairford        Manitowapah                                    300 00    Vote 8    10   18   11   10 6     ...   2 ... ...
+                                                Bruce          England                                                                          (Upper)
+Fairford                                        Robert         Church of                                                                        Fairford
+                  Fairford       Manitowapah                                    300 00    Vote 16   15   31   16   18 2     11 ... ... ...
+(Lower)                                         Bruce          England                                                                          (Lower)
+                                                Miss Eva
+Fisher River      Fisher River   Berens River                  Methodist        300 00    Vote 27   20   47   18   34 5     1     7 ... ... Fisher River
+                                                Savage
+                                                                                                                                              Fort
+Fort Alexander    Fort                          Sydney B.      Church of
+                                 Clandeboye                                     300 00    Vote 16   13   29   10   25 1     2     ... ... ... Alexander
+(Upper)           Alexander                     Barrett        England
+                                                                                                                                              (Upper)
+                                                                                                                                              Fort
+Fort Alexander    Fort                          W. George
+                                 Clandeboye                    Roman Catholic   300 00    Vote 17   9    26   11   21 5     ...   ... ... ... Alexander
+(R.C.)            Alexander                     Gow
+                                                                                                                                              (R.C.)
+(pp)Frenchman's                                 R.F.       Church of                                                                            Frenchman's
+                Lac Seul         Savanne                                        300 00    Vote 18   22   40   23   29 6     5     ... ... ...
+Head                                            MacDougall England                                                                              Head
+                                                M.J.           Church of
+Grand Rapids      Grand Rapids Pas                                              300 00    Vote 9    10   19   13   9   7    3     ... ... ... Grand Rapids
+                                                Simpson        England
+Hollowwater       Hollowwater                            Church of                                                                              Hollowwater
+                              Berens River John Sinclair                        300 00    Vote 10   7    17   9    5   6    5     1 ... ...
+River             River                                  England                                                                                River
+                                                               Church of
+Islington         Islington      Rat Portage    J.S. Newton                     300 00    Vote 7    7    14   8    12 2     ...   ... ... ... Islington
+                                                               England
+                                                M.             Church of
+*Jackhead         Jackhead       Berens River                                   300 00    Vote 10   10   20   13   16 4     ...   ... ... ... Jackhead
+                                                Sanderson      England
+Lac Seul (Canoe                                                Church of                                                                        Lac Seul
+                Lac Seul         Savanne        D.W. Wood                       300 00    Vote 10   11   21   9    12 5     4     ... ... ...
+River)                                                         England                                                                          (Canoe River)
+Lac Seul                                        Rev. T.H.      Church of                                                                        Lac Seul
+                  Lac Seul       savanne                                        300 00    Vote 32   25   57   15   54 3     ...   ... ... ...
+(Treaty Point)                                  Pritchard      England                                                                          (Treaty Point)
+                  Lake                          Louis E.                                                                                        Lake
+Lake Manitoba                    Manitowapah                   Roman Catholic   300 00    Vote 14   7    21   11   10 5     6     ... ... ...
+                  Manitoba                      Martel                                                                                          Manitoba
+                  Lake St.                                     Church of                                                                        Lake St.
+Lake St. Martin                  Manitowapah T.H. Dobbs                         300 00    Vote 26   16   42   26   29 9     3     1 ... ...
+                  Martin                                       England                                                                          Martin
+                                                               Church of
+(pp)Little Forks Little Forks    Couchiching D.W. Wood                          300 00    Vote 6    3    9    4    7   2    ...   ... ... ... Little Forks
+                                                               England
+Little            Little                   John E.             Church of                                                                        Little
+                               Manitowapah                                      300 00    Vote 11   8    19   10   11 6     1     1 ... ...
+Saskatchewan      Saskatche'wn             Favell              England                                                                          Saskatchewan
+                                                Francis E.     Church of
+(t)Long Sault     Long Sault     Couchiching                                    300 00    Vote 2    10   12   7    11 ...   ...   ... 1 ... Long Sault
+                                                Ward           England
+                  Manitou                       R.H.           Church of                                                                        Manitou
+Manitou Rapids                   Couchiching                                    300 00    Vote 8    9    17   8    10 7     ...   ... ... ...
+                  Rapids                        Bagshaw        England                                                                          Rapids
+                                                               Church of
+*Moose Lake       Moose Lake     Pas            James Settee                    300 00    Vote 10   14   24   14   14 8     2     ... ... ... Moose Lake
+                                                               England
+                                                Catherine      Church of                                                                        Muckle's
+Muckle's Creek St. Peters        Clandeboye                                     300 00    Vote 15   9    24   7    13 3     3     2 3 ...
+                                                Fitzgerald     England                                                                          Creek
+                                                Ron'ld F.      Church of
+Pas               Pas            Pas                                            300 00    Vote 23   17   40   20   21 5     11 2 1 ... Pas
+                                                McDougall      England
+                                                Rev. P.
+Pine Creek        Pine Creek     Manitowapah                   Roman Catholic   12p.cap   Vote 5    14   19   14   6   6    4     1 1 1 Pine Creek
+                                                Bousquet
+
+<!-- page 872 -->
+                                               James F.
+*Poplar River    Poplar River   Berens River                Methodist         300 00        Vote 30      12    42    15          23 8     11 ... ... ... Poplar River
+                                               Blackford
+                                               Thomas       Church of
+Red Earth        Red Earth      Pas                                           300 00        Vote 12      10    22    10          20 1     1   ... ... ... Red Earth
+                                               Bear         England
+                 Norway                        Miss Laura
+Rossville                       Berens River                Methodist         300 00        Vote 19      17    36    12          31 4     1   ... ... ... Rossville
+                 House                         Lousley
+                                               Miss Olive
+Sandy Bay        Sandy Bay      Manitowapah                 Roman Catholic    300 00        Vote 24      22    46    27          22 11 8      2 3 ... Sandy Bay
+                                               Goulet
+                                               Louis        Church of
+Shoal Lake       Pas Mountain Pas                                             300 00        Vote 11      8     19    14          13 1     3   ... 2 ... Shoal Lake
+                                               Cochrane     England
+ (t)Stangecoming Stangecoming Couchiching Henry Girard Roman Catholic 300 00                   Vote 8     9      17     8            10 3 4 ... ... ... Stangecoming
+ St. Peters                                    Lewis          Church of                                                                                    St. Peters
+                  St. Peters     Clandeboye                                      300 00        Vote 12    11     23     10           12 1 2 8 ... ...
+ (North)                                       LeClair        England                                                                                      (North)
+[*No return received for September quarter, 1902.] [(t)School closed during the September and December quarter, 1902.] [(tt)No returns received for September quarter,
+1902, and March quarter, 1903.] [(pp)Only one return received during the year.]
+
+<!-- page 873 -->
+Table, see page 44
+
+<!-- page 874 -->
+                                                                                       From
+                                                                         Appropriation
+                                                                                       what NUMBER ON         Average
+School.           Reserve.       Agency.       Teacher.    Denomination. for Salary or                                   STANDARD.                  School
+                                                                                       Fund ROLL.             Attendance
+                                                                         yearly grant.
+                                                                                       Paid
+...               ...            ...           ...         ...            ...      ...   Boys. Girls. Total. ...       I     II    III IV V VI ...
+St. Peters                                     Miss Sadie Church of                                                                                 St. Peters
+                  St. Peters     Clandeboye                               300 00   Vote 26      21    47      20       20 9        8     8 2 ...
+(South)                                        Lewis      England                                                                                   (South)
+                                               Peter       Church of
+St. Peters (East) St. Peters     Clandeboye                               300 00   Vote 7       12    19      11       11 6        1     1 ... ... St. Peters (East)
+                                               Harper      England
+                                               Miss Mary Roman
+St. Peters (R.C.) St. Peters     Clandeboye                               300 00   Vote 8      10     18      6        12 3        3     ... ... ... St. Peters (R.C.)
+                                               Fitzgerald Catholic
+                                 Portage la    K.M.
+Swan Lake         Swan Lake                                Presbyterian   300 00   Vote 6      ...    14      7        13 1        ...   ... ... ... Swan Lake
+                                 Prairie       Garrioch
+                  Waterhen                     Thos. J.    Roman
+*Waterhen River                  Manitowapah                              300 00   Vote 7      10     17      9        12 4        1     ... ... ... Waterhen River
+                  River                        Robinson    Catholic
+                                               Mrs. Amy Church of
+Wabigoon          Wabigoon       Savanne                                  300 00   Vote 13     18     31      12       22 4        5     ... ... ... Wabigoon
+                                               Johns    England
+                                                           Church of
+Wabuskang         Wabuskang      Savanne       James Fox                  300 00   Vote 10     10     20      5        20 ...      ...   ... ... ... Wabuskang
+                                                           England
+Total, Manitoba ...              ...           ...         ...            ...      ...   654   572    1226 554         812 216 148 36 13 1 Total, Manitoba
+
+N.W.        ...                  ...           ...         ...            ...      ...   ...   ...    ...    ...       ...   ...   ...   ... ... ... N.W.
+TERRITORIES                                                                                                                                          TERRITORIES
+                                               Miss M.A. Church of
+Attakakoop        Attakakoop     Carlton                                  300 00   Vote 12     7      19     11        14 4        ...   1 ... ... Attakakoop
+                                               Caswell   England
+                                               Louis    Church of
+Big River         Kenemotayoos' Carlton                                   300 00   Vote 6      7      13     9         10 2        1     ... ... ... Big River
+                                               Ahenakew England
+                                               C.H.        Church of
+Bulls Horn        Blood          Blood                                    300 00   Vote 27     16     43     9         43 ...      ...   ... ... ... Bulls Horn
+                                               Collinson   England
+                                               Miss
+                                 Touchwood                 Church of
+Day Star's        Day Star's                   Sophia                     300 00   Vote 7      8      15     10        2     4     3     6 ... ... Day Star's
+                                 Hills                     England
+                                               Smythe
+                                               Vincent
+Goodfish Lake     Pakan          Saddle Lake               Methodist      300 00   Vote 12     6      18     10        12 6        ...   ... ... ... Goodfish Lake
+                                               Smith
+                                               D.       Church of
+James Smith's     James Smith's Duck Lake                                 300 00   Vote 15     13     28     11        26 1        1     ... ... ... James Smith's
+                                               McDonald England
+                                               Miss Ethel Church of
+John Smith's      John Smith's   Duck Lake                                300 00   Vote 7      10     17     5         11 3        2     1 ... ... John Smith's
+                                               Shipman England
+                                               Miss
+                                                           Church of
+Joseph's          Joseph's       Edmonton      Const.                     300 00   Vote 12     12     24     5         23 1        ...   ... ... ... Joseph's
+                                                           England
+                                               decazes
+                                               Owen        Church of
+Key's             Keys           Pelly                                    300 00   Vote 5      14     19     9         12 3        4     ... ... ... Key's
+                                               Owens       England
+                                               Felix       Roman
+*Keeseekouse      Keeseekouse    Pelly                                    300 00   Vote 5       4     9       4        6     3     ...   ... ... ... Keeseekouse
+                                               Ingold      Catholic
+                                               Samuel      Church of
+
+<!-- page 875 -->
+Lac la Ronge      Lac la Ronge    Carlton                                 300 00   Vote 7      13    20    9     16 3        1     ... ... ... Lac la Ronge
+                                                 Abraham     England
+                                                 C.T.      Church of
+Little Pine's     Little Pine's   Battleford                              300 00   Vote 10     8     18    9     13 3        2     ... ... ... Little Pine's
+                                                 Desmarais England
+                                                 A.A.
+Louis Bull's      Louis Bull's    Hobbema                 Methodist       300 00   Vote 5      9     14    5     10 1        1     2 ... ... Louis Bull's
+                                                 Goodhand
+                                                 Philip      Roman
+Meadow Lake       Meadow Lake Carlton                                     300 00   Vote 6      7     13    6     10 3        ...   ... ... ... Meadow Lake
+                                                 Garnot      Catholic
+                                                 Miss Jen.
+Mistawasis        Mistawasis      Carlton                  Presbyterian   300 00   Vote 10     10    20    10    14 2        2     2 ... ... Mistawasis
+                                                 W. Moore
+                                                 John R.     Church of
+Montreal Lake     Montreal Lake Carlton                                   300 00   Vote 14     21    35    10    22 5        7     1 ... ... Montreal Lake
+                                                 Settee      England
+                                                 Andrew
+(t)Morley No. 1 Bearspaw          Stony                      Methodist    300 00   Vote 22     25    47    14    43 4        ...   ... ... ... Morley No. 1
+                                                 Sibbald
+                                                 R.C.
+Okanase           Okanase         Birtle                   Presbyterian   300 00   Vote 6      9     15    8     7     2     6     ... ... ... Okanase
+                                                 McPherson
+                                                 Miss
+                                                             Roman
+Poundmaker's      Poundmaker's Battleford        Regina                   300 00   Vote 6      6     12    5     8     2     2     ... ... ... Poundmaker's
+                                                             Catholic
+                                                 Arcand
+                                                 Mrs. M.     Church of
+Red Pheasant      Red Pheasant    Battleford                              300 00   Vote 10     6     16    11    9     6     1     ... ... ... Red Pheasant
+                                                 Jefferson   England
+                                                 Chas. W.
+Saddle Lake       Saddle Lake     Saddle Lake                Methodist    300 00   Vote 11     7     18    5     14 2        2     ... ... ... Saddle Lake
+                                                 Leonard
+                                                 Miss Mina
+Sampson's         Sampson's       Hobbema                  Methodist      300 00   Vote 9      9     18    4     18 ...      ...   ... ... ... Sampson's
+                                                 German
+                                                 Rev. A.T. Church of
+Shoal River       Key's           Pelly                                   300 00   Vote 6      17    23    11    22 1        ...   ... ... ... Shoal River
+                                                 Norquay England
+                  Near Prince                    Miss Lucy
+Sioux Mission                     ...                      Presbyterian   300 00   Vote 5      7     12    6     6     2     3     1 ... ... Sioux Mission
+                  Albert                         M. Baker
+Stony (Eagle                                                 Church of                                                                           Stony (Eagle
+                  Stony           Battleford     R. Thomas                300 00   Vote 4      1     5     4     5     ...   ...   ... ... ...
+Hills)                                                       England                                                                             Hills)
+                                                 Robert      Church of
+Sturgeon Lake     Twatt's         Carlton                                 300 00   Vote 9      2     11    3     5     5     ...   ... ... ... Sturgeon Lake
+                                                 Bear        England
+                                                 J.N.        Roman
+(tt)Sweet Grass   Sweet Grass     Battleford                              300 00   Vote 3      1     4     2     2     2     ...   ... ... ... *Sweet Grass
+                                                 Pagnet      Catholic
+                                                Rev.
+                  Lesser Slave    In Treaty No. Father     Roman
+St, Anthony's                                                             300 00   Vote 5      5     10    10    4     4     2     ... ... ... St. Anthony's
+                  Lake            8             Desmarais, Catholic
+                                                O.M.I.
+                  Peace River     In Treaty No.
+...                                             ...          ...          ...      ...   ...   ...   ...   ...   ...   ...   ...   ... ... ... ...
+                  Dist.           8
+Thunderchild's                                   M.B.        Church of                                                                           Thunderchild's
+                  Thunderchild's Battleford                               300 00   Vote 5      4     9     5     6     3     ...   ... ... ...
+(C.E.)                                           Edwards     England                                                                             (C.E.)
+                                  Moose          Miss E.
+White Bear        White Bear's                            Presbyterian    300 00   Vote 12     7     19    10    10 9        ...   ... ... ... White Bear
+                                  Mountain       McDonald
+                                                 Mrs.W.R.
+White Cap Sioux Moose Woods ...                           Methodist       300 00   Vote 4      8     12    9     3     1     4     4 ... ... White Cap Sioux
+                                                 Tucker
+
+<!-- page 876 -->
+                                              Miss
+                  James
+Whitefish Lake                    Saddle Lake J.S.R.        Methodist       300 00        Vote 7       9     16     9      11 ...   5     1 ... ... Whitefish Lake
+                  Seenum's
+                                              Batty
+White Whale                                                                                                                                     White Whale
+                  Paul's          Edmonton      D.H. Lent Methodist         300 00        Vote 7       3     10     3      10 ...   ...   ... ... ...
+Lake                                                                                                                                            Lake
+ Total N.W.T.     ...              ...            ...         ...            ...             ...   291 291 582 251         427 88 48 19 ... ... Total, N.W.T.
+[*Only one return received.] [(t)No return received for the December quarter, 1902.] [(tt)School closed March 31, 1903.]
+

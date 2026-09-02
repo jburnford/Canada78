@@ -1,0 +1,110 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+STATEMENT of Indian Day Schools in the Dominion for the Fiscal Year ended March 31, 1923 - Continued
+
+                                                                              Number on Roll Average      Standard
+School           Reserve         Agency         Teacher      Denomination
+                                                                              Boys Girls Total Attendance I   II III IV V VI
+QUEBEC           ...             ...            ...          ...              ...  ...   ...   ...        ... ... ... ... ... ...
+                                                Miss Pansy
+*Lake Simon      At Lake Simon Timiskaming                 Roman Catholic     24    21    45    38        45 ...      ...   ...   ... ...
+                                                McEvoy
+                                                Miss Esther
+...              ...             ...                        ...               ...   ...   ...   ...       ...   ...   ...   ...   ... ...
+                                                Foy
+                                                Harry        Church of
+*Waswanapi       At Waswanapi Timiskaming                                     13    20    33    20        25 8        ...   ...   ... ...
+                                                Cartlidge    England
+                 At Rupert's                    Rev. C.C.    Church of
+Rupert's House                   Treaty No. 9                                 34    40    74    17        74 ...      ...   ...   ... ...
+                 House                          Brett        England
+                 Lake                           Charles      Church of
+*Mistassini                      Treaty No. 9                                 22    32    54    41        31 23 ...         ...   ... ...
+                 Mistassini                     Iserhoff     England
+                                                Rev. W.G.    Church of
+Fort George      At Fort George Treaty No. 9                                  8     5     13    6         13 ...      ...   ...   ... ...
+                                                Walton       England
+Total Quebec     ...             ...            ...          ...              812 779 1,591 1,028         712 391 202 141 89 56
+ONTARIO          ...             ...            ...          ...              ... ... ...   ...           ... ... ... ... ... ...
+                                                Rev. Fred J.
+Aln
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+mloops Cowichan         McGuire,                 36    35    71    67    15 16 25 8              7 ...
+                                                      Catholic
+                                            O.M.I.
+Alert Bay Girl's                            J. Vivian    Church of
+                 Alert Bay    Kwawkewlth                             ...   36    26    26    11 6        7     5     4 3
+Home                                        S. Lord      England
+Alert Bay                                   J. Vivian    Church of
+                  Alert Bay   Kwawkewlth                             40    ...   40    33    19 4        5     4     5 3
+Industrial                                  S. Lord      England
+                                            Sr. Mary Roman
+Kootenay          Cranbrook Kootenay                                 35    45    80    80    20 7        18 23 8 4
+                                            Napoleon Catholic
+                                            Rev. A. R. Church of
+Lytton            Lytton      Lytton                                 64    51    115   99    14 23 30 34 14 ...
+                                            Lett       England
+
+
+
+=== EXTRACT FROM HERE (pages 89-90) ===
+<!-- page 89 -->
+                        New         Sr.          Roman
+Sechelt       Sechelt                                          35   45   80    71    43 11 7    14 5 ...
+                        Westminster Gabriel      Catholic
+                        New         Rev. Geo.
+Coqualeetza   Sardis                          Methodist        88   77   165   143   52 18 33 36 19 7
+                        Westminster H. Raley
+                                    Rev. John
+St. Mary's    Mission   New                   Roman
+                                    Duplanil,                  48   46   94    86    25 18 29 22 ... ...
+Mission       City      Westminster           Catholic
+                                    O.M.I.
+                                      Rev. N.
+              Fraser                             Roman
+Fraser Lake             Stuart Lake   Coccola,                 68   73   141   132   75 12 10 18 17 9
+              Lake                               Catholic
+                                      O.M.I.
+              North                   Sr. Mary   Roman
+Squamish                Vancouver                              29   24   53    52    6   6   11 19 5 6
+              Vancouver               Amy        Catholic
+                                      Rev. H.B.
+Alberni       Alberni   West Coast              Presbyterian   44   38   82    74    27 16 1    14 11 13
+                                      Currie
+
+<!-- page 90 -->
+                                                            Number on Roll Average      Standard
+School         Reserve   Agency   Teacher   Denomination
+                                                            Boys Girls Total Attendance I   II III IV V            VI
+BRITISH
+COLUMBIA ...             ...      ...       ...             ...   ...   ...   ...    ...   ...   ...   ...   ...   ...
+- Con.
+                                  Rev. J. C.
+                        West
+Ahousaht       Ahousaht           Millar,    Presbyterian   18    13    31    28     6     5     4     7     4     2
+                        Coast
+                                  B.A.
+                                  Rev.
+                         West               Roman
+Christie       Kakawis            Idlefonse                 37    41    78    60     35 10 13 15 4                 1
+                         Coast              Catholic
+                                  Calmus
+                                 Rev. E.
+               150 Mile Williams           Roman
+Cariboo                          Maillard,                  36    41    77    71     18 12 18 12 17 ...
+               House    Lake               Catholic
+                                 O.M.I.
+Total, British
+               ...       ...      ...       ...             636 640 1,276 1,133      401 194 235 254 140 52
+Columbia
+YUKON          ...       ...      ...       ...             ...   ...   ...   ...    ...   ...   ...   ...   ...   ...
+                                  Rev. W.   Church of
+Carcross       Carcross Yukon                               17    19    36    33     16 10 4           6     ...   ...
+                                  Barlow    England
+St. Paul's     Dawson             C.F.      Church of
+                         Yukon                              11    11    22    18     22 ...      ...   ...   ...   ...
+Hospital       City               Johnson   England
+Total, Yukon ...         ...      ...       ...             28    30    58    51     38 10 4           6     ...   ...
+

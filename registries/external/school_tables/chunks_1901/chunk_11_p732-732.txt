@@ -1,0 +1,68 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+SHOWING the Condition of Indian Day Schools in the Dominion (from which Returns have been received) for
+the Year ended June 30, 1901.
+ School.           Reserve.       Agency.          Teacher.           Denomination.
+
+                   ...               ...              ...                  ...
+ONTARIO
+Alnwick              Alnwick            Alnwick         Wm. J. Garland       Methodist
+Back Settlement      Caradoc            Caradoc         Miss Bessie Ward     Undenomimtional
+Bear Creek           Caradoc            Caradoc         Miss Martha Nicholls Undenominational
+Buzwah               Manitoulin Island. Manitowaning David Craddock          Roman Catholic
+Cape Croker          Cape Croker        Cape Croker     Miss Rachel Glazier Undenominational
+*Christian Island    Christian Island Penetanguishene Alfred McCue           Methodist
+Fort William (boys) Fort William        Western         Sister M. Ambrose    Roman Catholic.
+Fort William (girls) Fort William       Western         Sister M. Ambrose    Roman Catholic
+French Bay           Saugeen            Saugeen         T.J. Wallace         Undenominational
+Garden River (B.C.) Garden River        Sault St. Marie Rev. H. Caron S.J.   Roman Catholic
+Garden River (C.E.) Garden River        Sault St. Marie Miss Ethel M. Frost Church of England
+Georgian Island      Georgian Island Rama               C.B. Oakley          Methodist
+(t)Gibson            Watha              Parry Sound     A. Kniewasser        Methodist
+Golden Lake          Golden Lake        Golden Lake     Lucinda M. Casey     Roman Catholic
+Henvey Inlet         Henvey Inlet       Parry Sound     Adda McIntosh        Undenominational
+Hiawatha             Rice Lake          Alnwick         J.A. Windsor         Methodist
+Jackfish Island    Jackfish Island   Western          J.A. Blais            Roman Catholic
+Kettle Point       Kettle Point      Sarnia           Miss Ethel E. Jacobs Undenominational
+Lake Helen         Red Rock          Western          Mrs. J.H. McKay       Roman Catholic
+Mattawa            At Mattawa        Western          Rev. Sis. St. Gregory Roman Catholic
+Michipicoten       Michipicoten      Sault Ste. Marie Miss Teresa Clarke Roman Catholic
+(tt)Missinabie     ...               Sault Ste. Marie M.A. Oldham           Undenominational
+Mission River      Mississagi        Thessalon        Miss Lucy Heiss       Roman Catholic
+Moraviantown       Moravian          Moravian         Miss Mary J. Smith Undenomi
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+gan C.E.
+p. cap
+20 pupils, $72
+                 Voted        9     17     26      23           12 8        6     ...   ... ... Peigan R.C.
+p. cap
+40 pupils, $72
+                 Voted        17    13     30      25           12 6        8     ...   4 ... Round Lake.
+p. cap
+15 pupils, $72
+                 Voted        7     9      16      11           4     3     2     6     1 ... Sarcee.
+p. cap
+15 pupils, $72                                                                                    Smoky River (St.
+                 Voted        7     12     19      18           9     10 ...      ...   ... ...
+p. cap                                                                                            Augustine).
+80 pupils, $72
+                 Voted        38    40     78      73           24 23 16 10 5 ... St. Albert.
+p. cap
+25 pupils, $72
+                 Voted        6     6      12     11            10 2        ...   ...   ... ... Thunderchild's.
+p. cap
+25 pupils, $72
+                 Voted        25    ...    25     23            11 9        1     4     ... ... White Eagle.
+p. cap
+...              ...          540   510    1050 945             446 215 191 141 47 10 Total N.W.T.
+
+
+
+=== EXTRACT FROM HERE (pages 732-732) ===
+<!-- page 732 -->
+SHOWING the Condition of Indian Industrial Schools in the Dominion for the Year ended June 30, 1901.
+ School.               Situation.                   Principal.       Denomination.     Grant.
+
+                          ...                          ...               ...                ...

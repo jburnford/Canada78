@@ -1,0 +1,185 @@
+school_id,irs_school_id,tier,score,our_name,irs_name,irs_years,our_years,province,evidence
+SCH-00001,65,T3,0.7,"Lesser Slave Lake, Peace River",St. Augustine,1900-1907,1897-1897,,reserve/agency peace river
+SCH-00005,65,T3,0.7,Lesser Slave Lake Day,St. Augustine,1900-1907,1896-1896,,reserve/agency peace river
+SCH-01533,8,T2,0.8,St. Matthew's Mission,Fleming Hall,1955-1976,1900-1909,,contain matthews ~ matthews anglican hostel
+SCH-01534,15,T1,1.0,St. Peter's Mission.,Hay River,1895-1937,1900-1901,,exact peter s
+SCH-01535,53,T3,0.7,Fort Chippewyan,Edmonton,1924-1968,1898-1898,,reserve/agency edmonton
+SCH-01536,53,T3,0.7,Herschel Island.,Edmonton,1924-1968,1901-1907,,reserve/agency edmonton
+SCH-01538,9,T2,0.8,Providence Mis. (Sacred Heart),Sacred Heart,1906-1960,1898-1898,,contain providence mis sacred heart ~ sacred heart
+SCH-01610,15,T2,0.8,Hay R. (St. Peter's Mis'n),Hay River,1895-1937,1906-1906,,contain hay r peter s mis n ~ peter s
+SCH-00023,84,T3,0.7,C.E,St. Anthony's,1894-1974,1902-1902,,reserve/agency onion lake
+SCH-00024,63,T3,0.7,R.C.,Sacred Heart,1887-1961,1902-1902,,reserve/agency peigan
+SCH-00025,36,A,1.0,Coqualeetza Industrial Home,Coqualeetza,1889-1940,1897-1897,BRITISH COLUMBIA,alias coqualeetza -> Coqualeetza
+SCH-00027,34,T1,1.0,William's Lake Industrial,Cariboo,1891-1981,1896-1897,BRITISH COLUMBIA,exact william s lake
+SCH-00028,43,A,1.0,Port Simpson Girls' Home,Port Simpson,1892-1948,1896-1921,BRITISH COLUMBIA,alias port simpson -> Port Simpson
+SCH-00031,40,A,1.0,Kuper Island Industrial,Kuper Island,1890-1975,1896-1896,BRITISH COLUMBIA,alias kuper island -> Kuper Island
+SCH-00032,43,T2,0.8,Port Simpson Boy's Home,Port Simpson,1892-1948,1909-1909,BRITISH COLUMBIA,contain port simpson boy s ~ port simpson
+SCH-01126,46,A,1.0,Alert Bay Girls' Home,St. Michael's,1894-1974,1897-1924,BRITISH COLUMBIA,alias alert bay -> Alert Bay
+SCH-00037,46,A,1.0,Alert Bay Industrial,St. Michael's,1894-1974,1896-1923,BRITISH COLUMBIA,alias alert bay -> Alert Bay
+SCH-00038,36,T2,0.8,Alert Bay. Coqualeetza,Coqualeetza,1889-1940,1899-1899,BRITISH COLUMBIA,contain alert bay coqualeetza ~ coqualeetza
+SCH-00043,38,A,1.0,Kamloops Industrial,Kamloops,1890-1978,1896-1897,BRITISH COLUMBIA,alias kamloops -> Kamloops
+SCH-00044,37,A,1.0,Kootenay Industrial,Cranbrook,1890-1970,1896-1897,BRITISH COLUMBIA,alias kootenay -> Cranbrook
+SCH-01127,43,A,1.0,Port Simpson,Port Simpson,1892-1948,1924-1930,BRITISH COLUMBIA,alias port simpson -> Port Simpson
+SCH-00046,45,T1,1.0,St. Mary's Boarding,St. Mary's,1867-1984,1896-1897,BRITISH COLUMBIA,exact mary s
+SCH-01128,45,T1,1.0,St. Mary's Mission,St. Mary's,1867-1984,1919-1930,BRITISH COLUMBIA,exact mary
+SCH-00051,36,A,1.0,Coqualeetza Home,Coqualeetza,1889-1940,1896-1909,BRITISH COLUMBIA,alias coqualeetza -> Coqualeetza
+SCH-00054,36,T2,0.8,Coqualeetza H'm,Coqualeetza,1889-1940,1901-1901,BRITISH COLUMBIA,contain coqualeetza h m ~ coqualeetza
+SCH-01131,46,A,1.0,Alert Bay,St. Michael's,1894-1974,1897-1930,BRITISH COLUMBIA,alias alert bay -> Alert Bay
+SCH-00070,40,A,1.0,Kuper Island,Kuper Island,1890-1975,1897-1930,BRITISH COLUMBIA,alias kuper island -> Kuper Island
+SCH-00073,34,A,1.0,Williams Lake,Cariboo,1891-1981,1898-1920,BRITISH COLUMBIA,alias williams lake -> Cariboo
+SCH-00086,36,A,1.0,Coqualeetza,Coqualeetza,1889-1940,1910-1930,BRITISH COLUMBIA,alias coqualeetza -> Coqualeetza
+SCH-01133,41,A,1.0,Fraser Lake,Lejac,1917-1976,1921-1930,BRITISH COLUMBIA,alias fraser lake -> Lejac
+SCH-01135,44,T1,1.0,St. George's,St. George's,1901-1979,1928-1930,BRITISH COLUMBIA,exact george s
+SCH-01132,41,A,1.0,Stuart Lake,Lejac,1917-1976,1917-1920,BRITISH COLUMBIA,alias stuart lake -> Lejac
+SCH-01138,35,A,1.0,Clayoquot,Christie (First Location),1900-1983,1900-1919,BRITISH COLUMBIA,alias clayoquot -> Christie
+SCH-00127,45,T1,1.0,St. Mary's,St. Mary's,1867-1984,1898-1918,BRITISH COLUMBIA,exact mary s
+SCH-01140,32,A,1.0,Ahousaht,Ahousaht,1904-1940,1896-1930,BRITISH COLUMBIA,alias ahousaht -> Ahousaht
+SCH-01136,35,T2,0.8,Christie,Christie (First Location),1900-1983,1920-1930,BRITISH COLUMBIA,contain christie ~ christie first location
+SCH-00145,38,A,1.0,Kamloops,Kamloops,1890-1978,1898-1930,BRITISH COLUMBIA,alias kamloops -> Kamloops
+SCH-01141,39,A,1.0,Kitamaat,Kitimaat,1908-1941,1912-1930,BRITISH COLUMBIA,alias kitamaat -> Kitimaat
+SCH-00151,37,A,1.0,Kootenay,Cranbrook,1890-1970,1898-1930,BRITISH COLUMBIA,alias kootenay -> Cranbrook
+SCH-01142,48,A,1.0,Squamish,St. Paul's,1899-1959,1900-1930,BRITISH COLUMBIA,alias squamish -> St. Paul's
+SCH-01143,33,A,1.0,Alberni,Alberni,1900-1973,1897-1930,BRITISH COLUMBIA,alias alberni -> Alberni
+SCH-01144,34,A,1.0,Cariboo,Cariboo,1891-1981,1921-1930,BRITISH COLUMBIA,alias cariboo -> Cariboo
+SCH-01145,47,A,1.0,Sechelt,Sechelt,1904-1975,1906-1930,BRITISH COLUMBIA,alias sechelt -> Sechelt
+SCH-01146,44,A,1.0,Lytton,St. George's,1901-1979,1903-1927,BRITISH COLUMBIA,alias lytton -> St. George's
+SCH-01188,43,A,1.0,Port Simpson Girls' Home,Port Simpson,1892-1948,1899-1899,ONTARIO,alias port simpson -> Port Simpson
+SCH-00316,107,T2,0.8,Fort William Orphanage,Fort William,1885-1970,1898-1923,ONTARIO,contain fort william orphanage ~ fort william
+SCH-00319,110,A,1.0,Mount Elgin Institute,Mount Elgin,1867-1946,1896-1923,ONTARIO,alias mount elgin -> Mount Elgin
+SCH-01189,46,A,1.0,Alert Bay Girls Home.,St. Michael's,1894-1974,1899-1899,ONTARIO,alias alert bay -> Alert Bay
+SCH-00356,109,A,1.0,Mohawk Institute,Mohawk Institute,1885-1970,1896-1923,ONTARIO,alias mohawk -> Mohawk Institute
+SCH-00373,104,A,1.0,Cecilia Jeffrey,Cecilia Jeffrey,1902-1976,1912-1930,ONTARIO,alias cecilia jeffrey -> Cecilia Jeffrey
+SCH-00382,113,T2,0.8,Albany Mission,St. Anne's,1906-1976,1900-1930,ONTARIO,contain albany ~ fort albany
+SCH-00387,115,T1,1.0,Shingwauk Home,Shingwauk,1878-1970,1896-1930,ONTARIO,exact shingwauk
+SCH-00393,111,A,1.0,Sioux Lookout,Pelican Lake,1927-1978,1929-1930,ONTARIO,alias sioux lookout -> Pelican Lake
+SCH-01194,116,T2,0.8,Spanish River,Spanish Boys School,1879-1958,1914-1919,ONTARIO,contain spanish river ~ spanish
+SCH-00404,106,A,1.0,Fort Frances,Fort Frances,1906-1974,1912-1930,ONTARIO,alias fort frances -> Fort Frances
+SCH-01195,107,A,1.0,Fort William,Fort William,1885-1970,1924-1930,ONTARIO,alias fort william -> Fort William
+SCH-00434,110,A,1.0,Mount Elgin,Mount Elgin,1867-1946,1902-1930,ONTARIO,alias mount elgin -> Mount Elgin
+SCH-01197,103,A,1.0,Moose Fort,Bishop Horden Hall,1906-1976,1896-1930,ONTARIO,alias moose fort -> Bishop Horden Hall
+SCH-00478,115,T1,1.0,Shingwauk,Shingwauk,1878-1970,1924-1926,ONTARIO,exact shingwauk
+SCH-01199,114,T1,1.0,St. Mary's,St. Mary's,1897-1972,1899-1899,ONTARIO,exact mary s
+SCH-00486,105,A,1.0,Chapleau,Chapleau,1907-1948,1908-1930,ONTARIO,alias chapleau -> Chapleau
+SCH-00490,108,A,1.0,McIntosh,McIntosh,1925-1969,1926-1930,ONTARIO,alias mcintosh -> McIntosh
+SCH-00510,116,A,1.0,Spanish,Spanish Boys School,1879-1958,1920-1930,ONTARIO,alias spanish -> Spanish Boys School
+SCH-01541,113,T2,0.8,Albany,St. Anne's,1906-1976,1896-1898,ONTARIO,contain albany ~ fort albany
+SCH-00516,114,A,1.0,Kenora,St. Mary's,1897-1972,1912-1930,ONTARIO,alias kenora -> St. Mary's
+SCH-00517,109,A,1.0,Mohawk,Mohawk Institute,1885-1970,1924-1930,ONTARIO,alias mohawk -> Mohawk Institute
+SCH-01243,56,T2,0.8,Lesser Slave Lake St. Bernard's,Grouard,1894-1957,1917-1918,Prairies/NWT,contain lesser slave lake bernard s ~ bernard s
+SCH-01249,73,T2,0.8,Whitefish Lake St. Andrews,Whitefish Lake,1908-1950,1911-1911,Prairies/NWT,contain whitefish lake andrews ~ whitefish lake
+SCH-00557,84,T1,1.0,Onion Lake C.E. Boarding,St. Anthony's,1894-1974,1897-1897,Prairies/NWT,exact onion lake
+SCH-01253,84,T1,1.0,"Onion Lake, R.C.",St. Anthony's,1894-1974,1896-1930,Prairies/NWT,exact onion lake
+SCH-01254,80,A,1.0,Muscowequan's,Muscowequan,1889-1997,1897-1923,Prairies/NWT,alias muscowequan s -> Muscowequan
+SCH-00561,144,T1,1.0,St. Boniface Industrial,,0-0,1896-1897,Prairies/NWT,exact boniface
+SCH-00562,67,T1,1.0,St. Joseph's Industrial,St. Joseph's,1884-1922,1896-1897,Prairies/NWT,exact joseph s
+SCH-00564,134,A,1.0,Battleford Industrial,Battleford Industrial School,1883-1914,1896-1897,Prairies/NWT,alias battleford -> Battleford
+SCH-00566,54,A,1.0,Ermineskin's Boarding,Ermineskin,1895-1975,1897-1897,Prairies/NWT,alias ermineskin s -> Ermineskin
+SCH-01257,60,A,1.0,"Lesser Slave Lake, R.C.",Lesser Slave Lake,1895-1932,1898-1902,Prairies/NWT,alias lesser slave lake -> Lesser Slave Lake
+SCH-00569,78,A,1.0,Qu'Appelle Industrial,Lebret,1884-1998,1896-1897,Prairies/NWT,alias qu appelle -> Lebret
+SCH-00572,59,T2,0.8,La la Biche Boarding,Lac la Biche,1893-1898,1897-1897,Prairies/NWT,contain la la biche ~ lac la biche
+SCH-00575,62,T3,0.7,White Eagle Boarding,Old Sun,1886-1971,1896-1897,Prairies/NWT,reserve/agency blackfoot
+SCH-00576,76,A,1.0,File Hills Boarding,File Hills,1889-1949,1897-1897,Prairies/NWT,alias file hills -> File Hills
+SCH-01260,142,T2,0.8,McDougall Orphanage,,0-0,1897-1909,Prairies/NWT,contain t mcdougall orphanage ~ mcdougall
+SCH-00582,141,A,1.0,Red Deer Industrial,,0-0,1896-1897,Prairies/NWT,alias red deer -> Red Deer
+SCH-00583,83,A,1.0,Round Lake Boarding,Round Lake,1887-1950,1896-1897,Prairies/NWT,alias round lake -> Round Lake
+SCH-00592,91,A,1.0,Brandon Industrial,Brandon,1895-1972,1896-1897,Prairies/NWT,alias brandon -> Brandon
+SCH-00594,75,A,1.0,Crowstand Boarding,Crowstand,1889-1915,1896-1897,Prairies/NWT,alias crowstand -> Crowstand
+SCH-00595,85,A,1.0,Duck Lake Boarding,St. Michael's,1894-1996,1897-1897,Prairies/NWT,alias duck lake -> St. Michael's
+SCH-00596,95,A,1.0,Elkhorn Industrial,Elkhorn,1889-1949,1896-1897,Prairies/NWT,alias elkhorn -> Elkhorn
+SCH-00600,62,A,1.0,Old Sun's (St. John's) Boarding,Old Sun,1886-1971,1896-1897,Prairies/NWT,alias old sun s -> Old Sun
+SCH-00602,101,A,1.0,Portage la Prairie,Portage la Prairie,1891-1975,1896-1930,Prairies/NWT,alias portage la prairie -> Portage la Prairie
+SCH-01264,50,T2,0.8,Providence Mission (Sacred Heart),Blue Quills,1898-1990,1896-1930,Prairies/NWT,contain providence sacred heart ~ sacred heart
+SCH-00605,64,T1,1.0,St. Albert Boarding,St. Albert,1873-1948,1896-1897,Prairies/NWT,exact albert
+SCH-01546,53,T3,0.7,St. David's Mission,Edmonton,1924-1968,1900-1911,Prairies/NWT,reserve/agency edmonton
+SCH-00616,77,A,1.0,Gordon's Boarding,Gordon's,1888-1996,1897-1897,Prairies/NWT,alias gordon s -> Gordon's
+SCH-01263,60,A,1.0,Lesser Slave Lake,Lesser Slave Lake,1895-1932,1896-1930,Prairies/NWT,alias lesser slave lake -> Lesser Slave Lake
+SCH-00619,82,A,1.0,Regina Industrial,Regina,1891-1910,1896-1897,Prairies/NWT,alias regina -> Regina
+SCH-01271,81,A,1.0,Emmanuel College,Prince Albert,1894-1997,1897-1909,Prairies/NWT,alias emmanuel college -> Prince Albert
+SCH-01547,57,T2,0.8,Nativity Mission,Holy Angels,1874-1974,1896-1898,Prairies/NWT,contain nativity holy angels ~ holy angels
+SCH-00642,90,A,1.0,Birtle Boarding,Birtle,1888-1970,1896-1897,Prairies/NWT,alias birtle -> Birtle
+SCH-00644,104,A,1.0,Cecilia Jeffrey,Cecilia Jeffrey,1902-1976,1903-1911,Prairies/NWT,alias cecilia jeffrey -> Cecilia Jeffrey
+SCH-01275,10,A,1.0,Fort Resolution,St. Joseph's,1903-1957,1904-1930,Prairies/NWT,alias fort resolution -> Fort Resolution
+SCH-00654,63,A,1.0,Peigan Boarding,Sacred Heart,1887-1961,1896-1896,Prairies/NWT,alias peigan -> Sacred Heart
+SCH-00658,70,A,1.0,Sarcee Boarding,Sarcee,1892-1921,1896-1897,Prairies/NWT,alias sarcee -> Sarcee
+SCH-00669,68,T1,1.0,Blood Boarding,St. Mary's,1898-1988,1896-1897,Prairies/NWT,exact blood
+SCH-01284,96,A,1.0,Fort Alexander,Fort Alexander,1905-1970,1906-1930,Prairies/NWT,alias fort alexander -> Fort Alexander
+SCH-01285,57,T2,0.8,Fort Chipewyan (Holy Angels),Holy Angels,1874-1974,1904-1921,Prairies/NWT,contain fort chipewyan holy angels ~ fort chipewyan
+SCH-01548,8,T1,1.0,Fort McPherson,Fleming Hall,1955-1976,1897-1897,Prairies/NWT,exact fort mcpherson
+SCH-01549,53,T3,0.7,*Irene Training,Edmonton,1924-1968,1898-1898,Prairies/NWT,reserve/agency edmonton
+SCH-00860,84,T1,1.0,Onion Lake (R.C.),St. Anthony's,1894-1974,1898-1930,Prairies/NWT,exact onion lake
+SCH-01289,88,A,1.0,Thunderchild's,Thunderchild,1901-1948,1896-1930,Prairies/NWT,alias thunderchild -> Thunderchild
+SCH-01290,73,A,1.0,Whitefish Lake,Whitefish Lake,1908-1950,1901-1930,Prairies/NWT,alias whitefish lake -> Whitefish Lake
+SCH-01294,74,A,1.0,Lac la Ronge,Beauval,1897-1995,1897-1930,Prairies/NWT,alias lac la plonge -> Beauval
+SCH-01299,71,A,1.0,Sturgeon Lake,Sturgeon Lake,1907-1961,1908-1930,Prairies/NWT,alias sturgeon lake -> Sturgeon Lake
+SCH-01301,52,T3,0.7,Wabiskaw Lake (C.E.),Desmarais,1902-1973,1906-1923,Prairies/NWT,reserve/agency wabasca
+SCH-00739,50,A,1.0,Blue Quills,Blue Quills,1898-1990,1896-1930,Prairies/NWT,alias blue quills -> Blue Quills
+SCH-01607,51,A,1.0,"Crowfoot, R.C",Crowfoot,1900-1968,1900-1900,Prairies/NWT,alias crowfoot -> Crowfoot
+SCH-00743,54,A,1.0,Ermineskin's,Ermineskin,1895-1975,1898-1930,Prairies/NWT,alias ermineskin s -> Ermineskin
+SCH-00746,106,A,1.0,Fort Frances,Fort Frances,1906-1974,1906-1911,Prairies/NWT,alias fort frances -> Fort Frances
+SCH-01306,59,T1,1.0,Lac-la-Biche,Lac la Biche,1893-1898,1898-1898,Prairies/NWT,exact lac la biche
+SCH-01551,53,T3,0.7,Nelson House.,Edmonton,1924-1968,1901-1909,Prairies/NWT,reserve/agency edmonton
+SCH-00697,99,A,1.0,Norway House,Norway House,1899-1967,1896-1930,Prairies/NWT,alias norway house -> Norway House
+SCH-01309,63,A,1.0,Sacred Heart,Sacred Heart,1887-1961,1927-1930,Prairies/NWT,alias sacred heart -> Sacred Heart
+SCH-00767,56,T1,1.0,St. Bernard's,Grouard,1894-1957,1920-1930,Prairies/NWT,exact bernard
+SCH-01311,86,T1,1.0,St. Philips,St. Philip's,1928-1969,1929-1930,Prairies/NWT,exact phillip s
+SCH-01553,53,T3,0.7,York Factory,Edmonton,1924-1968,1901-1911,Prairies/NWT,reserve/agency edmonton
+SCH-00803,57,A,1.0,Holy Angels,Holy Angels,1874-1974,1901-1930,Prairies/NWT,alias holy angels -> Holy Angels
+SCH-01555,53,T3,0.7,Island Lake,Edmonton,1924-1968,1905-1906,Prairies/NWT,reserve/agency edmonton
+SCH-01322,97,T1,1.0,Keeseekouse,Fort Pelly,1905-1913,1906-1914,Prairies/NWT,exact keeseekouse
+SCH-00809,80,T3,0.7,Muscowekwan,Muscowequan,1889-1997,1916-1916,Prairies/NWT,reserve/agency touchwood
+SCH-00810,80,A,1.0,Muscowequan,Muscowequan,1889-1997,1924-1930,Prairies/NWT,alias muscowequan -> Muscowequan
+SCH-00815,68,A,1.0,Rat Portage,St. Mary's,1898-1988,1897-1905,Prairies/NWT,alias rat portage -> St. Mary's
+SCH-01323,65,T2,0.8,Smoky River (St. Augustine),St. Augustine,1900-1907,1901-1908,Prairies/NWT,contain smoky river augustine ~ augustine
+SCH-01324,144,T1,1.0,St. Boniface,,0-0,1898-1905,Prairies/NWT,exact boniface
+SCH-00819,67,T1,1.0,St. Joseph's,St. Joseph's,1884-1922,1898-1923,Prairies/NWT,exact joseph s
+SCH-01328,52,A,1.0,"Wabasca, C.E.",Desmarais,1902-1973,1926-1930,Prairies/NWT,alias wabasca -> Desmarais
+SCH-01608,52,T3,0.7,"Wabisca, R.C.",Desmarais,1902-1973,1927-1927,Prairies/NWT,reserve/agency wabasca
+SCH-01330,62,T3,0.7,White Eagle,Old Sun,1886-1971,1898-1901,Prairies/NWT,reserve/agency blackfoot
+SCH-00839,134,A,1.0,Battleford,Battleford Industrial School,1883-1914,1898-1915,Prairies/NWT,alias battleford -> Battleford
+SCH-01313,93,A,1.0,Cross Lake,Cross Lake,1912-1969,1915-1930,Prairies/NWT,alias cross lake -> Cross Lake
+SCH-00849,76,A,1.0,File Hills,File Hills,1889-1949,1898-1930,Prairies/NWT,alias file hills -> File Hills
+SCH-01556,93,T1,1.0,Jack River,Cross Lake,1912-1969,1905-1905,Prairies/NWT,exact jack river
+SCH-01336,94,T3,0.7,Moose Lake,McKay,1914-1888,1927-1927,Prairies/NWT,reserve/agency pas
+SCH-01338,63,A,1.0,"Peigan, C.E.",Sacred Heart,1887-1961,1899-1926,Prairies/NWT,alias peigan -> Sacred Heart
+SCH-01340,100,A,1.0,Pine Creek,Pine Creek,1890-1969,1899-1930,Prairies/NWT,alias pine creek -> Pine Creek
+SCH-00871,78,A,1.0,Qu'Appelle,Lebret,1884-1998,1898-1930,Prairies/NWT,alias qu appelle -> Lebret
+SCH-00872,83,A,1.0,Round Lake,Round Lake,1887-1950,1898-1930,Prairies/NWT,alias round lake -> Round Lake
+SCH-00874,64,T1,1.0,St. Albert,St. Albert,1873-1948,1898-1930,Prairies/NWT,exact albert
+SCH-00875,58,T1,1.0,St. Bruno's,Joussard,1913-1969,1920-1930,Prairies/NWT,exact bruno s
+SCH-01342,66,T2,0.8,St. Cyprian,St. Cyprian's,1890-1961,1927-1930,Prairies/NWT,contain cyprian ~ cyprian s
+SCH-01350,55,T2,0.8,Vermilion (St. Henri),Fort Vermilion,1903-1968,1898-1930,Prairies/NWT,contain vermilion henri ~ henri
+SCH-01558,69,A,1.0,"Blood, C.E.",St. Paul's,1893-1975,1900-1901,Prairies/NWT,alias blood c e -> St. Paul's
+SCH-00892,79,A,1.0,Cowessess,Marieval,1898-1997,1899-1930,Prairies/NWT,alias cowessess -> Marieval
+SCH-00894,75,A,1.0,Crowstand,Crowstand,1889-1915,1898-1916,Prairies/NWT,alias crowstand -> Crowstand
+SCH-00895,85,A,1.0,Duck Lake,St. Michael's,1894-1996,1898-1930,Prairies/NWT,alias duck lake -> St. Michael's
+SCH-01347,15,A,1.0,Hay River,Hay River,1895-1937,1903-1930,Prairies/NWT,alias hay river -> Hay River
+SCH-00929,62,A,1.0,Old Sun's,Old Sun,1886-1971,1898-1928,Prairies/NWT,alias old sun s -> Old Sun
+SCH-00907,102,A,1.0,Sandy Bay,Sandy Bay,1905-1970,1896-1930,Prairies/NWT,alias sandy bay -> Sandy Bay
+SCH-00909,69,T1,1.0,St. Paul's,St. Paul's,1893-1975,1924-1930,Prairies/NWT,exact paul s
+SCH-01353,51,A,1.0,Crowfoot,Crowfoot,1900-1968,1896-1930,Prairies/NWT,alias crowfoot -> Crowfoot
+SCH-00919,62,T3,0.7,Crowioot,Old Sun,1886-1971,1912-1912,Prairies/NWT,reserve/agency blackfoot
+SCH-00920,53,A,1.0,Edmonton,Edmonton,1924-1968,1924-1930,Prairies/NWT,alias edmonton -> Edmonton
+SCH-00943,77,A,1.0,Gordon's,Gordon's,1888-1996,1898-1930,Prairies/NWT,alias gordon s -> Gordon's
+SCH-00883,141,A,1.0,Red Deer,,0-0,1898-1920,Prairies/NWT,alias red deer -> Red Deer
+SCH-01358,7,T1,1.0,Aklavik,All Saints (Aklavik Anglican Indian Residential School),1936-1959,1927-1930,Prairies/NWT,exact aklavik
+SCH-00936,74,A,1.0,Beauval,Beauval,1897-1995,1919-1930,Prairies/NWT,alias beauval -> Beauval
+SCH-00938,91,A,1.0,Brandon,Brandon,1895-1972,1898-1930,Prairies/NWT,alias brandon -> Brandon
+SCH-00941,95,A,1.0,Elkhorn,Elkhorn,1889-1949,1898-1930,Prairies/NWT,alias elkhorn -> Elkhorn
+SCH-00951,52,A,1.0,Wabasco,Desmarais,1902-1973,1924-1925,Prairies/NWT,alias wabasca -> Desmarais
+SCH-00952,90,A,1.0,Birtle,Birtle,1888-1970,1898-1930,Prairies/NWT,alias birtle -> Birtle
+SCH-00954,68,A,1.0,Kenora,St. Mary's,1898-1988,1906-1911,Prairies/NWT,alias kenora -> St. Mary's
+SCH-01363,61,A,1.0,Morley,Morley,1922-1969,1927-1930,Prairies/NWT,alias morley -> Morley
+SCH-00958,63,A,1.0,Peigan (C.E.),Sacred Heart,1887-1961,1903-1925,Prairies/NWT,alias peigan -> Sacred Heart
+SCH-00959,63,T3,0.7,Peigna (R.C.),Sacred Heart,1887-1961,1910-1910,Prairies/NWT,reserve/agency peigan
+SCH-00962,82,A,1.0,Regina,Regina,1891-1910,1898-1910,Prairies/NWT,alias regina -> Regina
+SCH-01365,70,A,1.0,Sarcee,Sarcee,1892-1921,1898-1921,Prairies/NWT,alias sarcee -> Sarcee
+SCH-00965,68,T1,1.0,Blood (C.E.),St. Mary's,1898-1988,1898-1930,Prairies/NWT,exact blood
+SCH-00967,94,T1,1.0,McKay,McKay,1914-1888,1930-1930,Prairies/NWT,exact mckay
+SCH-01367,87,A,1.0,Guy,Sturgeon Landing,1926-1952,1927-1930,Prairies/NWT,alias guy -> Sturgeon Landing
+SCH-01366,94,T1,1.0,1Pas,McKay,1914-1888,1915-1915,Prairies/NWT,exact pas
+SCH-01560,121,T2,0.8,Fort George,Fort George Church of England,1933-1975,1896-1908,QUEBEC,contain fort george ~ fort george church england
+SCH-01612,139,T2,0.8,Mistassini.,Mistassini Hostels,1971-1978,1904-1904,QUEBEC,contain mistassini ~ student hostels in mistassini
+SCH-01381,123,T3,0.7,Moisie,Sept-Îles,1952-1971,1927-1927,QUEBEC,reserve/agency seven islands
+SCH-01383,131,T1,1.0,St. Paul's Hostel,St. Paul's Hostel,1920-1943,1923-1929,YUKON,exact paul s hospital
+SCH-01562,4,A,1.0,Whitehorse,Whitehorse Baptist,1947-1960,1911-1911,YUKON,alias whitehorse -> Whitehorse Baptist
+SCH-01388,1,A,1.0,Carcross,Carcross,1903-1969,1906-1930,YUKON,alias carcross -> Carcross

@@ -1,0 +1,233 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+<!-- page 806 -->
+400 00                         Band             25    26     51     27             13 18 16 ... 4 ... Moraviantown.
+200 00                         Vote             28    22     50     36             30 ... 16 ... ... 4 Moose Fort.
+300 00                         Band             16    9      25     14             8 5 9 3 ... ... Mud Lake.
+300 00                         Vote.            12    12     24     9              15 1 6 1 1 ... Muncey.
+300 00                         Vote.            3     4      7      3              2 1 2 ... 2 ... (ss)Naughton.
+300 00                         Band             19    16     35     14             11 5 4 12 3 ... New Credit.
+300 00                         Band             9     13     22     13             8 2 8 3 ... 1 Nipissing.
+300 00                         Vote.            15    13     28     16             25 1 2 ... ... ... Oneida No. 2.
+300 00                         Vote             21    9      30     20             20 7 1 2 ... ... Oneida No. 3.
+300 00                         Vote             17    7      24     10             12 12 ... ... ... ... Pic River.
+300 00                         Vote             18    9      27     12             14 6 2 1 4 ... Port Elgin.
+                               Band, $125;
+300 00                                          16    26     42     18             18 5 6 6 5 2 Rama.
+                               Vote, $175
+                                                                                                      River
+300 00                         Band             10    13     23     10             13 6 1 3 ... ...
+                                                                                                      Settlement.
+300 00                         Band             16    13     29     12             13 7 9 ... ... ... Ryerson.
+300 00                         Vote             13    9      22     16             6 7 8 1 ... ... Sagamook.
+350 00                         Band             9     12     21     12             10 4 4 3 ... ... Saugeen.
+                                                                                                       Scotch
+350 00                         Band             10    13     23     15             7 5 5 6 ... ...
+                                                                                                       Settlement.
+
+[*New school. Opened January 3, 1906.]
+
+[(t)Indian children attend white school.]
+
+[(
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                                                                    (Prot.)
+300 00                        Vote         11    21     32       16            22 6 4 ... ... ... Gitwingak.
+300 00                        Vote         14    17     31       20            22 1 6 2 ... ... Glen Vowell.
+300 00                        Vote         16    13     29       10            25 4 ... ... ... ... Gwayasdums.
+300 00                        Vote         12    5      17       8             14 1 2 ... ... ... *Hartley Bay.
+300 00                        Vote         23    13     36       13            22 11 3 ... ... ... (t)Hazelton.
+300 00                        Vote         25    23     48       23            19 15 7 7 ... ... Kincolith.
+300 00                        Vote         25    31     56       32            37 4 14 1 ... ... Kita-maat.
+300 00                        Vote         25    16     41       18            9 11 8 7 6 ... Kitkahtla.
+300 00                        Vote         9     16     25       13            22 3 ... ... ... ... *Kisfiax.
+300 00                        Vote         16    11     27       7             23 4 ... ... ... ... (tt)Kisgegas.
+300 00                        Vote         9     2      11       6             8 1 2 ... ... ... Kyaquot.
+300 00                        Vote         13    12     25       10            23 2 ... ... ... ... Lakalsap.
+300 00                        Vote         20    23     43       18            19 17 7 ... ... ... Massett.
+
+
+
+=== EXTRACT FROM HERE (pages 818-823) ===
+<!-- page 818 -->
+300 00                         Vote             15    15     30   10        19 8 1 2 ... ... Metlakahtla.
+300 00                         Vote             10    13     23   8         14 8 1 ... ... ... Nanaimo.
+...                            ...              6     5      11   5         5 4  ... 2 ... ... New Town.
+300 00                         Vote             12    11     23   8         17 4 1 1 ... ... *Nitanit.
+                                                                                               (||)Ohiaht
+300 00                         Vote             15    9      24   13        17 5 2 ... ... ... (Dodger's
+                                                                                               Cove).
+
+[*Closed during September quarter, 1905.]
+
+[(t)Re-opened September 1, 1905, having been closed since June 30, 1901.]
+
+[(tt)New school opened during the December quarter, 1905.]
+
+[(||)No return received for the December quarter, 1905.]
+
+<!-- page 819 -->
+School.                 Reserve.               Agency.         Teacher.                 Denomination.
+Port Essington          Skeena                 Northwest Coast Miss Kate Tranter        Methodist
+Port Simpson            At Port Simpson        Northwest Coast Miss Emily B. Butchart Methodist
+Quamichan               Quamichan              Cowichan        Miss C. Ordano           Roman Catholic
+Saanich                 Saanich                Cowichan        William Thompson         Roman Catholic
+Skidegate               Queen Charlotte Island Northwest Coast Peter R. Kelly           Methodist
+Somenos                 Somenos                Cowichan        Rev. E.M. Scheelan       Roman Catholic
+Songhees                Songhees               Cowichan        Sr. Mary Joseph          Roman Catholic
+Tsartlip                Tsartlip               Cowichan        Miss Kath. Needham       Roman Catholic
+Ucluelet                Itedse                 West Coast      Mrs. M. Swartout         Presbyterian
+Yuquot                  Yuquot                 West Coast      Rev. Alois S. Stern.     Roman Catholic
+Total, British Columbia ...                    ...             ...                      ...
+MANITOBA.               ...                    ...             ...                      ...
+*Berens River           Berens River           Norway House Miss Louie A. Showler Methodist
+Big Eddy                Pas                    Pas             John Whitehead           Church of England
+Black River             Black River            Norway House George Slater               Church of England
+Brokenhead              Brokenhead             Clandedoye      Mrs. M.L. Coates         Church of England
+Chemawawin              Chemawawin             Pas             Frank Barker             Church of England
+Cross Lake (Prot.)      Cross Lake             Norway House a. McNeill                  Methodist
+Cross Lake (R.C.)       Cross Lake             Norway House Mrs. J. Deschambeault       Roman Catholic
+Cumberland              Cumberland             Pas             Edward Jones             Church of England
+Eagle Lake              Eagle lake             Savanne         James Fox                Church of England
+(t)Ebb and Flow Lake Ebb and Flow Lake         Manitowapah     Miss Eléonore LaCharitie Roman Catholic
+(t)Fairford (Upper)     Fairford               Manitowapah     Chas. H. Fryer           Church of England
+(tt)Fisher River        Fisher River           Norway House J. Brookes Jones            Methodist
+Fort Alexander (Upper) Fort Alexander          Clandeboye      Miss Sophia Spence       Church of England
+Frenchman's Head        Lac Seul               Savanne         Rupert Clough            Church of England
+Grand Rapids            Grand Rapids           Pas             Rev. James Brown         Church of England
+Hollowwater River       Hollowwater River      Norway House John Sinclair               Church of England
+Islington               Islington              Kenora          Daniel W. Wood           Church of England
+Jackhead                Jackhead               Norway House Leonard hart                Church of England
+Jack River              Jack River             Norway House C.A. Wilkins                Church of England
+Lake Manitoba           Lake Manitoba          Manitowapah     L.E. Martel              Roman Catholic
+Lake St. Martin         Lake St. Martin        Manitowapah     Lewis Le Clair           Church of England
+(||)Little Grand Rapids Little Gr'nd Rapids    Norway House William Ivens               Church of England
+Little Saskatchewan     Little Sask'tchew'n    Manitowapah     John E. Favell           Church of England
+Long Sault              Long Sault             Fort Frances    Miss B. Johnston         Church of England
+
+[*Closed during September and December quarter, 1905.]
+
+[(t)Closed during September quarter, 1905.]
+
+<!-- page 820 -->
+[(tt)Closed during December quarter, 1905.]
+
+[(||)This school is open during the summer months only.]
+
+<!-- page 821 -->
+Appropriation for Salary or From what
+                                         NUMBER ON ROLL.                     STANDARD.                     School.
+yearly grant.               Fund paid.
+                                                               Average
+...                        ...           Boys. Girls. Total.                 I     II    III IV V VI ...
+                                                               Attendance.
+$ cts.                     ...           ...   ...    ...      ...           ...   ...   ... ... ... ... ...
+                                                                                                           Port
+300 00                     Vote          21    23     44       19            15 19 3 6 1 ...
+                                                                                                           Essington.
+300 00                     Vote          34    18     52       13            21    24    7 ... ... ... Port Simpson.
+300 00                     Vote          18    9      27       12            18    8     1 ... ... ... Quamichan.
+300 00                     Vote          11    7      18       8             12    5     1 ... ... ... Saanich.
+300 00                     Vote          11    11     22       11            12    5     4 1 ... ... Skidegate.
+300 00                     Vote          12    2      14       5             10    3     ... 1 ... ... Somenos.
+300 00                     Vote          7     10     17       8             10    4     ... 3 ... ... Songhees.
+300 00                     Vote          12    10     22       10            11    6     5 ... ... ... Tsartlip.
+300 00                     Vote          9     12     21       9             13    5     3 ... ... ... Ucluelet.
+300 00                     Vote          10    12     22       8             15    7     ... ... ... ... Yuquot.
+                                                                                                         Total, British
+...                        ...           547   458    1005 414               610 245 95 44 9 2
+                                                                                                         Columbia.
+...                        ...           ...   ...    ...      ...           ...   ...   ... ... ... ... MANITOBA.
+                                                                                                         *Berens
+300 00                     Vote          10    18     28       8             19 5        3 1 ... ...
+                                                                                                         River.
+300 00                     Vote          12    13     25       11            19    6     ... ... ... ... Big Eddy.
+300 00                     Vote          4     8      12       6             10    2     ... ... ... ... Black River.
+300 00                     Vote          12    14     26       11            10    8     5 3 ... ... Brokenhead.
+300 00                     Vote          18    7      25       13            16    7     2 ... ... ... Chemawawin.
+                                                                                                           Cross Lake
+300 00                     Vote          10    4      14       5             10 3        1 ... ... ...
+                                                                                                           (Prot.)
+                                                                                                         Cross Lake
+300 00                     Vote          8     18     26       11            18 8        ... ... ... ...
+                                                                                                         (R.C.)
+300 00                     Vote          16    17     33       10            33 ...      ... ... ... ... Cumberland.
+300 00                     Vote          8     8      16       5             13 3        ... ... ... ... Eagle Lake.
+                                                                                                           (t)Ebb and
+300 00                     Vote          11    7      18       10            14 2        2 ... ... ...
+                                                                                                           Flow Lake.
+                                                                                                           (t)Fairford
+300 00                     Vote          6     11     17       9             9     6     2 ... ... ...
+                                                                                                           (Upper).
+                                                                                                           Fairford
+300 00                     Vote          17    16     33       16            24 6        3 ... ... ...
+                                                                                                           (Lower).
+                                                                                                         (tt)Fisher
+300 00                     Vote          27    23     50       14            43 5        ... 1 1 ...
+                                                                                                         River.
+                                                                                                         Fort
+300 00                     Vote          14    10     24       12            21 3        ... ... ... ... Alexander
+                                                                                                         (Upper).
+                                                                                                           Frenchman's
+300 00                     Vote          13    8      21       6             18 3        ... ... ... ...
+
+<!-- page 822 -->
+                                                                                          Head.
+300 00                       Vote             12    14     26   16   18 4     3 1 ... ... Grand Rapids.
+                                                                                         Hollowwater
+300 00                       Vote             9     9      18   6    9   5    4 ... ... ...
+                                                                                         River.
+300 00                       Vote             7     9      16   7    7 4 5 ... ... ... Islington.
+300 00                       Vote             7     7      14   9    9 5 ... ... ... ... Jackhead.
+200 00                       Vote             28    23     51   19   33 13 5 ... ... ... Jack River.
+                                                                                                Lake
+300 00                       Vote             8     5      13   8    4   5    4 ... ... ...
+                                                                                                Manitoba.
+                                                                                                Lake St.
+300 00                       Vote             25    12     37   18   19 11 3 4 ... ...
+                                                                                                Martin.
+                                                                                                (||)Little
+150 00                       Vote             25    21     46   19   46 ...   ... ... ... ...
+                                                                                                Grand Rapids.
+                                                                                            Little
+300 00                       Vote             6     8      14   8    10 2     2 ... ... ...
+                                                                                            Saskatchewan.
+300 00                       Vote             5     11     16   7    8   5    3 ... ... ... Long Sault.
+
+[*Closed during September and December quarter, 1905.]
+
+[(t)Closed during September quarter, 1905.]
+
+[(tt)Closed during December quarter, 1905.]
+
+[(||)This school is open during the summer months only.]
+
+<!-- page 823 -->
+School.              Reserve.       Agency.            Teacher.              Denomination.
+*Manitou Rapids      Manitou Rapids Fort Frances       R.H. Bagshaw          Church of England
+Moose Lake           Moose Lake     Pas                Walter C. Lundie      Church of England
+Muckles Creek        St. Peters     Clandeboye         Miss C. FitzGerald    Church of England
+(t)Oak River (Sioux) Oak River      Birtle             C. DeL. Harris        Church of England
+Okanase              Okanase        Birtle             Jas. A. Macalister    Presbyterian
+Pas                  Pas            Pas                Ronald F. McDougall Church of England
+Pine Creek           Pine Creek     Manitowapah        Rev. A. Chaumont      Roman Catholic
+Poplar River         Poplar River   Norway House James T. Blackford          Methodist
+Red Earth            Red Earth      Pas                John G. Kennedy       Church of England
+Roseau Rapids        Roseau Rapids Portage la Prairie Miss Emma McMahon. Undenominational
+Rossville            Norway House Norway House Miss E.J. Armstrong           Methodist
+Seine River          Seine River    Fort Frances       Peter Spence          Undenominational
+Shoal Lake           Pas Mountain Pas                  Louis Cochrane        Church of England
+Shoal River          Shoal River    Manitowapah        Rev. T.H. Dobbs       Church of England
+St. Peters (North)   St. Peters     Clandeboye         R.S. Aston            Church of England
+St. Peters (South)   St. Peters     Clandeboye         Miss C.E.M. Ridgeway Church of England
+St. Peters (East)    St. Peters     Clandeboye         Peter Harper          Church of England
+St. Peters (R.C.)    St. Peters     Clandeboye         Miss Mary Fitz Gerald Roman Catholic
+Swan Lake            Swan Lake      Portage la Prairie K. Cameron            Presbyterian
+Wabigoon             Wabigoon       Savanne            J.S. Newton           Church of England
+Waterhen River       Waterhen River Manitowapah        Lucien Guillot        Roman Catholic
+Total, Manitoba      ...            ...                ...                   ...
+
+[*School closed from September 30, 1905.]
+
+[(t)School closed during March and June quarters, 1906.]
+

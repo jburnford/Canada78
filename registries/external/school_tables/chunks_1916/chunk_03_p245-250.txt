@@ -1,0 +1,212 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT OF Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal Year ended March 31, 1916.
+
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading book used and, therefore, shows the degree of general
+advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I   Standard IV Third Reader.
+Standard II Second Reader Part II Standard V Fourth Reader.
+Standard III Second Reader        Standard VI Fifth Reader.
+
+
+
+                                                                                 Number on Roll.     Average     Standard.
+School.           Reserve.        Agency.          Teacher.      Denomination.                                                      School.
+                                                                                 Boys. Girls. Total. Attendance. I   II III IV V VI
+NOVA                                                                                                                                         NOVA
+                  ...             ...              ...           ...             ...   ...    ...   ...          ...   ... ... ... ... ...
+SCOTIA.                                                                                                                                      SCOTIA.
+                                                   Miss
+                                                                 Roman
+Bear River        Bear River      Digby County     Agatha                        8     3      11    7            5     ... 2 1 ... 3 Bear River
+                                                                 Catholic
+                                                   McGinty
+                                 Cape Breton       James         Roman
+Eskasoni          Eskasoni                                                       13    11     24    13           17 1 2 4 ... ... Eskasoni
+                                 County            McNeil        Catholic
+                                 Cape Breton       Miss Eileen Roman
+Sydney           Sydney                                                          15    12     27    15           12 8 5 1 1 ... Sydney
+                                 County            Boyle       Catholic
+                 Franklin        Cumberland        Miss Annie Roman                                                                          1Halfway
+1Halfway 
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+         9    14   23   13   17 6      ... ... ... ... Pas
+                                            Chambers
+                                            Francis
+Red Earth       Red Earth     Pas                        Anglican         17   10   27   14   18 6      3 ... ... ... Red Earth
+                                            Daniels
+                                            Louis
+Shoal Lake      Pas           Pas                        Anglican         7    11   18   14   14 1      2 1 ... ... Shoal Lake
+                                            Young
+Lower Roseau              Portage-la-       Miss Emma                                                                     Lower
+             Roseau River                             Roman Catholic      9    13   22   7    18 4      ... ... ... ...
+River                     Prairie           Godin                                                                         Roseau River
+Roseau          Roeseau       Portage-la-   Miss Olive                                                                    Roseau
+                                                         Undenominational 11   8    19   6    11 6      1 1 ... ...
+
+
+
+=== EXTRACT FROM HERE (pages 245-250) ===
+<!-- page 245 -->
+Rapids         Rapids        Prairie       E. Leslie                                                                            Rapids
+                             Portage-la-   Miss Jessie
+Swan Lake      Swan Lake                               Presbyterian        8     8     16     4           9   2    4 1 ... ... Swan Lake
+                             Prairie       G. Bruce
+Total,                                                                                                                          Total,
+               ...           ...           ...          ...                624   583   1207 520           887 187 94 30 4 10
+Manitoba                                                                                                                        Manitoba
+
+[1White school attended by Indian children. 2Open during the summer only. 3Closed from April 30 to October 25, 1915. No teacher. 4Re-opened
+August 16, 1915, having been closed since June 30, 1914. 5New day school opened February, 1916. 6Day pupils attend classes in the Boarding
+School. 7Closed from June 30, 1915. 8Re-opened September 1, 1915. 9Only one quarterly return received.]
+
+<!-- page 246 -->
+Table, see page 124
+
+<!-- page 247 -->
+                                                                             Number on Roll. Average         Standard.
+School.            Reserve.       Agency.      Teacher.     Denomination.                                                            School.
+                                                                             Boys. Girls. Total. Attendance. I   II III IV V VI
+SASKATCHEWAN. ...                 ...         ...           ...              ...   ...    ...    ...         ... ... ... ... ... ... SASKATCHEWAN.
+                                              Miss
+Assiniboine        Assiniboine    Assiniboine Gertrude      Presbyterian     14    16    30    15         13 4       6 7 ... ... Assiniboine
+                                              Lawrence
+                                               Rev. W.H.
+Little Pines       Little Pines   Battleford             Anglican            13    12    25    12         13 12 ... ... ... ... Little Pines
+                                               English
+                                               Roch
+Murray Lake        Moosomin       Battleford               Roman Catholic    11    16    27    9          21 3       3 ... ... ... Murray Lake
+                                               Landreville
+                                               Mrs. A.
+Poundmakers        Poundmakers Battleford                   Roman Catholic   10    8     18    10         13 5       ... ... ... ... Poundmakers
+                                               Tierney
+Red Pheasants      Red Pheasant Battleford     J. Marshall Anglican          13    14    27    24         24 2       ... 1 ... ... Red Pheasants
+                                               H.
+Ahtahkakoops       Ahtahkakoops Carlton                   Anglican           20    22    42    24         24 8       5 4 1 ... Ahtahkakoops
+                                               Hutchinson
+                                               L.
+Big River          Kenamotayoos Carlton                     Anglican         13    14    26    12         19 3       3 1 ... ... Big River
+                                               Abenakeu
+                                               Eliza
+Meadow Lake        Meadow Lake Carlton                      Roman Catholic   7     4     11    3          11 ...     ... ... ... ... Meadow Lake
+                                               Chatelain
+                                               Rev., J.E.
+Mistawasis         Mistawasis     Carlton                   Presbyterian     20    18    38    19        26 5        2 5 ... ... Mistawasis
+                                               Smith
+                                               John R.
+Montreal Lake      Montreal Lake Carlton                    Anglican         9     16    25    12        13 8        4 ... ... ... Montreal Lake
+                                               Settee
+                                               George
+Sturgeon Lake      Wm. Twatts     Carlton                   Anglican         19    11    30    20        12 11 5 2 ... ... Sturgeon Lake
+                                               Swift
+                                            John
+Fort à la Corne                                                                                                                      Fort à la Corne
+                   James Smith    Duck Lake Leonard         Anglican         12    11    23    12        9     9     1 4 ... ...
+(South)                                                                                                                              (South)
+                                            Lowe
+                                               P.H.
+John Smith         John Smiths    Duck Lake              Anglican            20    14    34    22        12 7        1 4 8 2 John Smith
+                                               Gentleman
+                                               Henry W.
+James Smith        James Smith    Duck Lake                 Anglican         10    18    28    15        16 10 2 ... ... ... James Smith
+                                               Shaw
+                                               Mrs.
+                                  Moose        E.M.A.
+White Bears        White Bears                           Presbyterian        12    11    23    13        3     2     13 5 ... ... White Bears
+                                  Mountain     Fernie,
+                                               (teacher)
+                                               Mrs. Body
+...                ...            ...          (assist.  ...                 ...   ...   ...   ...       ...   ...   ... ... ... ... ...
+                                               Teacher)
+                                  Moose        Charles
+1White Cap Sioux   Moose Woods                              Methodist        11    6     17    11        14 3        ... ... ... ... 1White Cap Sioux
+                                  Woods        Hawk
+                                               Alex J.
+Keys               Keys           Pelly                     Anglican         6     8     14    10        11 3        ... ... ... ... Keys
+                                               Lawes
+                                               Rev. Jos.
+Keeseekoonse       Keeseekoonse Pelly          Poulet,      Roman Catholic   10    8     18    15        2     6     5 ... 5 ... Keeseekoonse
+                                               O.M.I.
+
+<!-- page 248 -->
+                                                 Peter
+2Valley River        Valley River   Pelly                    Undenominational 11    2     13    10    7     2     4 ... ... ... 2Valley River
+                                                 Rattlesnake
+                                              W.H.
+                                    Touchwood
+Day Stars            Day Stars                Brookfield- Anglican            6     5     11    8     4     3     4 ... ... ... Day Stars
+                                    Hills
+                                              Scharpe
+                                                 Charles
+Frog Lake            Frog Lake      Onion Lake               Anglican         5     4     9     4     7     2     ... ... ... ... Frog Lake
+                                                 Quinney
+                                    Treaty       Miss M.E.
+3Stanley             Amos Charles                          Anglican           2     8     10    9     10 ...      ... ... ... ... 3Stanley
+                                    No. 10       Coates
+Total, Saskatchewan ...             ...          ...         ...              254   245   499   289   284 108 58 33 14 2 Total, Saskatchewan
+ALBERTA.            ...             ...          ...         ...              ...   ...   ...   ...   ... ... ... ... ... ... ALBERTA.
+                                                 Mrs. H.H.
+                                    Saddle
+2Goodfish Lake       Pakan                       Howard      Methodist        14    12    26    15    17 9        ... ... ... ... 2Goodfish Lake
+                                    Lake
+                                                 (teacher)
+                                                 Mr. H.H.
+                                                 Howard
+...                  ...            ...                      ...              ...   ...   ...   ...   ...   ...   ... ... ... ... ...
+                                                 (assist.
+                                                 Teacher)
+                                    Saddle       Miss W.J.
+Saddle Lake          Saddle Lake                            Methodist         13    9     22    8     20 2        ... ... ... ... Saddle Lake
+                                    Lake         McKittrick
+                                                 Miss A.
+Samson's             Samson's       Hobbema                  Methodist        12    14    26    9     17 6        3 ... ... ... Samson's
+                                                 Alywin
+Total, Alberta       ...            ...          ...         ...              39    35    74    31    54 17 3 ... ... ... Total, Alberta
+BRITISH                                                                                                                             BRITISH
+                     ...            ...          ...         ...              ...   ...   ...   ...   ...   ...   ... ... ... ...
+COLUMBIA.                                                                                                                           COLUMBIA.
+                                                 Vernon
+Andimaul             At Andimaul    Babine                   Salvation Army   12    11    23    11    14 6        2 1 ... ... Andimaul
+                                                 Leake
+                                                 Jos.
+Fort Babine          Fort Babine    Babine                   Roman Catholic   24    29    53    24    20 16 14 3 ... ... Fort Babine
+                                                 Morrissey
+                                                 Miss F.B.
+Gitwingak            Kitwangar      Babine                   Anglican         24    21    45    13    29 9        3 4 ... ... Gitwingak
+                                                 Kemp
+                                                 Miss Pearl
+Glen Vowell          Sicedach       Babine                  Salvation Army    15    19    34    17    11 18 3 2 ... ... Glen Vowell
+                                                 Jackson
+                                                 Miss
+Hazelton             Gitamakeh      Babine       Elizabeth J. Anglican        15    22    37    13    10 15 5 5 2 ... Hazelton
+                                                 Soal
+                                                 Miss
+Kitsegukla           Kitsegukla     Babine       Hannah A. Methodist          8     9     17    12    10 7        ... ... ... ... Kitsegukla
+                                                 Edgar
+                                                 Franklin
+Kitselas (New town) Kitselas        Babine       Van          Methodist       8     11    19    7     7     6     6 ... ... ... Kitselas (New town)
+                                                 Gorder
+                                                 Miss
+Kispiox              Kishfiax       Babine       Gertrude     Methodist       18    26    44    14    19 20 5 ... ... ... Kispiox
+                                                 Marten
+                                                 Jonathan
+4Kisgegas            Kisgegas       Babine                   Anglican         14    7     21    6     10 4        2 5 ... ... 4Kisgegas
+                                                 Mercer
+
+<!-- page 249 -->
+                      At                         Miss S.Z.
+Meanskinisht                       Babine                   Methodist           5     10     15    9           7    2   4 1 1 ... Meanskinisht
+                      Meanskinisht               Richardson
+                      At Rocher                  Sydney
+Rocher Deboulé                       Babine                  Roman Catholic     14    13     27    19          19 6     2 ... ... ... Rocher Deboulé
+                      Deboulé                    Browning
+
+[1Closed from September 20, 1915 to February 1, 1916, no teacher. 2Closed during September quarter, 1915. 3New day school, opened January 1, 1916. 4Re-
+opened September 1, 1915.]
+
+<!-- page 250 -->
+Table, see page 126
+

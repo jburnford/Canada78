@@ -1,0 +1,13 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0818-school-statement	SCHOOL STATEMENT	818	823
+01	p0818-school-statement	SCHOOL STATEMENT	824	829
+02	p0818-school-statement	SCHOOL STATEMENT	830	835
+03	p0818-school-statement	SCHOOL STATEMENT	836	841
+04	p0818-school-statement	SCHOOL STATEMENT	842	847
+05	p0818-school-statement	SCHOOL STATEMENT	848	853
+06	p0818-school-statement	SCHOOL STATEMENT	854	859
+07	p0818-school-statement	SCHOOL STATEMENT	860	861
+08	p0866-school-statement-alberta	SCHOOL STATEMENT — Alberta	866	871
+09	p1006-school-statement-quebec	SCHOOL STATEMENT — Quebec	1006	1007
+10	p1009-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	1009	1010
+11	p1012-school-statement-british-colum	SCHOOL STATEMENT — British Columbia	1012	1012

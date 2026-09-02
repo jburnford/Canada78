@@ -1,0 +1,184 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+SHOWING the Condition of Indian Day Schools in the Dominion (from which Returns have been received) for
+the Year ended June 30, 1901.
+ School.           Reserve.       Agency.          Teacher.           Denomination.
+
+                   ...               ...              ...                  ...
+ONTARIO
+Alnwick              Alnwick            Alnwick         Wm. J. Garland       Methodist
+Back Settlement      Caradoc            Caradoc         Miss Bessie Ward     Undenomimtional
+Bear Creek           Caradoc            Caradoc         Miss Martha Nicholls Undenominational
+Buzwah               Manitoulin Island. Manitowaning David Craddock          Roman Catholic
+Cape Croker          Cape Croker        Cape Croker     Miss Rachel Glazier Undenominational
+*Christian Island    Christian Island Penetanguishene Alfred McCue           Methodist
+Fort William (boys) Fort William        Western         Sister M. Ambrose    Roman Catholic.
+Fort William (girls) Fort William       Western         Sister M. Ambrose    Roman Catholic
+French Bay           Saugeen            Saugeen         T.J. Wallace         Undenominational
+Garden River (B.C.) Garden River        Sault St. Marie Rev. H. Caron S.J.   Roman Catholic
+Garden River (C.E.) Garden River        Sault St. Marie Miss Ethel M. Frost Church of England
+Georgian Island      Georgian Island Rama               C.B. Oakley          Methodist
+(t)Gibson            Watha              Parry Sound     A. Kniewasser        Methodist
+Golden Lake          Golden Lake        Golden Lake     Lucinda M. Casey     Roman Catholic
+Henvey Inlet         Henvey Inlet       Parry Sound     Adda McIntosh        Undenominational
+Hiawatha             Rice Lake          Alnwick         J.A. Windsor         Methodist
+Jackfish Island    Jackfish Island   Western          J.A. Blais            Roman Catholic
+Kettle Point       Kettle Point      Sarnia           Miss Ethel E. Jacobs Undenominational
+Lake Helen         Red Rock          Western          Mrs. J.H. McKay       Roman Catholic
+Mattawa            At Mattawa        Western          Rev. Sis. St. Gregory Roman Catholic
+Michipicoten       Michipicoten      Sault Ste. Marie Miss Teresa Clarke Roman Catholic
+(tt)Missinabie     ...               Sault Ste. Marie M.A. Oldham           Undenominational
+Mission River      Mississagi        Thessalon        Miss Lucy Heiss       Roman Catholic
+Moraviantown       Moravian          Moravian         Miss Mary J. Smith Undenomi
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+              England
+                              At St. John's Mission, Wabiscow In Treaty No.                            Church of
+Wabiscow Lake (C.E.)                                                        Miss Eliza A. Scott
+                              Lake                            8                                        England
+                              At St. Martin's Mission            In Treaty No. B. Henri Giroux,        Roman
+Wabiscow Lake (R.C)
+                              Wabiscow Lake                      8             O.M.I.                  Catholic
+                                                                 In Treaty No.
+White Cap Sioux               Moose Woods                                      Mrs. W.R. Tucker        Methodist
+                                                                 8
+ Whitefish Lake               James Seenum's                    Saddle Lake Miss J.S.R. Batty          Methodist
+ Total, N.W.T                 ...                               ...               ...                  ...
+[*Only one return received.] [(t)Day pupils at the boarding school.] [(tt)No return received for September quarter,
+1900 quarter, 1900.]
+
+
+
+=== EXTRACT FROM HERE (pages 722-726) ===
+<!-- page 722 -->
+Appropriation for Salary or From what    NUMBER ON            Average
+                                                                           STANDARD                  School.
+yearly grant.               Fund paid.   ROLL                 Attendance
+...                        ...           Boys. Girls. Total. ...           I     II III IV V VI ...
+
+$ cts.                     ...           ...    ...   ...     ...          ...... ... ... ... ... NORTHWEST
+                                                                                                  TERRITORIES
+300 00                     Voted         7      9     16      9            11 1 2 1 1 ... Attakakoop.
+300 00                     Voted         3     4      7      1             7     ... ... ... ... ... Big River.
+300 00                     Voted         12    11     23     11            23    ... ... ... ... ... Bull's Horn.
+$12 per capita             Voted         13    8      21     10            19    2 ... ... ... ... Crowfoot.
+300 00                     Voted         7     7      14     12            5     3 3 3 ... ... Day Star.
+300 00                     Voted         16    9      25     15            17    5 1 2 ... ... Goodfish Lake.
+300 00                     Voted         4     7      11     9             10    1 ... ... ... ... Irene Training.
+300 00                     Voted         14    11     25     7             22    2 1 ... ... ... James Smith's.
+300 00                     Voted         6     8      14     6             10    2 2 ... ... ... John Smith's.
+300 00                     Voted         14    6      20     9             17    3 ... ... ... ... Joseph's.
+300 00                     Voted         3     11     14     7             8     3 3 ... ... ... Keys.
+300 00                     Voted         4     4      8      4             5     2 ... 1 ... ... Keeseekouse.
+300 00                     Voted         11    15     26     12            23    3 ... ... ... ... Lac la Ronge
+300 00                     Voted         4     10     14     7             10    3 1 ... ... ... Little Pine's.
+300 00                     Voted         5     3      8      4             5     ... 3 ... ... ... Louis Bulls's.
+...                        ...           4     4      8      6             8     ... ... ... ... ... Meadow Lake.
+300 00                     Voted         11    4      15     7             12    2 1 ... ... ... Mistawasis.
+300 00                     Voted         10    8      18     11            6     10 2 ... ... ... Montreal Lake.
+                                                                                                   Oak River
+300 00                     Voted         7     6      13     5             9     2 2 ... ... ...
+                                                                                                   Sioux.
+300 00                     Voted         7     6      13     7             8     1 4 ... ... ... Okanase.
+300 00                     Voted         9     10     19     9             10    6 3 ... ... ... Poundmaker's.
+300 00                     Voted         11    10     21     12            15    2 3 1 ... ... Red Pheasant.
+300 00                     Voted         8     2      10     5             8     2 ... ... ... ... Saddle Lake.
+300 00                     Voted         11    11     22     5             21    ... 1 ... ... ... Sampson's.
+300 00                     Voted         7     13     20     12            16    2 2 ... ... ... Shoal River.
+300 00                     Voted         6     5      11     7             5     4 1 1 ... ... Sioux Mission.
+300 00                     Voted         4     6      10     10            6     1 3 ... ... ... St. Anthony's.
+300 00                     Voted         12    5      17     3             16    1 ... ... ... ... Sturgeon Lake.
+300 00                     Voted         2     4      6      2             3     1 2 ... ... ... Sweet Grass.
+                                                                                                     Thunderchild's
+300 00                     Voted         7      3     10      5            6     4 ... ... ... ...
+                                                                                                     (C.E.)
+                                                                                                     Wabiscow Lake
+300 00                     Voted         8      14    22      12           12 5 4 1 ... ...
+                                                                                                     (C.E.)
+                                                                                                     Wabiscow Lake
+300 00                     Voted         7     5      12      12           3     5 4 ... ... ...
+                                                                                                     (R.C.)
+
+<!-- page 723 -->
+                                                              White Cap
+300 00   Voted   5     7     12    8     1   5 2 3 1 ...
+                                                              Sioux.
+300 00   Voted   6     11    17    9     16 1 ... ... ... ... Whitefish Lake.
+...      ...     265   257   522   270   373 84 50 13 2 ... Total, N.W.T.
+
+<!-- page 724 -->
+School                       District                                     Teacher             Denomination
+
+OUTSIDE TREATY               ...                                          ...                 ...
+LIMITS
+                                                                                              Church of
+Albany Mission               Moosonee diocese, James Bay                  Robert J.Renison
+                                                                                              England
+                                                                                              Church of
+Herschel Island              McKenzie River District                      W.D. Young
+                                                                                              England
+                                                                                              Church of
+Moose Fort                   Moosonee diocese, James Bay                  T.Bird Holland
+                                                                                              England
+                                                                          Rev. Benjamin       Church of
+Moosehide                    Klondike, Yukon district
+                                                                          Totty               England
+                                                                          Miss Sara A.
+Nelson House                 Keewatin district                                                Methodist
+                                                                          Kitchen
+Providence Mission (Sacred
+                             Athabasca and McKenzie Riv. diocese          Sister St. Elzear   Roman Catholic
+Heart)
+                                                                                              Church of
+St. David's Mission          Fort Simpson, McKenzie Riv. district         James R. Lucas
+                                                                                              England
+                             Fort McPherson, Peel River, McKenzie River                       Church of
+St. Matthews Mission                                                      Miss A. McDonald
+                             district                                                         England
+                                                                                              Church of
+St. Peter's Mission          Hay River, McKenzie River district           Alex J. Wilson
+                                                                                              England
+                                                                                              Church of
+York Factory                 Hudson bay, Moosonee diocese                 Rev. R. Faries
+                                                                                              England
+Total, Outside Treaty        ...                                          ...                 ...
+
+<!-- page 725 -->
+Appropriation for Salary or From what    NUMBER ON            Average
+                                                                           STANDARD                    School.
+yearly grant.               Fund paid.   ROLL                 Attendance
+...                        ...           Boys. Girls. Total. ...           I     II III IV V VI ...
+
+                                                                                                     OUTSIDE
+$ cts.                     ...           ...    ...   ...     ...          ...   ... ... ... ... ...
+                                                                                                     TREATY
+                                                                                                     LIMITS
+200 00                     Voted         25     26    51      33           29    12 5 3 2 ... Albany Mission
+200 00                     Voted         18     7     25      15           5     12 7 1 ... ... Herschel Island.
+200 00                     Noted         34     45    79      41           79    ... ... ... ... ... Moose Fort.
+...                        ...           12     14    26      11           26    ... ... ... ... ... Moosehide.
+...                        ...           5      9     14      8            14    ... ... ... ... ... Nelson House.
+                                                                                                     Providence
+200 00                     Voted         8      15    23      21           7     9 4 2 1 ... Mission (Sacred
+                                                                                                     Heart.)
+                                                                                                       St David's
+200 00                     Voted         3      8     11      6            1     1 3 ... ... ...
+                                                                                                       Mission.
+                                                                                                St. Matthew's
+...                        ...           ...    ...   ...     ...          ...   ... ... ... ... ...
+                                                                                                Mission.
+200 00                     Voted         8      10    18      12           ...   3 11 4 ... ... ...
+                                                                                               St. Peter's
+200 00                     Voted         23     20    43      24           30 12 ... ... 1 ...
+                                                                                               Mission.
+200 00                     Voted         8      5     13      10           4     3 4 2 ... ... York Factory.
+                                                                                                       Total, Outside
+...                        ...           144    159   303     181          201 52 34 12 4 ...
+                                                                                                       Treaty.
+
+<!-- page 726 -->
+SHOWING the Condition of Indian Boarding Schools in the Dominion for the Year ended June 30, 1901.
+ School.                Situation.                                Principal.            Denomination.
+
+                           ...                                          ...                     ...

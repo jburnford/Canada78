@@ -1,0 +1,223 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT of Day Schools in the Dominion (from which Returns have been received) for the Fiscal Year
+ended March 3, 1908.
+
+School.                   Reserve.           Agency.          Teacher.                Denomination.
+ONTARIO.                  ...                ...              ...                     ...
+*Abitibi                  On Lake Abitibi    Treaty No. 9     Mrs. Jno. R Simpson     Roman Catholic
+Albany River, (C.E.)      At Fort Albany     Treaty No. 9     W. Haythornthwaite      Church of England
+Alnwick                   Alnwick            Alnwick          Francis J. Joblin       Methodist
+Back Settlement           Caradoc            Caradoc          Lyman W. Fisher         Undenominational
+Bear Creek                Caradoc            Caradoc          Miss Nettie E. Lockwood Undenominational
+Cape Croker               Cape Croker        Cape Croker      Miss Mary Moffitt       Undenominational
+Christian Island          Christian Island   Penetanguishene Rev J. Wilson, B.A.      Methodist
+(t)Fort William (Boys)    Fort William       Port Arthur      Sr. M. Ambrose          Roman Catholic
+(t)Fort William (Girls)   Fort William       Port Author      Sr. M. Ambrose          Roman Catholic
+French Bay                Saugeen            Saugeen          T.J. Wallace            Undenominational
+Garden River (R.C.)       Garden River       Sault Ste. Marie Rev. J.A. Drolet, S.J.  Roman Catholic
+Garden River (C.E.)       Garden River       Sault Ste. Marie L.F. Hardyman           Church of England
+Garden Village            Nipissing          Sturgeon Falls F. LeTonturier            Roman Catholic
+Georgina Island           Georgina Island    Georgina Island J.H. Prosser             Methodist
+Gibson                    Watha              Parry Sound      William Kendall         Methodist
+Golden Lake               Golden Lake        Golden Lake      Miss L.M. Schruder      Roman Catholic
+(tt)Goulais Bay         Goulais Bay       Sault Ste. Marie Miss Jeannie McDermott Roman Catholic
+(||)Graham, S.S. No. 5  At Naughton       Manitowaning Miss Mary F. Neaphy        Undenominational
+(pp)Grand Bay           Lake Nipigon      Port Arthur      Miss Benna Fuller      Church of England
+Henvey Inlet            Henvey Inlet      Parry Sound      Joseph Partridge       Undenominational
+(||)Hiawatha            Rice Lake         Rice Lake        Miss J.R. Waddell      Undenominational
+Kettle Point            Kettle Point      Sarnia           Mrs. 
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+te 17       27     44     20        19 11 3 4 7 ... Big Cove.
+                                                Isaac         Catholic
+                                                Frances M.    Roman
+Eel Ground     Eel Ground     Northeastern                                300 00 Vote 8        3      11     5         9 1 1 ... ... ... Eel Ground.
+                                                Schultz       Catholic
+                                                Miss Mary C Roman
+Kingsclear     Kingsclear     Western                                     300 00 Vote 10       11     21     13        10 5 1 5 ... ... Kingsclear.
+                                                Monaghan    Catholic
+                                                Miss M.J.     Roman
+St Mary's      St Mary's      Western                                     300 00 Vote 13       10     23      17        8 4 3 5 2 1 St. Mary's.
+                                                Rush          Catholic
+                                                Annetta A.    Roman
+Tobique        Tobique        Western                                     350 00 Vote 18        18    36      22        16 2 6 7 5 ... Tobique.
+
+
+
+=== EXTRACT FROM HERE (pages 830-835) ===
+<!-- page 830 -->
+                                                  Bradley       Catholic
+Total, New                                                                                                                                            Total, New
+                 ...            ...               ...           ...             ...     ...   77    82     159    89          73 25 23 21 16 1
+Brunswick                                                                                                                                             Brunswick.
+PRINCE                                                                                                                                                PRINCE
+EDWARD           ...            ...               ...           ...             ...     ...   ...   ...    ...    ...         ... ... ... ... ... ... EDWARD
+ISLAND                                                                                                                                                ISLAND.
+                                P.E.I.          William J.      Roman
+Lennox Island Lennox Island                                                     300 00 Vote 8       10     18     10          9 3 3 2 1 ... Lennox Island.
+                                Superintendency Overbeck        Catholic
+
+[*Indian children attend white school, Department pays 50 cents per month (per capita) on average attendance. (t)Closed during the March quarter, 190.]
+
+<!-- page 831 -->
+Table, see page 42
+
+<!-- page 832 -->
+                                                                                   From
+                                                                                   what NUMBER ON               Average
+School.         Reserve.       Agency.      Teacher.       Denomination.    Grant.                                          STANDARD.                     School.
+                                                                                   Fund ROLL.                   Attendance.
+                                                                                   Paid.
+...       ...                  ...          ...            ...              ...      ...   Boys. Girls. Total. ...        I     II    III IV V VI ...
+BRITISH                                                                                                                                                   BRITISH
+          ...                  ...          ...            ...              $ cts.   ...   ...    ...   ...     ...       ...   ...   ...   ... ... ...
+COLUMBIA.                                                                                                                                                 COLUMBIA.
+                                            Duncan
+*Andimaul       ...            Babine                      Salvation Army   ...      7     11     18    8       13        4     1     ...   ... ... ... *Andimaul
+                                            Rankin
+                               Northwest                   Church of
+(t)Aiyansh      Kitladamicks                J. Priestley                    300 00 Vote 24       16     40      22       36 4         ...   ... ... ... (t)Aiyansh
+                               Coast                       England
+                                            Frank S.       Church of
+Alert Bay       Nimkish        Kwawkewlth                                   300 00 Vote 22       10     32      10       11 10 10 ... 1 ... Alert Bay
+                                            Ford           England
+                                            Miss Ethel
+Bella Bella     Bella Bella    Kwawkewlth              Methodist            300 00 Vote 39       33     72      29       6      19 24 17 5 1 Bella Bella
+                                            L. Morris
+                                            Miss
+                               Northwest
+Bella Coola     Bella Coola                 Eveline        Methodist        300 00 Vote 27       15     42      9        33 9         ...   ... ... ... Bella Coola
+                               Coast
+                                            Gibson
+                                            Rev J.E.
+Cape Mudge      Cape Mudge Kwawkewlth                      Methodist        300 00 Vote 7        10     17      7        13 2         2     ... ... ... Cape Mudge
+                                            Rendle
+                                            Rev.
+                               Northwest
+(tt)China Hat China Hat                     George         Methodist        300 00 Vote 8        5      13      7        5      8     ...   ... ... ... (tt)China Hat
+                               Coast
+                                            Read
+                                            Rev C.
+(tt)Clayoquot                                                                                                                                             (tt)Clayoquot
+              Opitsat          West Coast   Moser,         Roman Catholic   300 00 Vote 8        8      16     6         14 2         ...   ... ... ...
+(R.C.)                                                                                                                                                    (R.C.)
+                                            O.S.B.
+(tt)Clayoquot                               Rev T.G.                                                                                                      (t)Clayoquot
+              Opitsat          West Coast                  Methodist        ...      12    11    23     9      23        ...    ...   ...   ... ... ...
+(Prot)                                      Barlow                                                                                                        (Prot.)
+                                            J.B.           Church of
+(tt)Gitwingak Kitwingar        Babine                                       300 00 Vote 14       16     30     10        20 8         2     ... ... ... (tt)Gitwingak
+                                            Sampare        England
+                                            J.P.
+Glen Vowell     Sicedach       Babine                   Salvation Army      300 00 Vote 13       13     26     16        7      11 6        2 ... ... Glen Vowell
+                                            Thorkildson
+                                            Herbert        Church of
+Gwayasdums Gwayasdums Kwawkewlth                                            300 00 Vote 17       13     30     7         22 6         2     ... ... ... Gwayasdums
+                                            Pearson        England
+                                            Rev. Ernest Church of
+Hazelton        Gitamaksh      Babine                                       300 00 Vote 13       19     32     8         20 7         5     ... ... ... Hazelton
+                                            A. Price    England
+                               Northwest    Miss E.C.      Church of
+Kincolith       Kincolith                                                   300 00 Vote 25       27     52     29        30 8         6     4 4 ... Kincolith
+                               Coast        Collison       England
+                               Northwest    Dr D.
+Kitamaat        Kita-Maat                                  Methodist        300 00 Vote 33       19     52     18        36 6         7     3 ... ... Kitamaat
+                               Coast        Bower
+                               Northwest    Rev R.W.       Church of
+Kitkahtla       Kitkahtla                                                   300 00 Vote 14       11     25     16        5      7     9     4 ... ... Kitkahtla
+                               Coast        Gurd           England
+                                            Miss
+(||)Kitsigkla   Kitsegukla     Babine       Hannah         Methodist        300 00 Vote 4        3      7      4         7      ...   ...   ... ... ... (||)Kitsegukla
+                                            Edgar
+                                            Miss S.
+Kishfiax        Kishfiax       Babine                      Methodist        300 00 Vote 26        39    65      22        41 10 9           5 ... ... Kishfiax
+
+<!-- page 833 -->
+                                           Klippert
+                                           Joshua J.    Church of
+(|)Kisgegas    Kisgegas       Babine                                     300 00 Vote 8    12   20   6    16 4     ...   ... ... ... (|)Kisgegas
+                                           Harvey       England
+                                           Rev E.
+(||)Kyaquot    Kyaquot        West Coast                Roman Catholic   300 00 Vote 5    6    11   5    6   4    1     ... ... ... (||)Kyaquot
+                                           Sobry
+                              Northwest    Miss F.A.    Church of
+(t)Lakalsap    Lakalsap                                                  300 00 Vote 19   19   38   22   25 11 2        ... ... ... (t)Lakalsap
+                              Coast        Copeland     England
+                              Kamloops-    Miss Lilly   Church of
+Lytton         Lytton                                                    300 00 Vote 15   14   29   20   29 ...   ...   ... ... ... Lytton
+                              Okanagan     Blachford    England
+                              Northwest    Rev W.E.     Church of
+Massett        Massett                                                   300 00 Vote 17   31   48   19   22 23 3        ... ... ... Massett
+                              Coast        Collison     England
+               At                          Miss Flor.   Church of
+Meanskinisht                Babine                                       300 00 Vote 9    15   24   17   9   9    6     ... ... ... Meanskinisht
+               Meanskinisht                B Kemp       England
+                                           Miss
+                              Northwest                 Church of
+Metlakahtla    Metlakahtla                 Helena                        300 00 Vote 16   16   32   12   13 8     2     5 4 ... Metlakahtla
+                              Coast                     England
+                                           Jackson
+                                           Rev. W.J.
+Nanaimo        Nanaimo        Cowichan                  Methodist        300 00 Vote 14   12   26   12   19 6     1     ... ... ... Nanaimo
+                                           Knott
+                                           C.A.
+(pp)Nitanit    Claoose        West Coast              Methodist          300 00 Vote 10   8    18   6    10 4     4     ... ... ... (pp)Nitanit
+                                           Dockstader
+(||)Ohiaht                                                                                                                          (||)Ohiaht
+               No.8 Haines                 John T.
+(Dodger's                  West Coast                   Presbyterian     300 00 Vote 13   8    21   15   12 9     ...   ... ... ... (Dodger's
+               Island                      Ross
+Cove)                                                                                                                               Cove)
+                              Kamloops-
+(o)Penticton   At Penticton                J Barker     Undenominational 12 p.c. Vote 3   6    9    5    8   1    ...   ... ... ... (o)Penticton
+                              Okanagan
+Port                          Northwest    Miss Kate                                                                                  Port
+               Skeena                                   Methodist        300 00 Vote 15   25   40   13   23 6     8     2 1 ...
+Essington                     Coast        Tranter                                                                                    Essington
+               At Port        Northwest    B.A.
+Port Simpson                                            Methodist        300 00 Vote 56   41   97   22   38 39 13 7 ... ... Port Simpson
+               Simpson        Coast        Savage
+                                           Miss C.
+Quamichan      Quamichan      Cowichan                  Roman Catholic   300 00 Vote 13   7    20   10   10 8     2     ... ... ... Quamichan
+                                           Ordano
+                                           William
+Saanich        Saanich        Cowichan                  Roman Catholic   300 00 Vote 12   6    18   9    13 5     ...   ... ... ... Saanich
+                                           Thompson
+               Queen                       Miss
+                              Northwest
+Skidegate      Charlotte                   Ottawa       Methodist        300 00 Vote 9    13   22   10   19 2     1     ... ... ... Skidegate
+                              Coast
+               Island                      Johnston
+                                           Miss M.
+Somenos        Somenos        Cowichan                  Roman Catholic   300 00 Vote 11   5    16   5    5   8    3     ... ... ... Somenos
+                                           Lomas
+                                           Sr. Mary
+Songhees       Songhees       Cowichan                  Roman Catholic   300 00 Vote 5    9    14   8    7   1    3     1 2 ... Songhees
+                                           Prudence
+Telegraph                                  Robert H.                                                                                  Telegraph
+               Tahltan        Cassiar                   Undenominational 300 00 Vote 11   10   21   9    16 5     ...   ... ... ...
+Creek                                      McInnes                                                                                    Creek
+                                           Miss
+Tsartlip       Tsartlip       Cowichan     Katherine    Roman Catholic   300 00 Vote 9    9    18   8    11 4     1     1 1 ... Tsartlip
+                                           Needham
+                                           Mrs. M.
+Ucluelet       Itedse         West Coast                Presbyterian     300 00 Vote 8    7    15   5    7   2    3     3 ... ... Ucluelet
+                                           Swartout
+
+<!-- page 834 -->
+                                          Rev. Alois
+Yuquot          Yuquot       West Coast                Roman Catholic     300 00 Vote 6       4     10    5            4   5    1   ... ... ... Yuquot
+                                          S. Stern
+Total, British                                                                                                                                Total, British
+               ...           ...          ...          ...                ...    ...   597    562   1159 480           664 285 137 54 18 1
+Columbia                                                                                                                                      Columbia
+
+[*New school opened October 1907 No grant by Department (t)Closed during the June and September quarters, 1907. (tt)Closed during the September quarter,
+1907. (||)Only one return received. (pp)Closed during the September and December quarters, 1907. (o)White school. The Department pays $12 per cap. per annum
+for each Indian child in attendance.]
+
+<!-- page 835 -->
+Table, see page 44
+

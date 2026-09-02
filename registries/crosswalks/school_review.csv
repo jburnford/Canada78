@@ -1,0 +1,324 @@
+queue,school_id,name,province,agencies,variants,first_year,last_year,n_years
+many_agencies,SCH-00045,Port Simpson Day,BRITISH COLUMBIA,icowichan; inorthwest coast; naas; nass; north west coast,port simpson | port simpson day,1896,1930,33
+many_agencies,SCH-00055,Metlakahtla Day,BRITISH COLUMBIA,icowichan; naas; nass; north west coast; northwest coast,metlakahtla | metlakahtla day,1896,1918,17
+name_variants,SCH-00056,(3)Rocher de Boulé,BRITISH COLUMBIA,babine,roche deboule | rocher de boule | rocher deboule,1911,1930,16
+many_agencies,SCH-00057,(°)Telegraph Creek,BRITISH COLUMBIA,cassiar; queen charlotte; stickine; stikine; yukon territory,telegraph creek,1908,1928,18
+many_agencies,SCH-00063,(t)Port Essington,BRITISH COLUMBIA,bella coola; icowichan; inorthwest coast; north west coast; northwest coast,port essington,1896,1930,33
+many_agencies,SCH-00068,(t)Clayoquot (Prot.),BRITISH COLUMBIA,opitsat; stikine; west; west coast; yukon territory,clayoquot | clayoquot r c,1898,1917,16
+many_agencies,SCH-00065,1Gitladamicks,BRITISH COLUMBIA,naas; nass; skeena,gitladamicks | gitladamiks,1916,1930,12
+many_agencies,SCH-00083,(t)Bella Bella,BRITISH COLUMBIA,bella coola; icowichan; kwakewlth; kwakwelth; kwawkewlth,beila bella | bella bella,1896,1930,32
+many_agencies,SCH-00084,(t)Bella Coola,BRITISH COLUMBIA,bella coola; northwest coast; stikine; west coast,bella coola,1903,1930,26
+many_agencies,SCH-00089,(tt)Glen Vowell,BRITISH COLUMBIA,babine; stikine; west coast,glen vowell,1903,1930,26
+many_agencies,SCH-00077,(||)Hartley Bay,BRITISH COLUMBIA,bella coola; northwest coast; skeena; west coast,hartley bay,1904,1930,21
+name_variants,SCH-00091,(tt)Kitsegukla,BRITISH COLUMBIA,babine; stikine,kitsegukla | kitsegukla1,1907,1930,21
+many_agencies,SCH-00082,2Cape Mudge,BRITISH COLUMBIA,icowichan; kwakewlth; kwakwelth; kwawkewlth; stikine,cape mudge,1896,1930,32
+many_agencies,SCH-00100,(tt)Gitwingak,BRITISH COLUMBIA,babine; icowichan; stikine; west coast,ggitwingak | gitwingak | gitwingar,1899,1919,19
+many_agencies,SCH-00102,(tt)Gwayasdums,BRITISH COLUMBIA,ikw awkewlth; kwakewlth; kwakwelth; kwawkewlth; stikine,gwayasdums,1896,1913,18
+many_agencies,SCH-00104,(tt)Metlakatla,BRITISH COLUMBIA,nass; skeena; stikine,metlakatla,1910,1930,15
+many_agencies,SCH-00060,-Alert Bay.,BRITISH COLUMBIA,icowichan; kwakewlth; kwakwelth; kwawkewlth; stikine,alert bay,1898,1930,29
+many_agencies,SCH-00094,(tt)China Hat,BRITISH COLUMBIA,bella coola; northwest coast; stikine; west coast,china hat,1904,1923,17
+name_variants,SCH-00119,(tt)Kishfiax,BRITISH COLUMBIA,babine; west coast,hkishfiax | kishfiax,1896,1913,17
+many_agencies,SCH-00120,Kincolith.,BRITISH COLUMBIA,icowichan; inorthwest coast; naas; nass; north west coast,kincolith,1896,1930,33
+many_agencies,SCH-00121,*Kita-maat,BRITISH COLUMBIA,bella coola; icowichan; inorthwest coast; north west coast; northwest coast,kita maat | kitamaat,1898,1930,25
+many_agencies,SCH-00096,(1)Kitkahtla,BRITISH COLUMBIA,bella coola; inorthwest coast; north west coast; northwest coast; skeena,kitkabtla | kitkahtla | kitkatla,1896,1930,33
+many_agencies,SCH-00123,(pp)Penticton,BRITISH COLUMBIA,kamloops okanagan; okanagan; stikine,penticton,1908,1930,13
+many_agencies,SCH-00124,(||)Quamichan (Prot.),BRITISH COLUMBIA,cowichan; icowichan; stikine; west coast,quamichan,1898,1918,21
+many_agencies,SCH-00125,(t)Skidegate,BRITISH COLUMBIA,north west coast; northwest coast; queen charlotte; stikine; west coast,skidegate,1896,1930,33
+many_agencies,SCH-00111,(ss)Ucluelet,BRITISH COLUMBIA,stikine; west coast; yukon territory,uclueleht | ucluelet,1896,1930,32
+many_agencies,SCH-00144,(t)Hazelton.,BRITISH COLUMBIA,babine; stikine; west coast,hazelton,1896,1930,29
+many_agencies,SCH-00109,2Kitselas (New Town),BRITISH COLUMBIA,babine; franklin; skeena,kitselas,1912,1930,17
+name_variants,SCH-00152,(t)Kyaoquot,BRITISH COLUMBIA,icowichan; west coast,kyaoquot | kyaquot,1898,1911,12
+many_agencies,SCH-00116,(tt)Lakalsap,BRITISH COLUMBIA,naas; nass; north west coast; northwest coast; skeena,lakalsap,1896,1930,26
+many_agencies,SCH-00153,(tt)Songhees,BRITISH COLUMBIA,cowichan; stikine; west coast,longhees | songhees,1896,1930,32
+many_agencies,SCH-00138,9Massett,BRITISH COLUMBIA,icowichan; north west coast; northwest coast; queen charlotte; stikine,masset | massett | masssett,1896,1930,33
+many_agencies,SCH-00157,*Sliammon,BRITISH COLUMBIA,fraser river; new westminster; stikine; vancouver,sliammon,1909,1930,20
+many_agencies,SCH-00135,(||)Aiyansh,BRITISH COLUMBIA,icowichan; naas; nass; north west coast; northwest coast,aiyansh,1897,1919,19
+many_agencies,SCH-00130,(pp)Gwinoha,BRITISH COLUMBIA,naas; nass; skeena,gwinoha,1912,1925,8
+many_agencies,SCH-00131,(ss)Homalco,BRITISH COLUMBIA,fraser river; new westiminster; new westminster; stikine; vancouver,homalco | malco,1909,1930,18
+many_agencies,SCH-00178,Nanaimo.,BRITISH COLUMBIA,cowichan; icowichan; stikine; west coast,nanaimo,1896,1929,32
+many_agencies,SCH-00133,(1)Nitinat,BRITISH COLUMBIA,stikine; west coast; yukon territory,nitinat,1896,1923,12
+many_agencies,SCH-00181,(pp)Saanich,BRITISH COLUMBIA,cowichan; quamichan; stikine; west coast,saanich,1897,1913,17
+many_agencies,SCH-00183,(pp)Somenos,BRITISH COLUMBIA,cowichan; stikine; west coast,somenos,1896,1911,14
+many_agencies,SCH-00163,3Lytton,BRITISH COLUMBIA,kamloops okanagan; lytton; stikine,lytton,1908,1919,11
+many_agencies,SCH-00189,(tt)Sholus,BRITISH COLUMBIA,kamloops okanagan; lytton; stikine,sholus,1909,1914,6
+many_agencies,SCH-00190,Shulus,BRITISH COLUMBIA,kamloop; kamloops; lytton,shulus,1915,1930,14
+many_agencies,SCH-00192,(t)Yuquot,BRITISH COLUMBIA,stikine; west coast; yukon territory,yuquot,1905,1912,8
+many_agencies,SCH-00191,(t)Comox,BRITISH COLUMBIA,cowichan; icowichan; west coast,comox,1900,1902,3
+many_agencies,SCH-00028,Port Simpson Girls' Home.,BRITISH COLUMBIA,at port simpson northwest coast; at port simpson on nass; at port simpson outside limits of nass; at york factory hudson bay keewatin; edmonton,port simpson boys home | port simpson girl s home | port simpson girls home,1896,1921,25
+many_agencies,SCH-01126,(t)Alert Bay Girl's Home,BRITISH COLUMBIA,at alert bay on industrial; bella coola; edmonton; kwawkewlh; kwawkewlth,albert bay girls home | alert bay girl s home | alert bay girls | alert bay girls home | alert bay girls rome,1897,1924,19
+many_agencies,SCH-01128,St. Mary's Mission,BRITISH COLUMBIA,mission city; new westminister; new westminster,st mary mission | st mary s mission,1919,1930,11
+many_agencies,SCH-01131,Alert Bay (Day),BRITISH COLUMBIA,kwakwelth; kwawkewlth; kwawkwelth; williams lake; yukon,alert bay | alert bay boys,1897,1930,31
+many_agencies,SCH-00070,(t)Kuper Island,BRITISH COLUMBIA,cowichan; williams lake; yukon,keeper island | kuper island,1897,1930,33
+many_agencies,SCH-00086,Coqualeetza.,BRITISH COLUMBIA,new westminster; sardis; westminister; westminster; williams lake,coqualeetza,1910,1930,20
+name_variants,SCH-01134,(t)Metlakahtla,BRITISH COLUMBIA,,metlakahtla | metlakatla,1898,1908,11
+many_agencies,SCH-01138,Clayoquot (Alberni).,BRITISH COLUMBIA,touchwood hills; west coast; williams lake; yukon,clayoquot,1900,1919,20
+many_agencies,SCH-00127,St. Mary's.,BRITISH COLUMBIA,at mary s mission on the fraser river; at york factory hudson bay keewatin; edmonton; fraser river; new westminster,st mary s,1898,1918,19
+many_agencies,SCH-01140,Ahousaht.,BRITISH COLUMBIA,at ahousaht west coast island west coast; at york factory hudson bay keewatin; cowichan; west coast; yukon,ahousaht,1896,1930,28
+many_agencies,SCH-00145,(t)Kamloops,BRITISH COLUMBIA,cowichan; kamloops; williams lake; yukon,kamloops,1898,1930,32
+many_agencies,SCH-00151,(t)Kootenay,BRITISH COLUMBIA,kootenay; williams lake; yukon,kootenay,1898,1930,32
+many_agencies,SCH-01142,Squamish.,BRITISH COLUMBIA,at york factory hudson bay keewatin; fraser river; new westminster; new westminster opposite city of vancouver; north side of burrard inlet opposite city of vancouver fraser river,squamish,1900,1930,29
+many_agencies,SCH-01143,Alberni.,BRITISH COLUMBIA,at york factory hudson bay keewatin; near alberni adjoining shesaht west coast; touchwood hills; west coast; yukon,alberni,1897,1930,30
+many_agencies,SCH-01144,1Cariboo,BRITISH COLUMBIA,william s lake; williams lake; yukon,cariboo,1921,1930,9
+many_agencies,SCH-01145,Sechelt.,BRITISH COLUMBIA,at york factory hudson bay keewatin; fraser river; new westminster; on new westminster north side of burrard inlet; on sechelt fraser river,sechelt,1906,1930,24
+many_agencies,SCH-01146,Lytton.,BRITISH COLUMBIA,lytton; williams lake; yukon,lytton,1903,1927,24
+many_agencies,SCH-00198,Yale (All Hallows).,BRITISH COLUMBIA,at yale on the fraser river; at york factory hudson bay keewatin; edmonton; fraser river; lytton,yale,1898,1918,20
+many_agencies,SCH-00219,*Burnt Church,NEW BRUNSWICK,eastern; eastern county; icowichan; lonnox island; north eastern,burnt church,1896,1930,33
+many_agencies,SCH-00226,Eel Ground.,NEW BRUNSWICK,eastern; eastern county; icowichan; lonnox island; north eastern,eel ground,1896,1930,33
+many_agencies,SCH-00227,Kingsclear.,NEW BRUNSWICK,icowichan; lonnox island; southwestern; west coast; western,kingsclear | kingslear,1896,1930,33
+many_agencies,SCH-00223,(tt)eel River.,NEW BRUNSWICK,eastern; eastern county; northeastern,eel river,1913,1930,17
+many_agencies,SCH-00232,3Red Bank,NEW BRUNSWICK,eastern; eastern county; northeastern,red bank | red bank3,1915,1930,15
+many_agencies,SCH-00234,St. Mary's.,NEW BRUNSWICK,icowichan; lonnox island; southwestern; west coast; western,st mary s,1896,1930,33
+many_agencies,SCH-00235,(||)Woodstock,NEW BRUNSWICK,southwestern; western; western county,woodstock,1910,1930,20
+many_agencies,SCH-00231,2Big Cove,NEW BRUNSWICK,eastern; eastern county; icowichan; lonnox island; north eastern,big cove,1897,1930,32
+many_agencies,SCH-00237,(tt)Oromocto,NEW BRUNSWICK,southwestern; western; western county,oromocto,1910,1930,20
+many_agencies,SCH-00238,Tobique.,NEW BRUNSWICK,icowichan; lonnox island; northern; northern county; west coast,tobique,1896,1930,33
+many_agencies,SCH-00271,(tt)Half-way River.,NOVA SCOTIA,cumb land county; cumberl d county; cumberland; cumberland co; cumberland co nty,half way river | halfway river | halfway river1,1899,1923,24
+many_agencies,SCH-00283,(2)Malagawatch,NOVA SCOTIA,inverness; inverness county; iverness county,malagawatch | malagawatch2,1910,1930,14
+many_agencies,SCH-00287,(t)Middle River,NOVA SCOTIA,icowichan; lonnox island; p e i sup c y; victoria; victoria co,middle river,1896,1930,34
+many_agencies,SCH-00288,Salmon River.,NOVA SCOTIA,icowichan; lonnox island; no 10; no 9; p e i sup c y,salmon river,1896,1930,34
+many_agencies,SCH-00289,(ss)Shubenacadie.,NOVA SCOTIA,hants; hants co; hants county; icowichan; lonnox island,shubenacadie,1896,1930,28
+many_agencies,SCH-00294,(tt)New Germany,NOVA SCOTIA,icowichan; lonnox island; lunenburg; lunenburg co; lunenburg county,new germany,1896,1926,30
+many_agencies,SCH-00298,Whycocomagh.,NOVA SCOTIA,icowichan; inverness; inverness co; inverness county; iverness county,whycocomagh,1896,1930,33
+many_agencies,SCH-00299,Bear River.,NOVA SCOTIA,bear river; digby; digby country; digby county; icowichan,bear river,1896,1930,34
+many_agencies,SCH-00304,Millbrook.,NOVA SCOTIA,colchester; colchester co; colchester county; icowichan; lonnox island,millbrook,1899,1930,31
+many_agencies,SCH-00307,(t)Eskasoni.,NOVA SCOTIA,cape breton; cape breton co; cape breton county; icowichan; lake breton county,eskasoni,1896,1930,34
+many_agencies,SCH-00309,Sydney.,NOVA SCOTIA,cape breton; cape breton co; cape breton county; caprebrton county; lake breton county,sydney,1904,1930,26
+many_agencies,SCH-00312,(t)Indian Cove,NOVA SCOTIA,icowichan; inverness; lonnox island; p e i sup c y; pictou,cove,1899,1930,30
+many_agencies,SCH-00324,"(ss)Walpole Island, No. 1",ONTARIO,jwalpole island; kenora; tyendinaga; walpole island; whycocomagh,walpole island no 1,1896,1930,34
+many_agencies,SCH-00325,"Walpole Island, No. 2.",ONTARIO,kenora; tyendinaga; walpoe island; walpole island; whycocomagh,walpole island no 2 | walpole no 2,1896,1930,34
+many_agencies,SCH-00326,"Walpole Island, No. 3.",ONTARIO,walpole; walpole island; whycocomagh,walpole island no 3,1896,1905,10
+name_variants,SCH-00334,Six Nations (Thomas).,ONTARIO,six nations; walpole island,six nations | six nations thomas,1907,1911,5
+many_agencies,SCH-00340,(**)Mississagi River,ONTARIO,kenora; manitouwaning; manitowaning; parry sound; thessalon,mississagi river | mississagua river | mississauga river,1897,1930,25
+many_agencies,SCH-00341,(2)Sheshegwaning (Prot.),ONTARIO,georgina island; gore bay; manitouwaning; manitowaning,sheshegwaning | sheshegwaning c e | sheshegwaning r c,1896,1930,33
+many_agencies,SCH-00342,"Six Nations, No. 10.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 10 | six nations no 10,1896,1930,33
+many_agencies,SCH-00343,"Six Nations, No. 11.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 11 | six nations no 11,1896,1930,33
+many_agencies,SCH-00327,10Christian Island,ONTARIO,christian island; parry sound; penetangishene; penetanguishene,christian island,1896,1930,34
+many_agencies,SCH-00352,(1)Garden River (R.C.),ONTARIO,garden river; kenora; sault st marie; sault ste marie,garden river | garden river c e | garden river r c,1896,1930,34
+many_agencies,SCH-00353,*Georgina Island,ONTARIO,georgina island; parry sound; rama,georgina island | georgina island2,1896,1930,33
+many_agencies,SCH-00354,(||)Jackfish Island,ONTARIO,northern; port arthur; western,jack fish island | jackfish island,1896,1913,8
+many_agencies,SCH-00328,11Moose Deer Point,ONTARIO,christian island; parry sound; penetanguishene,moose deer point,1917,1930,13
+many_agencies,SCH-00358,River Settlement.,ONTARIO,caradoc; caradoe; parry sound; western no 2,river settlement | settlement,1896,1930,34
+many_agencies,SCH-00359,"Six Nations, No. 1.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 1 | six nations no 1,1896,1930,34
+many_agencies,SCH-00360,"Six Nations, No. 2.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 2 | six nations no 2,1896,1930,33
+many_agencies,SCH-00361,"Six Nations, No. 3.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 3 | six nations no 3,1896,1930,33
+name_variants,SCH-00362,Six Nations No. 4.,ONTARIO,kenora; six nations,six nations 4 | six nations no 4,1911,1930,19
+many_agencies,SCH-00363,"Six Nations, No. 5.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 5 | six nations no 5,1896,1930,33
+many_agencies,SCH-00364,"Six Nations, No. 6.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 6 | six nations no 6,1896,1930,33
+many_agencies,SCH-00365,"Six Nations, No. 7.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 7 | six nations no 7,1896,1930,33
+many_agencies,SCH-00367,"Six Nations, No. 9.",ONTARIO,grand river; kenora; six nation; six nations; walpole island,six nation no 9 | six nations no 9,1896,1930,33
+many_agencies,SCH-00350,5Whitefish River (Combined),ONTARIO,georgina island; manitouwaning; manitowaning; whycocomagh,white fish river | whitefish river,1896,1927,18
+many_agencies,SCH-00349,Wikwemikongsing (Girls),ONTARIO,georgina island; manitoulin island; manitouwaning; manitowaning; whycocomagh,wi kwemikongsing | wikwemikong | wikwemikongsing,1896,1930,34
+many_agencies,SCH-00372,Back Settlement.,ONTARIO,caradoc; caradoe; cardoc; parry sound; western no 2,back settlement,1896,1930,33
+many_agencies,SCH-00344,(tt)Scugog S. S. No. 3.,ONTARIO,kenora; rice lake; sault ste marie; scugog; scugog lake,scugog s s no 3,1910,1923,10
+many_agencies,SCH-00377,Sheguiandah R.C.,ONTARIO,georgina island; manitouwaning; manitowaning,sheguiandah | sheguiandah c e | sheguiandah r c,1896,1930,31
+many_agencies,SCH-00370,(pp)Whitefish Lake,ONTARIO,georgina island; manitouwaning; manitowaning; whycocomagh,white fish lake | whitefish lake,1896,1930,34
+many_agencies,SCH-01182,Albany Mission (C.E.).,ONTARIO,edmonton; treaty no 9; walpole island,albany mission,1899,1913,7
+name_variants,SCH-00384,Batchawana Bay,ONTARIO,garden river; sault ste marie,batchawana | batchawana bay,1913,1930,16
+many_agencies,SCH-00371,*Garden Village.,ONTARIO,kenora; nipissing; sturgeon falls; walpole island,garden village,1906,1930,24
+many_agencies,SCH-00369,2Manitou Rapids,ONTARIO,fort frances; fort francis; kenora,manitou rapids,1911,1930,17
+many_agencies,SCH-00380,2Serpent River,ONTARIO,kenora; manitouwaning; manitowaning; parry sound; thessalon,serpent river,1896,1930,33
+many_agencies,SCH-00399,(t)Spanish River,ONTARIO,kenora; manitouwaning; manitowaning; thessalon; walpole island,spanish river,1896,1917,20
+many_agencies,SCH-00406,Fort William (orphanage),ONTARIO,fort william; northern; parry sound; port arthur; port author,fort william,1896,1926,14
+many_agencies,SCH-00390,(tt)Henvey Inlet,ONTARIO,parry island; parry sound; parry soung,henvey inlet,1896,1925,27
+many_agencies,SCH-00407,Kettle Point.,ONTARIO,parry sound; rice lake; sarnia,kettle point,1896,1930,34
+many_agencies,SCH-00408,Michipicoten.,ONTARIO,parry sound; sault st marie; sault ste marie,michipicoten,1900,1915,15
+many_agencies,SCH-00409,(pp)Moraviantown,ONTARIO,moravian; parry sound; western no 3,moravian | moraviantown,1896,1930,34
+many_agencies,SCH-00411,(t)Stony Point,ONTARIO,sarnia; stony point; thessalon,stoney point | stony point,1896,1930,27
+many_agencies,SCH-00412,(tt)Sucker Creek,ONTARIO,georgina island; manitouwaning; manitowaning; whycocomagh,sucker creek,1896,1930,34
+many_agencies,SCH-00421,Cape Croker.,ONTARIO,cape crocker; cape croker; parry sound,cape croker,1896,1930,34
+many_agencies,SCH-00424,Golden Lake.,ONTARIO,georgina island; golden lake; parry sound,golden lake,1896,1930,34
+many_agencies,SCH-00425,(t)Goulais Bay.,ONTARIO,fort william; garden river; kenora; sault ste marie,goulais bay,1905,1930,25
+many_agencies,SCH-00431,Mission Bay (Squaw Bay.),ONTARIO,fort william; fort willian; port arthur,mission bay,1908,1930,22
+many_agencies,SCH-00436,Oneida No. 2.,ONTARIO,caradoc; caradoe; oneida; parry sound; western no 2,oneida no 2,1896,1930,32
+many_agencies,SCH-00437,Oneida No. 3.,ONTARIO,caradoc; caradoe; oneida; western no 2,oneida no 3,1896,1930,32
+many_agencies,SCH-00445,Bear Creek.,ONTARIO,caradoc; caradoe; cardoc; parry sound; western no 2,bear creek,1896,1930,34
+many_agencies,SCH-00446,Port Elgin.,ONTARIO,cape crocker; cape croker; caper croker,fort elgin | port elgin,1896,1930,34
+many_agencies,SCH-00447,French Bay.,ONTARIO,parry sound; sarnia; saugeen,french bay,1896,1930,34
+name_variants,SCH-00415,(tt)Shawanaga,ONTARIO,parry island; parry sound,jshawanaga | shawagana | shawanaga,1896,1930,34
+many_agencies,SCH-00417,(t)Lake Helen,ONTARIO,fort william; northern; northern no 4; parry sound; port arthur,lake helen,1896,1930,32
+name_variants,SCH-00450,(tt)Missinabie,ONTARIO,parry sound; sault ste marie,missanabie | missinabie,1901,1910,6
+many_agencies,SCH-00453,Moose Fort.,ONTARIO,edmonton; kenora; moravian; treaty no 9; walpole island,moose fort,1899,1930,24
+many_agencies,SCH-00454,New Credit.,ONTARIO,h klinck; new credit; parry sound,new credit,1896,1930,34
+many_agencies,SCH-00456,(t)Sidney Bay,ONTARIO,cape crocker; cape croker; caper croker,sidney bay | sydney bay,1896,1930,34
+many_agencies,SCH-00457,(||)Tyendinaga (Eastern),ONTARIO,kenora; tyendinaga; walpole island; whycocomagh,tyendinaga,1896,1927,31
+name_variants,SCH-00471,(2)Fort Hope,ONTARIO,treaty no 9,fort hope | fort hopt,1913,1930,16
+name_variants,SCH-00473,(ss)Naughton.,ONTARIO,manitowaning,inaughton | naughton,1899,1906,8
+many_agencies,SCH-00477,(tt)Nipissing,ONTARIO,kenora; nipissing; parry sound; sturgeon falls; walpole island,nipissing,1896,1914,19
+many_agencies,SCH-00443,(t)Pays Plat,ONTARIO,fort william; northern; western,pays plat,1896,1918,9
+many_agencies,SCH-00442,(5)Pic River,ONTARIO,fort william; norther; northern; parry sound; port arthur,pic river,1896,1919,21
+many_agencies,SCH-00441,(tt)Thessalon.,ONTARIO,kenora; manitouwaning; manitowaning; thessalon; whycocomagh,thessalon,1896,1916,13
+many_agencies,SCH-00460,(pp)Hiawatha,ONTARIO,alnwick; parry sound; rice lake,hiawatha,1896,1928,30
+many_agencies,SCH-00468,(ss)Red Rock,ONTARIO,fort william; northern; port arthur,red rock,1896,1919,4
+many_agencies,SCH-00462,1Sagamook,ONTARIO,kenora; manitouwaning; manitowaning; parry sound; thessalon,sagamook,1896,1930,30
+many_agencies,SCH-00463,(||)Temogami.,ONTARIO,kenora; nipissing; parry sound; sturgeon falls; walpole island,temogami,1904,1930,15
+many_agencies,SCH-00497,*West Bay,ONTARIO,georgina island; gore bay; manitouwaning; manitowaning; west gore bay,west bay,1896,1930,34
+many_agencies,SCH-00484,(||)Abitibi.,ONTARIO,kenora; treaty no 9; walpole island,abitibi,1908,1930,22
+many_agencies,SCH-00483,(tt)Mattawa.,ONTARIO,kenora; nipissing; northern; parry sound; port arthur,mattawa,1896,1928,30
+many_agencies,SCH-00501,(3)Buzwah,ONTARIO,georgina island; manitouwaning; manitowaning; parry sound,buzwah,1896,1930,25
+name_variants,SCH-00515,(5)Skene,ONTARIO,parry island; parry sound,iskene | skene,1896,1914,19
+many_agencies,SCH-00500,*Muncey,ONTARIO,caradoc; cardoc; parry sound; western no 2,muncey,1896,1930,28
+many_agencies,SCH-00518,Thomas.,ONTARIO,grand river; six nations; whycocomagh,thomas,1896,1906,10
+many_agencies,SCH-00521,No. 2.,ONTARIO,jwalpole island; parry sound; six nations,no 2,1902,1902,1
+many_agencies,SCH-00522,No. 3.,ONTARIO,jwalpole island; oneida; parry sound; six nations,no 3,1902,1902,1
+many_agencies,SCH-00316,Fort William Orphanage.,ONTARIO,at fort william ont; at york factory hudson bay keewatin; edmonton; file hills; fort william,fort william orphanage,1898,1923,25
+many_agencies,SCH-00319,*Mount Elgin Institute,ONTARIO,moravian; six nations; western no 3; williams lake; yukon,mount elgin institute | mt elgin institute,1896,1923,26
+many_agencies,SCH-00356,*Mohawk Institute.,ONTARIO,manitouwaning; six nations; williams lake; yukon,mohawk institute,1896,1923,27
+many_agencies,SCH-00382,Albany Mission (C.E.).,ONTARIO,at fort albany james bay treaty no 9; at york factory hudson bay keewatin; edmonton; file hills; saddle lake,albany mission,1900,1930,28
+many_agencies,SCH-00387,Shingwauk Home.,ONTARIO,garden river; manitouwaning; sault ste marie; six nations; williams lake,shingwank home | shingwauk home,1896,1930,30
+many_agencies,SCH-00434,Mount Elgin,ONTARIO,caradoc; six nations; treaty no 9,mount elgin,1902,1930,7
+many_agencies,SCH-01197,*Moose Fort,ONTARIO,at moose fort james bay treaty no 9; at york factory hudson bay keewatin; edmonton; file hills; james bay,moose fort,1896,1930,31
+many_agencies,SCH-00486,Chapleau.,ONTARIO,at chapleau ont; at york factory hudson bay keewatin; chapleau; file hills,chapleau,1908,1930,21
+many_agencies,SCH-00510,Spanish,ONTARIO,kenora; six nations; yukon,spanish,1920,1930,9
+many_agencies,SCH-00532,Lennox Island.,PRINCE EDWARD ISLAND,icowichan; lennox island; lonnox island; p e i; p e i sup c y,lennox island,1896,1930,34
+name_variants,SCH-00567,(ss)South Fort à la Corne,Prairies/NWT,duck lake; edmonton,fort a la corne south | ft a la corne south | south fort a la corne,1904,1930,4
+name_variants,SCH-00571,(tt)Fort Alexander (Upper),Prairies/NWT,clandeboye; portage la prairie,fort alexander | fort alexander upper,1896,1930,34
+many_agencies,SCH-00570,Little Grand Rapids (United Church),Prairies/NWT,clandeboye; fisher river; norway house; pas; portage la prairie,grand rapids | little grand rapids,1897,1930,32
+many_agencies,SCH-00578,(4)Little Saskatchewan,Prairies/NWT,manitoapah; manitowahpah; manitowapah; manitowapaw; manitowpah,little saskatchewan,1896,1930,33
+many_agencies,SCH-00585,(pp)Hollowwater River.,Prairies/NWT,beren s river; berens river; clandeboye; norway house; portage la prairie,hollow water river | hollowwater river,1896,1930,32
+many_agencies,SCH-00606,*St. David's Mission,Prairies/NWT,fort simpson; saddle lake; yukon territory,st david s mission | st davids mission,1902,1930,18
+many_agencies,SCH-00612,Berens River (United Church),Prairies/NWT,berens river; clandeboye; fisher river; norway house; portage la prairie,berens river | berens river meth | berens river prot | berens river r c,1896,1930,32
+many_agencies,SCH-00589,"(tt)Ebb and Flow Lake,",Prairies/NWT,griswold; manitoapah; manitowapah; manitowapaw; portage la prairie,ebb and flow lake,1896,1930,29
+many_agencies,SCH-00586,2Lesser Slave Lake (C.E.),Prairies/NWT,lesser slave lake; lessr slave lake; treaty no 8,lesser slave lake,1910,1915,5
+many_agencies,SCH-00611,Nelson House (United Church),Prairies/NWT,norway house; pas; portage la prairie; saddle lake,nelson house | nelson house meth | nelson house r c,1902,1930,20
+many_agencies,SCH-00621,(t)Upper Peace River (Christ Church Mission),Prairies/NWT,in treaty no 8; lesser slave lake; lessr slave lake; treaty no 8,upper peace river,1905,1915,9
+name_variants,SCH-00631,(pp)Frenchman's Head,Prairies/NWT,savanne,frenchman s head | frenchmon s head,1896,1907,12
+name_variants,SCH-00610,St. Peter's (North).,Prairies/NWT,candeboye; clandeboye,st peter s | st peter s north,1896,1926,17
+many_agencies,SCH-00622,(pp)Bloodvein River,Prairies/NWT,berens river; clandeboye; norway house,bloodvein | bloodvein river,1904,1930,20
+name_variants,SCH-00643,Brokenhead Fort,Prairies/NWT,clandeboye; clandedoye,brokenhead | brokenhead fort,1902,1930,28
+name_variants,SCH-00653,(tt)Oak River (Sioux),Prairies/NWT,birtle; griswold,oak river | oak river sioux,1897,1930,24
+many_agencies,SCH-00663,Water Hen River (B'ding),Prairies/NWT,manitoapah; manitowapah; manitowapaw; manitowpah; portage la prairie,water hen river | waterhen river,1896,1930,31
+many_agencies,SCH-00609,(||)White Cap Sioux,Prairies/NWT,battleford; edmonton; in treaty no 8; moose mountain; moose woods,white cap sioux | white cap souix,1896,1926,19
+many_agencies,SCH-00665,(t)Whitefish Lake (St. Andrew's Mission),Prairies/NWT,blackfoot; edmonton; in treaty no 8; saddle lake; treaty no 8,white fish lake | whitefish lake,1896,1911,15
+many_agencies,SCH-00673,*Fort McPherson,Prairies/NWT,fort simpson; mckenzie; west coast,fort mcpherson,1916,1930,11
+name_variants,SCH-00641,"2Jack River, R.C.",Prairies/NWT,norway house; portage la prairie,jack river | jack river c e | jack river r c,1906,1930,22
+many_agencies,SCH-00679,Lake St. Martin.,Prairies/NWT,manitoapah; manitowapah; manitowapaw; manitowpah; portage la prairie,lake st martin,1896,1930,33
+many_agencies,SCH-00680,*Manitou Rapids.,Prairies/NWT,coucheeching; couchiching; coutcheeching; fort frances,manitou rapids,1896,1910,12
+name_variants,SCH-00681,Muckle's Creek.,Prairies/NWT,clanbeboye; clandeboye,muckle creek | muckle s creek | muckles creek,1896,1910,15
+many_agencies,SCH-00685,(1)Red Pheasant's,Prairies/NWT,battleford; carlton; edmonton; lessr slave lake,red pheasant | red pheasant s | red pheasants,1896,1930,33
+name_variants,SCH-00686,"Thunderchilds, (C.E.)..",Prairies/NWT,battleford; edmonton,thunderchild | thunderchild s | thunderchilds,1898,1930,15
+name_variants,SCH-00699,Ahtahkakoop's,Prairies/NWT,carlton; lessr slave lake,ahtahkakoop s | ahtahkakoops | ahtakakoops,1906,1930,23
+name_variants,SCH-00700,Assisiniboine,Prairies/NWT,assiniboine; lessr slave lake,assiniboine | assisiniboine,1911,1930,18
+many_agencies,SCH-00666,*Goodfish Lake,Prairies/NWT,edmonton; lessr slave lake; saddle lake,goodfish lake,1897,1926,27
+many_agencies,SCH-00708,(t)James Smith's,Prairies/NWT,duck lake; edmonton; lessr slave lake,james smith | james smith s,1899,1930,28
+many_agencies,SCH-00667,4Lake Manitoba,Prairies/NWT,manitoapah; manitowapah; manitowapaw; manitowpah; portage la prairie,lake manitoba,1896,1930,31
+many_agencies,SCH-00712,Little Pine's.,Prairies/NWT,battleford; edmonton; lessr slave lake,little pine s | little pines,1897,1930,31
+many_agencies,SCH-00713,(tt)Louis Bull's,Prairies/NWT,edmonton; hobbema; hoppema,louis bull | louis bull s | louis bulls s,1897,1925,15
+many_agencies,SCH-00714,Montreal Lake.,Prairies/NWT,carleton; carlton; duck lake; edmonton; lessr slave lake,montieal lake | montreal lake,1897,1930,32
+name_variants,SCH-00717,(tt)Old Sun's,Prairies/NWT,blackfoot; lessr slave lake,old sun s | old sun s day,1896,1930,8
+name_variants,SCH-00720,*Poundmaker's,Prairies/NWT,battleford; edmonton,poundmaker s | poundraaker s,1896,1919,19
+many_agencies,SCH-00725,*Sioux Mission,Prairies/NWT,carlton; edmonton; lessr slave lake; manitowapah; pelly,siou mission | sioux mission,1896,1913,18
+many_agencies,SCH-00726,(t)Sturgeon Lake,Prairies/NWT,carlton; edmonton; lessr slave lake,sturgeon lake | sutrgeon lake,1896,1930,32
+name_variants,SCH-00727,(tt)Sweet Grass,Prairies/NWT,battleford,sweet grass | t sweet grass,1896,1903,8
+many_agencies,SCH-00745,(tt)Fisher River,Prairies/NWT,beren s river; berens river; fisher river; norway house; portage la prairie,fisher river,1896,1930,33
+many_agencies,SCH-00692,(t)Fishing Lake,Prairies/NWT,edmonton; lessr slave lake; touchwood; touchwood hill; touchwood hills,fishing lake,1904,1930,17
+name_variants,SCH-00750,(tt)Morley No. 1,Prairies/NWT,edmonton; stony,jmoiley no 1 | morley no 1,1897,1904,4
+many_agencies,SCH-00751,.lohn Smith's,Prairies/NWT,duck lake; edmonton; lessr slave lake,john smith | john smith s | lohn smith s,1897,1930,32
+name_variants,SCH-00693,(1)Keeseekouse,Prairies/NWT,pelly; swan river,keeseekonse | keeseekoonse | keeseekoouse | keeseekouse,1898,1928,19
+many_agencies,SCH-00711,Lac la Ronge.,Prairies/NWT,carlton; duck lake; edmonton,lac la ronge,1898,1907,9
+many_agencies,SCH-00755,(pp)Little Forks,Prairies/NWT,coucheeching; couchiching; coutcheeching,little forks,1896,1903,8
+many_agencies,SCH-01207,Norway House (R.C.),Prairies/NWT,berens river; norway; norway house; portage la prairie,norway house,1898,1915,7
+many_agencies,SCH-00690,(t)Poplar River,Prairies/NWT,berens river; clandeboye; fisher river; norway house; portage la prairie,polar river | poplar river,1896,1930,33
+many_agencies,SCH-00766,(tt)St. Anthony's,Prairies/NWT,edmonton; in treaty no 8; peace river dis in treaty no 8; peace river in treaty no 8; treaty no 8,st anthony s,1899,1908,10
+many_agencies,SCH-00770,(tt)Stangecoming,Prairies/NWT,couchiching; coutcheeching; fort frances,stangecoming,1896,1904,4
+many_agencies,SCH-00772,White Bear's,Prairies/NWT,edmonton; lessr slave lake; moose mountaiin; moose mountain,white bear | white bear s | white bears,1903,1930,26
+many_agencies,SCH-00696,*York Factory,Prairies/NWT,hudson bay dist; norway house; saddle lake,york factory,1902,1930,15
+many_agencies,SCH-00785,(tt)Black River.,Prairies/NWT,berens ri ver; berens river; clandeboye; norway house; portage la prairie,black river,1896,1930,34
+name_variants,SCH-00787,Bull's Horn.,Prairies/NWT,blood; edmonton,bull s horn | bulls horn,1896,1905,10
+many_agencies,SCH-00733,2Crane River (combined),Prairies/NWT,manitouwaning; manitowapah; manitowapaw,crane river,1896,1925,14
+many_agencies,SCH-00795,Fort Norman,Prairies/NWT,fort simpson; mckenzie; west coast,fort norman,1916,1923,5
+many_agencies,SCH-00806,(t)Meadow Lake,Prairies/NWT,battleford; carlton; edmonton; lessr slave lake,meadow lake,1897,1916,18
+many_agencies,SCH-00731,10Mistawasis,Prairies/NWT,carlton; edmonton; lessr slave lake,mistawasis | mistawassis,1897,1930,31
+many_agencies,SCH-00734,4Shoal River,Prairies/NWT,edmonton; manitoapah; manitowapah; manitowpah; pelly,shoal river,1896,1930,32
+name_variants,SCH-00843,(tt)Chemawawin,Prairies/NWT,pas; portage la prairie,chemahawin | chemawawin,1896,1930,33
+many_agencies,SCH-00776,(tt)Cross Lake (Prot).,Prairies/NWT,berens river; norway house; portage la prairie,cross lake,1896,1930,33
+many_agencies,SCH-00846,Day Star's.,Prairies/NWT,day star; edmonton; lessr slave lake; touchwood; touchwood brookfield hills,day star | day star s | day stars,1896,1930,33
+many_agencies,SCH-00848,*Assabasca,Prairies/NWT,kenora; pat portage; rat portage,assabasca | fassabasca,1896,1910,12
+many_agencies,SCH-00858,(tt)Long Sault,Prairies/NWT,coucheeching; couchiching; coutcheeching; fort frances,long sault,1896,1910,15
+many_agencies,SCH-00777,Pine Creek (Boarding),Prairies/NWT,edmonton; manitoapah; manitowapah; manitowapah agencj; manitowapaw,pine creek,1896,1930,33
+many_agencies,SCH-00830,(t)Big River,Prairies/NWT,carlton; edmonton; lessr slave lake,big river,1901,1930,25
+many_agencies,SCH-00901,(tt)Jackhead,Prairies/NWT,beren s river; berens river; fisher river; norway house,jack head | jackhead,1896,1930,22
+many_agencies,SCH-00905,(ss)Rossville,Prairies/NWT,berens river; norway house; portage la prairie,roseville | rossville,1896,1930,32
+many_agencies,SCH-00906,(||)Samson's,Prairies/NWT,edmonton; hobbema; lessr slave lake,sampson s | samson s,1897,1926,26
+many_agencies,SCH-00832,2Swan Lake,Prairies/NWT,pas; portage la prairie; prairie; prairie portage la,swam lake | swan lake,1902,1930,27
+many_agencies,SCH-00884,(tt)Fairford (Lower),Prairies/NWT,fairford; manitoapah; manitowapah; manitowapaw; manitowpah,fairford,1896,1930,27
+name_variants,SCH-00931,(t)Wabigoon,Prairies/NWT,savanne; wabigoon,wabigoon | wabigoou,1896,1907,12
+many_agencies,SCH-00946,*Okanase,Prairies/NWT,birtl e; birtle; birtle la prairie; edmonton; portage la prairie,okanase,1896,1913,17
+many_agencies,SCH-00933,3Peguis (Provincial White),Prairies/NWT,clandeboye; clandeboys; fisher river; portage la prairie,peguis,1908,1926,15
+many_agencies,SCH-00969,Stony (Eagle Hills).,Prairies/NWT,battleford; edmonton; lessr slave lake,stony,1903,1912,10
+name_variants,SCH-01253,Onion Lake R.C. Boarding,Prairies/NWT,onion lake; touchwood hills,onion lake r c | onion lake r c boarding,1896,1930,11
+many_agencies,SCH-01254,Muscowequan's Boarding,Prairies/NWT,touchwood; touchwood haills; touchwood hills; treaty no 8,muscowequan s | muscowequan s boarding,1897,1923,20
+name_variants,SCH-01257,"Lesser Slave Lake, C.E.",Prairies/NWT,lesser slave lake peace river; touchwood hills,lesser slave lake c e | lesser slave lake r c,1898,1902,5
+many_agencies,SCH-00602,Portage la Prairie (Board.),Prairies/NWT,1 4 mile east of portage la prairie man; at york factory hudson bay keewatin; edmonton; file hills; man,port la prairie | portage la prairie,1896,1930,34
+many_agencies,SCH-01264,Providence Mission (Sacred Heart).,Prairies/NWT,edmonton; fort providence mackenzie river n w t; fort resolution; fort simpson; mackenzie river,providence mission,1896,1930,32
+many_agencies,SCH-01546,St. David's Mission.,Prairies/NWT,at fort simpson mackenzie river; at moosehide yukon territory; at ruperts house james bay fort simpson mckenzie river n w t; edmonton; saddle lake,st david s mission,1900,1911,7
+many_agencies,SCH-01263,Lesser Slave Lake (St. Bernard's),Prairies/NWT,lesser slave lake; montague; peace river; saddle lake; treaty no 8,lesser slave lake,1896,1930,28
+many_agencies,SCH-01271,*Emmanuel College,Prairies/NWT,at york factory hudson bay keewatin; crooked lake; duck lake; prince albert sa sk,emmanuel college,1897,1909,13
+many_agencies,SCH-00644,Cecilia Jeffrey.,Prairies/NWT,at york factory hudson bay keewatin; east of shoal lake no 40 kenora; kenora,cecilia jeffrey,1903,1911,9
+many_agencies,SCH-01275,Fort Resolution.,Prairies/NWT,fort resolution; fort smith; smith; treaty no 8; yukon,fort resolution,1904,1930,26
+many_agencies,SCH-01284,Fort Alexander.,Prairies/NWT,at york factory hudson bay keewatin; clandeboye; file hills; fort alexander clandeboye,fort alexander,1906,1930,24
+name_variants,SCH-01285,Fort Chipewyan (Holy Angels).,Prairies/NWT,fort smith; treaty no 8,fort chipewyan | ft chipewyan,1904,1921,18
+many_agencies,SCH-00860,Onion Lake (Anglican),Prairies/NWT,onion lake; touchwood hills; treaty no 8,onion lake | onion lake c e,1898,1930,31
+many_agencies,SCH-01289,Thunderchild's (C.E.),Prairies/NWT,battle ford; battleford; file hills; treaty no 8,thunderchild | thunderchild s | thunderchilds,1896,1930,31
+many_agencies,SCH-01290,Whitefish Lake (St. Andrew's Mission),Prairies/NWT,lesser slave lake; mission slave; saddle lake; treaty no 8; yukon,whitefish lake,1901,1930,22
+many_agencies,SCH-01294,*Lac la Plonge,Prairies/NWT,at york factory hudson bay keewatin; carlton; duck lake; treaty no 10; treaty no 8,lac la plonge | lac la ronge,1897,1930,25
+many_agencies,SCH-01299,Sturgeon Lake.,Prairies/NWT,lesser slave lake; lesser slaver lake; treaty no 8,sturgeon lake,1908,1930,22
+many_agencies,SCH-01301,Wabiskaw Lake (Anglican),Prairies/NWT,leeser slave lake; lesser slave lake; treaty no 8,wabiskaw | wabiskaw lake,1906,1923,17
+many_agencies,SCH-00739,Blue Quill's.,Prairies/NWT,blue quills; saddle lake; treaty no 8,blue quill s | blue quills,1896,1930,32
+many_agencies,SCH-00743,Ermineskin's.,Prairies/NWT,hobbeina; hobbema; hobberaa; treaty no 8,ermineskin | ermineskin s | ermineskins,1898,1930,32
+many_agencies,SCH-00746,Fort Frances.,Prairies/NWT,at york factory hudson bay keewatin; fort frances; on fort frances,fort frances,1906,1911,6
+many_agencies,SCH-00697,Norway House (Meth.),Prairies/NWT,at rossville villa on norway house; at york factory hudson bay keewatin; berens river; file hills; norway house,norway house,1896,1930,32
+many_agencies,SCH-01553,York Factory.,Prairies/NWT,at moosehide yukon territory; at york factory hudson bay; at york factory hudson bay keewatin; edmonton,york factory,1901,1911,7
+many_agencies,SCH-00803,Holy Angels,Prairies/NWT,fort smith; nativity mission fort chipe wyan; treaty no 8; treaty no 9,holy angels,1901,1930,11
+many_agencies,SCH-00819,(t)St. Joseph's,Prairies/NWT,lesser slave lake; williams lake; yukon,st joseph | st joseph s,1898,1923,25
+name_variants,SCH-01328,"Wabasca, C.E.",Prairies/NWT,treaty no 8,wabasca c e | wabasca r c,1926,1930,5
+many_agencies,SCH-00849,File Hills.,Prairies/NWT,at york factory hudson bay keewatin; file hills; hobbema; qu appelle; treaty no 8,file hill | file hills,1898,1930,31
+name_variants,SCH-01338,"Peigan, C.E.",Prairies/NWT,peigan; touchwood hills,peigan c e | peigan r c,1899,1926,5
+many_agencies,SCH-01340,Pine Creek.,Prairies/NWT,at york factory hudson bay keewatin; file hills; manitowapah; monitowapah; west side lake winnipegosis adjoining pine creek manitowapah,pine creek,1899,1930,28
+many_agencies,SCH-00871,(t)Qu'Appelle,Prairies/NWT,onion lake; touchwood; williams lake; yukon,qu appelle,1898,1930,31
+many_agencies,SCH-00872,Round Lake.,Prairies/NWT,crooked lake; crooked lakes; file hills; touchwood hills,round lake,1898,1930,32
+many_agencies,SCH-00874,St. Albert.,Prairies/NWT,edmonton; peigan; st albert settlement alta; stony; touchwood hills,st albert | st alberta,1898,1930,32
+many_agencies,SCH-01350,"Vermillion, (St. Henri)",Prairies/NWT,edmonton; leeser slave lake; lesser slave lake; treaty no 8,vermilion | vermillion,1898,1930,26
+many_agencies,SCH-00892,Cowessess',Prairies/NWT,at york factory hudson bay keewatin; crooked lake; crooked lakes; file hills,cowesses | cowessess,1899,1930,30
+many_agencies,SCH-00894,*Crowstand,Prairies/NWT,at york factory hudson bay keewatin; pelly; swan river,crowstand,1898,1916,19
+many_agencies,SCH-00895,Duck Lake.,Prairies/NWT,at york factory hudson bay keewatin; crooked lake; duck lake; file hills,duck lake,1898,1930,32
+many_agencies,SCH-01347,Hay River (Saint Peter's Mission),Prairies/NWT,fort resolution; fort smith; treaty no 8; yukon,hay river,1903,1930,25
+many_agencies,SCH-00929,*Old Sun's,Prairies/NWT,blackfoot; stony; touchwood hills,old sun s | old suns,1898,1928,27
+many_agencies,SCH-00907,Sandy Bay.,Prairies/NWT,at york factory hudson bay keewatin; file hills; manitowapah; manitowapaw; monitowapah,sandy bay,1896,1930,27
+many_agencies,SCH-00943,(1)Gordon's,Prairies/NWT,at york factory hudson bay keewatin; touch wood hills; touchwood; touchwood haills; touchwood hills,gordon s | gordons,1898,1930,32
+many_agencies,SCH-00938,(t)Brandon,Prairies/NWT,birthe; birtle; williams lake; yukon,brandon,1898,1930,30
+many_agencies,SCH-00941,(t)Elkhorn,Prairies/NWT,birtle; norway house; williams lake; yukon,elkhorn,1898,1930,27
+many_agencies,SCH-00952,Birtle.,Prairies/NWT,at birtle man birtle; at york factory hudson bay keewatin; birthe; birtle; file hills,birtle,1898,1930,31
+many_agencies,SCH-00954,Kenora.,Prairies/NWT,at york factory hudson bay keewatin; kenora; near kenora ont kenora,kenora,1906,1911,6
+many_agencies,SCH-01365,Sarcee.,Prairies/NWT,sarcee; touchwood hills; treaty no 8,sarcee,1898,1921,24
+name_variants,SCH-01369,Temiscamingue. (Mission.),QUEBEC,temiscamingue; whycocomagh,temiscamingue | temiscamingue mission,1896,1900,5
+many_agencies,SCH-00987,Caughnawaga (St. Isidore).,QUEBEC,caghnawaga; caughnawaga; gabriel caughnawaga; james bay; whycocomagh,caughnawaga | caughnawaga girls | caughnawaga r c,1898,1930,30
+many_agencies,SCH-00994,Rupert's House at,QUEBEC,edmonton; james bay; james bay dis t; timiskaming; treaty no 9,rupert house | rupert s house | rupert s house at | ruperts house,1899,1930,20
+many_agencies,SCH-00997,Caughnawaga - Boys,QUEBEC,caughnawaga; caughnawaga gabriel; gabriel caughnawaga,caughnawaga boys | caughnawaga bush,1919,1930,7
+many_agencies,SCH-01001,Cornwall Island.,QUEBEC,james bay; p e i sup c y; st regis; whycocomagh,cornwall island,1896,1930,34
+many_agencies,SCH-01000,(t)Hunter's Point,QUEBEC,james bay; temiskaming; timiskaming,hunter s point | hunters point | hunters point1,1908,1930,19
+name_variants,SCH-01011,St. Frances (Prot.),QUEBEC,pierreville,st france r c | st frances | st frances c e | st frances r c,1917,1930,13
+many_agencies,SCH-01012,(tt)St. Francis (Prot),QUEBEC,james bay; p e i sup c y; pierieville; pierreville; st francis,st francis | st francis r c,1896,1928,22
+many_agencies,SCH-01025,Congo Bridge.,QUEBEC,james bay; maniwaki; maniwoki,congo bridge,1905,1930,25
+many_agencies,SCH-01035,Pointe Bleue.,QUEBEC,james bay; p e i sup c y; pointe bleue; whycocomagh,point bleue | pointe bleue | pointe bleur | points bleue,1896,1930,34
+name_variants,SCH-01039,(1)Escoumains,QUEBEC,bersimis; james bay,escoumains | escoumains1,1905,1921,17
+many_agencies,SCH-01043,*Fort George,QUEBEC,james bay; james bay dis t; outside treaty; treaty no 9,fort george,1903,1930,12
+many_agencies,SCH-01040,(tt)Long Point.,QUEBEC,james bay; temiskaming; timishaming; timiskaming,long point | long point2,1912,1930,16
+many_agencies,SCH-01020,1Mistassinni,QUEBEC,james bay; outside treaty; timiskaming; treaty no 9,mistassini | mistassinni,1913,1930,12
+many_agencies,SCH-01049,Restigouche.,QUEBEC,james bay; p e i sup c y; re stigouche; restigouche; restugouche,restigouche,1896,1930,28
+many_agencies,SCH-01021,2Timiskaming,QUEBEC,james bay; temiskaming; timiskaming,temiskaming | timiskaming,1903,1930,26
+many_agencies,SCH-01059,(tt)Becancourt,QUEBEC,becancour; becancourt; p e i sup c y; whycocomagh,becancour | becancourt,1896,1904,9
+many_agencies,SCH-01041,(1)Kiskissink,QUEBEC,james bay; point bleue; pointe bleue; timiskaming,kiskissink,1911,1921,5
+many_agencies,SCH-01065,*Lake Simon,QUEBEC,outside treaty; temiskaming; timiskaming,lake simon,1923,1930,5
+many_agencies,SCH-01057,*Waswanipi,QUEBEC,temiskaming; timiskaming; waswanipi,waswanipi | waswanipi2 | waswanippi,1915,1929,9
+name_variants,SCH-01055,(ss)Wolf Lake,QUEBEC,temiskaming; timiskaming,wolf lake | wolf lake2,1912,1930,9
+many_agencies,SCH-01054,*Waswanapi,QUEBEC,teminskaming; temiskaming; timiskaming,waswanapi,1919,1924,5
+many_agencies,SCH-01079,Bersimis.,QUEBEC,bersimis; caughnawaga; james bay; p e i sup c y,bersimis,1900,1930,30
+many_agencies,SCH-01084,Lorette.,QUEBEC,james bay; lorette; loretto; p e i sup c y; whycocomagh,lorette | lorettel,1896,1930,34
+many_agencies,SCH-01085,Maniwaki.,QUEBEC,james bay; maniwaki; p e i sup c y; whycocomagh,maniwaki,1896,1930,34
+many_agencies,SCH-01087,(||)St. Regis (Village),QUEBEC,james bay; p e i sup c y; st regis; whycocomagh,st regis,1896,1914,19
+many_agencies,SCH-01095,Maria.,QUEBEC,james bay; maria; p e i sup c y; whycocomagh,maria,1896,1930,34
+many_agencies,SCH-01097,(t)Oka (Country).,QUEBEC,caughnawaga; james bay; maria; oka; p e i sup c y,oka,1896,1914,19
+many_agencies,SCH-01559,*Rupert's House,QUEBEC,at ruperts house james bay fort simpson mckenzie river n w t; edmonton; saddle lake,rupert s house | ruperts house,1897,1906,6
+many_agencies,SCH-01560,*Fort George,QUEBEC,east main coast hudson bay; edmonton; fort george james bay; fort george james bay keewatin,fort george,1896,1908,7
+many_agencies,SCH-01111,*Moosehide,YUKON,edmonton; saddle lake; yukon; yukon territory,moosehide,1899,1930,21
+many_agencies,SCH-01387,*Moosehide.,YUKON,at moosehide yukon territory; moosonee diocese yukon; saddle lake; yukon,moosehide,1900,1911,7

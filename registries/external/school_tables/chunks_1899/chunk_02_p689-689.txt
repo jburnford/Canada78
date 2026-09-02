@@ -1,0 +1,49 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+SHOWING the Condition of Indian Day Schools in the Dominion (from which Reports have been received) for
+the Year ended June 30, 1899.
+ School.             Reserve.     Agency.          Teacher.             Denomination.
+
+                     ...               ...              ...                      ...
+ONTARIO.
+Alnwick              Alnwick           Alnwick          F.F. Allan               Methodist
+Back Settlement      Caradoc           Caradoc          Miss Eliz. J.Rogers      Undenominational
+Bear Creek           Caradoc           Caradoc          Miss Martha Nicholls     Undenominational
+Buzwah               Manitoulin Island Manitowaning David Craddock               Roman Catholic
+Cape Croker          Cape Croker       Cape Croker      Miss Lizzie J. Glazier   Undenominational
+Christian Island     Christian Island Penetanguishene Rev. G. S. Hunt            Methodist
+Fort William (Boys) Fort William       Northern         Sister M. Ambrose        Roman Catholic
+Fort William (Girls) Fort William      Northern         Sister M. Ambrose        Roman Catholic
+French Bay           Saugeen           Saugeen          Miss Helen Cameron       Undenominational
+Garden River (R.C.) Garden River       Sault Ste. Marie Rev. P.E. Lamarche       Roman Catholic
+*Garden River (C.E.) Garden River      Sault Ste. Marie E. Knopf                 Church of England
+Georgina Island      Georgina Island Rama               Henry J. Hoidge          Methodist
+Gibson               Watha             Parry Sound      A. Kniewasser            Methodist
+Golden Lake          Golden Lake       Golden Lake      Miss S.M. Dunne          Roman Catholic
+Henvey Inlet         Henvey Inlet      Parry Sound      Miss Adda McIntosh       Undenominational
+Hiawatha             Rice Lake         Alnwick          J.A. Windsor             Methodist
+Jackfish Island    Jackfish Island   Northern           J.A. Blowiest          Roman Catholic
+Kettle Point       Kettle Point      Sarnia             Miss Annie Rogers      Undenominational
+Lake Helen         Red Rock          Northern           Mrs. Gayest H. McKay Roman Catholic
+Mattawa            At Mattawa        ...                Rev. Sis. St. Gregory Roman Catholic
+Mississagua River  Manitoulin Island Thessalon          Ad. de Lamorandiere Roman Catholic
+Moraviantown       Moravian          Moravian           Willis N. Tobias       Undenominational
+Moravian Orphanage Moravian          Moravian           T.M. Rights            M
+
+=== EXTRACT FROM HERE (pages 689-689) ===
+NOVA SCOTIA.
+Bear River                      Bear River     Bear River        J.L. DeVany          Roman Catholic
+Cow Bay                         Cole harbour District No. 5      Miss Mary C. Blank Roman Catholic
+Eskasoni                        Eskasoni       District No. 13   Rod McMillan         Roman Catholic
+*Half Way River                 Franklin Manor Cumberland Co'ty Miss Clara Moore      Roman Catholic
+*Indian Cove                    Fisher's Grant Pictou County     Miss N.E. Connolly Roman Catholic
+Middle River                    Middle River Victoria County Alex. McDougall          Roman Catholic
+*Millbrook                      Millbrook      Colchester County Miss Bessie M. Smith Roman Catholic
+New Germany                     Lunenburg      Lunenburg         Miss Maggie J. Barss Roman Catholic
+Salmon River                    Salmon River District No. 10     Miss Sarah E. Boyd Roman Catholic
+Shubenacadie                    Indian Brook Shubenacadie        R.J. Logan           Roman Catholic
+Whycocomagh                     Whycocomagh Whycocomagh          P.A. Murphy          Roman Catholic
+Total, Nova Scotia              ...            ...               ...                  ...
+
+                                ...             ...                ...                   ...

@@ -1,0 +1,248 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal
+Year ended March 31, 1912.
+
+Note - The `Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+
+
+School.                          Reserve.          Agency.                Teacher.                      Denomination.
+NOVA SCOTIA.                     ...               ...                    ...                           ...
+                                                                                                        Roman
+Bear River                       Bear River        Digby County           Mrs. Minnie A. Howe
+                                                                                                        Catholic
+                                                                                                        Roman
+Eskasoni                         Eskasoni          Cape Breton Co         James Macneil
+                                                                                                        Catholic
+                                                                                                        Roman
+Sydney                           Sydney            Cape Breton Co         Miss Edna F. Gough
+                                                                                                        Catholic
+                                                                                                        Roman
+*Halfway River                  Franklin Manor Cumberland Co              Sydney B. Fullerton
+                                                                                                        Catholic
+                                                                                                        Roman
+Indian Cove                     Fisher's Grant     Pictou County          Miss Gertrude McGirr
+                                                                                                        Catholic
+                                                                                                        Roman
+Middle River                    Middle River       
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                                                          England
+Thessalon           Thessalon      Thessalon     Miss L.C. Shaddeau                          Roman Catholic
+(t)Abitibi          At Abitibi     Treaty No.9   Mrs. J.S. Simpson                           Roman Catholic
+Albany Mission      At Fort                                                                  Church of
+                                   Treaty No.9   Rev. E. Richards
+(C.E.)              Albany                                                                   England
+                    At Moose                                                                 Church of
+French Post                        Treaty No.9   Fred Marks
+                    River                                                                    England
+                                                                                             Church of
+Moose Fort          At Moose Fort Treaty No.9    Miss Lucy J. Barker
+                                                                                             England
+Tyendinaga (Eastern) Tyendinaga    Tyendinaga    Irvine Brant                                Undenominational
+
+
+
+=== EXTRACT FROM HERE (pages 621-626) ===
+<!-- page 621 -->
+Tyendinaga
+                       Tyendinaga      Tyendinaga     Miss Eva Oliver       Undenominational
+(Western)
+Tyendinaga (Central) Tyendinaga        Tyendinaga     Miss A.V. Martin      Undenominational
+Tyendinaga
+                     Tyendinaga        Tyendinaga     Alexander Leween      Undenominational
+(Mission)
+                       Walpole         Walpole                              Church of
+Walpole Island No.1                                   Miss Electa Bissell
+                       Island          Island                               England
+                       Walpole         Walpole
+Walpole Island No.2                                   Joseph Sampson        Methodist
+                       Island          Island
+*Biscotasing           At Biscotasing Chapleau        T. Sullivan           Undenominational
+                                                                            Church of
+(tt)Long Sault         Long Sault      Fort Frances   Walter Blackbird
+                                                                            England
+                       Manitou                                              Church of
+Manitou Rapids                         Fort Frances   Robert R. Gill
+                       Rapids                                               England
+Seine River            Seine River     Fort Frances   Peter Spence          Undenominational
+Assabasca              Assabaca        Kenora         Mrs. J.L. Harber      Undenominational
+                                                                            Church of
+(t)Islington           Islington       Kenora         George C. Smith
+                                                                            England
+Total, Ontario         ...             ...            ...                   ...
+
+[*White school attended by Indian children.]
+
+[(tt)Closed from June 3O, 1911. No teacher.]
+
+[(t)Open during the summer only.]
+
+<!-- page 622 -->
+NUMBER ON ROLL. Average Attendance STANDARD.                 School
+Boys. Girls. Total. ...            I   II III IV     V VI ...
+...   ...    ...    ...            ... ... ... ...   ... ... ONTARIO - Concluded.
+31    32     63     22             30  15 15 3       ... ... Garden River (R.C.).
+21    9      30     15             18  7 4 1         ... ... Garden River (C.E.)
+6     15     21     12             11  2 5 3         ... ... Goulais Bay.
+6     9      15     11             4   5 2 3         1 ... Michilpicoten.
+12    4      16     6              3   9 4 ...       ... ... Scugog S.S. No.3.
+31    41     72     28             34  14 7 11       6 ... Six Nations No.1
+42    37     79     33             29  7 22 5        12 4 Six Nations No.2.
+43    43     86     25             52  18 11 4       1 ... Six Nations No.3.
+18    15     33     19             14  2 5 5         7 ... Six Nations No.4.
+33    8      41     19             11  20 4 2        3 1 Six Nations No.5.
+23    10     33     11             12  5 9 4         3 ... Six Nations No.6.
+50    50     100    39             63  15 12 4       4 ... Six Nations No.7.
+15    17     32     12             16  6 6 6         4 ... Six Nations No.9.
+26    26     52     12             24  13 11 3       1 ... Six Nations No.10.
+26    24     50     19             22  6 16 3        3 ... Six Nations No.11.
+17    13     30     12             19  1 10 ...      ... ... Garden Village.
+17    31     48     31             28  12 5 2        1 ... *Mattawa
+9     9      18     7              8   6 1 ...       3 ... Nipissing.
+21    15     36     25             22  12 2 ...      ... ... (t)Temogami.
+19    14     33     11             21  3 5 4         ... ... Mississagi River.
+11    12     13     16             7   6 7 1         2 ... Sagamook.
+12    14     26     14             15  5 6 ...       ... ... Serpent River.
+6     7      13     4              8   3 ... 2       ... ... Spanish River.
+10    7      17     7              14  3 ... ...     ... ... Thessalon.
+39    25     64     34             59  5 ... ...     ... ... Abitibi.
+47    41     88     25             74  8 4 2         ... ... Albany River (C.E.).
+12    8      20     11             16  3 1 ...       ... ... French Post.
+18    20     38     14             22  5 4 6         1 ... Moose Fort.
+19    23     42     17             28  3 7 3         1 ... Tyendinaga. (Eastern).
+5     13     18     5              5   2 5 3         3 ... Tyendinaga (Western).
+21    16     37     13             21  4 10 2        ... ... Tyendinaga (Central).
+19    23     42     13             15  4 14 8        1 ... Tyendinaga (Mission).
+24    26     50     20             37  7 5 ...       1 ... Walpole Island No.1.
+13    16     29     20             22  4 3 ...       ... ... Walpole Island No.2.
+2     3      5      3              2   1 2 ...       ... ... *Biscotasing
+7     2      9      4              8   1 ... ...     ... ... (tt)Long Sault.
+11    4      15     5              14  1 ... ...     ... ... Manitou Rapids.
+
+<!-- page 623 -->
+4        5       9       6                     4     3 2 ... ... ... Seine River.
+7        8       15      6                     10    4 1 ... ... ... Assabasca.
+16       13      29      16                    29    ... ... ... ... ... (t)Islington.
+1,363    1,253   2,616   1,186                 1,455 428 389 239 100 5 Total, Ontario.
+
+[*White school attended by Indian children.]
+
+[(t)Open during the summer only.]
+
+[(tt)Closed from June 30, 1911. No teacher.]
+
+27 - i - 27
+
+<!-- page 624 -->
+School.                Reserve.          Agency.        Teacher.               Denomination.
+MANITOBA.              ...               ...            ...                    ...
+Okanase                Okanase           Birtle         Miss Maggie E. Murray Presbyterian
+Black River            Black River       Clandeboye     George Slater          Church of England
+Brokenhead             Brokenhead        Clandeboye     Miss Belle Monkman Church of England
+Fort Alexander (Upper) Fort Alexander    Clandeboye     Rev. Chas. H. Fryer    Church of England
+Fort Alexander (Lower) Fort Alexander    Clandeboye     Miss Edith C. Isbister Church of England
+Hollowwater River      Hollowwater River Clandeboye     Arthur Santimier       Church of England
+St. Peters (North)     St. Peters        Clandeboye     Peter Harper           Church of England
+St. Peters (South)     St. Peters        Clandeboye     Miss Marg't Isbister   Church of England
+St. Peters (Peguis)    St. Peters        Clandeboye     Miss Myrtle Pruder     Church of England
+Berens River           Berens River      Fisher River   Mrs. J.H. Lowes        Methodist
+Fisher River           Fisher River      Fisher River   Miss Nellie J. Nash    Methodist
+Grand River            Grand Rapids      Fisher River   Charles Morris         Church of England
+Peguis (North)         Peguis            Fisher River   Angus Prince           Church of England
+Peguis (South)         Peguis            Fisher River   Henry J. Francis       Church of England
+Poplar River           Poplar River      Fisher River   P.E. Jones             Methodist
+Ebb and Flow Lake      Ebb and Flow Lake Manitowapah    Miss Nora Shannon      Roman Catholic
+Fairford (Upper)       Fairford          Manitowapah    Rupert Bruce           Church of England
+Fairford (Lower)       Fairford          Manitowapah    Colin Sanderson        Church of England
+Lake Manitoba          Lake Manitoba     Manitowapah    L.E. Martel            Roman Catholic
+Lake St. Martin        Lake St. Martin   Manitowapah    Jno. E. Favell         Church of England
+Little Saskatchewan    Little Saskat'wan Manitowapah    Peter Anderson         Church of England
+Pine Creek             Pine Creek        Manitowapah    Rev. A. Chaumont       Roman Catholic
+Shoal River            Shoal River       Manitowapah    Rev. T.H. Dobbs        Church of England
+Waterhen River         Waterhen River    Manitowapah    Miss Marie L. Adam     Roman Catholic
+Cross Lake (Prot)      Cross Lake        Norway House   Miss Ada M. Golding Methodist
+Cross Lake (R.C.)      Cross Lake        Norway House   Rev. E. Bonald, O.M.I. Roman Catholic
+God's Lake             God's Lake        Norway House   H.F. Wildgoose         Methodist
+Jack River             Jack River        Norway House   Rev. J.F.J. Marshall   Church of England
+Nelson House           At Nelson House Norway House     Rev. Henry T. Wright Methodist
+Norway House (R.C.) Norway House         Norway House   Sister Marg. Mary      Roamon Catholic
+Oxford House           At Oxford House Norway House     John W. Niddrie        Methodist
+Rossville              Norway House      Norway House   Thomas Bolster         Methodist
+Big Eddy               Pas               Pas            D.A. Cook              Church of England
+Chemawawin             Chemawawin        Pas            Rev. M. Leffler        Church of England
+Cumberland             Cumberland        Pas            John A. Keddie         Church of England
+Moose Lake             Moose Lake        Pas            C.T. Mitchell          Church of England
+Pas                    Pas               Pas            Coastes                Church of England
+Red Earth              Red Earth         Pas            John G. Kennedy        Church of England
+
+<!-- page 625 -->
+Shoal Lake                Pas Mountain        Pas                Francis J. Daniels     Church of England
+Roseau Rapids             Roseau Rapids       Portage la Prairie Miss Rose Godon        Undenominational
+Swan Lake                 Swan Lake           Portage la Prairie Miss Jessie G. Bruce   Presbyterian
+Total, Manitoba           ...                 ...                ...                    ...
+
+[*No return received for the June quarter 1911.]
+
+[(t)New school opened during November 1911.]
+
+[(tt)Only one quarterly return received.]
+
+[(pp)Open during the summer only.]
+
+[(b)Day pupils attend classes in the boarding school.]
+
+[(||)Closed since June 30, 1911.]
+
+<!-- page 626 -->
+NUMBER ON ROLL. Average Attendance STANDARD.               School
+Boys. Girls. Total. ...            I   II III IV V VI ...
+...   ...    ...    ...            ... ... ... ... ... ... MANITOBA.
+7     9      16     8              11 3 1 1 ... ... Okanase.
+7     12     19     7              3 11 5 ... ... ... Black River.
+11    10     21     7              13 4 3 1 ... ... Brokenbead.
+19    11     30     19             20 5 3 ... 2 ... Fort Alexander (Upper)
+9     6      15     5              10 4 1 ... ... ... Fort Alexander (Lower.)
+8     12     20     8              15 3 2 ... ... ... Hollowwater River.
+12    14     26     12             19 1 3 1 1 1 St. Peters (North.)
+15    12     27     11             8 6 5 4 4 ... St. Peters (South.)
+15    8      23     9              10 8 1 4 ... ... St. Peters (Peguis.)
+30    22     52     16             47 3 1 1 ... ... Berens River.
+32    30     62     23             54 7 ... 1 ... ... *Fisher River.
+13    14     27     14             17 9 1 ... ... ... Grand Rapids.
+19    11     30     19             27 3 ... ... ... ... (t)Peguis (North.)
+12    16     28     14             14 9 4 ... 1 ... (t)Peguis (South.)
+20    13     33     12             32 1 ... ... ... ... Poplar River.
+5     10     15     7              11 4 ... ... ... ... Ebb and Flow Lake.
+8     12     20     10             7 6 5 2 ... ... Fairford (Upper.)
+15    17     32     8              17 6 6 3 ... ... Fairford (Lower.)
+8     4      12     6              5 4 2 1 ... ... Lake Manitoba.
+14    21     35     21             18 11 11 4 1 ... Lake St. Martin.
+7     15     22     9              9 5 7 1 ... ... Little Saskatchewan.
+9     11     20     17             11 3 4 2 ... ... (b)Pine Creek.
+16    13     29     16             20 5 4 ... ... ... Shoal River
+6     9      15     6              11 4 ... ... ... ... Waterhen River.
+14    12     16     7              23 ... 3 ... ... ... Cross Lake (Prot.).
+13    10     23     8              15 3 3 2 ... ... (tt)Cross Lake (R.C.)
+6     20     26     9              26 ... ... ... ... ... (pp)God's Lake.
+18    4      22     8              11 6 5 ... ... ... Jack River.
+20    26     46     25             46 ... ... ... ... ... (tt)Nelson House.
+9     7      16     8              12 2 2 ... ... ... Norway House (R.C.)
+18    19     37     13             33 4 ... ... ... ... Oxford House.
+12    12     24     7              21 3 ... ... ... ... Rossville.
+17    5      22     10             14 5 2 1 ... ... *Big Eddy.
+16    13     29     14             28 1 ... ... ... ... Chemawawin.
+8     17     25     6              17 3 5 ... ... ... Cumberland.
+5     12     17     8              17 ... ... ... ... ... Moose Lake.
+16    11     21     16             15 7 5 ... ... ... Pas.
+

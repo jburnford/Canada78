@@ -1,0 +1,235 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT of Day Schools in the Dominion (from which Returns have been received) for the Fiscal Year
+ended March 3, 1908.
+
+School.                   Reserve.           Agency.          Teacher.                Denomination.
+ONTARIO.                  ...                ...              ...                     ...
+*Abitibi                  On Lake Abitibi    Treaty No. 9     Mrs. Jno. R Simpson     Roman Catholic
+Albany River, (C.E.)      At Fort Albany     Treaty No. 9     W. Haythornthwaite      Church of England
+Alnwick                   Alnwick            Alnwick          Francis J. Joblin       Methodist
+Back Settlement           Caradoc            Caradoc          Lyman W. Fisher         Undenominational
+Bear Creek                Caradoc            Caradoc          Miss Nettie E. Lockwood Undenominational
+Cape Croker               Cape Croker        Cape Croker      Miss Mary Moffitt       Undenominational
+Christian Island          Christian Island   Penetanguishene Rev J. Wilson, B.A.      Methodist
+(t)Fort William (Boys)    Fort William       Port Arthur      Sr. M. Ambrose          Roman Catholic
+(t)Fort William (Girls)   Fort William       Port Author      Sr. M. Ambrose          Roman Catholic
+French Bay                Saugeen            Saugeen          T.J. Wallace            Undenominational
+Garden River (R.C.)       Garden River       Sault Ste. Marie Rev. J.A. Drolet, S.J.  Roman Catholic
+Garden River (C.E.)       Garden River       Sault Ste. Marie L.F. Hardyman           Church of England
+Garden Village            Nipissing          Sturgeon Falls F. LeTonturier            Roman Catholic
+Georgina Island           Georgina Island    Georgina Island J.H. Prosser             Methodist
+Gibson                    Watha              Parry Sound      William Kendall         Methodist
+Golden Lake               Golden Lake        Golden Lake      Miss L.M. Schruder      Roman Catholic
+(tt)Goulais Bay         Goulais Bay       Sault Ste. Marie Miss Jeannie McDermott Roman Catholic
+(||)Graham, S.S. No. 5  At Naughton       Manitowaning Miss Mary F. Neaphy        Undenominational
+(pp)Grand Bay           Lake Nipigon      Port Arthur      Miss Benna Fuller      Church of England
+Henvey Inlet            Henvey Inlet      Parry Sound      Joseph Partridge       Undenominational
+(||)Hiawatha            Rice Lake         Rice Lake        Miss J.R. Waddell      Undenominational
+Kettle Point            Kettle Point      Sarnia           Mrs. 
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                                                    Fallu
+                                                            John C.      Church of                                                                                 (||)Whitefish
+(||)Whitefish River   Whitefish River      Manitowaning                                    300 00   Vote    3    2     5    2    5     ...   ...   ...   ... ...
+                                                            Ross         England                                                                                   River.
+                                                        Rev. Th.
+Wikwemikong                                                                                                                                                        Wikwemikong
+                      Wikwemikong(unceded) Manitowaning Couture,         Roman Catholic    300 00   Vote    21   ...   21   8    20    1     ...   ...   ... ...
+(Boys)                                                                                                                                                             (Boys).
+                                                        S.J.
+
+
+
+=== EXTRACT FROM HERE (pages 824-829) ===
+<!-- page 824 -->
+Wikwemikong                                                   Miss Eliz.                                                                                                      Wikwemikong
+                      Wikwemikong(unceded) Manitowaning                    Roman Catholic     300 00    Vote    ...    19    19     7           15    3   ...   1   ... ...
+(Girls)                                                       A. Lensch                                                                                                       (Girls).
+                                                              Miss Rose
+Wikwemikongsing       Wikwemikongsing          Manitowaning                Roman Catholic     300 00    Vote    14     11    25     13          13    4   3     5   ... ... Wikwemikongsing
+                                                              Fagan
+Total, Ontario        ...                      ...            ...          ...                ...       ...     1166 1145 2311 1111             1185 466 338 221 96 5 Total, Ontario
+
+[*Indian children attend white school. (t)Reopened August 26, 1907 having been closed since June 30, 1900. (tt)Open during the summer only. (||)Closed from June 30, 1907.]
+
+<!-- page 825 -->
+Table, see page 38
+
+<!-- page 826 -->
+                                                                              From
+                                                                              what NUMBER ON               Average
+School.       Reserve.     Agency.       Teacher.    Denomination.     Grant.                                          STANDARD.                     School.
+                                                                              Fund ROLL.                   Attendance.
+                                                                              Paid.
+...           ...          ...           ...         ...               ...      ...   Boys. Girls. Total. ...        I     II    III IV V VI ...
+QUEBEC.       ...          ...           ...         ...               $ cts.   ...   ...   ...    ...    ...        ...   ...   ... ... ... ... QUEBEC.
+                                         Sr. Marie
+Bersimis      Bersimis     Bersimis                  Roman Catholic    300 00 Vote 26        26    52      19        25 12 5           7 3 ... Bersimis.
+                                         Pauline
+                                    Peter J.
+Caughnawaga                                                                                                                                          Caughnawaga
+            Caughnawaga Caughnawaga DeLisle,         Roman Catholic    450 00 Vote 101       ...   101     57       86 9         4     2 ... ...
+(Boys)                                                                                                                                               (Boys).
+                                    Prin
+                                         Peter
+...           ...          ...           Williams,   Roman Catholic    350 00 Vote ...      ...    ...     ...      ...    ...   ...   ... ... ... ...
+                                         Asst
+                                    Miss M.E.
+Caughnawaga                                                                                                                                          Caughnawaga
+            Caughnawaga Caughnawaga Howlett,         Roman Catholic    350 00 Vote 64       64     31      29       15 5         4     11 ... ...
+(Girls)                                                                                                                                              (Girls)
+                                    Principal
+                                         Miss Teresa
+...           ...          ...           McDermott, Roman Catholic     300 00 Vote ...      ...    ...     ...      ...    ...   ...   ... ... ... ...
+                                         Assistant
+Caughnawaga                         Mrs. A.                                                                                                          Caughnawaga
+            Caughnawaga Caughnawaga                  Roman Catholic    350 00 Vote 27       16     43      24       21 11 5            6 ... ...
+(Bush)                              Beauvais                                                                                                         (Bush).
+Caughnawaga                         Miss E.M.                                                                                                        Caughnawaga
+            Caughnawaga Caughnawaga                  Methodist         250 00 Vote 20       31     51      13       47 2         2     ... ... ...
+(Mission)                           Young                                                                                                            (Mission).
+                                         Miss R.H.                                                                                                   Congo
+Congo Bridge Maniwaki      Maniwaki                  Undenominational 350 00 Vote 8         25     33     10        7      8     9     2 7 ...
+                                         Gilbooly                                                                                                    Bridge.
+Cornwall                                 Miss K.                                                                                                     Cornwall
+              St. Regis    St. Regis                Undenominational 350 00 Vote 24         28     52     19        46 ...       2     4 ... ...
+Island                                   Roundpoint                                                                                                  Island.
+              At                         Joseph L.
+*Escoumains                Bersimis                  Roman Catholic    ...      Vote 5      8      13     11        1      4     3     3 1 1 Escoumains.
+              Escoumains                 Otis
+(t)Hunters    At Hunters                 Miss Lucy I.                                                                                                Hunter's
+                           Timiskaming                Roman Catholic   150 00 9       11    20     17     6         7      7     ...   ... ... ...
+Point         Point                      Street                                                                                                      Point.
+                                         Sr. St. John
+                                         of the
+Lorette       Lorette      Lorette                    Roman Catholic   150 00 Vote 21       29     50     34        20 15 15 ... ... ... Lorette.
+                                         Cross,
+                                         Principal
+                           Sister St.
+                                         Roman
+...           ...          Georges,                  150 00            ...      ...   ...   ...    ...    ...       ...    ...   ...   ... ... ... ...
+                                         Catholic
+                           Assistant
+                                         Miss M.
+Maniwaki      Maniwaki     Maniwaki                  Roman Catholic    300 00 Band 8        22     30     10        10 8         10 2 ... ... Maniwaki.
+                                         McCaffrey
+                                         Miss
+Maria         Maria        Maria         Margaret    Roman Catholic    30000 Vote 13        12     25     14        12 5         3     3 1 1 Maria.
+                                         Isaac
+Oka                                      Miss Cora                                                                                                   Oka
+              Oka          Oka                       Methodist         125 00 Vote 15       14     29     10        18 4         3     2 2 ...
+(Country)                                I.J. Carr                                                                                                   (Country).
+                                         Miss L.C.                                                                                                   Oka
+
+<!-- page 827 -->
+Oka (Village) Oka             Oka                         Methodist          125 00 Vote 12      16    28     13          18 1        2     5 2 ...
+                                            Moore                                                                                                       (Village).
+                                            Miss Berthe
+Pointe Bleue Pointe Bleue Pointe Bleue                  Roman Catholic       300 00 Vote 17      25    42     20          26 9        6     ... 1 ... Pointe Bleue.
+                                            Potvin
+                                            Sr. Mary of
+Restigouche    Restigouche    Restigouche   the Holy    Roman Catholic       300 00 Vote 32      39    71     31          43 11 9           8 ... ... Restigouche.
+                                            Rosary
+St. Francis                                 Rev. Rich E. Church of                                                                                      St. Francis
+               Pierreville    Pierreville                                    300 00 Vote 8       9     17     9           2     2     2     5 3 3
+(Prot.)                                     Page         England                                                                                        (Prot.)
+                                            Sister
+St. Francis
+               Pierreville    Pierreville   Woods,        Roman Catholic     300 00 Vote 35      30    65     51          23 11 11 9 11 ... St. Francis
+(R.C.)
+                                            Princ.
+                                            Sr. Mary J.,
+...            ...            ...                        ...                 300 00 vote ...     ...   ...    ...         ...   ...   ...   ... ... ... ...
+                                            Assist
+                                            Sr. Dufrost,
+...            ...            ...                        ...                 300 00 Vote ...     ...   ...    ...         ...   ...   ...   ... ... ... ...
+                                            Assist
+                                            Miss M.V.
+St. Regis      St. Regis      St. Regis                   Undenominational 350 00 Vote 22        8     30     10          26 4        ...   ... ... ... St. Regis.
+                                            Nolan
+                                            Sister Mary
+Timiskaming Timiskaming Timiskaming                     Roman Catholic       300 00 Vote 26      26    52     26          19 20 9           4 ... ... Timiskaming.
+                                            Aimee
+                                                                                                                                                        Total,
+Total, Quebec ...             ...           ...           ...                ...    ...   429    439   868    429         485 158 112 66 42 5
+                                                                                                                                                        Quebec.
+
+[*Indian children attend white school. Department pays 25 cents per month (per cap.) on average attendance. (t)Open during summer only.]
+
+<!-- page 828 -->
+Table, see page 40
+
+<!-- page 829 -->
+                                                                                   From
+                                                                                   what NUMBER ON             Average
+School.        Reserve.       Agency.           Teacher.      Denomination. Grant.                                        STANDARD.               School.
+                                                                                   Fund ROLL.                 Attendance.
+                                                                                   Paid.
+...            ...            ...               ...           ...         ...      ...   Boys. Girls. Total. ...        I   II III IV V VI ...
+NOVA                                                                                                                                              NOVA
+               ...            ...               ...           ...         $ cts.   ...   ...    ...   ...     ...       ... ... ... ... ... ...
+SCOTIA.                                                                                                                                           SCOTIA.
+                                                Miss Minnie Roman
+Bear River     Bear River     Digby County                                300 00 Vote 9         6     15      8         5 2 1 5 1 1 Bear River.
+                                                A Shea      Catholic
+                              Cape Breton       Daniel J.     Roman
+Eskasoni       Eskasoni                                                   350 00 Vote 10       8      15      6        7 ... 7 3 1 ... Eskasoni.
+                              County            McDonald      Catholic
+*Half-way      Franklin       Cumberland        Miss Eva L.   Roman                                                                               Half-way
+                                                                          ...      Vote 2      3      5       2        4 ... 1 ... ... ...
+River          Manor          County            Fullerton     Catholic                                                                            River.
+                                                Miss
+                                                              Roman
+Indian Cove    Fisher's Grant Pictou County     Gertrude                  310 00 Vote 11       7      18      9        7 3 5 ... 3 ... Indian Cove.
+                                                              Catholic
+                                                McGirr
+(t)Middle                                       Daniel        Roman
+               Middle River   Victoria County                             350 00 Vote 11       7      18      5        7 4 6 ... 1 ... Middle River.
+River                                           Buckles       Catholic
+                              Colchester        Miss Jessie   Roman
+Millbrook      Millbrook                                                  300 00 Vote 11       9      20      8        3 2 4 6 1 4 Millbrook.
+                              County            Scott         Catholic
+                                                Miss Belle B. Roman
+New Germany Lunenburg         Lunenburg                                   300 00 Vote 4        6      10      6        4 2 ... 2 2 ... New Germany.
+                                                Hawkesworth Catholic
+                                                Miss
+                              Richmond                        Roman
+Salmon River   Salmon River                     Henrietta                 300 00 Vote 12       11     23     7         9 8 4 2 ... ... Salmon River.
+                              County                          Catholic
+                                                O'Toole
+                                                Miss
+                              Cape Breton                     Roman
+Sydney         Sydney                           Margaret A.               300 00 Vote 16       11     27     12        8 5 4 4 4 2 Sydney
+                              County                          Catholic
+                                                McLellan
+                              Inverness         Donald J.     Roman
+Whycocomagh Whycocomagh                                                   300 00 Vote 12       8      20     7         9 6 3 1 1 ... Whycocomagh.
+                              County            Gillis        Catholic
+Total, Nova                                                                                                                                       Total, Nova
+               ...            ...               ...           ...         ...      ...   98    76     174    70        63 32 35 21 11 12
+Scotia                                                                                                                                            Scotia.
+NEW                                                                                                                                               NEW
+          ...                 ...               ...           ...         ...      ...   ...   ...    ...    ...       ... ... ... ... ... ...
+BRUNSWICK                                                                                                                                         BRUNSWICK.
+                                                Miss M
+                                                              Roman
+Burnt Church   Church Point   Northeastern      Natalie                   300 00 Vote 11       13     24     12        11 2 9 ... 2 ... Burnt Church.
+                                                              Catholic
+                                                Babin
+                                                Miss Mary     Roman
+Big Cove       Big Cove       Northeastern                                300 00 Vote 17       27     44     20        19 11 3 4 7 ... Big Cove.
+                                                Isaac         Catholic
+                                                Frances M.    Roman
+Eel Ground     Eel Ground     Northeastern                                300 00 Vote 8        3      11     5         9 1 1 ... ... ... Eel Ground.
+                                                Schultz       Catholic
+                                                Miss Mary C Roman
+Kingsclear     Kingsclear     Western                                     300 00 Vote 10       11     21     13        10 5 1 5 ... ... Kingsclear.
+                                                Monaghan    Catholic
+                                                Miss M.J.     Roman
+St Mary's      St Mary's      Western                                     300 00 Vote 13       10     23      17        8 4 3 5 2 1 St. Mary's.
+                                                Rush          Catholic
+                                                Annetta A.    Roman
+Tobique        Tobique        Western                                     350 00 Vote 18        18    36      22        16 2 6 7 5 ... Tobique.
+

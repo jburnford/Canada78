@@ -1,0 +1,303 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+Statement of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal Year ended March 31, 1918.
+
+NOTE - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore, shows the degree of general
+advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader, Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+                                                                                                     Average
+School.          Reserve.           Agency.           Teacher.    Denomination. Number on Roll.                  Standard.              ...
+                                                                                                     Attendance.
+...              ...                ...               ...         ...           Boys. Girls. Total. ...          I     II III IV V VI ...
+
+NOVA             ...                ...               ...         ...           ...    ...   ...     ...         ...   ... ... ... ... ... NOVA
+SCOTIA.                                                                                                                                    SCOTIA.
+                                    Antigon'h         Wm. J.      Roman
+Afton            Afton                                                          11     9     20      10          6     2 8 4 ... ... Afton
+                                    County            Rogers      Catholic
+                                    Cape Breton       James       Roman
+Eskasoni         Eskasoni                                                       14     11    25      11          11 8 2 2 2 ... Eskasoni
+                                    County            McNeil      Catholic
+                                    Cape Breton       Miss C.     Roman
+Sydney           Sydney                                                         13     12    25      12          11 7 4 3 ... ... Sydney
+                                    County            Gallagher   Catholic
+                                    Colchester        Miss Jessie Roman
+Millbrook        Millbrook                                                      6      8     14      7           10 2 2 ... ... ... Millbrook
+                                    County            Scott       Catholic
+                 Franklin        
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+tional 16   12   28   14   5   8    5     4     6 ...
+Point         Point                       Cappelain                                                                         Point
+
+<!-- page 106 -->
+                                         Miss Agnes
+Wolf Lake     Wolf Lake    Timiskaming              Roman Catholic   8     15    23   20     1   3   ...   4     4 11 Wolf Lake
+                                         Robinson
+Rupert's      Rupert's                   Harry       Church of                                                             Rupert's
+                           Timiskaming                               20    12    32   18     24 2    4     2     ... ...
+House         House                      Cartlidge   England                                                               House
+              Lake                       Charles     Church of
+Mistassini                 Timiskaming                               18    27    45   20     27 18 ...     ...   ... ... Mistassini
+              Mistassini                 Iserhoff    England
+Total Quebec ...           ...           ...         ...             624   656   1,280 771   623 290 173 103 57 34 Total Quebec
+
+
+
+=== EXTRACT FROM HERE (pages 107-112) ===
+<!-- page 107 -->
+Table, see page 76
+
+<!-- page 108 -->
+                                                                                                   Average
+School.        Reserve.       Agency.           Teacher.     Denomination.    Number on Roll.                  Standard.                 ...
+                                                                                                   Attendance.
+...            ...            ...               ...          ...              Boys. Girls. Total. ...          I   II III IV V VI ...
+
+               ...            ...               ...          ...              ...    ...   ...     ...         ... ... ... ... ... ...
+ONTARIO                                                                                                                                  ONTARIO
+                                                Frank J.
+Alnwick        Alnwick        Alnwick                        Methodist        23     24    47      26          17 12 10 7 1 ... Alnwick
+                                                Joblin
+                                                Miss M.
+Cape Croker    Cape Croker    Cape Croker                    Undenominational 17    12     29      19          8 6 5 8 2 ... Cape Croker
+                                                Moffit
+                                                Miss M.C.
+Port Elgin     Cape Croker    Cape Croker                    Undenominational 10    8      18      7           8 ... 4 2 ... ... Port Elgin
+                                                Schultz
+                                                Miss I.
+Sidney Bay     Cape Croker    Cape Croker                    Undenominational 8     9      17      9           1 5 6 5 ... ... Sidney Bay
+                                                McIvor
+Back                                            Lyman                                                                                    Back
+               Caradoc        Caradoc                        Undenominational 13    19     32      13          15 5 5 4 3 ...
+Settlement                                      Fisher                                                                                   Settlement
+                                                Miss E.
+Bear Creek     Caradoc        Caradoc                        Undenominational 8     15     23      9           11 3 4 3 2 ... Bear Creek
+                                                McGugan
+                                                Levi
+Oneida No. 2   Oneida         Caradoc                        Ch. of England   23    26     49      20          31 8 9 1 ... ... Oneida No. 2
+                                                Doxtator
+                                                Miss Tena
+Oneida No. 3   Oneida         Caradoc                        Methodist        31    34     65     19           50 10 5 ... ... ... Oneida No. 3
+                                                Brodie
+River                                           Miss G.M.                                                                                River
+               Caradoc        Caradoc                        Undenominational 14    16     30     12           17 5 5 3 ... ...
+Settlement                                      Ivison                                                                                   Settlement
+                                                Miss O.
+Franz (Public) Franz          Chapleau                       Undenominational 4     10     14     7            9 4 1 ... ... ... Franz (Public)
+                                                McFarlane
+Manitou        Manitou                          Mrs. A.                                                                                  Manitou
+                              Fort Frances                   Ch. of England   18    14     32     12           24 2 6 ... ... ...
+Rapids         Rapids                           Spencer                                                                                  Rapids
+                                                D.
+Gull Bay       Gull Bay       Fort William                   Roman Catholic   12    9      21     13           6 9 6 ... ... ... Gull Bay
+                                                Ducharme
+                                                Miss C.
+Lake Helen     Red Rock       Fort William                   Roman Catholic   8     14     22     5            12 3 5 1 1 ... Lake Helen
+                                                Harrison
+Mission Bay                                     Miss Rose                                                                                Mission Bay
+               Fort William   Fort William                   Roman Catholic   10    6      16     9            7 3 3 3 ... ...
+(Squaw Bay)                                     Chaput                                                                                   (Squaw Bay)
+Mountain                                        Miss Bessie                                                                              Mountain
+               Fort William   Fort William                  Roman Catholic    15    14     29     14           13 5 9 2 ... ...
+Village                                         Flood                                                                                    Village
+                                                Miss L. C.
+Mobert         Heron Bay      Fort William                   Roman Catholic   5     8      13     8            8 3 2 ... ... ... Mobert
+                                                Duffy
+                                                Mrs. X.
+Pays Plat      Pays Plat      Fort William                   Roman Catholic   8     8      16     7            8 3 3 2 ... ... Pays Plat
+                                                McLaren
+                                                Miss C.
+Pic River      Pic River      Fort William                   Roman Catholic   11    12     23     10           14 4 4 1 ... ... Pic River
+                                                Trottier
+                                                Miss C.
+Red Rock       Nepigon        Fort William                   Roman Catholic   11    8      19     8            16 1 1 ... 1 ... Red Rock
+                                                Harrison
+Georgina       Georgina                         Wm. E.                                                                                   Georgina
+                              Georgina Island                Methodist        13    7      20     15           6 4 6 3 1 ...
+Island         Island                           Jones                                                                                    Island
+
+<!-- page 109 -->
+Calabogie S.S.                                   Miss V.                                                                  Calabogie S.S.
+               Calabogie       Golden Lake                     Roman Catholic   4    6    10   5    5 3 2 ... ... ...
+No. 5                                            Doyle                                                                    No. 5
+                                                 Miss C. M.
+Golden Lake    Golden Lake     Golden Lake                  Roman Catholic      13   15   28   11   17 ... 8 3 ... ... Golden Lake
+                                                 Goulet
+Sheshegwaning                                    Miss Eliz.                                                               Sheshegwaning
+              Sheshegwaning Gore Bay                           Roman Catholic   7    11   18   13   11 1 1 5 ... ...
+(R.C.)                                           Lensch                                                                   (R.C.)
+Sheshegwaning                                    Edwin                                                                    Sheshegwaning
+              Sheshegwaning Gore Bay                           Ch. of England   11   12   23   13   6 4 4 6 1 2
+(Prot.)                                          Weeks                                                                    (Prot.)
+                                                 Miss Rose
+West Bay       West Bay        Gore Bay                        Roman Catholic   24   23   47   21   37 6 1 3 ... ... West Bay
+                                                 Fagan
+                                                 Miss L.A.
+Buzwah         Buzwah          Manitowaning                    Roman Catholic   19   12   31   19   12 7 3 6 1 2 Buzwah
+                                                 Dodd
+                                                 Miss E.
+Kaboni         Kaboni          Manitowaning                    Roman Catholic   13   18   31   17   19 7 3 2 ... ... Kaboni
+                                                 Dolan
+                                                 Miss M. A.
+Sheguiandah    Sheguiandah     Manitowaning                 Ch. of England      9    11   20   10   12 ... 8 ... ... ... Sheguiandah
+                                                 Ferris
+                                                 Miss M.
+South Bay      South Bay       Manitowaning                    Roman Catholic   10   6    16   7    12 1 2 1 ... ... South Bay
+                                                 Hickey
+                                                 Miss B.A.
+Sucker Creek   Sucker Creek    Manitowaning                  Ch. of England     9    17   26   16   15 3 3 4 1 ... Sucker Creek
+                                                 Wedgerfield
+                                                 Mrs. T.
+Whitefish Lake Whitefish Lake Manitowaning                     Roman Catholic   17   8    25   15   13 9 3 ... ... ... Whitefish Lake
+                                                 Fitzpatrick
+Whitefish      Whitefish                                                                                                 Whitefish
+                                                 Duncan
+River          River           Manitowaning                    Ch. of England   6    8    14   9    11 3 ... ... ... ... River
+                                                 Bell
+(Combined)     (surrendered)                                                                                             (Combined)
+                                                 Miss Z. St.
+                                                 James
+Wikwemikong Manitou Isld.      Manitowaning      (Prin.)A.A. Roman Catholic   42     30   72   40   44 12 13 3 ... ... Wikwemikong
+                                                 Morris
+                                                 (Asst)
+                                                 L.H.
+Moraviantown Moravian          Moravian                      Undenominational 41     30   71   25   35 5 21 4 6 ... Moraviantown
+                                                 Leeson
+                                                 Roy S.
+New Credit     New Credit      New Credit                      Undenominational 18   18   36   17   20 5 7 3 1 ... New Credit
+                                                 Wilson
+                                                 James
+Gibson         Watha           Parry Island      Oliver,       Methodist        11   11   22   7    14 6 1 1 ... ... Gibson
+                                                 M.A.
+                                                 Joseph
+Henvey Inlet   Henvey Inlet    Parry Island                    Undenominational 8    7    15   7    10 3 ... 2 ... ... Henvey Inlet
+                                                 Partridge
+                                                 Miss V.E.
+Ryerson        Parry Island    Parry Island                    Undenominational 19   14   33   18   22 5 6 ... ... ... Ryerson
+                                                 Watson
+                                                 Mrs. E.J.
+Shawanaga      Shawanaga       Parry Island                    Undenominational 14   16   30   19   15 7 4 4 ... ... Shawanaga
+                                                 McLarnon
+Christian      Christian                         Stephen J.                                                               Christian
+                               Penetanguishene                 Methodist        27   18   45   23   27 11 7 ... ... ...
+Island         Island                            Mathers                                                                  Island
+Moose Deer     Moose Deer                        Miss Lucy                                                                Moose Deer
+                               Penetanguishene                 Undenominational 9    6    15   9    7 4 4 ... ... ...
+Point          Pt.                               Toby                                                                     Point
+
+<!-- page 110 -->
+                                                 Miss E. M.
+                                                 McBain
+                                                 (Prin.)Miss
+Rama           Rama           Rama                           Methodist         25   24   49   32   16 19 4 8 2 ... Rama
+                                                 H.A.
+                                                 Fawley
+                                                 (Asst.)
+                                                 B.W.        Undenominational.
+Hiawatha       Rice Lake      Rice Lake                                        5    13   18   14   6 6 3 3 ... ... Hiawatha
+                                                 Stinson     n
+Mud Lake                                         Alfred                                                               Mud Lake
+               Mud Lake       Rice Lake                      Undenominational 25    17   42   18   11 14 10 2 5 ...
+(Chemong)                                        McCue                                                                (Chemong)
+                                                 Mrs. Angus
+Kettle Point   Kettle Point   Sarnia                        Undenominational 19     16   35   15   24 6 3 2 ... ... Kettle Point
+                                                 George
+                                                 Miss A.A.
+Stony Point    Stony Point    Sarnia                         Undenominational 3     9    12   6    5 5 1 1 ... ... Stony Point
+                                                 Weaver
+                                                 Miss A.M.
+St. Clair      Sarnia         Sarnia                         Methodist        15    16   31   15   19 7 4 1 ... ... St. Clair
+                                                 Matthews
+                                                 T.J.
+French Bay     Saugeen        Saugeen                        Undenominational 14    14   28   19   15 1 3 7 2 ... French Bay
+                                                 Wallace
+                                                 Miss I.
+Saugeen        Saugeen        Saugeen                        Undenominational 16    12   28   18   10 6 4 6 2 ... Saugeen
+                                                 Ruxton
+Scotch                                           Mrs. B.                                                              Scotch
+               Saugeen        Saugeen                        Undenominational 22    18   40   26   17 8 4 9 2 ...
+Settlement                                       Robb                                                                 Settlement
+               Batchawana                        Miss I.
+Batchawana                    Sault Ste. Marie               Roman Catholic   14    8    22   13   14 5 3 ... ... ... Batchawana
+               Bay                               Peltier
+
+<!-- page 111 -->
+Table, see page 78
+
+<!-- page 112 -->
+                                                                                             Average
+School.       Reserve.      Agency.      Teacher.      Denomination.    Number on Roll.                  Standard.                         ...
+                                                                                             Attendance.
+...           ...           ...          ...           ...              Boys. Girls. Total. ...          I     II    III IV V VI ...
+
+ONTARIO - ...               ...          ...           ...              ...    ...   ...     ...         ...   ...   ...   ...   ... ... ONTARIO -
+Concluded.                                                                                                                               Concluded.
+                                         Miss M.M.
+                                         Daly
+Garden River Garden         Sault Ste.                                                                                                     Garden River
+                                         (Prin.)Miss Roman Catholic     26     34    60      28          25    8     15 12 ... ...
+(R.C.)       River          Marie                                                                                                          (R.C.)
+                                         J.
+                                         McDermott
+Garden River Garden         Sault Ste.   L.F.                                                                                              Garden River
+                                                       Ch. of England   13     9     22      12          12    7     3     ...   ... ...
+(C.E.)       River          Marie        Hardyman                                                                                          (C.E.)
+                            Sault Ste.   Miss Agnes
+Goulais Bay   Goulais Bay                           Roman Catholic      8      14    22      15          16    3     ...   3     ... ... Goulais Bay
+                            Marie        Kelly
+Scugog S.S.   Scugog                                                                                                                       Scugog S.S.
+                            Scugog       L.G. Hayes Undenominational 6         3     9       3           8     1     ...   ...   ... ...
+No. 3         Island                                                                                                                       No. 3
+Six Nations                              Miss Grace                                                                                        Six Nations
+              Six Nations Six Nations               Undenominational 27       32     59      30          21    8     17 9        4 ...
+No. 1                                    Martin                                                                                            No. 1
+                                      Miss N.M.
+                                      Alexander
+Six Nations                                                                                                                                Six Nations
+              Six Nations Six Nations (Prin.)Ethel Undenominational 53        50     103     54          42    27 23 4           1 6
+No. 2                                                                                                                                      No. 2
+                                      Alexander
+                                      (Asst.)
+Six Nations                              Miss N.E.                                                                                         Six Nations
+              Six Nations Six Nations                  Undenominational 36    28     64      40          24    8     13 7        12 ...
+No. 3                                    Jamieson                                                                                          No. 3
+Six Nations                              M.M.                                                                                              Six Nations
+              Six Nations Six Nations                  Undenominational 17    24     41      21          27    1     6     5     2 ...
+No. 4                                    Williams                                                                                          No. 4
+Six Nations                              John R.                                                                                           Six Nations
+              Six Nations Six Nations                  Undenominational 24    13     37      20          9     14 8        3     3 ...
+No. 5                                    Lickers                                                                                           No. 5
+Six Nations                              Miss Evelyn                                                                                       Six Nations
+              Six Nations Six Nations                Undenominational 24      21     45      15          16    3     15 6        5 ...
+No. 6                                    Davy                                                                                              No. 6
+Six Nations                              Arthur                                                                                            Six Nations
+              Six Nations Six Nations                  Undenominational 26    30     56      30          21    14 8        10 3 ...
+No. 7                                    Alexander                                                                                         No. 7
+Six Nations                              Miss J.L.                                                                                         Six Nations
+              Six Nations Six Nations                  Undenominational 17    25     42      24          20    1     9     8     4 ...
+No. 8                                    Jamieson                                                                                          No. 8
+Six Nations                              Mrs. A.W.                                                                                         Six Nations
+              Six Nations Six Nations                  Undenominational 15    17     32      15          15    7     4     4     2 ...
+No. 9                                    Close                                                                                             No. 9
+Six Nations                              S.A.                                                                                              Six Nations
+              Six Nations Six Nations                  Undenominational 25    24     49      23          19    9     9     7     5 ...
+No. 10                                   Anderson                                                                                          No. 10
+Six Nations                              Miss M.E.                                                                                         Six Nations
+              Six Nations Six Nations                  Undenominational 32    23     55      23          29    10 9        4     3 ...
+No. 11                                   Wilson                                                                                            No. 11
+Garden                      Sturgeon     Mrs. A.                                                                                           Garden
+              Nipissing                                Roman Catholic   16    20     36     20           24    9     ...   3     ... ...
+Village                     Falls        Ladoucer                                                                                          Village
+                            Sturgeon     Sister Ste.
+Mattawa       Mattawa                                  Roman Catholic   29    20     49     34           18    2     10 9        8 2 Mattawa
+                            Falls        Laure
+

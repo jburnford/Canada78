@@ -1,0 +1,31 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0739-school-statement	SCHOOL STATEMENT	739	744
+01	p0744-school-statement-ontario	SCHOOL STATEMENT — Ontario	744	744
+02	p0744-school-statement-quebec	SCHOOL STATEMENT — Quebec	744	745
+03	p0745-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	745	748
+04	p0748-school-statement-new-brunswick	SCHOOL STATEMENT — New Brunswick	748	748
+05	p0748-school-statement-prince-edward	SCHOOL STATEMENT — Prince Edward Island	748	752
+06	p0752-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	752	757
+07	p0757-school-statement-northwest-ter	SCHOOL STATEMENT — Northwest Territories	757	762
+08	p0763-school-statement-ontario	SCHOOL STATEMENT — Ontario	763	763
+09	p0763-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	763	768
+10	p0769-school-statement-ontario	SCHOOL STATEMENT — Ontario	769	769
+11	p0769-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	769	774
+12	p0778-school-statement-northwest-ter	SCHOOL STATEMENT — Northwest Territories	778	779
+13	p0977-school-statement-northwest-ter	SCHOOL STATEMENT — Northwest Territories	977	982
+14	p1006-school-statement-quebec	SCHOOL STATEMENT — Quebec	1006	1006
+15	p1018-school-statement-quebec	SCHOOL STATEMENT — Quebec	1018	1018
+16	p1030-school-statement-quebec	SCHOOL STATEMENT — Quebec	1030	1030
+17	p1043-school-statement-quebec	SCHOOL STATEMENT — Quebec	1043	1043
+18	p1056-school-statement-quebec	SCHOOL STATEMENT — Quebec	1056	1056
+19	p1070-school-statement-quebec	SCHOOL STATEMENT — Quebec	1070	1070
+20	p1082-school-statement-quebec	SCHOOL STATEMENT — Quebec	1082	1083
+21	p1092-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	1092	1093
+22	p1100-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	1100	1102
+23	p1104-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	1104	1104
+24	p1113-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	1113	1113
+25	p1118-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	1118	1120
+26	p1124-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	1124	1126
+27	p1170-school-statement-quebec	SCHOOL STATEMENT — Quebec	1170	1171
+28	p1171-school-statement-new-brunswick	SCHOOL STATEMENT — New Brunswick	1171	1172
+29	p1173-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	1173	1173

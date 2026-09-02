@@ -222,6 +222,19 @@ names.
    Spot-checks read true: Kuper Island, Kamloops, Kootenay, Battleford, Mohawk
    Institute, Shingwauk, Coqualeetza, Elkhorn all present with plausible spans
    and denominations; median day-school roll 27 pupils.
+   **Repaired 2026-09-02 — see `docs/SCHOOL_REPAIR_PLAN.md`.** The
+   extractor's `school_type` defaults to "day" and the printed type is a
+   page heading, so ~40% of residential enrolment had been filed under day
+   schools. Now: `build/school_type_map.py` (page-positional type from the
+   statement titles) → `mint_schools.py` (type in the identity key, unit /
+   staff / land-sale / recap rows dropped, stable ids) →
+   `apply_column_maps --family school` → **`build/harvest_school_totals.py`
+   must pass** (extracted vs the deputy's printed per-class totals, ±15%)
+   before the family is promoted. Reference list: Orlandini's TRC/NCTR
+   residential-school dataset (`build/link_schools_irs.py`). Rebuild order
+   for the school layer: school_type_map → mint_schools → apply_column_maps
+   → link_schools_irs → link_teachers → harvest_school_totals → gen_wiki →
+   index.
 6. **Persons v2** — **officers → LINCS DONE 2026-08-31.**
    `build/link_officers_lincs.py` attaches a LINCS agent URI to each Return A
    row: **5,535 of 6,083 rows (91.0%)** across 21 years, reaching **1,361 of
@@ -254,9 +267,43 @@ names.
    skeleton blocking key catches "McNiell"/"McNeill", which a prefix key misses
    because "Mc" eats the prefix.
 
-   Still to do for step 6: teachers from the school statements and letter
-   signatories (mint, after checking against LINCS), and reconciling the
-   `officers_lincs_review.csv` queue. Note 1904 and 1910 rows carry no
+   **Teachers DONE 2026-09-01.** `build/link_teachers.py` mints person
+   identities from the 10,454 teacher school-years (5,225 distinct strings,
+   1896–1930): **3,608 identities** (1,757 multi-year, 457 multi-school) →
+   `registries/entities/persons_teachers.parquet` +
+   `registries/annotations/teacher_attestations.parquet`. LINCS holds almost
+   no teachers (~38 rows behind its 14,477), so teachers are minted — but
+   each identity is checked against the LINCS agents first and **54 carry a
+   LINCS URI** instead (Rev. principals who were salaried missionaries, and
+   22 rows where the printed string itself says "…, Agent": Nova Scotia
+   county rows print the AGENT in the teacher column, so those carry
+   `role=agent`). Identity model is deliberately conservative: complete
+   linkage within a school at score ≥0.90; across schools only exact folded
+   equality within one province; a Rev./Mr. vs Miss/Mrs./Sister class
+   conflict blocks any merge, decided by majority vote so one OCR "Miss" on
+   26 "Rev. C.D. White" rows doesn't split him. Auto-accepting a LINCS link
+   requires two agreeing initials or a matching spelled-out given name AND a
+   non-female title class — **"Mrs. W.R. Tucker" is the agent W.R. Tucker's
+   wife carrying his initials**, the 19th-century convention, and initially
+   linked to him at 1.00. Identities the authority unifies are merged (de
+   Molitor taught in Nova Scotia then B.C.; the name alone kept them apart).
+   721 rows in `teachers_review.csv` (163 same-name-two-provinces, 518 LINCS
+   candidates below gate).
+
+   **Letter signatories re-anchored to LINCS DONE 2026-09-01.**
+   `build/link_signatories_lincs.py`: the 412 persons `link_mentions.py`
+   minted from agency-report signatures predate §1.3 (LINCS as person
+   authority) and are exactly the agent population LINCS resolved — **284 of
+   412 now carry a LINCS agent URI** (person_ids unchanged, so wiki mention
+   anchors still hold; `persons_minted.parquet` gains a `lincs_agent`
+   column). 61 ambiguous — mostly LINCS-internal duplicates ("J. Harlow" and
+   "John Harlow" as two agents), 51 no candidate, 16 below gate/no overlap →
+   `signatories_lincs.csv`. Cross-source check that fell out for free: Neil
+   Gilmour appears as a teacher 1898–1902 and a signatory 1905–06 and both
+   resolve to the same LINCS agent.
+
+   Still to do for step 6: reconciling the `officers_lincs_review.csv`
+   queue (historian). Note 1904 and 1910 rows carry no
    `paper_id` — those volumes are the standing `pending_catalog_post1900`
    cases, not a gap introduced here.
 7. **Return B parser** — **parser + validation DONE 2026-08-31**, band
@@ -289,8 +336,47 @@ names.
    The balance series carries its account's verdict rather than publishing
    silently: **4,037 balance lines, 2,027 of them (796 accounts) from accounts
    that balance**; 742 of those carry band-style names ("Gibson Indians
-   (No. 123)"), which is the input to the **band-linking pass step 7 still
-   needs** — reuse the census band registry, and expect a review CSV.
+   (No. 123)"), which is the input to the band-linking pass.
+
+   **Band linking DONE 2026-08-31.** `build/link_trustfund_bands.py` links the
+   1,052 distinct account names to the census band registry: **658 names
+   (1,775 of 2,703 account-years) linked to 167 bands**, 52 classified as
+   department funds (Land Management, School Fund, Salaries…), 12 as personal
+   accounts, 160 in `trustfund_bands_review.csv` (83 below gate, 35 ambiguous,
+   28 number conflicts, 12 collective annuity funds like the Robinson-treaty
+   "Ojibbewas of Lake Huron" that must not land on one band). Crosswalk:
+   `trustfund_bands.csv`. Design points that earned their keep:
+
+   - The 1893–97 lists print a **stable account number "(No. N)"** — the same
+     band keeps its number across editions and spellings — so linked spellings
+     propagate their band to unlinked same-numbered ones. The ledger era's
+     "in Account No. N" is a *different* numbering (Shawanaga is ledger 33 but
+     list 34, where list 33 is Six Nations) and is recorded but never trusted.
+   - **Embedded band numbers are identity** (the schools lesson again):
+     without the guard, "Hungry Hall Band No. 1" linked arbitrarily to Hungry
+     Hall No. 2, and "Shoal Lake Reserve 39" to Shoal Lake (Crees).
+   - An exact hit on a band's **own printed name outranks a variant hit** —
+     Walpole Island's attestation variants contain "Chippewas of Beausoleil"
+     (a mis-clustered census row), which scored 1.00 until primaries won ties.
+   - Variants under three characters are dropped: one census variants list
+     holds a stray "t" that matched every "(t)"-annotated account at 1.00.
+   - Number-group conflicts whose linked names are mutually similar
+     (Sampson/Samson, Munceys/Munsees) settle on the best-attested identity —
+     these mirror the duplicate pairs in `band_registry_merge_review.csv` and
+     the account number is itself evidence for that merge; genuinely different
+     names (Enoch vs Paspaschase, Manitoulin Unceded vs Wikwemikong) stay in
+     review.
+
+   The trusted, band-linked balance lines are published as observations:
+   **1,034 rows (`trustfund_capital`, `trustfund_interest`), 156 bands,
+   1881–1897**, deduplicated per (band, fund, date) preferring the closing
+   line (the 30 June balance is printed twice: closing of year Y and opening
+   of Y+1) and summed over a band's funds (St. Regis holds a main account and
+   a Land Fund). Total observations **389,446**. Wiki band pages render the
+   block ("Trust fund balances (Return B)"); 34 pages carry it now, the rest
+   of the 156 wait on the band-facet switch to the census registry (step 8).
+   Left for step 7: only the optional targeted re-extraction in
+   `trustfund_reextract.csv`.
 8. **Wiki + MCP regeneration** — **first pass DONE 2026-08-30**: the wiki now
    builds **10,379 pages** (was 9,263) and `index.json` carries 3,493 entities
    (was 2,378). `build/series_render.py` renders `observations.parquet` as
@@ -300,9 +386,44 @@ names.
    series block** (928 schools, 134 bands, 103 agencies) and 858 a sparkline.
    The new `schools/` facet is 1,116 pages plus an index. Additive throughout —
    no entity id changed, so mentions and passages render exactly as before.
-   Still to do: person pages over the officers rows (step 6 first), the agstat
-   agencies that have no chain page yet, MCP `series(entity, series_id)`, and
-   the regenerated validation-gate packet.
+   **Person pages DONE 2026-09-01.** The wiki now builds **15,032 pages**
+   (5,115 persons, was 462) and index.json carries **8,137 entities**. One
+   person, one page: identities are unified on the LINCS agent URI when the
+   authority owns them (`canon_person` over the `lincs_agent` columns of
+   `persons_minted` and `persons_teachers`), so Neil Gilmour's single page
+   carries his LINCS postings, Return A service record (year, designation,
+   salary, appointed), the schools he taught at, and the reports he signed.
+   Teacher-only persons get minted pages ("Miss Mary Moffitt — 25 years at
+   Cape Croker" reads as one row per year with the OCR variants clustered).
+   School pages' teacher tables now link to person pages and person pages
+   link back to schools. `person_slug` learned viaf-/wd- forms for the
+   officers rows whose identity is VIAF/Wikidata (Macdonald, Vankoughnet).
+   Stale pages from earlier layouts must be cleaned before regenerating —
+   `git clean -fdX site/` — because `gen_wiki` writes but never deletes.
+
+   **MCP `series` DONE 2026-09-01.** The SQLite index gains `observations`
+   (389,446 rows) and `obs_map` (the curated-band → census-band bridge), and
+   the server a seventh tool: `series(ref, series_id?)` lists an entity's
+   series or returns the year-value points with paper and page. Schools are
+   now MCP entities too (`school:SCH-…` with name-variant aliases), and a
+   bare `band_c…`/`AG-…`/`SCH-…` id is accepted directly even where no
+   entity page exists yet — which is exactly the situation of the ~990
+   agstat agencies below. Verified: `canada50 series school:SCH-00421`,
+   `… series BAND-abenakis-of-becancour population` (through the bridge),
+   `… series band_c01807 trustfund_capital`.
+
+   Still to do: the agstat agencies that have no chain page yet — **blocked
+   on a classification pass, found 2026-09-01**: of the 437 unlinked
+   `AGT-…` ids that carry observations, many are not agencies at all but
+   headquarters STAFF from the expenditure tables ("Duncan C. Scott",
+   "Sarah M. O'Grady", pool `HEADQUARTERS - INSIDE SERVICE`) and
+   appropriation lines ("Repairs to roads and bridges Tyendinaga") — the
+   header-class-gate warning striking again, this time inside the minted
+   registry. Making wiki pages for them as agencies would be wrong; the
+   registry needs an `identity_kind` column (agency / staff / appropriation)
+   first. Their series stay reachable meanwhile through the MCP `series`
+   bare-id fallback. Then: the regenerated validation-gate packet, and the
+   band-facet switch below.
 
    **Prerequisite done 2026-08-30.** `build/gen_wiki.py` builds band pages from
    `bands.parquet` — the 236 bands of the 1902 Schedule, which carry the
@@ -322,6 +443,75 @@ names.
    hyphens ("Nim-keesh" → Nimkeesh), and accepts a sub-threshold winner only
    when it stands ≥0.10 clear of the runner-up, recording
    `curated_match_score` on the row so the claim stays auditable.
+   **Retrieval graph v2 DONE 2026-09-02** — the review of 2026-09-01 found the
+   SQLite index the MCP serves was still built from the superseded registries
+   (236 bands, 395 persons, a 1902-only edge snapshot) while the wiki had 15K
+   pages; the GraphRAG-without-cosine thesis was untested. Rebuilt:
+
+   - `canada50_mcp/index.py` v2 indexes **every registry**: 12,617 entities
+     (600 agencies, 3,330 bands incl. census bands, 6,150 persons incl. all
+     2,468 LINCS agents, 1,422 reserves, 1,115 schools) and **44,737
+     time-scoped edges** (was 2,831): band ADMINISTERED_BY agency per census
+     year (12.4K), school IN_AGENCY / ON_RESERVE per year, person TAUGHT_AT
+     school, POSTED_TO agency (LINCS postings), SIGNED_FOR / REPORTED_ON,
+     reserve ADMINISTERED_BY per Schedule edition, SUCCEEDED_BY for 1,471
+     bands and reserves (reserve QIDs from `reserve_wikidata.csv` now land).
+     A `redirects` table carries superseded ids to canonical ones so old
+     mention anchors and observation keys keep working. Aliases get an FTS5
+     trigram table for OCR-tolerant lookup.
+   - `neighbors(ref, edge_type, year)` collapses edges to one row per related
+     entity with attested year ranges ("1894–1910") and takes a `year=` for a
+     snapshot; `series` points carry the citable segment address; `search`
+     filters by agency *or school* by id or name; `open_page` synthesises a
+     hub for entities without a page.
+   - Three identity passes, all alias-not-rename with review CSVs:
+     `build/alias_census_bands.py` (**530 census identities in 229 groups**:
+     split by a missing province — Pi-a-pot/Piapot, Six Nations ×2 — or
+     overlapping in years without ever disagreeing: no shared year with two
+     different populations, compatible agency strings, not a province/recap
+     line; 135 conflicting same-name pairs left to review), `build/alias_agency_chains.py`
+     (35 OCR-variant chains into 21 — Williams Lake ×5, Coutcheeching ×4,
+     Cowichan ×3; guards on ordinals/compass words), and
+     `build/classify_agstat_identities.py` (`identity_kind` on the 1,102
+     agstat identities: 533 agency, 500 staff, 39 appropriation, 20
+     ledger_person, 5 school, 5 band_row; only agencies become entities).
+   - `build/attribute_segments.py`: letters attributed to a unit **3,159 of
+     4,437 (71%, was 40%)** by heading, dateline (a trailing dateline after
+     the closing formula is the *next* letter's header block in every era —
+     the printer set place/date before the salutation and the segmenter's
+     walk-back left it behind; verified 1880 and 1909), phrase, the reserves
+     and bands the letter names (voted through their administering unit,
+     with province and treaty-section guards), LINCS-posting signature and
+     prior signatures; 626 principals' reports attributed to schools. Every
+     row carries a `letter_kind` (agency_report / school_report / audit /
+     commission / inspection / survey / table_fragment / unknown), so the
+     residue is classified: 1,015 unattributed of which 759 "unknown" (mostly
+     1880s–90s letters whose dateline names a place no unit list carries).
+     Commission, audit and survey letters are deliberately not attributed
+     to an agency. `segment_attribution.parquet` feeds
+     `segments.agency_id/school_id/letter_kind` and the wiki; single-mention
+     (low) attributions stay in the parquet for review but are not indexed.
+   - Mention rule: a lower-case common-noun surface ("fishing station") on a
+     contents/title page is demoted to low (the Fishing Station No. 10
+     audit: 13 of 15 links correct via the agency-context rule, 2 contents-page hits wrong).
+   - Wiki: **18,092 pages** — 3,094 census-band pages (`bands/band-c…/`,
+     agency-by-year table, series, modern succession), attributed letters on
+     agency pages (method badge), principals' reports on school pages,
+     variant chains folded into their canonical page; index.json 11,231.
+   - Eval: `eval/run_eval_headless.py` drives `claude -p` with the MCP server
+     (no SDK); `eval/questions.jsonl` gains q13–q18 (series, time-scoped
+     edges, teachers, LINCS postings).
+
+   Also emits `agstat_chain_dateline_links.csv`: agstat county units named
+     in the same dateline as a chain ("Micmacs of Hants County" beside
+     "Shubenacadie") redirect to that chain in the index (4 units so far).
+
+   Known and left: 759 "unknown" letters (`segment_attribution_review.csv`
+   holds the ambiguous 441); 137 same-name census-band pairs that conflict
+   on population or agency (`band_canonical_review.csv`); the 1900 census table is
+   inside a segment captioned "School Statement" (segmenter caption miss);
+   agstat series ids still fragment printed wording ("Cattle cows and milch"
+   ×3); no roll-up pages per year/province/treaty yet.
 9. **AG Part J payee layer** — after the sessional mention-detection design.
 
 Each step ends with a review CSV for the historian and a coverage report;

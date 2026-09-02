@@ -1,0 +1,232 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+<!-- page 806 -->
+400 00                         Band             25    26     51     27             13 18 16 ... 4 ... Moraviantown.
+200 00                         Vote             28    22     50     36             30 ... 16 ... ... 4 Moose Fort.
+300 00                         Band             16    9      25     14             8 5 9 3 ... ... Mud Lake.
+300 00                         Vote.            12    12     24     9              15 1 6 1 1 ... Muncey.
+300 00                         Vote.            3     4      7      3              2 1 2 ... 2 ... (ss)Naughton.
+300 00                         Band             19    16     35     14             11 5 4 12 3 ... New Credit.
+300 00                         Band             9     13     22     13             8 2 8 3 ... 1 Nipissing.
+300 00                         Vote.            15    13     28     16             25 1 2 ... ... ... Oneida No. 2.
+300 00                         Vote             21    9      30     20             20 7 1 2 ... ... Oneida No. 3.
+300 00                         Vote             17    7      24     10             12 12 ... ... ... ... Pic River.
+300 00                         Vote             18    9      27     12             14 6 2 1 4 ... Port Elgin.
+                               Band, $125;
+300 00                                          16    26     42     18             18 5 6 6 5 2 Rama.
+                               Vote, $175
+                                                                                                      River
+300 00                         Band             10    13     23     10             13 6 1 3 ... ...
+                                                                                                      Settlement.
+300 00                         Band             16    13     29     12             13 7 9 ... ... ... Ryerson.
+300 00                         Vote             13    9      22     16             6 7 8 1 ... ... Sagamook.
+350 00                         Band             9     12     21     12             10 4 4 3 ... ... Saugeen.
+                                                                                                       Scotch
+350 00                         Band             10    13     23     15             7 5 5 6 ... ...
+                                                                                                       Settlement.
+
+[*New school. Opened January 3, 1906.]
+
+[(t)Indian children attend white school.]
+
+[(
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+             Roman Catholic
+                                      Cape
+(t)Eskasoni          Eskasoni                          J.F. Beaton                                Roman Catholic
+                                      Breton Co
+                     Franklin
+(tt)Half-way River                    Cumberland Co Miss Margaret L. Kent                         Roman Catholic
+                     Manor
+Indian Cove          Fisher's Grant   Pictou Co.       Miss Cassie McDonald                       Roman Catholic
+Middle River         Middle River     Victoria Co.     Daniel Buckles                             Roman Catholic
+Millbrook            Millbrook        Colchester Co.   Miss Jessie Scott                          Roman Catholic
+New Germany          Lunenburg        Lunenburg Co.    Miss Belle B. Hawksworth                   Roman Catholic
+Salmon River         Salmon River     Richmond Co      Miss Sara E. O'Toole                       Roman Catholic
+(ss)Shubenacadie     Indian Brook     Hants Co         Robert j. Logan                            Roman Catholic
+                                      Cape
+Sydney               Sydney                            Mrs. Jessie A. Fynn                        Roman Catholic
+                                      Breton Co
+Whycocomagh          Whycocomagh Inverness Co          Donald J. Gillis                           Roman Catholic
+Total, Nova Scotia   ...         ...                   ...                                        ...
+
+
+
+=== EXTRACT FROM HERE (pages 812-817) ===
+<!-- page 812 -->
+[*Indian children attend white school. Department pays 25 cents per month (per capita) on average attendance.]
+
+[(t)Closed December quarter, 1905. No teacher.]
+
+[(tt)Indian children attend white school.]
+
+[(ss)Closed June 29, 1906, on account poor attendance.]
+
+<!-- page 813 -->
+Appropriation for Salary From what
+                                      NUMBER ON ROLL.                     STANDARD.                       School.
+or yearly grant.         Fund paid.
+                                                            Average
+...                     ...           Boys. Girls. Total.                 I     II    III IV V VI ...
+                                                            Attendance.
+$ cts.                  ...           ...   ...    ...      ...           ... ...     ... ... ... ... QUEBEC.
+300 00                  Vote          17    25     42       23            16 6        12 8 ... ... Bersimis.
+                                                                                                        Caughnawaga
+450 00                  Vote          105   ...    105      49            81 11 10 3 ... ...
+                                                                                                        (boys).
+300 00                  Vote          ...   ...    ...      ...           ...   ...   ...   ... ... ... ...
+                                                                                                        Caughnawaga
+350 00                  Vote          ...   78     78       44            39 11 9           9 6 4
+                                                                                                        (girls).
+250 00                  Vote          ...   ...    ...      ...           ...   ...   ...   ... ... ... ...
+                                                                                             Caughnawaga
+250 00                  Vote          26    18     44       16            35 4        2     3 ... ...
+                                                                                             (mission).
+250 00                  Vote          15    34     49       18            25 11 11 2 ... ... Congo Bridge.
+300 00                  Vote          24    23     47       10            41    3     2     1 ... ... Cornwall Island.
+350 00                  Vote          4     8      12       11            ...   2     4     3 3 ... *Escoumains.
+150 00                  Vote          28    27     55       40            24    9     15    7 ... ... Lorette.
+150 00                  Vote          ...   ...    ...      ...           ...   ...   ...   ... ... ... ...
+300 00                  Band          5     20     25       8             16    4     3     2 ... ... Maniwaki.
+300 00                  Vote          12    10     22       14            11    5     1     3 1 1 Maria.
+125 00                  Vote          8     10     18       7             10    2     2     4 ... ... Oka (Country).
+125 00                  Vote          13    6      19       9             6     2     5     4 2 ... Oka (Village).
+300 00                  Vote          14    19     33       19            13    16    4     ... ... ... Pointe Bleue.
+300 00                  Vote          28    35     63       36            36    16    7     ... 4 ... Restigouche.
+300 00                  Vote          7     8      15       12            4     5     6     ... ... ... St. Francis (Prot.)
+                                                                                                  St. Francis
+300 00                  Vote          41    33     74       55            30 6        22 10 5 1
+                                                                                                  (R.C.).
+250 00                  Vote          ...   ...    ...      ...           ... ... ... ... ... ... ...
+350 00                  Vote          27    14     41       7             35 3 3 ... ... ... St. Regis.
+300 00                  Vote          23    17     40       22            17 6 15 2 ... ... Timiskaming.
+...                     ...           397   385    782      400           439 122 133 61 21 6 Total, Quebec.
+                                                                                                        NOVA
+...                     ...           ...   ...    ...      ...           ...   ...   ...   ... ... ...
+                                                                                                        SCOTIA.
+300 00                  Vote          12    9      21       6             10 2        4     3 1 1 Bear River.
+300 00                  Vote          13    8      21       8             11 4        6     ... ... ... (t)Eskasoni.
+                                                                                                    (tt)Half-way
+100 00                  Vote          1     2      3        1             1     2     ...   ... ... ...
+                                                                                                    River.
+300 00                  Vote          15    6      21       11            10    4     3     2 2 ... Indian Cove.
+300 00                  Vote          6     6      12       5             6     3     1     1 1 ... Middle River.
+300 00                  Vote          13    9      22       10            3     4     8     6 ... 1 Millbrook.
+300 00                  Vote          5     9      14       6             3     1     1     ... 5 4 New Germany.
+
+<!-- page 814 -->
+300 00                      Vote             13    14   27    8            16   9   2    ... ... ... Salmon River.
+300 00                      Vote             8     4    12    2            6    3   1    1 ... 1 (ss)Shubenacadie.
+300 00                      Vote             15    7    22    12           8    5   5    4 ... ... Sydney.
+300 00                      Vote             13    13   26    9            19   6   1    ... ... ... Whycocomagh.
+                                                                                                   Total, Nova
+...                         ...              114   87   201   78           93 43 32 17 9 7
+                                                                                                   Scotia.
+
+[*Indian children attend white school. Department pays 25 cents per month (per capita) on average attendance.]
+
+[(t)Closed December quarter, 1905. No teacher.]
+
+[(tt)Indian children attend white school.]
+
+[(ss)Closed June 29, 1906, on account poor attendance.]
+
+<!-- page 815 -->
+School.                    Reserve.      Agency.                 Teacher.             Denomination.
+NEW BRUNSWICK.             ...           ...                     ...                  ...
+Burnt Church               Church Point Northeastern             Miss Mary E. Keating Roman Catholic
+Big Cove                   Big Cove      Northeastern            Miss Mary Isaac      Roman Catholic
+Eel Ground                 Eel ground    Northeastern            Miss Lucy B. Walsh Roman Catholic
+Kingsclear                 Kingsclear    Western                 Miss Mary Monagh'n Roman Catholic
+St. Mary's                 St. Mary's    Western                 Miss M.J. Rush       Roman Catholic
+Tobique                    Tobique       Western                 Miss E.H. Costigan   Roman Catholic
+Total, New Brunswick       ...           ...                     ...                  ...
+PRINCE EDWARD ISLAND. ...                ...                     ...                  ...
+Lennox Island              Lennox Island P.E.I. Superintendency. Florentine Peters    Roman Catholic
+BRITISH COLUMBIA.          ...           ...                     ...                  ...
+Aiyansh                    Kitladamicks Northwest Coast          Rev. J.B. Mccullagh  Church of England
+Alert Bay                  Nimkish       Kwawkewlth              Miss Emily Richards Church of England
+Bella Bella                Bella Bella   Kwawkewlth              Miss Mary A. Beatty Methodist
+Bella Coola                Bella Coola Northwest Coast           Miss Viola M. Lawson Methodist
+Cape Mudge                 Cape Mudge Kwawkewlth                 Rev. J.E. Rendle     Methodist
+Clayoquot (R.C.)           Opitsat       West Coast              Rev.c. Moser, O.S.B. Roman Catholic
+*Clayoquot (Prot.)         Opitsat       West Coast              Rev. W.J. Stone      Methodist
+Gitwingak                  Kitwingar     Babine                  Rev. Alfred E. Price Church of England
+Glen Vowell                Sicedach      Babine                  J.P. Thorkildson     Salvation Army
+Gwayasdums                 Gwayasdums Kwawkewlth                 Herbert Pearson      Church of England
+*Hartley Bay               Hartley Bay Northwest Coast           Rev. George Read     Methodist
+(t)Hazelton                Giatamaksh Babine                     Miss E.J. Stoal      Church of England
+Kincolith                  Kincolith     Northwest Coast         Rev. W.H. Collison   Church of England
+Kita-maat                  Kita-maat     Northwest Coast         Dr. D. Bower         Methodist
+Kitkahtla                  Kitkahtla     Northwest Coast         Rev. R.W. Gurd       Church of England
+*Kishfiax                  Kishfiax      Babine                  Rev. W.H. Pierce     Methodist
+(tt)Kisgegas               Kisgegas      Babine                  Joshua J. Harvey     Church of England
+Kyaquot                    Kyaquot       West Coast              Rev. E. Sobry        Roman Catholic
+Lakalsap                   Lakalsap      Northwest Coast         Rev. J.B. McCullagh Church of England
+Massett                    Massett       Northwest Coast         Rev. W.E. Collison   Church of England
+Metlakahtla                Metlakahtla Northwest Coast           Miss Helena Jackson Church of England
+Nanaimo                    Nanaimo       Cowichan                Rev. W.J. Knott      Methodist
+New Town                   Kitselas      Northwest Coast         Simon Ellis          Methodist
+*Nitanit                   Cla-oose      West Coast              C.A. Dockstader      Methodist
+(||)Ohiaht (Dodger's Cove) Haines Island West Coast              John T. Ross         Presbyterian
+
+[*Closed during September quarter, 1905.]
+
+[(t)Re-opened September 1, 1905, having been closed since June 30, 1901.]
+
+<!-- page 816 -->
+[(tt)New school opened during the December quarter, 1905.]
+
+[(||)No return received for the December quarter, 1905.]
+
+<!-- page 817 -->
+Appropriation for Salary or   From what
+                                           NUMBER ON ROLL.                     STANDARD.                 School.
+yearly grant.                 Fund paid.
+                                                                 Average
+...                           ...          Boys. Girls. Total.                 I   II III IV V VI ...
+                                                                 Attendance.
+                                                                                                        NEW
+$ cts.                        ...          ...   ...    ...      ...           ... ... ... ... ... ...
+                                                                                                        BRUNSWICK.
+300 00                        Vote         17    7      24       10            4 6     6 5      3 ... Burnt Church.
+300 00                        Vote         14    20     34       17            14 4    5 8      2 1 Big Cove.
+300 00                        Vote         7     10     17       10            6 4     2 4      1 ... Eel Ground.
+300 00                        Vote         9     11     20       14            7 3     4 4      1 1 Kingsclear.
+300 00                        Vote         17    12     29       19            6 9     10 2     2 ... St. Mary's.
+300 00                        Vote         10    9      19       11            7 2     7 3      ... ... Tobique.
+                                                                                                       Total, New
+...                           ...          74    69     143      81            44 28 34 26 9 2
+                                                                                                       Brunswick.
+                                                                                                       PRINCE
+...                           ...          ...   ...    ...      ...           ... ... ... ... ... ... EDWARD
+                                                                                                       ISLAND.
+300 00                        Vote         8     14     22       10            6 1 ... 11 4 ... Lennox Island.
+                                                                                                       BRITISH
+...                           ...          ...   ...    ...      ...           ... ... ... ... ... ...
+                                                                                                       COLUMBIA.
+300 00                        Vote         18    8      26       12            19 2 1      2 2 ... Aiyansh.
+300 00                        Vote         19    21     40       17            17 16 2     3 ... 2 Alert Bay.
+300 00                        Vote         24    25     49       11            22 14 7     6 ... ... Bella Bella.
+300 00                        Vote         31    12     43       8             38 3 2      ... ... ... Bella Coola.
+300 00                        Vote         11    4      15       8             7 7 1       ... ... ... Cape Mudge.
+                                                                                                         Clayoquot
+300 00                        Vote         9     7      16       5             13 3 ... ... ... ...
+                                                                                                         (R.C.)
+                                                                                                    *Clayoquot
+...                           ...          14    11     25       12            20 5 ... ... ... ...
+                                                                                                    (Prot.)
+300 00                        Vote         11    21     32       16            22 6 4 ... ... ... Gitwingak.
+300 00                        Vote         14    17     31       20            22 1 6 2 ... ... Glen Vowell.
+300 00                        Vote         16    13     29       10            25 4 ... ... ... ... Gwayasdums.
+300 00                        Vote         12    5      17       8             14 1 2 ... ... ... *Hartley Bay.
+300 00                        Vote         23    13     36       13            22 11 3 ... ... ... (t)Hazelton.
+300 00                        Vote         25    23     48       23            19 15 7 7 ... ... Kincolith.
+300 00                        Vote         25    31     56       32            37 4 14 1 ... ... Kita-maat.
+300 00                        Vote         25    16     41       18            9 11 8 7 6 ... Kitkahtla.
+300 00                        Vote         9     16     25       13            22 3 ... ... ... ... *Kisfiax.
+300 00                        Vote         16    11     27       7             23 4 ... ... ... ... (tt)Kisgegas.
+300 00                        Vote         9     2      11       6             8 1 2 ... ... ... Kyaquot.
+300 00                        Vote         13    12     25       10            23 2 ... ... ... ... Lakalsap.
+300 00                        Vote         20    23     43       18            19 17 7 ... ... ... Massett.
+

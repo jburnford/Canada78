@@ -1,0 +1,268 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+<!-- page 806 -->
+400 00                         Band             25    26     51     27             13 18 16 ... 4 ... Moraviantown.
+200 00                         Vote             28    22     50     36             30 ... 16 ... ... 4 Moose Fort.
+300 00                         Band             16    9      25     14             8 5 9 3 ... ... Mud Lake.
+300 00                         Vote.            12    12     24     9              15 1 6 1 1 ... Muncey.
+300 00                         Vote.            3     4      7      3              2 1 2 ... 2 ... (ss)Naughton.
+300 00                         Band             19    16     35     14             11 5 4 12 3 ... New Credit.
+300 00                         Band             9     13     22     13             8 2 8 3 ... 1 Nipissing.
+300 00                         Vote.            15    13     28     16             25 1 2 ... ... ... Oneida No. 2.
+300 00                         Vote             21    9      30     20             20 7 1 2 ... ... Oneida No. 3.
+300 00                         Vote             17    7      24     10             12 12 ... ... ... ... Pic River.
+300 00                         Vote             18    9      27     12             14 6 2 1 4 ... Port Elgin.
+                               Band, $125;
+300 00                                          16    26     42     18             18 5 6 6 5 2 Rama.
+                               Vote, $175
+                                                                                                      River
+300 00                         Band             10    13     23     10             13 6 1 3 ... ...
+                                                                                                      Settlement.
+300 00                         Band             16    13     29     12             13 7 9 ... ... ... Ryerson.
+300 00                         Vote             13    9      22     16             6 7 8 1 ... ... Sagamook.
+350 00                         Band             9     12     21     12             10 4 4 3 ... ... Saugeen.
+                                                                                                       Scotch
+350 00                         Band             10    13     23     15             7 5 5 6 ... ...
+                                                                                                       Settlement.
+
+[*New school. Opened January 3, 1906.]
+
+[(t)Indian children attend white school.]
+
+[(
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+      Roman Catholic
+Poplar River         Poplar River   Norway House James T. Blackford          Methodist
+Red Earth            Red Earth      Pas                John G. Kennedy       Church of England
+Roseau Rapids        Roseau Rapids Portage la Prairie Miss Emma McMahon. Undenominational
+Rossville            Norway House Norway House Miss E.J. Armstrong           Methodist
+Seine River          Seine River    Fort Frances       Peter Spence          Undenominational
+Shoal Lake           Pas Mountain Pas                  Louis Cochrane        Church of England
+Shoal River          Shoal River    Manitowapah        Rev. T.H. Dobbs       Church of England
+St. Peters (North)   St. Peters     Clandeboye         R.S. Aston            Church of England
+St. Peters (South)   St. Peters     Clandeboye         Miss C.E.M. Ridgeway Church of England
+St. Peters (East)    St. Peters     Clandeboye         Peter Harper          Church of England
+St. Peters (R.C.)    St. Peters     Clandeboye         Miss Mary Fitz Gerald Roman Catholic
+Swan Lake            Swan Lake      Portage la Prairie K. Cameron            Presbyterian
+Wabigoon             Wabigoon       Savanne            J.S. Newton           Church of England
+Waterhen River       Waterhen River Manitowapah        Lucien Guillot        Roman Catholic
+Total, Manitoba      ...            ...                ...                   ...
+
+[*School closed from September 30, 1905.]
+
+[(t)School closed during March and June quarters, 1906.]
+
+
+
+=== EXTRACT FROM HERE (pages 824-829) ===
+<!-- page 824 -->
+Appropriation for Salary or   From what
+                                           NUMBER ON ROLL.                     STANDARD.                     School.
+yearly grant.                 Fund paid.
+                                                                 Average
+...                           ...          Boys. Girls. Total.                 I     II    III IV V VI ...
+                                                                 Attendance.
+$ cts.                        ...          ...   ...    ...      ...           ...   ...   ... ... ... ... ...
+                                                                                                             *Manitou
+300 00                        Vote         5     6      11       5             6     5     ... ... ... ...
+                                                                                                             Rapids.
+                                                                                                             Moose
+300 00                        Vote         12    15     27       10            25 2        ... ... ... ...
+                                                                                                             Lake.
+                                                                                                           Muckles
+300 00                        Vote         4     9      13       6             9     1     2 1 ... ...
+                                                                                                           Creek.
+                                                                                                           (t)Oak
+300 00                        Vote         8     10     18       5             18 ...      ... ... ... ... River
+                                                                                                           (Sioux)
+300 00                        Vote         11    8      19       7             15 3        1 ... ... ... Okanase.
+300 00                        Vote         23    21     44       28            22 5        9 5 3 ... Pas.
+                                                                                                             Pine
+$12 p.c.                      Vote         5     14     19       15            13 3        2 1 ... ...
+                                                                                                             Creek.
+                                                                                                       Poplar
+300 00                        Vote         16    8      24       7             16 5        3 ... ... ...
+                                                                                                       River.
+300 00                        Vote         13    5      18       12            8     5     2 3 ... ... Red Earth.
+                                                                                                           Roseau
+300 00                        Vote         11    13     24       11            14 10 ... ... ... ...
+                                                                                                           Rapids.
+300 00                        Vote         11    6      17       7             15 2        ... ... ... ... Rossville.
+                                                                                                             Seine
+300 00                        Vote         8     14     22       13            22 ...      ... ... ... ...
+                                                                                                             River.
+                                                                                                             Shoal
+300 00                        Vote         8     4      12       7             9     1     2 ... ... ...
+                                                                                                             Lake.
+                                                                                                             Shoal
+300 00                        Vote         8     17     25       15            21 4        ... ... ... ...
+                                                                                                             River.
+                                                                                                             St. Peters
+300 00                        Vote         14    10     24       8             18 3        3 ... ... ...
+                                                                                                             (North).
+                                                                                                             St.Peters
+300 00                        Vote         23    16     39       15            15 16 5 1 2 ...
+                                                                                                             (South).
+                                                                                                             St. Peters
+300 00                        Vote         10    15     25       9             16 1        2 ... 4 2
+                                                                                                             (East).
+                                                                                                             St. Peters
+300 00                        Vote         15    11     26       11            17 7        2 ... ... ...
+                                                                                                             (R.C.)
+                                                                                                         Swan
+300 00                        Vote         6     5      11       4             11 ...      ... ... ... ...
+                                                                                                         Lake.
+300 00                        Vote         11    15     26       10            19 5        2 ... ... ... Wabigoon.
+                                                                                                             Waterhen
+300 00                        Vote         3     5      8        7             2     4     2 ... ... ...
+                                                                                                             River.
+                                                                                                             Total,
+...                           ...          543   528    1071 476               751 203 84 21 10 2
+                                                                                                             Manitoba.
+
+<!-- page 825 -->
+[*School closed from September 30, 1905.]
+
+[(t)School closed during March and June quarters, 1906.]
+
+<!-- page 826 -->
+School.                   Reserve.                  Agency.        Teacher.            Denomination.
+SASKATCHEWAN.             ...                       ...            ...                 ...
+                                                                                       Church of
+Ahtahkakoops              Ahtahkakoops              Carlton        Louis Ahenakew
+                                                                                       England
+                                                                                       Church of
+Big River                 Kenemotayoos              Carlton        William Bear
+                                                                                       England
+                                                    Touchwood Miss Soph. E.            Church of
+Day Star's                Day Star's
+                                                    Hills     Smythe                   England
+                                                                   Mrs. Ada A.
+Fort à la Corne (South)   James Smith's             Duck Lake                          Undenominational
+                                                                   Godfrey
+                                                                                       Church of
+James Smith's             James Smith's             Duck Lake      Alex. Ahenakew
+                                                                                       England
+                                                                                       Church of
+John Smith's              John Smith's              Duck Lake      Edward Ahenakew
+                                                                                       England
+                                                                                       Church of
+Keys                      Keys                      Pelly          Rev. Owen Owens
+                                                                                       England
+                                                                                       Church of
+Lac la Ronge              Lac la Ronge              Carlton        Samuel Abraham
+                                                                                       England.
+                                                                                       Church of
+Little Pines              Little Pines              Battleford     C.T. Desmarais
+                                                                                       England
+Meadow Lake               Meadow Lake               Battleford     Pierre C. Morin     Roman Catholic
+*Mistawasis               Mistawasis                Carlton        C.W. Bryden         Presbyterian
+                                                                                       Church of
+Montreal Lake             Montreal Lake             Carlton        Jno. R. Settee
+                                                                                       England
+                                                                   Miss Agnes
+Poundmaker's              Poundmaker's              Battleford                         Roman Catholic
+                                                                   Calvert
+                                                                                       Church of
+Red Pheasant              Red Pheasant              Battleford     Mrs. R. Jefferson
+                                                                                       England
+*Sioux Mission            Wahspaton                 Carlton        Jonathan Beverly    Presbyterian
+                                                                                     Church of
+Stony (Eagle Hills)       Stony                     Battleford     Andrew Love
+                                                                                     England
+Sturgeon Lake             William Twatt's           Carlton        Jonathan Beverley Presbyterian
+                                                                                       Church of
+Thunderchild's (C.E.)     Thunderchild's            Battleford     G.F. Gibbs
+                                                                                       England
+                                                    Moose          Miss E. May
+White Bear                White Bear                                                   Presbyterian
+                                                    Mountain       Armstrong
+Total, Saskatchewan       ...                       ...         ...                    ...
+ALBERTA.                  ...                       ...         ...                    ...
+Goodfish Lake             Pakan                     Saddle Lake Vincent Smith          Methodist
+Louis Bull's              Louis Bull's              Hobbema     A.A. Goodhand          Methodist
+*Saddle Lake              Saddle Lake               Saddle Lake Chas. W. Leonard       Methodist
+Sampson's                 Samson's                  Hobbema     Miss Sue Klippert      Methodist
+                          Lesser Slave Lake Peace                  Rev. A.
+St. Anthony's                                       Treaty No. 8                     Roman Catholic
+                          River Dist.                              Desmarais, O.M.I.
+
+<!-- page 827 -->
+(t)Upper Peace River (Christ      At Shaftsbury, Upper Peace                  Rev. A.
+                                                               Treaty No. 8                     Roman Catholic
+Church Mission)                   River Dist.                                 Desmarais, O.M.I.
+(t)Upper Peace River Christ       At Shaftsbury, Upper Peace                                     Church of
+                                                               Treaty No. 8 Miss Lilian Millen
+Church Mission.                   River District                                                 England
+                                                                              Miss Annie
+Whitefish Lake                    James Seenums                Saddle Lake                       Methodist
+                                                                              Whitford
+*Whitefish Lake (St. Andrews                                                                     Church of
+                                  Lesser Slave Lake District   Treaty No. 8 C.D. White
+Mission)                                                                                         England
+(tt)White Whale Lake              Paul's                       Edmonton       W.G. Blewett       Methodist
+Total, Alberta                    ...                          ...            ...                ...
+
+[*Closed during September quarter, 1905.]
+
+[(t)No return received for December quarter, 1905.]
+
+[(tt)Closed from December 31, 1905, on account of poor attendance.]
+
+<!-- page 828 -->
+Appropriation for Salary From what
+                                      NUMBER ON ROLL.                   STANDARD.                 School.
+or yearly grant.         Fund paid.
+                                                            Average
+...                     ...           Boys. Girls. Total.               I     II III IV V VI ...
+                                                            Attendance.
+$ cts.                  ...           ...   ...    ...      ...         ...   ... ... ... ... ... SASKATCHEWAN
+300 00                  Vote          8     9      17       10          7     5 3 2 ... ... Ahtahkakoops.
+300 00                  Vote          8     5      13       5           8     5 ... ... ... ... Big River.
+300 00                  Vote          7     9      16       13          5     3 4 4 ... ... Day Star's.
+                                                                                                  Fort à la Corne
+300 00                  Vote          7     13     20       9           19 1 ... ... ... ...
+                                                                                                  (South).
+300 00                  Vote          16    18     34       9           33    1 ... ... ... ... James Smith's.
+300 00                  Vote          9     13     22       8           12    6 4 ... ... ... John Smith's.
+300 00                  Vote          10    12     22       7           17    1 4 ... ... ... Keys.
+300 00                  Vote          7     7      14       10          10    4 ... ... ... ... Lac la Ronge.
+300 00                  Vote          8     5      13       6           10    2 1 ... ... ... Little Pines.
+300 00                  Vote          6     4      10       4           10    ... ... ... ... ... Meadow Lake.
+300 00                  Vote          8     8      16       8           6     6 3 ... 1 ... *Mistawasis.
+300 00                  Vote          20    26     46       14          28    14 2 2 ... ... Montreal Lake.
+300 00                  Vote          8     5      13       4           10    3 ... ... ... ... Poundmaker's.
+300 00                  Vote          8     5      13       6           10    2 1 ... ... ... Red Pheasant.
+300 00                  Vote          3     4      7        5           2     4 1 ... ... ... *Sioux Mission.
+300 00                  Vote          5     2      7        4           7     ... ... ... ... ... Stony (Eagle Hills).
+300 00                  Vote          9     8      17       6           8     6 3 ... ... ... Sturgeon Lake.
+                                                                                                Thunderchild's
+300 00                  Vote          6     ...    6        3           5     1 ... ... ... ...
+                                                                                                (C.E.)
+300 00                  Vote          8     9      17       7           4 2 10 1 ... ... White Bear.
+...                     ...           161   162    323      138         211 66 36 9 1 ... Total, Saskatchewan.
+...                     ...           ...   ...    ...      ...         ... ... ... ... ... ... ALBERTA.
+300 00                  Vote.         11    8      19       8           15 3 1 ... ... ... Goodfield Lake.
+300 00                  Vote          7     4      11       5           11 ... ... ... ... ... Louis Bull's.
+300 00                  Vote          13    6      19       9           14 5 ... ... ... ... *Saddle Lake.
+300 00                  Vote          19    12     31       4           27 4 ... ... ... ... Samson's.
+300 00                  Vote          13    11     24       24          24 ... ... ... ... ... St. Anthony's.
+                                                                                                (t)Upper Peace River
+300 00                  Vote          9     3      12       7           5 1 2 4 ... ... (Christ Church
+                                                                                                Mission).
+300 00                  Vote          10    11     21       7           21 ... ... ... ... ... Whitefish lake.
+                                                                                                  *Whitefish Lake (St.
+300 00                  Vote          19    8      27       9           16 8 2 1 ... ...
+                                                                                                  Andrews Mission.)
+                                                                                           (tt)White Whale
+300 00                  Vote          16    7      23       7           23 ... ... ... ... ...
+                                                                                           Lake.
+...                     ...           117   70     187      80          156 21 5 5 ... ... Total, Alberta.
+
+<!-- page 829 -->
+[*Closed during September quarter, 1905.]
+
+[(t)No return received for December quarter, 1905.]
+
+[(tt)Closed from December 31, 1905, on account of poor attendance.]
+

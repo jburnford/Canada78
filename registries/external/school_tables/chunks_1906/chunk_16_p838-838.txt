@@ -1,0 +1,67 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+<!-- page 832 -->
+ONTARIO.              ...                                                 ...                      ...
+School.               Situation.                                          Principal.               Denomination.
+Fort William                                                                                       Roman
+                      At Fort William, Ont.                               Sister M. Ignatia
+Orphanage                                                                                          Catholic
+BRITISH
+                      ...                                                 ...                      ...
+COLUMBIA.
+Ahousaht              At Ahousaht, West Coast agency                      Rev. J.L. Millar, B.A.   Presbyterian
+                      Near Alberni, adjoining Sheshat reserve, West Coast
+Alberni                                                                   James R. Motion          Presbyterian
+                      agency
+Port Simpson Boy's
+                      At Port Simpson, Northwest Coast agency             James R. Motion          Presbyterian
+Home
+Port Simpson Girls'                                                       Rev. J.C. Butchart,
+                      At Port Simpson, Northwest Coast agency                                      Methodist
+Home                                                                      B.A.
+                                                                                                   Roman
+Sechelt               Sechelt reserve, Fraser river agency                Sister Theresine
+                                                                                                   Catholic
+                      Burrard inlet, opposite city of Vancouver, Fraser                            Roman
+Squamish                                                                  Sister Mary Amy
+                      river agency                                                                 Catholic
+                                                                          Rev. Ch. Marchal,        Roman
+St. Mary's            At St. Mary's Mission, on the Fraser river
+                                                                          O.M.I.                   Catholic
+                                                                                                   Church of
+Yale (All Hallows)    At Yale, on the Fraser river                        Amy, Sister superior
+      
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                                                                                       Ft. Chipewyan
+            Vote.    21           24    45        40          10          16 15 2 2 ...
+$72 p. cap.                                                                                       (Holy Angels)
+15 pupils,                                                                                        Lesser Slave
+            Vote.    10           15    25        14          5           6 4       7 3 ...
+$72 p. cap.                                                                                       Lake (C.E.)
+40 pupils,                                                                                        Lesser Slave
+            Vote.    20           19    39        38          20          12 7      ... ... ...
+$72 p. cap.                                                                                       Lake (R.C.)
+45 pupils,                                                                                        McDougall
+            Vote.    22           21    43        33          17          7 12 7 ... ...
+$72 p. cap.                                                                                       Orphanage.
+50 pupils,
+            Vote.    21           16    37        31          10          8 8       11 ... ... Old Sun's.
+$72 p. cap.
+30 pupils,
+            Vote.    15           15    30        26          19          8 3       ... ... ... Peigan (C.E.)
+$72 p. cap.
+
+
+
+=== EXTRACT FROM HERE (pages 838-838) ===
+<!-- page 838 -->
+30 pupils,
+            Vote.   16   14   30   28   14   7 8     1 ... ... Peigan (R.C.)
+$72 p. cap.
+20 pupils,
+            Vote.   8    7    15   15   7    ... 2   4 2 ... Sarcee.
+$72 p. cap.
+15 pupils,                                                         Smoky River
+            Vote.   7    6    13   11   8    3 2     ... ... ...
+$72 p. cap.                                                        (St. Augustine)
+

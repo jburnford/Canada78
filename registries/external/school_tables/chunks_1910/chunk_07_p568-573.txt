@@ -1,0 +1,218 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+Statement of Day Schools in the Dominion (from which returns) for the Fiscal Year ended March 31, 1910.
+
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader, Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+NUMBER ON ROLL. Average Attendance. STANDARD.         School.
+Boys. Girls. Total.                 I  II III IV V VI
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                                        NOVA SCOTIA.
+10      7       17      8                     3     4 3     5 2 ... Bear River.
+11      9       20      8                     11    ... 2   6 ... 1 Eskasoni.
+17      7       24      12                    8     8 4     1 2 1 Sydney.
+2       3       5       2                     2     2 1     ... ... ... *Halfway River.
+18      11      29      17                    12    8 1     2 3 3 Indian Cove.
+14      11      25      6                     18    1 3     2 1 ... Middle River.
+9       10      19      10                    10    ... 2   5 ... 2 Millbrook.
+6       7       13      6                     2 5 1 ... 4 1 New Germany.
+11      14      25      7                     14 6 5 ... ... ... Salmon River.
+10      7       17      11                    15 ... 2 ... ... ... (t)Malagawatch.
+17      20      37      22                    24 6 2 ... 5 ... Whycocomagh.
+125     106     231     109                   119 40 26 21 17 8 Total, Nova Scotia.
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                               PRINCE EDWARD ISLAND.
+20      22      42      18                    32 3 5 ... 2 ... Lennox Island.
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                                      NEW BRUNSWICK.
+10      14      24      13                    10    7 3 2 ... 2 Burnt Church.
+16      21      37      14                    16    11 4 3 3 ... Big Cove.
+12      13      25      16                    16    6 2 ... 1 ... Eel Ground.
+8       9       17      11                    5     3 6 1 2 ... Kingsclear.
+8       10      18      13                    14    4 ... ... .
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+   ...           ...      ...    ...   ...
+Prince
+Edward      ... ...                     ...       ...     ...        ...           ...      ...    ...   ...
+Island
+New
+            ... ...                     ...       ...     ...        ...           ...      ...    ...   ...
+Brunswick
+Quebec       ...      ...               ...       ...     ...        ...           ...      ...    ...   ...
+Ontario      4        ...               2         2       ...        ...           ...      48     66    114
+Manitoba     9        ...               5         ...     1          3             ...      199    244   443
+Saskatchewan 13       ...               7         3       ...        3             ...      262    297   559
+Alberta      16       ...               11        5       ...        ...           ...      319    289   608
+Northwest
+             3        ...               2         1       ...        ...           ...      53     75    128
+Territories
+British
+              8       ...               3         1       2          2             ...      150    205   355
+Columbia
+Yukon         1       ...               ...       1       ...        ...           ...      12     10    22
+
+
+
+=== EXTRACT FROM HERE (pages 568-573) ===
+<!-- page 568 -->
+Total,
+Boarding      54    ...   30    13    3     8     ...   1,043 1,186 2,229
+Schools
+
+INDUSTRIAL SCHOOLS
+Nova Scotia ... ...       ...   ...   ...   ...   ...   ...   ...   ...
+Prince
+Edward      ... ...       ...   ...   ...   ...   ...   ...   ...   ...
+Island
+New
+            ... ...       ...   ...   ...   ...   ...   ...   ...   ...
+Brunswick
+Quebec       ...    ...   ...   ...   ...   ...   ...   ...   ...   ...
+Ontario      5      1     2     1     1     ...   ...   217   221   438
+Manitoba     2      1     ...   ...   1     ...   ...   87    93    180
+Saskatchewan 3      ...   1     1     ...   1     ...   199   185   384
+Alberta       2     ...   1     ...   1     ...   ...   80    49    129
+Northwest
+              ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Territories
+British
+              8     ...   5     2     1     ...   ...   275   206   481
+Columbia
+Yukon         ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Total,
+Industrial    20    2     9     4     4     1     ...   858   754   1,612
+Schools
+
+<!-- page 569 -->
+STATEMENT showing the Total Enrolment, by Provinces, in the Different Classes of Schools during the Fiscal
+Year ended March 31, 1910.
+DAY SCHOOLS
+
+Average Attendance. Percentage of Attendance. STANDARD.                          Province.
+...                 ...                       I     II    III IV V VI            ...
+109                 47.18                     119 40      26 21 17 8             Nova Scotia.
+18                  42.80                     32    3     5 ... 2 ...            Prince Edward Island.
+135                 60.81                     106 56      30 19 9 2              New Brunswick.
+542                 52.57                     564 186 147 82 38 14               Quebec.
+1,131               46.87                     1,138 504 433 232 90 10            Ontario.
+484                 42.61                     748 212 117 52 6 1                 Manitoba.
+145                 47.08                     194 65      36 11 2 ...            Saskatchewan.
+73                  36.23                     143 38      14 4 2 ...             Alberta.
+22                  64.70                     19    9     5 1 ... ...            Northwest Territories.
+493                 42.91                     663 275 145 58 8 ...               British Columbia.
+6                   35.29                     9     8     ... ... ... ...        Yukon.
+3,158               46.55                     3,735 1,396 958 480 174 41         Total, Day Schools.
+
+BOARDING SCHOOLS.
+Nova Scotia.
+...          ...                             ...   ...   ...   ...   ...   ...   Prince Edward Island.
+...          ...                             ...   ...   ...   ...   ...   ...   New Brunswick.
+...                 ...                      ...   ...   ... ... ... ...         Quebec.
+97                  85.08                    65    25    12 5 7 ...              Ontario.
+406                 91.65                    103   97    123 74 41 5             Manitoba.
+509                 91.05                    211   112   90 84 46 16             Saskatchewan.
+537                 88.32                    241   136   91 84 33 23             Alberta.
+118                 92.18                    52    38    33 3 1 1                Northwest Territories.
+320                 90.14                    61    63    63 75 76 17             British Columbia.
+17                  77.27                    7     4     2 4 5 ...               Yukon.
+2,004               89.90                    740   475   414 329 209 62          Total, Boarding Schools.
+
+INDUSTRIAL SCHOOLS.
+Nova Scotia.
+...           ...                            ...   ...   ... ...     ...   ...   Prince Edward Island.
+...           ...                            ...   ...   ... ...     ...   ...   New Brunswick.
+...           ...                            ...   ...   ... ...     ...   ...   Quebec.
+395           90.18                          96    79    82 90       52    39    Ontario.
+155           86.11                          46    25    31 31       15    32    Manitoba.
+357           92.97                          111   68    104 52      30    19    Saskatchewan.
+
+<!-- page 570 -->
+112     86.82   34    23    16 16 30 10 Alberta.
+...     ...     ...   ...   ... ... ... ... Northwest Territories.
+445     92.51   106   64    98 83 70 60 British Columbia.
+...     ...     ...   ...   ... ... ... ... Yukon.
+1,464   90.82   393   259   331 272 197 160 Total Industrial Schools.
+
+<!-- page 571 -->
+SUMMARY OF SCHOOL STATEMENT
+
+                                            Total
+                                            Number                                                                                                 Average
+Province        Class of School.                     Denomination.                                                             Number on Roll.
+                                            of                                                                                                     Attendance.
+                                            Schools.
+                                                                                  Church
+                                                                        Roman                                       Salvation
+...             Day. Boarding. Industrial. ...        Undenominational.           of       Methodist. Presbyterian.           Boys. Girls. Total. ...
+                                                                        Catholic.                                   Army.
+                                                                                  England.
+Nova Scotia     11    ...          ...      11        ...                 11         ...       ...         ...        ...      125   106   231     109
+Prince
+Edward          1     ...          ...      1         ...                 1          ...       ...         ...        20       22    42    18      ...
+Island
+New
+                9     ...          ...      9         ...                 9          ...       ...         ...        ...      100   122   222     135
+Brunswick
+Quebec          23    ...          ...      23        5                   13         2         3           ...        ...      513   518   1,031 542
+Ontario      78       4            5        87        39                  26         13        9           ...        ...      1,472 1,493 2,965   1,623
+Manitoba     48       9            2        59        5                   11         27        11          5          ...      856 903 1,759       1,045
+Saskatchewan 18       13           3        34        1                   10         16        ...         7          ...      626 625 1,251       1,011
+Alberta      8        16           2        26        ...                 12         8         6           ...        ...      516 422 938         722
+Northwest
+             2        3            ...      5         ...                 2          3         ...         ...        ...      69    93    162     140
+Territories
+British
+                42    8            8        58        2                   17         16        18          3          2        985   1,000 1,985 1,258
+Columbia
+Yukon           1   1              ...      2         ...                 ...        2         ...         ...        ...      19    20    39     23
+Total           241 54             20       315       52                  112        87        47          15         2        5,301 5,324 10,625 6,626
+
+[*All boys at industrial schools are taught farming and all girls, sewing, knitting and general house hold duties.]
+
+<!-- page 572 -->
+SUMMARY OF SCHOOL STATEMENT
+
+Percentage
+of          Standard.                              *Industries Taught.                                                           Total. Province.
+Attendance.
+...         I     II       III   IV     V VI Carpenter. Shoemaker. Tailor. Blacksmith. Baker. Harnessmaker. Printer. Painter. ...      ...
+47.18       119 40         26    21     17 8 ...        ...        ...     ...         ...    ...           ...      ...      ...      Nova Scotia.
+                                                                                                                                       Prince Edward
+42.86         32    3      5     ...    2    ...   ...        ...         ...     ...          ...     ...           ...   ...   ...
+                                                                                                                                       Island.
+                                                                                                                                       New
+60.81         106   56     30    19     9    2     ...        ...         ...     ...          ...     ...           ...   ...   ...
+                                                                                                                                       Brunswick.
+52.57         564 186      147   82     38 14      ...        ...         ...     ...          ...     ...           ...   ...   ...   Quebec.
+54.74         1,299 608    527   327    149 55     7          5           ...     ...          ...     ...           ...   2     14    Ontario.
+59.41         897 334      271   157    62 38      4          1           ...     2            ...     2             2     ...   11    Manitoba.
+80.81         516 245      230   147    78 35      15         7           ...     5            4       ...           2     ...   33    Saskatchewan.
+76.97         418   197    121   104    65 33 ...             ...         ...     ...          ...     ...           ...   ...   ...   Alberta.
+                                                                                                                                       Northwest
+86.42         71    47     38    4      1    1     ...        ...         ...     ...          ...     ...           ...   ...   ...
+                                                                                                                                       Territories.
+                                                                                                                                       British
+63.37         830   402    306   216    154 77 66             14          2       5            7       ...           ...   3     97
+                                                                                                                                       Columbia.
+58.97         16    12    2     4     5 ... ...               ...         ...     ...          ...     ...           ...   ...   ...   Yukon.
+62.36         4,868 2,130 1,703 1,081 580 263 92              27          2       12           11      2             4     5     155   Total.
+
+[*All boys at industrial schools are taught farming and all girls, sewing, knitting and general household duties.]
+
+27 - i - 24
+
+<!-- page 573 -->
+[blank page | page blanche]
+

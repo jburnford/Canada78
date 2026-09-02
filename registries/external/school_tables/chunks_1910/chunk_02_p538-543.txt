@@ -1,0 +1,273 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+Statement of Day Schools in the Dominion (from which returns) for the Fiscal Year ended March 31, 1910.
+
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader, Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+NUMBER ON ROLL. Average Attendance. STANDARD.         School.
+Boys. Girls. Total.                 I  II III IV V VI
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                                        NOVA SCOTIA.
+10      7       17      8                     3     4 3     5 2 ... Bear River.
+11      9       20      8                     11    ... 2   6 ... 1 Eskasoni.
+17      7       24      12                    8     8 4     1 2 1 Sydney.
+2       3       5       2                     2     2 1     ... ... ... *Halfway River.
+18      11      29      17                    12    8 1     2 3 3 Indian Cove.
+14      11      25      6                     18    1 3     2 1 ... Middle River.
+9       10      19      10                    10    ... 2   5 ... 2 Millbrook.
+6       7       13      6                     2 5 1 ... 4 1 New Germany.
+11      14      25      7                     14 6 5 ... ... ... Salmon River.
+10      7       17      11                    15 ... 2 ... ... ... (t)Malagawatch.
+17      20      37      22                    24 6 2 ... 5 ... Whycocomagh.
+125     106     231     109                   119 40 26 21 17 8 Total, Nova Scotia.
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                               PRINCE EDWARD ISLAND.
+20      22      42      18                    32 3 5 ... 2 ... Lennox Island.
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                                      NEW BRUNSWICK.
+10      14      24      13                    10    7 3 2 ... 2 Burnt Church.
+16      21      37      14                    16    11 4 3 3 ... Big Cove.
+12      13      25      16                    16    6 2 ... 1 ... Eel Ground.
+8       9       17      11                    5     3 6 1 2 ... Kingsclear.
+8       10      18      13                    14    4 ... ... .
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+             Sarnia           Miss A.M. Matthews Methodist
+French Bay                 Saugeen                      Saugeen          T.J. Wallace          Undenominational
+Saugeen                    Saugeen                      Saugeen          Miss Isabella Ruxton Undenominational
+Scotch Settlement          Saugeen                      Saugeen          John Burr             Undenominational
+Garden River R.C.          Garden River                 Sault Ste. Marie Rev. J.A. Drolet S.J. Roman Catholic
+Garden River (C.E.)        Garden River                 Sault Ste. Marie Lucius F. Hardyman Church of England
+Goulais Bay                Goulais Bay                  Sault Ste. Marie Thomas Cadran         Roman Catholic
+Michipicoten               Michipicoten                 Sault Ste. Marie Miss Annie O'Connor Roman Catholic
+(t)Missanabie              At Missanabie                Sault Ste. Marie Mrs. S.H. Ferris      Undenominational
+
+[*Closed during March quarter, 1910.]
+[(t)White school, attended by Indian children.]
+[(tt)Closed during September quarters, 1909, no teacher.]
+[(pp)Only one return received.]
+[(°)Closed during the December, 1909, and March, 1910, quarters, no teacher.]
+
+
+
+=== EXTRACT FROM HERE (pages 538-543) ===
+<!-- page 538 -->
+NUMBER ON ROLL. Average Attendance. STANDARD.        School.
+Boys. Girls. Total.                 I II III IV V VI
+
+...   ...   ...    ...               ... ... ... ... ... ...
+                                                            ONTARIO.
+23    17    40     18                16 6 12 4 2 ... Alnwick.
+20    30    33     19                7 4 8 5 6 3 Cape Croker.
+16    11    27     12                8 7 7 4 1 ... Port Elgin.
+6     7     13     7                 4 2 3 3 1 ... *Sidney Bay.
+19    16    35     13                16 3 7 5 4 ... Back Settlement.
+6     10    16     9                 7 4 2 3 ... ... Bear Creek.
+7     12    19     8                 7 4 6 2 ... ... Muncey.
+14    11    25     15                17 ... 5 3 ... ... Oneida No. 2.
+27    4     31     19                15 9 3 4 ... ... Oneida No. 3.
+16    14    30     13                12 11 7 ... ... ... River Settlement.
+1     2     3      2                 1 2 ... ... ... ... (t)Biscotasing, S.S. No. 1.
+10    6     16     5                 8 6 1 1 ... ... Georgina Island.
+17    15    32     16                16 7 5 3 1 ... Golden Lake.
+16    15    31     16                17 8 5 ... 1 ... Sheshegwaning.
+14    26    40     17                17 11 10 2 ... ... West Bay.
+1     1     2      1                 ... 1 1 ... ... ... (t)Graham, S.S. No. 5.
+6     6     12     5                 6 3 2 1 ... ... Sheguiandah.
+17    17    34     19                12 10 7 3 2 ... South Bay.
+4     7     11     4                 4 3 4 ... ... ... Sucker Creek.
+8     14    22     15                18 ... 4 ... ... ... Whitefish Lake.
+22    ...   22     7                 22 ... ... ... ... ... Wikwemikong (boys.)
+...   15    15     8                 13 2 ... ... ... ... Wikwemikong (girls.)
+10    13    23     15                9 9 4 1 ... ... Wikwemikongsing.
+34    25    59     32                15 9 3 10 10 12 Moraviantown.
+14    12    26     11                6 4 5 7 4 ... New Credit.
+6     8     14     7                 5 4 2 1 2 ... (tt)Gibson.
+10    10    20     11                6 4 5 5 ... ... Henvey Inlet.
+10    11    21     9                 8 9 3 ... 1 ... Ryerson.
+18    18    36     14                13 10 7 5 1 ... Shawanaga.
+4     5     9      7                 4 ... 4 ... 1 ... Skene.
+17    24    41     16                16 ... 22 3 ... ... Christian Island.
+7     4     11     5                 5 6 ... ... ... ... (pp)Grand Bay.
+19    13    32     9                 27 3 1 1 ... ... Lake Helen.
+13    6     19     10                11 4 4 ... ... ... Mission Bay (Squaw Bay.)
+14    23    37     16                15 10 7 5 ... ... Mountain Village.
+18    19    37     10                29 8 ... ... ... ... (°)Pic River.
+
+<!-- page 539 -->
+19      25     44      22                    9 14 8 10 3 ... Rama.
+6       8      14      4                     6 7 ... 1 ... ... (t)Hiawatha.
+13      17     30      18                    16 5 6 ... 3 ... Mud Lake.
+12      10     22      11                    15 1 2 4 ... ... Kettle Point.
+5       6      11      5                     7 4 ... ... ... ... Stony Point.
+11      17     28      14                    16 2 6 4 ... ... St. Clair.
+19      9      28      21                    12 6 3 6 1 ... French Bay.
+9       10     19      13                    7 4 6 1 1 ... Saugeen.
+16      14     30      18                    12 10 5 3 ... ... Scotch Settlement.
+24      27     51      20                    20 17 12 2 ... ... Garden River (R.C).
+20      6      26      8                     16 6 3 1 ... ... Garden River (C.E).
+8       15     23      13                    11 2 10 ... ... ... Goulais Bay.
+6       12     18      10                    4 6 6 2 ... ... Michipicoten.
+6       5      11      4                     4 6 1 ... ... ... (t)Missanabie.
+
+[*Closed during March quarter, 1910.]
+[(t)White school, attended by Indian children.]
+[(tt)Closed during September quarters, 1909, no teacher.]
+[(pp)Only one return received.]
+[(°)Closed during the December, 1909, and March, 1910, quarters, no teacher.]
+
+<!-- page 540 -->
+School.                   Reserve.             Agency.    Teacher.                     Denomination.
+
+                          ...                  ...        ...                          ...
+ONTARIO - Concluded.
+*Scugog S.S. No. 3        Scugog Island Scugog            Miss Eliz. Nesbitt             Undenominational
+Six Nations No. 1         Six Nations      Six Nations    Miss M.F. Jamieson             Undenominational
+Six Nations No. 2         Six Nations      Six Nations    John Clark (Princ.)            Undenominational
+Six Nations No. 2         Six Nations      Six Nations    Miss Julia L. Jamieson (Asst.) Undenominational
+Six Nations No. 3         Six Nations      Six Nations    James D. Moses                 Undenominational
+Six Nations No. 5         Six Nations      Six Nations    Miss Ada H. Sharp.             Undenominational
+Six Nations No. 6         Six Nations      Six Nations    Jno. R. Lickers                Undenominational
+Six Nations No. 7         Six Nations      Six Nations    Chas. L. Pitts (Prin.)         Undenominational
+Six Nations No. 7         Six Nations      Six Nations    Festus A. Johnson (Asst)       Undenominational
+Six Nations No. 9         Six Nations      Six Nations    E.J. Lyon                      Undenominational
+Six Nations No. 10        Six Nations      Six Nations    Samuel A. Anderson             Undenominational
+Six Nations No. 11        Six Nations      Six Nations    Thomas W. Draper.              Undenominational
+Six Nations Thomas        Six Nations      Six Nations    John Miller                    Undenominational
+Garden Village            Nipissing        Sturgeon Falls Miss J. McDermott              Roman Catholic
+*Mattawa                  At Mattawa       Sturgeon Falls Sister St. Gregory             Roman Catholic
+Nipissing                 Nipissing        Sturgeon Falls Miss Agnes Kelly               Roman Catholic
+(t)Temogami               On Bear Island Sturgeon Falls Miss A. O'Connor                 Undenominational
+Mississagi River          Mississagi River Thessalon      Miss Annie Kehoe               Roman Catholic
+Sagamook                  Spanish River Thessalon         Miss Rose Fagan                Roman Catholic
+Serpent River             Serpent River    Thessalon      Mrs. J.H. McKay                Roman Catholic
+Spanish River             Spanish River Thessalon         Miss M. Cadotte                Church of England
+(t)Abitibi                At Abitibi       Treaty No. 9 Mrs. R. Gibbons                  Roman Catholic
+Albany Mission (C. E)     At Fort Albany Treaty No. 9 Miss Lucy I. Barker                Church of England
+Moose Fort                At Moose Fort Treaty No. 9 Rev. Ernest O. Duke                 Church of England
+Tyendinaga (Eastern)      Tyendinaga       Tyendinaga     Bert Vanalstine                Undenominational
+Tyendinaga (Western)      Tyendinaga       Tyendinaga     Miss H. Thompson               Undenominational
+Tyendinaga (Central)      Tyendinaga       Tyendinaga     Miss Elva Buchanan             Undenominational
+Tyendinaga(Mission)       Tyendinaga       Tyendinaga     Alexander Leween               Undenominational
+Walpole Island No. 1      Walpole Island Walpole Island W.A. Batchelor                   Church of England
+Walpole Island No. 2      Walpole Island Walpole Island Joseph Sampson                   Methodist
+Total, Ontario            ...              ...            ...                            ...
+
+[*White school attended by Indian children.]
+[(t)Open during the summer only.]
+
+<!-- page 541 -->
+NUMBER ON ROLL. Average Attendance STANDARD.          School.
+Boys. Girls. Total.                I   II III IV V VI
+
+...     ...     ...     ...                    ...   ...   ...   ...   ... ...
+                                                                       ONTARIO - Concluded.
+11      7       18      9                      9     4 2 3 ... ... *Scugog S.S. No. 3.
+27      28      55      23                     20    9 12 9 5 ... Six Nations No. 1.
+39      53      92      49                     44    11 8 13 15 1 Six Nations No. 2.
+33      37      70      27                     23    13 18 11 5 ... Six Nations No. 3.
+21      14      35      19                     17    ... 6 10 2 ... Six Nations No. 5.
+12      9       21      10                     8     4 4 5 ... ... Six Nations No. 6.
+43      53      96      37                     70    11 5 5 5 ... Six Nations No. 7.
+15      24      39      20                     20    7 7 4 1 ... Six Nations No. 9.
+25      23      48      16                     23    15 7 3 ... ... Six Nations No. 10.
+24      18      42      16                     22    2 9 6 3 ... Six Nations No. 11
+18      18      36      19                     10    10 10 6 ... ... Six Nations Thomas.
+15      15      30      17                     12    10 8 ... ... ... Garden Village.
+19      22      41      32                     19    14 5 2 1 ... *Mattawa.
+6       6       12      10                     4     4 1 3 ... ... Nipissing.
+12      14      26      12                     11    10 4 1 ... ... (t)Temogami
+22      20      42      15                     27    7 2 5 1 ... Mississagi River
+14      12      26      14                     9     6 7 3 1 ... Sagamook.
+7       16      23      11                     ...   11 10 2 ... ... Serpent River.
+6       7       13      6                      10    1 2 ... ... ... Spanish River.
+33      16      49      25                     36    12 1 ... ... ... (t)Abitibi.
+22      32      54      21                     38    8 6 2 ... ... Albany Mission (C.E).
+30      31      61      35                     24    24 11 2 ... ... Moose Fort.
+31      17      48      15                     26    7 9 5 1 ... Tyendinaga (Eastern).
+15      19      34      13                     12    5 12 4 1 ... Tyendinaga (Western).
+18      22      40      10                     15    6 13 5 1 ... Tyendinaga (Central).
+24      20      44      19                     14    12 13 4 1 ... Tyendinaga (Mission).
+16      24      40      14                     23    7 5 3 2 ... Walpole Island No. 1.
+11      18      29      16                     25    1 2 1 ... ... Walpole No. 2.
+1,207   1,206   2,413   1,131                  1,138 504 433 232 90 16 Total, Ontario.
+
+[*White school attended by Indian children.]
+[(t)Open during the summer only.]
+
+<!-- page 542 -->
+School.               Reserve.          Agency.          Teacher.                 Denomination.
+
+                      ...               ...              ...                      ...
+MANITOBA.
+Assabasca              Assabasca          Kenora         Mrs. Julia L. Harber     Undenominational
+Long Sault             Long Sault         Fort Frances   Miss Eva Fryer           Church of England
+*Manitou Rapids        Manitou Rapids     Fort Frances   Robert R. Gill           Church of England
+(t)Seine River         Seine River        Fort Frances   Peter Spence             Undenominational
+Berens River           Berens River       Norway House   Miss BessieL. Hayter     Methodist
+(tt)Black River        Black River        Norway House   Geo. Slater              Church of England
+Cross Lake (Prot.)     Cross Lake         Norway House   Miss Isad'a Whitlock     Methodist
+Cross Lake (R.C.)      Cross Lake         Norway House   Sr. Margaret Mary        Roman Catholic
+Fisher River           Fisher River       Norway House   Miss M.C. Demerse        Methodist
+(pp)Hollowwater River Hollowater River Norway House      Miss Margaret Ross       Church of England
+Island Lake            At Island Lake     Norway House   Miss Annie L. Cunningham Methodist
+Jackhead               Jackhead           Norway House   Leonard Hart             Church of England
+Jack River             Jack River         Norway House   Wm. J.P. Pelter          Church of England
+(°)Little Grand Rapids LittleGra'd Rapids Norway House   Roy L. Taylor            Methodist
+Nelson House           At Nelson House Norway House      Henry T. Wright          Methodist
+Oxford House           At Oxford House Norway House      Alex. S. Martin          Methodist
+Poplar River           Poplar River       Norway House   P.E. Jones               Methodist
+Rossville              Norway House       Norway House   Thomas Bolster           Methodist
+Split Lake             Split Lake         Norway House   Chas, G. Fox             Church of England
+Ebb and Flow Lake      Ebb and FlowLake Manitowapah      Miss Nora Shannon        Roman Catholic
+Fairford (Upper)       Fairford           Manitowapah    Rupert Bruce             Church of England
+Fairford (Lower)       Fairford           Manitowapah    Colin Sanderson          Church of England
+Lake Manitoba          Lake Manitoba      Manitowapah    L.E. Martel              Roman Catholic
+Lake St. Martin        Lake St. Martin    Manitowapah    John E. Favell           Church of England
+Little Saskatchewan    Little Saskat'wan Manitowapah     George Storr             Church of England
+(ss)Pine Creek         Pine Creek         Manitowapah    Rev. A. Chaumont         Roman Catholic
+Shoal River            Shoal River        Manitowapah    Rev. T.H. Dobbs          Church of England
+Waterhen River         Waterhen River     Manitowapah    Miss Marie L. Adam       Roman Catholic
+Brokenhead             Brokenhead         Clandeboye     Miss E.K. Isbister       Church of England
+Fort Alexander (Upper) Fort Alexander     Clandeboye     Wilfrid H.S. Hatton      Church of England
+Fort Alexander (Lower) Fort Alexander     Clandeboye     Miss Ellen I. Folster    Church of England
+Muckles Creek          St. Peters         Clandeboye     Miss C. FitzGerald       Church of England
+Peguis                 St. Peters         Clandeboye     Miss Bella Stout         Church of England
+St.Peters (North)      St. Peters         Clandeboye     Peter Harper             Church of England
+St. Peters (South)     St. Peters         Clandeboye     Miss Hazel Overton       Church of England
+St. Peters (East)      St. Peters         Clandeboye     Miss Alma Wall           Church of England
+St. Peters (R.C.)      St. Peters         Clandeboye     T.J. FitzGerald          Roman Catholic
+
+<!-- page 543 -->
+Roseau Rapids           Roseau Rapids    Portage la Prairie Miss Rose Godon       Undenominational
+Swan Lake               Swan Lake        Portage la Prairie Miss M. McIlwaine     Presbyterian
+(||)Clearwater Lake     Keeseekoowenin's Birtle la Prairie Miss Mary Neshotah     Undenominational
+Okanase                 Okanase          Birtle la Prairie Miss M.E. Murray       Presbyterian
+Big Eddy                Pas              Pas                Reginald H. Bagshaw   Church of England
+Chemawawin              Chemawawin       Pas                Melville Leffler      Church of England
+Cumberland              Cumberland       Pas                Nathan Settee         Church of England
+Grand Rapids            Grand Rapids     Pas                Rev. Albert Fraser    Church of England
+Moose Lake              Moose Lake       Pas                Elijah Constant       Church of England
+Pas                     Pas              Pas                M.E. Coates           Church of England
+Red Earth               Red Earth        Pas                Jno. G. Kennedy       Church of England
+Total, Manitoba         ...              ...                ...                   ...
+
+[*Reopened December 1, 1909, having been closed since September 30, 1905.]
+[(t)Closed from March 31, 1909, to January 3, 1910.]
+[(tt)No return received for quarters ended December, 1909, and March, 1910.]
+[(pp)Closed September quarter, 1909, no teacher.]
+[(°)Open during the summer only.]
+[(ss)Day school pupils attend classes in the boarding school.]
+[(||)New school. First opened April 1,1909.]
+

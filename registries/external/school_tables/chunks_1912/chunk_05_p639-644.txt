@@ -1,0 +1,307 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal
+Year ended March 31, 1912.
+
+Note - The `Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+
+
+School.                          Reserve.          Agency.                Teacher.                      Denomination.
+NOVA SCOTIA.                     ...               ...                    ...                           ...
+                                                                                                        Roman
+Bear River                       Bear River        Digby County           Mrs. Minnie A. Howe
+                                                                                                        Catholic
+                                                                                                        Roman
+Eskasoni                         Eskasoni          Cape Breton Co         James Macneil
+                                                                                                        Catholic
+                                                                                                        Roman
+Sydney                           Sydney            Cape Breton Co         Miss Edna F. Gough
+                                                                                                        Catholic
+                                                                                                        Roman
+*Halfway River                  Franklin Manor Cumberland Co              Sydney B. Fullerton
+                                                                                                        Catholic
+                                                                                                        Roman
+Indian Cove                     Fisher's Grant     Pictou County          Miss Gertrude McGirr
+                                                                                                        Catholic
+                                                                                                        Roman
+Middle River                    Middle River       
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+illiam Orphanage.
+25    30     55     46             14 14 13 14 ... ... Fort Frances.
+21    22     43     38             14 2 4 16 3 4 Cecilia Jeffrey.
+26    26     52     45             11 7 13 14 7 ... Kenora.
+127   132    259    208            101 48 38 54 14 4 Total, Ontario.
+...   ...    ...    ...            ... ... ... ... ... ... MANITOBA.
+27    29     56     49             5 12 13 13 13 ... Birtle.
+37    41     78     60             24 16 19 11 8 ... Fort Alexander.
+24    54     78     70             26 11 15 19 7 ... Pine Creek.
+27    21     48     42             15 7 12 14 ... ... Sandy Bay.
+26    29     55     48             17 10 12 8 7 1 Norway House.
+16    19     35     31             8 1 14 4 7 1 Portage la Prairie.
+157   193    350    300            95 57 85 69 42 2 Total, Manitoba.
+...   ...    ...    ...            ... ... ... ... ... ... SASKATCHEWAN.
+10    15     25     21             13 4 4 3 ... 1 Thunderchild's.
+22    24     46     45             15 12 10 9 ... ... Cowessess.
+27    25     52     35             26 8 8 6 3 1 Round Lake.
+53    52     105    97             43 13 15 17 8 9 Duck lake.
+22    24     46     38             20 8 6 9 3 ... File Hill.
+
+
+
+=== EXTRACT FROM HERE (pages 639-644) ===
+<!-- page 639 -->
+School.           Situation.                                   Agency.      Principal.           Denomination.
+                                                                            Rev. E.J.            Roman
+Onion Lake (R.C.) On Seekaskootch reserve                      Onion Lake
+                                                                            Cunningham           Catholic
+                                                                                                 Church of
+Onion Lake (C.E.) On Makaoo's reserve                          Onion Lake Rev. J.R. Matheson
+                                                                                                 England
+                                                                            Rev. W.M.
+Crowstand         On Côte's reserve, 3 miles from Kamasack     Pelly                             Presbyterian
+                                                                            Whinney
+                  Adjoining Keesseekouse reserve, S.W. 1/4,                 Rev. N.A. Ruelle     Roman
+Keeseekouse                                                    Pelly
+                  sec.22 tp. 32, r. 32, W 1st M.                            O.M.I.               Catholic
+                                                               Touchwood                  Church of
+Gordon's          On Geo. Gordons reserve                                William A. Monck
+                                                               Hills                      England
+                  Adjoining Muscowequan's reserve, N.W. 1/4    Touchwood Rev. A.J.A. Dugas, Roman
+Muscowequan's
+                  sec. 14, tp. 27. r. 15, W. 2nd M.            Hills     O.M.I              Catholic
+                                                               Treaty       Rev. François        Roman
+Lac la Plonge     On la Plonge river
+                                                               No.10        Ancel, O.M.I.        Catholic
+                                                               Treaty                            Church of
+Lac la Ronge      On west shore of Lac la Ronge                             Rev. M.B. Edwards
+                                                               No.10                             England
+Total,
+                  ...                                          ...          ...                  ...
+Saskatchewan
+ALBERTA.          ...                                          ...          ...                  ...
+                  Off Blood reserve, across Belly river from                                     Church of
+Blood (C.E.)                                                   Blood        Rev. S. Middleton
+                  Agency headquarters                                                            England
+                                                                            Rev. E. Ruaux,       Roman
+Blood (R.C.)      On Blood reserve, upper agency               Blood
+                                                                            O.M.I.               Catholic
+                                                                            Rev. J.L. LeVern,    Roman
+Crowioot          At South Camp, Blackfoot reserve             Blackfoot
+                                                                            O.M.I.               Catholic
+                                                                            Sister M.A.          Roman
+St. Albert        At. St. Albert settlement                    Edmonton
+                                                                            Diguiere             Catholic
+                                                                            Rev. R.L. Dauphin, Roman
+Ermineskins       On Ermineekin's reserve                      Hobbeina
+                                                                            O.M.I.             Catholic
+                                                                                                 Church of
+Peigan (C.E.)     On Peigan reserve                            Peigan       Arthur R. Collins
+                                                                                                 England
+                                                                                                 Roman
+Peigan (R.C.)     On Peigan reserve                            Peigan       Rev. J.M. Salaun
+                                                                                                 Catholic
+                                                               Saddle       Rev. Cyprian         Roman
+Blue Quill's      On Blue Quill's reserve
+                                                               Lake         Boulone, O. M. I.    Catholic
+                                                                                                 Church of
+Sarcee            On Sarcee reserve                            Sarcee       Arch'dn. J.W. Tims
+                                                                                                 England
+Fort Chipewyan                                                                                   Roman
+                  At Fort Chipewyan                            Fort Smith Sister Laverty
+(Holy Angels)                                                                                    Catholic
+                                                               Lesser     Rev. C. Joussard,      Roman
+Lesser Slave Lake On Northwest side Lesser Slave Lake
+                                                               Slave Lake O.M.I.                 Catholic
+                                                               Lesser      Rev. J. Calais,       Roman
+Sturgeon Lake     On East shore of Sturgeon Lake
+                                                               Slaver Lake O.M.I.                Catholic
+Vermilion (St.                                                 Leeser      Rev. J. Le Treste,    Roman
+                  At Vermillion, on the Peace River.
+
+<!-- page 640 -->
+Henri)                                                  Slave Lake O.M.I.          Catholic
+Wabiskaw Lake                                           Leeser     Rev. Chaa. R.   Church of
+                At St. John's Mission, Wikbiskaw Lake
+(C.E.)                                                  Slave Lake Weaver          England
+
+<!-- page 641 -->
+NUMBER ON ROLL. Average Attendance STANDARD.               School
+Boys. Girls. Total. ...            I   II III IV V VI ...
+17    32     49     35             25 12 7 2 3 ... Onion Lake (R.C.)
+7     8      15     11             11 2 ... 1 1 ... Onion Lake (C.E.)
+22    26     48     47             14 5 14 6 9 ... Crowstand.
+16    14     30     23             9 3 12 5 1 ... Keeseekouse.
+16    19     35     30             15 8 6 6 ... ... Gordon's.
+13    25     38     33             13 5 6 11 3 ... Muscowequan's.
+17    34     51     46             29 9 7 6 ... ... Lac la Ronge.
+20    35     55     49             25 10 12 8 ... ... Lac la Ronge.
+262   333    595    510            258 99 107 89 31 11 Total, Saskatchewan.
+...   ...    ...    ...            ... ... ... ... ... ... ALBERTA.
+28    15     43     39             10 9 8 8 5 3 Blood (C.E.)
+25    24     49     40             20 9 14 4 2 ... Blood (R.C.)
+30    16     46     43             18 9 8 6 5 ... Crowfoot.
+37    33     70     61             26 16 11 4 5 8 St. Albert.
+23    28     51     50             24 3 7 7 7 3 Ermineskins.
+18    8      26     23             16 5 3 2 ... ... Peigan (C.E.)
+14    12     26     26             7 5 11 ... 3 ... Peigan (R.C.)
+29    25     54     37             22 7 9 3 9 4 Blue Quili's.
+12    8      20     19             9 2 6 3 ... ... Sarcee.
+15    26     41     32             24 7 4 5 1 ... Fort Chipewyan (Holy Angels).
+23    21     44     37             20 16 8 ... ... ... Lesser Slave Lake.
+20    12     32     28             6 11 6 9 ... ... Sturgeon Lake.
+13    9      22     17             13 3 5 1 ... ... Vermillion (St. Henri).
+10    8      18     15             5 6 2 ... 2 ... Wabiskaw Lake (C.E.)
+
+<!-- page 642 -->
+School.               Situation.                                      Agency.       Principal.          Denomination.
+ALBERTA - Con.        ...                                             ...           ...                 ...
+                                                                      Lesser     Sister Catherine Roman
+Wabiskaw Lake (R.C.) At St. Martin's Mission, Wabiskaw Lake
+                                                                      Slave Lake Aurelie          Catholic
+                                                                      Lesser                     Church of
+Whitefish Lake        At St. Andrew's Mission, Whitefish Lake                    Rev. C.D. White
+                                                                      Slave Lake                 England
+Total, Alberta        ...                                             ...           ...                 ...
+NORTHWEST
+                      ...                                             ...           ...                 ...
+TERRITORIES.
+                                                                                                        Roman
+Fort Resolution       At Fort Resolution, Great Slave Lake            Fort Smith    Sister McQuillan
+                                                                                                        Catholic
+                                                                                    F. Penrose          Church of
+Hay River             At Hay River, Great Slave Lake.                 Fort Smith
+                                                                                    Warren              England
+Providence Mission                                                    Fort                              Roman
+                      At Fort Providence on the Mckenzie River                      Sister St. Elzéar
+(Sacred Heart)                                                        Simpson                           Catholic
+Total, N.W.T.         ...                                             ...           ...                 ...
+BRITISH
+                      ...                                             ...           ...                 ...
+COLUMBIA.
+                                                                                    Constance, Sister Church of
+Yale (All Hallows)    At Yale, on the Fraser river                    Lytton
+                                                                                    Superior          England
+Port Simpson Boys'                                                                  Rev. Geo. H.
+                      At Port Simpson, on Tsimpghean reserve          Naas                              Methodist
+Home                                                                                Raley
+Port Simpson Girls'   At Port Simpson, ontside limits of                            Miss Frances E.
+                                                                      Naas                          Methodist
+Home                  Tsimpshean reserve                                            Hudson
+                                                                      New                          Roman
+Sechelt               On Sechelt reserve                                          Sister Thérésine
+                                                                      Westminster                  Catholic
+                      North side of Burrard Inlet, opposite city of   New                         Roman
+Squamish                                                                          Sister Mary Amy
+                      Vancouver                                       Westminster                 Catholic
+                      At Ahousaht, adjoining Maktosis reserve,
+Ahousaht                                                              West Coast John T. Ross           Presbyterian
+                      west coast of Vancouver Isd.
+                      Near Alberni, adjoining Shesaht reserve, east
+Alberni                                                             West Coast H.B. Currie              Presbyterian
+                      coast of Vancouver Ird
+                                                                                    Miss E.J.
+Kitamaat              At Kitamaat, on Douglas Channel                 Bella Coola                       Methodist
+                                                                                    Donough
+Total, British
+                      ...                                             ...           ...                 ...
+Columbia
+YUKON.                ...                                             ...           ...                 ...
+                                                                                                        Church of
+Carcross              At Carcross                                     Yukon         E.D. Evans
+                                                                                                        England
+
+<!-- page 643 -->
+NUMBER ON ROLL. Average Attendance STANDARD.               School
+Boys. Girls. Total. ...            I   II III IV V VI ...
+12    14     26     21             10 10 3 3 ... ... Wabiskaw Lake (R.C.)
+3     7      10     6              3 4 3 ... ... ... Whitefish Lake.
+312   266    578    492            236 122 108 55 39 18 Total, Alberta.
+...   ...    ...    ...            ... ... ... ... ... ... NORTHWEST TERRITORIES.
+13    19     32     26             17 8 3 4 ... ... Fort Resolution.
+20    22     42     34             19 11 3 3 6 ... Hay River.
+24    43     67     66             21 15 18 13 ... ... Providence Mission (Sacred Heart).
+57    84     141    126            57 34 24 20 6 ... Total, N.W.T.
+...   ...    ...    ...            ... ... ... ... ... ... BRITISH COLUMBIA.
+...   27     27     22             8 4 1 6 3 5 Yale (All Hallows).
+27    ...    27     21             11 6 5 3 2 ... Port Simpson Boy's Home.
+...   40     40     38             3 7 3 12 10 5 Port Simpson Girls' Home.
+23    25     48     45             8 16 ... 15 3 6 Sechelt.
+25    25     50     49             11 8 7 12 6 6 Squamish.
+35    31     66     65             3 12 17 12 14 8 St. Mary's
+21    15     36     30             6 8 7 3 12 ... Ahousaht.
+24    28     52     47             18 5 18 3 8 ... Alberni
+7     25     32     26             9 13 4 6 ... ... Kitamaat.
+162   216    378    343            77 79 62 72 58 30 Total, British Columbia.
+...   ...    ...    ...            ... ... ... ... ... ... YUKON.
+16    18     34     25             23 4 1 3 3 ... Carcross.
+
+<!-- page 644 -->
+STATEMENT of Indian Industrial Schools in the Dominion for the Fiscal Year ended March 31, 1912.
+
+School.              Situation.                                           Principal.       Denomination.
+ONTARIO.             ...                                                  ...              ...
+Mohawk Institute     At Brantford                                         A. Nelles Ashton Undenominational
+                                                                          Rev. S.R.
+Mount Elgin Institute At Muncey                                                              Methodist
+                                                                          McVitty
+                                                                                             Church of
+Shingwauk Home       At Sault Ste. Marie                                  Rev. B.P. Fuller
+                                                                                             England
+                                                                          Rev. C.
+Wikwemikong (boys) At Wikwernikong, Manitoulin Island                                        Roman Catholic.
+                                                                          Belanger,S.J.
+                                                                          Rev. C.
+Wikwemikong (girls) At Wikwemikong, Manitouoin Island                                        Roman Catholic
+                                                                          Belanger, S.J.
+Total, Ontario  ...                                                       ...                ...
+MANITOBA.       ...                                                       ...                ...
+Brandon         At Brandon                                                Rev. T. Ferrier    Methodist
+Elkhorn         At Elkhorn                                                A.E. Wilson        Undenominational
+Total, Manitoba ...                                                       ...                ...
+SASKATCHEWAN. ...                                                         ...                ...
+                                                                          Rev. E.          Church of
+Battleford           At Battleford
+                                                                          Matheson         England
+Qu'Appelle           At Lebret                                            Rev. J. Hugonard Roman Catholic
+Total Saskatchewan   ...                                                  ...              ...
+ALBERTA.             ...                                                  ...                ...
+                                                                          Rev. Arthur
+Red Deer             At Red Deer                                                             Methodist
+                                                                          Barner
+                                                                          Rev. J. Riou,
+St. Joseph's         At Davisburg                                                            Roman Catholic
+                                                                          O.M.I.
+Total, Alberta       ...                                                  ...                ...
+BRITISH
+                     ...                                                  ...                ...
+COLUMBIA.
+                     At St. Eugene, five miles from Cranbrook, Kootenay   Rev. F. Beck,
+Kootenay                                                                                     Roman Catholic
+                     agency                                               O.M.I.
+                                                                          Rev. A.M.
+Kamloops             At Kamloops, in the Kamloop agency                                      Roman Catholic
+                                                                          Carion
+                                                                          Rev. Leonard     Church of
+Lytton               2 miles from Lytton, Lytton agency
+                                                                          Dawson           England
+Coqualeetza          3 miles Chilliwack, New Westminster agency           Rev. R.H. Cairns Methodist
+Kuper Island         On Kuper Island, Cowichan agency                     Rev. D. Claessen Roman Catholic
+                                                                                             Church of
+Alert Bay            At Alert Bay, Kwawkewlth agency                      A.W. Corker
+                                                                                             England
+                     On Clayoquot Sound, West Coast Vancouver Island,     Rev. Froben
+Clayoquot                                                                                    Roman Catholic
+                     Weit Coast agency                                    Epper
+                     At Williams Lake, 4 miles from Sugar Cane reserve,
+

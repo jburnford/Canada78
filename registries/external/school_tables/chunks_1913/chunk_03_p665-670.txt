@@ -1,0 +1,248 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal
+Year ended March 31, 1913.
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I Standard IV Third Reader
+Standard II First Reader, Part II Standard V Fourth Reader
+Standard III Second Reader        Standard VI Fifth Reader
+
+Number on Roll Average Attendance Standard                School
+Boys Girls Total ...              I   II III IV V VI ...
+...  ...   ...   ...              ... ... ... ... ... ... Nova Scotia
+11 6       17    9                6 3 1 6 ... 1 Bear River.
+10 7       17    8                8 ... ... 9 ... ... Eskasoni.
+23 7       30    12               9 9 2 6 4 ... Sydney.
+2    1     3     2                1 ... ... ... 2 ... *Halfway River.
+22 11 33         17               9 6 6 6 2 4 Indian Cove.
+10 6       16    10               13 1 2 ... ... ... Middle River.
+7    8     15    5                4 2 1 4 1 3 Millbrook.
+9    6     15    7                2 2 2 3 5 1 New Germany.
+17 16 33         14               18 10 5 ... ... ... Salmon River.
+2    5     7     4                2 1 2 2 ... ... Malagawatch.
+12    18    30    13                    11    8 7 1 2 1 Whycocomagh.
+4     8     12    7                     8     3 1 ... ... ... (t)Shubenacadie.
+3     4     7     3                     ...   3 ... ... 4 ... (tt)Bishopville.
+132   103   235   111                   91    48 29 37 20 10 Total, Nova Scotia.
+...   ...   ...   ...                   ...   ... ... ... ... ... PRINCE EDWARD ISLAND.
+15    21    36    18                    12    11 10 1 2 ... Lennox Island.
+...   ...   ...   ...                   ...   ... ... ... ... ... NEW BRUNSWICK.
+13    16    29    16                    9     6 6 4 4 ... Burnt Church.
+20    23    43    16                    23    9 8 3 ... ... Big Cove.
+6     1     7     4                     3     2 2 ... ... ... *Beaumont S.S. No. 15.
+11    12    23    15                    14    7 1 ... 1 ... Eel Ground.
+10    14    24    17                    23    1 ... ... ... ... (tt)eel River.
+12    13    25    17                    7     5 5 6 2 ... Kingsclear.
+9     10    19    11                    5     5 8 1 ... ... Oromocto.
+14    21    35    25                    11    14 5 4 1 ... St. Mary's.
+11  
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+       ... 2 ... Nipissing.
+24    14     38     20              31    6 1       ... ... ... (||)Temogami.
+17    13     30     14              21    7 1       1 ... ... Mississagi River.
+11    10     21     10              7     6 5       1 2 ... Sagamook.
+13    14     27     13              19    4 4       ... ... ... Serpent River.
+6     7      13     4               8     3 ...     2 ... ... Spanish River.
+5     5      10     7               7     2 1       ... ... ... Thessalon.
+34    26     60     28              54    6 ...     ... ... ... (||)Abitibi.
+45    26     71     26              62    6 2       1 ... ... Albany Mission (C.E.).
+44    36     80     33              80    ... ...   ... ... ... Fort Hope.
+12    9      21     11              21    ... ...   ... ... ... French Post.
+7     9      16     8               10    2 2       2 ... ... Moose Fort.
+14    23     37     5               37    ... ...   ... ... ... (pp)Osnaburg.
+26    25     51     19              30    7 7       5 2 ... Tyendinaga (Eastern).
+12    12     24     7               9     2 5       4 4 ... Tyendinaga (Western).
+15    11     26     10              16    2 6       1 1 ... Tyendinaga (Central).
+
+
+
+=== EXTRACT FROM HERE (pages 665-670) ===
+<!-- page 665 -->
+12    15    27    11                     8     3 9 6 1 ... Tyendinaga (Mission).
+25    26    51    21                     35    6 6 3 1 ... Walpole Island No. 1.
+15    16    31    19                     21    7 1 2 ... ... Walpole Island No. 2.
+1,367 1,303 2,670 1,245                  1,534 432 389 230 80 51 Total, Ontario.
+
+[*New school, first opened October 2, 1912.]
+[(t)Closed September and December quarter, 1912, no teacher.]
+[(tt)White school, attended by Indian children.]
+[(||)Open during the summer only.]
+[(pp)New school, first opened July, 1912.]
+
+<!-- page 666 -->
+School.                  Reserve.           Agency.        Teacher.              Denomination.
+MANITOBA.                ...                ...            ...                   ...
+*Okanase                 Okanase            Birtle         Miss Maggie E. Murray Presbyterian
+(t)Black River           Black River        Clandeboye     Jeremiah Henderson    Church of England
+(tt)Brokenhead           Brokenhead         Clandeboye     Miss Ida N. Favell    Church of England
+Fort Alexander (Upper) Fort Alexander       Clandeboye     Rev. Chas. H. Fryer   Church of England
+Hollowwater River        Hollowwater River Clandeboye      Rev. G.C. Smith       Church of England
+St. Peters (North)       St. Peters         Clandeboye     Peter Harper          Church of England
+St. Peters (South)       St. Peters         Clandeboye     Miss Marg't Isbister  Church of England
+(||) St. Peters (Peguis) St. Peters         Clandeboye     Miss Myrtle Pruder    Church of England
+Berens River             Berens River       Fisher River   Joseph Jones          Methodist
+Fisher River             Fisher River       Fisher River   Miss E.M.N. Jotcham Methodist
+Grand Rapid              Grand Rapids       Fisher River   Charles Morris        Church of England
+Peguis (North)           Peguis             Fisher River   Angus Prince          Church of England
+Peguis (South)           Peguis             Fisher River   Henry J. Frances      Church of England
+Poplar River             Poplar River       Fisher River   Miss Eveline Stedman Methodist
+Ebb and Flow Lake        Ebb and Flow Lake Manitowapah     Miss Nora Shannon     Roman Catholic
+Fairford (Upper)         Fairford           Manitowapah    Rupert Bruce          Church of England
+Fairford (Lower)         Fairford           Manitowapah    Colin Sanderson       Church of England
+Lake Manitoba            Lake Manitoba      Manitowapah    L.E. Martel           Roman Catholic
+Lake St. Martin          Lake St. Martin    Manitowapah    John E. Favell        Church of England
+Little Saskatchewan      Little Saskatc'wan Manitowapah    Peter Anderson        Church of England
+(b)Pine Creek            Pine Creek         Manitowapah    Rev. G. Leonard       Roman Catholic
+Shoal River              Shoal River        Manitowapah    Rev. T.H. Dobbs       Church of England
+(||)Waterhen River       Waterhen River     Manitowapah    Miss Marie L. Adam    Roman Catholic
+(pp)Bloodvein River      Bloodvein River    Norway House   Joseph A. Everett     Methodist
+(tt)Cross Lake (Prot). Cross Lake           Norway House   Miss A.L. Cunningham Methodist
+(tt)Cross Lake (R.C)     Cross Lake         Norway House   Miss Jane Ramsay      Roman Catholic
+(ss)God's Lake           God's Lake         Norway House   H.F. Wildgoose        Methodist
+Jack River               Jack River         Norway House   Mrs. Mabel Marshall   Church of England
+Norway House (R.C) Norway House             Norway House   Sister Marg. Mary     Roman Catholic
+Oxford House             At Oxford House Norway House      John W. Niddrie       Methodist
+Rossville                Norway House       Norway House   Miss Anna M. deWolf Methodist
+York Factory             At York Factory    Norway House   Rev. R. Faries        Church of England
+Big Eddy                 Pas                Pas            Joseph Chamberlain.   Church of England
+Chemawawin               Chemawawin         Pas            Rev. S.C. Deacon      Church of England
+Cumberland               Cumberland         Pas            John A. Keddies       Church of England
+Moose Lake               Moose Lake         Pas            C.T. Mitchell         Church of England
+Red Earth                Red Earth          Pas            J.G. Kennedy          Church of England
+(tt)Shoal Lake           Pas Mountain       Pas            Louis Young           Church of England
+
+<!-- page 667 -->
+Lower Roseau River       Roseau River         Portage la Prairie. Alexander Hayden      Roman Catholic
+Roseau Rapids            Roseau Rapids        Portage la Prairie Miss Rose Godon        Undenominational
+Swan Lake                Swan Lake            Portage la Prairie Miss Jessie G. Bruce   Presbyterian
+Total, Manitoba          ...                  ...                 ...                   ...
+
+[*Closed since October 30, 1912.]
+[(t)Closed September and December quarters, 1912.]
+[(tt)Closed June and September quarters, 1912.]
+[(||)Closed since December 31, 1912.]
+[(pp)Open during the summer only.]
+[(b)Day pupils attend classes in the boarding school.]
+[.Only one return received.]
+
+<!-- page 668 -->
+Number on Roll. Average Attendance. Standard.                 School.
+Boys. Girls. Total. ...             I   II III    IV V VI ...
+...   ...    ...    ...             ... ... ...   ... ... ... MANITOBA
+8     6      14     6               10 2 1        1 ... ... Okanase.
+12    9      21     13              11 2 4        4 ... ... (t)Black River.
+9     12     21     11              7 2 8         4 ... ... Brokenhead.
+14    10     24     13              14 4 4        ... 2 ... Fort Alexander.(Upper.)
+3     8      11     7               5 3 3         ... ... ... Hollowwater River.
+13    22     35     13              20 6 4        2 2 1 St. Peters (North).
+18    7      25     6               10 4 7        2 2 ... St. Peters (South.)
+12    2      14     5               3 5 2         4 ... ... (||)St. Peters (Peguis.)
+14    9      23     9               20 3 ...      ... ... ... Berens River.
+34    36     70     32              45 16 9       ... ... ... Fisher River.
+13    11     24     9               15 8 1        ... ... ... Grand Rapids.
+14    9      23     11              20 1 2        ... ... ... Peguis (North.)
+18    16     34     12              25 7 2        ... ... ... Peguis (South.)
+15    11     26     6               26 ... ...    ... ... ... Poplar River.
+8     7      15     9               10 5 ...      ... ... ... Ebb and Flow Lake.
+7     12     19     6               7 5 5         2 ... ... Fairford (Upper.)
+16    22     38     10              23 6 3        6 ... ... Fairford (Lower.)
+8     4      12     7               8 1 2         1 ... ... Lake Manitoba.
+12    15     27     13              18 6 3        ... ... ... Lake St. Martin.
+8     15     23     6               9 5 8         1 ... ... Little Saskatchewan.
+12    8      20     18              12 3 3        2 ... ... (b)Pine Creek.
+17    12     29     19              20 5 4        ... ... ... Shoal River.
+6     4      10     4               6 4 ...       ... ... ... (||)Waterhen River.
+12    16     28     13              28 ... ...    ... ... ... (pp)Bloodvein River.
+13    10     23     13              12 4 6        1 ... ... (tt)Cross Lake (Prot.)
+21    7      28     9               26 2 ...      ... ... ... (tt)Cross Lake (R.C.)
+12    25     37     19              37 ... ...    ... ... ... (ss)God's Lake.
+10    ...    10     3               4 3 1         2 ... ... Jack River.
+8     7      15     8               11 2 1        1 ... ... Norway House (R.C.)
+13    17     30     11              24 4 2        ... ... ... Oxford House.
+9     18     27     12              9 18 ...      ... ... ... Rossville.
+22    30     52     38              29 17 6       ... ... ... York Factory.
+18    8      26     11              22 3 ...      1 ... ... Big Eddy.
+15    14     29     12              20 9 ...      ... ... ... Chemawawin.
+9     17     26     5               17 3 6        ... ... ... Cumberland.
+6     12     18     7               18 ... ...    ... ... ... Moose Lake.
+11    11     22     11              9 8 2         3 ... ... Red Earth.
+
+<!-- page 669 -->
+10     9      19    17                     15 4 ... ... ... ... (tt)Shoal Lake.
+8      12     20    9                      19 1 ... ... ... ... Lower Roseau River.
+11     6      17    4                      5 2 10 ... ... ... Roseau Rapids.
+8      8      16    5                      8 4 4 ... ... ... Swan Lake.
+507    494    1,001 452                    657 187 113 37 6 1 Total, Manitoba.
+
+[*Closed since October 30, 1912.]
+[(t)Closed September and December quarters, 1912.]
+[(tt)Closed June and September quarters, 1912.]
+[(||)Closed since December 31, 1912.]
+[(pp)Open during the summer only.]
+[(b)Day pupils attend classes in the boarding school.]
+[(ss)Only one return received.]
+
+<!-- page 670 -->
+School.                    Reserve.            Agency.     Teacher.                           Denomination.
+SASKATCHEWAN.              ...                 ...         ...                                ...
+Assiniboine                Assiniboine         Assiniboine Miss Gertrude Lawrence             Presbyterian
+                                                                                              Church of
+Little Pines               Little Pines        Battleford   Rev. Alwyn E. Butcher
+                                                                                              England
+*Murray Lake               Moosomin            Battleford   Albert E. Rotsey                  Roman Catholic
+Poundmaker's               Poundmaker's        Battleford   Miss Anna Bellavance              Roman Catholic
+                                                                                              Church of
+(t)Red Pheasant's          Red Pheasant        Battleford   Rev. D. Macdonald
+                                                                                              England
+                                                            H. Hutcheson (teach.), Mrs. H.    Church of
+Ahtahkakoops               Ahtahkakoops        Carlton
+                                                            Hutchison (matron).               England
+                                                                                              Church of
+Big River                  Kenemotayoos        Carlton      Lewis Ahenakew
+                                                                                              England
+Meadow Lake                Meadow Lake         Carlton      J.U. Paquet                       Roman Catholic
+Mistawasis                 Mistawasis          Carlton      0.W. Bryden                       Presbyterian
+                                                                                              Church of
+Montreal Lake              Montreal Lake       Carlton      John R. Settee
+                                                                                              England
+Sioux Mission              Wahspaton           Carlton      Jonathan Beverley                 Presbyterian
+                                                            Wm. Godfrey (teacher), Mrs. Wm.   Church of
+Sturgeon Lake              Wm. Twatt's         Carlton
+                                                            Godfrey (matron)                  England
+                                                                                              Church of
+(t)Fort à, la Corne (South) James Smith's      Duck Lake P.H. Gentleman
+                                                                                              England
+                                                                                              Church of
+James Smith's              James Smith's       Duck Lake Miss Anna A. Hawley
+                                                                                              England
+                                                            Rev. R.F. Macdougall (teacher),   Church of
+John Smith's               John Smith's        Duck Lake
+                                                            Mrs. R.F. Macdougall (matron).    England
+                                               Moose        A.M. McKay (teacher), Miss. A.
+White Bears                White Bears                                                        Presbyterian
+                                               Mountain     Innis (matron)
+                                                                                              Church of
+(tt)Keys                   Keys                Pelly        Cyril G. Markham
+                                                                                              England
+Valley River               Valley River        Pelly        Miss Annie C. Rattlesnake         Undenominational
+                                               Touchwood                                      Church of
+Day Star's                 Day Star's                    Miss Sophia E.Smythe
+                                               Hills                                          England
+                                               Touchwood                                      Church of
+(t)fishing Lake            Fishing Lake                  James Clare
+                                               Hills                                          England
+Total, Saskatchewan        ...                 ...          ...                               ...
+ALBERTA.                   ...                 ...          ...                               ...
+Samson's                   Samson's            Hobbema      Miss Abbie Aylwin                 Methodist
+                                               Lesser                                         Church of
+Lesser Slave Lake (C.E.)   Lesser Slave Lake              W.E. Kent
+                                               Slave Lake                                     England
+Upper Peace River (Christ At Shaftsbury,       Lesser                                         Church of
+                                                          Miss L. Millen
+Church Mission)           Upper Peace River    Slave Lake                                     England
+Total, Alberta             ...                 ...          ...                               ...
+

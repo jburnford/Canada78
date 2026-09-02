@@ -1,0 +1,28 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0227-school-statement	SCHOOL STATEMENT	227	232
+01	p0227-school-statement	SCHOOL STATEMENT	233	238
+02	p0227-school-statement	SCHOOL STATEMENT	239	244
+03	p0227-school-statement	SCHOOL STATEMENT	245	250
+04	p0227-school-statement	SCHOOL STATEMENT	251	256
+05	p0227-school-statement	SCHOOL STATEMENT	257	262
+06	p0227-school-statement	SCHOOL STATEMENT	263	268
+07	p0287-school-statement-cont	SCHOOL STATEMENT (cont.)	287	290
+08	p0315-school-statement-ontario	SCHOOL STATEMENT — Ontario	315	315
+09	p0318-school-statement-quebec	SCHOOL STATEMENT — Quebec	318	319
+10	p0321-school-statement-quebec	SCHOOL STATEMENT — Quebec	321	321
+11	p0324-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	324	324
+12	p0325-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	325	327
+13	p0329-school-statement-prince-edward	SCHOOL STATEMENT — Prince Edward Island	329	329
+14	p0329-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	329	329
+15	p0336-school-statement-manitoba	SCHOOL STATEMENT — Manitoba	336	337
+16	p0338-school-statement-saskatchewan	SCHOOL STATEMENT — Saskatchewan	338	339
+17	p0344-school-statement-saskatchewan	SCHOOL STATEMENT — Saskatchewan	344	344
+18	p0361-school-statement-yukon	SCHOOL STATEMENT — Yukon	361	361
+19	p0372-school-statement-ontario	SCHOOL STATEMENT — Ontario	372	372
+20	p0378-school-statement-ontario	SCHOOL STATEMENT — Ontario	378	378
+21	p0396-school-statement-quebec	SCHOOL STATEMENT — Quebec	396	397
+22	p0400-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	400	400
+23	p0403-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	403	408
+24	p0403-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	409	414
+25	p0403-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	415	416
+26	p0488-school-statement-british-colum	SCHOOL STATEMENT — British Columbia	488	488

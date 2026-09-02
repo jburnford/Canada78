@@ -1,0 +1,272 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+YUKON
+                      ...                                            ...          ...                 ...
+TERRITORY.
+                                                                                  Miss F.M.           Church of
+Carcross              At Carcross                                    Yukon
+                                                                                  Hutchinson          England
+
+<!-- page 592 -->
+NUMBER ON ROLL. Average Attendance. STANDARD.               School.
+Boys. Girls. Total. ...             I   II III IV V VI ...
+14    8      22     8               5 4 8 3 2 ... Whitefish Lake (St. Andrews.)
+314   270    584    493             241 116 108 84 27 8 Total, Alberta.
+...   ...    ...    ...             ... ... ... ... ... ... NORTHWEST TERRITORIES.
+11    14     25     24              10 8 3 4 ... ... Fort Resolution.
+18    22     40     35              19 3 6 6 5 1 Hay River (St. Peter's Mission.)
+23    42     65     62              32 17 11 5 ... ... Providence Mission (Sacred Heart.)
+52    78     130    121             61 28 20 15 5 1 Total, N.W.T.
+...   ...    ...    ...             ... ... ... ... ... ... BRITISH COLUMBIA.
+23    26     49     48              8 17 7 8 6 3 Sechelt.
+25    25     50     50              13 11 ... 11 9 6 Squamish.
+36    43     79     79              3 22 16 21 17 ... St. Mary's.
+...   27     27     21              6 6 5 5 3 2 Yale (All Hallows.)
+25    ...    25     16              16 4 4 1 ... ... Port Simpson Boys' Home.
+...   42     42     37              8 3 6 15 10 ... Port Simpson Girls' Home.
+23    16     39     35              6 12 4 5 12 ... Ahousaht.
+25    29     54     46              12 12 11 6 8 5 Alberni.
+157   208    365    332             72 87 53 72 65 16 Total, British Columbia.
+...   ...    ...    ...             ... ... ... ... ... ... YUKON TERRITORY.
+12    10     22     18              11 3 ... 4 4 ... Carcross.
+
+<!-- page 593 -->
+STATEMENT of Indian Industrial Schools in the Dominion for the Fiscal Year ended March 31, 1911.
+
+School.             Situation.                                            Principal.       Denomination.
+ONTARIO.            ...                                                   ...              ...
+Mohawk Institute    At Brantford                                          R. Nelles Ashton Undenominational
+Mount Elgin                                                               Rev. S.R.
+                    At Muncey                       
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+   ...   ...
+Prince
+Edward      ... ...                       ...      ...       ...        ...          ...       ...    ...   ...
+Island
+New
+            ... ...                       ...      ...       ...        ...          ...       ...    ...   ...
+Brunswick
+Quebec       ...      ...                 ...      ...       ...        ...          ...       ...    ...   ...
+Ontario      4        ...                 2        2         ...        ...          ...       54     72    126
+Manitoba     9        ...                 5        ...       1          3            ...       210    263   473
+Saskatchewan 13       ...                 7        3         ...        3            ...       258    311   569
+Alberta      16       ...                 11       5         ...        ...          ...       314    270   584
+Northwest
+             3        ...                 2        1         ...        ...          ...       52     78    130
+Territories
+British
+              8       ...                 3        1         2          2            ...       157    208   365
+Columbia
+Yukon         1       ...                 ...      1         ...        ...          ...       12     10    22
+
+
+
+=== EXTRACT FROM HERE (pages 597-602) ===
+<!-- page 597 -->
+Total,
+Boarding    54  ...       30    13    3     8     ...   1,057 1,212 2,269
+Schools
+INDUSTRIAL SCHOOLS.
+Nova Scotia ... ...       ...   ...   ...   ...   ...   ...   ...   ...
+Prince
+Edward      ... ...       ...   ...   ...   ...   ...   ...   ...   ...
+Island
+New
+            ... ...       ...   ...   ...   ...   ...   ...   ...   ...
+Brunswick
+Quebec       ...    ...   ...   ...   ...   ...   ...   ...   ...   ...
+Ontario      5      1     2     1     1     ...   ...   213   212   425
+Manitoba     2      1     ...   ...   1     ...   ...   91    96    187
+Saskatchewan 2      ...   1     1     ...   ...   ...   145   168   313
+Alberta      2      ...   1     ...   1     ...   ...   91    52    143
+Northwest
+              ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Territories
+British
+              8     ...   5     2     1     ...   ...   292   213   505
+Columbia
+Yukon         ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Total,
+Industrial    19    2     9     4     4     ...   ...   832   741   1,573
+Schools
+
+<!-- page 598 -->
+Average       Percentage of   STANDARD.
+                                                                             Province.
+Attendance.   Attendance.     I     II  III     IV V        VI
+106           43.26           130 42    31      16 18       8                Nova Scotia.
+20            44.44           25    13  2       3 2         ...              Prince Edward Island.
+136           53.75           99    70  46      23 13       2                New Brunswick.
+590           54.68           538 245 165       90 30       11               Quebec.
+1,250         47.71           1,369 478 434     267 78      4                Ontario.
+441           41.88           731 178 94        37 13       ...              Manitoba.
+179           50.28           225 71    41      19 ...      ...              Saskatchewan.
+63            33.51           139 33    16      ... ...     ...              Alberta.
+26            57.77           31    9   5       ... ...     ...              Northwest Territories.
+533           39.34           762 385 147 52 6 3                             British Columbia.
+37            33.94           67    14    201 8 ... ...                      Yukon.
+3,381         46.01           4,106 1,538 1,001 515 160 28                   Total, Day Schools.
+Schools
+...           ...             ...   ...   ...   ...   ...   Nova Scotia.     ...
+                                                            Prince Edward
+...           ...             ...   ...   ...   ...   ...                    ...
+                                                            Island.
+...           ...             ...   ...   ...   ...   ...   New Brunswick.   ...
+...           ...             ...   ...   ...   ...   ...   Quebec.          102
+80.95         87              11    15    8     5     ...   Ontario.         398
+84.14         106             79    122   89    72    5     Manitoba.        515
+90.51         209             97    104   103   36    20    Saskatchewan.    493
+84.42         241             116   108   84    27    8     Alberta.         121
+                                                            Northwest
+93.08         61              281   20    15    5     1                      332
+                                                            Territories.
+90.96         2               87    53    72    65 16 British Columbia. 18
+81.82         11              3     ...   4     4 ... Yukon.              1,979
+87.22         787             421   422   375   214 50 Total, Boarding Schools.
+Schools
+...           ...             ...   ...   ...   ...   ...   ...              Nova Scotia.
+...           ...             ...   ...   ...   ...   ...   ...              Prince Edward Island.
+...           ...             ...   ...   ...   ...   ...   ...              New Brunswick.
+...           ...             ...   ...   ...   ...   ...   ...              Quebec.
+396           93.17           86    81    84    71    69    34               Ontario.
+144           77.00           51    23    41    31    19    22               Manitoba.
+290           92.65           1(0   37    79    67    23    7                Saskatchewan.
+122           85.31           41    28    13    32    27    2                Alberta.
+...           ...             ...   ...   ...   ...   ...   ...              Northwest Territories.
+451           89.31           139   76    84    81    62    63               British Columbia.
+
+<!-- page 599 -->
+...               ...     ...   ...   ...   ...   ...   ...   Yukon.
+                                                              Total, Industrial
+1,403             89.19   417   245   103   282 200 128
+                                                              Schools.
+
+27 - i - 27 1/2
+
+<!-- page 600 -->
+SUMMARY OF SCHOOL STATEMENT.
+
+                                                                                                                            NUMBER ON
+                CLASS OF SCHOOL.           Total    DENOMINATION.
+                                                                                                                            ROLL.
+                                           Number                                                                                               Average
+Province.                                                                       Church
+                                           of                         Roman                                       Salvation                     Attendance.
+                Day. Boarding. Industrial. Schools. Undenominational.           of       Methodist. Presbyterian.           Boys. Girls. Total.
+                                                                      Catholic.                                   Army.
+                                                                                England.
+Nova Scotia     11    ...        ...        11        ...                  11        ...       ...         ...        ...   122   123   245     106
+Prince
+Edward          1     ...        ...        1         ...                  1         ...       ...         ...        ...   22    23    45      20
+Island
+New
+                10    ...        ...        10        ...                  10        ...       ...         ...        ...   125   128   253     136
+Brunswick
+Quebec       24       ...        ...        24        5                    14        2         3           ...        ...   505 574 1,079       590
+Ontario      84       4          5          93        41                   26        17        9           ...        ...   1,608 1,563 3,171   1,748
+Manitoba     41       9          2          52        3                    11        23        10          5          ...   860 853 1,713       983
+Saskatchewan 19       13         2          34        ...                  11        16        ...         7          ...   589 649 1,238       984
+Alberta      8        16         2          26        ...                  12        8         6           ...        ...   511 404 915         678
+British
+             46       8          8          62        2                    20        18        17          3          2     1,125 1,100 2,225 1,316
+Columbia
+Yukon           5   1            ...        6         ...                  ...       6         ...         ...        ...   71    60    131    55
+Total           251 54           19         324       51                   118       93        45          15         2     5,607 5,583 11,190 6,763
+
+[*All boys at industrial schools are taught farming, and all girls, sewing, knitting and general household duties.]
+
+<!-- page 601 -->
+Percentage STANDARD.                               *INDUSTRIES TAUGHT
+of                                                                                                                                 Total. Province.
+Attendance. I   II III            IV    V    VI Carpenter. Shoemaker. Tailor. Blacksmith. Baker. Harnessmaker. Printer. Painter.
+43.26       130 42 31             16    18 8       ...        ...          ...    ...           ...    ...            ...   ...    ...   Nova Scotia
+                                                                                                                                         Prince Edward
+44.44         25    13     2      3     2    ...   ...        ...          ...    ...           ...    ...            ...   ...    ...
+                                                                                                                                         Island.
+                                                                                                                                         New
+53.75         99    70     46     23    13 2       ...        ...          ...    ...           ...    ...            ...   ...    ...
+                                                                                                                                         Brunswick.
+54.68        538 245       165    90    30 11      ...       ...           ...    ...           ...    ...            ...   ...    ...   Quebec.
+55.12        1,532 570     533    346   152 38     4         4             ...    ...           ...    ...            ...   ...    8     Ontario.
+57.38        888 280       257    157   104 27     4         1             ...    1             ...    1              ...   ...    7     Manitoba.
+79.48        534 205       224    189   59 27      14        6             ...    ...           3      ...            ...   2      25    Saskatchewan.
+74.09        421 177       137    116   54 10      ...       ...           ...    ...           ...    ...            ...   ...    ...   Alberta.
+                                                                                                                                         Northwest
+84.00        92     37     25     15    5    1     ...       ...           ...    ...           ...    ...            ...   ...    ...
+                                                                                                                                         Territories.
+                                                                                                                                         British
+59.15        973    548    284    205   133 82 63            16            ...    3             1      ...            ...   2      85
+                                                                                                                                         Columbia.
+41.98        78    17    20    12    4 ... ...               ...           ...    ...           ...    ...            ...   ...    ...   Yukon.
+60.44        5,310 2,204 1,724 1,172 574 206 85              27            ...    4             4      1              ...   4      125   Total.
+
+[*All boys at industrial schools are taught farming, and all girls, sewing, knitting and general household duties.]
+
+<!-- page 602 -->
+SCHEDULE of Establishment of Indian Boarding and Industrial Schools.
+
+                                                                    Water                            Heating and
+School.      Location. Land.         Buildings.                                Fire Protection.
+                                                                    Supply.                          Lighting.
+                        Comprises                                              Fire department of    Both wings
+                        lot 5 Eagle's                                          city including 4      occupied by
+             In         Nest (10      Buildings form letter H,                 hydrants with house; pupils have coal
+             township acres) a        consisting of main building,             2 stand pipes with    and gas furnaces
+             Brantford, Crown         including stores, cold stores,           hose on all floors; 4 of large capacity.
+             some 1     grant, 194 officers' dining rooms, etc.,               chemical fire         Main building,
+                                                                     From city
+Mohawk       1/4 miles acres by       North Wing and South Wing,               extinguishers; 2      heated by hot
+                                                                     water
+Institute.   from city license of a boy's playhouse, a small                   dozen blaze killer    water,
+                                                                     works.
+             of         occupation hospital, stables, hog pen, 2               tubes axes and        kitchen,laundry
+             Brantford. and 176       greenhouses, a carpenter                 extension ladders. A and dairy all use
+             P.O.       acres         shop, frost-proof fruit house,           branch firehall close natural gas.
+             Brantford. Mohawk        poultry house and silo.                  by, for which school Buildings lighted
+                        Glebe lot in                                           contributes $60 per throughout by
+                        city.                                                  year.                 electricity.
+                                      A main building erected in
+             15 miles                 1895 four stories, brick; an
+                                                                               Two large tanks       Three coal
+             northwest                old building 100 feet to east Abundant
+                                                                               located in attic.     furnaces and hot
+             of St.     225 acres, contains dwellings of two         supply of
+                                                                               Pipes convey water water system
+             Thomas being a           officers and families and a    spring
+Mount                                                                          to 18 hose            heat main
+             in country portion of four-cot hospital and dairy       water,
+Elgin                                                                          distributed           building and
+             Middlesex the            cellar. Other buildings are a furnished
+Institute.                                                                     throughout building. schoolrooms,
+             township Chippewa carpenter shop, implement             by
+                                                                               Fire extinguishers,   lighted by coal
+             Caradoc. reserve.        shed, carriage shed, poultry hydraulic
+                                                                               pails and axes placed oil lamps in
+             P.O.                     house, stables, grain barn,    pumps.
+                                                                               in main hallways.     hangers.
+             Muncey.                  etc., all on brick or cement
+                                      foundations.
+          Located 1
+          1/2 miles               Main block comprising 185 x
+                                                                             Has 2 hydrants
+          east of                 137 feet building and
+                     Comprises                                               connected with 3       Main building
+          business                principal's residence, offices
+                     93 acres                                                inch pipe from city, heated by a hot
+          part of                 of institution, etc. To the east A 3 inchs
+                     mostly                                                  inside and outside; 2 water system;
+          Sault Ste.              is a two-story frame building pipe
+Shingwauk            cleared,                                                fire tanks capacity of separate
+          Marie, but              60 x 30, drill hall and          connects
+Home.                being park                                              1,925 gallons in       buildings by
+          within                  playroom and upper story a with city
+                     lots 1 and 2                                            upper flat - a 50 lb. stoves. Coal oil
+          town                    school-room; a chapel,           supply.
+                     Tarentorous                                             pressure maintained. lamps used to
+          limits.                 hospital; farmer's cottage;
+                     township.                                               Axes, pails kept       light.
+          P.O. Sault              carpenter's cottage; factory
+                                                                             handy.
+          Ste.                    and stables.
+          Marie.
+

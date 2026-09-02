@@ -1,0 +1,296 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT Of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal
+Year ended March 31, 1911.
+
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader, Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+School.                         Reserve.            Agency.                Teacher.                    Denomination.
+NOVA SCOTIA.                    ...                 ...                    ...                         ...
+Bear River                      Bear River          Digby County           Mrs. Minnie A. Howe         Roman Catholic
+Eskasoni                        Eskasoni            Cape Breton Co.        Arch. J. McKenzie           Roman Catholic
+Sydney                          Sydney              Cape Breton Co.        Miss Marg. A. McLellan      Roman Catholic
+*Halfway River                  Franklin Manor      Cumberland Co.         Miss G.M. Jeffers           Roman Catholic
+Indian Cove                     Fisher's Grant      Pictou County          Miss Gertrude McGirr        Roman Catholic
+Middle River                    Middle River        Victoria County        Mrs. Annie MacNeill         Roman Catholic
+Millbrook                       Millbrook           Colchester County      Miss Jessie Scott           Roman Catholic
+New Germany                     Lunenburg           Lunenburg County       Miss Mary A. Gillis         Roman Catholic
+Salmon River                    Salmon River        Richmond County        Miss Henrietta O'Toole      Roman Catholic
+Malagawatch                     Malagawatch         Inverness County       Arsene Burns                Roman Catholic
+Whycocomagh                     Whycocomagh         Inverness County       John A. Gillis              Roman Catholic
+Total, Nova Scotia              ...                 ...                    ...                         ...
+PRINCE EDWARD
+                                ...                 ...                    ...                         ...
+ISLAND.
+                                                    P.E.I.
+Lennox Island                   Lennox Island                              John J. Sark                Roman Catholic
+                               
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+quot.
+19    12     31     28              15 13 2 ... ... ... Nitinat.
+11    11     22     10              17 3 2 ... ... ... Ucluelet.
+10    6      16     4               14 .2 ... ... ... ... (t)Yuquot.
+14    11     25     18              11 6 8 ... ... ... Homalco.
+17    13     30     15              10 12 8 ... ... ... Sliammon.
+10    10     20     9               11 5 4 ... ... ... Litton.
+10    11     21     9               21 ... ... ... ... ... Shollis.
+15    12     27     11              17 10 ... ... ... ... Alert Bay.
+9     14     23     9               9 9 5 ... ... ... Cape Mudge.
+12    10     22     7               12 9 1 ... ... ... Gwaysdums.
+35    26     61     15              37 19 5 ... ... ... Bella Bella.
+23    16     39     9               29 10 ... ... ... ... Bella Coola.
+9     11     20     7               11 2 7 ... ... ... China Hat.
+23    29     52     39              13 28 4 7 ... ... Kitamaat.
+18    18     36     20              10 13 9 4 ... ... Kitkahtla.
+14    17     31     9               17 6 6 2 ... ... Port Essington.
+22    21     43     9               20 11 6 6 ... ... Aiyansh
+12    14     26     12              16 8 2 ... ... ... Kincolith.
+
+
+
+=== EXTRACT FROM HERE (pages 583-588) ===
+<!-- page 583 -->
+18      21      39      8                    26 13 ... ... ... ... (tt)Lakalsap.
+22      19      41      19                   23 8 8 2 ... ... Metlakahtla.
+52      59      111     19                   90 17 4 ... ... ... Port Simpson.
+37      40      77      29                   32 23 8 9 2 3 Massett.
+20      21      41      13                   13 19 7 2 ... ... Skidegate.
+14      8       22      13                   18 4 ... ... ... ... (t)Atlin.
+15      10      23      12                   18 5 ... ... ... ... (||)Tahltan.
+7       11      18      8                    5 4 3 6 ... ... Telegraph Creek.
+2       3       51      41                   3 2 ... ... ... ... (pp)Penticton.
+676     679     1,355   533                  762 385 147 52 6 3 Total, British Columbia.
+
+[(||)Re-opened October 17, 1910, having been closed from December 30, 1909.]
+
+[(pp)New school, opened January 3, 1911.]
+
+[*Re-opened April 1, 1910, having been closed from Dec. 31, 1908.]
+
+[(t)Only one return received.]
+
+[(tt)Closed during the June and September quarters 1910 - no teacher.]
+
+[(||)New school opened June 14, 1910.]
+
+[(pp)White school attended by Indian children.]
+
+<!-- page 584 -->
+School.                District.                                 Teacher.
+NORTHWEST TERRITORIES. ...                                       ...
+St. David's Mission    At Fort Simpson, Mackenzie River District Rev. Jas. R. Lucas
+York Factory           At York Factory, Hudson Bay District      Rev. R. Farries
+Total, N.W.T.          ...                                       ...
+YUKON TERRITORY.       ...                                       ...
+*Champagne Landing     At Champagne Landing, Yukon Territory Rev. Chas. Brett
+Moosehide              At Moosehide, Yukon Territory             Rev. Benjamin Totty
+Selkirk                At Selkirk, Yukon Territory               Rev. John Hawksley
+(t)Teslin Lake         At Teslin Lake, Yukon Territory           Rev. Chas. C. Brett
+Whitehorse             At Whitehorse, Yukon Territory            Wm G. Blackwell
+Total, Yukon Territory ...                                       ...
+
+[*Closed June quarter 1910.]
+
+[(t)Open from July 8, to August 26, 1910.]
+
+<!-- page 585 -->
+                    NUMBER ON
+Denomination.                                Average Attendance. STANDARD.          School.
+                    ROLL.
+...                 Boys. Girls. Total. Average Attendance. I II III IV V VI ...
+...                 ...   ...    ...    ...                 ... ... ... ... ... ... NORTHWEST TERRITORIES.
+Church of
+                    6      16      22        7                20 1 1 ... ... ... St. David's Mission.
+England
+Church of
+                    11     12      23        19               11 8 4 ... ... ... York Factory.
+England
+...                 17     28      45        26               31 9 5 ... ... ... Total, N.W.T.
+Church of
+                    30     13      43        5                7 8 20 8 ... ... *Champagne Landing.
+England
+Church of
+                    8      7       15        7                9 6 ... ... ... ... Moosehide.
+England
+Church of
+                    7      5       12        3                12 ... ... ... ... ... Selkirk.
+England
+Church of
+                    ...    17      17        9                17 ... ... ... ... ... (t)Teslin Lake.
+England
+Church of
+                    14     8       22        13               22 ... ... ... ... ... Whitehorse.
+England
+...                 59     50      109       37               67 14 20 8 ... ... Total, Yukon Territory.
+
+[*Closed June quarter 1910.]
+
+[(t)Open from July 8, to August 26, 1910.]
+
+<!-- page 586 -->
+STATEMENT of Indian Boarding Schools in the Dominion for the Fiscal Year ended March, 31, 1911.
+
+School.              Situation.                                   Agency.        Principal.          Denomination.
+ONTARIO.             ...                                          ...            ...                 ...
+                                                                                 Rev. L Carrière,    Roman
+Albany Mission       At Fort Albany, James Bay                    Treaty No. 9
+                                                                                 O.M.I.              Catholic
+                                                                                 Ven. Archdn. R.J.   Church of
+Moose Fort           At Moose Fort, James Bay                     Treaty No. 9
+                                                                                 Renison             England
+                                                                                                     Church of
+Chapleau             At Chapleau, Ont.                            Chapleau       Rev. P.R. Soanes
+                                                                                                     England
+Fort William                                                                                         Roman
+                     At Fort William, Ont.                        Port Arthur    Sister M.F. Clare
+Orphanage                                                                                            Catholic
+Total, Ontario       ...                                          ...            ...                 ...
+MANITOBA.            ...                                          ...            ...                 ...
+                                                                                 Rev. W.W.
+Birtle               At Birtle                                    Birtle                             Presbyterian
+                                                                                 McLaren
+                                                                                 Rev. Ph. Vales,     Roman
+Fort Alexander       On Fort Alexander reserve                    Clandeboye
+                                                                                 O.M.I.              Catholic
+                                                                                 Rev. M. Kalmes,     Roman
+Fort Frances         On Agency reserve                            Fort Frances
+                                                                                 O.M.I.              Catholic
+                     West side Lake Winnipegosis adjoining                                           Roman
+Pine Creek                                                        Manitowapah Rev. A. Chaumont
+                     Pine Creek reserve                                                              Catholic
+                                                                                 Rev. G. Leonard,    Roman
+Sandy Bay            On Sandy Bay reserve                         Manitowapah
+                                                                                 O.M.I.              Catholic
+                                                                  Norway
+Norway House         At Rossville Village, Norway House reserve                  J.A. Lousley        Methodist
+                                                                  House
+                                                                  Portage La     Rev. J.L. Millar,
+Portage la Prairie   1/4 mile east of Portage La Prairie, Man.                                       Presbyterian
+                                                                  Prairie        B.A.
+Cecilia Jeffrey      East of Shoal Lake reserve, No. 40           Kenora         Rev. F.T. Dodds     Presbyterian
+                                                                                 Rev. P. Bousquet,   Roman
+Kenora               Near Kenora, Ont.                            Kenora
+                                                                                 O.M.I.              Catholic
+Total, Manitoba ...                                               ...            ...                 ...
+SASKATCHEWAN. ...                                                 ...            ...                 ...
+                                                                  Crooked                            Roman
+Cowessess            On Cowessess reserve                                        Rev. S. Perault
+                                                                  Lakes                              Catholic
+                     On north side Round Lake, sec. 14, tp. 18, r. Crooked       Rev. R.B. Heron
+Round Lake                                                                                           Presbyterian
+                     3                                             Lakes         (acting)
+                     On Côté's reserve, 3 1/2 miles from                         Rev. W.
+Crowstand                                                         Pelly                              Presbyterian
+                     Kamsack                                                     McWhinney
+                     Adjoining Keeseekouse reserve, sec. 2, tp.                  Rev. J. De Corby,   Roman
+Keeseekouse                                                       Pelly
+                     21, r. 32                                                   O.M.I.              Catholic
+                                                                                 Rev. V. Gabillon,   Roman
+Duck Lake            3 miles from Duck Lake reserve               Duck Lake
+                                                                                 O.M.I.              Catholic
+
+<!-- page 587 -->
+NUMBER ON ROLL. Average Attendance. STANDARD.               School.
+Boys. Girls. Total. ...             I   II III IV V VI ...
+...   ...    ...    ...             ... ... ... ... ... ... ONTARIO.
+14    19     33     29              26 6 1 ... ... ... Albany Mission.
+13    10     23     18              13 4 6 ... ... ... Moose Fort.
+12    18     30     26              30 ... ... ... ... ... Chapleau.
+15    25     40     29              18 1 8 8 5 ... Fort William Orphanage.
+54    72     126    102             87 11 15 8 5 ... Total, Ontario.
+...   ...    ...    ...             ... ... ... ... ... ... MANITOBA.
+30    28     58     53              7 7 14 13 14 3 Birtle.
+32    44     76     64              18 7 21 20 10 ... Fort Alexander.
+19    26     45     34              11 7 13 6 8 ... Fort Francis.
+24    45     69     65              18 15 10 18 8 ... Pine Creek.
+24    20     44     32              11 10 18 5 ... ... Sandy Bay.
+23    33     56     45              11 13 12 7 11 2 Norway House.
+14    20     34     32              2 9 6 5 12 ... Portage La Prairie.
+22    20     42     40              13 7 13 5 4 ... Cecilia Jeffrey.
+22    27     49     33              15 4 15 10 5 ... Kenora.
+210   263    473    398             106 79 122 89 72 5 Total, Manitoba.
+...   ...    ...    ...             ... ... ... ... ... ... SASKATCHEWAN.
+22    26     48     45              17 10 12 9 ... ... Cowessess.
+21    14     35     33              13 6 7 6 3 ... Round Lake.
+26    28     54     49              20 ... 18 15 1 ... Crowstand.
+13    16     29     26              5 8 4 7 5 ... Keeseekouse.
+57    48     105    99              21 15 21 20 11 17 Duck Lake.
+
+<!-- page 588 -->
+School.              Situation.                                     Agency.      Principal.             Denomination.
+                     Adjoining File Hills reserve, sec. 33, tp. 22,
+File Hills                                                          File Hills   Miss J. Cunningham Presbyterian
+                     r. 11
+                                                                    Touchwood                           Church of
+Gordon's             On Geo. Gordon's reserve                                 M. Williams
+                                                                    Hills                               England
+                     Adjoining Muscowequan's reserve, sec. 14, Touchwood Rev. E. Planet,                Roman
+Muscowequan's
+                     tp. 27, r. 15                             Hills     O.M.I.                         Catholic
+                                                                    Treaty       Rev. François          Roman
+Lac la Plonge        On la Plonge River
+                                                                    No. 10       Ancell, O.M.I.         Catholic
+                                                                    Treaty                              Church of
+Lac la Ronge         On west shore of Lac la Ronge                               Rev. M.B. Edwards
+                                                                    No. 10                              England
+                                                                                 Rev. E.J.              Roman
+Onion Lake (R.C.)    On Seekaskootch reserve                        Onion Lake
+                                                                                 Cunningham             Catholic
+                                                                                                        Church of
+Onion Lake (C.E.)    On Makaoo's reserve                            Onion Lake Rev. J.R. Matheson
+                                                                                                        England
+                     Adjoining Thunderchild's reserve, S.E. 1/4,                 Rev. H. Delmas,        Roman
+Thunderchild's                                                   Battleford
+                     sec. 6, tp. 46, r. 18                                       O.M.I.                 Catholic
+Total, Saskatchewan ...                                             ...          ...                    ...
+ALBERTA.            ...                                             ...          ...                    ...
+                     Off Blood reserve, opposite Blood Agency                                           Church of
+Blood (C.E.)                                                  Blood              J. Middleton
+                     headquarters                                                                       England
+                                                                                 Rev. E.L. Ruaux,       Roman
+Blood (R.C.)         On Blood reserve                               Blood
+                                                                                 O.M.I.                 Catholic
+                                                                                 Rev. J.L. LeVern,      Roman
+Crowfoot             At South Camp, Blackfoot reserve               Blackfoot
+                                                                                 O.M.I.                 Catholic
+                                                                                                        Roman
+St. Albert           At St. Albert settlement                       Edmonton     Sister M.A. Diguiere
+                                                                                                        Catholic
+                                                                                 Rev. H.L. Dauphin, Roman
+Ermineskin's         On Ermineskin's reserve                        Hobbema
+                                                                                 O.M.I.             Catholic
+                                                                                                        Roman
+Blue Quill's         On Blue Quill's reserve                        Saddle Lake Rev. Leon Balter
+                                                                                                        Catholic
+                                                                                                        Church of
+Peigan (C.E.)        On Peigan reserve                              Peigan       Rev. W.R. Haynes
+                                                                                                        England
+                                                                                                        Roman
+Peigan (R.C.)        On Peigan reserve                              Peigan       Rev. J.M. Salaun
+                                                                                                        Catholic
+                                                                                                        Church of
+Sarcee               On Sarcee reserve                              Sarcee       Arch'dn. J.W. Tims
+                                                                                                        England
+Fort Chipewyan                                                      Treaty No.                          Roman
+                     At Fort Chipewyan                                           Rev. Sister Laverty
+(Holy Angels)                                                       8                                   Catholic
+Lesser Slave Lake                                                   Treaty No.                          Roman
+                     On Northwest side Lesser Slave lake                         Rev. B.H. Giroux
+(R.C.)                                                              8                                   Catholic
+                                                                    Treaty No.   Rev. J. Calais,        Roman
+Sturgeon Lake        At Sturgeon Lake
+                                                                    8            O.M.I.                 Catholic
+                                                                    Treaty No.                          Roman
+Vermilion (St. Henri) At Vermilion                                               Rev. J. Le Treste
+                                                                    8                                   Catholic
+

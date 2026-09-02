@@ -1,0 +1,287 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+Statement of Day Schools in the Dominion (from which returns) for the Fiscal Year ended March 31, 1910.
+
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader, Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+NUMBER ON ROLL. Average Attendance. STANDARD.         School.
+Boys. Girls. Total.                 I  II III IV V VI
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                                        NOVA SCOTIA.
+10      7       17      8                     3     4 3     5 2 ... Bear River.
+11      9       20      8                     11    ... 2   6 ... 1 Eskasoni.
+17      7       24      12                    8     8 4     1 2 1 Sydney.
+2       3       5       2                     2     2 1     ... ... ... *Halfway River.
+18      11      29      17                    12    8 1     2 3 3 Indian Cove.
+14      11      25      6                     18    1 3     2 1 ... Middle River.
+9       10      19      10                    10    ... 2   5 ... 2 Millbrook.
+6       7       13      6                     2 5 1 ... 4 1 New Germany.
+11      14      25      7                     14 6 5 ... ... ... Salmon River.
+10      7       17      11                    15 ... 2 ... ... ... (t)Malagawatch.
+17      20      37      22                    24 6 2 ... 5 ... Whycocomagh.
+125     106     231     109                   119 40 26 21 17 8 Total, Nova Scotia.
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                               PRINCE EDWARD ISLAND.
+20      22      42      18                    32 3 5 ... 2 ... Lennox Island.
+
+...     ...     ...     ...                   ...   ... ... ... ... ...
+                                                                      NEW BRUNSWICK.
+10      14      24      13                    10    7 3 2 ... 2 Burnt Church.
+16      21      37      14                    16    11 4 3 3 ... Big Cove.
+12      13      25      16                    16    6 2 ... 1 ... Eel Ground.
+8       9       17      11                    5     3 6 1 2 ... Kingsclear.
+8       10      18      13                    14    4 ... ... .
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+me                     Tsimpshe an reserve                                        Hudson
+                         At Ahousaht, adjoining Maktosis reserve, west    West
+Ahousaht                                                                            John T. Ross        Presbyterian
+                         coast of Vancouver island                        Coast
+                         Near Alberni, adjoining Shesaht reserve, east    West
+Alberni                                                                             H.B. Currie         Presbyterian
+                         coast of Vancouver island                        Coast
+Total, British
+                         ...                                              ...       ...                 ...
+Columbia
+
+YUKON                    ...                                              ...       ...                 ...
+TERRITORY.
+                                                                                    Miss F.M.           Church of
+Carcross                 At Carcross                                      Yukon
+                                                                                    Hutchinson          England
+
+
+
+=== EXTRACT FROM HERE (pages 562-567) ===
+<!-- page 562 -->
+NUMBER ON ROLL. Average Attendance. STANDARD.        School.
+Boys. Girls. Total.                 I II III IV V VI
+
+...   ...   ...    ...               ... ... ... ... ... ...
+                                                         NORTHWEST TERRITORIES.
+10    12    22     20                8 5 6 3 ... ... Fort Resolution.
+18    23    41     33                9 11 19 ... 1 1 Hay River (St Peter's Mission).
+25    40    65     65                35 22 8 ... ... ... Providence Mission (Sacred Heart).
+53    75    128    118               52 38 33 3 1 1 Total, N.W.T.
+
+...   ...   ...    ...               ... ... ... ... ... ...
+                                                       BRITISH COLUMBIA.
+19    26    45     44                11 9 15 3 7 ... Sechelt
+25    27    52     50                14 5 9 10 9 5 Squamish.
+39    40    79     79                1 11 17 25 25 ... St. Mary's.
+...   27    27     17                1 5 6 6 2 7 Yale (All Hallows).
+23    ...   23     15                10 5 4 3 1 ... Port Simpson Boys' Home.
+...   44    44     41                8 6 7 13 10 ... Port Simpson Girls' Home.
+22    17    39     36                3 10 5 5 16 ... Ahousaht.
+22    24    46     38                13 12 ... 10 6 5 Alberni.
+150   205   355    320               61 63 63 75 76 17 Total, British Columbia.
+
+...   ...   ...    ...               ... ... ... ... ... ...
+                                                   YUKON TERRITORY.
+12    10    22     17                7 4 2 4 5 ... Carcross.
+
+<!-- page 563 -->
+STATEMENT of Indian Industrial Schools in the Dominion for the Fiscal Year ended March 31, 1910.
+
+School.               Situation.                                           Principal.         Denomination.
+
+                      ...                                                  ...                ...
+ONTARIO.
+Mohawk Institute      At Brantford                                         Rev. R Ashton      Undenominational
+                                                                           Rev. S.R.
+Mount Elgin Institute At Muncey                                                               Methodist
+                                                                           McVitty
+                                                                           Rev. Benj. P.      Church of
+Shingwauk Home        At Sault Ste. Marie
+                                                                           Fuller             England
+                                                                           Rev. C. Belanger,
+Wikwemikong (boys) At Wikwemikong, Manitoulin island                                         Roman Catholic
+                                                                           S.J.
+                                                                           Rev. C. Belanger,
+Wikwemikong (girls) At Wikwemikong, Manitoulin island                                        Roman Catholic
+                                                                           S.J.
+Total, Ontario        ...                                                  ...                ...
+
+                      ...                                                  ...                ...
+MANITOBA.
+Brandon               At Brandon                                           Rev. T. Ferrier    Methodist
+Elkhorn               At Elkhorn                                           A.E. Wilson        Undenominational
+Total, Manitoba       ...                                                  ...                ...
+
+                      ...                                                  ...                ...
+SASKATCHEWAN.
+                                                                                           Church of
+Battleford            At Battleford                                        Rev. E. Matheson
+                                                                                           England
+Qu'Appelle            At Lebret                                            Rev J. Hugonard Roman Catholic
+*Regina               At Regina                                            Rev: R.B. Heron Presbyterian
+Total, Saskatchewan   ...                                                  ...             ...
+ALBERTA.              ...                                                  ...             ...
+                                                                           Rev. Arthur
+Red Deer              At Red Deer                                                             Methodist
+                                                                           Barner
+                                                                           Rev. J. Riou,
+St. Joseph's          At Davisburg                                                            Roman Catholic
+                                                                           O.M.I.
+Total, Alberta        ...                                                  ...                ...
+
+BRITISH               ...                                                  ...                ...
+COLUMBIA.
+                      At St. Eugene, five miles from Cranbrook, Kootenay   Rev. Felix Beck,
+Kootenay                                                                                      Roman Catholic
+                      agency                                               O.M.I.
+Kamloops              At Kamloops, in the Kamloops-Okanagan agency         Rev. A.M. Carion Roman Catholic
+                                                                           Rev. George        Church of
+Lytton                2 1/2 miles from Lytton, Kamloops-Okanagan agency
+                                                                           Ditcham            England
+Coqualeetza           3 miles from Chilliwack, Fraser River agency         Rev. R.H. Cairns   Methodist
+Kuper Island          On Kuper island, Cowichan agency                     Rev. D. Claessen   Roman Catholic
+                                                                                              Church of
+Alert Bay             At Alert Bay, Kwawkewlth agency                      A.W. Corker
+
+<!-- page 564 -->
+                                                                                                    England
+                       On Clayoquot sound, west coast Vancouver island,
+Clayoquot                                                                        Rev. P. Maurus     Roman Catholic
+                       West Coast agency
+                       At Williams Lake, 4 miles from Sugar Cane reserve,
+Williams Lake                                                                    Rev. H. Boening    Roman Catholic
+                       Williams Lake agency
+Total, British
+                       ...                                                       ...                ...
+Columbia
+
+[*The Regina industrial school closed from March 31, 1910.]
+
+NOTE - All boys at industrial schools are taught farming, and all girls sewing, knitting and general household duties.
+
+<!-- page 565 -->
+STATEMENT of Indian Industrial Schools in the Dominion for the Fiscal Year ended March 31, 1910.
+
+NUMBER ON           Average
+                                STANDARD.         INDUSTRIES TAUGHT
+ROLL.               Attendance.                                                                                                   School.
+Boys. Girls. Total.             I  II III IV V VI Carpenter. Shoemaker. Tailor. Blacksmith Baker. Harnessmaker. Printer. Painter.
+
+...   ...   ...   ...         ...   ... ...   ... ... ... ...   ...       ...    ...        ...    ...            ...     ...
+                                                                                                                                  ONTARIO.
+56    72    128   118         11 10 14 39 18 36 ...             ...       ...    ...        ...    ...            ...     ...     Mohawk Institute.
+                                                                                                                                  Mount Elgin
+52    57    109   100         26 27 26 17 11 2 ...              ...       ...    ...        ...    ...            ...     ...
+                                                                                                                                  Institute.
+36    23    59    42          20 9 21 8 1 ... 2                 1         ...    ...        ...    ...            ...     2       Shingwauk Home.
+                                                                                                                                  Wikwemikong
+73    ...   73    70          23 18 7         11 13 1 5         4         ...    ...        ...    ...            ...     ...
+                                                                                                                                  (boys).
+                                                                                                                                  Wikwemikong
+...   69    69    65          16 15 14 15 9 ... ...             ...       ...    ...        ...    ...            ...     ...
+                                                                                                                                  (girls).
+217   221   438   395         96 79 82 90 52 39 7               5         ...    ...        ...    ...            ...     2       Total, Ontario.
+
+...   ...   ...   ...         ...   ... ...   ... ... ... ...   ...       ...    ...        ...    ...            ...     ...
+                                                                                                                                  MANITOBA.
+51    57    108   93          34 16 13 21 8 16 ...              ...       ...    ...        ...    ...            ...     ...     Brandon.
+36    36    72    62          12 9 18 10 7 16 4                 1         ...    2          ...    2              2       ...     Elkhorn
+87    93    180   155         46 25 31 31 15 32 4               1         ...    2          ...    2              2       ...     Total, Manitoba.
+
+...   ...   ...   ...         ...   ... ...   ... ... ... ...   ...       ...    ...        ...    ...            ...     ...
+                                                                                                                                  SASKATCHEWAN.
+33    39    72    63          21 9 13 12 8 9 9                  ...       ...    ...        ...    ...            ...     ...     Battleford.
+117   118   235   230         58 43 76 35 16 7 4                7         ...    5          3      ...            ...     ...     Qu'Appelle.
+49    28    77    64          32 16 15 5 6 3 2                  ...       ...    ...        1      ...            2       ...     *Regina.
+199   185   384   357         111 68 104 52 30 19 15            7         ...    5          4      ...            2       ...     Total, Saskatchewan.
+
+...   ...   ...   ...         ...   ... ...   ... ... ... ...   ...       ...    ...        ...    ...            ...    ...
+                                                                                                                                  ALBERTA.
+38    24    62    50          27 9 7 5 9 5 ...                  ...       ...    ...        ...    ...            ...    ...      Red Deer.
+42    25    67    62          7 14 9 11 21 5 ...                ...       ...    ...        ...    ...            ...    ...      St. Joseph's.
+80    49    129   112         34 23 16 16 30 10 ...             ...       ...    ...        ...    ...            ...    ...      Total, Alberta.
+
+...   ...   ...   ...         ...   ... ...   ... ... ... ...   ...       ...    ...        ...    ...            ...     ...     BRITISH
+                                                                                                                                  COLUMBIA.
+31    30    61    60          27    7 15      10 2 ... ...      ...       ...    ...        ...    ...            ...     ...     Kootenay.
+32    36    68    63          21    15 3      17 8 4 18         5         ...    ...        ...    ...            ...     ...     Kamloops.
+30    ...   30    25          6     ... ...   ... 18 6 7        ...       ...    3          ...    ...            ...     ...     Lytton.
+53    40    93    85          15    11 28     18 8 13 6         ...       ...    2          1      ...            ...     ...     Coqualeetza.
+38    36    74    70          23    15 14     4 7 11 5          3         ...    ...        6      ...            ...     ...     Kuper Island.
+35    ...   35    29          4     5 8       8 6 4 16          ...       ...    ...        ...    ...            ...     ...     Alert Bay.
+38    32    70    63          10    10 17     12 12 9 11        6         2      ...        ...    ...            ...     3       Clayoquot.
+18    32    50    50          ...   1 13      14 9 13 3         ...       ...    ...        ...    ...            ...     ...     Williams Lake.
+
+<!-- page 566 -->
+                                                                                                                                   Total, British
+275    206    481   445          106 64 98 83 70 60 66              14           2       5           7       ...         ...   3
+                                                                                                                                   Columbia
+
+[*The Regina industrial school closed from March 31, 1910.]
+
+NOTE - All boys at industrial schools are taught farming, and all girls sewing, knitting and general household duties.
+
+<!-- page 567 -->
+STATEMENT showing the Total Enrolment, by Provinces, in the Different Classes of Schools during the Fiscal
+Year ended March 31, 1910. DAY SCHOOLS
+
+              Number
+                                                                                            NUMBER ON
+Province.     of       DENOMINATION.
+                                                                                            ROLL.
+              Schools.
+                                                 Church
+                                       Roman                                      Salvation
+                      Undenominational           of      Methodist. Presbyterian.           Boys. Girls. Total.
+                                       Catholic.                                  Army.
+                                                 England
+Nova Scotia   11      ...               11        ...     ...        ...           ...      125    106   231
+Prince
+Edward        1       ...               1         ...     ...        ...           ...      20     22    42
+Island
+New
+              9       ...               9         ...     ...        ...           ...      100    122   222
+Brunswick
+Quebec        23      5                 13        2       3          ...           ...      513    518   1,031
+Ontario      78       38                22        10      8          ...           ...      1,207 1,206 2,413
+Manitoba     48       4                 6         27      9          2             ...      570 566 1,136
+Saskatchewan 18       1                 2         12      ...        3             ...      195 143 308
+Alberta      8        ...               ...       3       5          ...           ...      117 84      201
+Northwest
+             2        ...               ...       2       ...        ...           ...      16     18    34
+Territories
+British
+              42      2                 9         13      15         1             2        560    589   1,149
+Columbia
+Yukon         1       ...               ...       1       ...        ...           ...      7      10    17
+Total, Day
+              241     50                73        70      40         6             2        3,400 3,384 6,784
+Schools
+
+BOARDING SCHOOLS
+Nova Scotia ... ...                     ...       ...     ...        ...           ...      ...    ...   ...
+Prince
+Edward      ... ...                     ...       ...     ...        ...           ...      ...    ...   ...
+Island
+New
+            ... ...                     ...       ...     ...        ...           ...      ...    ...   ...
+Brunswick
+Quebec       ...      ...               ...       ...     ...        ...           ...      ...    ...   ...
+Ontario      4        ...               2         2       ...        ...           ...      48     66    114
+Manitoba     9        ...               5         ...     1          3             ...      199    244   443
+Saskatchewan 13       ...               7         3       ...        3             ...      262    297   559
+Alberta      16       ...               11        5       ...        ...           ...      319    289   608
+Northwest
+             3        ...               2         1       ...        ...           ...      53     75    128
+Territories
+British
+              8       ...               3         1       2          2             ...      150    205   355
+Columbia
+Yukon         1       ...               ...       1       ...        ...           ...      12     10    22
+

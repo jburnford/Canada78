@@ -1,0 +1,15 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0757-school-statement	SCHOOL STATEMENT	757	762
+01	p0757-school-statement	SCHOOL STATEMENT	763	768
+02	p0757-school-statement	SCHOOL STATEMENT	769	774
+03	p0757-school-statement	SCHOOL STATEMENT	775	780
+04	p0757-school-statement	SCHOOL STATEMENT	781	786
+05	p0757-school-statement	SCHOOL STATEMENT	787	789
+06	p0791-school-statement-concluded	SCHOOL STATEMENT - Concluded	791	796
+07	p0791-school-statement-concluded	SCHOOL STATEMENT - Concluded	797	799
+08	p0804-school-statement-concluded-alb	SCHOOL STATEMENT - Concluded — Alberta	804	805
+09	p0850-school-statement-concluded-nor	SCHOOL STATEMENT - Concluded — Northwest Territories	850	852
+10	p0953-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	953	953
+11	p0953-school-statement-concluded-new	SCHOOL STATEMENT - Concluded — New Brunswick	953	955
+12	p0955-school-statement-concluded-nov	SCHOOL STATEMENT - Concluded — Nova Scotia	955	956
+13	p0957-school-statement-concluded-pri	SCHOOL STATEMENT - Concluded — Prince Edward Island	957	959

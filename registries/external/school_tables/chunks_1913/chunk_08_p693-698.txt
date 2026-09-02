@@ -1,0 +1,363 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT.
+
+STATEMENT of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal
+Year ended March 31, 1913.
+NOTE. - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore,
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I Standard IV Third Reader
+Standard II First Reader, Part II Standard V Fourth Reader
+Standard III Second Reader        Standard VI Fifth Reader
+
+Number on Roll Average Attendance Standard                School
+Boys Girls Total ...              I   II III IV V VI ...
+...  ...   ...   ...              ... ... ... ... ... ... Nova Scotia
+11 6       17    9                6 3 1 6 ... 1 Bear River.
+10 7       17    8                8 ... ... 9 ... ... Eskasoni.
+23 7       30    12               9 9 2 6 4 ... Sydney.
+2    1     3     2                1 ... ... ... 2 ... *Halfway River.
+22 11 33         17               9 6 6 6 2 4 Indian Cove.
+10 6       16    10               13 1 2 ... ... ... Middle River.
+7    8     15    5                4 2 1 4 1 3 Millbrook.
+9    6     15    7                2 2 2 3 5 1 New Germany.
+17 16 33         14               18 10 5 ... ... ... Salmon River.
+2    5     7     4                2 1 2 2 ... ... Malagawatch.
+12    18    30    13                    11    8 7 1 2 1 Whycocomagh.
+4     8     12    7                     8     3 1 ... ... ... (t)Shubenacadie.
+3     4     7     3                     ...   3 ... ... 4 ... (tt)Bishopville.
+132   103   235   111                   91    48 29 37 20 10 Total, Nova Scotia.
+...   ...   ...   ...                   ...   ... ... ... ... ... PRINCE EDWARD ISLAND.
+15    21    36    18                    12    11 10 1 2 ... Lennox Island.
+...   ...   ...   ...                   ...   ... ... ... ... ... NEW BRUNSWICK.
+13    16    29    16                    9     6 6 4 4 ... Burnt Church.
+20    23    43    16                    23    9 8 3 ... ... Big Cove.
+6     1     7     4                     3     2 2 ... ... ... *Beaumont S.S. No. 15.
+11    12    23    15                    14    7 1 ... 1 ... Eel Ground.
+10    14    24    17                    23    1 ... ... ... ... (tt)eel River.
+12    13    25    17                    7     5 5 6 2 ... Kingsclear.
+9     10    19    11                    5     5 8 1 ... ... Oromocto.
+14    21    35    25                    11    14 5 4 1 ... St. Mary's.
+11  
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+                ...       1        ...        ...          ...       15     17     32
+Total,
+Boarding  58    ...                     31        15       4          8            ...       1,109 1,2281 2,337
+Schools
+INDUSTRIAL SCHOOLS
+
+<!-- page 692 -->
+Nova Scotia   ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Prince
+Edward        ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Island
+New
+              ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Brunswick
+Quebec       ...    ...   ...   ...   ...   ...   ...   ...   ...   ...
+Ontario      5      1     2     1     1     ...   ...   239   238   477
+Manitoba     2      1     ...   ...   1     ...   ...   90    89    179
+Saskatchewan 2      ...   1     1     ...   ...   ...   122   157   279
+Alberta      2      ...   1     ...   1     ...   ...   82    56    138
+Northwest
+             ...    ...   ...   ...   ...   ...   ...   ...   ...   ...
+Territories
+British
+              8     ...   5     2     1     ...   ...   281   194   475
+Columbia
+Yukon         ...   ...   ...   ...   ...   ...   ...   ...   ...   ...
+Total,
+Industrial    19    2     9     4     4     ...   ...   814   734   1,548
+Schools
+
+
+
+=== EXTRACT FROM HERE (pages 693-698) ===
+<!-- page 693 -->
+STATEMENT showing the Total Enrolment, by Provinces, in the Different Classes of Schools during the Fiscal
+year ended March 31, 1913.
+
+Average Attendance. Percentage of Attendance. Standard.                          Province.
+...                 ...                       I     II    III IV V VI            ...
+DAY SCHOOLS
+111                 47.23                     91    48    29 37 20 10            Nova Scotia.
+18                  50.00                     12    11    10 1 2 ...             Prince Edward Island.
+165                 59.35                     125 66      50 27 10 ...           New Brunswick.
+750                 56.56                     707 287 172 113 35 12              Quebec.
+1,245               46.63                     1,534 432 389 230 80 5             Ontario.
+452                 45.15                     657 187 113 37 6 1                 Manitoba.
+220                 53.53                     265 75      38 23 10 ...           Saskatchewan.
+21                  52.50                     23    8     5 2 1 1                Alberta.
+7                   38.88                     12    4     1 1 ... ...            Northwest Territories.
+474                 41.76                     688 237 141 56 ... 2               British Columbia.
+46                  42.20                     76    16    17 ... ... ...         Yukon.
+3,509               48.34                     4,190 1,371 965 527 175 31         Total, Day Schools.
+BOARDING SCHOOLS.
+...                 ...                       ...   ...   ... ... ... ...        Nova Scotia.
+...                 ...                       ...   ...   ... ... ... ...        Prince Edward Island.
+...                 ...                       ...   ...   ... ... ... ...        New Brunswick.
+...            ...                           ...   ...   ... ... ... ...         Quebec.
+187            82.38                         103   23    42 46 10 3              Ontario.
+305            88.92                         95    57    88 67 36 ...            Manitoba.
+516            85.57                         264   91    110 73 46 19            Saskatchewan.
+480            80.94                         223   138   126 63 31 12            Alberta.
+122            84.17                         60    28    34 17 5 ...             Northwest Territories.
+355            89.87                         80    75    87 79 46 28             British Columbia.
+25             78.12                         17    7     3 3 2 ...               Yukon.
+1,990          85.15                         842   419   490 348 176 62          Total, Boarding Schools.
+INDUSTRIAL SCHOOLS.
+...            ...                           ...   ...   ...   ...   ...   ...   Nova Scotia.
+...            ...                           ...   ...   ...   ...   ...   ...   Prince Edward Island.
+...            ...                           ...   ...   ...   ...   ...   ...   New Brunswick.
+...            ...                           ...   ...   ...   ...   ...   ...   Quebec.
+448            93.92                         98    93    96    74    71    45    Ontario.
+157            87.71                         52    39    34    24    19    11    Manitoba.
+266            95.34                         101   50    58    42    21    7     Saskatchewan.
+123            89.13                         58    32    11    16    11    10    Alberta
+...            ...                           ...   ...   ...   ...   ...   ...   Northwest Territories.
+
+<!-- page 694 -->
+436     91.79   111   104   74 91 48 47 British Columbia.
+...     ...     ...   ...   ... ... ... ... Yukon.
+1,430   92.37   420   318   273 247 170 120 Total, Industrial Schools.
+
+<!-- page 695 -->
+SUMMARY OF SCHOOL STATEMENT
+
+                                            Total
+                                            number                                                                                             Average
+Province.       Class of School.                     Denomination.                                                         Number on Roll.
+                                            of                                                                                                 Attendance.
+                                            Schools.
+                                                                                Church
+                                                                       Roman                                   Salvation
+...             Day. Boarding. Industrial. ...        Undenominational          of      Methodist Presbyterian           Boys. Girls. Total. ...
+                                                                       Catholic                                Army.
+                                                                                England
+Nova Scotia     13    ...          ...      13        ...                 13       ...       ...        ...          ...   132   103   235     111
+Prince
+Edward          1     ...          ...      1         ...                 1        ...       ...        ...          ...   15    21    36      18
+Island.
+New
+                11    ...          ...      11        ...                 11       ...       ...        ...          ...   134   144   278     165
+Brunswick
+Quebec          27    ...          ...      27        5                   15       4         3          ...          ...   666   660   1,326 750
+Ontario      85       7            5        97        39                  31       17        9          1            ...   1,726 1,648 3,374   1,880
+Manitoba     41       7            2        50        2                   11       23        10         4            ...   748 775 1,523       914
+Saskatchewan 20       13           2        35        1                   11       16        ...        7            ...   602 691 1,293       1,002
+Alberta      3        17           2        22        ...                 12       8         2          ...          ...   424 347 771         624
+Northwest
+             1        3            ...      4         ...                 2        2         ...        ...          ...   64    98    162     129
+Territories
+British
+                42    10           8        60        3                   14       17        21         3            2     1,041 964   2,005 1,265
+Columbia
+Yukon           5   1              ...      6         ...                 ...      6         ...        ...          ...   79    62    141    71
+Total           249 58             19       326       50                  121      93        45         15           2     5,631 5,513 11,144 6,929
+
+[*All boys at industrial schools are taught farming, and all girls sewing, knitting and general household duties.]
+
+<!-- page 696 -->
+SUMMARY OF SCHOOL STATEMENT
+
+Percentage
+of          Standard.                              *Industries Taught.                                                           Total. Province
+Attendance.
+...         I     II       III   IV     V VI Carpenter. Shoemaker. Tailor. Blacksmith. Baker. Harnessmaker. Printer. Painter. ...      ...
+47.23       91    48       29    37     20 10 ...       ...        ...     ...         ...    ...           ...      ...      ...      Nova Scotia.
+                                                                                                                                       Prince Edward
+50.00        12     11     10    1      2    ...   ...        ...         ...     ...          ...     ...           ...   ...   ...
+                                                                                                                                       Island.
+                                                                                                                                       New
+59.35        125    66     50    27     10 ...     ...        ...         ...     ...          ...     ...           ...   ...   ...
+                                                                                                                                       Brunswick.
+56.56        707 287       172   113    35 12      ...        ...         ...     ...          ...     ...           ...   ...   ...   Quebec.
+55.72        1,735 548     527   350    161 53     2          4           ...     ...          2       ...           ...   2     10    Ontario.
+60.01        804 283       235   128    61 12      9          ...         ...     ...          ...     1             ...   ...   10    Manitoba.
+77.49        630 216       206   138    77 26      2          8           ...     ...          2       ...           ...   1     13    Saskatchewan.
+80.93        304    178    142   81     43 23 2               ...         ...     ...          3       ...           ...   ...   5     Alberta.
+                                                                                                                                       Northwest
+79.63        72     32     35    18     5    ...   ...        ...         ...     ...          ...     ...           ...   ...   ...
+                                                                                                                                       Territories.
+                                                                                                                                       British
+63.09        879    416    302   226    105 77 66             17          ...     ...          1       ...           ...   1     85
+                                                                                                                                       Columbia.
+50.35        93    23    20    3     2 ... ...                ...         ...     ...          ...     ...           ...   ...   ...   Yukon.
+62.18        5,452 2,108 1,728 1,122 521 213 81               29          ...     ...          8       1             ...   4     123   Total.
+
+[*All boys at industrial schools are taught farming, and all girls sewing, knitting and general household duties.]
+
+<!-- page 697 -->
+SCHEDULE of Establishment of Indian Boarding and Industrial Schools.
+
+                                                                    Water                            Heating and
+School.      Location.   Land.        Buildings.                              Fire Protection.
+                                                                    Supply.                          Lighting.
+                        Comprises
+                                                                              Fire department of      Both wings
+                        lot 5
+                                                                              city including 4        occupied by
+                        Eagle's      Buildings form letter H.
+             In                                                               hydrants with hose; 2 pupils have coal
+                        Nest (10     consisting of main building,
+             township                                                         stand pipes with hose and gas furnaces
+                        acres) a     including stores, cold stores,
+             Brantford,                                                       on all floors; 4        of large capacity.
+                        Crown        officers' dining rooms etc.,
+             some 1 3/4                                                       chemical fire           Main building,
+                        grant, 194 North Wing and South             From city
+Mohawk       miles from                                                       extinguishers; 2        heated by hot
+                        acres by     Wing a boy's playhouse, a water
+Institute.   city of                                                          dozen blaze killer      water, kitchen,
+                        license of small hospital, stables, hog works.
+             Brantford.                                                       tubes, axes and         laundry and dairy
+                        occupation pen, 2 greenhouses, a
+             P.O.                                                             extensions ladders. A all use natural
+                        and 176      carpenter shop, frost-proof
+             Brantford,                                                       branch firehall close gas. Buildings
+                        acres        fruit house, poultry house
+             Ont.                                                             by, for which school lighted
+                        Mohawk       and silo.
+                                                                              contributes $60 per throughout by
+                        Glebe lot in
+                                                                              year.                   electricity.
+                        city.
+                                                                    Abundant
+                                     A main building erected in
+             15 miles                                               supply of
+                                     1895 four stories, brick; an
+             northwest                                              spring    Two large tanks
+                                     old building 100 feet to
+             of St                                                  water,    located in attic. Pipes Three coals
+                        225 acres, each contains dwellings of
+             Thomas in                                              furnished convey water to 18 furnaces and hot
+                        being a      two officers and families
+Mount        county                                                 by        hose distributed        water system heat
+                        portion of and a four-cot hospital and
+Elgin        Middlesex,                                             hydraulic throughout building. main building
+                        the          dairy cellar. Other buildings
+Institute.   township                                               pumps     Fire extinguishers,     and schoolrooms,
+                        Chippewa are a carpenter shop,
+             caradoc.                                               and piped pails, and axes         lighted by
+                        reserve.     implement shed, carriage
+             P.O.                                                   to all    placed  in main         electricity.
+                                     shed, poultry house, stables,
+             Muncey,                                                parts of hallways.
+                                     grain barn, etc., all on brick
+             Ont.                                                   the
+                                     or cement foundations.
+                                                                    building.
+          Located 1
+          1/2 miles               Main block comprising 185
+                                                                              Has 2 hydrants
+          east of                 X 137 feet building and
+                     Comprises                                                connected with 3-      Main building
+          business                principal's residence, offices
+                     93 acres                                                 inch pipe from city heated by a hot
+          part of                 of institutions etc To the     3 inch
+                     mostly                                                   inside and outside; 2 water system
+          Sault Ste.              east is a 2 story frame        pipe
+Shingwauk            cleared,                                                 fire tanks capacity of separate
+          Marie, but              building 60 X 30, drill hall connects
+Home.                being park                                               1,925 gallons in       buildings by
+          within                  and playroom and upper         with city
+                     lots 1 and 2                                             upper flat - a 50 lb. stoves. Coal oil
+          town                    story a school room; a         supply.
+                     Tarentaurus                                              pressure maintained. lamps used to
+          limits.                 chapel,  hospital, farmer's,
+                     township.                                                Axes, pails kept       light
+          P.O. Sault              cottage; carpenter's cottage;
+                                                                              hardy.
+          Ste. Marie              factory and stables.
+          Ont.
+
+<!-- page 698 -->
+                                                                                                           Heating
+                                                                            Water
+School.        Location.        Land.         Buildings.                                Fire Protection.   and
+                                                                            Supply.
+                                                                                                           Lighting.
+            On the
+            unceded                         Two buildings, one for boys                                 Boys'
+                                                                         Windmill
+            portion of       Comprises      and one for girls. A                                        school by
+                                                                         and tank Hydrants from
+            Manitoulin       some 200       missionaries' residence,                                    box
+                                                                         capacity of tank with inch
+            Island, on       acres, 80 of refectory, bakery, etc, in a                                  stoves.
+Wikwemikong                                                              15, 000     hose to all floors
+            Smith bay, in which are         mission stone building; a                                   Other
+Industrial                                                               gallons     of buildings. Fire
+            the Indian       cleared,       two-story frame building                                    buildings
+School.                                                                  with        extinguishers,
+            village of       Indian gift    used as a washroom, etc.,                                   by hot
+                                                                         piping to axes and buckets.
+            Wikwemikong. for school         and paint shop, and                                         water,
+                                                                         all         Fire-escape.
+            P.O.             purposes.      carpenter shop, planing mill                                lighted by
+                                                                         buildings.
+            Wilwemikong,                    and three barns.                                            acetylene.
+            Ont.
+            On Moose
+                                            Boarding school building, 2 All water
+            Island, 9 miles,                                                                            Heated by
+                             10 acres of stories, 40 X 50 feet,          used is
+            from where the                                                           Buckets and        three
+                             land is leased principal's house 30 X 30    obtained
+            Moose river                                                              barrels, filled,   wood
+                             from Hudson feet cottage hospital,          from river
+Moose Fort  joins salt                                                               always on hand; stoves;
+                             Bay Co.        carpenters-shop, engine      100 yards
+            water. P.O.                                                              two ladders from lighted by
+                             Produces hay house, cow stable,             distant
+            Moose Fort,                                                              roof.              coal oil
+                             and potatoes. woodshed. The day school from
+            James Bay via                                                                               lamps.
+                                            building is 40 X 20 feet.    school.
+            Cochrane, Ont.
+               On lot 2,                                                    Water
+               section 6,                                                   obtained
+                                165 acres,    School building, 40 X 22
+               township                                                     from lake Barrels and         Heated
+                                only 15 of    feet, dwelling house, 52 X
+               Chapleau, 1/2                                                for laundry buckets are kept with wood
+Chapleau                        which is      52 feet; kitchen 20 X 12
+               mile from                                                    purposes, filled with water; stoves
+Boarding                        cleared.      feet; also a woodshed. Boat
+               town and                                                     and from a also 2 iron fire- lighted by
+                                Belongs to    house and chicken house,
+               across lake.                                                 well for    escapes.          oil lamps.
+                                Government. all frame buildings.
+               P.O. Chapleau                                                drinking
+               Ont.                                                         purposes.
+                                                                            City water There are 100
+                                                                            supply and feet of hose on
+               Northwest                      School is a three story solid
+                                                                            is          each flat         Heated by
+               corner of                      brick building 78 X 40 ft.
+                                Comprises 3                                 conducted connected with      hot water
+               Franklin and                   with an extension 33 X 22
+Fort William                    1/2 acres and                               throughout city power.        system
+               Arthur street,                 feet, basement and attic.
+Orphanage.                      belongs to                                  building    Wrought iron fire and
+               Fort William.                  Stable 28 X 24 ft, store
+                                school.                                     by means escape from top lighted by
+               P.O. Fort                      room 22 X 14 feet and a
+                                                                            of tank     to second floor   electricity.
+               William, Ont.                  chicken house, all frame.
+                                                                            and water and also from
+                                                                            pipes.      second to ground.
+               Situated on
+               Albany Island,                                                                            Heated
+               at mouth of     Belongs to                                  Water       Two ladders       throughout
+                                              Main building, 3 story, 65 X
+               Albany river, 6 the Hudson                                  taken to    fixed at each end by wood
+Ft. Albany                                    40 feet; a barn, carpenter-
+               miles from the Bay Co., a                                   buildings of building are     furnaces.
+Boarding.                                     shop, laundry and a store
+               sea. P.O. Fort perpetual                                    in buckets only means of      Lighted by
+                                              house.
+               Albany, James grant given.                                  from river. protection.       coal oil
+               Bay, via                                                                                  lamps.
+

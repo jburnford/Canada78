@@ -1,0 +1,394 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+STATEMENT of Indian Day Schools in the Dominion for the Fiscal Year Ended March 31, 1927
+
+Note. - The "Standard" indicates the classification of the pupils according to the reading-book used and therefore
+shows the degree of general advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I. Standard IV Third Reader.
+Standard II First Reader, Part II. Standard V Fourth Reader.
+Standard III Second Reader.        Standard VI Fifth Reader.
+
+
+
+                                                                                      Average
+School             Reserve         Agency           Teacher        Number on Roll                Standard
+                                                                                      Attendance
+...                ...             ...              ...            Boys Girls Total ...           I     II III IV V VI
+PRINCE
+EDWARD            ...              ...              ...            ...   ...   ...    ...         ...   ... ... ... ... ...
+ISLAND
+                                   P.E.I.
+Lennox Island     Lennox Island                    John J. Sark    9     16    25     15          6     5 3 8 2 11
+                                   Superintendency
+NOVA SCOTIA ...                    ...              ...            ...   ...   ...    ...         ...   ... ... ... ... ...
+                                   Antigonish       Wm. J.
+Afton             Afton                                            8     11    19     10          7     1 5 3 3 ...
+                                   County           Rogers
+                                   Cape Breton      Miss Mary
+Eskasoni          Eskasoni                                         17    22    39     22          28 9 1 1 ... ...
+                                   County           McNeil
+                                                    Miss
+                                   Cape Breton
+Sydney            Sydney                            Catherine      15    7     22     10          4     8 6 4 ... ...
+                                   County
+                                                    Gallagher
+                                   Colchester
+Millbrook         Millbrook                         Mrs. E. Smith 10     10    20     13          6     6 3 2 3 ...
+                                   County
+                                                    Mrs. R. L.
+Bear River        Bear River       Digby Count
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+   21 5     ...   ... ... ...
+(R.C.)           House
+                                            J. P.
+Pas              Pas           Pas                      22      11   33   22   22 11 ...      ... ... ...
+                                            Humberstone
+                                            Mrs. I.
+Pine Bluff       Pas           Pas                         5    6    11   9    3   2    3     2 1 ...
+                                            Gautnier
+Red Earth        Red Earth     Pas          J. T. Blewett 15    9    24   20   4   13 5       2 ... ...
+Shoal Lake       ShoalLake     Pas          F. P. Daniels 9     6    15   9    9   2    4     ... ... ...
+                                            A. S.
+Split Lake       Split Lake    Pas                         35   28   63   35   36 27 ...      ... ... ...
+                                            Dewdney
+                               Portage La   Rev. Jas. A.
+Swan Lake        Swan Lake                                 13   15   28   19   21 ...   4     1 1 1
+                               Prairie      Donaghy
+Total, Manitoba ...            ...          ...            630 567 1,197 651   677 248 141 88 24 19
+
+
+
+=== EXTRACT FROM HERE (pages 85-90) ===
+<!-- page 85 -->
+                                                                                Average
+School              Reserve        Agency        Teacher      Number on Roll               Standard
+                                                                                Attendance
+...          ...                   ...           ...          Boys Girls Total ...         I     II III IV V VI
+SASKATCHEWAN ...                   ...           ...          ...  ...   ...   ...         ...   ... ... ... ... ...
+                                                 Rev. Wm.
+Assiniboine         Assiniboine    Assiniboine                11    18    29    10         17 ... 5 7 ... ...
+                                                 Miller
+                                                 Miss A. L.
+Little Pines        Little Pines   Battleford{              }20 16        36    29         18 12 3 3 ... ...
+                                                 Cunningham
+                                                 Miss I. M.
+...                 ...            {                          }     ...   ...   ...        ...   ... ... ... ... ...
+                                                 Faithfull
+                                                 Henry
+Red Pheasant        Red Pheasant Battleford                   12    11    23    11         17 6 ... ... ... ...
+                                                 Reynolds
+                                                 Miss A. D.
+Thunderchild        Thunderchild ...                          18    13    31    27         12 8 11 ... ... ...
+                                                 Wrigley
+                                                 H.
+Ahtahkakoops        Ahtahkakoops Carlton                      7     7     14    7          2     2 6 3 1 ...
+                                                 Hutchinson
+                                                 John R.
+Big River           Big River      Carlton                    10    15    25    13         11 5 8 1 ... ...
+                                                 Settee
+                                                 Mrs. K.
+*Mistawassis        Mistawassis    Carlton                    2     5     7     5          6     ... ... 1 ... ...
+                                                 Leclair
+Montreal Lake       Montreal Lake Carlton        J. L. Lowe   21    18    39    26         20 8 6 5 ... ...
+                    William                      Henry W.
+Sturgeon Lake                      Carlton                    7     8     15    8          6     4 1 2 2 ...
+                    Twatt's                      Shaw
+                                                 Mrs. M.
+Ft. a la Corne South James Smith   Duck Lake                  15    15    30    23         29 1 ... ... ... ...
+                                                 Burbridge
+                                                 E. B.
+James Smith         James Smith    Duck Lake                  7     7     14    8          5     5 2 ... 2 ...
+                                                 Goodman
+                                                 Rev. G. J.
+John Smith          John Smith     Duck Lake                  10    6     16    8          8     ... 5 2 1 ...
+                                                 Waite
+                                   Moose         Rev. C. B.
+White Bear's        White Bear's                              15    7     22    13         12 4 5 1 ... ...
+                                   Mountain      Kerr
+                                   Moose         Mrs. A. L.
+Whitecap Sioux      Moose Woods                               3     10    13    8          8     3 1 1 ... ...
+                                   Woods         Fakeley
+                                   Onion
+Cold Lake           Cold Lake                    Chas. Hebert }20 6       26    13         7     6 6 7 ... ...
+                                   Lake{
+                                                 Mrs. Chas.
+...                 ...            {                          }     ...   ...   ...        ...   ... ... ... ... ...
+                                                 Hebert
+                                                 A. E.
+Frog Lake           Frog Lake      Onion Lake                 13    11    24    11         10 3 10 1 ... ...
+                                                 Peterson
+                                   Onion
+Long Lake           Keechewin's                  J. P. Dion   }9    7     16    7          9     3 4 ... ... ...
+                                   Lake{
+                                                 Mrs. J. F.
+...                 ...            {                          }     ...   ...   ...        ...   ... ... ... ... ...
+                                                 Dion
+                                                 Mrs. D. R.
+Cote's              Cote's         Pelly{                     }20 8       28    20         15 9 1 3 ... ...
+                                                 Fraser
+
+<!-- page 86 -->
+                                                Miss C.
+...                   ...            {                         }     ...   ...   ...   ...   ... ... ... ... ...
+                                                Templeton
+Keeseekouse           Keeseekouse    Pelly      Geo. Barton    9     5     14    8     8     4 2 ... ... ...
+                                                W. J. D.
+Key's                 Key's          Pelly                     5     4     9     6     4     ... 2 2 1 ...
+                                                Kerley
+                                     Touchwood Mrs. L. M.
+Day Star's            Day Star's                               9     5     14    12    6     4 4 ... ... ...
+                                     Hills     Jolly
+                                     Touchwood Rev. A. J.
+Fishing Lake          Fishing Lake                             13    9     22    15    7     8 7 ... ... ...
+                                     Hills     Lawes
+                      Pelican        Treaty     R. B.
+Pelican Narrows                                                11    10    21    15    21 ... ... ... ... ...
+                      Narrows        No. 10     Horsefield
+                                     Treaty
+Stanley               Stanley                   J. I. Strong   18    15    33    13    32 ... 1 ... ... ...
+                                     No. 10
+Total Saskatchewan ...               ...        ...            285 236 521       316   290 95 90 39 7 ...
+[*This school closed
+                     ...             ...        ...            ...   ...   ...   ...   ...   ... ... ... ... ...
+June 30, 1926.]
+ALBERTA               ...            ...        ...            ...   ...   ...   ...   ...   ... ... ... ... ...
+                                                Mildred
+*Samson's             Samson's       Hobbema                   7     6     13    3     10 2 1 ... ... ...
+                                                Logan
+                                                Miss W.
+Sarcee                Sarcee         Sarcee                    7     20    27    19    4     3 ... 10 7 3
+                                                Tims
+Total, Alberta       ...             ...        ...            14    26    40    22    14 5 1 10 7 3
+[*This school closed
+                     ...             ...        ...            ...   ...   ...   ...   ...   ... ... ... ... ...
+June 30, 1926.]
+NORTHWEST
+                      ...            ...        ...            ...   ...   ...   ...   ...   ... ... ... ... ...
+TERRITORIES
+                                     Fort       Rev. E.
+Aklavik               At Aklavik                               4     4     8     5     2     3 2 1 ... ...
+                                     Simpson    Hester
+                      At Fort        Fort       Rev. S. C.
+Fort McPherson                                                 ...   10    10    8     3     7 ... ... ... ...
+                      McPherson      Simpson    Deacon
+                      At Fort        Fort       Sr. A.
+Fort Simpson                                                   13    15    28    23    11 7 1 4 5 ...
+                      Simpson        Simpson    Gamache
+                      At St. David's Fort       Rev. F. C.
+St. David's Mission                                            ...   2     2     1     2     ... ... ... ... ...
+                      Mission        Simpson    Clark
+Fort Smith            At Fort Smith Fort Smith Sr. Godbois     3     4     7     4     1     2 3 1 ... ...
+Total, Northwest
+                      ...            ...        ...            34    61    95    63    33 24 7 16 12 ...
+Territories
+
+<!-- page 87 -->
+                                                                               Average
+School           Reserve     Agency        Teacher           Number on Roll                 Standard
+                                                                               Attendance
+...              ...         ...           ...               Boys Girls Total ...           I   II III IV V VI
+BRITISH
+COLUMBIA         Fort Babine Babine        J. F. Morrissey   20    28    48    16           22 17 3 3 3 ...
+Fort Babine
+Glen Vowell      Secedach    Babines       R. Boyes        10      9     19    5            13 2 3 1 ... ...
+Hazelton         Hazelton    Babine        Mrs. E. Dungate 15      14    29    16           17 8 ... 4 ... ...
+Kispiox          Kispiox     Babine        Miss L. Morrice 13      21    34    10           25 5 1 2 1 ...
+                                           Miss M. B.
+Kitsegukla       Kitsegulka Babine                           14    14    28    10           14 3 6 5 1 ...
+                                           Wright
+Kitwanga         Kitwanga    Babine        S. Kinley         21    20    41    13           18 15 5 2 1 ...
+                                           Sydney
+Rocher Deboule Hagwilget     Babine{                         }12 8       20    16           8 1 5 4 2 ...
+                                           Browning
+                                           Mrs. S.
+...              ...         {                               }     ...   ...   ...          ... ... ... ... ... ...
+                                           Browning
+Bella Bella      Bella Bella Bella Coola   Miss B. Spencer 21      21    42    7            35 4 1 1 1 ...
+                                           Mrs. I.
+Bella Coola      Bella Coola Bella Coola                     14    13    27    12           15 5 6 1 ... ...
+                                           Snodgrass
+Kitamat          Kitamat     Bella Coola   Miss H. J. Hare 19      20    39    14           18 7 6 6 2 ...
+Klemtu           Klemtu      Beela Coola   Miss B. Rendle 11       13    24    15           15 2 3 4 ... ...
+Cowichan         Cowichan    Cowichan      J. P. P. Le Jeune 12    15    27    6            25 2 ... ... ... ...
+                                           Miss M. K.
+Koksilah         Koksilah    Cowichan                        7     18    25    7            19 2 4 ... ... ...
+                                           Dookstader
+                                           Miss E. S.
+Nanaimo          Nanaimo     Cowichan                        27    14    41    27           23 5 5 5 1 2
+                                           Klippert
+Songhees         Somenos     Cowichan      Miss J. Hindle    5     12    17    7            9 3 3 1 ... 1
+                 Nicola
+Shulus                       Kamloops      A.V. Fyall        7     9     16    8            9 2 5 ... ... ...
+                 Mameet
+Alert Bay        Nimkish     Kwawkwelth G. M. Luther         16    14    30    21           23 1 2 3 1 ...
+                 Cape
+Cape Mudge                   Kwawkwelth Mrs. F. Howard 11          13    24    17           14 2 2 5 1 ...
+                 Mudge
+                                           Miss L.
+Boothroyd        Boothroyd   Lytton                          5    7      12    10           1 2 5 2 2 ...
+                                           Blachford
+                 Seabird                   Miss M. E.
+Seabird Island               Lytton                          8    7      15    8            9 5 1 ... ... ...
+                 Island                    Carpentier
+Seton Lake       Seton Lake Lytton         S. F. Finnegan    5    7      12    8            4 2 ... 2 4 ...
+                             New
+Chehalis         Chehalis                 J. W. Burns        12   13     25    15           15 ... 8 2 ... ...
+                             Westminister
+                             New
+Katzie           Katzie                    Miss M. Boeur     6    5      11    8            4 3 2 1 1 ...
+                             Westminster
+                             New
+Skwah            Skwah                     J. J. Maroney     15   12     27    21           8 9 4 6 ... ...
+                             Westminster
+Okanagan         Okanagan    Okanagan      Wm. Marsden       12   8      20    9            3 8 7 2 ... ...
+
+<!-- page 88 -->
+                                           Miss M.
+Osoyoos          Osoyoos      Okanagan                      7    3     10    8     5 ... 3 1 ... 1
+                                           Waddell
+Penticton        Penticton    Okanagan     Miss H. Pelter   8    6     14    7     1 3 7 3 ... ...
+                              Queen
+Massett          Massett                   L. H. Baillie    }52 38     90    39    74 9 7 ... ... ...
+                              Charlotte{
+...              ...          {            Peter Hill       }    ...   ...   ...   ... ... ... ... ... ...
+                              Queen
+Skidegate        Skidegate                 Miss C. Bertrand 23   20    43    26    24 8 3 8 ... ...
+                              Charlotte
+Gitladamicks     Kitladamax Skeena         Paul Mercer      20   16    36    22    26 6 4 ... ... ...
+Hartley Bay      Hartley Bay Skeena        James Oliver     13   7     20    10    16 2 2 ... ... ...
+                                           Miss S.
+Kincolith        Kincolith    Skeena                        28   21    49    21    43 4 2 ... ... ...
+                                           Shopland
+Kitkatla         Kitkatla     Skeena       Edgar Hooper     28   24    52    19    7 10 9 9 17 ...
+                                           Chas. M.
+Kitselas         Kitselas     Skeena                        7    13    20    8     8 6 3 3 ... ...
+                                           McKinnon
+Lakaslap         Lakaslap     Skeena       Frederick Job    21   20    41    25    35 4 1 1 ... ...
+Metlakatla       Metlakatla   Skeena       T. A. Bryant     15   16    31    14    8 5 8 7 2 1
+                 Port                      Miss A. H.
+Port Essington                Skeena                        11   17    28    16    7 1 7 11 ... 2
+                 Essington                 Roode
+                 Port
+Port Simpson                  Skeena{      Miss A. MacKay }38 42       80    31    25 26 10 6 6 7
+                 Simpson
+                                           Miss H.
+...              ...          {                             }    ...   ...   ...   ... ... ... ... ... ...
+                                           Nightingale
+Atlin            Atlin        Stikine      K. V. Meagher    6    8     14    6     14 ... ... ... ... ...
+Homalco          Aupe         Vancouver{   A. H. Garland    } 15 11    26    15    24 2 ... ... ... ...
+                                           Mrs. A. H.
+...              ...          {                             }    ...   ...   ...   ... ... ... ... ... ...
+                                           Garland
+Sliammon         Sliammon     Vancouver    B. Nicholson     7    10    17    8     8 5 4 ... ... ...
+
+<!-- page 89 -->
+                                                                                                Average
+School                    Reserve               Agency      Teacher        Number on Roll                       Standard
+                                                                                                Attendance
+...                       ...                   ...         ...            Boys Girls Total ...                 I     II    III IV V VI
+                                                            Sr. Mary
+Squamish                  Squamish              Vancouver                  8     18     26      18              21 ...      2     2     1 ...
+                                                            Amy
+                                                West        Donald
+*Ucluelet                 Itedse                                           16    12     28      18              23 2        2     1     ... ...
+                                                Coast       McDevitt
+Total, British
+                          ...                   ...         ...            641 637 1,278 617                    735 208 161 114 46 14
+Columbia
+[*Reopened -
+                          ...                   ...         ...            ...   ...    ...     ...             ...   ...   ...   ...   ... ...
+January 1927.]
+YUKON                     At Old Crow                       A. C.
+                                                Yukon                      12    9      21      15              9     5     7     ...   ... ...
+Old Crow Village          Village                           McCullam
+                          At Champagne                      A. J.
+Champagne Landing                               Yukon                      26    23     49      10              49 ...      ...   ...   ... ...
+                          Landing                           Stringer
+                                                            G. C.
+Little Salmon             At Tittle Salmon Yukon                           25    7      32      5               13 13 4           1     1 ...
+                                                            Ashbee
+                                                            W. D.
+Moosehide                 At Moosehide          Yukon                      10    14     24      9               13 10 1           ...   ... ...
+                                                            Young
+                                                            Miss K.
+Selkirk                   At Selkirk            Yukon                      11    9      20      6               20 ...      ...   ...   ... ...
+                                                            Martin
+Teslin Lake               At Teslin Lake        Yukon       A. H. Davis 21 12           33      17              26 5 2 ...              ... ...
+Total, Yukon              ...                   ...         ...         105 74          179     62              130 33 14 1             1 ...
+
+STATEMENT OF Indian Residential Schools in the Dominion for the Fiscal Year ended March 31, 1927
+
+                 Post
+                                                                                                      Average
+School           Office         Agency    Principal         Denomination Number on Roll                          Standard
+                                                                                                      Attendance
+                 Address
+Boys             Girls          Total     ...               I               II         III IV         V          VI
+                                                            Rev. A
+                 Albany         Fort                                        Roman
+ONTARIO                                   Treaty No. 9      Bilodeau,O.              10 20            30         30 19 7          3     1     ...
+                 Mission        Albany                                      Catholic
+                                                            M. I.
+                 Indian
+Cecilia                                   Rev. A. D.
+                 Bay,     Kenora                            Presbyterian    30         40 70          63         23 14 12 14 6                1
+Jeffrey                                   Menzies
+                 Manitoba
+                                          Rev. G. T.        Church of
+Chapleau         Chapleau Chapleau                                          68         44 112         103        58 13 19 14 6                2
+                                          Snowden           England
+                                          Rev. S.
+                 Fort           Fort                        Roman
+Fort Frances                              Perreault, O.                     37         56 93          88         31 9       18 17 4           14
+                 Frances        Frances                     Catholic
+                                          M. I.
+                 Fort           Fort                        Roman
+Fort William                            Sr. Veronica                        25         22 47          30         31 4       8     1     3     ...
+                 William        William                     Catholic
+                                          Rev. J. F.
+                                                            Roman
+Kenora           Kenora         Kenora    Bailhiddenon,                     31         45 76          69         33 17 7          9     4     6
+                                                            Catholic
+                                          O. M. I.
+
+<!-- page 90 -->
+                         Six                         Church of
+Mohawk       Brantford             Sydney Rogers                   54    85 139    125     9   24 33 28 10 35
+                         Nations                     England
+             Moose       Treaty    Rev. J. A.        Church of
+Moose Fort                                                         17    16 33     29      19 3     6     2     3     ...
+             Fort        No. 9     Maggrah           England
+                         Treaty    Rev. S. R.        United
+Mount Elgin Muncey                                                 69    69 138    130     24 38 27 41 8              ...
+                         No. 9     McVitty           Church
+                                   Rev. C.          Roman
+McIntosh     McIntosh Savanne                                      23    27 50     38      50 ...   ...   ...   ...   ...
+                                   Perreault,O.M.I. Catholic
+                        Sault
+             Sault Ste.            Rev. B. P.        Church of
+Shingwauk               Ste.                                       30    48 78     73      9   5    11 18 27 8
+             Marie                 Fuller            England
+                        Marie
+                         Sault
+                                   Rev. Chas.        Roman
+Spanish      Spanish     Ste.                                      130   110 240   230     61 51 61 34 33 ...
+                                   Belanger, S. J.   Catholic
+                         Marie
+Total,
+             ...         ...       ...               ...           524   582 1,106 1,008   367 175 215 179 104 66
+Ontario
+MANITOBA
+         Birtle          Birtle    Rev. F. E. Pitts Presbyterian   31    59 90     84      13 19 11 9           14 24
+Birtle
+                                                     United
+Brandon      Brandon Birtle        Rev. T. Ferrier                 70    61 131    123     39 15 10 28 9              36
+                                                     Church
+                                Rev. G. E.
+             Cross       Norway                      Roman
+Cross Lake                      Trudeau,                           58    52 110    96      43 10 20 16 12 9
+             Lake        House                       Catholic
+                                O.M.I.
+

@@ -1,0 +1,78 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+Statement of Indian Day Schools in the Dominion (from which returns have been received) for the Fiscal Year ended March 31, 1918.
+
+NOTE - The 'Standard' indicates the classification of the pupils according to the reading-book used and, therefore, shows the degree of general
+advancement in all the studies prescribed by the curriculum, thus: -
+
+Standard I First Reader, Part I
+Standard II First Reader, Part II
+Standard III Second Reader
+Standard IV Third Reader
+Standard V Fourth Reader
+Standard VI Fifth Reader
+
+                                                                                                     Average
+School.          Reserve.           Agency.           Teacher.    Denomination. Number on Roll.                  Standard.              ...
+                                                                                                     Attendance.
+...              ...                ...               ...         ...           Boys. Girls. Total. ...          I     II III IV V VI ...
+
+NOVA             ...                ...               ...         ...           ...    ...   ...     ...         ...   ... ... ... ... ... NOVA
+SCOTIA.                                                                                                                                    SCOTIA.
+                                    Antigon'h         Wm. J.      Roman
+Afton            Afton                                                          11     9     20      10          6     2 8 4 ... ... Afton
+                                    County            Rogers      Catholic
+                                    Cape Breton       James       Roman
+Eskasoni         Eskasoni                                                       14     11    25      11          11 8 2 2 2 ... Eskasoni
+                                    County            McNeil      Catholic
+                                    Cape Breton       Miss C.     Roman
+Sydney           Sydney                                                         13     12    25      12          11 7 4 3 ... ... Sydney
+                                    County            Gallagher   Catholic
+                                    Colchester        Miss Jessie Roman
+Millbrook        Millbrook                                                      6      8     14      7           10 2 2 ... ... ... Millbrook
+                                    County            Scott       Catholic
+                 Franklin        
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+   83    80    17 19 23 16 7 1 8           2     ...   ...   ...   Kuper Island
+                Cowichan    Guerts
+                Agency
+                2 1/2 miles
+                             Rev.
+                from Lytton,
+Lytton                       Leonard     Ch. of England   54    32    86    59    29 15 19 20 1 2 16          15    9     9     ...   Lytton
+                Lytton
+                             Dawson
+                Agency
+                At Williams
+                Lake, 4
+                miles from Rev. E.
+Williams Lake   Sugar Cane Maillard,     Roman Catholic   36    39    75    70    16 18 13 6     13 9 4       2     3     ...   ...   Williams Lake
+                Reserve,     O.M.I.
+                Williams
+                Lake Agency
+Total British                                                                                                                         Total British
+                ...         ...          ...              348   253   601   531   174 133 112 77 61 44 109    57    50    25    ...
+Columbia                                                                                                                              Columbia
+
+
+
+=== EXTRACT FROM HERE (pages 137-138) ===
+<!-- page 137 -->
+Table, see page 94
+
+<!-- page 138 -->
+STATEMENT showing the Enrolment, by Provinces, in the different Classes of Schools, during the Fiscal Year ended March 31, 1918.
+
+              Number                                                                                                    Percentage
+                                                                                                            Average
+Province.     of       Denomination.                                                    Number on roll.                 of          Standard.                           Province.
+                                                                                                            Attendance.
+              Schools.                                                                                                  Attendance.
+                                           Church
+                      Undenom- Roman                                         Salvation
+...           ...                          of       Methodist. Presbyterian.           Boys. Girls. Total. ...          ...         I     II    III   IV V        VI ...
+                      inational. Catholic.                                   Army.
+                                           England.
+

@@ -1,0 +1,213 @@
+year,agency_id,agency_as_printed,school_age,enrolled_day,avg_attendance_day,attending_residential,residential_schools,page,paper_id,ok
+1910,AG-bersimis-agency,Bersimis Agency,103,40,17,0,,448,,True
+1910,AG-maria-agency,Maria Agency,25,24,14,0,,448,,True
+1910,AG-timiskaming-agency,Timiskaming Agency,49,44,28,0,,448,,True
+1910,AG-christian-island-agency,Christian Island Agency,56,41,16,0,,454,,True
+1910,AG-gore-bay-agency,Gore Bay Agency,102,71,33,0,,454,,True
+1910,AG-mississaguas-of-the-credit-agency,Mississaguas Of The Credit Agency,38,26,11,0,,454,,True
+1910,AG-moose-mountain-agency,Moose Mountain Agency,30,27,20,0,,486,,True
+1910,AG-touchwood-agency,Touchwood Agency,142,31,17,0,,486,,True
+1910,AG-babine-agency,Babine Agency,615,217,99,0,,510,,True
+1910,AG-west-coast-agency,West Coast Agency,393,92,36,0,,510,,True
+1910,AG-kwawkewlth-agency,Kwawkewlth Agency,187,61,22,0,,510,,True
+1911,AG-bersimis-agency,Bersimis Agency,120,65,20,0,,460,,True
+1911,AG-timiskaming-agency,Timiskaming Agency,57,33,22,0,,460,,True
+1911,AG-gore-bay-agency,Gore Bay Agency,105,70,33,0,,466,,True
+1911,AG-manitowaning-agency,Manitowaning Agency,424,146,72,0,,466,,True
+1911,AG-rice-mud-lake-agency,Rice And Mud Lake Agency,43,41,19,0,,466,,True
+1911,AG-saugeen-agency,Saugeen Agency,70,76,52,0,,466,,True
+1911,AG-scugog-agency,Scugog Agency,8,16,10,0,,466,,False
+1911,AG-sturgeon-falls-agency,Sturgeon Falls Agency,97,109,65,0,,466,,True
+1911,AG-thessalon-agency,Thessalon Agency,86,144,51,0,,466,,False
+1911,AG-norway-house-agency,Norway House Agency,692,475,183,0,,490,,True
+1911,AG-assiniboine-agency,Assiniboine Agency,56,26,13,6,Qu'Appelle industrial school 6,503,,True
+1911,AG-carlton-agency,Carlton Agency,217,126,50,0,,503,,True
+1911,AG-battleford-agency,Battleford Agency,146,66,27,0,,503,,True
+1911,AG-moose-mountain-agency,Moose Mountain Agency,30,24,18,0,,503,,True
+1911,AG-touchwood-agency,Touchwood Agency,236,29,18,0,,503,,True
+1911,AG-blackfoot-agency,Blackfoot Agency,123,20,5,0,,518,,True
+1911,AG-hobbema-agency,Hobbema Agency,153,41,14,0,,520,,True
+1911,AG-west-coast-agency,West Coast Agency,389,110,29,0,,534,,True
+1911,AG-new-westminster-agency,New Westminster Agency,413,55,33,0,,534,,True
+1911,AG-kwawkewlth-agency,Kwawkewlth Agency,175,84,32,0,,534,,True
+1911,AG-bella-coola-agency,Bella Coola Agency,230,208,72,0,,534,,True
+1911,AG-nass-agency,Nass Agency,437,291,81,0,,534,,True
+1912,AG-bersimis-agency,Bersimis Agency,118,68,32,50,Mount Elgin Institute 10; Wikwemikong 39; Shingwauk Home 1,487,,True
+1912,AG-maria-agency,Maria Agency,29,30,17,0,,487,,True
+1912,AG-pierreville-agency,Pierreville Agency,75,84,58,0,,487,,True
+1912,AG-restigouche-agency,Restigouche Agency,105,78,48,0,,487,,True
+1912,AG-st-regis-agency,St. Regis Agency,304,209,95,0,,487,,True
+1912,AG-timiskaming-agency,Timiskaming Agency,55,2,43,0,,487,,False
+1912,AG-alnwick-agency,Alnwick Agency,50,42,19,0,,497,,True
+1912,AG-cape-croker-agency,Cape Croker Agency,69,66,42,0,,497,,True
+1912,AG-caradoc-agency,Caradoc Agency,234,161,74,0,,497,,True
+1912,AG-christian-island-agency,Christian Island Agency,48,40,14,0,,497,,True
+1912,AG-golden-lake-agency,Golden Lake Agency,40,33,17,0,,497,,True
+1912,AG-gore-bay-agency,Gore Bay Agency,106,72,36,0,,497,,True
+1912,AG-manitowaning-agency,Manitowaning Agency,434,149,72,0,,497,,True
+1912,AG-moraviantown-agency,Moraviantown Agency,62,61,25,0,,497,,True
+1912,AG-rama-agency,Rama Agency,60,68,29,0,,497,,True
+1912,AG-rice-mud-lake-agency,Rice And Mud Lake Agency,57,43,23,0,,497,,True
+1912,AG-sarnia-agency,Sarnia Agency,85,68,32,0,,497,,True
+1912,AG-saugeen-agency,Saugeen Agency,75,94,66,0,,497,,True
+1912,AG-scugog-agency,Scugog Agency,9,16,6,0,,497,,False
+1912,AG-sturgeon-falls-agency,Sturgeon Falls Agency,8,132,75,0,,497,,False
+1912,AG-walpole-island-agency,Walpole Island Agency,120,79,40,0,,497,,True
+1912,AG-birtle-agency,Birtle Agency,106,16,8,0,,532,,True
+1912,AG-clandeboye-agency,Clandeboye Agency,322,181,78,0,,532,,True
+1912,AG-norway-house-agency,Norway House Agency,710,220,85,0,,532,,True
+1912,AG-assiniboine-agency,Assiniboine Agency,26,23,13,4,Qu'Appelle industrial school 4,547,,True
+1912,AG-carlton-agency,Carleton Agency,481,121,56,0,,547,,True
+1912,AG-duck-lake-agency,Duck Lake Agency,207,86,53,0,,547,,True
+1912,AG-moose-mountain-agency,Moose Mountain Agency,36,28,19,0,,547,,True
+1912,AG-pelly-agency,Pelly Agency,144,11,9,0,,547,,True
+1912,AG-touchwood-agency,Touchwood Agency,135,26,16,0,,547,,True
+1912,AG-blackfoot-agency,Blackfoot Agency,118,17,6,0,,567,,True
+1912,AG-hobbema-agency,Hobbema Agency,168,28,17,0,,567,,True
+1912,AG-saddle-lake-agency,Saddle Lake Agency,171,23,8,0,,567,,True
+1912,AG-babine-agency,Babine Agency,372,252,107,0,,587,,True
+1912,AG-bella-coola-agency,Bella Coola Agency,257,202,98,0,,587,,True
+1912,AG-kwawkewlth-agency,Kwawkewlth Agency,188,71,23,0,,587,,True
+1912,AG-new-westminster-agency,New Westminster Agency,475,54,27,0,,587,,True
+1912,AG-queen-charlotte-agency,Queen Charlotte Agency,85,95,31,0,,587,,True
+1913,AG-caughnawaga-agency,Caughnawaga Agency,486,395,212,85,Mount Elgin institute 11; Wikwemikong Industrial School 72; Shingwauk Home 2,533,,True
+1913,AG-lake-st-john-agency,Lake St. John Agency,126,92,60,0,,533,,True
+1913,AG-maniwaki-agency,Maniwaki Agency,75,48,16,0,,533,,True
+1913,AG-maria-agency,Maria Agency,29,32,13,0,,533,,True
+1913,AG-pierreville-agency,Pierreville Agency,63,73,62,0,,533,,True
+1913,AG-st-regis-agency,St. Regis Agency,308,186,103,0,,533,,True
+1913,AG-timiskaming-agency,Timiskaming Agency,56,64,29,0,,533,,True
+1913,AG-alnwick-agency,Alnwick Agency,50,41,18,0,,546,,True
+1913,AG-cape-croker-agency,Cape Croker Agency,69,77,38,0,,546,,True
+1913,AG-caradoc-agency,Caradoc Agency,235,128,52,0,,546,,True
+1913,AG-christian-island-agency,Christian Island Agency,62,40,13,0,,546,,True
+1913,AG-fort-frances-agency,Fort Frances Agency,174,27,13,0,,546,,True
+1913,AG-georgina-island-agency,Georgina Island Agency,18,23,13,0,,546,,True
+1913,AG-gore-bay-agency,Gore Bay Agency,104,67,27,0,,546,,True
+1913,AG-manitowaning-agency,Manitowaning Agency,435,134,71,0,,546,,True
+1913,AG-moraviantown-agency,Moraviantown Agency,55,57,34,0,,546,,True
+1913,AG-mississaguas-of-the-credit-agency,Mississaugas Of The Credit Agency,37,26,16,0,,546,,True
+1913,AG-rama-agency,Rama Agency,70,70,28,0,,546,,True
+1913,AG-rice-mud-lake-agency,Rice And Mud Lake Agency,57,51,24,0,,546,,True
+1913,AG-sarnia-agency,Sarnia Agency,89,72,35,0,,546,,True
+1913,AG-saugeen-agency,Saugeen Agency,75,93,66,0,,546,,True
+1913,AG-sault-ste-marie-agency,Sault Ste. Marie Agency,192,134,54,0,,546,,True
+1913,AG-scugog-agency,Scugog Agency,11,13,5,0,,546,,True
+1913,AG-sturgeon-falls-agency,Sturgeon Falls Agency,91,131,84,0,,546,,False
+1913,AG-thessalon-agency,Thessalon Agency,89,106,49,0,,546,,True
+1913,AG-walpole-island-agency,Walpole Island Agency,108,82,38,0,,546,,True
+1913,AG-birtle-agency,Birtle Agency,103,13,7,0,,579,,True
+1913,AG-clandeboye-agency,Clandeboye Agency,346,151,64,0,,579,,True
+1913,AG-norway-house-agency,Norway House Agency,1051,170,71,0,,579,,True
+1913,AG-pas-agency,Pas Agency,201,137,60,0,,579,,True
+1913,AG-assiniboine-agency,Assiniboine Agency,29,25,14,3,Qu'Appelle Industrial School 3,591,,True
+1913,AG-battleford-agency,Battleford Agency,168,46,21,0,,591,,True
+1913,AG-carlton-agency,Carlton Agency,489,174,73,0,,591,,True
+1913,AG-duck-lake-agency,Duck Lake Agency,213,74,47,0,,591,,True
+1913,AG-moose-mountain-agency,Moose Mountain Agency,35,26,13,0,,591,,True
+1913,AG-pelly-agency,Pelly Agency,142,11,8,0,,591,,True
+1913,AG-touchwood-agency,Touchwood Agency,163,24,14,0,,591,,True
+1913,AG-hobbema-agency,Hobbema Agency,183,27,12,0,,606,,True
+1913,AG-babine-agency,Babine Agency,379,231,87,0,,626,,True
+1913,AG-bella-coola-agency,Bella Coola Agency,318,144,42,0,,626,,True
+1913,AG-cowichan-agency,Cowichan Agency,305,76,31,0,,626,,True
+1913,AG-kwawkewlth-agency,Kwawkewlth Agency,185,75,28,0,,626,,True
+1913,AG-lytton-agency,Lytton Agency,360,45,16,0,,626,,True
+1913,AG-queen-charlotte-agency,Queen Charlotte Agency,85,119,41,0,,626,,False
+1914,AG-eskasoni-agency,Eskasoni Agency,20,19,9,0,,464,,True
+1914,AG-sydney-agency,Sydney Agency,30,25,12,0,,470,,True
+1914,AG-caughnawaga-agency,Caughnawaga Agency,490,352,209,53,Mount Elgin Institute 8; Spanish River Industrial 42; Shingwauk Home 3,476,,True
+1914,AG-maniwaki-agency,Maniwaki Agency,56,34,20,0,,477,,True
+1914,AG-pierreville-agency,Pierreville Agency,75,83,66,0,,479,,True
+1914,AG-restigouche-agency,Restigouche Agency,110,80,48,0,,481,,True
+1914,AG-st-regis-agency,St. Regis Agency,312,226,127,17,Shingwauk Home 1; mount Elgin Institute 6; Spanish River Industrial 10,483,,True
+1914,AG-timiskaming-agency,Timiskaming Agency,55,91,68,0,,485,,False
+1914,AG-caradoc-agency,Caradoc Agency,233,178,72,0,,487,,True
+1914,AG-fort-frances-agency,Fort Frances Agency,179,12,4,0,,491,,True
+1914,AG-georgina-island-agency,Georgina Island Agency,25,23,14,0,,492,,True
+1914,AG-golden-lake-agency,Golden Lane Agency,40,34,18,0,,492,,True
+1914,AG-manitowaning-agency,Manitowaning Agency,430,180,91,0,,496,,True
+1914,AG-moraviantown-agency,Moraviantown Agency,55,59,29,0,,498,,True
+1914,AG-rice-mud-lake-agency,Rice And Mud Lake Agency,57,57,37,0,,502,,True
+1914,AG-saugeen-agency,Saugeen Agency,80,99,77,0,,502,,True
+1914,AG-sault-ste-marie-agency,Sault Ste. Marie Agency,188,153,92,0,,504,,True
+1914,AG-scugog-agency,Scugog Agency,9,6,5,0,,506,,True
+1914,AG-sturgeon-falls-agency,Sturgeon Falls Agency,102,125,68,0,,509,,True
+1914,AG-thessalon-agency,Thessalon Agency,91,83,52,0,,511,,True
+1914,AG-walpole-island-agency,Walpole Island Agency,127,87,39,20,Mount Elgin Institute 6; Shingwauk Home 14,514,,True
+1914,AG-clandeboye-agency,Clandeboye Agency,137,159,72,0,,516,,True
+1914,AG-fisher-river-agency,Fisher River Agency,501,244,93,0,,518,,True
+1914,AG-griswold-agency,Griswold Agency,66,19,12,0,,520,,True
+1914,AG-pas-agency,Pas Agency,184,177,69,0,,524,,True
+1914,AG-battleford-agency,Battleford Agency,180,78,31,0,,529,,True
+1914,AG-carlton-agency,Carlton Agency,194,137,65,0,,531,,True
+1914,AG-duck-lake-agency,Duck Lake Agency,233,95,43,0,,532,,True
+1914,AG-moose-mountain-agency,Moose Mountain Agency,36,25,12,1,Qu'Appelle industrial school 1,535,,True
+1914,AG-pelly-agency,Pelly Agency,149,29,16,0,,537,,True
+1914,AG-touchwood-agency,Touchwood Agency,160,18,8,0,,539,,True
+1914,AG-babine-agency,Babine Agency,384,315,129,0,,556,,True
+1914,AG-bella-coola-agency,Bella Coola Agency,319,231,88,0,,558,,True
+1914,AG-lytton-agency,Lytton Agency,510,38,17,0,,567,,True
+1914,AG-stikine-agency,Stickine Agency,116,48,12,0,,576,,True
+1915,AG-eskasoni-agency,Eskasoni Agency,19,18,10,0,,512,,True
+1915,AG-sydney-agency,Sydney Agency,27,22,12,0,,518,,True
+1915,AG-caughnawaga-agency,Caughnawaga Agency,494,370,264,57,Mount Elgin Industrial 3; Spanish River Industrial 52; Shingwauk Home 2,524,,True
+1915,AG-maniwaki-agency,Maniwaki Agency,70,44,22,0,,526,,True
+1915,AG-maria-agency,Maria Agency,30,29,22,0,,526,,True
+1915,AG-oka-agency,Oka Agency,99,90,73,18,Shingwauk Home 18,528,,True
+1915,AG-restigouche-agency,Restigouche Agency,106,80,45,0,,530,,True
+1915,AG-st-regis-agency,St. Regis Agency,318,218,129,12,Mount Elgin Institute 4; Spanish River industrial 8,531,,True
+1915,AG-alnwick-agency,Alnwick Agency,50,45,23,6,Mount Elgin Institute 6,533,,True
+1915,AG-timiskaming-agency,Timiskaming Agency,56,131,82,0,,533,,False
+1915,AG-caradoc-agency,Caradoc Agency,240,177,89,8,Mohawk Institute 8,536,,True
+1915,AG-georgina-island-agency,Georgina Island,20,25,16,5,Shingwauk Home 3; Mount Elgin industrial 2,542,,True
+1915,AG-gore-bay-agency,Gore Bay Agency,98,94,58,5,Shingwauk Home 5,544,,True
+1915,AG-manitowaning-agency,Manitowaning Agency,430,213,105,36,Shingwauk Home 3; Spanish River industrial 33,547,,True
+1915,AG-rama-agency,Rama Agency,65,52,34,0,,551,,True
+1915,AG-rice-lake-agency,Rice Lake Agency,63,59,35,0,,553,,True
+1915,AG-sarnia-agency,Sarnia Agency,88,79,40,18,Mount Elgin Institute 18,553,,True
+1915,AG-sault-ste-marie-agency,Sault Ste. Marie Agency,192,149,81,15,Spanish River industrial 15,555,,True
+1915,AG-scugog-agency,Scugog Agency,6,6,4,0,,557,,True
+1915,AG-sturgeon-falls-agency,Sturgeon Falls Agency,101,125,77,0,,561,,True
+1915,AG-thessalon-agency,Thessalon Agency,96,72,47,0,,562,,True
+1915,AG-tyendinaga-agency,Tyendinaga Agency,277,150,56,24,Mohawk Institute 19; Mount Elgin industrial 5,564,,True
+1915,AG-norway-house-agency,Norway House Agency,736,272,110,21,Elkhorn industrial 2; Brandon industrial 19,572,,True
+1915,AG-duck-lake-agency,Duck Lake Agency,221,93,57,5,Qu'Appelle industrial 1; Brandon industrial 4,588,,True
+1915,AG-moose-mountain-agency,Moose Mountain Agency,27,28,17,4,Qu'Appelle industrial 4,590,,True
+1915,AG-pelly-agency,Pelly Agency,146,40,25,30,Birtle boarding 21; Elkhorn industrial 1; Qu'Appelle industrial 8,593,,True
+1915,AG-touchwood-agency,Touchwood Agency,155,11,8,31,Qu'Appelle industrial 19; Elkhorn industrial 12,596,,True
+1915,AG-hobbema-agency,Hobbema Agency,160,23,11,26,Red Deer industrial 26,603,,True
+1915,AG-babine-agency,Babine Agency,389,318,143,4,Coqualeetza industrial 4,617,,True
+1915,AG-bella-coola-agency,Bella Coola Agency,299,255,94,6,Coqualeetza industrial 6,619,,True
+1915,AG-kwawkewlth-agency,Kwawkewlth Agency,198,47,19,2,Coqualeetza industrial 2,625,,True
+1915,AG-nass-agency,Nass Agency,461,205,75,0,,630,,True
+1915,AG-queen-charlotte-agency,Queen Charlotte Agency,146,130,43,25,Coqualeetza Industrial 25,638,,True
+1915,AG-stikine-agency,Stickine Agency,153,35,12,0,,639,,True
+1915,AG-stuart-lake-agency,Stuart Lake Agency,287,51,30,0,,640,,True
+1916,AG-eskasoni-agency,Eskasoni Agency,19,24,13,0,,506,,True
+1916,AG-bersimis-agency,Bersimis Agency,111,72,43,0,,517,,True
+1916,AG-maniwaki-agency,Maniwaki Agency,70,43,21,0,,517,,True
+1916,AG-maria-agency,Maria Agency,30,25,14,0,,517,,True
+1916,AG-oka-agency,Oka Agency,94,34,13,17,Shingwauk Home 17,517,,True
+1916,AG-pierreville-agency,Pierreville Agency,49,82,58,0,,517,,False
+1916,AG-restigouche-agency,Restigouche Agency,105,78,48,0,,517,,True
+1916,AG-alnwick-agency,Alnwick Agency,57,58,27,3,Mount Elgin Institute 3,525,,True
+1916,AG-cape-croker-agency,Cape Croker Agency,64,86,56,10,Spanish River industrial 10,525,,False
+1916,AG-christian-island-agency,Christian Island Agency,55,32,14,0,,525,,True
+1916,AG-georgina-island-agency,Georgina Island Agency,21,23,16,8,Shingwauk Home 2; Mount Elgin industrial 6,525,,True
+1916,AG-golden-lake-agency,Golden Lake Agency,38,30,17,0,,525,,True
+1916,AG-moraviantown-agency,Moraviantown Agency,55,79,35,8,Mohawk Institute 3; Mount Elgin industrial 5,525,,False
+1916,AG-new-credit-agency,New Credit Agency,48,32,16,10,Mohawk Institute 10,525,,True
+1916,AG-rama-agency,Rama Agency,53,35,23,4,"Mount
+Elgin industrial 4",525,,True
+1916,AG-rice-lake-agency,Rice Lake Agency,62,58,32,0,,525,,True
+1916,AG-sarnia-agency,Sarnia Agency,76,81,36,14,Mount Elgin industrial 13; Shingwauk Home 1,525,,True
+1916,AG-scugog-agency,Scugog Agency,6,6,3,0,,525,,True
+1916,AG-sturgeon-falls-agency,Sturgeon Falls Agency,96,120,76,2,Shingwauk Rome 2,525,,True
+1916,AG-griswold-agency,Griswold Agency,79,28,14,47,"Qu'Appelle industrial 12; Brandon industrial 5; Elkhorn
+industrial 10; Portage la Prairie boarding 15; Birtle boarding 5",546,,True
+1916,AG-assiniboine-agency,Assiniboine Agency,31,30,15,5,Qu'Appelle industrial 5,557,,True
+1916,AG-touchwood-agency,Touchwood Agency,156,11,8,7,Elkhorn industrial 7,557,,True
+1916,AG-hobbema-agency,Hobbema Agency,148,6,9,24,Red Deer industrial 24,569,,False
+1916,AG-stikine-agency,Stikine Agency,165,16,7,0,,582,,True
+1916,AG-stuart-lake-agency,Stuart Lake Agency,282,53,23,0,,582,,True

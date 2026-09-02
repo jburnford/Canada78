@@ -1,0 +1,111 @@
+=== TABLE HEADER (the column definitions of this census table, printed once at the start of the section; use to name the columns) ===
+<!-- page 806 -->
+400 00                         Band             25    26     51     27             13 18 16 ... 4 ... Moraviantown.
+200 00                         Vote             28    22     50     36             30 ... 16 ... ... 4 Moose Fort.
+300 00                         Band             16    9      25     14             8 5 9 3 ... ... Mud Lake.
+300 00                         Vote.            12    12     24     9              15 1 6 1 1 ... Muncey.
+300 00                         Vote.            3     4      7      3              2 1 2 ... 2 ... (ss)Naughton.
+300 00                         Band             19    16     35     14             11 5 4 12 3 ... New Credit.
+300 00                         Band             9     13     22     13             8 2 8 3 ... 1 Nipissing.
+300 00                         Vote.            15    13     28     16             25 1 2 ... ... ... Oneida No. 2.
+300 00                         Vote             21    9      30     20             20 7 1 2 ... ... Oneida No. 3.
+300 00                         Vote             17    7      24     10             12 12 ... ... ... ... Pic River.
+300 00                         Vote             18    9      27     12             14 6 2 1 4 ... Port Elgin.
+                               Band, $125;
+300 00                                          16    26     42     18             18 5 6 6 5 2 Rama.
+                               Vote, $175
+                                                                                                      River
+300 00                         Band             10    13     23     10             13 6 1 3 ... ...
+                                                                                                      Settlement.
+300 00                         Band             16    13     29     12             13 7 9 ... ... ... Ryerson.
+300 00                         Vote             13    9      22     16             6 7 8 1 ... ... Sagamook.
+350 00                         Band             9     12     21     12             10 4 4 3 ... ... Saugeen.
+                                                                                                       Scotch
+350 00                         Band             10    13     23     15             7 5 5 6 ... ...
+                                                                                                       Settlement.
+
+[*New school. Opened January 3, 1906.]
+
+[(t)Indian children attend white school.]
+
+[(
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+        27 4 ... ... ... ... Samson's.
+300 00                  Vote          13    11     24       24          24 ... ... ... ... ... St. Anthony's.
+                                                                                                (t)Upper Peace River
+300 00                  Vote          9     3      12       7           5 1 2 4 ... ... (Christ Church
+                                                                                                Mission).
+300 00                  Vote          10    11     21       7           21 ... ... ... ... ... Whitefish lake.
+                                                                                                  *Whitefish Lake (St.
+300 00                  Vote          19    8      27       9           16 8 2 1 ... ...
+                                                                                                  Andrews Mission.)
+                                                                                           (tt)White Whale
+300 00                  Vote          16    7      23       7           23 ... ... ... ... ...
+                                                                                           Lake.
+...                     ...           117   70     187      80          156 21 5 5 ... ... Total, Alberta.
+
+<!-- page 829 -->
+[*Closed during September quarter, 1905.]
+
+[(t)No return received for December quarter, 1905.]
+
+[(tt)Closed from December 31, 1905, on account of poor attendance.]
+
+
+
+=== EXTRACT FROM HERE (pages 830-831) ===
+<!-- page 830 -->
+School.                   District.                                                    Teacher.       Denomination.
+OUTSIDE TREATY
+                          ...                                                          ...            ...
+LIMITS.
+                                                                                       Miss F.        Church of
+Carcross                  Yukon District
+                                                                                       Hutchison      England
+                                                                                       Rev. W.G.      Church of
+Fort George               Fort George, James Bay District
+                                                                                       Walton         England
+                                                                                       Joseph H.
+Island Lake               At Island lake, Northwest Territories                                       Methodist
+                                                                                       Lowes
+                                                                                                      Church of
+Moosehide                 Yukon District                                               A.C. Field
+                                                                                                      England
+Providence Mission                                                                     Sister St.     Roman
+                          Fort Providence, Mackenzie River district, N.W.T.
+(Sacred Heart)                                                                         Elzear         Catholic
+                          At Ruperts House, James Bay district Fort Simpson,           Rev. James R. Church of
+Rupert's House
+                          McKenzie River district, N.W.T.                              Lucas         England
+Total, Outside Treaty     ...                                                          ...           ...
+
+NOTE. - The government paid $3,000 to provide for education in the Yukon district for the fiscal year 1905 - 6.
+
+<!-- page 831 -->
+Appropriation for Salary or From what
+                                              NUMBER ON ROLL.                   STANDARD.               School.
+yearly grant.               Fund paid.
+                                                                    Average
+...                           ...             Boys. Girls. Total.               I     II III IV V VI $ cts.
+                                                                    Attendance.
+                                                                                                          OUTSIDE
+...                           ...             ...    ...   ...      ...         ...   ... ... ... ... ... TREATY
+                                                                                                          LIMITS.
+...                           ...             5      5     10       8           2     4 1 2 1 ... Carcross.
+200 00                        Vote            46     45    91       53          91    ... ... ... ... ... Fort George.
+200 00                        Vote            10     7     17       6           17    ... ... ... ... ... Island Lake.
+...                           ...             7      12    19       10          1     4 5 7 2 ... Moosehide.
+                                                                                                          Providence
+200 00                        Vote            18     19    37       37          23    10 2 2 ... ... Mission
+                                                                                                          (Sacred Heart.)
+200 00                        Vote            31     38    69       53          69    ... ... ... ... ... Rupert's House.
+                                                                                                        St. David's
+200 00                        Vote            12     6     18       8           16 ... 2 ... ... ...
+                                                                                                        Mission.
+                                                                                                        Total, Outside
+...                           ...             129    132   261      175         219 18 10 11 3 ...
+                                                                                                        Treaty.
+
+NOTE. - The government paid $3,000 to provide for education in the Yukon district for the fiscal year 1905 - 6.
+

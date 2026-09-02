@@ -1,0 +1,27 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0598-school-statement	SCHOOL STATEMENT	598	603
+01	p0598-school-statement	SCHOOL STATEMENT	604	609
+02	p0598-school-statement	SCHOOL STATEMENT	610	615
+03	p0598-school-statement	SCHOOL STATEMENT	616	621
+04	p0598-school-statement	SCHOOL STATEMENT	622	626
+05	p0628-school-statement-concluded	SCHOOL STATEMENT - Concluded	628	632
+06	p0685-school-statement-concluded-bri	SCHOOL STATEMENT - Concluded — British Columbia	685	690
+07	p0685-school-statement-concluded-bri	SCHOOL STATEMENT - Concluded — British Columbia	691	696
+08	p0685-school-statement-concluded-bri	SCHOOL STATEMENT - Concluded — British Columbia	697	698
+09	p0698-school-statement-concluded-nor	SCHOOL STATEMENT - Concluded — North-West Territories	698	703
+10	p0698-school-statement-concluded-nor	SCHOOL STATEMENT - Concluded — North-West Territories	704	709
+11	p0710-school-statement-concluded-nor	SCHOOL STATEMENT - Concluded — North-West Territories	710	711
+12	p0759-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	759	762
+13	p0762-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	762	764
+14	p0766-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	766	768
+15	p0769-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	769	771
+16	p0772-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	772	774
+17	p0776-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	776	778
+18	p0784-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	784	785
+19	p0788-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	788	790
+20	p0796-school-statement-concluded-man	SCHOOL STATEMENT - Concluded — Manitoba	796	798
+21	p0868-school-statement-concluded-bri	SCHOOL STATEMENT - Concluded — British Columbia	868	868
+22	p0897-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	897	897
+23	p0898-school-statement-concluded-que	SCHOOL STATEMENT - Concluded — Quebec	898	898
+24	p0898-school-statement-concluded-new	SCHOOL STATEMENT - Concluded — New Brunswick	898	899
+25	p0900-school-statement-concluded-nov	SCHOOL STATEMENT - Concluded — Nova Scotia	900	900

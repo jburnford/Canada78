@@ -1,0 +1,133 @@
+=== TABLE HEADER (the column definitions of this table, printed once at the start of the statement; use to name the columns) ===
+SCHOOL STATEMENT
+
+STATEMENT Of Indian Day Schools in the Dominion for the Fiscal Year Ended March 31, 1930
+
+                                                         Number on Roll Average      Grades
+School         Reserve        Agency          Teacher
+                                                         Boys Girls Total Attendance I   II III IV V VI VII VIII IX
+PRINCE
+EDWARD         ...            ...             ...        ...   ...   ...   ...      ...   ... ... ... ... ... ...   ...   ...
+ISLAND
+                              P.E.I.          John J.
+Lennox Island Lennox Island                              14    20    34    21       14 11 4 3 2 ... ...             ...   ...
+                              Superintendency Sark
+NOVA
+               ...            ...             ...        ...   ...   ...   ...      ...   ... ... ... ... ... ...   ...   ...
+SCOTIA
+                                              Miss C.M.
+Afton          Afton          Antigonish Co             15     8     23    12       12 3 3 ... 2 ... 3              ...   ...
+                                              Kennedy
+                                              Miss M.
+Eskasoni       Eskasoni       Cape Breton                18    21    39    21       18 7 5 5 2 1 1                  ...   ...
+                                              MacNeill
+                                              Miss A.
+...            ...            ...                        ...   ...   ...   ...      ...   ... ... ... ... ... ...   ...   ...
+                                              MacNeill
+                                              Miss C.
+Sydney         Sydney         Cape Breton               18     10    28    17       10 4 5 7 2 ... ...              ...   ...
+                                              Gallagher
+                                              Mrs. E.
+Millbrook      Millbrook      Colchester                 11    10    21    14       6     2 2 4 5 1 1               ...   ...
+                                              Smith
+                                              Mrs. R.L.
+Bear River     Bear River     Digby                     10     9     19    13       5     1 4 2 1 4 2               ...   ...
+                                              Ford
+                                              Mrs. A.
+*Shubenacadie Indian Brook    Hants                      5     3     8     7        ...   2 ... 3 2 1 ...           ...   ...
+                                  
+
+=== CONTEXT (do NOT extract rows from this part; use only to identify the section headers in effect) ===
+               Sr. A.      Roman
+Aklavik             Aklavik      ...                                 26    18    44    42    14 5        13 12 ...         ...   ...   ...   ...
+                                             McQuillan   Catholic
+
+<!-- page 129 -->
+                     Fort         Fort       Sr. J.      Roman
+Fort Resolution                                                     26   49   75   55    53 9   3   6   1   3     ...   ...   ...
+                     Resolution   Resolution Dussault    Catholic
+                                  Fort       Rev. W.B.   Church
+Hay River            Hay River                                      16   20   36   28    18 4   9   4   1   ...   ...   ...   ...
+                                  Resolution Singleton   England
+                     Fort         Fort       Sister      Roman
+Providence Mission                                                  19   35   54   44    31 9   9   1   2   2     ...   ...   ...
+                     Providence   Resolution Sarrasin    Catholic
+Total, Northwest
+                     ...          ...        ...         ...        87   122 209   169   116 27 34 23 4     5     ...   ...   ...
+Territories
+
+
+
+=== EXTRACT FROM HERE (pages 130-130) ===
+<!-- page 130 -->
+                Post                                                   Number on Roll               Grades
+                                                                                         Average
+School          Office     Agency        Principal         Denomination
+                Address                                                 Boys Girls Total attendance I   II III IV V            VI VII VIII IX
+BRITISH
+         ...               ...           ...               ...         ...   ...   ...   ...     ...   ...   ...   ...   ...   ... ...   ...   ...
+COLUMBIA
+                                         Rev. W.R.         United
+Ahousaht        Ahousaht West Coast                                    23    20    43    42      11 4        7     5     9     6 1       ...   ...
+                                         Wood              Church
+                                                           United
+Alberni         Alberni    West Coast    Rev. F.E. Pitts               61    54    115   104     44 12 15 16 12 10 ...                   ...   ...
+                                                           Church
+                                                           Church of
+Alert Bay       Alert Bay Kwawkewlth F. Earl Anfield                   88    57    145   122     66 18 9           13 10 16 3            10    ...
+                                                           England
+                150 Mile   Williams      Rev. V. Rohr,     Roman
+Cariboo                                                                38    61    99    91      14 20 26 19 7                 13 ...    ...   ...
+                House      Lake          O.M.I             Catholic
+                                         Rev. V.         Roman
+Christie        Kakawis    West Coast                                  47    54    101   95      46 16 15 15 9                 ... ...   ...   ...
+                                         Rossier, O.S.B. Catholic
+                           New         Rev. G.H.           United
+Coqualeetza     Sardis                                                 123 114 237       207     76 36 48 27 10 13 4                     12    5
+                           Westminster Raley               Church
+                                         Rev. N.
+                                                           Roman
+Fraser Lake     Lejac      Stuart Lake   Coccola,                      80    90    170   165     53 40 24 16 25 8 ...                    4     ...
+                                                           Catholic
+                                         O.M.I.
+                                         Rev. J.         Roman
+Kamloops        Kamloops Kamloops                                      133 121 254       225     171 38 27 12 6                ... ...   ...   ...
+                                         Duplanil,O.M.I. Catholic
+                                                           United
+Kitamaat        Kitamaat   Bella Coola Miss M. Asson                   9     23    32    23      17 3        4     1     6     2 ...     ...   ...
+                                                           Church
+                                         Rev. J.M.
+                                                           Roman
+Kootenay        Cranbrook Kootenay       Patterson,                    37    49    86    71      21 23 10 21 7                 4 ...     ...   ...
+                                                           Catholic
+                                         O.M.I.
+                Kuper                    Rev. J. Guerts, Roman
+Kuper Island               Cowichan                                    51    50    101   93      24 33 20 14 10 ... ...                  ...   ...
+                Island                   O.M.I           Catholic
+                Port                     Miss A.S.         United
+Port Simpson               Skeena                                      ...   18    18    18      3     4     2     1     ...   6 2       ...   ...
+                Simpson                  Myles             Church
+                                                           Church of
+St. George's    Lytton     Lytton        Rev. A.R. Lett                87    87    174   154     91 23 11 13 15 9 5                      4     3
+                                                           England
+                                       Rev. E.
+St. Mary's      Mission    New                             Roman
+                                       Maillard,                       67    66    133   115     69 26 20 12 5                 1 ...     ...   ...
+Mission         City       Westminster                     Catholic
+                                       O.M.I.
+                                         Rev. J.
+                                                           Roman
+Sechelt         Sechelt    Vancouver     McCaffrey,                    42    44    86    80      19 14 19 5              17 4 6          2     ...
+                                                           Catholic
+                                         O.M.I.
+                North                    Sister Mary       Roman
+Squamish                  Vancouver                                    25    27    52    52      24 5        6     4     5     3 5       ...   ...
+                Vancouver                Amy               Catholic
+Total, British
+               ...         ...           ...               ...         911 935 1,846 1,657       749 315 263 194 158 95 26 38                  8
+Columbia
+YUKON          ...         ...           ...             ...           ...   ...   ...   ...     ...   ...   ...   ...   ...   ... ...   ...   ...
+                                                         Church of
+Carcross        Carcross   Yukon         Rev. J.H. Byrne               14    17    31    25      2     4     2     17 4        2 ...     ...   ...
+                                                         England
+

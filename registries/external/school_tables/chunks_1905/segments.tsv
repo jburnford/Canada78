@@ -1,0 +1,13 @@
+chunk	segment_id	heading	p_lo	p_hi
+00	p0802-school-statement	SCHOOL STATEMENT	802	807
+01	p0802-school-statement	SCHOOL STATEMENT	808	813
+02	p0802-school-statement	SCHOOL STATEMENT	814	819
+03	p0802-school-statement	SCHOOL STATEMENT	820	825
+04	p0802-school-statement	SCHOOL STATEMENT	826	831
+05	p0802-school-statement	SCHOOL STATEMENT	832	837
+06	p0802-school-statement	SCHOOL STATEMENT	838	838
+07	p0844-school-statement-northwest-ter	SCHOOL STATEMENT — Northwest Territories	844	848
+08	p0886-school-statement-northwest-ter	SCHOOL STATEMENT — Northwest Territories	886	887
+09	p0987-school-statement-quebec	SCHOOL STATEMENT — Quebec	987	988
+10	p0990-school-statement-nova-scotia	SCHOOL STATEMENT — Nova Scotia	990	990
+11	p0993-school-statement-british-colum	SCHOOL STATEMENT — British Columbia	993	993

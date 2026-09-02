@@ -1,0 +1,218 @@
+band_id,kind,name,province_pool,n_years,population_last
+band_c00057,treaty_total,Fort St. John - Beavers (adherents of Treaty No. 8),British Columbia,1,107.0
+band_c00062,unit,Babine and Upper Skeena River Agency,British Columbia,14,94.0
+band_c00067,unit,West Coast Agency,British Columbia,16,3895.0
+band_c00074,recap,British Columbia,British Columbia,10,25694.0
+band_c00129,unit,Cassiar District Agency,British Columbia,3,232.0
+band_c00168,unit,Cowichan Agency,British Columbia,15,8.0
+band_c00172,unit,Kootenay Agency,British Columbia,13,595.0
+band_c00186,unit,Williams Lake Agency,British Columbia,13,1995.0
+band_c00207,unit,Fraser River Agency,British Columbia,13,2848.0
+band_c00301,unit,Okanagan Agency,British Columbia,3,754.0
+band_c00971,unit,Eastern Athabasca District,Eastern Athabasca,1,881.0
+band_c00972,unit,Eastern Rupert's Land District,Eastern Rupert's Land,1,4016.0
+band_c00974,unit,From Mouth of Backs River and East to Wager River (District of Keewatin),Eskimos,1,700.0
+band_c00975,unit,From Chesterfield Inlet (District of Keewatin) to Churchill (Manitoba),Eskimos,1,900.0
+band_c00976,unit,Alaska Boundary and East to Kent Peninsula (MacKenzie District),Eskimos,1,1515.0
+band_c00978,unit,From Melville Peninsula to Fullerton (District of Keewatin),Eskimos,1,400.0
+band_c00980,unit,Coppermine River District (Mackenzie District),Eskimos,1,800.0
+band_c00986,unit,Herschel Island (Franklin District),Eskimos,1,37.0
+band_c00992,unit,Hudson's Bay District,Eskimos,2,1101.0
+band_c01012,unit,"Franklin District (formerly Arctic Coast, Esquimaux)",Franklin,1,2500.0
+band_c01013,unit,Franklin District (formerly Arctic Coast),Franklin District (formerly Arctic Coast),1,2500.0
+band_c01014,recap,Franklin district (formerly Arctic coast),Grand Recapitulation,1,2500.0
+band_c01015,recap,Nelson and Churchill Rivers District,Grand Recapitulation,1,852.0
+band_c01016,recap,Rivière Aux Liards District,Grand Recapitulation,1,377.0
+band_c01017,recap,Eastern Athabasca District,Grand Recapitulation,2,1239.0
+band_c01018,recap,Great Slave Lake District,Grand Recapitulation,1,1382.0
+band_c01019,recap,Upper McKenzie District,Grand Recapitulation,2,4149.0
+band_c01020,recap,Northwest Territories,Grand Recapitulation,4,21362.0
+band_c01021,recap,Prince Edward Island,Grand Recapitulation,4,274.0
+band_c01022,recap,Keewatin district,Grand Recapitulation,1,4464.0
+band_c01023,recap,British Columbia,Grand Recapitulation,4,14871.0
+band_c01024,recap,Yukon Territory,Grand Recapitulation,3,3302.0
+band_c01025,recap,Yukon District,Grand Recapitulation,1,2600.0
+band_c01026,recap,New Brunswick,Grand Recapitulation,4,1871.0
+band_c01027,recap,Saskatchewan,Grand Recapitulation,3,7971.0
+band_c01028,recap,Nova Scotia,Grand Recapitulation,4,2103.0
+band_c01029,recap,Manitoba,Grand Recapitulation,4,8327.0
+band_c01030,recap,Alberta,Grand Recapitulation,3,5541.0
+band_c01031,recap,Ontario,Grand Recapitulation,4,23898.0
+band_c01032,recap,Quebec,Grand Recapitulation,4,11523.0
+band_c01033,recap,Ungava,Grand Recapitulation,2,5060.0
+band_c01034,unit,Great Slave Lake District,Great Slave Lake,1,1915.0
+band_c01059,unit,Isle à la Crosse District,Isle à la Crosse,1,1999.0
+band_c01061,unit,Lower Mackenzie District,Lower Mackenzie,1,2058.0
+band_c01067,unit,Mackenzie District,Mackenzie,1,4149.0
+band_c01081,treaty_total,Treaty No. 3,Manitoba,14,33.0
+band_c01101,recap,Manitoba,Manitoba,11,12263.0
+band_c01181,treaty_total,Treaty No. 1,Manitoba,13,2515.0
+band_c01182,treaty_total,Treaty No. 2,Manitoba,13,744.0
+band_c01183,treaty_total,Treaty No. 4,Manitoba,3,1258.0
+band_c01184,treaty_total,Treaty No. 5,Manitoba,13,3921.0
+band_c01211,treaty_total,Chippewas and Salteaux and Crees of Treaty No. 4,Manitoba And The North-West Territories,7,4501.0
+band_c01212,treaty_total,"Chippewas, Saulteaux and Crees of Treaty No. 5",Manitoba And The North-West Territories,6,3081.0
+band_c01213,treaty_total,Chippewas and Salteaux of Treaty No. 3,Manitoba And The North-West Territories,7,2892.0
+band_c01214,treaty_total,Plain and Wood Crees of Treaty No. 6,Manitoba And The North-West Territories,7,5400.0
+band_c01215,treaty_total,Chippewas and Crees of Treaty No. 1,Manitoba And The North-West Territories,7,2427.0
+band_c01216,treaty_total,Chippewas and Crees of Treaty No. 2,Manitoba And The North-West Territories,6,697.0
+band_c01217,treaty_total,Chippewas and Crees of Treaty No.,Manitoba And The North-West Territories,1,692.0
+band_c01219,treaty_total,Blackfeet of Treaty No. 7,Manitoba And The North-West Territories,7,5217.0
+band_c01220,unit,Peace River District,Manitoba And The North-West Territories,5,2038.0
+band_c01222,unit,Athabasca District,Manitoba And The North-West Territories,5,8000.0
+band_c01225,unit,McKenzie District,Manitoba And The North-West Territories,5,7000.0
+band_c01229,recap,New Brunswick,Manitoba And The North-West Territories,1,150.0
+band_c01248,treaty_total,"Chippewas, Salteaux and Crees of Treaty No. 4",Manitoba And The Northwest Territories,1,4714.0
+band_c01249,treaty_total,"Chippewas, Salteaux and Crees of Treaty No. 5",Manitoba And The Northwest Territories,1,2977.0
+band_c01251,treaty_total,Plain and Wood Crees of Treaty No. 6,Manitoba And The Northwest Territories,1,5790.0
+band_c01252,treaty_total,Chippewas and Crees of Treaty No. 1,Manitoba And The Northwest Territories,1,2401.0
+band_c01253,treaty_total,Chippewas and Crees of Treaty No. 2,Manitoba And The Northwest Territories,1,688.0
+band_c01254,treaty_total,"Chippewas, Salteaux of Treaty No. 3",Manitoba And The Northwest Territories,1,2793.0
+band_c01256,treaty_total,Blackfeet of Treaty No. 7,Manitoba And The Northwest Territories,1,5868.0
+band_c01257,unit,Peace River District,Manitoba And The Northwest Territories,1,2038.0
+band_c01259,unit,Athabaska District,Manitoba And The Northwest Territories,1,8000.0
+band_c01260,unit,McKenzie District,Manitoba And The Northwest Territories,1,7000.0
+band_c01272,unit,Nelson and Churchill Rivers District,Nelson and Churchill Rivers,1,852.0
+band_c01300,unit,Northern Superintendency.,New Brunswick,1,
+band_c01312,unit,Northeastern Agency.,New Brunswick,1,
+band_c01313,unit,Southwestern Agency.,New Brunswick,1,
+band_c01323,recap,New Brunswick,New Brunswick,12,1604.0
+band_c01329,unit,AGENCIES.,New Brunswick,1,
+band_c01341,unit,Nelson and Churchill Rivers District,,1,852.0
+band_c01353,unit,Rivière Aux Liards District,,1,377.0
+band_c01355,unit,Eastern Athabasca District,,2,1239.0
+band_c01357,unit,Great Slave Lake District,,1,1382.0
+band_c01360,unit,Upper Mackenzie District,,2,4149.0
+band_c01364,recap,Northwest Territories,,1,17714.0
+band_c01365,recap,Prince Edward Island,,1,308.0
+band_c01375,recap,British Columbia,,1,24523.0
+band_c01391,recap,Yukon Territory,,1,3302.0
+band_c01400,unit,Yukon District,,1,2600.0
+band_c01410,recap,New Brunswick,,1,1639.0
+band_c01449,recap,Nova Scotia,,1,2018.0
+band_c01517,recap,Manitoba,,1,6754.0
+band_c01530,recap,Ontario,,1,20703.0
+band_c01541,recap,Quebec,,1,10785.0
+band_c01666,recap,Nova Scotia,Nova Scotia,12,1929.0
+band_c01677,unit,AGENCIES - Continued.,Nova Scotia,1,
+band_c01814,unit,"Franklin District (formerly Arctic Coast, Esquimaux)",Ontario,1,2500.0
+band_c01819,unit,Sault Ste. Marie Agency,Ontario,7,171.0
+band_c01830,treaty_total,Chippewas and Saulteaux of Treaty No. 3 at -,Ontario,11,
+band_c01859,unit,Parry Sound Superintendency,Ontario,2,
+band_c01886,unit,Christian Island Agency,Ontario,1,350.0
+band_c01912,treaty_total,"Indians of James Bay, Treaty No. 9 at: -",Ontario,4,
+band_c01920,unit,Sturgeon Falls Agency,Ontario,1,
+band_c01922,unit,Walpole Island Agency,Ontario,1,
+band_c01928,recap,Ontario,Ontario,10,26411.0
+band_c01933,unit,Fort Frances Agency,Ontario,1,
+band_c01936,unit,Manitowaning Agency,Ontario,1,
+band_c01943,unit,Athabaska district,Ontario,2,516.0
+band_c01945,unit,Cape Croker Agency,Ontario,1,
+band_c01946,unit,Golden Lake Agency,Ontario,1,
+band_c01948,unit,Lake Simcoe Agency,Ontario,1,
+band_c01950,unit,Mackenzie district,Ontario,2,4149.0
+band_c01954,unit,Port Arthur Agency,Ontario,1,
+band_c01964,unit,Keewatin district,Ontario,2,4464.0
+band_c01973,unit,Tyendinaga Agency,Ontario,1,
+band_c01986,unit,Rice Lake Agency,Ontario,1,28.0
+band_c02005,unit,Gore Bay Agency,Ontario,1,
+band_c02011,unit,Moravian Agency,Ontario,5,245.0
+band_c02012,unit,Mud Lake Agency,Ontario,1,
+band_c02019,unit,Ungava District,Ontario,1,5060.0
+band_c02021,recap,Yukon Territory,Ontario,1,3302.0
+band_c02025,unit,Alnwick Agency,Ontario,1,
+band_c02028,unit,Caradoc Agency,Ontario,1,
+band_c02041,unit,Saugeen Agency,Ontario,2,
+band_c02042,unit,Savanne Agency,Ontario,1,51.0
+band_c02063,unit,Rama Agency,Ontario,1,
+band_c02074,unit,Sarnia Agency,Ontario,1,
+band_c02075,unit,Scugog Agency,Ontario,1,40.0
+band_c02123,treaty_total,Treaty No. 10,Ontario,1,
+band_c02386,treaty_total,Treaty No. 10,Prairies/NWT,3,724.0
+band_c02388,unit,"Franklin District (formerly Arctic Coast, Esquimaux)",Prairies/NWT,8,2500.0
+band_c02408,treaty_total,Treaty No. 4,Prairies/NWT,15,471.0
+band_c02409,treaty_total,Moose Mountain Agency - Treaty No. 4,Prairies/NWT,1,189.0
+band_c02414,treaty_total,Crooked Lake Agency - Treaty No. 4,Prairies/NWT,1,945.0
+band_c02419,treaty_total,Assiniboine Agency - Treaty No. 4,Prairies/NWT,1,313.0
+band_c02420,recap,New Brunswick,Prairies/NWT,5,125.0
+band_c02424,treaty_total,Treaty No. 6,Prairies/NWT,14,677.0
+band_c02426,treaty_total,Battleford Agency - Treaty No. 6,Prairies/NWT,1,886.0
+band_c02427,unit,Athabaska District,Prairies/NWT,8,516.0
+band_c02431,recap,Saskatchewan,Prairies/NWT,9,10784.0
+band_c02433,treaty_total,Qu'Appelle Agency - Treaty No. 4,Prairies/NWT,1,860.0
+band_c02436,treaty_total,Treaty No. 7,Prairies/NWT,14,795.0
+band_c02443,treaty_total,Edmonton Agency - Treaty No. 6,Prairies/NWT,2,694.0
+band_c02449,recap,Ontario,Prairies/NWT,5,472.0
+band_c02451,treaty_total,Hobbema Agency - Treaty No. 6,Prairies/NWT,1,691.0
+band_c02460,treaty_total,Peigan Agency - Treaty No. 7,Prairies/NWT,1,493.0
+band_c02461,unit,Rivière Aux Liards District,Prairies/NWT,3,377.0
+band_c02464,treaty_total,Sarcee Agency - Treaty No. 7,Prairies/NWT,1,203.0
+band_c02471,unit,Eastern Athabaska District,Prairies/NWT,3,881.0
+band_c02474,unit,Lesser Slave Lake District,Prairies/NWT,3,1218.0
+band_c02478,unit,Rivière Athabaska District,Prairies/NWT,1,377.0
+band_c02485,unit,Great Slave Lake District,Prairies/NWT,3,1915.0
+band_c02491,unit,Saskatchewan Inspectorate,Prairies/NWT,1,8523.0
+band_c02507,unit,Mackenzie District,Prairies/NWT,8,4149.0
+band_c02508,unit,Not attached to Agencies,Prairies/NWT,1,262.0
+band_c02531,recap,Northwest Territories,Prairies/NWT,13,3764.0
+band_c02535,unit,Touchwood Hills Agency,Prairies/NWT,3,627.0
+band_c02538,unit,Albany River District.,Prairies/NWT,1,
+band_c02540,unit,Moose Mountain Agency,Prairies/NWT,2,198.0
+band_c02544,unit,Sarcee Agency,Prairies/NWT,8,193.0
+band_c02548,recap,Alberta,Prairies/NWT,8,9846.0
+band_c02552,unit,Crooked Lake Agency,Prairies/NWT,5,544.0
+band_c02557,unit,Peace River District,Prairies/NWT,3,893.0
+band_c02558,unit,Prince Albert Agency,Prairies/NWT,1,1687.0
+band_c02559,recap,Prince Edward Island,Prairies/NWT,4,288.0
+band_c02588,unit,James Bay District.,Prairies/NWT,1,
+band_c02598,unit,Peace Hills Agency,Prairies/NWT,1,843.0
+band_c02599,unit,Saddle Lake Agency,Prairies/NWT,2,787.0
+band_c02601,unit,Battleford Agency,Prairies/NWT,4,
+band_c02612,unit,Keewatin District,Prairies/NWT,6,4464.0
+band_c02616,unit,Qu'Appelle Agency,Prairies/NWT,3,
+band_c02624,recap,British Columbia,Prairies/NWT,4,25142.0
+band_c02630,unit,Fort Pitt Agency,Prairies/NWT,1,1123.0
+band_c02655,unit,Edmonton Agency,Prairies/NWT,2,689.0
+band_c02666,unit,Victoria Agency,Prairies/NWT,1,680.0
+band_c02668,recap,Yukon Territory,Prairies/NWT,2,3302.0
+band_c02669,unit,Carlton Agency,Prairies/NWT,3,
+band_c02685,unit,Yukon District,Prairies/NWT,5,3302.0
+band_c02690,unit,Birtle Agency,Prairies/NWT,2,
+band_c02741,unit,Stony Agency,Prairies/NWT,2,640.0
+band_c02761,recap,Nova Scotia,Prairies/NWT,4,1993.0
+band_c02772,treaty_total,Treaty No. 2,Prairies/NWT,1,203.0
+band_c02773,treaty_total,Treaty No. 8,Prairies/NWT,10,3784.0
+band_c02848,recap,Manitoba,Prairies/NWT,4,6870.0
+band_c02878,recap,Quebec,Prairies/NWT,4,11218.0
+band_c02915,recap,Prince Edward Island,Prince Edward Island,11,295.0
+band_c02919,treaty_total,Treaty No. 1,Province (If,1,2413.0
+band_c02923,unit,Babine and Upper Skeena River Agency.,Province Of,1,2898.0
+band_c02924,unit,Kamloops-Okanagan Agency,Province Of,1,3834.0
+band_c02925,unit,West Coast Agency,Province Of,1,4149.0
+band_c02927,unit,Williams Lake Agency,Province Of,1,1985.0
+band_c02928,unit,Kootenay Agency,Province Of,1,562.0
+band_c02929,unit,Kwakiutl Agency,Province Of,1,1359.0
+band_c02963,recap,Quebec,Quebec,12,13366.0
+band_c02970,unit,Lake of Two Mountains Agency,Quebec,1,
+band_c03045,unit,Jeune Lorette Agency,Quebec,1,
+band_c03049,unit,Caughnawaga Agency,Quebec,1,
+band_c03053,unit,Lake St. John Agency,Quebec,1,
+band_c03054,unit,Quebec Inspectorate,Quebec,1,11571.0
+band_c03057,unit,Restigouche Agency,Quebec,1,
+band_c03059,unit,Timiskaming Agency,Quebec,1,
+band_c03065,unit,St. Francis Agency,Quebec,1,
+band_c03066,unit,Abitibi District,Quebec,1,478.0
+band_c03067,unit,Becancour Agency,Quebec,2,
+band_c03073,unit,St. Regis Agency,Quebec,1,
+band_c03082,unit,Mingan Agency,Quebec,1,
+band_c03091,unit,Maria Agency,Quebec,1,
+band_c03094,unit,Viger Agency,Quebec,1,
+band_c03121,unit,Rivière Aux Liards District,Rivière Aux Liards,1,852.0
+band_c03128,recap,New Brunswick,Rupert's Land,1,150.0
+band_c03215,treaty_total,Treaty No. 10 Inspectorate,Treaty No. 10,1,728.0
+band_c03233,treaty_total,Treaty No. 8 Inspectorate,Treaty No. 8,2,4821.0
+band_c03272,treaty_total,Treaty No. 9 Inspectorate,Treaty No. 9,2,2634.0
+band_c03300,unit,Upper Mackenzie District,Upper Mackenzie,1,400.0
+band_c03318,unit,Hudson Bay District,Yukon,2,1101.0
+band_c03329,recap,Yukon,Yukon,8,1528.0
+band_c03349,recap,Yukon Territory,Yukon Territory,3,2367.0
