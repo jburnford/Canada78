@@ -6,3 +6,27 @@ site/
 eval/results/**/raw_*.txt
 eval/results/**/reasoning_*.txt
 eval/results/**/vllm-server-*.log
+.claude/settings.local.json
+# census transcription pilot: bulky downloads, all reproducible from Borealis / LAC
+registries/external/census1881/borealis/*.csv
+registries/external/census1881/census1881.parquet
+registries/external/census1881/images/
+registries/external/census1881/train/images/
+registries/external/census1871/images/
+registries/external/lac_census/**/*.csv
+registries/external/lac_census/**/*.parquet
+registries/external/lac_census/**/images/
+registries/external/census_samples/*.csv
+registries/external/census_samples/*.sav
+registries/external/census1881/train/*.jsonl
+registries/external/census1881/train_smoke/
+registries/external/census_samples/ccri1921/*.zip
+registries/external/census_samples/ccri1921/*.sav*
+registries/external/census_samples/ccri1921/unzipped/
+registries/external/census_samples/*.pdf
+registries/external/census_samples/chmp_codebook.txt
+registries/external/census_samples/ccri1921/*.parquet
+registries/external/census1931/reference.jsonl
+registries/external/census1931/images/
+registries/external/census1921/train/images/
+site_sessional/

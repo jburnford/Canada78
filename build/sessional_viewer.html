@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Sessional Papers of Canada, 1867–1900</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.jsdelivr.net/npm/pako@2.1.0/dist/pako.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<style>
+  :root { --ink:#222; --muted:#6b6b6b; --line:#ddd; --bg:#fafaf7; --accent:#7a2e1d; --chip:#eee; --warn:#b00020; --sec:#e8eef7; }
+  * { box-sizing: border-box; }
+  body { margin:0; font: 15px/1.45 Georgia, "Times New Roman", serif; color:var(--ink); background:var(--bg); }
+  header { display:flex; gap:1.2rem; align-items:baseline; padding:.6rem 1rem; border-bottom:1px solid var(--line); background:#fff; position:sticky; top:0; z-index:5; flex-wrap:wrap; }
+  header h1 { font-size:1.1rem; margin:0; font-weight:normal; }
+  header a, header button { font: inherit; font-size:.9rem; color:var(--accent); background:none; border:1px solid var(--line); border-radius:4px; padding:.15rem .5rem; cursor:pointer; text-decoration:none; }
+  header .status { margin-left:auto; color:var(--muted); font-size:.85rem; }
+  main { display:grid; grid-template-columns: 150px 1fr; min-height: calc(100vh - 3rem); }
+  nav { border-right:1px solid var(--line); padding:.5rem 0; background:#fff; overflow-y:auto; max-height: calc(100vh - 3rem); position:sticky; top:3rem; }
+  nav a { display:flex; justify-content:space-between; padding:.12rem .8rem; color:var(--ink); text-decoration:none; font-size:.9rem; }
+  nav a small { color:var(--muted); }
+  nav a.on { background:var(--accent); color:#fff; } nav a.on small { color:#f3dcd6; }
+  section#content { padding:1rem 1.5rem 4rem; max-width: 1150px; }
+  section#content.wide { max-width:none; }
+  h2 { font-weight:normal; font-size:1.3rem; margin:.2rem 0 .8rem; }
+  h2 a { color:var(--accent); text-decoration:none; }
+  h3 { font-weight:normal; font-size:1.05rem; margin:1.2rem 0 .4rem; color:var(--accent); border-bottom:1px solid var(--line); }
+  h4 { font-weight:normal; font-size:.9rem; margin:.8rem 0 .3rem; color:var(--muted); text-transform:uppercase; letter-spacing:.04em; }
+  .toolbar { display:flex; gap:.6rem; flex-wrap:wrap; align-items:center; margin:.4rem 0 1rem; font-size:.9rem; color:var(--muted); }
+  .toolbar button, .toolbar label { font: inherit; font-size:.85rem; border:1px solid var(--line); background:#fff; border-radius:4px; padding:.15rem .5rem; cursor:pointer; }
+  .toolbar a { color:var(--accent); }
+  article { background:#fff; border:1px solid var(--line); border-radius:4px; margin:0 0 .5rem; }
+  article > .head { display:grid; grid-template-columns: 3rem 1fr auto; gap:.4rem .6rem; padding:.45rem .8rem; align-items:start; }
+  article.has > .head { cursor:pointer; }
+  article > .head .n { color:var(--accent); font-size:.95rem; padding-top:.1rem; }
+  article > .head .title { font-size:1rem; }
+  article > .head .title b { font-weight:bold; }
+  article > .head .meta { color:var(--muted); font-size:.82rem; margin-top:.15rem; }
+  article > .head .pages { text-align:right; font-size:.82rem; white-space:nowrap; }
+  article > .head .pages a { color:var(--accent); text-decoration:none; margin-left:.3rem; }
+  .chip { display:inline-block; font-size:.72rem; background:var(--chip); border-radius:3px; padding:0 .35rem; margin-right:.3rem; color:#444; vertical-align:middle; text-decoration:none; }
+  .chip.sec { background:var(--sec); } .chip.warn { background:#fde8ea; color:var(--warn); } .chip.emb { background:#f0e6d2; } .chip.txt { background:#e3f1e4; color:#1d6b2e; }
+  a.chip:hover { text-decoration:underline; }
+  .body { display:none; border-top:1px solid var(--line); padding:.6rem 1rem 1rem 3.4rem; }
+  article.open .body { display:grid; grid-template-columns: 1fr 230px; gap:1rem; }
+  .text { max-width: 78ch; overflow-wrap:anywhere; }
+  .text h1,.text h2,.text h3,.text h4,.text h5,.text h6 { font-size:1.05rem; font-weight:bold; margin:.9rem 0 .3rem; color:var(--ink); border:0; text-transform:none; letter-spacing:0; }
+  .text table { border-collapse:collapse; font-size:.82rem; margin:.5rem 0; max-width:100%; display:block; overflow-x:auto; }
+  .text td,.text th { border:1px solid var(--line); padding:.1rem .35rem; vertical-align:top; }
+  .text img { display:none; }
+  .imgnote { color:var(--muted); font-style:italic; font-size:.85rem; }
+  .thumbs { position:sticky; top:3.5rem; align-self:start; font-size:.78rem; color:var(--muted); }
+  .thumbs a { display:block; margin-bottom:.5rem; color:inherit; text-decoration:none; }
+  .thumbs img { width:100%; border:1px solid var(--line); background:#eee; display:block; min-height:60px; }
+  .prov { font-size:.75rem; color:var(--muted); margin-top:.6rem; }
+  .prov a { color:var(--accent); }
+  .more { margin:.8rem 0; }
+  .more button { font: inherit; font-size:.85rem; border:1px solid var(--line); background:#fff; border-radius:4px; padding:.2rem .6rem; cursor:pointer; color:var(--accent); }
+  article.np { opacity:.7; }
+  .dim { color:var(--muted); }
+  .empty { color:var(--muted); font-style:italic; padding:2rem 0; }
+  table.summary { border-collapse:collapse; font-size:.9rem; background:#fff; }
+  table.summary th, table.summary td { border:1px solid var(--line); padding:.2rem .5rem; text-align:right; }
+  table.summary th:first-child, table.summary td:first-child, table.summary td:nth-child(2), table.summary th:nth-child(2) { text-align:left; }
+  table.summary a { color:var(--accent); text-decoration:none; }
+  table.matrix { border-collapse:collapse; font-size:.74rem; background:#fff; }
+  table.matrix th, table.matrix td { border:1px solid var(--line); padding:.1rem .3rem; text-align:center; white-space:nowrap; }
+  table.matrix th { position:sticky; top:3rem; background:#f6f4ee; }
+  table.matrix td:first-child { text-align:left; position:sticky; left:0; background:#fff; }
+  table.matrix td:first-child a { color:var(--ink); text-decoration:none; }
+  table.matrix tr.grp td { background:#f6f4ee; text-align:left; font-weight:bold; }
+  table.matrix td a { color:var(--accent); text-decoration:none; }
+  table.matrix td a.np { color:var(--muted); }
+  table.matrix .dot { color:#ccc; }
+  .about { max-width:80ch; } .about p { margin:.4rem 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Sessional Papers of the Parliament of Canada, 1867–1900</h1>
+  <a href="#v=matrix">Series matrix</a>
+  <a href="#v=series">Series</a>
+  <button id="btn-random" title="Load random extracted papers from across the corpus">Random sample</button>
+  <a href="#v=about">About</a>
+  <span class="status" id="status"></span>
+</header>
+<main>
+  <nav id="years"></nav>
+  <section id="content"><div class="empty">Loading index…</div></section>
+</main>
+<script>
+(async function () {
+  const DATA = "data/";
+  const $ = (s, el = document) => el.querySelector(s);
+  const status = (t) => { $("#status").textContent = t || ""; };
+  const esc = (s) => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const sessionCache = new Map();
+  let index = {};
+  const KIND = { report:"Reports", statement:"Statements and lists", report_commission:"Commission reports", message:"Messages from the Governor General",
+    correspondence:"Correspondence and papers", return_to_order:"Returns to Orders of the House", return_to_address:"Returns to Addresses",
+    return_resolution:"Returns under resolution or standing order", other:"Other", uncatalogued:"Extracted papers not matched to the session list" };
+  const KIND_ORDER = ["report","statement","report_commission","message","correspondence","return_to_order","return_to_address","return_resolution","other","uncatalogued"];
+  const DISP = { printed_both:"printed for distribution and sessional papers", sessional_only:"printed in the sessional papers only",
+    distribution_only:"printed for distribution only", not_printed:"not printed", unknown:"" };
+  const short = (y) => y.includes("-") ? y.slice(2,4) + "/" + y.slice(-2) : y.slice(2);
+  const label = (sid) => (index.series.find(s => s.id === sid) || {label: sid}).label;
+  const viewer = (tag, p) => `https://www.canadiana.ca/view/${tag}/${p}`;
+
+  async function fetchGz(url) {
+    const r = await fetch(url);
+    if (!r.ok) throw new Error(`${url}: ${r.status}`);
+    const buf = new Uint8Array(await r.arrayBuffer());
+    try { return pako.ungzip(buf, { to: "string" }); }
+    catch (e) { return new TextDecoder().decode(buf); }
+  }
+  async function loadSession(y) {
+    if (sessionCache.has(y)) return sessionCache.get(y);
+    status(`loading ${y}…`);
+    const txt = await fetchGz(`${DATA}session_${y}.jsonl.gz`);
+    const recs = txt.split("\n").filter(Boolean).map(l => JSON.parse(l));
+    sessionCache.set(y, recs); status("");
+    return recs;
+  }
+
+  // --- rendering -------------------------------------------------------------------------
+  marked.setOptions({ gfm: true, breaks: false, mangle: false, headerIds: false });
+  function renderText(t) {
+    t = t.replace(/!\[([^\]]*)\]\([^)]*\)/g, (_, alt) => (!alt || /^(a )?(completely )?blank/i.test(alt)) ? "\n" : `\n<span class="imgnote">[image: ${esc(alt.slice(0,200))}]</span>\n`);
+    return marked.parse(t);
+  }
+  const inline = (t) => marked.parseInline(esc(t));          // **bold** in titles
+  function thumbs(r) {
+    const th = r.thumbs.map(p => {
+      const lab = `scan ${p.seq}${p.label ? " · " + esc(p.label) : ""}`;
+      const img = p.img ? `<img loading="lazy" src="${esc(p.img)}/full/,300/0/default.jpg" alt="${lab}">` : `<div class="dim" style="border:1px dashed var(--line);padding:.4rem">${lab}</div>`;
+      return `<a href="${viewer(p.tag, p.seq)}" target="_blank" title="open on canadiana.ca">${img}${lab}</a>`;
+    }).join("");
+    const more = r.n_pages > r.thumbs.length && r.sources.length ? `<a href="${viewer(r.sources[0].tag, r.sources[0].page_start)}" target="_blank">all ${r.n_pages} pages on canadiana.ca →</a>` : "";
+    return th + more;
+  }
+  function chips(r) {
+    const c = [];
+    if (r.series) c.push(`<a class="chip sec" href="#s=${r.series}">${esc(label(r.series))}</a>`);
+    for (const e of r.contains) c.push(`<a class="chip emb" href="#s=${e}" title="embedded sub-report or appendix">+ ${esc(label(e))}</a>`);
+    if (r.disposition === "not_printed") c.push(`<span class="chip">not printed</span>`);
+    if (r.extracted) c.push(`<span class="chip txt">text · ${r.chars.toLocaleString()} chars</span>`);
+    return c.join("");
+  }
+  function articleEl(r, extra = "") {
+    const pages = r.sources.map(s => `<a href="${viewer(s.tag, s.page_start)}" target="_blank" title="${esc(s.tag)}">pp. ${s.page_start}–${s.page_end}</a>`).join("");
+    const el = document.createElement("article");
+    el.className = (r.extracted ? "has" : "") + (r.disposition === "not_printed" ? " np" : ""); el.id = "p-" + r.id.replace(/[^\w-]/g, "_");
+    el.innerHTML = `${extra}
+      <div class="head">
+        <div class="n">${esc(r.num)}</div>
+        <div><div class="title">${r.subject ? `<b>${inline(r.subject)}</b> — ` : ""}${inline(r.title)}</div>
+          <div class="meta">${chips(r)}${r.presented ? " · presented " + esc(r.presented) : ""}${r.mover ? " by " + esc(r.mover) : ""}</div></div>
+        <div class="pages">${pages}</div>
+      </div>
+      <div class="body"></div>`;
+    if (r.extracted) $(".head", el).addEventListener("click", (e) => { if (e.target.tagName !== "A") toggle(el, r); });
+    return el;
+  }
+  async function loadPart(r, n, into) {
+    status(`loading ${r.id} part ${n}/${r.parts}…`);
+    const md = await fetchGz(`${DATA}text/${r.id}.${n}.md.gz`);
+    const div = document.createElement("div"); div.innerHTML = renderText(md);
+    into.appendChild(div);
+    if (n < r.parts) {
+      const more = document.createElement("div"); more.className = "more";
+      more.innerHTML = `<button>Load part ${n + 1} of ${r.parts}</button>`;
+      $("button", more).onclick = () => { more.remove(); loadPart(r, n + 1, into); };
+      into.appendChild(more);
+    }
+    status("");
+  }
+  function toggle(el, r, force) {
+    const open = force ?? !el.classList.contains("open");
+    el.classList.toggle("open", open);
+    const body = $(".body", el);
+    if (open && !body.dataset.done) {
+      body.dataset.done = 1;
+      const src = r.sources.map(s => `<a href="${viewer(s.tag, s.page_start)}" target="_blank">${esc(s.tag)}</a> pp. ${s.page_start}–${s.page_end}${s.method ? " (" + esc(s.method) + ")" : ""}`).join("; ");
+      body.innerHTML = `<div class="text"><div class="prov">${esc(r.id)} · ${DISP[r.disposition] || ""}${r.department ? " · " + esc(r.department) : ""} · OCR text (Chandra 2, uncorrected) · ${src}</div><div class="parts"></div></div>
+        <div class="thumbs">${thumbs(r)}</div>`;
+      if (r.parts > 0) loadPart(r, 1, $(".parts", body)); else $(".parts", body).innerHTML = `<div class="empty">No text file for this paper.</div>`;
+    }
+  }
+
+  // --- views -------------------------------------------------------------------------------
+  function showYears(current) {
+    $("#years").innerHTML = `<a href="#v=sessions" class="${current === "sessions" ? "on" : ""}">All<small>sessions</small></a>` +
+      index.sessions.map(s => `<a href="#y=${s.year}" class="${s.year === current ? "on" : ""}">${s.year}<small>${s.printed}</small></a>`).join("");
+    const on = $("#years a.on"); if (on) on.scrollIntoView({ block: "nearest" });
+  }
+  function groupBy(recs, key) { const m = new Map(); for (const r of recs) { const k = key(r); if (!m.has(k)) m.set(k, []); m.get(k).push(r); } return m; }
+
+  function showSessions() {
+    showYears("sessions"); $("#content").className = "";
+    const t = index.totals;
+    $("#content").innerHTML = `<h2>Sessions 1–34, 1867–1900</h2>
+      <div class="toolbar"><span>${t.entries.toLocaleString()} entries in the reconciled session lists · ${t.extracted.toLocaleString()} papers extracted so far from ${t.volumes_ingested} of ${t.volumes_total} Canadiana volumes · click a session, or see the <a href="#v=matrix">series matrix</a></span></div>
+      <table class="summary"><tr><th>#</th><th>Session</th><th>Entries</th><th>Printed</th><th>Not printed</th><th>Reports &amp; statements</th><th>Returns (printed)</th><th>Extracted</th><th>Text (M chars)</th></tr>
+      ${index.sessions.map(s => `<tr><td>${s.seq}</td><td><a href="#y=${s.year}">${s.year}</a></td><td>${s.entries}</td><td>${s.printed}</td><td class="dim">${s.not_printed}</td><td>${s.reports}</td><td>${s.returns}</td><td>${s.extracted}</td><td>${(s.chars/1e6).toFixed(1)}</td></tr>`).join("")}
+      </table>
+      <p class="dim" style="font-size:.85rem">"Printed" = the list does not mark the paper <i>not printed</i>; pre-1885 lists give no disposition for printed papers. The 1875 list carries garbage in positions 1–7 (an ingest defect). Series labels come from regular expressions over the subject heading and the leading clause of the title; the not-printed flag is occasionally wrong on annual reports.</p>`;
+  }
+  async function showSession(y, focus) {
+    showYears(y); $("#content").className = "";
+    const s = index.sessions.find(x => x.year === y);
+    if (!s) { $("#content").innerHTML = `<div class="empty">No such session.</div>`; return; }
+    const recs = await loadSession(y);
+    const printed = recs.filter(r => r.disposition !== "not_printed"), np = recs.filter(r => r.disposition === "not_printed");
+    const i = index.sessions.indexOf(s), prev = index.sessions[i - 1], next = index.sessions[i + 1];
+    const c = $("#content");
+    c.innerHTML = `<h2>Session ${s.seq} · ${y}</h2>
+      <div class="toolbar">
+        <span>${recs.length} entries · ${printed.length} printed · ${s.extracted} with text · ${(s.chars/1e6).toFixed(1)}M chars</span>
+        ${s.volumes.length ? `<span>volumes ingested: ${s.volumes.map(v => `<a href="${viewer(v.tag, 1)}" target="_blank">${v.volume}${v.part ? "·" + v.part : ""}</a>`).join(" ")}</span>` : ""}
+        <button id="expand">Expand all with text</button><button id="collapse">Collapse all</button>
+        <label><input type="checkbox" id="shownp"> show not-printed entries (${np.length})</label>
+        <span style="margin-left:auto">${prev ? `<a href="#y=${prev.year}">← ${prev.year}</a>` : ""} ${next ? `<a href="#y=${next.year}">${next.year} →</a>` : ""}</span>
+      </div><div id="list"></div>`;
+    const list = $("#list"); const els = [];
+    const add = (r) => { const el = articleEl(r); els.push([el, r]); list.appendChild(el); return el; };
+    const ser = printed.filter(r => r.series);
+    if (ser.length) {
+      list.insertAdjacentHTML("beforeend", `<h3>Departmental reports and recurring statements <span class="dim">(${ser.length})</span></h3>`);
+      const order = index.series.map(x => x.id);
+      for (const [grp, glabel] of Object.entries(index.groups)) {
+        const g = ser.filter(r => (index.series.find(x => x.id === r.series) || {}).group === grp).sort((a, b) => order.indexOf(a.series) - order.indexOf(b.series));
+        if (!g.length) continue;
+        list.insertAdjacentHTML("beforeend", `<h4>${esc(glabel)}</h4>`); g.forEach(add);
+      }
+    }
+    const rest = groupBy(printed.filter(r => !r.series), r => r.kind);
+    for (const k of KIND_ORDER) { const g = rest.get(k); if (!g) continue;
+      list.insertAdjacentHTML("beforeend", `<h3>${KIND[k]} <span class="dim">(${g.length})</span></h3>`); g.forEach(add); }
+    if (np.length) {
+      const h = document.createElement("h3"); h.innerHTML = `Not printed <span class="dim">(${np.length}; titles from the list only)</span>`; h.hidden = true; h.className = "nph"; list.appendChild(h);
+      np.forEach(r => { add(r).hidden = true; });
+    }
+    $("#expand").onclick = () => els.forEach(([el, r]) => r.extracted && !el.hidden && toggle(el, r, true));
+    $("#collapse").onclick = () => els.forEach(([el]) => el.classList.remove("open"));
+    $("#shownp").onchange = (e) => { $(".nph", list).hidden = !e.target.checked; els.forEach(([el, r]) => { if (r.disposition === "not_printed") el.hidden = !e.target.checked; }); };
+    if (focus) { const el = document.getElementById("p-" + focus.replace(/[^\w-]/g, "_")); if (el) { const r = recs.find(x => x.id === focus); if (el.hidden) { $("#shownp").checked = true; $("#shownp").onchange({target:{checked:true}}); } if (r && r.extracted) toggle(el, r, true); el.scrollIntoView(); el.style.outline = "2px solid var(--accent)"; } }
+  }
+  function matrixTable(m, rowsLabel, minSessions) {
+    const years = index.years;
+    let html = `<table class="matrix"><tr><th>${rowsLabel}</th>${years.map(y => `<th title="${y}">${short(y)}</th>`).join("")}<th>n</th></tr>`;
+    let cur = null;
+    for (const s of index.series) {
+      const row = m[s.id]; if (!row) continue;
+      const n = Object.keys(row).length; if (n < minSessions) continue;
+      if (s.group !== cur) { cur = s.group; html += `<tr class="grp"><td colspan="${years.length + 2}">${esc(index.groups[cur])}</td></tr>`; }
+      html += `<tr><td><a href="#s=${s.id}">${esc(s.label)}</a></td>` + years.map(y => {
+        const cells = row[y]; if (!cells) return `<td><span class="dot">·</span></td>`;
+        return `<td>${cells.slice(0, 3).map(([num, ext, np, title]) => `<a class="${np ? "np" : ""}" href="#y=${y}&p=${encodeURIComponent(y + "_" + num)}" title="${esc(title)}">${esc(num)}${np ? "*" : ""}</a>`).join(" ")}${cells.length > 3 ? "…" : ""}</td>`;
+      }).join("") + `<td>${n}</td></tr>`;
+    }
+    return html + "</table>";
+  }
+  function showMatrix() {
+    showYears(null); $("#content").className = "wide";
+    $("#content").innerHTML = `<h2>Recurring series by session</h2>
+      <div class="toolbar"><span>Columns are sessions (two-digit year; 80/81 = 1880–81, 96ii = second session of 1896). Cells give the paper number in that session's list; <code>*</code> = the list says not printed. Hover for the title, click to open the paper in its session.</span></div>
+      ${matrixTable(index.matrix, "Series (primary classification)", 1)}
+      <h3>Series embedded as sub-reports or appendices inside another paper</h3>
+      <div class="toolbar"><span>Catalog titles concatenate a paper with its appendices and supplements. Cells give the host paper. This is where the Indian Branch lives inside Secretary of State for the Provinces (1869–73) and Interior (1874–79), Fisheries inside Marine, Criminal Statistics and Archives inside Agriculture, and the Estimates inside Public Accounts.</span></div>
+      ${matrixTable(index.embedded, "Embedded series", 2)}`;
+  }
+  function showSeriesIndex() {
+    showYears(null); $("#content").className = "";
+    let html = `<h2>Recurring series</h2><div class="toolbar"><span>Departmental annual reports and statutory statements that recur across sessions, by portfolio. Counts are papers whose primary classification is the series, plus host papers that carry it as a sub-report.</span></div>`;
+    let cur = null;
+    for (const s of index.series) {
+      const m = index.matrix[s.id] || {}, e = index.embedded[s.id] || {};
+      const ys = Object.keys(m), n = Object.values(m).reduce((a, c) => a + c.length, 0), ne = Object.values(e).reduce((a, c) => a + c.length, 0);
+      if (s.group !== cur) { cur = s.group; html += `<h3>${esc(index.groups[cur])}</h3>`; }
+      html += `<div style="padding:.15rem 0"><a href="#s=${s.id}" style="color:var(--accent);text-decoration:none">${esc(s.label)}</a> <span class="dim" style="font-size:.85rem">${n} papers in ${ys.length} sessions${ys.length ? ` ${ys[0]}–${ys[ys.length - 1]}` : ""}${ne ? `; embedded in ${ne}` : ""}</span></div>`;
+    }
+    $("#content").innerHTML = html;
+  }
+  async function showSeries(sid) {
+    showYears(null); $("#content").className = "";
+    const s = index.series.find(x => x.id === sid); if (!s) { $("#content").innerHTML = `<div class="empty">No such series.</div>`; return; }
+    const m = index.matrix[sid] || {}, e = index.embedded[sid] || {};
+    const years = index.years.filter(y => m[y] || e[y]);
+    const c = $("#content");
+    c.innerHTML = `<h2><a href="#v=series">Series</a> › ${esc(s.label)}</h2><div class="toolbar"><span>${esc(index.groups[s.group])} · ${years.length} sessions</span><button id="expand">Expand all with text</button><button id="collapse">Collapse all</button></div><div id="list"></div>`;
+    const list = $("#list"); const els = [];
+    for (const y of years) {
+      const recs = await loadSession(y);
+      const prim = recs.filter(r => r.series === sid), emb = recs.filter(r => r.series !== sid && r.contains.includes(sid) && ["report","statement","other"].includes(r.kind));
+      list.insertAdjacentHTML("beforeend", `<h3><a href="#y=${y}" style="color:var(--accent);text-decoration:none">${y}</a></h3>`);
+      for (const r of prim) { const el = articleEl(r); els.push([el, r]); list.appendChild(el); }
+      for (const r of emb) { const el = articleEl(r, `<div class="dim" style="font-size:.8rem;padding:.3rem .8rem 0">embedded in:</div>`); els.push([el, r]); list.appendChild(el); }
+    }
+    $("#expand").onclick = () => els.forEach(([el, r]) => r.extracted && toggle(el, r, true));
+    $("#collapse").onclick = () => els.forEach(([el]) => el.classList.remove("open"));
+  }
+  async function showRandom(n = 10) {
+    showYears(null); $("#content").className = "";
+    $("#content").innerHTML = `<h2>Random sample</h2><div class="toolbar"><span>${n} extracted papers drawn across the corpus, weighted by count, opened at their first part. Press the button again for a new draw.</span></div><div id="list"></div>`;
+    const weights = index.sessions.map(s => [s.year, s.extracted]); const total = weights.reduce((a, [, w]) => a + w, 0);
+    const list = $("#list");
+    for (let i = 0; i < n; i++) {
+      let r = Math.random() * total, y = weights[weights.length - 1][0];
+      for (const [yy, w] of weights) { if ((r -= w) <= 0) { y = yy; break; } }
+      const recs = (await loadSession(y)).filter(x => x.extracted); if (!recs.length) continue;
+      const rec = recs[Math.floor(Math.random() * recs.length)];
+      const el = articleEl(rec, `<div class="dim" style="font-size:.82rem;padding:.3rem .8rem 0"><a href="#y=${y}&p=${encodeURIComponent(rec.id)}" style="color:var(--accent)">${y}</a></div>`);
+      list.appendChild(el); toggle(el, rec, true);
+    }
+  }
+  function showAbout() {
+    showYears(null); $("#content").className = "";
+    const t = index.totals;
+    $("#content").innerHTML = `<h2>About</h2><div class="about">
+      <p>The Sessional Papers of the Parliament of Canada are the printed annual reports, returns and statements laid before Parliament each session. This viewer covers sessions 1–34 (1867–1900), digitised by Canadiana as series <code>oocihm.9_08052</code> in 372 bound volumes, OCR'd with Chandra 2.</p>
+      <p>Every volume reprints the session's <i>List of Sessional Papers</i>; the copies are majority-voted per session to repair OCR damage, giving the ${t.entries.toLocaleString()} catalog entries shown here, including the papers the list marks <i>not printed</i>. ${t.extracted.toLocaleString()} papers have so far been cut from the ${t.volumes_ingested} ingested volumes and carry their text, uncorrected, with links to the page images on canadiana.ca.</p>
+      <p>Series labels (Public Accounts, Indian Affairs, Trade and Navigation, …) are a first-pass rule classification over the subject heading and the leading clause of each title; "embedded" chips mark series that appear as a sub-report or appendix inside another paper. Build: <code>build/sessional_series_by_year.py</code> → <code>build/gen_sessional_site.py</code> in the Canada50 repository.</p>
+      <p>Known defects: the 1875 list begins with seven garbage entries; the not-printed flag is sometimes wrong on annual reports; paper boundaries in the text are interpolated from image anchors and can be off by a page or two.</p></div>`;
+  }
+
+  // --- routing -----------------------------------------------------------------------------
+  async function route() {
+    const q = new URLSearchParams(location.hash.slice(1));
+    try {
+      if (q.get("r") === "random") await showRandom();
+      else if (q.get("v") === "matrix") showMatrix();
+      else if (q.get("v") === "series") showSeriesIndex();
+      else if (q.get("v") === "about") showAbout();
+      else if (q.get("s")) await showSeries(q.get("s"));
+      else if (q.get("y")) await showSession(q.get("y"), q.get("p"));
+      else showSessions();
+    } catch (e) { $("#content").innerHTML = `<div class="empty">${esc(e.message)}</div>`; status(""); }
+    if (!new URLSearchParams(location.hash.slice(1)).get("p")) window.scrollTo(0, 0);
+  }
+  $("#btn-random").onclick = () => { if (location.hash === "#r=random") route(); else location.hash = "r=random"; };
+  window.addEventListener("hashchange", route);
+  try { index = await (await fetch(`${DATA}index.json`)).json(); }
+  catch (e) { $("#content").innerHTML = `<div class="empty">Could not load ${DATA}index.json — serve this directory over HTTP: <code>python3 -m http.server -d site_sessional 8001</code>, then open <code>http://localhost:8001/</code>.</div>`; return; }
+  route();
+})();
+</script>
+</body>
+</html>
